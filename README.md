@@ -58,13 +58,51 @@ The folder name is the slug.
   their identity, and never double-counts their volume.
 - `links` is optional: `website`, `x`, `discord`.
 
+### Primary membership vs cameos
+
+An asset's **primary** membership is an unflagged entry in a canonical
+collection — there is exactly one per asset, and CI enforces it. If your
+collection includes an asset whose home is elsewhere (a crossover card, a
+game item borrowed from another set), keep it — flag it as a cameo:
+
+```json
+{ "asset": "SATOSHICARD", "cameo": true }
+```
+
+The primary is almost always the collection that was here first; CI tells
+you exactly which entry to flag when it finds a clash. Entries in curated
+collections never claim a home, so they need no flag.
+
+### Rule-defined membership
+
+A curated collection may define its members by a rule instead of a list —
+`where` in place of `assets`:
+
+```json
+{
+  "name": "Pre-Ethereum",
+  "kind": "curated",
+  "description": "Curated assets issued before Ethereum's genesis block.",
+  "where": { "issued_before_block": 367561 }
+}
+```
+
+The rule is resolved by the marketplace against the assets already in this
+repo's canonical collections — it is a lens over the curation, not a query
+over the whole chain. Predicates: `issued_before_block`,
+`issued_after_block`, `collection_in` (slugs), `issuer_in` (addresses),
+`trait` (`{ "trait_type", "value" }`), `explorer_tag` (a classifier our
+explorer computes, e.g. `"stamp"`). Multiple predicates AND together.
+Canonical collections always enumerate their assets.
+
 ## Rules
 
 1. **Canonical ids only.** Subasset longnames are display metadata, never
    keys.
 2. **One canonical home per asset.** An asset may appear in any number of
-   curated collections, but exactly one canonical collection. The
-   marketplace build fails on cross-canonical duplicates.
+   curated collections and as a `cameo` in other canonical ones, but it
+   has exactly one primary membership. CI fails the PR otherwise and names
+   the entry to flag.
 3. **Membership and metadata only.** No chain data, no market data, no
    operational flags — if the chain or the marketplace can derive it, it
    does not belong here.
@@ -77,7 +115,9 @@ The folder name is the slug.
 
 Open a PR adding `collections/<slug>/meta.json` (icon and logo welcome).
 Keep the description to one or two sentences, and say in the PR where the
-asset list comes from.
+asset list comes from. CI validates the format, canonical asset ids, and
+membership consistency on every PR (`.github/validate.mjs` — run it
+locally with `node .github/validate.mjs`).
 
 ## Wanted
 

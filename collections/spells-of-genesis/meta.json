@@ -788,6 +788,10 @@
     },
     {
       "asset": "SARUTOBICARD"
+    },
+    {
+      "asset": "FWSDLTHEMONC",
+      "cameo": true
     }
   ]
 }
