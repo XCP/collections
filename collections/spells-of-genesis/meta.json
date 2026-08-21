@@ -1,0 +1,793 @@
+{
+  "name": "Spells of Genesis",
+  "kind": "canonical",
+  "description": "The first blockchain game cards, issued from 2015.",
+  "assets": [
+    {
+      "asset": "KINGHURIENK"
+    },
+    {
+      "asset": "SOGTERRALUNA"
+    },
+    {
+      "asset": "SOGTHEARCHER"
+    },
+    {
+      "asset": "SOGSALVADOR"
+    },
+    {
+      "asset": "SOGMETA"
+    },
+    {
+      "asset": "SOGHALFINNEY"
+    },
+    {
+      "asset": "SOGELONMUSK"
+    },
+    {
+      "asset": "SOGMUSHEGIAN"
+    },
+    {
+      "asset": "SOGCRYPTOW"
+    },
+    {
+      "asset": "SOGETHMERGE"
+    },
+    {
+      "asset": "SOGWAKWELI"
+    },
+    {
+      "asset": "SOGBEEP"
+    },
+    {
+      "asset": "YODARK"
+    },
+    {
+      "asset": "SOGSHOCKW"
+    },
+    {
+      "asset": "SOGBITHOTEL"
+    },
+    {
+      "asset": "SOGCOINB"
+    },
+    {
+      "asset": "SOGMOONCATS"
+    },
+    {
+      "asset": "BADROMANCE"
+    },
+    {
+      "asset": "FORKCARD"
+    },
+    {
+      "asset": "CRYSTALIBUR"
+    },
+    {
+      "asset": "SADICARD"
+    },
+    {
+      "asset": "JEWELDRAGONS"
+    },
+    {
+      "asset": "LTCDRAGON"
+    },
+    {
+      "asset": "SOGWINTER"
+    },
+    {
+      "asset": "BULLWHALE"
+    },
+    {
+      "asset": "ELFMONSTERKI"
+    },
+    {
+      "asset": "GRAVIGASSCAR"
+    },
+    {
+      "asset": "CHARGEELITE"
+    },
+    {
+      "asset": "VISCULADRAGO"
+    },
+    {
+      "asset": "PRINCEOFWINT"
+    },
+    {
+      "asset": "PROSSESSORFL"
+    },
+    {
+      "asset": "OUTRAGIOUSWA"
+    },
+    {
+      "asset": "PIRANHAMANIP"
+    },
+    {
+      "asset": "VISCULAMANTI"
+    },
+    {
+      "asset": "MONSTERDEPTH"
+    },
+    {
+      "asset": "TROLLDEPTHS"
+    },
+    {
+      "asset": "SCORPIGAS"
+    },
+    {
+      "asset": "INFECTEDSORM"
+    },
+    {
+      "asset": "CRYSTALREFIN"
+    },
+    {
+      "asset": "WIZARDTROLL"
+    },
+    {
+      "asset": "DEVASTATINGM"
+    },
+    {
+      "asset": "GRIFFINMASTE"
+    },
+    {
+      "asset": "HUNGRYAMPHIB"
+    },
+    {
+      "asset": "ELFSAGE"
+    },
+    {
+      "asset": "VISCULAFROZE"
+    },
+    {
+      "asset": "ITLANEXPERTD"
+    },
+    {
+      "asset": "WEANARAASSAS"
+    },
+    {
+      "asset": "VISCULATICK"
+    },
+    {
+      "asset": "TROLLBERSERK"
+    },
+    {
+      "asset": "VISCULASCARA"
+    },
+    {
+      "asset": "CORRUPTEDTRO"
+    },
+    {
+      "asset": "ROYALDEER"
+    },
+    {
+      "asset": "CENTAURARCHE"
+    },
+    {
+      "asset": "VIGILANTWATE"
+    },
+    {
+      "asset": "WATERELFADMI"
+    },
+    {
+      "asset": "REINFORCEMEN"
+    },
+    {
+      "asset": "HARBINGERDEA"
+    },
+    {
+      "asset": "WISETHRAL"
+    },
+    {
+      "asset": "PRINCEAUTUMN"
+    },
+    {
+      "asset": "DOGENHANCER"
+    },
+    {
+      "asset": "QUEENSHEALER"
+    },
+    {
+      "asset": "WATERSPEARFI"
+    },
+    {
+      "asset": "DARKCHALCOSI"
+    },
+    {
+      "asset": "POWERSCATTER"
+    },
+    {
+      "asset": "ICEGOLEM"
+    },
+    {
+      "asset": "ORCSASSAULT"
+    },
+    {
+      "asset": "PRINCESSSUMM"
+    },
+    {
+      "asset": "CAMILACARD"
+    },
+    {
+      "asset": "LRIKTHEFIGHT"
+    },
+    {
+      "asset": "LEVIOTHAN"
+    },
+    {
+      "asset": "CCMCARD"
+    },
+    {
+      "asset": "BLOCKSIZECD"
+    },
+    {
+      "asset": "XAJIBOSS"
+    },
+    {
+      "asset": "BCYDRAGON"
+    },
+    {
+      "asset": "FROZENCOLOSS"
+    },
+    {
+      "asset": "SAYOSIATAX"
+    },
+    {
+      "asset": "BLOCKTRAILCD"
+    },
+    {
+      "asset": "KRAKENCARD"
+    },
+    {
+      "asset": "SOGHARELORD"
+    },
+    {
+      "asset": "MUSHROOMSIMP"
+    },
+    {
+      "asset": "WHEREBCYCARD"
+    },
+    {
+      "asset": "ETHXCPCARD"
+    },
+    {
+      "asset": "SOGVENERIS"
+    },
+    {
+      "asset": "SPRINGSDAWN"
+    },
+    {
+      "asset": "WISEWIZARD"
+    },
+    {
+      "asset": "CALABASTER"
+    },
+    {
+      "asset": "SOGWEREWOLF"
+    },
+    {
+      "asset": "SORCERERAKAM"
+    },
+    {
+      "asset": "DIMITRICARD"
+    },
+    {
+      "asset": "VISCULACENTI"
+    },
+    {
+      "asset": "HERBODCARD"
+    },
+    {
+      "asset": "BADWOLF"
+    },
+    {
+      "asset": "SIACARD"
+    },
+    {
+      "asset": "VISCULAFIREF"
+    },
+    {
+      "asset": "LALABASTER"
+    },
+    {
+      "asset": "MAMAGRUN"
+    },
+    {
+      "asset": "KINGREINDEER"
+    },
+    {
+      "asset": "KAYLAGRUN"
+    },
+    {
+      "asset": "RIDANCARD"
+    },
+    {
+      "asset": "GASTADGRUN"
+    },
+    {
+      "asset": "QUIRINCARD"
+    },
+    {
+      "asset": "TINYGRUN"
+    },
+    {
+      "asset": "WATERANGEL"
+    },
+    {
+      "asset": "TROYGRUN"
+    },
+    {
+      "asset": "FIREANGEL"
+    },
+    {
+      "asset": "MAYALCARD"
+    },
+    {
+      "asset": "TALISMANCARD"
+    },
+    {
+      "asset": "BEARWHALECD"
+    },
+    {
+      "asset": "EALABASTER"
+    },
+    {
+      "asset": "LYSANDERCARD"
+    },
+    {
+      "asset": "BEARSPIRIT"
+    },
+    {
+      "asset": "SOGHALLOWEEN"
+    },
+    {
+      "asset": "MARKETACARD"
+    },
+    {
+      "asset": "BALABASTER"
+    },
+    {
+      "asset": "CARNIATHCELE"
+    },
+    {
+      "asset": "XAJIBESAAR"
+    },
+    {
+      "asset": "SATOSHILITE"
+    },
+    {
+      "asset": "GUMMYYUMMY"
+    },
+    {
+      "asset": "SGDARKNESS"
+    },
+    {
+      "asset": "FIERCERABBIT"
+    },
+    {
+      "asset": "DIVINEKNIGHT"
+    },
+    {
+      "asset": "THEWATCHER"
+    },
+    {
+      "asset": "WTRSUCCUBUS"
+    },
+    {
+      "asset": "SOGWILDHORSE"
+    },
+    {
+      "asset": "SOGWHTDRAGON"
+    },
+    {
+      "asset": "JAYACARD"
+    },
+    {
+      "asset": "ROYALGRIFFIN"
+    },
+    {
+      "asset": "MAYACARD"
+    },
+    {
+      "asset": "STAGWARRIOR"
+    },
+    {
+      "asset": "PIXIECARD"
+    },
+    {
+      "asset": "SAPPHIREELF"
+    },
+    {
+      "asset": "BCINVESTCARD"
+    },
+    {
+      "asset": "BITCOINMAGCD"
+    },
+    {
+      "asset": "ROOSTERYEAR"
+    },
+    {
+      "asset": "PRINCESSSPRI"
+    },
+    {
+      "asset": "FAIRYTALESHA"
+    },
+    {
+      "asset": "VANBEXCARD"
+    },
+    {
+      "asset": "WATERSCARD"
+    },
+    {
+      "asset": "DAOSOGCARD"
+    },
+    {
+      "asset": "ICEUNICORN"
+    },
+    {
+      "asset": "EDSCARD"
+    },
+    {
+      "asset": "VIRBULOSELIT"
+    },
+    {
+      "asset": "XAJIYEREMAAR"
+    },
+    {
+      "asset": "VISCULABEETL"
+    },
+    {
+      "asset": "QUEENSVIRBUL"
+    },
+    {
+      "asset": "BITCOINCOMCD"
+    },
+    {
+      "asset": "WARRIOROBSCU"
+    },
+    {
+      "asset": "LAMUSECARD"
+    },
+    {
+      "asset": "TREZORCD"
+    },
+    {
+      "asset": "ERAOL"
+    },
+    {
+      "asset": "DEALERFLAMES"
+    },
+    {
+      "asset": "REINFORCEDOC"
+    },
+    {
+      "asset": "ENCHANTEDSHI"
+    },
+    {
+      "asset": "DEVASTATINGT"
+    },
+    {
+      "asset": "SLASHINGCRIR"
+    },
+    {
+      "asset": "OVERARMEDDWA"
+    },
+    {
+      "asset": "HEAVENLYSHEP"
+    },
+    {
+      "asset": "CARNIATHCREA"
+    },
+    {
+      "asset": "BTCMEETUPCD"
+    },
+    {
+      "asset": "YELLOWSHAMAN"
+    },
+    {
+      "asset": "TRANSCENDEN"
+    },
+    {
+      "asset": "PAPIIGAS"
+    },
+    {
+      "asset": "TRIDENTQUEEN"
+    },
+    {
+      "asset": "ITLANKINGGAR"
+    },
+    {
+      "asset": "GUARDIANSOUR"
+    },
+    {
+      "asset": "CARDMERCHANT"
+    },
+    {
+      "asset": "DARKAODH"
+    },
+    {
+      "asset": "WARRIORLUMIN"
+    },
+    {
+      "asset": "ZAIFCARD"
+    },
+    {
+      "asset": "XAJIBASILAAR"
+    },
+    {
+      "asset": "XCPCARD"
+    },
+    {
+      "asset": "CROWWARRIOR"
+    },
+    {
+      "asset": "SELENACARD"
+    },
+    {
+      "asset": "SHIELDWALLCD"
+    },
+    {
+      "asset": "MAIDSAFECD"
+    },
+    {
+      "asset": "XAJIARKETAAR"
+    },
+    {
+      "asset": "VISCULALADYB"
+    },
+    {
+      "asset": "BROTHERFOX"
+    },
+    {
+      "asset": "GRIDCOINCARD"
+    },
+    {
+      "asset": "MIGHTYSTORK"
+    },
+    {
+      "asset": "DRACOMANCER"
+    },
+    {
+      "asset": "GIANTCARD"
+    },
+    {
+      "asset": "KARMACARD"
+    },
+    {
+      "asset": "PRINCEOFICE"
+    },
+    {
+      "asset": "XULNOCCARD"
+    },
+    {
+      "asset": "THEMESSENGER"
+    },
+    {
+      "asset": "VICTORIACARD"
+    },
+    {
+      "asset": "DISTRICTOXCD"
+    },
+    {
+      "asset": "BARDCARD"
+    },
+    {
+      "asset": "KEEPKEYCARD"
+    },
+    {
+      "asset": "EMERALDCARD"
+    },
+    {
+      "asset": "RUBYCARD"
+    },
+    {
+      "asset": "GOLEMCARD"
+    },
+    {
+      "asset": "HARPIESCARD"
+    },
+    {
+      "asset": "CARDAMBER"
+    },
+    {
+      "asset": "SAPPHIRECARD"
+    },
+    {
+      "asset": "WAVESCARD"
+    },
+    {
+      "asset": "BTCDRAGONCD"
+    },
+    {
+      "asset": "WAGATECARD"
+    },
+    {
+      "asset": "GENOFLIGHT"
+    },
+    {
+      "asset": "SOGBCYBOX"
+    },
+    {
+      "asset": "WEASELSCARD"
+    },
+    {
+      "asset": "PURPLEDRAGON"
+    },
+    {
+      "asset": "FLYINGBLAZE"
+    },
+    {
+      "asset": "POLYMATHCARD"
+    },
+    {
+      "asset": "DARYENCARD"
+    },
+    {
+      "asset": "XAJIJASPAAR"
+    },
+    {
+      "asset": "BAZAARCARD"
+    },
+    {
+      "asset": "LTBCARD"
+    },
+    {
+      "asset": "COINOFLITECD"
+    },
+    {
+      "asset": "SJCXCARD"
+    },
+    {
+      "asset": "SHUMAICARD"
+    },
+    {
+      "asset": "SOGLAUNCHCD"
+    },
+    {
+      "asset": "MYSTRSMAID"
+    },
+    {
+      "asset": "WOODMONSTER"
+    },
+    {
+      "asset": "SYLVANELF"
+    },
+    {
+      "asset": "TROLLSCLUBCD"
+    },
+    {
+      "asset": "WAARTHCARD"
+    },
+    {
+      "asset": "TATIANACARD"
+    },
+    {
+      "asset": "HUNTERCARD"
+    },
+    {
+      "asset": "BTCCCOINCARD"
+    },
+    {
+      "asset": "BITSHARESCD"
+    },
+    {
+      "asset": "SORCERESSCD"
+    },
+    {
+      "asset": "DARKSTATUE"
+    },
+    {
+      "asset": "CARDAIRBITZ"
+    },
+    {
+      "asset": "GOBLINCARD"
+    },
+    {
+      "asset": "MINERCARD"
+    },
+    {
+      "asset": "CARDASTEMA"
+    },
+    {
+      "asset": "CARDAUGUR"
+    },
+    {
+      "asset": "DASHCD"
+    },
+    {
+      "asset": "GOXCARD"
+    },
+    {
+      "asset": "BITCOINISTCD"
+    },
+    {
+      "asset": "SLACKCARD"
+    },
+    {
+      "asset": "DOGECOINCARD"
+    },
+    {
+      "asset": "ETHERMAGE"
+    },
+    {
+      "asset": "BTCCFORGECD"
+    },
+    {
+      "asset": "MOTHERBIRD"
+    },
+    {
+      "asset": "FACTOMCD"
+    },
+    {
+      "asset": "CRAZYLOLA"
+    },
+    {
+      "asset": "COINDESKCARD"
+    },
+    {
+      "asset": "COINPORTALCD"
+    },
+    {
+      "asset": "CROWCARD"
+    },
+    {
+      "asset": "SHOPKEEPERCD"
+    },
+    {
+      "asset": "NEMCARD"
+    },
+    {
+      "asset": "GNOMECARD"
+    },
+    {
+      "asset": "PEACOCKCARD"
+    },
+    {
+      "asset": "SCARECROWCD"
+    },
+    {
+      "asset": "EMERALDETHER"
+    },
+    {
+      "asset": "CYCLOPSCARD"
+    },
+    {
+      "asset": "FOOTSOLDIER"
+    },
+    {
+      "asset": "WATERSCOURT"
+    },
+    {
+      "asset": "FDCARD"
+    },
+    {
+      "asset": "SWARMCD"
+    },
+    {
+      "asset": "CLEFCARD"
+    },
+    {
+      "asset": "GEMZCARD"
+    },
+    {
+      "asset": "SHAPESHIFTCD"
+    },
+    {
+      "asset": "ETHEREUMCARD"
+    },
+    {
+      "asset": "RIPPLECARD"
+    },
+    {
+      "asset": "GENESISCARD"
+    },
+    {
+      "asset": "CNPCARD"
+    },
+    {
+      "asset": "SATOSHICARD"
+    },
+    {
+      "asset": "SARUTOBICARD"
+    }
+  ]
+}

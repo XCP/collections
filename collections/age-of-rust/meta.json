@@ -1,0 +1,37 @@
+{
+  "name": "Age of Rust",
+  "kind": "canonical",
+  "description": "In-game cards for the Age of Rust universe, issued on Counterparty in 2017.",
+  "assets": [
+    {
+      "asset": "ROGUEMECH"
+    },
+    {
+      "asset": "FGTNWASTELND"
+    },
+    {
+      "asset": "THEBOUNTY"
+    },
+    {
+      "asset": "GHOSTPILOT"
+    },
+    {
+      "asset": "MECHRUNNERS"
+    },
+    {
+      "asset": "THEORIGIN"
+    },
+    {
+      "asset": "DEVSTATCARD"
+    },
+    {
+      "asset": "LASTLIGHT"
+    },
+    {
+      "asset": "CRUSADECARD"
+    },
+    {
+      "asset": "REVENGECARD"
+    }
+  ]
+}
