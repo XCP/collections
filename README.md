@@ -42,8 +42,12 @@ The folder name is the slug.
 }
 ```
 
-- `asset` is the canonical compact Counterparty id — never a subasset
-  longname. It is the only required field per entry.
+- `asset` is a Counterparty protocol identifier — a named asset
+  (`RAREPEPE`), a numeric asset (`A9538869118141223875`), or a subasset
+  longname (`DANK.COOKIES`). Prefer the longname for subassets: it is
+  protocol-registered, unique, and this file is reviewed by humans; the
+  marketplace resolves it to its numeric id when it builds. It is the only
+  required field per entry.
 - `attributes` follows the `{ "trait_type", "value" }` convention used by
   ERC-721/Metaplex metadata and the ordinals collection registries, so
   existing tooling and intuitions carry over. `Artist`, `Series`, and
@@ -87,18 +91,26 @@ A curated collection may define its members by a rule instead of a list —
 }
 ```
 
-The rule is resolved by the marketplace against the assets already in this
-repo's canonical collections — it is a lens over the curation, not a query
-over the whole chain. Predicates: `issued_before_block`,
-`issued_after_block`, `collection_in` (slugs), `issuer_in` (addresses),
-`trait` (`{ "trait_type", "value" }`), `explorer_tag` (a classifier our
-explorer computes, e.g. `"stamp"`). Multiple predicates AND together.
-Canonical collections always enumerate their assets.
+The rule is resolved against the assets already in this repo's canonical
+collections — a lens over the curation, not a query over the whole chain —
+and the rule itself never runs anywhere near the marketplace database: it
+is materialized into an explicit membership list at build time. CI runs
+the same materialization on every collections PR (`.github/resolve.mjs`)
+and posts the resolved count and a sample to the job summary, so reviewers
+approve the actual membership, not the prose of a rule. A rule that
+matches nothing, or matches the entire curated universe, fails CI.
+
+Predicates: `issued_before_block`, `issued_after_block`, `collection_in`
+(slugs), `issuer_in` (addresses), `trait` (`{ "trait_type", "value" }`),
+`explorer_tag` (a classifier our explorer computes, e.g. `"stamp"`).
+Multiple predicates AND together. Canonical collections always enumerate
+their assets.
 
 ## Rules
 
-1. **Canonical ids only.** Subasset longnames are display metadata, never
-   keys.
+1. **Protocol identifiers only.** Named assets, numeric assets, and
+   subasset longnames — nothing else names an asset here. Nicknames and
+   display titles belong in `attributes`, never in `asset`.
 2. **One canonical home per asset.** An asset may appear in any number of
    curated collections and as `secondary` in other canonical ones, but it
    has exactly one primary membership. CI fails the PR otherwise and names

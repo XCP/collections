@@ -11,8 +11,12 @@
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
 
+// A protocol identifier: a named asset, a numeric asset, or a subasset
+// longname (PARENT.child — itself bound on-chain to a numeric asset). Prefer
+// the longname for subassets: this file is reviewed by humans.
 const NAMED_ASSET = /^[B-Z][A-Z]{3,11}$/;
 const NUMERIC_ASSET = /^A\d{1,20}$/;
+const SUBASSET_LONGNAME = /^[B-Z][A-Z]{3,11}\.[a-zA-Z0-9.\-_@!]{1,236}$/;
 const KINDS = new Set(["canonical", "curated"]);
 const ENTRY_KEYS = new Set(["asset", "secondary", "attributes"]);
 const WHERE_KEYS = new Set([
@@ -92,12 +96,8 @@ for (const slug of slugs) {
     for (const key of Object.keys(entry)) {
       if (!ENTRY_KEYS.has(key)) err(`${slug}: ${id}: unknown entry key "${key}"`);
     }
-    if (id.includes(".")) {
-      err(`${slug}: ${id} is a subasset longname — use its canonical A-number id (longnames are display metadata, never keys)`);
-      continue;
-    }
-    if (!NAMED_ASSET.test(id) && !NUMERIC_ASSET.test(id)) {
-      err(`${slug}: ${id} is not a valid Counterparty asset id`);
+    if (id.length > 250 || (!NAMED_ASSET.test(id) && !NUMERIC_ASSET.test(id) && !SUBASSET_LONGNAME.test(id))) {
+      err(`${slug}: ${id} is not a valid Counterparty asset identifier (named, numeric, or subasset longname)`);
       continue;
     }
     if (seen.has(id)) {
