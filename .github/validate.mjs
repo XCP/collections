@@ -6,7 +6,7 @@
  * and cross-collection membership consistency: an asset has exactly one
  * PRIMARY membership — an unflagged entry in a kind:"canonical" collection.
  * Adding an asset that already has a primary home elsewhere is welcome, but
- * the newcomer must say so with "cameo": true — a guest appearance whose home is elsewhere.
+ * the newcomer must say so with "secondary": true.
  */
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
@@ -14,7 +14,7 @@ import { join } from "node:path";
 const NAMED_ASSET = /^[B-Z][A-Z]{3,11}$/;
 const NUMERIC_ASSET = /^A\d{1,20}$/;
 const KINDS = new Set(["canonical", "curated"]);
-const ENTRY_KEYS = new Set(["asset", "cameo", "attributes"]);
+const ENTRY_KEYS = new Set(["asset", "secondary", "attributes"]);
 const WHERE_KEYS = new Set([
   "issued_before_block",
   "issued_after_block",
@@ -35,8 +35,8 @@ const slugs = readdirSync(root, { withFileTypes: true })
 
 /** asset -> {slug} of its primary (unflagged canonical) membership */
 const primaries = new Map();
-/** asset -> [slugs] of cameo/curated appearances */
-const cameos = new Map();
+/** asset -> [slugs] of secondary/curated appearances */
+const secondaries = new Map();
 
 for (const slug of slugs) {
   const path = join(root, slug, "meta.json");
@@ -122,31 +122,31 @@ for (const slug of slugs) {
       }
     }
 
-    const isPrimary = meta.kind === "canonical" && entry.cameo !== true;
+    const isPrimary = meta.kind === "canonical" && entry.secondary !== true;
     if (isPrimary) {
       const existing = primaries.get(id);
       if (existing) {
         err(
           `${id} has two primary memberships: ${existing} and ${slug}. ` +
-            `An asset has exactly one canonical home — the newcomer marks its entry { "asset": "${id}", "cameo": true }.`,
+            `An asset has exactly one canonical home — the newcomer marks its entry { "asset": "${id}", "secondary": true }.`,
         );
       } else {
         primaries.set(id, slug);
       }
     } else {
-      if (!cameos.has(id)) cameos.set(id, []);
-      cameos.get(id).push(slug);
+      if (!secondaries.has(id)) secondaries.set(id, []);
+      secondaries.get(id).push(slug);
     }
   }
 }
 
-// A cameo entry with no primary anywhere is a dangling flag: if this
+// A secondary entry with no primary anywhere is a dangling flag: if this
 // collection is the asset's only membership, it IS the home — unflag it.
-for (const [id, slugsWithIt] of cameos) {
+for (const [id, slugsWithIt] of secondaries) {
   if (!primaries.has(id)) {
     err(
-      `${id} appears only as a cameo or in curated views (${slugsWithIt.join(", ")}) but has no primary home. ` +
-        `If ${slugsWithIt[0]} is its home, remove "cameo": true; otherwise add it to its canonical collection first.`,
+      `${id} appears only as secondary or in curated views (${slugsWithIt.join(", ")}) but has no primary home. ` +
+        `If ${slugsWithIt[0]} is its home, remove "secondary": true; otherwise add it to its canonical collection first.`,
     );
   }
 }
@@ -156,4 +156,4 @@ if (errors.length > 0) {
   for (const message of errors) console.error(`  - ${message}`);
   process.exit(1);
 }
-console.log(`✓ ${slugs.length} collections, ${primaries.size} primary memberships, ${[...cameos.values()].flat().length} cameo — all valid`);
+console.log(`✓ ${slugs.length} collections, ${primaries.size} primary memberships, ${[...secondaries.values()].flat().length} secondary — all valid`);

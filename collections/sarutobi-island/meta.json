@@ -23,19 +23,19 @@
     },
     {
       "asset": "SARUTOBIPEPE",
-      "cameo": true
+      "secondary": true
     },
     {
       "asset": "SATOSHICARD",
-      "cameo": true
+      "secondary": true
     },
     {
       "asset": "CNPCARD",
-      "cameo": true
+      "secondary": true
     },
     {
       "asset": "SARUTOBICARD",
-      "cameo": true
+      "secondary": true
     }
   ]
 }

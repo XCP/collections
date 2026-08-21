@@ -58,15 +58,15 @@ The folder name is the slug.
   their identity, and never double-counts their volume.
 - `links` is optional: `website`, `x`, `discord`.
 
-### Primary membership vs cameos
+### Primary vs secondary membership
 
 An asset's **primary** membership is an unflagged entry in a canonical
 collection — there is exactly one per asset, and CI enforces it. If your
 collection includes an asset whose home is elsewhere (a crossover card, a
-game item borrowed from another set), keep it — flag it as a cameo:
+game item borrowed from another set), keep it — flag it as secondary:
 
 ```json
-{ "asset": "SATOSHICARD", "cameo": true }
+{ "asset": "SATOSHICARD", "secondary": true }
 ```
 
 The primary is almost always the collection that was here first; CI tells
@@ -100,7 +100,7 @@ Canonical collections always enumerate their assets.
 1. **Canonical ids only.** Subasset longnames are display metadata, never
    keys.
 2. **One canonical home per asset.** An asset may appear in any number of
-   curated collections and as a `cameo` in other canonical ones, but it
+   curated collections and as `secondary` in other canonical ones, but it
    has exactly one primary membership. CI fails the PR otherwise and names
    the entry to flag.
 3. **Membership and metadata only.** No chain data, no market data, no
