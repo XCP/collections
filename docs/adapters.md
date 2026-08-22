@@ -7,9 +7,8 @@ adapter configuration.
 - `collections/<slug>/adapter.ts` is operated for that collection.
 - `aggregators/<provider>/adapter.ts` is a general third-party source.
 
-Static `assets.json` has precedence over a collection adapter. A reserved
-`protocol.json` declaration comes next for consumer-indexed standards, then
-aggregators. A selected source failure fails export. It does not fall through.
+Static `assets.json` has precedence over a collection adapter, then aggregators.
+A selected source failure fails export. It does not fall through.
 An adapter is appropriate for pagination, nesting, naming, or
 other response-shape differences that genuinely require code.
 

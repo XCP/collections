@@ -40,9 +40,9 @@ If an asset's primary home is another canonical collection, include it with
 
 ## Source conventions
 
-Precedence is `assets.json`, then the collection's `adapter.ts`, then a reserved
-`protocol.json`, then a top-level aggregator. A malformed selected source
-fails; it does not fall through. Do not place `assets`, `adapter`, `feed`, provider URLs, or
+Precedence is `assets.json`, then the collection's `adapter.ts`, then a top-level
+aggregator. A malformed selected source fails; it does not fall through. Do not
+place `assets`, `adapter`, `feed`, provider URLs, or
 `source_class` in `meta.json`.
 
 Collection API adapters live beside their metadata:
@@ -56,11 +56,6 @@ General third-party providers live in their own top-level folders:
 ```text
 aggregators/<provider>/adapter.ts
 ```
-
-A derived standard may instead declare only
-`collections/<slug>/protocol.json`. This is reserved for protocols such as
-Bitcoin Stamps whose membership and ordinal are indexed by the marketplace;
-it is not configuration for an ordinary project API.
 
 Do not create a mirrored collection hierarchy under an aggregator. Read
 [`docs/adapters.md`](docs/adapters.md) before changing executable source code.

@@ -12,7 +12,7 @@ const PROVIDER_NAME = /^[a-z0-9]+(?:[-_][a-z0-9]+)*$/;
 const KINDS = new Set(["canonical", "curated"]);
 const META_KEYS = new Set(["name", "kind", "description", "links"]);
 const ASSETS_FILE_KEYS = new Set(["assets"]);
-const PROTOCOL_FILE_KEYS = new Set(["protocol"]);
+const METADATA_ONLY_COLLECTIONS = new Set(["bitcoin-stamps"]);
 const ENTRY_KEYS = new Set(["asset", "secondary", "attributes"]);
 const ATTRIBUTE_KEYS = new Set(["trait_type", "value"]);
 const LINK_KEYS = new Set(["website", "x", "discord"]);
@@ -252,18 +252,6 @@ export function readCollectionAssets(repositoryRoot, slug) {
   return normalizeAssets(document.assets, `${slug}/assets.json.assets`);
 }
 
-export function readCollectionProtocol(repositoryRoot, slug) {
-  const path = join(repositoryRoot, "collections", slug, "protocol.json");
-  if (!existsSync(path)) return undefined;
-  const document = objectAt(parseJsonFile(path, `${slug}/protocol.json`), `${slug}/protocol.json`);
-  exactKeys(document, PROTOCOL_FILE_KEYS, `${slug}/protocol.json`);
-  const protocol = nonemptyString(document.protocol, `${slug}/protocol.json.protocol`, 100);
-  if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(protocol)) {
-    fail(`${slug}/protocol.json.protocol`, "must be a lowercase kebab-case protocol id");
-  }
-  return protocol;
-}
-
 export function resolveAggregatorAdapterPath(aggregatorsDirectory, provider) {
   if (typeof provider !== "string" || !PROVIDER_NAME.test(provider) || isAbsolute(provider)) {
     fail("aggregator", "provider must be a safe lowercase folder name");
@@ -370,14 +358,13 @@ export function resolveCollectionSource(repositoryRoot, slug) {
   const directory = join(repositoryRoot, "collections", slug);
   const assetsPath = join(directory, "assets.json");
   const adapterPath = join(directory, "adapter.ts");
-  const protocolPath = join(directory, "protocol.json");
   if (existsSync(assetsPath)) return { type: "static", path: assetsPath };
   if (existsSync(adapterPath)) return { type: "collection-adapter", path: adapterPath };
-  if (existsSync(protocolPath)) return { type: "protocol", path: protocolPath };
+  if (METADATA_ONLY_COLLECTIONS.has(slug)) return { type: "metadata-only" };
   return { type: "aggregator" };
 }
 
-/** Resolve assets.json, a collection adapter, a derived protocol, then aggregators. */
+/** Resolve assets.json, a collection adapter, a known metadata-only entry, then aggregators. */
 export async function materializeCollection({
   slug,
   meta,
@@ -407,8 +394,7 @@ export async function materializeCollection({
       fetchText,
       cache,
     });
-  } else if (source.type === "protocol") {
-    output.protocol = readCollectionProtocol(repositoryRoot, slug);
+  } else if (source.type === "metadata-only") {
     return output;
   } else {
     membership = await loadFromAggregators(slug, {
@@ -558,13 +544,11 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
         collection.assets = readCollectionAssets(repositoryRoot, slug);
         requireCanonicalPrimary(collection.kind, collection.assets, `${slug}.assets`);
       } else {
-        if (source.type !== "protocol") externalSources += 1;
+        if (source.type !== "metadata-only") externalSources += 1;
         collection.source = source.type;
         if (source.type === "collection-adapter") {
           const collectionRoot = join(repositoryRoot, "collections", slug);
           await importAdapter(source.path, collectionRoot, `${slug}/adapter.ts`);
-        } else if (source.type === "protocol") {
-          collection.protocol = readCollectionProtocol(repositoryRoot, slug);
         }
       }
       collections.push(collection);

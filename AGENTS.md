@@ -10,8 +10,8 @@ collection or aggregator folder.
 ## Adapter task recipe
 
 1. Source precedence is `collections/<slug>/assets.json`, then that folder's
-   `adapter.ts`, then its reserved `protocol.json`, then the providers under
-   `aggregators/`. Never add a silent fallback after a selected source fails.
+   `adapter.ts`, then the providers under `aggregators/`. Never add a silent
+   fallback after a selected source fails.
 2. Keep `meta.json` editorial only. It must not contain assets, adapter names,
    provider URLs, `feed`, or `source_class`.
 3. Put collection-operated code beside its metadata. Put third-party provider
@@ -24,9 +24,6 @@ collection or aggregator folder.
    live endpoint in unit tests.
 8. Never execute contributed adapter code with `pull_request_target`, write
    permissions, persisted Git credentials, or repository secrets.
-9. Use `protocol.json` only for a recognized standard whose membership and
-   ordinal are derived by the marketplace indexer, not for an ordinary API.
-
 Run with Node.js 22:
 
 ```sh

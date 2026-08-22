@@ -2,7 +2,8 @@
 
 Aggregator adapters are last-resort import and ingestion sources for
 collections without a reviewed `assets.json` snapshot, a collection-operated
-adapter, or a derived `protocol.json` declaration.
+adapter, or a marketplace-indexed exception documented in that collection's
+folder.
 
 Each provider occupies one folder:
 

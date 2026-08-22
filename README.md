@@ -34,7 +34,6 @@ collections/<slug>/
   meta.json      name, type, description, and links
   assets.json    reviewed static membership, preferred when available
   adapter.ts     optional collection-operated API adapter
-  protocol.json  optional derived-protocol declaration
   README.md      collection-specific notes
   icon.ext       optional square icon: png, jpg, webp, or svg
   logo.ext       optional wide logo
@@ -47,7 +46,7 @@ Useful examples:
 - [Age of Rust](collections/age-of-rust/) uses a small static `assets.json`.
 - [Kaleidoscope](collections/kaleidoscope/) uses a collection API adapter.
 - [Pre-Ethereum](collections/pre-ethereum/) is a computed curated view.
-- [Bitcoin Stamps](collections/bitcoin-stamps/) declares indexed protocol membership.
+- [Bitcoin Stamps](collections/bitcoin-stamps/) documents marketplace-indexed membership.
 
 ### Collection metadata
 
@@ -133,8 +132,7 @@ The first source that exists wins:
 
 1. [`collections/<slug>/assets.json`](collections/)
 2. `collections/<slug>/adapter.ts` for a collection-operated API or computed view
-3. `collections/<slug>/protocol.json` for a recognized derived protocol
-4. an adapter in [`aggregators/`](aggregators/)
+3. an adapter in [`aggregators/`](aggregators/)
 
 There is no silent fallback. If the selected source fails, the build fails. Do
 not put assets, adapters, provider URLs, or source configuration in `meta.json`.
@@ -144,10 +142,6 @@ is committed, the static file takes precedence. See the
 [collection guide](collections/README.md),
 [adapter contract](docs/adapters.md), and
 [aggregator guide](aggregators/README.md).
-
-`protocol.json` is reserved for standards such as Bitcoin Stamps whose
-membership and protocol ordinal are derived by the marketplace indexer. It is
-not a project API setting.
 
 ## Submit a change
 

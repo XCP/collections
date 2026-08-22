@@ -26,9 +26,9 @@ const baseMeta = {
   kind: "canonical",
   description: "A fixture collection.",
 };
-function makeRepository() {
+function makeRepository(slug = "example-set") {
   const root = mkdtempSync(join(tmpdir(), "counterparty-collection-layout-"));
-  const directory = join(root, "collections", "example-set");
+  const directory = join(root, "collections", slug);
   mkdirSync(directory, { recursive: true });
   writeFileSync(join(directory, "meta.json"), `${JSON.stringify(baseMeta, null, 2)}\n`);
   return { root, directory };
@@ -59,22 +59,21 @@ test("a collection adapter is used only when assets.json is absent", async (t) =
   assert.deepEqual(collection.assets, feed.assets);
 });
 
-test("protocol.json declares derived membership without hiding a static override", async (t) => {
-  const { root, directory } = makeRepository();
+test("Bitcoin Stamps is the only metadata-only collection special case", async (t) => {
+  const { root, directory } = makeRepository("bitcoin-stamps");
   t.after(() => rmSync(root, { recursive: true, force: true }));
-  writeFileSync(join(directory, "protocol.json"), JSON.stringify({ protocol: "bitcoin-stamps" }));
 
-  assert.equal(resolveCollectionSource(root, "example-set").type, "protocol");
+  assert.equal(resolveCollectionSource(root, "bitcoin-stamps").type, "metadata-only");
   const derived = await materializeCollection({
-    slug: "example-set",
+    slug: "bitcoin-stamps",
     meta: baseMeta,
     repositoryRoot: root,
   });
-  assert.equal(derived.protocol, "bitcoin-stamps");
+  assert.equal(derived.slug, "bitcoin-stamps");
   assert.equal(derived.assets, undefined);
 
   writeFileSync(join(directory, "assets.json"), JSON.stringify({ assets: feed.assets }));
-  assert.equal(resolveCollectionSource(root, "example-set").type, "static");
+  assert.equal(resolveCollectionSource(root, "bitcoin-stamps").type, "static");
 });
 
 test("aggregators are the last convention and ambiguity fails closed", async (t) => {
@@ -339,7 +338,6 @@ test("the public JSON schemas are valid JSON", () => {
     "feed-v1.schema.json",
     "collection-meta.schema.json",
     "assets.schema.json",
-    "protocol.schema.json",
   ]) {
     assert.doesNotThrow(() => JSON.parse(readFileSync(join(fixtureDirectory, "..", "..", "schemas", name), "utf8")));
   }

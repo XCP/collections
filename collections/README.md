@@ -10,8 +10,7 @@ Each collection has one folder named with a stable kebab-case slug:
 collections/<slug>/
   meta.json
   assets.json       # reviewed static membership, when available
-  adapter.ts       # optional collection-operated API adapter
-  protocol.json    # derived-standard declaration, only when applicable
+  adapter.ts        # optional collection-operated API adapter
   README.md
 ```
 
@@ -83,16 +82,11 @@ The source precedence is fixed:
 
 1. `assets.json`;
 2. the collection's `adapter.ts`;
-3. `protocol.json`, for a recognized standard populated by the consumer indexer;
-4. a top-level aggregator;
-5. otherwise the collection cannot be materialized.
+3. a top-level aggregator;
+4. otherwise the collection cannot be materialized.
 
 If a higher-precedence source exists but is invalid, validation fails. Tooling
 does not silently fall through to a lower-precedence source.
-
-`protocol.json` is exceptional. It contains only a stable protocol id and is
-appropriate when membership is an indexed protocol fact with its own ordinal,
-as with Bitcoin Stamps. It is not a substitute for a project membership API.
 
 ## Make a pull request
 
