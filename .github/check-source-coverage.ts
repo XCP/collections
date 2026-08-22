@@ -20,8 +20,8 @@ for (const entry of readdirSync(join(root, "collections"), { withFileTypes: true
   const directory = join(root, "collections", slug);
   if (!existsSync(join(directory, "README.md"))) errors.push(`${slug}: missing collections/${slug}/README.md`);
   if (existsSync(join(directory, "adapter.ts"))) {
-    const testPath = join(root, "test", "collections", `${slug}.test.ts`);
-    if (!existsSync(testPath)) errors.push(`${slug}: collection adapter requires test/collections/${slug}.test.ts`);
+    const testPath = join(root, "tests", "collections", `${slug}.test.ts`);
+    if (!existsSync(testPath)) errors.push(`${slug}: collection adapter requires tests/collections/${slug}.test.ts`);
   }
 }
 
@@ -30,17 +30,17 @@ for (const entry of readdirSync(aggregatorsDirectory, { withFileTypes: true })) 
   if (!entry.isDirectory()) continue;
   const provider = entry.name;
   const providerDirectory = join(aggregatorsDirectory, provider);
-  const testPath = join(root, "test", "adapters", `${provider}.test.ts`);
-  const fixtureDirectory = join(root, "test", "fixtures", "adapters", provider);
+  const testPath = join(root, "tests", "adapters", `${provider}.test.ts`);
+  const fixtureDirectory = join(root, "tests", "fixtures", "adapters", provider);
   if (!existsSync(join(providerDirectory, "adapter.ts"))) {
     errors.push(`${provider}: missing aggregators/${provider}/adapter.ts`);
   }
   if (!existsSync(join(providerDirectory, "README.md"))) {
     errors.push(`${provider}: missing aggregators/${provider}/README.md`);
   }
-  if (!existsSync(testPath)) errors.push(`${provider}: missing test/adapters/${provider}.test.ts`);
+  if (!existsSync(testPath)) errors.push(`${provider}: missing tests/adapters/${provider}.test.ts`);
   if (!hasAdapterFixture(fixtureDirectory)) {
-    errors.push(`${provider}: add a fixture under test/fixtures/adapters/${provider}/`);
+    errors.push(`${provider}: add a fixture under tests/fixtures/adapters/${provider}/`);
   }
 }
 

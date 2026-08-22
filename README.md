@@ -29,7 +29,7 @@ aggregators/<provider>/
   adapter.ts  last-precedence discovery/import adapter
   README.md    provider behavior and limitations
 
-test/fixtures/
+tests/fixtures/
   ...          committed API responses used to test adapters without the network
 ```
 

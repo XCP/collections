@@ -145,8 +145,8 @@ the same collection share one request within an export.
 ## Fixture-backed tests
 
 Every aggregator has representative JSON, text, or static JavaScript responses
-under `test/fixtures/adapters/<provider>/` and a matching test. Collection
-adapters have tests under `test/collections/`. CI enforces that convention. Tests use the
+under `tests/fixtures/adapters/<provider>/` and a matching test. Collection
+adapters have tests under `tests/collections/`. CI enforces that convention. Tests use the
 built-in `node:test` runner and inject a fake `fetchJson` or `fetchText`; a unit
 test must never rely on the live endpoint.
 

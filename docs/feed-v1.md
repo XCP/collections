@@ -93,4 +93,4 @@ node scripts/export.ts
 
 The export command performs the live request and writes ignored output to
 `dist/collections.json`. Commit a representative response fixture and a test
-under `test/collections/`. Do not commit `dist/`.
+under `tests/collections/`. Do not commit `dist/`.

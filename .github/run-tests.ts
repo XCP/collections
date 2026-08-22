@@ -4,7 +4,7 @@ import { join, relative } from "node:path";
 import { spawnSync } from "node:child_process";
 
 const root = process.cwd();
-const testRoot = join(root, "test");
+const testRoot = join(root, "tests");
 
 function testFiles(directory) {
   return readdirSync(directory, { withFileTypes: true })
@@ -18,7 +18,7 @@ function testFiles(directory) {
 
 const files = testFiles(testRoot);
 if (files.length === 0) {
-  console.error("✗ no *.test.ts files found under test/");
+  console.error("✗ no *.test.ts files found under tests/");
   process.exit(1);
 }
 
