@@ -8,7 +8,6 @@
 - [ ] Static `assets.json`
 - [ ] Collection-operated `adapter.ts`
 - [ ] Computed curated `adapter.ts`
-- [ ] Derived `protocol.json`
 - [ ] Aggregator discovery or import
 
 Public endpoint, if applicable:

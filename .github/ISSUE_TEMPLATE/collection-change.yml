@@ -1,6 +1,7 @@
 name: Collection change
 description: Request a new collection or report incorrect collection data
 title: "Collection: "
+labels: ["collection"]
 body:
   - type: dropdown
     id: change_type
