@@ -10,7 +10,7 @@ try {
   console.log(
     `✓ ${collections.length} collections, ${counts.primaryMemberships} primary memberships, ` +
       `${counts.secondaryMemberships} secondary` +
-      `${externalSources > 0 ? `, ${externalSources} non-static source` : ""} — all metadata valid`,
+      `${externalSources > 0 ? `, ${externalSources} non-static source` : ""}; all metadata valid`,
   );
 } catch (error) {
   if (error instanceof CollectionValidationError) {

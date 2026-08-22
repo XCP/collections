@@ -22,7 +22,7 @@ for (const collection of collections) {
     ruleCollections.push(collection);
     continue;
   }
-  if (collection.kind !== "canonical") continue;
+  if (collection.kind !== "canonical" || !Array.isArray(collection.assets)) continue;
   for (const entry of collection.assets) {
     if (entry.secondary === true) continue;
     universe.push({
@@ -39,7 +39,7 @@ console.log(
 );
 
 if (ruleCollections.length === 0) {
-  console.log("no rule-defined collections — nothing else to resolve");
+  console.log("no rule-defined collections; nothing else to resolve");
   process.exit(0);
 }
 
@@ -72,7 +72,7 @@ for (const collection of ruleCollections) {
   if (chainPredicates.length > 0) {
     const status = `deferred chain predicates: ${chainPredicates.join(", ")}`;
     console.log(`${collection.slug}: ${status}`);
-    summary.push(`| ${collection.slug} | \`${JSON.stringify(collection.where)}\` | ${status} | — |`);
+    summary.push(`| ${collection.slug} | \`${JSON.stringify(collection.where)}\` | ${status} | n/a |`);
     continue;
   }
 
@@ -80,7 +80,7 @@ for (const collection of ruleCollections) {
   const share = ((100 * members.length) / universe.length).toFixed(1);
   console.log(`${collection.slug}: ${members.length} of ${universe.length} curated assets (${share}%)`);
   console.log(
-    `  sample: ${members.slice(0, 20).map((entry) => entry.asset).join(", ")}${members.length > 20 ? ", …" : ""}`,
+    `  sample: ${members.slice(0, 20).map((entry) => entry.asset).join(", ")}${members.length > 20 ? ", ..." : ""}`,
   );
   summary.push(
     `| ${collection.slug} | \`${JSON.stringify(collection.where)}\` | resolved | ${members.length} (${share}%) |`,
