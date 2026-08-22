@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://digirare.com/schemas/protocol.schema.json",
-  "title": "DigiRare derived protocol collection",
+  "$id": "https://raw.githubusercontent.com/XCP/collections/main/schemas/protocol.schema.json",
+  "title": "Counterparty derived protocol collection",
   "type": "object",
   "additionalProperties": false,
   "required": ["protocol"],

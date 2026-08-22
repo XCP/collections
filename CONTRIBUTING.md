@@ -1,10 +1,10 @@
 # Contributing
 
-Membership and metadata are maintained in collection folders. DigiRare uses
-filesystem conventions rather than API configuration inside `meta.json`.
+Membership and metadata are maintained in collection folders. Filesystem
+conventions select membership rather than API configuration inside `meta.json`.
 
 Start with the task guide in the [main README](README.md#start-here). If you
-cannot prepare a pull request, [open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml)
+cannot prepare a pull request, [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml)
 with the exact collection, assets, requested correction, and verification link.
 
 ## Add or update a collection
@@ -18,8 +18,8 @@ with the exact collection, assets, requested correction, and verification link.
 6. Run the checks below and open a pull request.
 
 For a metadata correction, edit only `meta.json`. For a membership or trait
-correction, edit only `assets.json`. A sale listing is created in DigiRare and
-does not require a change here.
+correction, edit only `assets.json`. Sale listings belong in marketplace
+applications and do not require a change here.
 
 Read [`collections/README.md`](collections/README.md) for the exact shapes.
 An asset entry uses a Counterparty identifier and optional OpenSea-style traits:

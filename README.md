@@ -1,15 +1,15 @@
-# marketplace-collections
+# Counterparty Collections
 
-The public collection catalog for [DigiRare](https://digirare.com). One
-collection is one folder. Changes are made through pull requests.
+The public catalog of Counterparty asset collections. One collection is one
+folder. Changes are made through pull requests.
 
 This repo controls collection names, descriptions, links, membership, and
-editorial traits. It does not create sale listings. To sell an asset, use the
-DigiRare marketplace. To add a project to the catalog or correct its data, use
-this repo.
+editorial traits. It does not create sale listings. To sell an asset, use a
+marketplace application. To add a project to the catalog or correct its data,
+use this repo.
 
-Catalog inclusion does not automatically enable trading. DigiRare activates a
-reviewed subset through separate marketplace configuration.
+Catalog inclusion does not automatically enable trading. Each consumer chooses
+which collections it supports.
 
 ## Start here
 
@@ -20,8 +20,8 @@ reviewed subset through separate marketplace configuration.
 | Add, remove, or correct an asset | Edit that collection's `assets.json`; see [asset membership](collections/README.md#asset-membership) |
 | Add or correct traits | Edit the asset's `attributes` in `assets.json`; see [traits](#traits) |
 | Use my collection's API | Add a local `adapter.ts`; see [collection APIs](docs/adapters.md#collection-adapters) |
-| Report a problem without writing code | [Open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml) |
-| List an asset for sale | Use [DigiRare](https://digirare.com); no repo change is needed |
+| Report a problem without writing code | [Open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml) |
+| List an asset for sale | Use a marketplace application; no repo change is needed |
 
 For contribution steps, see [CONTRIBUTING.md](CONTRIBUTING.md). GitHub can make
 small edits in the browser: open a file, click the pencil, describe the change,
@@ -95,18 +95,18 @@ Required fields are `name`, `kind`, and `description`. Optional links are
 - subasset longname: `DANK.COOKIES`
 
 Both a subasset's numeric identifier and longname are accepted. Prefer the
-longname when it is easier to review. DigiRare resolves both forms to the same
-compact trading identity and retains the longname for display. See the
+longname when it is easier to review. Consumers can resolve both forms to the
+same compact identity and retain the longname for display. See the
 [`assets.json` schema](schemas/assets.schema.json).
 
 ### Traits
 
-Traits use `{ "trait_type", "value" }`, matching common NFT metadata. DigiRare
-currently understands `Artist`, `Series`, and `Card`. Repeat `Artist` for a
-collaboration. Other traits are preserved for future use.
+Traits use `{ "trait_type", "value" }`, matching common NFT metadata. The
+registry defines `Artist`, `Series`, and `Card` today. Repeat `Artist` for a
+collaboration. Other traits are preserved.
 
 Do not put supply, divisibility, issuance dates, ownership, prices, listings,
-or sales in this repo. DigiRare derives chain and market facts independently.
+or sales in this repo. Consumers derive chain and market facts independently.
 
 ### Canonical, curated, primary, and secondary
 
@@ -179,7 +179,7 @@ More detail:
 - [Collection and aggregator adapters](docs/adapters.md)
 - [Standard collection feed](docs/feed-v1.md)
 - [Public schemas](schemas/)
-- [Open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml)
+- [Open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml)
 
 ## Wanted
 

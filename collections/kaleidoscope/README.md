@@ -10,6 +10,6 @@ pull request against this folder. Adapter changes need fixture-backed tests.
 
 Read the [collection guide](../README.md),
 [adapter contract](../../docs/adapters.md), and
-[contribution steps](../../CONTRIBUTING.md). Use DigiRare, not this repo, to
-list an asset for sale. If you cannot prepare a pull request,
-[open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml).
+[contribution steps](../../CONTRIBUTING.md). This repo does not create sale
+listings. If you cannot prepare a pull request,
+[open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).

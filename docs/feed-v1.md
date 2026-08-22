@@ -1,4 +1,4 @@
-# DigiRare collection feed v1
+# Counterparty collection feed v1
 
 A standard feed lets a collection publish complete normalized membership with
 very little adapter code. The collection's name, description, kind, links, and
@@ -65,7 +65,7 @@ Asset and attribute order is preserved. Use a stable order so snapshots and
 pull-request diffs remain useful.
 
 The response must not include supply, divisibility, issuer state, ownership,
-UTXOs, listings, prices, volume, or other data DigiRare reads from Counterparty
+UTXOs, listings, prices, volume, or other data consumers read from Counterparty
 or computes itself.
 
 ## Snapshot behavior
@@ -73,7 +73,7 @@ or computes itself.
 The feed is a complete snapshot, not an incremental event stream. If a member
 is absent from a later successful snapshot, it is absent from the normalized
 collection. A timeout, malformed response, duplicate asset, slug mismatch, or
-schema error fails the build; DigiRare does not treat an error as an empty
+schema error fails the build; the registry does not treat an error as an empty
 collection or try a lower-priority source.
 
 The marketplace materializes it during controlled ingestion, never during a

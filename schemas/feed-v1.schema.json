@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://digirare.com/schemas/collection-feed-v1.schema.json",
-  "title": "DigiRare collection feed v1",
+  "$id": "https://raw.githubusercontent.com/XCP/collections/main/schemas/feed-v1.schema.json",
+  "title": "Counterparty collection feed v1",
   "type": "object",
   "additionalProperties": false,
   "required": ["schema_version", "collection", "assets"],

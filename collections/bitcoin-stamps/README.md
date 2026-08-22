@@ -35,6 +35,6 @@ an API adapter or a checked-in membership snapshot.
 
 Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md) before proposing a policy change.
-Use DigiRare, not this repo, to list an asset for sale. If you cannot prepare a
+This repo does not create sale listings. If you cannot prepare a
 pull request,
-[open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml).
+[open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://digirare.com/schemas/assets.schema.json",
-  "title": "DigiRare collection membership snapshot",
+  "$id": "https://raw.githubusercontent.com/XCP/collections/main/schemas/assets.schema.json",
+  "title": "Counterparty collection membership snapshot",
   "type": "object",
   "additionalProperties": false,
   "required": ["assets"],

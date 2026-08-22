@@ -205,7 +205,7 @@ function validateSlug(slug, path = "slug") {
   return slug;
 }
 
-/** Validate a standard, self-hosted DigiRare collection feed. */
+/** Validate a standard, self-hosted Counterparty collection feed. */
 export function normalizeFeedV1(value, expectedCollection) {
   const feed = objectAt(value, "feed");
   exactKeys(feed, new Set(["schema_version", "collection", "assets"]), "feed");

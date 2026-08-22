@@ -1,7 +1,8 @@
 # Add or update a collection
 
-This is the practical guide for collection owners and contributors. To sell an
-asset, use DigiRare. This folder changes collection catalog data only.
+This is the practical guide for collection owners and contributors. Sale
+listings belong in marketplace applications. This folder changes collection
+catalog data only.
 
 Each collection has one folder named with a stable kebab-case slug:
 
@@ -116,5 +117,5 @@ request anyway. GitHub CI runs the same checks and reports the exact file and
 entry that needs attention.
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for review expectations or
-[open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml)
+[open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml)
 if you cannot prepare the change yourself.

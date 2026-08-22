@@ -184,7 +184,7 @@ function createBoundedTextFetcher({
   timeoutMs = DEFAULT_TIMEOUT_MS,
   maxBytes = DEFAULT_MAX_BYTES,
   maxRedirects = DEFAULT_MAX_REDIRECTS,
-  userAgent = "digirare-collection-adapter/1.0",
+  userAgent = "counterparty-collections/1.0",
 } = {}, {
   helperName,
   accept,

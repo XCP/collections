@@ -27,7 +27,7 @@ const baseMeta = {
   description: "A fixture collection.",
 };
 function makeRepository() {
-  const root = mkdtempSync(join(tmpdir(), "digirare-collection-layout-"));
+  const root = mkdtempSync(join(tmpdir(), "counterparty-collection-layout-"));
   const directory = join(root, "collections", "example-set");
   mkdirSync(directory, { recursive: true });
   writeFileSync(join(directory, "meta.json"), `${JSON.stringify(baseMeta, null, 2)}\n`);

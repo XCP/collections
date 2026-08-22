@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://digirare.com/schemas/collection-meta.schema.json",
-  "title": "DigiRare collection metadata",
+  "$id": "https://raw.githubusercontent.com/XCP/collections/main/schemas/collection-meta.schema.json",
+  "title": "Counterparty collection metadata",
   "type": "object",
   "additionalProperties": false,
   "required": ["name", "kind", "description"],
