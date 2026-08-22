@@ -1,0 +1,580 @@
+{
+  "assets": [
+    {
+      "asset": "BAKERPGN"
+    },
+    {
+      "asset": "BANGPIGEON"
+    },
+    {
+      "asset": "BLESSEDPREY"
+    },
+    {
+      "asset": "BORGPIGEON"
+    },
+    {
+      "asset": "BOXERPGN"
+    },
+    {
+      "asset": "BREADWHALE"
+    },
+    {
+      "asset": "BUFFALOGAL",
+      "secondary": true
+    },
+    {
+      "asset": "CAESARPGN"
+    },
+    {
+      "asset": "CEMHODLER"
+    },
+    {
+      "asset": "CHIHUAHUAPGN"
+    },
+    {
+      "asset": "CHOOSEPIGEON"
+    },
+    {
+      "asset": "CLEOPATRAPGN"
+    },
+    {
+      "asset": "COOCRUMB"
+    },
+    {
+      "asset": "CORNPIGEON",
+      "secondary": true
+    },
+    {
+      "asset": "CRASHPGN"
+    },
+    {
+      "asset": "CROWNBOY"
+    },
+    {
+      "asset": "CZPIGEON"
+    },
+    {
+      "asset": "DALIPGN"
+    },
+    {
+      "asset": "DARGERPGN"
+    },
+    {
+      "asset": "DAVINCIPGN"
+    },
+    {
+      "asset": "DDAF"
+    },
+    {
+      "asset": "DESTROYERPGN"
+    },
+    {
+      "asset": "DISCOVERER"
+    },
+    {
+      "asset": "DJPIJO"
+    },
+    {
+      "asset": "DRUIDPGN"
+    },
+    {
+      "asset": "ELIZPIG"
+    },
+    {
+      "asset": "ELONPIGEON"
+    },
+    {
+      "asset": "ESCHERPIGEON"
+    },
+    {
+      "asset": "ETHEREUMPGN"
+    },
+    {
+      "asset": "EXITBIRD"
+    },
+    {
+      "asset": "FAKEPIGEON"
+    },
+    {
+      "asset": "FAKERAREO"
+    },
+    {
+      "asset": "FATPIGEON"
+    },
+    {
+      "asset": "FIRSTPIGEON"
+    },
+    {
+      "asset": "FLIGHTCLUB"
+    },
+    {
+      "asset": "FLOORLOOK"
+    },
+    {
+      "asset": "FOMOPIJO"
+    },
+    {
+      "asset": "FOPLING"
+    },
+    {
+      "asset": "GALLERYPGN"
+    },
+    {
+      "asset": "GAYPIGEON"
+    },
+    {
+      "asset": "GMOPIGEONS"
+    },
+    {
+      "asset": "GREYPIGEON"
+    },
+    {
+      "asset": "GROUNDED"
+    },
+    {
+      "asset": "GTAPIGEON"
+    },
+    {
+      "asset": "HAIRPIGEON"
+    },
+    {
+      "asset": "HOKUSAIPGN"
+    },
+    {
+      "asset": "HORSEGM"
+    },
+    {
+      "asset": "JANITORPGN"
+    },
+    {
+      "asset": "JDOGPIGEON"
+    },
+    {
+      "asset": "KHUNULEIMA"
+    },
+    {
+      "asset": "KINGPIGEON"
+    },
+    {
+      "asset": "LFGSWARM",
+      "secondary": true
+    },
+    {
+      "asset": "LOVEANDDOVES"
+    },
+    {
+      "asset": "MADUROPIGEON"
+    },
+    {
+      "asset": "MAGRITTEPGN"
+    },
+    {
+      "asset": "MARIOPIGEON"
+    },
+    {
+      "asset": "MAYAPGN"
+    },
+    {
+      "asset": "MONKPGN"
+    },
+    {
+      "asset": "MOONFLYER"
+    },
+    {
+      "asset": "MORNINGREK"
+    },
+    {
+      "asset": "MOTOPIGEON"
+    },
+    {
+      "asset": "MUNCHPGN"
+    },
+    {
+      "asset": "NAKAPIGEON"
+    },
+    {
+      "asset": "NARDWUARPGN"
+    },
+    {
+      "asset": "NATUREGRAIL"
+    },
+    {
+      "asset": "NERONPGN"
+    },
+    {
+      "asset": "NINJAPIGEON"
+    },
+    {
+      "asset": "NOLANPGN"
+    },
+    {
+      "asset": "NOOTHODL"
+    },
+    {
+      "asset": "NOTASCAMPIJO"
+    },
+    {
+      "asset": "OPPGN"
+    },
+    {
+      "asset": "ORDIMSG"
+    },
+    {
+      "asset": "ORIGAMIPGN"
+    },
+    {
+      "asset": "OVERTHEROOF"
+    },
+    {
+      "asset": "PALEFLYER"
+    },
+    {
+      "asset": "PARADISEPGN"
+    },
+    {
+      "asset": "PATHFINDER"
+    },
+    {
+      "asset": "PEACEPIGEON"
+    },
+    {
+      "asset": "PECKING"
+    },
+    {
+      "asset": "PEEREON"
+    },
+    {
+      "asset": "PENPENGEON"
+    },
+    {
+      "asset": "PEPEPIJO"
+    },
+    {
+      "asset": "PEPIGEON"
+    },
+    {
+      "asset": "PERCHED"
+    },
+    {
+      "asset": "PGNALIEN"
+    },
+    {
+      "asset": "PGNALONE"
+    },
+    {
+      "asset": "PGNARTIST"
+    },
+    {
+      "asset": "PGNBOXERRCKY"
+    },
+    {
+      "asset": "PGNCOBBEE"
+    },
+    {
+      "asset": "PGNFDN"
+    },
+    {
+      "asset": "PGNGENESIS"
+    },
+    {
+      "asset": "PGNGODFATHER"
+    },
+    {
+      "asset": "PGNHUNTER"
+    },
+    {
+      "asset": "PGNKARMA"
+    },
+    {
+      "asset": "PGNMASON"
+    },
+    {
+      "asset": "PGNPEACE"
+    },
+    {
+      "asset": "PGNSACRIFICE"
+    },
+    {
+      "asset": "PGNSAMURAI"
+    },
+    {
+      "asset": "PGNSTRIKE"
+    },
+    {
+      "asset": "PGNZOMBIA"
+    },
+    {
+      "asset": "PGONEST"
+    },
+    {
+      "asset": "PICASSOPGN"
+    },
+    {
+      "asset": "PIGALLEON"
+    },
+    {
+      "asset": "PIGANKSY"
+    },
+    {
+      "asset": "PIGECOINS"
+    },
+    {
+      "asset": "PIGECROW"
+    },
+    {
+      "asset": "PIGEINVATION"
+    },
+    {
+      "asset": "PIGEISHA"
+    },
+    {
+      "asset": "PIGEOGAMBLER"
+    },
+    {
+      "asset": "PIGEONACDTRP"
+    },
+    {
+      "asset": "PIGEONBARBER"
+    },
+    {
+      "asset": "PIGEONCLAP"
+    },
+    {
+      "asset": "PIGEONCORN"
+    },
+    {
+      "asset": "PIGEONCULT"
+    },
+    {
+      "asset": "PIGEONDIVINE"
+    },
+    {
+      "asset": "PIGEONEMPIRE"
+    },
+    {
+      "asset": "PIGEONFATHER"
+    },
+    {
+      "asset": "PIGEONFLAME"
+    },
+    {
+      "asset": "PIGEONGENIUS"
+    },
+    {
+      "asset": "PIGEONINTRAP"
+    },
+    {
+      "asset": "PIGEONISM"
+    },
+    {
+      "asset": "PIGEONLAYERS"
+    },
+    {
+      "asset": "PIGEONLEGION"
+    },
+    {
+      "asset": "PIGEONLEGOS"
+    },
+    {
+      "asset": "PIGEONMASTER"
+    },
+    {
+      "asset": "PIGEONMODEL"
+    },
+    {
+      "asset": "PIGEONPOLICE"
+    },
+    {
+      "asset": "PIGEONPOPO"
+    },
+    {
+      "asset": "PIGEONPOST"
+    },
+    {
+      "asset": "PIGEONPRIEST"
+    },
+    {
+      "asset": "PIGEONSHIT"
+    },
+    {
+      "asset": "PIGEONSTACK"
+    },
+    {
+      "asset": "PIGEONSTEVE"
+    },
+    {
+      "asset": "PIGEONTERMIR"
+    },
+    {
+      "asset": "PIGEONTOSKY"
+    },
+    {
+      "asset": "PIGEONWARIOR"
+    },
+    {
+      "asset": "PIGEOUNCHAIN"
+    },
+    {
+      "asset": "PIGEOWHISKEY"
+    },
+    {
+      "asset": "PIGERAON"
+    },
+    {
+      "asset": "PIGGYGEON"
+    },
+    {
+      "asset": "PIGYAKUZA"
+    },
+    {
+      "asset": "PIJOLADY"
+    },
+    {
+      "asset": "PIXOPIJO"
+    },
+    {
+      "asset": "PLANEPIGEON"
+    },
+    {
+      "asset": "PNGPGN"
+    },
+    {
+      "asset": "POCKETOAT"
+    },
+    {
+      "asset": "POTPIGEON"
+    },
+    {
+      "asset": "PRISMPIGEONA"
+    },
+    {
+      "asset": "PRISMPIGEONB"
+    },
+    {
+      "asset": "PRISMPIGEONC"
+    },
+    {
+      "asset": "PRISMPIGEOND"
+    },
+    {
+      "asset": "PRISMPIGEONE"
+    },
+    {
+      "asset": "PRISMPIGEONF"
+    },
+    {
+      "asset": "PUMPNOAT"
+    },
+    {
+      "asset": "RAGESELL"
+    },
+    {
+      "asset": "RAREDEXBIRD"
+    },
+    {
+      "asset": "RAREPIGEON"
+    },
+    {
+      "asset": "REMBRANDTPGN"
+    },
+    {
+      "asset": "RESIDENTPEN"
+    },
+    {
+      "asset": "ROBOTPGN"
+    },
+    {
+      "asset": "ROCKWELLPGN"
+    },
+    {
+      "asset": "ROSEYPGN"
+    },
+    {
+      "asset": "RPIJO"
+    },
+    {
+      "asset": "SACREDBONES"
+    },
+    {
+      "asset": "SAMURAIPGN"
+    },
+    {
+      "asset": "SAXPIGEON"
+    },
+    {
+      "asset": "SECRETPJO"
+    },
+    {
+      "asset": "SEEKERPGN"
+    },
+    {
+      "asset": "SKYPIGEONS"
+    },
+    {
+      "asset": "SNOOPPIJO"
+    },
+    {
+      "asset": "SOGPIGEON"
+    },
+    {
+      "asset": "SQUIDPIGEON"
+    },
+    {
+      "asset": "TETHEREDPGON"
+    },
+    {
+      "asset": "THEARCHIVIST"
+    },
+    {
+      "asset": "THECAPTAIN"
+    },
+    {
+      "asset": "THECUSTODIAN"
+    },
+    {
+      "asset": "THEDECKHAND"
+    },
+    {
+      "asset": "THEGATHERER"
+    },
+    {
+      "asset": "THEINDEXER"
+    },
+    {
+      "asset": "THENAVIGATOR"
+    },
+    {
+      "asset": "THESCIENTIST"
+    },
+    {
+      "asset": "THESYNCHRO"
+    },
+    {
+      "asset": "TRASHRICH"
+    },
+    {
+      "asset": "TRUMPETER"
+    },
+    {
+      "asset": "ULTRAPIGEON"
+    },
+    {
+      "asset": "UPONLYJO"
+    },
+    {
+      "asset": "VANGOGHPGN"
+    },
+    {
+      "asset": "XCHAINPIGEON"
+    },
+    {
+      "asset": "XQUISITEPGN"
+    },
+    {
+      "asset": "XRAREPIGEON"
+    },
+    {
+      "asset": "XRPIGEON"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://digirare.com/schemas/protocol.schema.json",
+  "title": "DigiRare derived protocol collection",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["protocol"],
+  "properties": {
+    "protocol": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "maxLength": 100
+    }
+  }
+}

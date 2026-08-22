@@ -1,12 +1,13 @@
 # marketplace-collections
 
-The public curation index for [digirare.com](https://digirare.com) — the
-bounded set of Counterparty collections the marketplace lists. A collection
-is one folder with one JSON file; adding or amending a collection is a pull
-request.
+The public collection catalog for [digirare.com](https://digirare.com). A
+collection is one folder; adding or amending one is a pull request. Catalog
+inclusion does not automatically make a collection listable: the marketplace
+activates a reviewed subset in its own default-deny configuration.
 
 This repo records **membership and metadata** — which assets belong to a
-collection and what the collection says about them. It never records chain
+collection and what the collection says about them. Filesystem conventions,
+not source declarations inside metadata, select membership. It never records chain
 data (supply, issuance dates, divisibility — the marketplace reads those
 from the chain itself) and never records marketplace operations (ordering,
 listing gates — those are marketplace configuration, not facts about a
@@ -16,21 +17,39 @@ collection).
 
 ```
 collections/<slug>/
-  meta.json    the collection: identity at the top, assets below
+  meta.json    collection identity and editorial information
+  assets.json  reviewed static membership snapshot
+  adapter.ts  optional collection-operated API adapter
+  protocol.json  optional derived-standard declaration
+  README.md    collection-specific contribution notes
   icon.ext     optional square icon (png/jpg/webp/svg)
   logo.ext     optional wide logo
+
+aggregators/<provider>/
+  adapter.ts  last-precedence discovery/import adapter
+  README.md    provider behavior and limitations
+
+test/fixtures/
+  ...          committed API responses used to test adapters without the network
 ```
 
 The folder name is the slug.
 
-### meta.json
+### `meta.json`
 
 ```json
 {
   "name": "Rare Pepe",
   "kind": "canonical",
   "description": "The original card canon, issued on Counterparty 2016–2018 across 36 series.",
-  "links": { "website": "https://rarepepedirectory.com" },
+  "links": { "website": "https://rarepepedirectory.com" }
+}
+```
+
+### `assets.json`
+
+```json
+{
   "assets": [
     { "asset": "RAREPEPE", "attributes": [
       { "trait_type": "Artist", "value": "Mike" },
@@ -44,10 +63,10 @@ The folder name is the slug.
 
 - `asset` is a Counterparty protocol identifier — a named asset
   (`RAREPEPE`), a numeric asset (`A9538869118141223875`), or a subasset
-  longname (`DANK.COOKIES`). Prefer the longname for subassets: it is
-  protocol-registered, unique, and this file is reviewed by humans; the
-  marketplace resolves it to its numeric id when it builds. It is the only
-  required field per entry.
+  longname (`DANK.COOKIES`). Both the numeric ID and longname of a subasset are
+  accepted. Prefer the longname when it makes human review clearer; the
+  marketplace resolves either form to the same compact trading key and retains
+  the longname for display. `asset` is the only required field per entry.
 - `attributes` follows the `{ "trait_type", "value" }` convention used by
   ERC-721/Metaplex metadata and the ordinals collection registries, so
   existing tooling and intuitions carry over. `Artist`, `Series`, and
@@ -62,6 +81,32 @@ The folder name is the slug.
   their identity, and never double-counts their volume.
 - `links` is optional: `website`, `x`, `discord`.
 
+### Membership source precedence
+
+The layout itself selects membership in this order:
+
+1. `collections/<slug>/assets.json`;
+2. `collections/<slug>/adapter.ts`, for a collection-operated API or computed view;
+3. `collections/<slug>/protocol.json`, only for a recognized derived standard;
+4. the adapters under `aggregators/`;
+5. otherwise materialization fails.
+
+There are no `adapter`, `feed`, `source_class`, or provider URL fields in
+`meta.json`. If `assets.json` exists, neither the collection adapter nor any
+aggregator executes. If a selected higher-precedence source is malformed or
+unavailable, the build fails rather than silently falling through.
+
+Aggregator output can seed or refresh an explicit snapshot. Once committed as
+`assets.json`, that reviewed static snapshot has precedence. See
+[the collection guide](collections/README.md), [the aggregator guide](aggregators/README.md),
+and [the adapter contract](docs/adapters.md).
+
+`protocol.json` is not an API location and does not contain membership. It is a
+small declaration such as `{ "protocol": "bitcoin-stamps" }` telling a
+consumer that membership and the protocol-local ordinal are derived by that
+consumer's indexer. It is reserved for standards such as Bitcoin Stamps rather
+than ordinary project collections.
+
 ### Primary vs secondary membership
 
 An asset's **primary** membership is an unflagged entry in a canonical
@@ -75,36 +120,17 @@ game item borrowed from another set), keep it — flag it as secondary:
 
 The primary is almost always the collection that was here first; CI tells
 you exactly which entry to flag when it finds a clash. Entries in curated
-collections never claim a home, so they need no flag.
+collections never claim a home, so they need no flag. Every canonical
+collection must retain at least one unflagged primary entry; an all-overlap
+group belongs in a curated collection instead.
 
-### Rule-defined membership
+### Computed curated views
 
-A curated collection may define its members by a rule instead of a list —
-`where` in place of `assets`:
-
-```json
-{
-  "name": "Pre-Ethereum",
-  "kind": "curated",
-  "description": "Curated assets issued before Ethereum's genesis block.",
-  "where": { "issued_before_block": 367561 }
-}
-```
-
-The rule is resolved against the assets already in this repo's canonical
-collections — a lens over the curation, not a query over the whole chain —
-and the rule itself never runs anywhere near the marketplace database: it
-is materialized into an explicit membership list at build time. CI runs
-the same materialization on every collections PR (`.github/resolve.mjs`)
-and posts the resolved count and a sample to the job summary, so reviewers
-approve the actual membership, not the prose of a rule. A rule that
-matches nothing, or matches the entire curated universe, fails CI.
-
-Predicates: `issued_before_block`, `issued_after_block`, `collection_in`
-(slugs), `issuer_in` (addresses), `trait` (`{ "trait_type", "value" }`),
-`explorer_tag` (a classifier our explorer computes, e.g. `"stamp"`).
-Multiple predicates AND together. Canonical collections always enumerate
-their assets.
+A curated view may use a local `adapter.ts` instead of a static snapshot. For
+example, `collections/pre-ethereum/adapter.ts` returns a normalized issuance
+cutoff rule that the marketplace evaluates against its locally indexed asset
+facts. The rule is code by location, not configuration embedded in `meta.json`,
+and it performs no per-asset metadata crawl.
 
 ## Rules
 
@@ -118,23 +144,30 @@ their assets.
 3. **Membership and metadata only.** No chain data, no market data, no
    operational flags — if the chain or the marketplace can derive it, it
    does not belong here.
-4. **Frozen sets only, for now.** A collection with assets first issued
-   within the last two years is recorded here but not listed yet. The
-   marketplace checks issuance dates against the chain on every build, so
-   collections age into eligibility automatically.
+4. **One normalized asset contract.** Static lists, collection adapters, and
+   aggregators all produce the same asset-entry schema. Computed curated rules
+   are validated separately and resolve over that normalized universe.
 
 ## Adding a collection
 
-Open a PR adding `collections/<slug>/meta.json` (icon and logo welcome).
-Keep the description to one or two sentences, and say in the PR where the
-asset list comes from. CI validates the format, canonical asset ids, and
-membership consistency on every PR (`.github/validate.mjs` — run it
-locally with `node .github/validate.mjs`).
+Open a PR adding `collections/<slug>/meta.json`, `assets.json`, and a short
+`README.md` (icon and logo welcome). A collection-operated `adapter.ts` may be
+used when no reviewed static snapshot is available. CI validates the format,
+Counterparty identifiers, normalized adapter output, and membership consistency.
+
+Run the same checks locally with Node.js 22:
+
+```sh
+node .github/validate.ts
+node .github/check-source-coverage.ts
+node .github/run-tests.ts
+```
+
+Follow [the collection guide](collections/README.md) and
+[CONTRIBUTING.md](CONTRIBUTING.md). Adapters require representative fixtures so
+CI can test normalization deterministically.
 
 ## Wanted
 
-- **STAMPS (classics)** — still minting; no authoritative frozen subset yet.
-- **LFG Collection**, **Faux Bitcorn**, **17ART** — sourceable, but each has
-  issuances inside the two-year window; welcome now, listed when frozen.
 - **Cake Commons** — no reliable source found; a PR with a citable list is
   welcome.

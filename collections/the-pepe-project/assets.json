@@ -1,0 +1,880 @@
+{
+  "assets": [
+    {
+      "asset": "BADLANDSTOUR"
+    },
+    {
+      "asset": "BALLOTBURN"
+    },
+    {
+      "asset": "BARARENTRUMP"
+    },
+    {
+      "asset": "BHAGAVADBTC"
+    },
+    {
+      "asset": "BIGMIKEDANCE"
+    },
+    {
+      "asset": "BIRDSTHEWORD"
+    },
+    {
+      "asset": "BITCOINTAO"
+    },
+    {
+      "asset": "BITKOI"
+    },
+    {
+      "asset": "BITWATTS"
+    },
+    {
+      "asset": "BLKSWANYE"
+    },
+    {
+      "asset": "BOEFAKE"
+    },
+    {
+      "asset": "BOOMTIME"
+    },
+    {
+      "asset": "BREEDLOVE"
+    },
+    {
+      "asset": "BTCISHOPE"
+    },
+    {
+      "asset": "BTCPRESIDENT"
+    },
+    {
+      "asset": "BTCWARRIOR"
+    },
+    {
+      "asset": "BURGUERTRUMP"
+    },
+    {
+      "asset": "BUSTEDJPEPE"
+    },
+    {
+      "asset": "CENTEOTLPEPE"
+    },
+    {
+      "asset": "CHEQMATE"
+    },
+    {
+      "asset": "CHRONICLESQ"
+    },
+    {
+      "asset": "CODEMONKEYZ"
+    },
+    {
+      "asset": "COINDISPENSE"
+    },
+    {
+      "asset": "COUNTERPUNCH"
+    },
+    {
+      "asset": "COVFEFEART"
+    },
+    {
+      "asset": "COVFEFEDIG"
+    },
+    {
+      "asset": "COVFEFEPEPE"
+    },
+    {
+      "asset": "COVPEPE"
+    },
+    {
+      "asset": "CREEPYKAMALA"
+    },
+    {
+      "asset": "CURRENCYEXCH"
+    },
+    {
+      "asset": "CYBERPOWER"
+    },
+    {
+      "asset": "CYBERTRUMP"
+    },
+    {
+      "asset": "DANKPMII"
+    },
+    {
+      "asset": "DARKBRANDON"
+    },
+    {
+      "asset": "DARKPILLDON"
+    },
+    {
+      "asset": "DEEZNUUTZ"
+    },
+    {
+      "asset": "DEPLORABLES"
+    },
+    {
+      "asset": "DETERMINPEPE"
+    },
+    {
+      "asset": "DEVOLUTION"
+    },
+    {
+      "asset": "DONOTCOMPLY"
+    },
+    {
+      "asset": "DUKENUKEMPEP"
+    },
+    {
+      "asset": "ECBFAKE"
+    },
+    {
+      "asset": "ELDERSOFZION"
+    },
+    {
+      "asset": "ENDTHEFED"
+    },
+    {
+      "asset": "EOXIXIZERO"
+    },
+    {
+      "asset": "EPSTEINFILES"
+    },
+    {
+      "asset": "ERAOFPIRACY"
+    },
+    {
+      "asset": "ERIKPRINCE"
+    },
+    {
+      "asset": "FAISALPEPE"
+    },
+    {
+      "asset": "FAKEBANKER"
+    },
+    {
+      "asset": "FAKEBISH"
+    },
+    {
+      "asset": "FAKEBOC"
+    },
+    {
+      "asset": "FAKEBOJ"
+    },
+    {
+      "asset": "FAKEBOOBS"
+    },
+    {
+      "asset": "FAKEFIAT"
+    },
+    {
+      "asset": "FAKEIBRD"
+    },
+    {
+      "asset": "FAKEIMF"
+    },
+    {
+      "asset": "FAKEPBOC"
+    },
+    {
+      "asset": "FAKESNB"
+    },
+    {
+      "asset": "FALLOFWALLST"
+    },
+    {
+      "asset": "FIRSTBURN"
+    },
+    {
+      "asset": "FIRSTMARKER"
+    },
+    {
+      "asset": "FIRSTQDROP"
+    },
+    {
+      "asset": "FLAGDAY"
+    },
+    {
+      "asset": "FREEDUROV"
+    },
+    {
+      "asset": "FREEROSSDAY"
+    },
+    {
+      "asset": "FREESAMOURAI"
+    },
+    {
+      "asset": "FREETHENIP"
+    },
+    {
+      "asset": "FUCKTHEFED"
+    },
+    {
+      "asset": "FUCKYOUWAR"
+    },
+    {
+      "asset": "FUGGEMNOW"
+    },
+    {
+      "asset": "GAMESOFMUSK"
+    },
+    {
+      "asset": "GAMESOFTRUMP",
+      "secondary": true
+    },
+    {
+      "asset": "GAYASSASSIN"
+    },
+    {
+      "asset": "GMONEYPEPE"
+    },
+    {
+      "asset": "GNATPUTIN"
+    },
+    {
+      "asset": "GODARMOR"
+    },
+    {
+      "asset": "GOODGAMEGARY"
+    },
+    {
+      "asset": "GQPEPE"
+    },
+    {
+      "asset": "HAITIANPEPE"
+    },
+    {
+      "asset": "HALSTRADAMUS"
+    },
+    {
+      "asset": "HASHFORCE"
+    },
+    {
+      "asset": "HATESYMBOL"
+    },
+    {
+      "asset": "HIGHPEPE"
+    },
+    {
+      "asset": "HODLONAUTFTW"
+    },
+    {
+      "asset": "HOLDTHELINE"
+    },
+    {
+      "asset": "HONESTABE"
+    },
+    {
+      "asset": "HONKHONKHODL"
+    },
+    {
+      "asset": "HORUSPEPE"
+    },
+    {
+      "asset": "HOTWHEELZ"
+    },
+    {
+      "asset": "IDESOFPEPE"
+    },
+    {
+      "asset": "IMMORTALKEK"
+    },
+    {
+      "asset": "INQONTROLPEP"
+    },
+    {
+      "asset": "IYKYKDANK"
+    },
+    {
+      "asset": "JCKEKMALLERS"
+    },
+    {
+      "asset": "JOESSHOT"
+    },
+    {
+      "asset": "JOHNFPEPEDY"
+    },
+    {
+      "asset": "JOINORDIE"
+    },
+    {
+      "asset": "JPEPELOWERY"
+    },
+    {
+      "asset": "KEKACE"
+    },
+    {
+      "asset": "KEKASCENSION"
+    },
+    {
+      "asset": "KEKCHIEF"
+    },
+    {
+      "asset": "KEKCOUNCIL"
+    },
+    {
+      "asset": "KEKFEFE"
+    },
+    {
+      "asset": "KEKFORCORN"
+    },
+    {
+      "asset": "KEKHODL"
+    },
+    {
+      "asset": "KEKINWARSH"
+    },
+    {
+      "asset": "KEKLUMINATIS"
+    },
+    {
+      "asset": "KEKMIRROR"
+    },
+    {
+      "asset": "KEKRAMID"
+    },
+    {
+      "asset": "KEKSTONE"
+    },
+    {
+      "asset": "KILLERAPP"
+    },
+    {
+      "asset": "LAWANDORDER"
+    },
+    {
+      "asset": "LAZORBOY"
+    },
+    {
+      "asset": "LEADEROFKEK"
+    },
+    {
+      "asset": "LFGLUTNICK"
+    },
+    {
+      "asset": "LGBTPLEBS"
+    },
+    {
+      "asset": "LIESOFKIKES"
+    },
+    {
+      "asset": "LRDBLCKSCHLD"
+    },
+    {
+      "asset": "MAGICMEME"
+    },
+    {
+      "asset": "MAKEDANKRARE"
+    },
+    {
+      "asset": "MAKINGMEMES"
+    },
+    {
+      "asset": "MAXIKEISER"
+    },
+    {
+      "asset": "MBSPEPE"
+    },
+    {
+      "asset": "MELANIANFT"
+    },
+    {
+      "asset": "MEMEKEKPRAY"
+    },
+    {
+      "asset": "MISSINGLINK"
+    },
+    {
+      "asset": "MOAB"
+    },
+    {
+      "asset": "MOAB.PEPEBOMB"
+    },
+    {
+      "asset": "MUGSHOT"
+    },
+    {
+      "asset": "MUSKJUMPING"
+    },
+    {
+      "asset": "MYSTICASCEND"
+    },
+    {
+      "asset": "MYTHQTRUMP"
+    },
+    {
+      "asset": "NAKAFUNGIBLE"
+    },
+    {
+      "asset": "NAKASENDIT"
+    },
+    {
+      "asset": "NCSWIC"
+    },
+    {
+      "asset": "NESSUNDORMA"
+    },
+    {
+      "asset": "NIGHTGUARD"
+    },
+    {
+      "asset": "NINELEVENPEP"
+    },
+    {
+      "asset": "NOBUSHINUNES"
+    },
+    {
+      "asset": "NOSTRDAMUS"
+    },
+    {
+      "asset": "NOTABLEPEPES"
+    },
+    {
+      "asset": "NOVAXPEPE"
+    },
+    {
+      "asset": "NPCPEPE"
+    },
+    {
+      "asset": "OFFGRID"
+    },
+    {
+      "asset": "OFFICIALPEPE"
+    },
+    {
+      "asset": "OLDHICKORY"
+    },
+    {
+      "asset": "ORANGEMAN"
+    },
+    {
+      "asset": "PAINCOMING"
+    },
+    {
+      "asset": "PANICINDC"
+    },
+    {
+      "asset": "PASSIONPEPE"
+    },
+    {
+      "asset": "PATRIOTPROG"
+    },
+    {
+      "asset": "PEPEAMMOUS"
+    },
+    {
+      "asset": "PEPEBAILEY"
+    },
+    {
+      "asset": "PEPEBROOKS"
+    },
+    {
+      "asset": "PEPECEE"
+    },
+    {
+      "asset": "PEPECHEQUES"
+    },
+    {
+      "asset": "PEPECHIEF"
+    },
+    {
+      "asset": "PEPECRAMER"
+    },
+    {
+      "asset": "PEPEFINKCOIN"
+    },
+    {
+      "asset": "PEPEFLYNN"
+    },
+    {
+      "asset": "PEPEFORD"
+    },
+    {
+      "asset": "PEPEFUSCA"
+    },
+    {
+      "asset": "PEPEGIGACHAD"
+    },
+    {
+      "asset": "PEPEISPROUD"
+    },
+    {
+      "asset": "PEPEJACKD"
+    },
+    {
+      "asset": "PEPEKWAST"
+    },
+    {
+      "asset": "PEPELASVEGAS"
+    },
+    {
+      "asset": "PEPELEGACY"
+    },
+    {
+      "asset": "PEPELETTER"
+    },
+    {
+      "asset": "PEPEMELANIA"
+    },
+    {
+      "asset": "PEPEMILEI"
+    },
+    {
+      "asset": "PEPEMNUCHIN"
+    },
+    {
+      "asset": "PEPEMOONLICK"
+    },
+    {
+      "asset": "PEPENOTHING"
+    },
+    {
+      "asset": "PEPEPAPARO"
+    },
+    {
+      "asset": "PEPEPATRIOT"
+    },
+    {
+      "asset": "PEPEPOWELL"
+    },
+    {
+      "asset": "PEPEQUINOX"
+    },
+    {
+      "asset": "PEPERAREST"
+    },
+    {
+      "asset": "PEPEREVERE"
+    },
+    {
+      "asset": "PEPEROGERS"
+    },
+    {
+      "asset": "PEPESAVEME"
+    },
+    {
+      "asset": "PEPESCULT"
+    },
+    {
+      "asset": "PEPESGATE"
+    },
+    {
+      "asset": "PEPESNOWDEN"
+    },
+    {
+      "asset": "PEPESOFWAR"
+    },
+    {
+      "asset": "PEPESTARLINK"
+    },
+    {
+      "asset": "PEPETEAPARTY"
+    },
+    {
+      "asset": "PEPETHEBAKER"
+    },
+    {
+      "asset": "PEPETRUMPFLG"
+    },
+    {
+      "asset": "PEPEUNITY"
+    },
+    {
+      "asset": "PEPEYMAR"
+    },
+    {
+      "asset": "PEPRAETORIAN"
+    },
+    {
+      "asset": "PETROBOBROSS"
+    },
+    {
+      "asset": "PIZZAGATE"
+    },
+    {
+      "asset": "POPCORNPUTIN"
+    },
+    {
+      "asset": "POTUSTRUMP"
+    },
+    {
+      "asset": "POWSTAUNITY"
+    },
+    {
+      "asset": "PROOFOFBYRNE"
+    },
+    {
+      "asset": "PROOFOFWOKE"
+    },
+    {
+      "asset": "PROPHETPEPES"
+    },
+    {
+      "asset": "PUREBLOODPEP"
+    },
+    {
+      "asset": "PUTINPOPCORN"
+    },
+    {
+      "asset": "QANON"
+    },
+    {
+      "asset": "QFLYNN"
+    },
+    {
+      "asset": "QTARDS"
+    },
+    {
+      "asset": "QTRUMP"
+    },
+    {
+      "asset": "RARECOCK"
+    },
+    {
+      "asset": "RAREGABRIEL"
+    },
+    {
+      "asset": "RAREMAGA"
+    },
+    {
+      "asset": "RAREQTRUMP"
+    },
+    {
+      "asset": "RAREREAGAN"
+    },
+    {
+      "asset": "RARERICTRUMP"
+    },
+    {
+      "asset": "RARERUGPULL"
+    },
+    {
+      "asset": "RESISTCBDC"
+    },
+    {
+      "asset": "RETURNOFUSA"
+    },
+    {
+      "asset": "RFKEK"
+    },
+    {
+      "asset": "RIDEWITHPEPE"
+    },
+    {
+      "asset": "ROTHSCHILDS"
+    },
+    {
+      "asset": "RUDYPILLER"
+    },
+    {
+      "asset": "RUGBEARD"
+    },
+    {
+      "asset": "RUGPULLRADIO"
+    },
+    {
+      "asset": "SAVEDFORJACK"
+    },
+    {
+      "asset": "SAVETHEQUEEN"
+    },
+    {
+      "asset": "SCAMDANKMAN"
+    },
+    {
+      "asset": "SCAREEVENT"
+    },
+    {
+      "asset": "SENATORKAREN"
+    },
+    {
+      "asset": "SETHRICHPEPE"
+    },
+    {
+      "asset": "SEVENDUBS"
+    },
+    {
+      "asset": "SHQWTIME"
+    },
+    {
+      "asset": "SLAVENOMORE"
+    },
+    {
+      "asset": "SMUGTRUMP",
+      "secondary": true
+    },
+    {
+      "asset": "SOFTWAR"
+    },
+    {
+      "asset": "STACKEMHIGH"
+    },
+    {
+      "asset": "STEALTHJEFF"
+    },
+    {
+      "asset": "STFUPEPE"
+    },
+    {
+      "asset": "STRLDYKEKUIT"
+    },
+    {
+      "asset": "SUPERTRUMP"
+    },
+    {
+      "asset": "TAXDEEZNUTS"
+    },
+    {
+      "asset": "TESLAENERGY"
+    },
+    {
+      "asset": "THANKQ"
+    },
+    {
+      "asset": "THECOLLECTIV"
+    },
+    {
+      "asset": "THEDEALER"
+    },
+    {
+      "asset": "THEGENERAL"
+    },
+    {
+      "asset": "THEPEPESTING"
+    },
+    {
+      "asset": "THEQTEAM"
+    },
+    {
+      "asset": "THESAVIOR"
+    },
+    {
+      "asset": "THESTORM"
+    },
+    {
+      "asset": "THREEONEFIVE"
+    },
+    {
+      "asset": "TIMESOFCHAOS"
+    },
+    {
+      "asset": "TIPPYTOPEPE"
+    },
+    {
+      "asset": "TOODAMNHIGH"
+    },
+    {
+      "asset": "TOOMANYPEPES"
+    },
+    {
+      "asset": "TOPDRAGON"
+    },
+    {
+      "asset": "TROJANPEPE"
+    },
+    {
+      "asset": "TRUMPAGENT"
+    },
+    {
+      "asset": "TRUMPDANCING"
+    },
+    {
+      "asset": "TRUMPEPIECE"
+    },
+    {
+      "asset": "TRUMPFORCE"
+    },
+    {
+      "asset": "TRUMPKENNEDY"
+    },
+    {
+      "asset": "TRUMPOWER"
+    },
+    {
+      "asset": "TRUMPRALLY"
+    },
+    {
+      "asset": "TRUMPRAREJR"
+    },
+    {
+      "asset": "TRUMPSOCIAL"
+    },
+    {
+      "asset": "TRUMPTACO"
+    },
+    {
+      "asset": "TRUMPTARDS"
+    },
+    {
+      "asset": "TRUMPTRAIN"
+    },
+    {
+      "asset": "TRUMTREASOR"
+    },
+    {
+      "asset": "TRUSTFLYNN"
+    },
+    {
+      "asset": "UNARMEDPEPE"
+    },
+    {
+      "asset": "UNNEGOTIABLE"
+    },
+    {
+      "asset": "USSFPEPE"
+    },
+    {
+      "asset": "VOTEHARD"
+    },
+    {
+      "asset": "VPEPETRUMP"
+    },
+    {
+      "asset": "WAROFTHEPEPE"
+    },
+    {
+      "asset": "WEBFIVEPEPE"
+    },
+    {
+      "asset": "WETHEMEDIA"
+    },
+    {
+      "asset": "WETHEPEPE",
+      "secondary": true
+    },
+    {
+      "asset": "WIKIASSANGE"
+    },
+    {
+      "asset": "WINNINGBIGLY"
+    },
+    {
+      "asset": "XCHAINLEGEND"
+    },
+    {
+      "asset": "XICHINPING"
+    },
+    {
+      "asset": "XILOVESKEK"
+    },
+    {
+      "asset": "YELLENPEPE"
+    },
+    {
+      "asset": "YINYIN"
+    },
+    {
+      "asset": "YOKAIPEPE"
+    },
+    {
+      "asset": "YOUDBEINJAIL"
+    },
+    {
+      "asset": "YOURTEARS"
+    },
+    {
+      "asset": "ZELENSKEKYY"
+    },
+    {
+      "asset": "ZEROFUKSPEPE"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "A13666694206942069420"
+    },
+    {
+      "asset": "BITCOINFROG"
+    },
+    {
+      "asset": "ENDFIAT"
+    },
+    {
+      "asset": "WARBONDS"
+    },
+    {
+      "asset": "WARBONDS.BITCOIN"
+    },
+    {
+      "asset": "WARBONDS.BITCOINFROG"
+    },
+    {
+      "asset": "WARBONDS.BOMBER"
+    },
+    {
+      "asset": "WARBONDS.BURN-SACRIFICE"
+    },
+    {
+      "asset": "WARBONDS.CODEXALIMENTARIUS"
+    },
+    {
+      "asset": "WARBONDS.CUSPOFREVOLUTION"
+    },
+    {
+      "asset": "WARBONDS.ONE"
+    },
+    {
+      "asset": "WARJAK",
+      "secondary": true
+    }
+  ]
+}

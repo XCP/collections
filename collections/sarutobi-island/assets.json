@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "asset": "NINJASUIT"
+    },
+    {
+      "asset": "MANDELDUCKCD"
+    },
+    {
+      "asset": "SARUTOBIISL"
+    },
+    {
+      "asset": "STBNIMBUS"
+    },
+    {
+      "asset": "KOSMOCD"
+    },
+    {
+      "asset": "MACHANCD"
+    },
+    {
+      "asset": "SARUTOBIPEPE",
+      "secondary": true
+    },
+    {
+      "asset": "SATOSHICARD",
+      "secondary": true
+    },
+    {
+      "asset": "CNPCARD",
+      "secondary": true
+    },
+    {
+      "asset": "SARUTOBICARD",
+      "secondary": true
+    }
+  ]
+}

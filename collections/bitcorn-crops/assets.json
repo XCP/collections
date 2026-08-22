@@ -1,0 +1,6192 @@
+{
+  "assets": [
+    {
+      "asset": "HELIPAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "YACHTDOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "LAMBOGARAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "LAMBOGARAGE.COSBY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "FARMHAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "CORNCOMBINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "THESCARECROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNMASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Looney"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "CORNPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "CORNMCAFEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "SQUASHES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "BITBEANS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNSILO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "RARECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "COOLCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "One for All"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "CORNKEEPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornkeeper"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "CORNBOSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "DANCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dlom"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "MAGNECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Magnecorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "CORNMASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Magnecorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "LORDOFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Magnecorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "CORNSPIRACY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "FARMCAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Farmcat"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "CHULAKORNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "SKULLCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "LADRONCORNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "One for All"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "ROOSTERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "One for All"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "BCASHCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mooncorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "FARMWHITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dlom"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "CORNZILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Magnecorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "CORNDOGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "DRYASABONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "FOREVERMOIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "PRINCESSCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dlom"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "CORNNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "CORNLEGEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Magnecorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "CORNTUKTUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "CORNHUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "CORNETHANOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNECT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bitcornect"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "RAINICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "THEOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "ELOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "SQUASHED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "CORNFLAG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "xoxbox"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "CORNPATROL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB_JPN"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "CORNSTAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "HIMAWARI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "MOISTERINGBC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "BATTLECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "ETHANOLFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 51
+        }
+      ]
+    },
+    {
+      "asset": "CORNKITTIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 52
+        }
+      ]
+    },
+    {
+      "asset": "CORNYEEZUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 53
+        }
+      ]
+    },
+    {
+      "asset": "MERICORNGOTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nick B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 54
+        }
+      ]
+    },
+    {
+      "asset": "CORNKUATO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 55
+        }
+      ]
+    },
+    {
+      "asset": "NOBORDERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 56
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNROWS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "IDrawBunnyPronz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 57
+        }
+      ]
+    },
+    {
+      "asset": "FARMERSLAMBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 58
+        }
+      ]
+    },
+    {
+      "asset": "GOGHCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 59
+        }
+      ]
+    },
+    {
+      "asset": "HYGROMETER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 60
+        }
+      ]
+    },
+    {
+      "asset": "CORNHOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 61
+        }
+      ]
+    },
+    {
+      "asset": "WATERTOWER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 62
+        }
+      ]
+    },
+    {
+      "asset": "CORNFREEDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dlom"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 63
+        }
+      ]
+    },
+    {
+      "asset": "HAYMAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 64
+        }
+      ]
+    },
+    {
+      "asset": "CABBAGES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 65
+        }
+      ]
+    },
+    {
+      "asset": "BILLYMAIZE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 66
+        }
+      ]
+    },
+    {
+      "asset": "CORNBEERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 67
+        }
+      ]
+    },
+    {
+      "asset": "CORNWALLIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 68
+        }
+      ]
+    },
+    {
+      "asset": "CORNTEETH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornteeth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 69
+        }
+      ]
+    },
+    {
+      "asset": "CORNBADGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornbadger"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 70
+        }
+      ]
+    },
+    {
+      "asset": "TREECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 71
+        }
+      ]
+    },
+    {
+      "asset": "THEKERNEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "IDrawBunnyPronz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 72
+        }
+      ]
+    },
+    {
+      "asset": "CORNPEDIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB_JPN"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 73
+        }
+      ]
+    },
+    {
+      "asset": "CNTSMOKECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 74
+        }
+      ]
+    },
+    {
+      "asset": "HAYABUSATWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 75
+        }
+      ]
+    },
+    {
+      "asset": "FARMSPIDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 76
+        }
+      ]
+    },
+    {
+      "asset": "HORSETRADER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 77
+        }
+      ]
+    },
+    {
+      "asset": "FUMAGATORMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 78
+        }
+      ]
+    },
+    {
+      "asset": "TOPDRESSING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 79
+        }
+      ]
+    },
+    {
+      "asset": "CORNATOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "asset": "VAPORCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 81
+        }
+      ]
+    },
+    {
+      "asset": "CORNBUDDHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 82
+        }
+      ]
+    },
+    {
+      "asset": "WIZARDOFCOBZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 83
+        }
+      ]
+    },
+    {
+      "asset": "CORNFETTI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 84
+        }
+      ]
+    },
+    {
+      "asset": "RETROFARMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 85
+        }
+      ]
+    },
+    {
+      "asset": "CORNCYRUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 86
+        }
+      ]
+    },
+    {
+      "asset": "NEWBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 87
+        }
+      ]
+    },
+    {
+      "asset": "LORDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 88
+        }
+      ]
+    },
+    {
+      "asset": "CORNPRAYER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "asset": "BATCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "asset": "COCORICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 91
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNWHALE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 92
+        }
+      ]
+    },
+    {
+      "asset": "MURDEROCROWS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 93
+        }
+      ]
+    },
+    {
+      "asset": "CORNPC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 94
+        }
+      ]
+    },
+    {
+      "asset": "RETROCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rangel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 95
+        }
+      ]
+    },
+    {
+      "asset": "ETHYLDRONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 96
+        }
+      ]
+    },
+    {
+      "asset": "BITSALTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bitsalts"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 97
+        }
+      ]
+    },
+    {
+      "asset": "CORNROASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 98
+        }
+      ]
+    },
+    {
+      "asset": "CORNMUNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornmune"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 99
+        }
+      ]
+    },
+    {
+      "asset": "FARMGIRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "asset": "CORNFLOYD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 102
+        }
+      ]
+    },
+    {
+      "asset": "CORNTANGCLAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 103
+        }
+      ]
+    },
+    {
+      "asset": "HARDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 104
+        }
+      ]
+    },
+    {
+      "asset": "BETYOURFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 105
+        }
+      ]
+    },
+    {
+      "asset": "METACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Metacorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 106
+        }
+      ]
+    },
+    {
+      "asset": "INVISIBLCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 107
+        }
+      ]
+    },
+    {
+      "asset": "CORNAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 108
+        }
+      ]
+    },
+    {
+      "asset": "CORNUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornmune"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 109
+        }
+      ]
+    },
+    {
+      "asset": "FULLCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 110
+        }
+      ]
+    },
+    {
+      "asset": "CORNYODA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 111
+        }
+      ]
+    },
+    {
+      "asset": "CHILDRENCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 112
+        }
+      ]
+    },
+    {
+      "asset": "LEGOTHICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 113
+        }
+      ]
+    },
+    {
+      "asset": "CORNBANKSED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 114
+        }
+      ]
+    },
+    {
+      "asset": "DEACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 115
+        }
+      ]
+    },
+    {
+      "asset": "MOONBRUNCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 101
+        }
+      ]
+    },
+    {
+      "asset": "CORNDAPP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Cornfather"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 116
+        }
+      ]
+    },
+    {
+      "asset": "DECORNSTRUCT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 117
+        }
+      ]
+    },
+    {
+      "asset": "CORNDRONES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornbadger"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 118
+        }
+      ]
+    },
+    {
+      "asset": "CORNONYMOUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cronos One"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 119
+        }
+      ]
+    },
+    {
+      "asset": "MCORNJACKSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "asset": "BITBROTHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 121
+        }
+      ]
+    },
+    {
+      "asset": "CORNROE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 122
+        }
+      ]
+    },
+    {
+      "asset": "RDYPLYRCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 123
+        }
+      ]
+    },
+    {
+      "asset": "QRCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 124
+        }
+      ]
+    },
+    {
+      "asset": "CORNRUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 125
+        }
+      ]
+    },
+    {
+      "asset": "ROBINCORND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 126
+        }
+      ]
+    },
+    {
+      "asset": "PIGCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 127
+        }
+      ]
+    },
+    {
+      "asset": "POPCORNWAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 128
+        }
+      ]
+    },
+    {
+      "asset": "PIGSAMURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 129
+        }
+      ]
+    },
+    {
+      "asset": "CROWGANGSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 130
+        }
+      ]
+    },
+    {
+      "asset": "CORNHEIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 131
+        }
+      ]
+    },
+    {
+      "asset": "CORNBANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 132
+        }
+      ]
+    },
+    {
+      "asset": "SHUTTLECOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 133
+        }
+      ]
+    },
+    {
+      "asset": "CORNBENEDICT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 134
+        }
+      ]
+    },
+    {
+      "asset": "CORNADO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 135
+        }
+      ]
+    },
+    {
+      "asset": "CORNSHEET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 136
+        }
+      ]
+    },
+    {
+      "asset": "MIACORNLIFA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 137
+        }
+      ]
+    },
+    {
+      "asset": "LILYCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 138
+        }
+      ]
+    },
+    {
+      "asset": "XXXCORNSTAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 139
+        }
+      ]
+    },
+    {
+      "asset": "BENCHQUALITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 140
+        }
+      ]
+    },
+    {
+      "asset": "PLENTYOCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Plentyocorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 141
+        }
+      ]
+    },
+    {
+      "asset": "KORNHOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 142
+        }
+      ]
+    },
+    {
+      "asset": "MARICORNROE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 143
+        }
+      ]
+    },
+    {
+      "asset": "BRUNCHATTIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 144
+        }
+      ]
+    },
+    {
+      "asset": "ICPNINJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Icpninja"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 145
+        }
+      ]
+    },
+    {
+      "asset": "CORNFITI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 146
+        }
+      ]
+    },
+    {
+      "asset": "CORNPUTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 147
+        }
+      ]
+    },
+    {
+      "asset": "YUBICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 148
+        }
+      ]
+    },
+    {
+      "asset": "CYBERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 149
+        }
+      ]
+    },
+    {
+      "asset": "CORNPHAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kurt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "asset": "BLACKCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 151
+        }
+      ]
+    },
+    {
+      "asset": "CORNBOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rangel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 152
+        }
+      ]
+    },
+    {
+      "asset": "HARVESTERROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 153
+        }
+      ]
+    },
+    {
+      "asset": "BINARYCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Plentyocorn"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 154
+        }
+      ]
+    },
+    {
+      "asset": "SPACECWARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 155
+        }
+      ]
+    },
+    {
+      "asset": "EVILWITCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 156
+        }
+      ]
+    },
+    {
+      "asset": "WARMAIDEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 157
+        }
+      ]
+    },
+    {
+      "asset": "MOONSUIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 158
+        }
+      ]
+    },
+    {
+      "asset": "CORNSCLATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 159
+        }
+      ]
+    },
+    {
+      "asset": "CORNMIMOSA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 160
+        }
+      ]
+    },
+    {
+      "asset": "CORNQUEENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bench"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 161
+        }
+      ]
+    },
+    {
+      "asset": "CORNANSECOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 162
+        }
+      ]
+    },
+    {
+      "asset": "NOBODYKNOWS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "One for All"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 163
+        }
+      ]
+    },
+    {
+      "asset": "XPLOTIONCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 164
+        }
+      ]
+    },
+    {
+      "asset": "CORNTITIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 165
+        }
+      ]
+    },
+    {
+      "asset": "MAYAICO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mayaico"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 166
+        }
+      ]
+    },
+    {
+      "asset": "CORNTAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 167
+        }
+      ]
+    },
+    {
+      "asset": "CORNSIGNALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 168
+        }
+      ]
+    },
+    {
+      "asset": "BIRTHOFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 169
+        }
+      ]
+    },
+    {
+      "asset": "HOMIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 170
+        }
+      ]
+    },
+    {
+      "asset": "CORNPUFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 171
+        }
+      ]
+    },
+    {
+      "asset": "HARVESTTIME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 172
+        }
+      ]
+    },
+    {
+      "asset": "CORNSANTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 173
+        }
+      ]
+    },
+    {
+      "asset": "CORNDLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 174
+        }
+      ]
+    },
+    {
+      "asset": "CORNATELLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 175
+        }
+      ]
+    },
+    {
+      "asset": "LEOCORNO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 176
+        }
+      ]
+    },
+    {
+      "asset": "MAIZELANGELO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 177
+        }
+      ]
+    },
+    {
+      "asset": "RAPHARMEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 178
+        }
+      ]
+    },
+    {
+      "asset": "ZUCCHINIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 179
+        }
+      ]
+    },
+    {
+      "asset": "CORNDISPNSER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "asset": "CORNFIFTYONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 181
+        }
+      ]
+    },
+    {
+      "asset": "STEAMCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 182
+        }
+      ]
+    },
+    {
+      "asset": "TAPEDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 183
+        }
+      ]
+    },
+    {
+      "asset": "CORNPLANET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 184
+        }
+      ]
+    },
+    {
+      "asset": "MOVIECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 185
+        }
+      ]
+    },
+    {
+      "asset": "EOSCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 186
+        }
+      ]
+    },
+    {
+      "asset": "CORNTMPORARY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 187
+        }
+      ]
+    },
+    {
+      "asset": "CORNMISSION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 188
+        }
+      ]
+    },
+    {
+      "asset": "ROBOCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 189
+        }
+      ]
+    },
+    {
+      "asset": "CORNCENTRIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 190
+        }
+      ]
+    },
+    {
+      "asset": "CORNTRIDGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 191
+        }
+      ]
+    },
+    {
+      "asset": "EXCALICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 192
+        }
+      ]
+    },
+    {
+      "asset": "CIRCLEOFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 193
+        }
+      ]
+    },
+    {
+      "asset": "CORNDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 194
+        }
+      ]
+    },
+    {
+      "asset": "CORNSURF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 195
+        }
+      ]
+    },
+    {
+      "asset": "CORNDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 196
+        }
+      ]
+    },
+    {
+      "asset": "SHUKIRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 197
+        }
+      ]
+    },
+    {
+      "asset": "CORNSNACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 198
+        }
+      ]
+    },
+    {
+      "asset": "CORNAVIRUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 199
+        }
+      ]
+    },
+    {
+      "asset": "DWARFCORNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 200
+        }
+      ]
+    },
+    {
+      "asset": "SELFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 201
+        }
+      ]
+    },
+    {
+      "asset": "CORNMARINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 202
+        }
+      ]
+    },
+    {
+      "asset": "LEGOBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 203
+        }
+      ]
+    },
+    {
+      "asset": "THECORNKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 204
+        }
+      ]
+    },
+    {
+      "asset": "CORNCROSSING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 205
+        }
+      ]
+    },
+    {
+      "asset": "WHERESCORNDO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mathew"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 206
+        }
+      ]
+    },
+    {
+      "asset": "CORNLENNON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 207
+        }
+      ]
+    },
+    {
+      "asset": "SRIRACHACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 208
+        }
+      ]
+    },
+    {
+      "asset": "CARN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "asset": "ELTONCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 211
+        }
+      ]
+    },
+    {
+      "asset": "CORNPOOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 212
+        }
+      ]
+    },
+    {
+      "asset": "PLACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 213
+        }
+      ]
+    },
+    {
+      "asset": "STATEOFMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 214
+        }
+      ]
+    },
+    {
+      "asset": "MCCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 215
+        }
+      ]
+    },
+    {
+      "asset": "ELMAIZLOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maizloco"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 216
+        }
+      ]
+    },
+    {
+      "asset": "DEEPCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 217
+        }
+      ]
+    },
+    {
+      "asset": "FARMROAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 218
+        }
+      ]
+    },
+    {
+      "asset": "CORNLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 219
+        }
+      ]
+    },
+    {
+      "asset": "QCDEUTSCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 220
+        }
+      ]
+    },
+    {
+      "asset": "QCLOVGROVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 221
+        }
+      ]
+    },
+    {
+      "asset": "QCSHOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 222
+        }
+      ]
+    },
+    {
+      "asset": "HULKORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 223
+        }
+      ]
+    },
+    {
+      "asset": "CORB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Raretruck"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 224
+        }
+      ]
+    },
+    {
+      "asset": "DENTCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 225
+        }
+      ]
+    },
+    {
+      "asset": "SOLITAIREART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 226
+        }
+      ]
+    },
+    {
+      "asset": "SHITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 227
+        }
+      ]
+    },
+    {
+      "asset": "MRCORNHEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 228
+        }
+      ]
+    },
+    {
+      "asset": "CORNOLITH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 229
+        }
+      ]
+    },
+    {
+      "asset": "BTCHVN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 230
+        }
+      ]
+    },
+    {
+      "asset": "HOWTOFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 231
+        }
+      ]
+    },
+    {
+      "asset": "ROBOCORNTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 232
+        }
+      ]
+    },
+    {
+      "asset": "CORNMUSK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 233
+        }
+      ]
+    },
+    {
+      "asset": "CORNTEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 234
+        }
+      ]
+    },
+    {
+      "asset": "CORNSPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyborg Lemur"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 235
+        }
+      ]
+    },
+    {
+      "asset": "EARLYCORNING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyborg Lemur"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 236
+        }
+      ]
+    },
+    {
+      "asset": "CROPR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyborg Lemur"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 237
+        }
+      ]
+    },
+    {
+      "asset": "WATERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 238
+        }
+      ]
+    },
+    {
+      "asset": "CORNROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 239
+        }
+      ]
+    },
+    {
+      "asset": "NFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bitcornect"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 240
+        }
+      ]
+    },
+    {
+      "asset": "CORRNUPT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 241
+        }
+      ]
+    },
+    {
+      "asset": "CORNDRIVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 242
+        }
+      ]
+    },
+    {
+      "asset": "PENPENPOPCOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 243
+        }
+      ]
+    },
+    {
+      "asset": "CORNYDLUFFY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 244
+        }
+      ]
+    },
+    {
+      "asset": "GOLDENGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 245
+        }
+      ]
+    },
+    {
+      "asset": "CORNHARRISON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gypsyladiez"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 246
+        }
+      ]
+    },
+    {
+      "asset": "FARMRAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 247
+        }
+      ]
+    },
+    {
+      "asset": "CANNEDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 248
+        }
+      ]
+    },
+    {
+      "asset": "RAREALPACA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 249
+        }
+      ]
+    },
+    {
+      "asset": "MINECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 250
+        }
+      ]
+    },
+    {
+      "asset": "MEGACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 251
+        }
+      ]
+    },
+    {
+      "asset": "CORNALISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyborg Lemur"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 252
+        }
+      ]
+    },
+    {
+      "asset": "CORNFUTURES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 253
+        }
+      ]
+    },
+    {
+      "asset": "POPKERN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 254
+        }
+      ]
+    },
+    {
+      "asset": "SWALLOWCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 255
+        }
+      ]
+    },
+    {
+      "asset": "CORNSAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB_JPN"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 256
+        }
+      ]
+    },
+    {
+      "asset": "CORNGEISHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 257
+        }
+      ]
+    },
+    {
+      "asset": "BRRR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 258
+        }
+      ]
+    },
+    {
+      "asset": "COSMICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 259
+        }
+      ]
+    },
+    {
+      "asset": "CORNMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 260
+        }
+      ]
+    },
+    {
+      "asset": "TMNCORNOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 261
+        }
+      ]
+    },
+    {
+      "asset": "CORNTATTOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 262
+        }
+      ]
+    },
+    {
+      "asset": "NOTCORNPRESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 263
+        }
+      ]
+    },
+    {
+      "asset": "FARMFEUDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 264
+        }
+      ]
+    },
+    {
+      "asset": "HARVESTMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 265
+        }
+      ]
+    },
+    {
+      "asset": "CORNSOLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 266
+        }
+      ]
+    },
+    {
+      "asset": "THEARKENCOBB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 267
+        }
+      ]
+    },
+    {
+      "asset": "XILONEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 268
+        }
+      ]
+    },
+    {
+      "asset": "WATCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Aru"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 269
+        }
+      ]
+    },
+    {
+      "asset": "CLAYCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 270
+        }
+      ]
+    },
+    {
+      "asset": "XCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 271
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 272
+        }
+      ]
+    },
+    {
+      "asset": "SPACECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 273
+        }
+      ]
+    },
+    {
+      "asset": "CROD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 274
+        }
+      ]
+    },
+    {
+      "asset": "KIMCORNGUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 275
+        }
+      ]
+    },
+    {
+      "asset": "SPOOKYCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 276
+        }
+      ]
+    },
+    {
+      "asset": "CORNKONG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 277
+        }
+      ]
+    },
+    {
+      "asset": "CORNBASQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 278
+        }
+      ]
+    },
+    {
+      "asset": "CORNARTIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 279
+        }
+      ]
+    },
+    {
+      "asset": "CANDYBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AmishBTC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 280
+        }
+      ]
+    },
+    {
+      "asset": "CORNDREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 281
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 282
+        }
+      ]
+    },
+    {
+      "asset": "CORNROOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 283
+        }
+      ]
+    },
+    {
+      "asset": "CORNDINSKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 284
+        }
+      ]
+    },
+    {
+      "asset": "NIGHTSTALKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 285
+        }
+      ]
+    },
+    {
+      "asset": "TIGERCOBB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 286
+        }
+      ]
+    },
+    {
+      "asset": "TEMPLEOFCOBB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Moonbrunch"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 287
+        }
+      ]
+    },
+    {
+      "asset": "CORNMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 288
+        }
+      ]
+    },
+    {
+      "asset": "CORNCASINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 289
+        }
+      ]
+    },
+    {
+      "asset": "SERORI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 290
+        }
+      ]
+    },
+    {
+      "asset": "CORNESAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 291
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNBILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 292
+        }
+      ]
+    },
+    {
+      "asset": "CORNYHAWK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jpegtrashbin"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 293
+        }
+      ]
+    },
+    {
+      "asset": "CROPTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 294
+        }
+      ]
+    },
+    {
+      "asset": "CORNOLOGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 295
+        }
+      ]
+    },
+    {
+      "asset": "JUDGECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 296
+        }
+      ]
+    },
+    {
+      "asset": "CORNGANGSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 297
+        }
+      ]
+    },
+    {
+      "asset": "HALFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 298
+        }
+      ]
+    },
+    {
+      "asset": "CORNKOONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 299
+        }
+      ]
+    },
+    {
+      "asset": "REALBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 300
+        }
+      ]
+    },
+    {
+      "asset": "CORNPREDATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 301
+        }
+      ]
+    },
+    {
+      "asset": "SPACEHARVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T2C"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 302
+        }
+      ]
+    },
+    {
+      "asset": "NEXGENTUKTUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 303
+        }
+      ]
+    },
+    {
+      "asset": "CORNKABUKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB_JPN"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 304
+        }
+      ]
+    },
+    {
+      "asset": "ONSENCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB_JPN"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 305
+        }
+      ]
+    },
+    {
+      "asset": "CORNONOFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 306
+        }
+      ]
+    },
+    {
+      "asset": "CORNVIDXIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 307
+        }
+      ]
+    },
+    {
+      "asset": "WATERCORNTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 308
+        }
+      ]
+    },
+    {
+      "asset": "MVRS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 309
+        }
+      ]
+    },
+    {
+      "asset": "THECORNKISS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 310
+        }
+      ]
+    },
+    {
+      "asset": "VIVIDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 311
+        }
+      ]
+    },
+    {
+      "asset": "CUBISTCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 312
+        }
+      ]
+    },
+    {
+      "asset": "CORNBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 313
+        }
+      ]
+    },
+    {
+      "asset": "METACORNPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FutureMeme"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 314
+        }
+      ]
+    },
+    {
+      "asset": "MONDRIANCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 315
+        }
+      ]
+    },
+    {
+      "asset": "CORNFIGURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 316
+        }
+      ]
+    },
+    {
+      "asset": "CORNMIRROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 317
+        }
+      ]
+    },
+    {
+      "asset": "OMICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 318
+        }
+      ]
+    },
+    {
+      "asset": "THECORNMASK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 319
+        }
+      ]
+    },
+    {
+      "asset": "CORNVAULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 320
+        }
+      ]
+    },
+    {
+      "asset": "CORNSQUIGGLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "xoxbox"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 321
+        }
+      ]
+    },
+    {
+      "asset": "GREATCORNSBY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 322
+        }
+      ]
+    },
+    {
+      "asset": "UNIBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 323
+        }
+      ]
+    },
+    {
+      "asset": "JOKERN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 324
+        }
+      ]
+    },
+    {
+      "asset": "CORNPOLLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 325
+        }
+      ]
+    },
+    {
+      "asset": "DALICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 326
+        }
+      ]
+    },
+    {
+      "asset": "CORNGOAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 327
+        }
+      ]
+    },
+    {
+      "asset": "GAMECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 328
+        }
+      ]
+    },
+    {
+      "asset": "KORNCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 329
+        }
+      ]
+    },
+    {
+      "asset": "CORNTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Average"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 330
+        }
+      ]
+    },
+    {
+      "asset": "CORNWAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 331
+        }
+      ]
+    },
+    {
+      "asset": "KETCHUPMAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 332
+        }
+      ]
+    },
+    {
+      "asset": "MAYAJALOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 333
+        }
+      ]
+    },
+    {
+      "asset": "CORNGUINESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 334
+        }
+      ]
+    },
+    {
+      "asset": "ELIZABETHII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 335
+        }
+      ]
+    },
+    {
+      "asset": "MODERNCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 336
+        }
+      ]
+    },
+    {
+      "asset": "CORNINFINITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 337
+        }
+      ]
+    },
+    {
+      "asset": "CORNROOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 338
+        }
+      ]
+    },
+    {
+      "asset": "CENTEOTL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 339
+        }
+      ]
+    },
+    {
+      "asset": "CORNOBYL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 340
+        }
+      ]
+    },
+    {
+      "asset": "CORNCAPTCHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 341
+        }
+      ]
+    },
+    {
+      "asset": "CHITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 342
+        }
+      ]
+    },
+    {
+      "asset": "CORNLADY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 343
+        }
+      ]
+    },
+    {
+      "asset": "DOTCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 344
+        }
+      ]
+    },
+    {
+      "asset": "CORNPATRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 345
+        }
+      ]
+    },
+    {
+      "asset": "LASTCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 346
+        }
+      ]
+    },
+    {
+      "asset": "LASTHARVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 347
+        }
+      ]
+    },
+    {
+      "asset": "CORNSEC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 348
+        }
+      ]
+    },
+    {
+      "asset": "RATPEPECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 349
+        }
+      ]
+    },
+    {
+      "asset": "CORNBASQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 350
+        }
+      ]
+    },
+    {
+      "asset": "CORNVOLCANO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 351
+        }
+      ]
+    },
+    {
+      "asset": "CORNCINEMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 352
+        }
+      ]
+    },
+    {
+      "asset": "BULLRUNCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 353
+        }
+      ]
+    },
+    {
+      "asset": "CORNSURVIVAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 354
+        }
+      ]
+    },
+    {
+      "asset": "CROPCIRCLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dante"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 355
+        }
+      ]
+    },
+    {
+      "asset": "CORNMODERN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 356
+        }
+      ]
+    },
+    {
+      "asset": "XIIDISCIPLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Hawking"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 357
+        }
+      ]
+    },
+    {
+      "asset": "SCORNFUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 358
+        }
+      ]
+    },
+    {
+      "asset": "MAIZEGOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 359
+        }
+      ]
+    },
+    {
+      "asset": "CORNFUSED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 360
+        }
+      ]
+    },
+    {
+      "asset": "FARMREST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Odditieslabs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 361
+        }
+      ]
+    },
+    {
+      "asset": "CORNDOBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dante"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 362
+        }
+      ]
+    },
+    {
+      "asset": "COMEBACKCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 363
+        }
+      ]
+    },
+    {
+      "asset": "KORA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 364
+        }
+      ]
+    }
+  ]
+}

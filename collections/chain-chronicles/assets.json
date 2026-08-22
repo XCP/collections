@@ -1,0 +1,380 @@
+{
+  "assets": [
+    {
+      "asset": "CCONEJUN"
+    },
+    {
+      "asset": "CCONEJUL"
+    },
+    {
+      "asset": "CCONEAUG",
+      "attributes": [
+        {
+          "trait_type": "ID",
+          "value": 4
+        },
+        {
+          "trait_type": "Month",
+          "value": "August"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCONESEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Le Crabe et la Mécano"
+        },
+        {
+          "trait_type": "ID",
+          "value": 5
+        },
+        {
+          "trait_type": "Month",
+          "value": "September"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCONEOCT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RVig"
+        },
+        {
+          "trait_type": "ID",
+          "value": 6
+        },
+        {
+          "trait_type": "Month",
+          "value": "October"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCONENOV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AAL"
+        },
+        {
+          "trait_type": "ID",
+          "value": 7
+        },
+        {
+          "trait_type": "Month",
+          "value": "November"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCONEDEC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "ID",
+          "value": 8
+        },
+        {
+          "trait_type": "Month",
+          "value": "December"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOJAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daniel Guedes Almeida"
+        },
+        {
+          "trait_type": "ID",
+          "value": 1
+        },
+        {
+          "trait_type": "Month",
+          "value": "January"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOFEB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "ID",
+          "value": 2
+        },
+        {
+          "trait_type": "Month",
+          "value": "February"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOMAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nusi Neptune"
+        },
+        {
+          "trait_type": "ID",
+          "value": 3
+        },
+        {
+          "trait_type": "Month",
+          "value": "March"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOAPR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "ID",
+          "value": 4
+        },
+        {
+          "trait_type": "Month",
+          "value": "April"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOMAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "ID",
+          "value": 5
+        },
+        {
+          "trait_type": "Month",
+          "value": "May"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOJUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dArt"
+        },
+        {
+          "trait_type": "ID",
+          "value": 6
+        },
+        {
+          "trait_type": "Month",
+          "value": "June"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOJUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "ID",
+          "value": 7
+        },
+        {
+          "trait_type": "Month",
+          "value": "July"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOAUG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pompote"
+        },
+        {
+          "trait_type": "ID",
+          "value": 8
+        },
+        {
+          "trait_type": "Month",
+          "value": "August"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOSEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Necio"
+        },
+        {
+          "trait_type": "ID",
+          "value": 9
+        },
+        {
+          "trait_type": "Month",
+          "value": "September"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWOOCT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yzia"
+        },
+        {
+          "trait_type": "ID",
+          "value": 10
+        },
+        {
+          "trait_type": "Month",
+          "value": "October"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCONEMAY",
+      "attributes": [
+        {
+          "trait_type": "ID",
+          "value": 1
+        },
+        {
+          "trait_type": "Month",
+          "value": "May"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "CCTWONOV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sadi"
+        },
+        {
+          "trait_type": "ID",
+          "value": 11
+        },
+        {
+          "trait_type": "Month",
+          "value": "November"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    },
+    {
+      "asset": "CCTWODEC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katie"
+        },
+        {
+          "trait_type": "ID",
+          "value": 12
+        },
+        {
+          "trait_type": "Month",
+          "value": "December"
+        },
+        {
+          "trait_type": "Year",
+          "value": 2024
+        }
+      ]
+    }
+  ]
+}

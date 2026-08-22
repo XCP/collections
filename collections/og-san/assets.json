@@ -1,0 +1,1872 @@
+{
+  "assets": [
+    {
+      "asset": "A1013826552112589989",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2020-09-06"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A14753127657782190376",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ordinals"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2022-12-14"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Casey Rodarmor"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A14141771838252267269",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2018-01-13"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A12134887489357533809",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2017-11-23"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Victoria Verdandi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A5012699473989793402",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2017-10-05"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Bea"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A14471872474292056237",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Archaeologist"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2021-10-25"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Blackstar"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A10918714973240296412",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-01-04"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Adam Krellenstein"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A1285868742713285494",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2015-04-02"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Joe Looney"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A576917516821835528",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2023-03-07"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Mike in Space"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A18411716912971484027",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2017-10-08"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "J-Dog"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A2527769680272619859",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-11-11"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Koji Higashi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A17083754030282334855",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2016-10-13"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "DJ Pepe"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A14702543915777656671",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Archaeologist"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2020-01-04"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "White Rabbit"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A11044773168806097806",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Yuta Hoshino"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A9209339923623616237",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2016-09-09"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A17775097723377727367",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-06-04"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Tatiana Moroz"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A774356528023318633",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2015-03-08"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "J-Dog"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A12756970605926329039",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Jake Gallen"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A3044635424174627499",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Adam Krellenstein"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A16256487697342025910",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Bitcoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "1993-01-17"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Hal Finney"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A9855739810982089063",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Yuta Hoshino"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A8742875847584278936",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Dogecoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-06-12"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A7093721709733792267",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Namecoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2011-04-21"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A5137877712260991869",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2024-01-14"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Adam Krellenstein"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A15239983237543190026",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Dogecoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2021-09-01"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A16366151134120288737",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Bitcoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2016-01-20"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Christian Moss"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A8366393334012789727",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Christian Moss"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A8116521642299524256",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Christian Moss"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A5217190686543753008",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Tatiana Moroz"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A10018749742304531345",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shiba Inu Doge"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A9837851915070570338",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Joe Looney"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A7220187529096321178",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2015-03-11"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A4673545155231084889",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Mike in Space"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A5278400634395688587",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Mike in Space"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A1910799000581361382",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A3589196254492385215",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A8067142291597280469",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Bitcoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2023-03-07"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A4643986737164150886",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Koji Higashi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A4971540366464846444",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Judy Mam"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A6754296578608026099",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Judy Mam"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A3128566312985490403",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "J-Dog"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A5491977837476581707",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "White Rabbit"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A8650194360701480281",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "J-Dog"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A9974623704996341525",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Eiji Shishido"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A2648983367830798875",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2017-08-14"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Midnight Lightning"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A7605625257651336533",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "White Rabbit"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A12448641381885766901",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Ken Erwin"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A16877224346653735829",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Ken Erwin"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A14799629840876615216",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-09-14"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Nili"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A4103220783487762387",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Bitcoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2009-01-03"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Satoshi Nakamoto"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A5702565166537433923",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2015-07-30"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A1943205514830040091",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2016-12-17"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Kendog"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A15638380812027364583",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Victoria Verdandi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A1316784888777189979",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Joe Looney"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A5717343789541763917",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Tatiana Moroz"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A6676790585486705177",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A5790043686311210128",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Victoria Verdandi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A4711561211213926328",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shiba Inu Doge"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A17247733332236032835",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Eiji Shishido"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A14833365965605906255",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2018-07-19"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Decentraliser"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A16145935685763578960",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Archaeologist"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2021-03-27"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Adam McBride"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A5611552008823849968",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Adam Krellenstein"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A7610462009031011370",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A5683920235071952999",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Bea"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A1680274955710046792",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2017-06-23"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A15857211624979838854",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2021-09-28"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A16321657115692988044",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Jake Gallen"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A14693625561303346526",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Satoshi Nakamoto"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A11186447992445850818",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Bitcoin"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-12-19"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Christian Moss"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A7736849782436255021",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2015-04-30"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Koji Higashi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A1255827006112586258",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2014-06-12"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A9290681969618175914",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2018-06-09"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Nicolas Sierro"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A3885731139056003887",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Satoshi Nakamoto"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    },
+    {
+      "asset": "A13543332291515556030",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Koji Higashi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Holo"
+        }
+      ]
+    },
+    {
+      "asset": "A2049758991431624433",
+      "attributes": [
+        {
+          "trait_type": "Affiliation",
+          "value": "Counterparty"
+        },
+        {
+          "trait_type": "Date",
+          "value": "2016-08-12"
+        },
+        {
+          "trait_type": "Pioneer",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Event"
+        }
+      ]
+    },
+    {
+      "asset": "A12056624674966638986",
+      "attributes": [
+        {
+          "trait_type": "Pioneer",
+          "value": "Bea"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Season",
+          "value": 1
+        },
+        {
+          "trait_type": "Type",
+          "value": "Hero"
+        }
+      ]
+    }
+  ]
+}

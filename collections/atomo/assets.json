@@ -1,0 +1,413 @@
+{
+  "assets": [
+    {
+      "asset": "CHCRYPTOCAT"
+    },
+    {
+      "asset": "CORNATOMO",
+      "secondary": true
+    },
+    {
+      "asset": "FRENSINPARIS"
+    },
+    {
+      "asset": "LATOMO"
+    },
+    {
+      "asset": "LATOMOAC"
+    },
+    {
+      "asset": "LATOMOAG"
+    },
+    {
+      "asset": "LATOMOAL"
+    },
+    {
+      "asset": "LATOMOAM"
+    },
+    {
+      "asset": "LATOMOAR"
+    },
+    {
+      "asset": "LATOMOAS"
+    },
+    {
+      "asset": "LATOMOAT"
+    },
+    {
+      "asset": "LATOMOAU"
+    },
+    {
+      "asset": "LATOMOB"
+    },
+    {
+      "asset": "LATOMOBA"
+    },
+    {
+      "asset": "LATOMOBCY"
+    },
+    {
+      "asset": "LATOMOBE"
+    },
+    {
+      "asset": "LATOMOBH"
+    },
+    {
+      "asset": "LATOMOBI"
+    },
+    {
+      "asset": "LATOMOBK"
+    },
+    {
+      "asset": "LATOMOBOO"
+    },
+    {
+      "asset": "LATOMOBR"
+    },
+    {
+      "asset": "LATOMOBRAIN"
+    },
+    {
+      "asset": "LATOMOC"
+    },
+    {
+      "asset": "LATOMOCA"
+    },
+    {
+      "asset": "LATOMOCAPTIO"
+    },
+    {
+      "asset": "LATOMOCD"
+    },
+    {
+      "asset": "LATOMOCE"
+    },
+    {
+      "asset": "LATOMOCF"
+    },
+    {
+      "asset": "LATOMOCL"
+    },
+    {
+      "asset": "LATOMOCM"
+    },
+    {
+      "asset": "LATOMOCN"
+    },
+    {
+      "asset": "LATOMOCO"
+    },
+    {
+      "asset": "LATOMOCR"
+    },
+    {
+      "asset": "LATOMOCS"
+    },
+    {
+      "asset": "LATOMOCU"
+    },
+    {
+      "asset": "LATOMODB"
+    },
+    {
+      "asset": "LATOMODS"
+    },
+    {
+      "asset": "LATOMODY"
+    },
+    {
+      "asset": "LATOMOER"
+    },
+    {
+      "asset": "LATOMOES"
+    },
+    {
+      "asset": "LATOMOEU"
+    },
+    {
+      "asset": "LATOMOF"
+    },
+    {
+      "asset": "LATOMOFE"
+    },
+    {
+      "asset": "LATOMOFL"
+    },
+    {
+      "asset": "LATOMOFM"
+    },
+    {
+      "asset": "LATOMOFOMO"
+    },
+    {
+      "asset": "LATOMOFR"
+    },
+    {
+      "asset": "LATOMOFUN"
+    },
+    {
+      "asset": "LATOMOGA"
+    },
+    {
+      "asset": "LATOMOGD"
+    },
+    {
+      "asset": "LATOMOGE"
+    },
+    {
+      "asset": "LATOMOH"
+    },
+    {
+      "asset": "LATOMOHE"
+    },
+    {
+      "asset": "LATOMOHF"
+    },
+    {
+      "asset": "LATOMOHG"
+    },
+    {
+      "asset": "LATOMOHO"
+    },
+    {
+      "asset": "LATOMOHOHOHO"
+    },
+    {
+      "asset": "LATOMOHS"
+    },
+    {
+      "asset": "LATOMOI"
+    },
+    {
+      "asset": "LATOMOIN"
+    },
+    {
+      "asset": "LATOMOIR"
+    },
+    {
+      "asset": "LATOMOK"
+    },
+    {
+      "asset": "LATOMOKR"
+    },
+    {
+      "asset": "LATOMOLA"
+    },
+    {
+      "asset": "LATOMOLI"
+    },
+    {
+      "asset": "LATOMOLR"
+    },
+    {
+      "asset": "LATOMOLU"
+    },
+    {
+      "asset": "LATOMOLUCKY"
+    },
+    {
+      "asset": "LATOMOLV"
+    },
+    {
+      "asset": "LATOMOMC"
+    },
+    {
+      "asset": "LATOMOMD"
+    },
+    {
+      "asset": "LATOMOMG"
+    },
+    {
+      "asset": "LATOMOMN"
+    },
+    {
+      "asset": "LATOMOMO"
+    },
+    {
+      "asset": "LATOMOMT"
+    },
+    {
+      "asset": "LATOMON"
+    },
+    {
+      "asset": "LATOMONA"
+    },
+    {
+      "asset": "LATOMONB"
+    },
+    {
+      "asset": "LATOMOND"
+    },
+    {
+      "asset": "LATOMONE"
+    },
+    {
+      "asset": "LATOMONH"
+    },
+    {
+      "asset": "LATOMONI"
+    },
+    {
+      "asset": "LATOMONO"
+    },
+    {
+      "asset": "LATOMONOICO"
+    },
+    {
+      "asset": "LATOMONP"
+    },
+    {
+      "asset": "LATOMOO"
+    },
+    {
+      "asset": "LATOMOOG"
+    },
+    {
+      "asset": "LATOMOONOFF"
+    },
+    {
+      "asset": "LATOMOOS"
+    },
+    {
+      "asset": "LATOMOP"
+    },
+    {
+      "asset": "LATOMOPA"
+    },
+    {
+      "asset": "LATOMOPB"
+    },
+    {
+      "asset": "LATOMOPD"
+    },
+    {
+      "asset": "LATOMOPM"
+    },
+    {
+      "asset": "LATOMOPO"
+    },
+    {
+      "asset": "LATOMOPR"
+    },
+    {
+      "asset": "LATOMOPT"
+    },
+    {
+      "asset": "LATOMOPU"
+    },
+    {
+      "asset": "LATOMORA"
+    },
+    {
+      "asset": "LATOMORB"
+    },
+    {
+      "asset": "LATOMORE"
+    },
+    {
+      "asset": "LATOMORF"
+    },
+    {
+      "asset": "LATOMORG"
+    },
+    {
+      "asset": "LATOMORH"
+    },
+    {
+      "asset": "LATOMORN"
+    },
+    {
+      "asset": "LATOMORU"
+    },
+    {
+      "asset": "LATOMOS"
+    },
+    {
+      "asset": "LATOMOSB"
+    },
+    {
+      "asset": "LATOMOSC"
+    },
+    {
+      "asset": "LATOMOSE"
+    },
+    {
+      "asset": "LATOMOSG"
+    },
+    {
+      "asset": "LATOMOSI"
+    },
+    {
+      "asset": "LATOMOSM"
+    },
+    {
+      "asset": "LATOMOSN"
+    },
+    {
+      "asset": "LATOMOSOCOIN"
+    },
+    {
+      "asset": "LATOMOSOG"
+    },
+    {
+      "asset": "LATOMOSR"
+    },
+    {
+      "asset": "LATOMOTA"
+    },
+    {
+      "asset": "LATOMOTB"
+    },
+    {
+      "asset": "LATOMOTC"
+    },
+    {
+      "asset": "LATOMOTE"
+    },
+    {
+      "asset": "LATOMOTH"
+    },
+    {
+      "asset": "LATOMOTI"
+    },
+    {
+      "asset": "LATOMOTL"
+    },
+    {
+      "asset": "LATOMOTM"
+    },
+    {
+      "asset": "LATOMOTS"
+    },
+    {
+      "asset": "LATOMOU"
+    },
+    {
+      "asset": "LATOMOV"
+    },
+    {
+      "asset": "LATOMOW"
+    },
+    {
+      "asset": "LATOMOWOW"
+    },
+    {
+      "asset": "LATOMOXE"
+    },
+    {
+      "asset": "LATOMOY"
+    },
+    {
+      "asset": "LATOMOYB"
+    },
+    {
+      "asset": "LATOMOZN"
+    },
+    {
+      "asset": "LATOMOZR"
+    },
+    {
+      "asset": "SRGSSR"
+    }
+  ]
+}

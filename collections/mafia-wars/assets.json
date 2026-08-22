@@ -1,0 +1,751 @@
+{
+  "assets": [
+    {
+      "asset": "BACKSHEESH"
+    },
+    {
+      "asset": "BALISONG"
+    },
+    {
+      "asset": "BALLASGANG"
+    },
+    {
+      "asset": "BANANADEAL"
+    },
+    {
+      "asset": "BATGANG"
+    },
+    {
+      "asset": "BEACHBUNNY"
+    },
+    {
+      "asset": "BELLAMAFIA"
+    },
+    {
+      "asset": "BETTYBOOP"
+    },
+    {
+      "asset": "BIGTUNA"
+    },
+    {
+      "asset": "BILLYM"
+    },
+    {
+      "asset": "BLACKSPOT"
+    },
+    {
+      "asset": "BLCKMARKET"
+    },
+    {
+      "asset": "BLOODINOUT"
+    },
+    {
+      "asset": "BODYARMOR"
+    },
+    {
+      "asset": "BORISBLADE"
+    },
+    {
+      "asset": "BOSSLADY"
+    },
+    {
+      "asset": "BOSSOFBOSSES"
+    },
+    {
+      "asset": "BOWSETTE"
+    },
+    {
+      "asset": "BUDDYDRIVER"
+    },
+    {
+      "asset": "BUTTLEGGING"
+    },
+    {
+      "asset": "CAMORRA"
+    },
+    {
+      "asset": "CAPOPEPE"
+    },
+    {
+      "asset": "CAPOREGIME"
+    },
+    {
+      "asset": "CARBOMB"
+    },
+    {
+      "asset": "CDLC"
+    },
+    {
+      "asset": "CHANGPEPE"
+    },
+    {
+      "asset": "CHOPSHOP"
+    },
+    {
+      "asset": "CIVILLIANS.ARMYMAN"
+    },
+    {
+      "asset": "CIVILLIANS.BANKERMAN"
+    },
+    {
+      "asset": "CIVILLIANS.BINMAN"
+    },
+    {
+      "asset": "CIVILLIANS.BOSSMANSHOPMAN"
+    },
+    {
+      "asset": "CIVILLIANS.BUILDERMAN"
+    },
+    {
+      "asset": "CIVILLIANS.CABBYMAN"
+    },
+    {
+      "asset": "CIVILLIANS.CHECKOUTMAN"
+    },
+    {
+      "asset": "CIVILLIANS.CHEF"
+    },
+    {
+      "asset": "CIVILLIANS.CHIPSHOPMAN"
+    },
+    {
+      "asset": "CIVILLIANS.COALMANMAN"
+    },
+    {
+      "asset": "CIVILLIANS.DOCTORMAN"
+    },
+    {
+      "asset": "CIVILLIANS.FIREMAN"
+    },
+    {
+      "asset": "CIVILLIANS.LOLLYPOPLADYMAN"
+    },
+    {
+      "asset": "CIVILLIANS.MARKETER"
+    },
+    {
+      "asset": "CIVILLIANS.MINERMAN"
+    },
+    {
+      "asset": "CIVILLIANS.PAPERBOYMAN"
+    },
+    {
+      "asset": "CIVILLIANS.PARTTIMEBRADPITTMAN"
+    },
+    {
+      "asset": "CIVILLIANS.REMOVALMAN"
+    },
+    {
+      "asset": "CIVILLIANS.SUCHDRIVERMAN"
+    },
+    {
+      "asset": "CKBK"
+    },
+    {
+      "asset": "CMNTSHOES"
+    },
+    {
+      "asset": "COCKFIGHTS"
+    },
+    {
+      "asset": "CONSIGLIERE"
+    },
+    {
+      "asset": "CORCOP"
+    },
+    {
+      "asset": "CRAZYLEGS"
+    },
+    {
+      "asset": "CRIMEINVTBRD"
+    },
+    {
+      "asset": "CRNSHAWMAFIA"
+    },
+    {
+      "asset": "CRYPTODEALER"
+    },
+    {
+      "asset": "CRYPTOJACKER"
+    },
+    {
+      "asset": "CRYPTOMINER"
+    },
+    {
+      "asset": "CUTUP"
+    },
+    {
+      "asset": "DEVILSANGELS"
+    },
+    {
+      "asset": "DILLINGERGNG"
+    },
+    {
+      "asset": "DIRTYRAT"
+    },
+    {
+      "asset": "DLIGHT"
+    },
+    {
+      "asset": "DOGERAIDERS"
+    },
+    {
+      "asset": "DONFAUCIKDR"
+    },
+    {
+      "asset": "DONHOMER"
+    },
+    {
+      "asset": "DONNIESNITCH"
+    },
+    {
+      "asset": "DONPABLO"
+    },
+    {
+      "asset": "DONSATOSHI"
+    },
+    {
+      "asset": "DONTRUMP"
+    },
+    {
+      "asset": "DONVITTORIO"
+    },
+    {
+      "asset": "DREVILFROG"
+    },
+    {
+      "asset": "DRYLAW"
+    },
+    {
+      "asset": "DWEST"
+    },
+    {
+      "asset": "ELIOTNESS"
+    },
+    {
+      "asset": "ENFORCERS"
+    },
+    {
+      "asset": "EYESANDEARS"
+    },
+    {
+      "asset": "FACEOFF"
+    },
+    {
+      "asset": "FAKEFINGERS"
+    },
+    {
+      "asset": "FAKEPASSPORT"
+    },
+    {
+      "asset": "FAKEPEPESPAM"
+    },
+    {
+      "asset": "FAKERAREPEPE"
+    },
+    {
+      "asset": "FAMILYPHOTO"
+    },
+    {
+      "asset": "FATTONY"
+    },
+    {
+      "asset": "FEMMEFATAL"
+    },
+    {
+      "asset": "FERRARISHOP"
+    },
+    {
+      "asset": "FIXEDFIGHTER"
+    },
+    {
+      "asset": "FLUSHROYAL"
+    },
+    {
+      "asset": "FROGMCCLANE"
+    },
+    {
+      "asset": "FUDSOLO"
+    },
+    {
+      "asset": "FULTONMARKET"
+    },
+    {
+      "asset": "FUNNYMAN"
+    },
+    {
+      "asset": "GAMECLUB"
+    },
+    {
+      "asset": "GAMEON"
+    },
+    {
+      "asset": "GAOO.HISSATU02"
+    },
+    {
+      "asset": "GASSTATION"
+    },
+    {
+      "asset": "GLNVGN"
+    },
+    {
+      "asset": "GMENCLUB"
+    },
+    {
+      "asset": "GOLDENDEAGLE"
+    },
+    {
+      "asset": "GOOMAHBOOST"
+    },
+    {
+      "asset": "GREENMILL"
+    },
+    {
+      "asset": "GROWSHOP"
+    },
+    {
+      "asset": "GRUESOMEGUS"
+    },
+    {
+      "asset": "GUARDDOG"
+    },
+    {
+      "asset": "GUNSHOP"
+    },
+    {
+      "asset": "HACKERPEPE"
+    },
+    {
+      "asset": "HACKERPLACE"
+    },
+    {
+      "asset": "HALD"
+    },
+    {
+      "asset": "HATCHETMAN"
+    },
+    {
+      "asset": "HITLIST"
+    },
+    {
+      "asset": "HNBL"
+    },
+    {
+      "asset": "HONKHONK"
+    },
+    {
+      "asset": "HOOLIGANS"
+    },
+    {
+      "asset": "HUCKSTER"
+    },
+    {
+      "asset": "IAMSTERDAM"
+    },
+    {
+      "asset": "INDIANAFROGS"
+    },
+    {
+      "asset": "ISONNY"
+    },
+    {
+      "asset": "ITALIANPIZZA"
+    },
+    {
+      "asset": "ITALIEN"
+    },
+    {
+      "asset": "JOHNNYBEGOOD"
+    },
+    {
+      "asset": "JRABBIT"
+    },
+    {
+      "asset": "JUETENG"
+    },
+    {
+      "asset": "KEISERFROG"
+    },
+    {
+      "asset": "KINNIKUPEPE"
+    },
+    {
+      "asset": "KOOPATROOPAS"
+    },
+    {
+      "asset": "KYSFML"
+    },
+    {
+      "asset": "LABEQUIPMENT"
+    },
+    {
+      "asset": "LADYINRED"
+    },
+    {
+      "asset": "LAEME"
+    },
+    {
+      "asset": "LAUNDROMAT"
+    },
+    {
+      "asset": "LOANSHARKS"
+    },
+    {
+      "asset": "LOUNGESINGER"
+    },
+    {
+      "asset": "LTOM"
+    },
+    {
+      "asset": "LVSD"
+    },
+    {
+      "asset": "MADMONKEY"
+    },
+    {
+      "asset": "MADSCIENTIST"
+    },
+    {
+      "asset": "MAFIAAMISH"
+    },
+    {
+      "asset": "MAFIABANK"
+    },
+    {
+      "asset": "MAFIABAR"
+    },
+    {
+      "asset": "MAFIABOSS"
+    },
+    {
+      "asset": "MAFIACITY"
+    },
+    {
+      "asset": "MAFIACODEX"
+    },
+    {
+      "asset": "MAFIAPONY"
+    },
+    {
+      "asset": "MAFIASTYLE"
+    },
+    {
+      "asset": "MAFIAWARIO"
+    },
+    {
+      "asset": "MAFIAWARSAUC"
+    },
+    {
+      "asset": "MALVERDE"
+    },
+    {
+      "asset": "MARIOMARIO"
+    },
+    {
+      "asset": "MARKEDMAN"
+    },
+    {
+      "asset": "MASKS"
+    },
+    {
+      "asset": "MENOFHONOR"
+    },
+    {
+      "asset": "METAFATHER"
+    },
+    {
+      "asset": "METSYSPWNBRK"
+    },
+    {
+      "asset": "MINIMEFROG"
+    },
+    {
+      "asset": "MISHKAVODKA"
+    },
+    {
+      "asset": "MOBCOP"
+    },
+    {
+      "asset": "MONEYPRINT"
+    },
+    {
+      "asset": "MONKEYWRENCH"
+    },
+    {
+      "asset": "MONKYBIZNESS"
+    },
+    {
+      "asset": "MONOPOLYWARS"
+    },
+    {
+      "asset": "MOOK"
+    },
+    {
+      "asset": "MOUFIA"
+    },
+    {
+      "asset": "MRLEAFTY"
+    },
+    {
+      "asset": "MWALONZO"
+    },
+    {
+      "asset": "NARCOSSUB"
+    },
+    {
+      "asset": "NAVALNYI"
+    },
+    {
+      "asset": "NDRANGHETA"
+    },
+    {
+      "asset": "NONDA"
+    },
+    {
+      "asset": "NOTRAREPEPE"
+    },
+    {
+      "asset": "OILPUMP"
+    },
+    {
+      "asset": "OLDG"
+    },
+    {
+      "asset": "OSTAP"
+    },
+    {
+      "asset": "PEPEAVIS"
+    },
+    {
+      "asset": "PEPEMAFIA"
+    },
+    {
+      "asset": "PEPENOCHO"
+    },
+    {
+      "asset": "PEPEOLOGY"
+    },
+    {
+      "asset": "PEPESOPRANO"
+    },
+    {
+      "asset": "PEPESOZE"
+    },
+    {
+      "asset": "PHOTOFUN"
+    },
+    {
+      "asset": "PIGFARMER"
+    },
+    {
+      "asset": "PINKPOODLE"
+    },
+    {
+      "asset": "PIXELMAFIA"
+    },
+    {
+      "asset": "PLATAOPLOMO"
+    },
+    {
+      "asset": "POLICETEAM"
+    },
+    {
+      "asset": "POTFARM"
+    },
+    {
+      "asset": "POUCHER"
+    },
+    {
+      "asset": "PRIVATEDICK"
+    },
+    {
+      "asset": "PRTCTNRKT"
+    },
+    {
+      "asset": "PUMPACTION"
+    },
+    {
+      "asset": "PUSHER"
+    },
+    {
+      "asset": "QUEENB"
+    },
+    {
+      "asset": "RANDYPEPE"
+    },
+    {
+      "asset": "RAREAF.TER-PARTY"
+    },
+    {
+      "asset": "REDLD"
+    },
+    {
+      "asset": "RESIDENCES"
+    },
+    {
+      "asset": "ROBOTMAFIA"
+    },
+    {
+      "asset": "ROGUECOPS"
+    },
+    {
+      "asset": "RUSROULETTE"
+    },
+    {
+      "asset": "RUSSIANMAFIA"
+    },
+    {
+      "asset": "SAKEMERCHANT"
+    },
+    {
+      "asset": "SAULGOODMAN"
+    },
+    {
+      "asset": "SAYHELLO"
+    },
+    {
+      "asset": "SCAMGRAVES"
+    },
+    {
+      "asset": "SECRETBASE"
+    },
+    {
+      "asset": "SEXYFROG"
+    },
+    {
+      "asset": "SHADOWREALM"
+    },
+    {
+      "asset": "SHARKSHYLOCK"
+    },
+    {
+      "asset": "SHOOTDICE"
+    },
+    {
+      "asset": "SIMONADEBISI"
+    },
+    {
+      "asset": "SOLDIER"
+    },
+    {
+      "asset": "SPINDOCTOR"
+    },
+    {
+      "asset": "STEALINGART"
+    },
+    {
+      "asset": "STEDNILSON"
+    },
+    {
+      "asset": "STONEWALLINN"
+    },
+    {
+      "asset": "STPEPESUNC"
+    },
+    {
+      "asset": "STRIPCLUB"
+    },
+    {
+      "asset": "SUGARRAYS"
+    },
+    {
+      "asset": "TALKNOW"
+    },
+    {
+      "asset": "THEADVOCATE"
+    },
+    {
+      "asset": "THEANTING"
+    },
+    {
+      "asset": "THEBIGRACKET"
+    },
+    {
+      "asset": "THEBOOKMAKER"
+    },
+    {
+      "asset": "THECUCREW"
+    },
+    {
+      "asset": "THEDETECTIVE"
+    },
+    {
+      "asset": "THEHOSTAGE"
+    },
+    {
+      "asset": "THEMECHANIC"
+    },
+    {
+      "asset": "THENUN"
+    },
+    {
+      "asset": "THEOFFER"
+    },
+    {
+      "asset": "THEPIMP"
+    },
+    {
+      "asset": "THEPINKPEPE"
+    },
+    {
+      "asset": "TOMHAGEN"
+    },
+    {
+      "asset": "TOMMYGUN"
+    },
+    {
+      "asset": "TONYBANDANA"
+    },
+    {
+      "asset": "TONYJABFAUCI"
+    },
+    {
+      "asset": "TOOLSOFTRADE"
+    },
+    {
+      "asset": "UFOMAFIOSO"
+    },
+    {
+      "asset": "UMBRELLAGUN"
+    },
+    {
+      "asset": "UNDERBOSS"
+    },
+    {
+      "asset": "UNDERTAKER"
+    },
+    {
+      "asset": "UTILIZATOR"
+    },
+    {
+      "asset": "VENDETTAS"
+    },
+    {
+      "asset": "VINCENTJULES"
+    },
+    {
+      "asset": "VNPEPE"
+    },
+    {
+      "asset": "VORYVZAKONE"
+    },
+    {
+      "asset": "WARAPC"
+    },
+    {
+      "asset": "WASTEMNGMNT"
+    },
+    {
+      "asset": "WOLFCRIME"
+    },
+    {
+      "asset": "WRECKINGYARD"
+    },
+    {
+      "asset": "YODEGENRAPS"
+    },
+    {
+      "asset": "YOUTHGANG"
+    }
+  ]
+}

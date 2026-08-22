@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://digirare.com/schemas/collection-meta.schema.json",
+  "title": "DigiRare collection metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "kind", "description"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1, "maxLength": 200 },
+    "kind": { "enum": ["canonical", "curated"] },
+    "description": { "type": "string", "minLength": 1, "maxLength": 2000 },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "website": { "type": "string", "format": "uri", "maxLength": 2048 },
+        "x": { "type": "string", "format": "uri", "maxLength": 2048 },
+        "discord": { "type": "string", "format": "uri", "maxLength": 2048 }
+      }
+    }
+  }
+}

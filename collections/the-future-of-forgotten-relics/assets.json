@@ -1,0 +1,106 @@
+{
+  "assets": [
+    {
+      "asset": "CARDAMP",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of Forgotten Art"
+        }
+      ]
+    },
+    {
+      "asset": "MAGICSPELL",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of a Creative Process"
+        }
+      ]
+    },
+    {
+      "asset": "MOONGATEST",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "P. Valeza"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of Moonga"
+        }
+      ]
+    },
+    {
+      "asset": "SHABAN",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Shaban Shaame"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of a Tortured Mind"
+        }
+      ]
+    },
+    {
+      "asset": "BITCRYSTAL",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rachel Moss"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of ORBs"
+        }
+      ]
+    },
+    {
+      "asset": "ORBMARKET",
+      "attributes": [
+        {
+          "trait_type": "Chapter",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "EverdreamSoft"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of Cultural Impacts"
+        }
+      ]
+    }
+  ]
+}

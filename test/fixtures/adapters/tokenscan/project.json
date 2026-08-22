@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "project": {
+    "id": 17,
+    "name": "Fake Rare",
+    "website": "https://example.test/fake-rare",
+    "description": "A focused fixture preserving Tokenscan's real tuple shape.",
+    "image": "fake-rare.png",
+    "slug": "fake-rare"
+  },
+  "data": [
+    [163, "A14498744384058458832|FAKEDOSZERO.DOUBLE", "21", "0.01700000|1335.76", "0.35700000|28050.92", ""],
+    [442, "A2099574659233723626|MONAS.NAKAMOTO", "888", "", "", ""],
+    [668, "A16494392544056585026|PEPETHEFAKE.GUCHIFAKE", "100", "0.00720000|565.73", "0.72000000|56573.28", ""],
+    [900, "FAKECARD|", "1", "", "", ""]
+  ],
+  "recordsTotal": 4,
+  "recordsFiltered": 4
+}

@@ -1,0 +1,5104 @@
+{
+  "assets": [
+    {
+      "asset": "RAREWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "WOJACKBLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WOJABSTRAKT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKCOPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "CMYKWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKDANIELS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Method23"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTHEFOOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "WOSOCHILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "CIPHERWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HAMMAD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "WODESIGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKERMINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ejay"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPAINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "XXXWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "BITCOINISDED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M0d3d3b0"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPIGGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "POWELLWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "klhUnd"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "SILKROADS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mayari_mun"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKARMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "NOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "REDPILLWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTARIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFORMULA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MONDAY MOTION"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathansonic"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "drazestan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "WOCUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RIZKIGONI"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSCREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "MARKETWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AnonAnan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "NPCWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lenny"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "MODERNWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "DJWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKKISAKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "SAILORWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "DARKWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "WOJTOTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "METAVERSED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FutureMeme"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBLAINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CHAILATTE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "WOJAQUELINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFALLON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "PEONTRUST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pepedust"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBLAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BIGTOX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTHEONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Ruffian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "PEJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "UNKNOWNWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darkfarms"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKINABOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WOJILLVILLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "IAMSELLING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKNOID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "SLOWJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Looney"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "WOAHWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NeowMeow"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "WORRYONETTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bluemonk"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKVERMEER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTREET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "klhUnd"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "NEWTONSWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBARTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "WISSILE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Goto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "VANWOJAKGOGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Ruffian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWHALE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "WOJCHARLOTTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EM"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKUNGSTEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "TOUPEEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKCHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "GRIMJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Voltaire"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "BOBWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSLAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTCblaze"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "WOILLUSIONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "CUBISMWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "JANVANWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKCHAMPNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NomNomDay"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSSUPPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "ZZZORDON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "OPENMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKMINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qqMarro"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKANANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "NIETZSCHEWOJ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "WOJOKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SBVRT"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKASS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSENSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLOPEZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "CRUNKWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimK51"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWIZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whats in a name"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "THESIMJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "WOLITAXPRESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "realPepstein"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "SMOLWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "EDWARDJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "WOLATTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Roy"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "HECTICWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bugchaser"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKCASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Al"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLOVERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joanart"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "HAWT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oneforall"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "WOBLOBFISH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Delz_F"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKGOTHIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darkknight"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WOHEALING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWORDART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKANGEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BasqKek"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "SHOWJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "VITRUVIANWOJ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AnonAnan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "NATTOPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKARENHUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mitchi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHIJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "YGGWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MONDAY MOTION"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKARAMBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Harold Harambe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "RICHWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKHAREM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFUTURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Butty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKNDOWSKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BIGTOX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKZILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "drazestan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTRADING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "WOJHALEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "PICASSOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Haengbok"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "VALAKWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kapirasong-dayami"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "RAMJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Goto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKISFINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "DREJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Roy"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPANIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPIXEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "TRENDING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "WOJHODL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKINJAPAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Ruffian"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBOOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "TWINWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "BADWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "BOUNCINOGGIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "rogerecho0alpha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "GAMESOFWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "JAKATOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RandyBrigs"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKGASBOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TESTIIPROD x Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "FIGHTNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKOMET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "JAKSPARROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "DAWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "WOJINX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWAYBETS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Terhnt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "PETTHEDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKCRASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "shorty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "THEGRIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Regan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSTAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "PROOFOFWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "DESPERATRAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Herckeim"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHANTOMWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BitcoinCartoons"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "JAKANDWOKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "sattvicsats"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SWOLEJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "THATFEELWHEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "PROJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fake Annie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSABBATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "J.W.Kek"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKREBIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "morlacos"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "NPCNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ruse"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPINK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "SHITCOINJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "DOWNBADWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Elispri"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "HITTHEWOJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKDREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "ELECTRICEYE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "WOJACKCHAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shawn Leary"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "MYFRIEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "BEARWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Aera One"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "LONELYWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pinkthingsco"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "DONWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBALLOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "shorty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "THROWBAKWOJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "DIWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "MCMUSK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "klhUnd"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "BIGBRAINJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "deKoons"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKDREAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "BUFFWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "INVESTORWOJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BB"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "BLUEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "FEELSWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "shorty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "THEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSQUIGG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "JAKOLANTERN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "TRADWIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pepechinchin"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "ZALTSPEAKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "HASCIIWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "RAGEOFWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "FTXREKT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bryan Micon"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "CHADZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cryptonati"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "WALTERWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "PIPEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AnonAnan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "BORNSLIPPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "EMCEEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Uzgee"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "CLAYWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mekabu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "WHERESWALJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "WARJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tommy Marcheschi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "WORLDCUPWOJ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Naeem"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "SEEYOUSOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ChessArt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "WOMMUNITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Community Created"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKBLUES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hafftka"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "CUBOWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melih Polat"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSOUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWUTANG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "WOJACCEPT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "THIRDEYEJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skincube"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "WOJEKYLL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "WOWJAKWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "El Cholo Pepe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "WIZARDWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "StragoffStoner"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "STONERWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "MANOFFEEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "SMUGSOYJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MeamDeLa"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "WOGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathansonic"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "MONALISAJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKGRINPIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "CTFIGHTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FRENSIDE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKMARLEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mighty Shroom"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "NEXUSWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "WOJACKED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "WOGRITTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "JANETTROLLEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "StreetCyberArt"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "WAYOFFEELS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AndreU"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "LIBERTYWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "JAKCHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "denshyr"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "WOJACKFACES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "A4657262672172080712",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "BROJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "admodum"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "WOJACKWVGHST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "threepanelcrimes"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKISWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Saed"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "BLADEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sekiro66"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "WENDETTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LINNET"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "SIGHWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NIIIX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "WOJUKCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "SHERLOCKJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "CRYPTOWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "BONDOFJAKONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "BONDOFJAKTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "FEELSMUSEUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKMAXI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MaxisClub"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKREID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "GUNSWOJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKHUNTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "CHADSMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "shorty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "WOJUNKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "PEACEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skincube"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "TRADEWOJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKLONDON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "WELCOMEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JAMEX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "ROJAKEMPIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "WHISKEYWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WHATTHEFRENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKNPC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKNEXUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "FEELSFRENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFOCUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MemeKingArt x subterranean"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "BITCOINMAXIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MODEDEBO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "ORANJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKESCHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "NOTORIOUSJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "UNO8"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "LEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "coriot"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTWODOPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "TWOTW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TokerVillage"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "WOJTOMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "THROWJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "WOSCHIELE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "FEELSHUNGRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKISCRACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoAli"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "ZIPEPOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gfloof"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPOPUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Harold Harambe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "FEELXMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "SAYWHATAGAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "shorty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "ONLYONECHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "BOSSWOJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "FETUSWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "coriot"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "WOTRASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "BLANKWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TESTIIPROD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "ELATEDWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "SUPERJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HAMMAD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "BITCOINSPITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MODEDEBO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "SIGNINGTDK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "SIGNINGTFW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ]
+    },
+    {
+      "asset": "CANDLEJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "arctefact"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPLANNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "swallja"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "WOJIRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ]
+    },
+    {
+      "asset": "SMOLJAKCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ]
+    },
+    {
+      "asset": "SOYJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ]
+    },
+    {
+      "asset": "XIWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ]
+    },
+    {
+      "asset": "NOFEEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skincube"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ]
+    },
+    {
+      "asset": "TRADWIFEWOJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "BOJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKNOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKWHAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ]
+    },
+    {
+      "asset": "WWWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "LEWOJAKSEVR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "coriot"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "JESUSWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wojak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    }
+  ]
+}

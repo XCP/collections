@@ -1,0 +1,37 @@
+{
+  "descriptor": {
+    "id": "72e2c3bc-7bc2-4bf5-a270-8a51f500868d",
+    "slug": "chain-chronicles",
+    "name": "ChainChronicles",
+    "description": "Timeless and curated NFTs from EverdreamSoft.",
+    "orbs": 2,
+    "published": true
+  },
+  "page": {
+    "total": 2,
+    "limit": 500,
+    "skip": 0,
+    "data": [
+      {
+        "token": "CCONEJUN",
+        "collection": "chain-chronicles",
+        "name": "CCONEJUN",
+        "totalSupply": 111,
+        "floor": 0,
+        "attributes": []
+      },
+      {
+        "token": "CCONEAUG",
+        "collection": "chain-chronicles",
+        "name": "CCONEAUG",
+        "totalSupply": 108,
+        "floor": 0,
+        "attributes": {
+          "Year": 2023,
+          "Month": "August",
+          "unsupported": null
+        }
+      }
+    ]
+  }
+}

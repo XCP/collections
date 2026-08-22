@@ -1,0 +1,45 @@
+{
+  "assets": [
+    {
+      "asset": "SATOSHITEN"
+    },
+    {
+      "asset": "SACREATORBLK",
+      "attributes": [
+        {
+          "trait_type": "ATK",
+          "value": 12
+        },
+        {
+          "trait_type": "HP",
+          "value": 26
+        },
+        {
+          "trait_type": "SPD",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "ELSATOSHI"
+    },
+    {
+      "asset": "DARKUNKNOWN"
+    },
+    {
+      "asset": "SATOSHITENY"
+    },
+    {
+      "asset": "A5777846861205698561"
+    },
+    {
+      "asset": "KHYASKIAN"
+    },
+    {
+      "asset": "A15027584020394629121"
+    },
+    {
+      "asset": "SATOSHIMOM"
+    }
+  ]
+}

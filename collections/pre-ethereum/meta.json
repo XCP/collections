@@ -1,6 +1,5 @@
 {
   "name": "Pre-Ethereum",
   "kind": "curated",
-  "description": "Curated assets issued before Ethereum's genesis block (July 30, 2015).",
-  "where": { "issued_before_block": 367561 }
+  "description": "Curated assets issued before Ethereum's genesis block (July 30, 2015)."
 }

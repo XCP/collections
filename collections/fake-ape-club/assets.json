@@ -1,0 +1,919 @@
+{
+  "assets": [
+    {
+      "asset": "BACKTOTHEAPE"
+    },
+    {
+      "asset": "BANANAKAMOTO"
+    },
+    {
+      "asset": "BANANANA"
+    },
+    {
+      "asset": "BANEAPE"
+    },
+    {
+      "asset": "BANKSYFAKE"
+    },
+    {
+      "asset": "BAPESTEIN"
+    },
+    {
+      "asset": "BEATAPE"
+    },
+    {
+      "asset": "BEREAL"
+    },
+    {
+      "asset": "BIGFAKEWHALE"
+    },
+    {
+      "asset": "BKLOUNGE"
+    },
+    {
+      "asset": "BLAPE"
+    },
+    {
+      "asset": "BLINDAPE"
+    },
+    {
+      "asset": "BOBABOREDAPE"
+    },
+    {
+      "asset": "BOBBLEAPE"
+    },
+    {
+      "asset": "BOBBYFAKEZOO"
+    },
+    {
+      "asset": "BONAPETIT"
+    },
+    {
+      "asset": "BOREDAPEDBZ"
+    },
+    {
+      "asset": "BOREDAPEDOM"
+    },
+    {
+      "asset": "BTCSPACEAPE"
+    },
+    {
+      "asset": "CAPTAINAPE"
+    },
+    {
+      "asset": "CHAINSAWAPE"
+    },
+    {
+      "asset": "CHARTBROS"
+    },
+    {
+      "asset": "CHIEFAPE"
+    },
+    {
+      "asset": "CHILLAPE"
+    },
+    {
+      "asset": "CHUCKYAPE"
+    },
+    {
+      "asset": "CHUEN"
+    },
+    {
+      "asset": "CHUMBLEYAPE"
+    },
+    {
+      "asset": "CLINTAPEWOOD"
+    },
+    {
+      "asset": "CLUSTERFAKE"
+    },
+    {
+      "asset": "CODEDAPE"
+    },
+    {
+      "asset": "COWBOYAPE"
+    },
+    {
+      "asset": "CREEPYAPE"
+    },
+    {
+      "asset": "CRYPTOBOXING"
+    },
+    {
+      "asset": "CRYPTOFISHER"
+    },
+    {
+      "asset": "CRYPTOHUNTER"
+    },
+    {
+      "asset": "CRYPTOLUCKY"
+    },
+    {
+      "asset": "CRYPTOMAFIA"
+    },
+    {
+      "asset": "CUDDLYFAPE"
+    },
+    {
+      "asset": "CUTEFAPE"
+    },
+    {
+      "asset": "DAHDIRUGAL"
+    },
+    {
+      "asset": "DAPETECTIVE"
+    },
+    {
+      "asset": "DARKNIGHT"
+    },
+    {
+      "asset": "DARKPILLAPE"
+    },
+    {
+      "asset": "DJDOGESTYLE"
+    },
+    {
+      "asset": "DJFAPE"
+    },
+    {
+      "asset": "DORIANAPE"
+    },
+    {
+      "asset": "DRACULAPE"
+    },
+    {
+      "asset": "DRIEDAPE"
+    },
+    {
+      "asset": "ELEMENTHAL"
+    },
+    {
+      "asset": "ERMINEANDAPE"
+    },
+    {
+      "asset": "ETHZOMBIE"
+    },
+    {
+      "asset": "EVILFAPE"
+    },
+    {
+      "asset": "FACEYKONG"
+    },
+    {
+      "asset": "FACGRAVERIDE"
+    },
+    {
+      "asset": "FACURRY"
+    },
+    {
+      "asset": "FAKAPECHU"
+    },
+    {
+      "asset": "FAKAVELLI"
+    },
+    {
+      "asset": "FAKEALBERT"
+    },
+    {
+      "asset": "FAKEAPEAGENT"
+    },
+    {
+      "asset": "FAKEAPEAKIRA"
+    },
+    {
+      "asset": "FAKEAPEALBUM"
+    },
+    {
+      "asset": "FAKEAPEALONE"
+    },
+    {
+      "asset": "FAKEAPEART"
+    },
+    {
+      "asset": "FAKEAPEBLOT"
+    },
+    {
+      "asset": "FAKEAPEBRO"
+    },
+    {
+      "asset": "FAKEAPECASH"
+    },
+    {
+      "asset": "FAKEAPECASSO"
+    },
+    {
+      "asset": "FAKEAPECLUB"
+    },
+    {
+      "asset": "FAKEAPECLUBS"
+    },
+    {
+      "asset": "FAKEAPEDAO"
+    },
+    {
+      "asset": "FAKEAPEFAUCI"
+    },
+    {
+      "asset": "FAKEAPEGHOUL"
+    },
+    {
+      "asset": "FAKEAPELAND"
+    },
+    {
+      "asset": "FAKEAPELEGO"
+    },
+    {
+      "asset": "FAKEAPELIPS"
+    },
+    {
+      "asset": "FAKEAPEPES"
+    },
+    {
+      "asset": "FAKEAPEPHONE"
+    },
+    {
+      "asset": "FAKEAPEPOKER"
+    },
+    {
+      "asset": "FAKEAPEPUNK"
+    },
+    {
+      "asset": "FAKEAPEPURGE"
+    },
+    {
+      "asset": "FAKEAPER"
+    },
+    {
+      "asset": "FAKEAPERONIN"
+    },
+    {
+      "asset": "FAKEAPES"
+    },
+    {
+      "asset": "FAKEAPESHIT"
+    },
+    {
+      "asset": "FAKEAPETOKEN"
+    },
+    {
+      "asset": "FAKEAPGOLFER"
+    },
+    {
+      "asset": "FAKEBASQAPE"
+    },
+    {
+      "asset": "FAKEBIKER"
+    },
+    {
+      "asset": "FAKEBITS"
+    },
+    {
+      "asset": "FAKEBLACK"
+    },
+    {
+      "asset": "FAKEBONGHP"
+    },
+    {
+      "asset": "FAKEBOREDAPE"
+    },
+    {
+      "asset": "FAKECLOCKWRK"
+    },
+    {
+      "asset": "FAKECNPCARD"
+    },
+    {
+      "asset": "FAKECOEN"
+    },
+    {
+      "asset": "FAKEDIESEL"
+    },
+    {
+      "asset": "FAKEDROOL"
+    },
+    {
+      "asset": "FAKEFRED"
+    },
+    {
+      "asset": "FAKEFREDDY"
+    },
+    {
+      "asset": "FAKEIZARD"
+    },
+    {
+      "asset": "FAKEMAGICIAN"
+    },
+    {
+      "asset": "FAKEMAUS"
+    },
+    {
+      "asset": "FAKEMEW"
+    },
+    {
+      "asset": "FAKEMINATOR"
+    },
+    {
+      "asset": "FAKEMON"
+    },
+    {
+      "asset": "FAKEMONKICHI"
+    },
+    {
+      "asset": "FAKENEON"
+    },
+    {
+      "asset": "FAKEOGGHOUL"
+    },
+    {
+      "asset": "FAKEORAPE"
+    },
+    {
+      "asset": "FAKEPHLOYD"
+    },
+    {
+      "asset": "FAKERAVE"
+    },
+    {
+      "asset": "FAKERAVERS"
+    },
+    {
+      "asset": "FAKESAMURAI"
+    },
+    {
+      "asset": "FAKESEIYA"
+    },
+    {
+      "asset": "FAKETOPUS"
+    },
+    {
+      "asset": "FAKETUBBIES"
+    },
+    {
+      "asset": "FAKEUNIT"
+    },
+    {
+      "asset": "FAKEV"
+    },
+    {
+      "asset": "FAKEVOLUTION"
+    },
+    {
+      "asset": "FAKEXPLORERS"
+    },
+    {
+      "asset": "FAKEYACHT"
+    },
+    {
+      "asset": "FAPD"
+    },
+    {
+      "asset": "FAPE"
+    },
+    {
+      "asset": "FAPEANCONG"
+    },
+    {
+      "asset": "FAPEBEDROOM"
+    },
+    {
+      "asset": "FAPEBRON"
+    },
+    {
+      "asset": "FAPECAY"
+    },
+    {
+      "asset": "FAPECOLUMBO"
+    },
+    {
+      "asset": "FAPECOPY"
+    },
+    {
+      "asset": "FAPEDEVIL"
+    },
+    {
+      "asset": "FAPEFOURTH"
+    },
+    {
+      "asset": "FAPEGARAGE"
+    },
+    {
+      "asset": "FAPEGIANNIS"
+    },
+    {
+      "asset": "FAPEHANGER"
+    },
+    {
+      "asset": "FAPEHISTORIC"
+    },
+    {
+      "asset": "FAPEHULK"
+    },
+    {
+      "asset": "FAPEKAMOTO"
+    },
+    {
+      "asset": "FAPEKEVIN"
+    },
+    {
+      "asset": "FAPELEGACY"
+    },
+    {
+      "asset": "FAPELINEART"
+    },
+    {
+      "asset": "FAPEMEISTER"
+    },
+    {
+      "asset": "FAPEMORIARTY"
+    },
+    {
+      "asset": "FAPEOFSPADES"
+    },
+    {
+      "asset": "FAPEPES"
+    },
+    {
+      "asset": "FAPEPILPEPE"
+    },
+    {
+      "asset": "FAPEPJMASK"
+    },
+    {
+      "asset": "FAPEPUNK"
+    },
+    {
+      "asset": "FAPEREPORTA"
+    },
+    {
+      "asset": "FAPERUTH"
+    },
+    {
+      "asset": "FAPESATOSHI"
+    },
+    {
+      "asset": "FAPESEACK"
+    },
+    {
+      "asset": "FAPESHIT"
+    },
+    {
+      "asset": "FAPESTORE"
+    },
+    {
+      "asset": "FAPETARIST"
+    },
+    {
+      "asset": "FAPETHEFOOL"
+    },
+    {
+      "asset": "FAPEVIBE"
+    },
+    {
+      "asset": "FAPEWINE"
+    },
+    {
+      "asset": "FAPEZUKI"
+    },
+    {
+      "asset": "FATHERPEPAPE"
+    },
+    {
+      "asset": "FELLOWAPES"
+    },
+    {
+      "asset": "FEYMAR"
+    },
+    {
+      "asset": "FKAPESCRILLA"
+    },
+    {
+      "asset": "FKENINJASUIT"
+    },
+    {
+      "asset": "FLASHLAPE"
+    },
+    {
+      "asset": "FUNKYMONKEY"
+    },
+    {
+      "asset": "FUZZFAPE"
+    },
+    {
+      "asset": "GETBITCOIN"
+    },
+    {
+      "asset": "GHETTOMONKEY"
+    },
+    {
+      "asset": "GIRLDEMDADDY"
+    },
+    {
+      "asset": "GLOWAPE"
+    },
+    {
+      "asset": "GOLDENAPE"
+    },
+    {
+      "asset": "GRIMFAPE"
+    },
+    {
+      "asset": "GTAFAKE"
+    },
+    {
+      "asset": "HEISENAPE"
+    },
+    {
+      "asset": "HELLIENAPE"
+    },
+    {
+      "asset": "HEYBOB"
+    },
+    {
+      "asset": "HIPHOPAPE"
+    },
+    {
+      "asset": "HOMERFAKEAPE"
+    },
+    {
+      "asset": "HOPAPE"
+    },
+    {
+      "asset": "HORNYAPE"
+    },
+    {
+      "asset": "HUGOSHAKUR"
+    },
+    {
+      "asset": "HUNTANAPE"
+    },
+    {
+      "asset": "HUSLEVERYDAY"
+    },
+    {
+      "asset": "IDIOTSDREAM"
+    },
+    {
+      "asset": "ILLUSTRATORX"
+    },
+    {
+      "asset": "INSTAAPEGRL"
+    },
+    {
+      "asset": "ISLANDAPEFAK"
+    },
+    {
+      "asset": "ISLSARUTOBI"
+    },
+    {
+      "asset": "JAILAPE"
+    },
+    {
+      "asset": "JOKERAPE"
+    },
+    {
+      "asset": "JUNGLEFAPE"
+    },
+    {
+      "asset": "JURAPESIC"
+    },
+    {
+      "asset": "KENYOTMEMEK"
+    },
+    {
+      "asset": "KEVAPE"
+    },
+    {
+      "asset": "KINGAPE"
+    },
+    {
+      "asset": "LALALALALA"
+    },
+    {
+      "asset": "LEFAPE"
+    },
+    {
+      "asset": "LINEAPE"
+    },
+    {
+      "asset": "LOADEDAPE"
+    },
+    {
+      "asset": "LORDFAKEAPE"
+    },
+    {
+      "asset": "LOREAPE"
+    },
+    {
+      "asset": "LUCKYFAKEAPE"
+    },
+    {
+      "asset": "MABOKJANDA"
+    },
+    {
+      "asset": "MACAQUE"
+    },
+    {
+      "asset": "MADAPE"
+    },
+    {
+      "asset": "MADFAPER"
+    },
+    {
+      "asset": "MAGICEYEAPE"
+    },
+    {
+      "asset": "MAPETHERESE"
+    },
+    {
+      "asset": "MEGAAPE"
+    },
+    {
+      "asset": "MEGADANKAPE"
+    },
+    {
+      "asset": "MFERAPE"
+    },
+    {
+      "asset": "MIKERODICK"
+    },
+    {
+      "asset": "MISSFAKEAPE"
+    },
+    {
+      "asset": "MODERNAPES"
+    },
+    {
+      "asset": "MONALISAAPE"
+    },
+    {
+      "asset": "MONDRIANAPE"
+    },
+    {
+      "asset": "MOONAPE"
+    },
+    {
+      "asset": "MOONBABY"
+    },
+    {
+      "asset": "MOONISNEAR"
+    },
+    {
+      "asset": "MPLYNMANSON"
+    },
+    {
+      "asset": "MUSICNOTEAPE"
+    },
+    {
+      "asset": "NAKAMOTOAPE"
+    },
+    {
+      "asset": "NAPEOLEON"
+    },
+    {
+      "asset": "NEONAPE"
+    },
+    {
+      "asset": "NOFACEMONKEY"
+    },
+    {
+      "asset": "NOKNIVESAPE"
+    },
+    {
+      "asset": "ONERAREAPE"
+    },
+    {
+      "asset": "ORIGAMIAPE"
+    },
+    {
+      "asset": "OZIOAPE"
+    },
+    {
+      "asset": "PEACEAPES"
+    },
+    {
+      "asset": "PEACEFAKER"
+    },
+    {
+      "asset": "PEPAPELAUGH"
+    },
+    {
+      "asset": "PEPEROCK"
+    },
+    {
+      "asset": "PEPEVSAPE"
+    },
+    {
+      "asset": "PHOENIXAPE"
+    },
+    {
+      "asset": "PINKAPE"
+    },
+    {
+      "asset": "PINKPOPAPE"
+    },
+    {
+      "asset": "PIRAPE"
+    },
+    {
+      "asset": "PIRATEAPE"
+    },
+    {
+      "asset": "PODOLAPE"
+    },
+    {
+      "asset": "POLLOCKAPE"
+    },
+    {
+      "asset": "PREGNANTAPE"
+    },
+    {
+      "asset": "PRIMEFAPE"
+    },
+    {
+      "asset": "PSYCHOAPE"
+    },
+    {
+      "asset": "PUMPTHEFAC"
+    },
+    {
+      "asset": "PUNCTUREAPE"
+    },
+    {
+      "asset": "PUPETAPEDRIM"
+    },
+    {
+      "asset": "PURPLERAVER"
+    },
+    {
+      "asset": "RAREHANUMAN"
+    },
+    {
+      "asset": "RAREPARTY"
+    },
+    {
+      "asset": "RAVEABSTRACT"
+    },
+    {
+      "asset": "RAVEAPE"
+    },
+    {
+      "asset": "RAVECITY"
+    },
+    {
+      "asset": "RAVEDJ"
+    },
+    {
+      "asset": "RAVEIGHTAPE"
+    },
+    {
+      "asset": "RAVENAPE"
+    },
+    {
+      "asset": "RAVERBOYZ"
+    },
+    {
+      "asset": "RAVETOKEN"
+    },
+    {
+      "asset": "RDRFAPE"
+    },
+    {
+      "asset": "REALAPE"
+    },
+    {
+      "asset": "REALFAKEAPE"
+    },
+    {
+      "asset": "REBELAPE"
+    },
+    {
+      "asset": "REKKTAPE"
+    },
+    {
+      "asset": "REVERBAPE"
+    },
+    {
+      "asset": "RGBPEPAPE"
+    },
+    {
+      "asset": "RICHFAKEAPE"
+    },
+    {
+      "asset": "ROBOAPE"
+    },
+    {
+      "asset": "ROCKETAPE"
+    },
+    {
+      "asset": "RONINAPE"
+    },
+    {
+      "asset": "ROYALAPE"
+    },
+    {
+      "asset": "SALINEAPE"
+    },
+    {
+      "asset": "SARUTOBIAPE"
+    },
+    {
+      "asset": "SCREAMAPE"
+    },
+    {
+      "asset": "SGTAPEMAN"
+    },
+    {
+      "asset": "SHAKENRAVE"
+    },
+    {
+      "asset": "SHROOMAPE"
+    },
+    {
+      "asset": "SKRILAPECHIL"
+    },
+    {
+      "asset": "SMOKINGAPE"
+    },
+    {
+      "asset": "SMSOFLOVE"
+    },
+    {
+      "asset": "SNAKEAPE"
+    },
+    {
+      "asset": "SNOOPAPE"
+    },
+    {
+      "asset": "SNOWFAKE"
+    },
+    {
+      "asset": "SOLDIERAPE"
+    },
+    {
+      "asset": "SQUIDBLOOD"
+    },
+    {
+      "asset": "STANDUPAPE"
+    },
+    {
+      "asset": "STEROIDAPE"
+    },
+    {
+      "asset": "SUBMMITAPE"
+    },
+    {
+      "asset": "TEATIMEAPE"
+    },
+    {
+      "asset": "TECHNOFAKE"
+    },
+    {
+      "asset": "TELEPORTAPE"
+    },
+    {
+      "asset": "THEAPEBENDER"
+    },
+    {
+      "asset": "THEFAKEAPE"
+    },
+    {
+      "asset": "THEMIGHTYAPE"
+    },
+    {
+      "asset": "THINKOUTLOUD"
+    },
+    {
+      "asset": "TOOMUCHTALK"
+    },
+    {
+      "asset": "TRIPPYFAPE"
+    },
+    {
+      "asset": "UFOAPE"
+    },
+    {
+      "asset": "VANFAKEGOGH"
+    },
+    {
+      "asset": "VIKINGAPE"
+    },
+    {
+      "asset": "VIOLETAPE"
+    },
+    {
+      "asset": "VOGUEAPE"
+    },
+    {
+      "asset": "WANTEDFAC"
+    },
+    {
+      "asset": "XANGRYFRIES"
+    },
+    {
+      "asset": "YACHTRAVE"
+    },
+    {
+      "asset": "ZAPEPUNK"
+    }
+  ]
+}

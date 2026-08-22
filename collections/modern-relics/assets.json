@@ -1,0 +1,440 @@
+{
+  "assets": [
+    {
+      "asset": "BARBARIAN"
+    },
+    {
+      "asset": "BARBARIAN.BLACK"
+    },
+    {
+      "asset": "BARBARIAN.MEAL"
+    },
+    {
+      "asset": "COBRA"
+    },
+    {
+      "asset": "COBRA.ALMANAC2024"
+    },
+    {
+      "asset": "COBRA.CADUCEUS"
+    },
+    {
+      "asset": "COBRA.CrimsonQueen"
+    },
+    {
+      "asset": "COBRA.hauntedserpent"
+    },
+    {
+      "asset": "COBRA.HERCULPEPES"
+    },
+    {
+      "asset": "COBRA.hypnotized",
+      "secondary": true
+    },
+    {
+      "asset": "COBRA.PEPE_BEER"
+    },
+    {
+      "asset": "COBRA.QUEEN"
+    },
+    {
+      "asset": "COBRA.STALLONE"
+    },
+    {
+      "asset": "COBRA.STRIKE"
+    },
+    {
+      "asset": "COBRA.TATE"
+    },
+    {
+      "asset": "COBRA.TINFOILHAT"
+    },
+    {
+      "asset": "COLLECTOR"
+    },
+    {
+      "asset": "COLLECTOR.areyoumissingsomething"
+    },
+    {
+      "asset": "COLLECTOR.COLLECTOR_COUNTERPARTY"
+    },
+    {
+      "asset": "COLLECTOR.COLLECTOR"
+    },
+    {
+      "asset": "COLLECTOR.FROGINAJAR"
+    },
+    {
+      "asset": "COLLECTOR.FROGJUICE"
+    },
+    {
+      "asset": "COLLECTOR.Hand_of_Pepe"
+    },
+    {
+      "asset": "COLLECTOR.Introducing_Pepe"
+    },
+    {
+      "asset": "COLLECTOR.KING"
+    },
+    {
+      "asset": "COLLECTOR.mint"
+    },
+    {
+      "asset": "COLLECTOR.mother"
+    },
+    {
+      "asset": "COLLECTOR.not_a_hoarder"
+    },
+    {
+      "asset": "COLLECTOR.OOSEVEN"
+    },
+    {
+      "asset": "COLLECTOR.PEPECOLLECTOR"
+    },
+    {
+      "asset": "COLLECTOR.pepefc"
+    },
+    {
+      "asset": "COLLECTOR.QUEEN"
+    },
+    {
+      "asset": "COLLECTOR.The_Collector"
+    },
+    {
+      "asset": "COLLECTOR.The_Counterparty_Collection"
+    },
+    {
+      "asset": "COLLECTOR.TheCollector"
+    },
+    {
+      "asset": "CRAB"
+    },
+    {
+      "asset": "CRAB.BAND"
+    },
+    {
+      "asset": "CRAB.CRABMR"
+    },
+    {
+      "asset": "CRAB.HELP"
+    },
+    {
+      "asset": "CRAB.INVADER"
+    },
+    {
+      "asset": "CRAB.SHINY"
+    },
+    {
+      "asset": "CRAB.Tramp"
+    },
+    {
+      "asset": "CRAB.xcp"
+    },
+    {
+      "asset": "DEMON"
+    },
+    {
+      "asset": "DEMON.FEARLESS"
+    },
+    {
+      "asset": "DEMON.LAVA_PEPE"
+    },
+    {
+      "asset": "DEMON.scream"
+    },
+    {
+      "asset": "EYES"
+    },
+    {
+      "asset": "EYES.HYPNOTIZE"
+    },
+    {
+      "asset": "EYES.LASER"
+    },
+    {
+      "asset": "EYES.PEPE"
+    },
+    {
+      "asset": "FAIRY"
+    },
+    {
+      "asset": "FAIRY.ANDPEPE"
+    },
+    {
+      "asset": "FAIRY.elvinia"
+    },
+    {
+      "asset": "FAIRY.MAGIC"
+    },
+    {
+      "asset": "FAIRY.PEPE"
+    },
+    {
+      "asset": "FAIRY.The_Pepe_Fairy"
+    },
+    {
+      "asset": "FAIRY.Tooth_Fairy"
+    },
+    {
+      "asset": "FAIRY.TWISTED"
+    },
+    {
+      "asset": "FURY"
+    },
+    {
+      "asset": "FURY.NF"
+    },
+    {
+      "asset": "FURY.PEPE"
+    },
+    {
+      "asset": "FURY.TEMPEST"
+    },
+    {
+      "asset": "GARGOYLE"
+    },
+    {
+      "asset": "GARGOYLE.AWAKENS"
+    },
+    {
+      "asset": "GARGOYLE.Gothic_Guardian"
+    },
+    {
+      "asset": "GARGOYLE.HUNCH"
+    },
+    {
+      "asset": "GARGOYLE.INFAMOUS_PEPE"
+    },
+    {
+      "asset": "GARGOYLE.Mecha_Gargoyle_Enigma"
+    },
+    {
+      "asset": "GARGOYLE.PEPE"
+    },
+    {
+      "asset": "GHOUL"
+    },
+    {
+      "asset": "GHOUL.ATTACK"
+    },
+    {
+      "asset": "GHOUL.HIGH"
+    },
+    {
+      "asset": "GHOUL.PEPE"
+    },
+    {
+      "asset": "GOAT"
+    },
+    {
+      "asset": "GOAT.COWPEPE"
+    },
+    {
+      "asset": "GOAT.DEVILSGOAT"
+    },
+    {
+      "asset": "GOAT.ERNEST"
+    },
+    {
+      "asset": "GOAT.Illumigoat"
+    },
+    {
+      "asset": "GOAT.Jeez"
+    },
+    {
+      "asset": "GOAT.JORDAN"
+    },
+    {
+      "asset": "GOAT.MJGOAT"
+    },
+    {
+      "asset": "GOAT.THE27CLUB"
+    },
+    {
+      "asset": "GOAT.WILLIEPEPENELSON"
+    },
+    {
+      "asset": "GODS"
+    },
+    {
+      "asset": "GODS.LOVESYALL"
+    },
+    {
+      "asset": "GODS.OFCHAIN"
+    },
+    {
+      "asset": "GODS.PEPE_IS_GOD"
+    },
+    {
+      "asset": "GODS.THATFAILED"
+    },
+    {
+      "asset": "GREED"
+    },
+    {
+      "asset": "GREED.GREEDMACDUCK"
+    },
+    {
+      "asset": "GREED.ISGOOD"
+    },
+    {
+      "asset": "GREED.MAMMON"
+    },
+    {
+      "asset": "GREED.Monopepe"
+    },
+    {
+      "asset": "GREED.PEPE"
+    },
+    {
+      "asset": "GREED.PORTALS"
+    },
+    {
+      "asset": "GREED.PRECIOUS"
+    },
+    {
+      "asset": "GREED.WANT"
+    },
+    {
+      "asset": "INSOMNIA"
+    },
+    {
+      "asset": "INSOMNIA.CANTSLEEP"
+    },
+    {
+      "asset": "INSOMNIA.FIGHT"
+    },
+    {
+      "asset": "INSOMNIA.LETMEDREAM"
+    },
+    {
+      "asset": "LORD"
+    },
+    {
+      "asset": "LORD.NAKAMOTO"
+    },
+    {
+      "asset": "LORD.OFMEMES"
+    },
+    {
+      "asset": "LORD.OFTHERINGS"
+    },
+    {
+      "asset": "LUCIFER"
+    },
+    {
+      "asset": "LUCIFER.LUCIFUN"
+    },
+    {
+      "asset": "LUCIFER.WHOISGENSLER"
+    },
+    {
+      "asset": "MERMAID"
+    },
+    {
+      "asset": "MERMAID.BIKINIBOTTOM"
+    },
+    {
+      "asset": "MERMAID.BLOCKCHAIN"
+    },
+    {
+      "asset": "MERMAID.BOOBS"
+    },
+    {
+      "asset": "MERMAID.FART"
+    },
+    {
+      "asset": "MERMAID.FROG_PRINCE"
+    },
+    {
+      "asset": "PSYCHO"
+    },
+    {
+      "asset": "PSYCHO.CYBERPUNK"
+    },
+    {
+      "asset": "PSYCHO.DALIESQUE"
+    },
+    {
+      "asset": "PSYCHO.GENSLER"
+    },
+    {
+      "asset": "PSYCHO.IMHOME"
+    },
+    {
+      "asset": "PSYCHO.KILLER"
+    },
+    {
+      "asset": "PSYCHO.KRUEGER"
+    },
+    {
+      "asset": "PSYCHO.MASKOFF"
+    },
+    {
+      "asset": "PSYCHO.OG"
+    },
+    {
+      "asset": "PSYCHO.PEPE"
+    },
+    {
+      "asset": "RELICASH"
+    },
+    {
+      "asset": "RELICSUBMIT"
+    },
+    {
+      "asset": "SUMO"
+    },
+    {
+      "asset": "SUMO.BABY"
+    },
+    {
+      "asset": "SUMO.BIGINJAPAN"
+    },
+    {
+      "asset": "SUMO.FACEOFF"
+    },
+    {
+      "asset": "VIPER"
+    },
+    {
+      "asset": "VIPER.BRO"
+    },
+    {
+      "asset": "VIPER.FINAL_BITCOIN"
+    },
+    {
+      "asset": "VIPER.MRVIPERPEPE"
+    },
+    {
+      "asset": "VIPER.PEPE"
+    },
+    {
+      "asset": "VIPER.SELFID"
+    },
+    {
+      "asset": "VIPER.SELFSERVICE"
+    },
+    {
+      "asset": "VIPER.THELOVER"
+    },
+    {
+      "asset": "VIPER.UH_OH"
+    },
+    {
+      "asset": "VIPER.VENOMNIGHT"
+    },
+    {
+      "asset": "VIPER.VYPER"
+    },
+    {
+      "asset": "WASP"
+    },
+    {
+      "asset": "WASP.WASPHEAD"
+    },
+    {
+      "asset": "WASP.WASPPE"
+    }
+  ]
+}

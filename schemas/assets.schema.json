@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://digirare.com/schemas/assets.schema.json",
+  "title": "DigiRare collection membership snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["assets"],
+  "properties": {
+    "assets": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/asset" }
+    }
+  },
+  "$defs": {
+    "assetId": {
+      "type": "string",
+      "maxLength": 250,
+      "anyOf": [
+        { "pattern": "^[B-Z][A-Z]{3,11}$" },
+        { "pattern": "^A[0-9]{17,20}$" },
+        {
+          "pattern": "^(?:[B-Z][A-Z]{3,11}|A[0-9]{17,20})\\.[A-Za-z0-9_@!-]+(?:\\.[A-Za-z0-9_@!-]+)*$"
+        }
+      ]
+    },
+    "attribute": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["trait_type", "value"],
+      "properties": {
+        "trait_type": { "type": "string", "minLength": 1, "maxLength": 100 },
+        "value": {
+          "oneOf": [
+            { "type": "string", "minLength": 1, "maxLength": 1000 },
+            { "type": "number" }
+          ]
+        }
+      }
+    },
+    "asset": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["asset"],
+      "properties": {
+        "asset": { "$ref": "#/$defs/assetId" },
+        "secondary": { "type": "boolean" },
+        "attributes": { "type": "array", "items": { "$ref": "#/$defs/attribute" } }
+      }
+    }
+  }
+}

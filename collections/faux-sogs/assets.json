@@ -1,0 +1,895 @@
+{
+  "assets": [
+    {
+      "asset": "BABYSANTA"
+    },
+    {
+      "asset": "BAMBII"
+    },
+    {
+      "asset": "BEARRATCD"
+    },
+    {
+      "asset": "BEARSLAYER"
+    },
+    {
+      "asset": "BEARSOUL"
+    },
+    {
+      "asset": "BITGATE"
+    },
+    {
+      "asset": "BITGEMZ"
+    },
+    {
+      "asset": "BITRAILSCD"
+    },
+    {
+      "asset": "BLACKROCKGLM"
+    },
+    {
+      "asset": "BLOCKDEMON"
+    },
+    {
+      "asset": "BLOCKI"
+    },
+    {
+      "asset": "BOAFAUX"
+    },
+    {
+      "asset": "BOBOSDOCTOR"
+    },
+    {
+      "asset": "BONKSCALL"
+    },
+    {
+      "asset": "BOOKOFSOULS"
+    },
+    {
+      "asset": "BOSSBABY"
+    },
+    {
+      "asset": "BOXOTREASURE"
+    },
+    {
+      "asset": "BRDLSSCRN"
+    },
+    {
+      "asset": "BRUTALRULER"
+    },
+    {
+      "asset": "CARMERCHANT"
+    },
+    {
+      "asset": "CATTAMER"
+    },
+    {
+      "asset": "CCSATOSHI"
+    },
+    {
+      "asset": "CKANDCORNCD"
+    },
+    {
+      "asset": "COBRA.hypnotized"
+    },
+    {
+      "asset": "COLLABCARD"
+    },
+    {
+      "asset": "CONCEPTCARD"
+    },
+    {
+      "asset": "COUNTERWRATH"
+    },
+    {
+      "asset": "CPALCHEMIST"
+    },
+    {
+      "asset": "CRYSTLMASTER"
+    },
+    {
+      "asset": "CULTOFTHEV"
+    },
+    {
+      "asset": "DANKHUNTERS"
+    },
+    {
+      "asset": "DARKSATOSHI"
+    },
+    {
+      "asset": "DARKSCOPE"
+    },
+    {
+      "asset": "DEMOMENT"
+    },
+    {
+      "asset": "DESTROYERCD"
+    },
+    {
+      "asset": "DOLLARPEP"
+    },
+    {
+      "asset": "DORGENERAL"
+    },
+    {
+      "asset": "DRAGONFIRE"
+    },
+    {
+      "asset": "DRAGONSFREED"
+    },
+    {
+      "asset": "EMPENPEN"
+    },
+    {
+      "asset": "ERMAGHERDCD"
+    },
+    {
+      "asset": "ETHERYUMCARD"
+    },
+    {
+      "asset": "ETHXCPARTII"
+    },
+    {
+      "asset": "FARMORDINAL"
+    },
+    {
+      "asset": "FATHEROFDOGE"
+    },
+    {
+      "asset": "FAUXAGBE"
+    },
+    {
+      "asset": "FAUXAI"
+    },
+    {
+      "asset": "FAUXALCHEMY"
+    },
+    {
+      "asset": "FAUXALICE"
+    },
+    {
+      "asset": "FAUXALIENS"
+    },
+    {
+      "asset": "FAUXANGEL"
+    },
+    {
+      "asset": "FAUXANGELF"
+    },
+    {
+      "asset": "FAUXARES"
+    },
+    {
+      "asset": "FAUXARMOURY"
+    },
+    {
+      "asset": "FAUXATDEPEPE"
+    },
+    {
+      "asset": "FAUXATINA"
+    },
+    {
+      "asset": "FAUXAZUKA"
+    },
+    {
+      "asset": "FAUXBABEL"
+    },
+    {
+      "asset": "FAUXBASQ"
+    },
+    {
+      "asset": "FAUXBAZAAR"
+    },
+    {
+      "asset": "FAUXBEAST"
+    },
+    {
+      "asset": "FAUXBIDDING"
+    },
+    {
+      "asset": "FAUXBONDTREE"
+    },
+    {
+      "asset": "FAUXBOOK"
+    },
+    {
+      "asset": "FAUXBORGCUBE"
+    },
+    {
+      "asset": "FAUXBOROMIR"
+    },
+    {
+      "asset": "FAUXBTCADICT"
+    },
+    {
+      "asset": "FAUXBUILDER"
+    },
+    {
+      "asset": "FAUXCARNAGE"
+    },
+    {
+      "asset": "FAUXCASEY"
+    },
+    {
+      "asset": "FAUXCASSO"
+    },
+    {
+      "asset": "FAUXCERBERUS"
+    },
+    {
+      "asset": "FAUXCHEMIST"
+    },
+    {
+      "asset": "FAUXCHOSEN"
+    },
+    {
+      "asset": "FAUXCHURCH"
+    },
+    {
+      "asset": "FAUXCLAN"
+    },
+    {
+      "asset": "FAUXCLOWN"
+    },
+    {
+      "asset": "FAUXCOBBEE"
+    },
+    {
+      "asset": "FAUXCOIN"
+    },
+    {
+      "asset": "FAUXCOMBAT"
+    },
+    {
+      "asset": "FAUXCORNFUR"
+    },
+    {
+      "asset": "FAUXCULT"
+    },
+    {
+      "asset": "FAUXDARKDRGN"
+    },
+    {
+      "asset": "FAUXDINGCARD"
+    },
+    {
+      "asset": "FAUXDIPER"
+    },
+    {
+      "asset": "FAUXDRACULA"
+    },
+    {
+      "asset": "FAUXDRIVER"
+    },
+    {
+      "asset": "FAUXELECTRON"
+    },
+    {
+      "asset": "FAUXELON"
+    },
+    {
+      "asset": "FAUXFLAMEDRG"
+    },
+    {
+      "asset": "FAUXFRIENDS"
+    },
+    {
+      "asset": "FAUXFRSTDRGN"
+    },
+    {
+      "asset": "FAUXGABRIEL"
+    },
+    {
+      "asset": "FAUXGAMERS"
+    },
+    {
+      "asset": "FAUXGATECARD"
+    },
+    {
+      "asset": "FAUXGOD"
+    },
+    {
+      "asset": "FAUXGOLDFISH"
+    },
+    {
+      "asset": "FAUXGRWLGR"
+    },
+    {
+      "asset": "FAUXHERO"
+    },
+    {
+      "asset": "FAUXHOMER"
+    },
+    {
+      "asset": "FAUXHOSPITAL"
+    },
+    {
+      "asset": "FAUXHYDRA"
+    },
+    {
+      "asset": "FAUXICEDRGN"
+    },
+    {
+      "asset": "FAUXICITY"
+    },
+    {
+      "asset": "FAUXISLAND"
+    },
+    {
+      "asset": "FAUXJACK"
+    },
+    {
+      "asset": "FAUXJAK"
+    },
+    {
+      "asset": "FAUXKACHU"
+    },
+    {
+      "asset": "FAUXKEEPER"
+    },
+    {
+      "asset": "FAUXKHALEESI"
+    },
+    {
+      "asset": "FAUXKIDUL"
+    },
+    {
+      "asset": "FAUXKING"
+    },
+    {
+      "asset": "FAUXKNIGHTS"
+    },
+    {
+      "asset": "FAUXLEGENDS"
+    },
+    {
+      "asset": "FAUXLENOX"
+    },
+    {
+      "asset": "FAUXLIGHTDRG"
+    },
+    {
+      "asset": "FAUXLORDOO"
+    },
+    {
+      "asset": "FAUXLUNA"
+    },
+    {
+      "asset": "FAUXMARKET"
+    },
+    {
+      "asset": "FAUXMEDUSA"
+    },
+    {
+      "asset": "FAUXMINER"
+    },
+    {
+      "asset": "FAUXMINOTAUR"
+    },
+    {
+      "asset": "FAUXMOONGA"
+    },
+    {
+      "asset": "FAUXMOTANKA"
+    },
+    {
+      "asset": "FAUXMOTHER"
+    },
+    {
+      "asset": "FAUXMPIRE"
+    },
+    {
+      "asset": "FAUXMSTR"
+    },
+    {
+      "asset": "FAUXMUSERATO"
+    },
+    {
+      "asset": "FAUXNAKA"
+    },
+    {
+      "asset": "FAUXNAKAROCK"
+    },
+    {
+      "asset": "FAUXNINJA"
+    },
+    {
+      "asset": "FAUXNUNS"
+    },
+    {
+      "asset": "FAUXORDINALS"
+    },
+    {
+      "asset": "FAUXORIGIN"
+    },
+    {
+      "asset": "FAUXPATH"
+    },
+    {
+      "asset": "FAUXPRINCE"
+    },
+    {
+      "asset": "FAUXPUNK"
+    },
+    {
+      "asset": "FAUXPUNKSTER"
+    },
+    {
+      "asset": "FAUXRABTLORD"
+    },
+    {
+      "asset": "FAUXRAREAPE"
+    },
+    {
+      "asset": "FAUXROB"
+    },
+    {
+      "asset": "FAUXROCKPEEP"
+    },
+    {
+      "asset": "FAUXRONIN"
+    },
+    {
+      "asset": "FAUXRYLAKE"
+    },
+    {
+      "asset": "FAUXSAYLOR"
+    },
+    {
+      "asset": "FAUXSHIZZLE"
+    },
+    {
+      "asset": "FAUXSHROOM"
+    },
+    {
+      "asset": "FAUXSOGSTHOR"
+    },
+    {
+      "asset": "FAUXSPY"
+    },
+    {
+      "asset": "FAUXSQUIRTLE"
+    },
+    {
+      "asset": "FAUXSTAMP"
+    },
+    {
+      "asset": "FAUXSWORDMAN"
+    },
+    {
+      "asset": "FAUXTERROR"
+    },
+    {
+      "asset": "FAUXTORIAN"
+    },
+    {
+      "asset": "FAUXTORTURE"
+    },
+    {
+      "asset": "FAUXTOSHI"
+    },
+    {
+      "asset": "FAUXTOWER"
+    },
+    {
+      "asset": "FAUXTRADER"
+    },
+    {
+      "asset": "FAUXTURTLES"
+    },
+    {
+      "asset": "FAUXURANUS"
+    },
+    {
+      "asset": "FAUXVRAISOG"
+    },
+    {
+      "asset": "FAUXWAR"
+    },
+    {
+      "asset": "FAUXWARRIOR"
+    },
+    {
+      "asset": "FAUXWATERDRG"
+    },
+    {
+      "asset": "FAUXWEEDLORD"
+    },
+    {
+      "asset": "FAUXWIZARD"
+    },
+    {
+      "asset": "FAUXWORLDER"
+    },
+    {
+      "asset": "FAUXZOMBIE"
+    },
+    {
+      "asset": "FDJCARD"
+    },
+    {
+      "asset": "FESTIFAUX"
+    },
+    {
+      "asset": "FLOONEY"
+    },
+    {
+      "asset": "FREETOCHOOSE"
+    },
+    {
+      "asset": "FROGBIRTH"
+    },
+    {
+      "asset": "GANJAFAUX"
+    },
+    {
+      "asset": "GENAUXFGLEAM"
+    },
+    {
+      "asset": "GENESISQUEST"
+    },
+    {
+      "asset": "GENESIX"
+    },
+    {
+      "asset": "GNOMERETURNS"
+    },
+    {
+      "asset": "GOLDENDRAGON"
+    },
+    {
+      "asset": "GOTHCHAINER"
+    },
+    {
+      "asset": "GRAILHUNTER"
+    },
+    {
+      "asset": "GREATRUNE"
+    },
+    {
+      "asset": "GROGUCD"
+    },
+    {
+      "asset": "GUARDIANGEL"
+    },
+    {
+      "asset": "HALCARD"
+    },
+    {
+      "asset": "HASHCARD"
+    },
+    {
+      "asset": "HASKIANA"
+    },
+    {
+      "asset": "HEARTSONFIRE"
+    },
+    {
+      "asset": "HODLFIST"
+    },
+    {
+      "asset": "HUNTRNONYMUS"
+    },
+    {
+      "asset": "ICEDUNICORN"
+    },
+    {
+      "asset": "IRLFDCARD"
+    },
+    {
+      "asset": "JESUSOGS"
+    },
+    {
+      "asset": "KAORIFAUX"
+    },
+    {
+      "asset": "KEKMINER"
+    },
+    {
+      "asset": "KEKSTAFAUX"
+    },
+    {
+      "asset": "LAMBOCORN"
+    },
+    {
+      "asset": "LIGHTNINTRCH"
+    },
+    {
+      "asset": "LSDFDCARD"
+    },
+    {
+      "asset": "LUNACARD"
+    },
+    {
+      "asset": "MAGICIANCARD"
+    },
+    {
+      "asset": "MANDELKING"
+    },
+    {
+      "asset": "MEDICUS"
+    },
+    {
+      "asset": "MEDIIFAUX"
+    },
+    {
+      "asset": "MIZUKIFAUX"
+    },
+    {
+      "asset": "MNSTRKNGHT"
+    },
+    {
+      "asset": "MOLOTOV"
+    },
+    {
+      "asset": "MONKFAUX"
+    },
+    {
+      "asset": "MTCORN"
+    },
+    {
+      "asset": "MYTHOSSOO"
+    },
+    {
+      "asset": "NANAY"
+    },
+    {
+      "asset": "NINJASARU"
+    },
+    {
+      "asset": "NITSABOBO"
+    },
+    {
+      "asset": "NNNFAUX"
+    },
+    {
+      "asset": "ONEBLOCK"
+    },
+    {
+      "asset": "ONECUBIT"
+    },
+    {
+      "asset": "ORDCARD"
+    },
+    {
+      "asset": "OWLCOIN"
+    },
+    {
+      "asset": "PARRAIN"
+    },
+    {
+      "asset": "PARTYSOVER"
+    },
+    {
+      "asset": "PCKBRELLA"
+    },
+    {
+      "asset": "PEPEHILL"
+    },
+    {
+      "asset": "PEPERCIVALFS"
+    },
+    {
+      "asset": "PERIGEE"
+    },
+    {
+      "asset": "PHILOSOFAUX"
+    },
+    {
+      "asset": "PHOENIXCD"
+    },
+    {
+      "asset": "PRIMALFAUX"
+    },
+    {
+      "asset": "PROOFOFSOG"
+    },
+    {
+      "asset": "QUANTUMUN"
+    },
+    {
+      "asset": "RARECHARM"
+    },
+    {
+      "asset": "RARESOGS"
+    },
+    {
+      "asset": "REALSATOSHI"
+    },
+    {
+      "asset": "REINCOINATE"
+    },
+    {
+      "asset": "ROBOKEKPEPEX"
+    },
+    {
+      "asset": "RUGMANCER"
+    },
+    {
+      "asset": "SANTAFAUX"
+    },
+    {
+      "asset": "SATOSHABAN"
+    },
+    {
+      "asset": "SATOSHECARD"
+    },
+    {
+      "asset": "SATOSHIBLOCK"
+    },
+    {
+      "asset": "SATOSHISHITE"
+    },
+    {
+      "asset": "SATOSHISWORD"
+    },
+    {
+      "asset": "SEROFETHER"
+    },
+    {
+      "asset": "SGDANKNESS"
+    },
+    {
+      "asset": "SHABANAMOTO"
+    },
+    {
+      "asset": "SHADIFAUX"
+    },
+    {
+      "asset": "SHANGHAICARD"
+    },
+    {
+      "asset": "SHIBCOINCARD"
+    },
+    {
+      "asset": "SILVANUS"
+    },
+    {
+      "asset": "SOGEMPEROR"
+    },
+    {
+      "asset": "SOGGENESIS"
+    },
+    {
+      "asset": "SOGGYMONEY"
+    },
+    {
+      "asset": "SOGGYSTYLE"
+    },
+    {
+      "asset": "SOGHOLDER"
+    },
+    {
+      "asset": "SOGOMOTO"
+    },
+    {
+      "asset": "SOGONONOKE"
+    },
+    {
+      "asset": "SOGSAMARITAN"
+    },
+    {
+      "asset": "SOGSPIDER"
+    },
+    {
+      "asset": "SOGSTIECARD"
+    },
+    {
+      "asset": "SOGUNICRON"
+    },
+    {
+      "asset": "SOGWAR"
+    },
+    {
+      "asset": "SOURDOGE"
+    },
+    {
+      "asset": "SPELLCASTER"
+    },
+    {
+      "asset": "SPRTLINFLATE"
+    },
+    {
+      "asset": "STACKCHAIN"
+    },
+    {
+      "asset": "STSHRDX"
+    },
+    {
+      "asset": "THALASSIACD"
+    },
+    {
+      "asset": "THEBEHEMOTH"
+    },
+    {
+      "asset": "THECITADEL"
+    },
+    {
+      "asset": "THEECLIPSE"
+    },
+    {
+      "asset": "THEENIGMA"
+    },
+    {
+      "asset": "THEFORGE"
+    },
+    {
+      "asset": "THEFOUNDRY"
+    },
+    {
+      "asset": "THEGIFTCARD"
+    },
+    {
+      "asset": "THEGODCARD"
+    },
+    {
+      "asset": "THEHIGHLANDS"
+    },
+    {
+      "asset": "THELEXICON"
+    },
+    {
+      "asset": "THERUBICON"
+    },
+    {
+      "asset": "THEVALIDATOR"
+    },
+    {
+      "asset": "THMRG"
+    },
+    {
+      "asset": "THPRG"
+    },
+    {
+      "asset": "THREEBYTHREE"
+    },
+    {
+      "asset": "THREECHARMZ"
+    },
+    {
+      "asset": "THSCRG"
+    },
+    {
+      "asset": "THSPLRG"
+    },
+    {
+      "asset": "THSRG"
+    },
+    {
+      "asset": "THVRG"
+    },
+    {
+      "asset": "TIRAMOUSPAF"
+    },
+    {
+      "asset": "TSUKASAFAUX"
+    },
+    {
+      "asset": "VANGOSHI"
+    },
+    {
+      "asset": "WALKTHEPLANK"
+    },
+    {
+      "asset": "WEALTHPOT"
+    },
+    {
+      "asset": "WEALTHSPELL"
+    },
+    {
+      "asset": "WHITEAODH"
+    },
+    {
+      "asset": "WIZARDOFSOG"
+    },
+    {
+      "asset": "WUKONGBTC"
+    },
+    {
+      "asset": "YACHTCARD"
+    },
+    {
+      "asset": "ZUGZWANG"
+    }
+  ]
+}

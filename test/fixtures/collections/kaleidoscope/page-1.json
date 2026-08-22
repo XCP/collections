@@ -1,0 +1,28 @@
+{
+  "page": 1,
+  "pageSize": 60,
+  "total": 3,
+  "items": [
+    {
+      "kaleidoscopeId": 2380,
+      "assetName": "RAREPEPE",
+      "type": "image",
+      "thumbPath": "/media/thumb/2380.webp",
+      "posterPath": null
+    },
+    {
+      "kaleidoscopeId": 2378,
+      "assetName": "satanshi ",
+      "type": "image",
+      "thumbPath": "/media/thumb/2378.webp",
+      "posterPath": null
+    },
+    {
+      "kaleidoscopeId": 2377,
+      "assetName": "PEPESTRY.TAPESTRY",
+      "type": "image",
+      "thumbPath": "/media/thumb/2377.webp",
+      "posterPath": null
+    }
+  ]
+}

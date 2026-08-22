@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "collection": "example-set",
+  "assets": [
+    {
+      "asset": "RAREPEPE",
+      "attributes": [
+        { "trait_type": "Artist", "value": "Alice" },
+        { "trait_type": "Artist", "value": "Bob" },
+        { "trait_type": "Series", "value": 1 }
+      ]
+    },
+    { "asset": "DANK.CARD", "secondary": true }
+  ]
+}

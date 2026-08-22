@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "COLOPEPER"
+    },
+    {
+      "asset": "COPPERGOLD"
+    },
+    {
+      "asset": "COPPERSILVER"
+    },
+    {
+      "asset": "HIPPIEPEPE",
+      "secondary": true
+    },
+    {
+      "asset": "ILUMINATRARE",
+      "secondary": true
+    },
+    {
+      "asset": "MEMELOGY"
+    },
+    {
+      "asset": "PECTERIA",
+      "secondary": true
+    },
+    {
+      "asset": "PEPEIII"
+    },
+    {
+      "asset": "PEPEYES"
+    },
+    {
+      "asset": "PUREPEYE"
+    },
+    {
+      "asset": "TWENTYTWENTY"
+    }
+  ]
+}

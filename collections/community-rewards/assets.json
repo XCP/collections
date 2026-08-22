@@ -1,0 +1,106 @@
+{
+  "assets": [
+    {
+      "asset": "WELCOMEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JAMEX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "LAYERSOFLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "robotlovecoffee"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "GREENMEDAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "9272"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "WTFISTAKEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "STATSHEET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mingie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "MEMEFAMILY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    }
+  ]
+}

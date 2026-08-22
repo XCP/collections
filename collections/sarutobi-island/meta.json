@@ -1,41 +1,5 @@
 {
   "name": "Sarutobi Island",
   "kind": "canonical",
-  "description": "Game assets for the Sarutobi platformer, issued on Counterparty 2015–2017.",
-  "assets": [
-    {
-      "asset": "NINJASUIT"
-    },
-    {
-      "asset": "MANDELDUCKCD"
-    },
-    {
-      "asset": "SARUTOBIISL"
-    },
-    {
-      "asset": "STBNIMBUS"
-    },
-    {
-      "asset": "KOSMOCD"
-    },
-    {
-      "asset": "MACHANCD"
-    },
-    {
-      "asset": "SARUTOBIPEPE",
-      "secondary": true
-    },
-    {
-      "asset": "SATOSHICARD",
-      "secondary": true
-    },
-    {
-      "asset": "CNPCARD",
-      "secondary": true
-    },
-    {
-      "asset": "SARUTOBICARD",
-      "secondary": true
-    }
-  ]
+  "description": "Game assets for the Sarutobi platformer, issued on Counterparty 2015–2017."
 }

@@ -1,0 +1,2075 @@
+{
+  "assets": [
+    {
+      "asset": "KINGHURIENK"
+    },
+    {
+      "asset": "SOGTERRALUNA",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 17
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SOGTHEARCHER"
+    },
+    {
+      "asset": "SOGSALVADOR"
+    },
+    {
+      "asset": "SOGMETA",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Health",
+          "value": 22
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SOGHALFINNEY",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 17
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SOGELONMUSK",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 0
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 27
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SOGMUSHEGIAN",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SOGCRYPTOW",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 2
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 12
+        },
+        {
+          "trait_type": "Artist",
+          "value": "J. Mileski"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGETHMERGE"
+    },
+    {
+      "asset": "SOGWAKWELI",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 21
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Robert Zepeda"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGBEEP",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 25
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Brolo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "YODARK",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 1
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mattia Simone"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SOGSHOCKW",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 9
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 11
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tom Ventre"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGBITHOTEL"
+    },
+    {
+      "asset": "SOGCOINB",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 20
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Robert Zepeda"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGMOONCATS",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "BADROMANCE"
+    },
+    {
+      "asset": "FORKCARD"
+    },
+    {
+      "asset": "CRYSTALIBUR"
+    },
+    {
+      "asset": "SADICARD"
+    },
+    {
+      "asset": "JEWELDRAGONS"
+    },
+    {
+      "asset": "LTCDRAGON"
+    },
+    {
+      "asset": "SOGWINTER"
+    },
+    {
+      "asset": "BULLWHALE"
+    },
+    {
+      "asset": "ELFMONSTERKI"
+    },
+    {
+      "asset": "GRAVIGASSCAR"
+    },
+    {
+      "asset": "CHARGEELITE"
+    },
+    {
+      "asset": "VISCULADRAGO"
+    },
+    {
+      "asset": "PRINCEOFWINT"
+    },
+    {
+      "asset": "PROSSESSORFL"
+    },
+    {
+      "asset": "OUTRAGIOUSWA"
+    },
+    {
+      "asset": "PIRANHAMANIP"
+    },
+    {
+      "asset": "VISCULAMANTI"
+    },
+    {
+      "asset": "MONSTERDEPTH"
+    },
+    {
+      "asset": "TROLLDEPTHS"
+    },
+    {
+      "asset": "SCORPIGAS"
+    },
+    {
+      "asset": "INFECTEDSORM"
+    },
+    {
+      "asset": "CRYSTALREFIN"
+    },
+    {
+      "asset": "WIZARDTROLL"
+    },
+    {
+      "asset": "DEVASTATINGM"
+    },
+    {
+      "asset": "GRIFFINMASTE"
+    },
+    {
+      "asset": "HUNGRYAMPHIB"
+    },
+    {
+      "asset": "ELFSAGE"
+    },
+    {
+      "asset": "VISCULAFROZE"
+    },
+    {
+      "asset": "ITLANEXPERTD"
+    },
+    {
+      "asset": "WEANARAASSAS"
+    },
+    {
+      "asset": "VISCULATICK"
+    },
+    {
+      "asset": "TROLLBERSERK"
+    },
+    {
+      "asset": "VISCULASCARA"
+    },
+    {
+      "asset": "CORRUPTEDTRO"
+    },
+    {
+      "asset": "ROYALDEER"
+    },
+    {
+      "asset": "CENTAURARCHE"
+    },
+    {
+      "asset": "VIGILANTWATE"
+    },
+    {
+      "asset": "WATERELFADMI"
+    },
+    {
+      "asset": "REINFORCEMEN"
+    },
+    {
+      "asset": "HARBINGERDEA"
+    },
+    {
+      "asset": "WISETHRAL"
+    },
+    {
+      "asset": "PRINCEAUTUMN"
+    },
+    {
+      "asset": "DOGENHANCER"
+    },
+    {
+      "asset": "QUEENSHEALER"
+    },
+    {
+      "asset": "WATERSPEARFI"
+    },
+    {
+      "asset": "DARKCHALCOSI"
+    },
+    {
+      "asset": "POWERSCATTER"
+    },
+    {
+      "asset": "ICEGOLEM"
+    },
+    {
+      "asset": "ORCSASSAULT"
+    },
+    {
+      "asset": "PRINCESSSUMM"
+    },
+    {
+      "asset": "CAMILACARD"
+    },
+    {
+      "asset": "LRIKTHEFIGHT"
+    },
+    {
+      "asset": "LEVIOTHAN"
+    },
+    {
+      "asset": "CCMCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 6
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Albino-Z"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKSIZECD"
+    },
+    {
+      "asset": "XAJIBOSS"
+    },
+    {
+      "asset": "BCYDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 19
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "FROZENCOLOSS"
+    },
+    {
+      "asset": "SAYOSIATAX"
+    },
+    {
+      "asset": "BLOCKTRAILCD"
+    },
+    {
+      "asset": "KRAKENCARD"
+    },
+    {
+      "asset": "SOGHARELORD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 16
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tots Valeza"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "MUSHROOMSIMP"
+    },
+    {
+      "asset": "WHEREBCYCARD"
+    },
+    {
+      "asset": "ETHXCPCARD"
+    },
+    {
+      "asset": "SOGVENERIS"
+    },
+    {
+      "asset": "SPRINGSDAWN"
+    },
+    {
+      "asset": "WISEWIZARD"
+    },
+    {
+      "asset": "CALABASTER"
+    },
+    {
+      "asset": "SOGWEREWOLF"
+    },
+    {
+      "asset": "SORCERERAKAM"
+    },
+    {
+      "asset": "DIMITRICARD"
+    },
+    {
+      "asset": "VISCULACENTI"
+    },
+    {
+      "asset": "HERBODCARD"
+    },
+    {
+      "asset": "BADWOLF"
+    },
+    {
+      "asset": "SIACARD"
+    },
+    {
+      "asset": "VISCULAFIREF"
+    },
+    {
+      "asset": "LALABASTER"
+    },
+    {
+      "asset": "MAMAGRUN"
+    },
+    {
+      "asset": "KINGREINDEER"
+    },
+    {
+      "asset": "KAYLAGRUN"
+    },
+    {
+      "asset": "RIDANCARD"
+    },
+    {
+      "asset": "GASTADGRUN"
+    },
+    {
+      "asset": "QUIRINCARD"
+    },
+    {
+      "asset": "TINYGRUN"
+    },
+    {
+      "asset": "WATERANGEL"
+    },
+    {
+      "asset": "TROYGRUN"
+    },
+    {
+      "asset": "FIREANGEL"
+    },
+    {
+      "asset": "MAYALCARD"
+    },
+    {
+      "asset": "TALISMANCARD"
+    },
+    {
+      "asset": "BEARWHALECD"
+    },
+    {
+      "asset": "EALABASTER"
+    },
+    {
+      "asset": "LYSANDERCARD"
+    },
+    {
+      "asset": "BEARSPIRIT"
+    },
+    {
+      "asset": "SOGHALLOWEEN"
+    },
+    {
+      "asset": "MARKETACARD"
+    },
+    {
+      "asset": "BALABASTER"
+    },
+    {
+      "asset": "CARNIATHCELE"
+    },
+    {
+      "asset": "XAJIBESAAR"
+    },
+    {
+      "asset": "SATOSHILITE"
+    },
+    {
+      "asset": "GUMMYYUMMY"
+    },
+    {
+      "asset": "SGDARKNESS",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 7
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 19
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Edli Akolli"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "FIERCERABBIT",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 6
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Julien Cordebar"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "DIVINEKNIGHT"
+    },
+    {
+      "asset": "THEWATCHER"
+    },
+    {
+      "asset": "WTRSUCCUBUS"
+    },
+    {
+      "asset": "SOGWILDHORSE"
+    },
+    {
+      "asset": "SOGWHTDRAGON"
+    },
+    {
+      "asset": "JAYACARD"
+    },
+    {
+      "asset": "ROYALGRIFFIN"
+    },
+    {
+      "asset": "MAYACARD"
+    },
+    {
+      "asset": "STAGWARRIOR"
+    },
+    {
+      "asset": "PIXIECARD"
+    },
+    {
+      "asset": "SAPPHIREELF"
+    },
+    {
+      "asset": "BCINVESTCARD"
+    },
+    {
+      "asset": "BITCOINMAGCD"
+    },
+    {
+      "asset": "ROOSTERYEAR"
+    },
+    {
+      "asset": "PRINCESSSPRI"
+    },
+    {
+      "asset": "FAIRYTALESHA"
+    },
+    {
+      "asset": "VANBEXCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 14
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Albino-Z"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WATERSCARD"
+    },
+    {
+      "asset": "DAOSOGCARD"
+    },
+    {
+      "asset": "ICEUNICORN"
+    },
+    {
+      "asset": "EDSCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 27
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "VIRBULOSELIT"
+    },
+    {
+      "asset": "XAJIYEREMAAR"
+    },
+    {
+      "asset": "VISCULABEETL"
+    },
+    {
+      "asset": "QUEENSVIRBUL"
+    },
+    {
+      "asset": "BITCOINCOMCD"
+    },
+    {
+      "asset": "WARRIOROBSCU"
+    },
+    {
+      "asset": "LAMUSECARD"
+    },
+    {
+      "asset": "TREZORCD"
+    },
+    {
+      "asset": "ERAOL"
+    },
+    {
+      "asset": "DEALERFLAMES"
+    },
+    {
+      "asset": "REINFORCEDOC"
+    },
+    {
+      "asset": "ENCHANTEDSHI"
+    },
+    {
+      "asset": "DEVASTATINGT"
+    },
+    {
+      "asset": "SLASHINGCRIR"
+    },
+    {
+      "asset": "OVERARMEDDWA"
+    },
+    {
+      "asset": "HEAVENLYSHEP"
+    },
+    {
+      "asset": "CARNIATHCREA"
+    },
+    {
+      "asset": "BTCMEETUPCD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 19
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "YELLOWSHAMAN"
+    },
+    {
+      "asset": "TRANSCENDEN"
+    },
+    {
+      "asset": "PAPIIGAS"
+    },
+    {
+      "asset": "TRIDENTQUEEN"
+    },
+    {
+      "asset": "ITLANKINGGAR"
+    },
+    {
+      "asset": "GUARDIANSOUR"
+    },
+    {
+      "asset": "CARDMERCHANT"
+    },
+    {
+      "asset": "DARKAODH"
+    },
+    {
+      "asset": "WARRIORLUMIN"
+    },
+    {
+      "asset": "ZAIFCARD"
+    },
+    {
+      "asset": "XAJIBASILAAR"
+    },
+    {
+      "asset": "XCPCARD"
+    },
+    {
+      "asset": "CROWWARRIOR"
+    },
+    {
+      "asset": "SELENACARD"
+    },
+    {
+      "asset": "SHIELDWALLCD"
+    },
+    {
+      "asset": "MAIDSAFECD"
+    },
+    {
+      "asset": "XAJIARKETAAR"
+    },
+    {
+      "asset": "VISCULALADYB"
+    },
+    {
+      "asset": "BROTHERFOX"
+    },
+    {
+      "asset": "GRIDCOINCARD"
+    },
+    {
+      "asset": "MIGHTYSTORK"
+    },
+    {
+      "asset": "DRACOMANCER"
+    },
+    {
+      "asset": "GIANTCARD"
+    },
+    {
+      "asset": "KARMACARD"
+    },
+    {
+      "asset": "PRINCEOFICE",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 10
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Yihyoung Li"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "XULNOCCARD"
+    },
+    {
+      "asset": "THEMESSENGER"
+    },
+    {
+      "asset": "VICTORIACARD"
+    },
+    {
+      "asset": "DISTRICTOXCD"
+    },
+    {
+      "asset": "BARDCARD"
+    },
+    {
+      "asset": "KEEPKEYCARD"
+    },
+    {
+      "asset": "EMERALDCARD"
+    },
+    {
+      "asset": "RUBYCARD"
+    },
+    {
+      "asset": "GOLEMCARD"
+    },
+    {
+      "asset": "HARPIESCARD"
+    },
+    {
+      "asset": "CARDAMBER"
+    },
+    {
+      "asset": "SAPPHIRECARD"
+    },
+    {
+      "asset": "WAVESCARD"
+    },
+    {
+      "asset": "BTCDRAGONCD"
+    },
+    {
+      "asset": "WAGATECARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 8
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ryo Fougere"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "GENOFLIGHT"
+    },
+    {
+      "asset": "SOGBCYBOX"
+    },
+    {
+      "asset": "WEASELSCARD"
+    },
+    {
+      "asset": "PURPLEDRAGON"
+    },
+    {
+      "asset": "FLYINGBLAZE"
+    },
+    {
+      "asset": "POLYMATHCARD"
+    },
+    {
+      "asset": "DARYENCARD"
+    },
+    {
+      "asset": "XAJIJASPAAR"
+    },
+    {
+      "asset": "BAZAARCARD"
+    },
+    {
+      "asset": "LTBCARD"
+    },
+    {
+      "asset": "COINOFLITECD"
+    },
+    {
+      "asset": "SJCXCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 6
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 26
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SHUMAICARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Health",
+          "value": 16
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGLAUNCHCD"
+    },
+    {
+      "asset": "MYSTRSMAID"
+    },
+    {
+      "asset": "WOODMONSTER"
+    },
+    {
+      "asset": "SYLVANELF"
+    },
+    {
+      "asset": "TROLLSCLUBCD"
+    },
+    {
+      "asset": "WAARTHCARD"
+    },
+    {
+      "asset": "TATIANACARD"
+    },
+    {
+      "asset": "HUNTERCARD"
+    },
+    {
+      "asset": "BTCCCOINCARD"
+    },
+    {
+      "asset": "BITSHARESCD"
+    },
+    {
+      "asset": "SORCERESSCD"
+    },
+    {
+      "asset": "DARKSTATUE"
+    },
+    {
+      "asset": "CARDAIRBITZ"
+    },
+    {
+      "asset": "GOBLINCARD"
+    },
+    {
+      "asset": "MINERCARD"
+    },
+    {
+      "asset": "CARDASTEMA"
+    },
+    {
+      "asset": "CARDAUGUR"
+    },
+    {
+      "asset": "DASHCD"
+    },
+    {
+      "asset": "GOXCARD"
+    },
+    {
+      "asset": "BITCOINISTCD"
+    },
+    {
+      "asset": "SLACKCARD"
+    },
+    {
+      "asset": "DOGECOINCARD"
+    },
+    {
+      "asset": "ETHERMAGE"
+    },
+    {
+      "asset": "BTCCFORGECD"
+    },
+    {
+      "asset": "MOTHERBIRD"
+    },
+    {
+      "asset": "FACTOMCD"
+    },
+    {
+      "asset": "CRAZYLOLA"
+    },
+    {
+      "asset": "COINDESKCARD"
+    },
+    {
+      "asset": "COINPORTALCD"
+    },
+    {
+      "asset": "CROWCARD"
+    },
+    {
+      "asset": "SHOPKEEPERCD"
+    },
+    {
+      "asset": "NEMCARD"
+    },
+    {
+      "asset": "GNOMECARD"
+    },
+    {
+      "asset": "PEACOCKCARD"
+    },
+    {
+      "asset": "SCARECROWCD"
+    },
+    {
+      "asset": "EMERALDETHER",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ramsés Meléndes"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "CYCLOPSCARD"
+    },
+    {
+      "asset": "FOOTSOLDIER"
+    },
+    {
+      "asset": "WATERSCOURT"
+    },
+    {
+      "asset": "FDCARD"
+    },
+    {
+      "asset": "SWARMCD"
+    },
+    {
+      "asset": "CLEFCARD"
+    },
+    {
+      "asset": "GEMZCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 1
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Herkeim"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SHAPESHIFTCD"
+    },
+    {
+      "asset": "ETHEREUMCARD"
+    },
+    {
+      "asset": "RIPPLECARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 7
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 22
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Herckeim"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "GENESISCARD"
+    },
+    {
+      "asset": "CNPCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 7
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 5
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ramsés Meléndes"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHICARD"
+    },
+    {
+      "asset": "SARUTOBICARD"
+    },
+    {
+      "asset": "FWSDLTHEMONC",
+      "secondary": true
+    },
+    {
+      "asset": "DAICARD"
+    },
+    {
+      "asset": "SOGCURIO",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 12
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 20
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Brolo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGFTX",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 21
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGHALVING",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 0
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ansis Ērglis"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SOGBULLVBEAR",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 0
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "William D Menossi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGCQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 23
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Malagueño"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGEVERTREE",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 7
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 15
+        },
+        {
+          "trait_type": "Artist",
+          "value": "William D Menossi"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SOGCRYPTOSKL",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 8
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Health",
+          "value": 14
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mattia Simone"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SOGINSCRIPT",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 12
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Brolo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SOGBTCMAXI",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 9
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SOGCRYPTOSEC",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "J. Mileski"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SOGXCPMKTPL",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Health",
+          "value": 19
+        },
+        {
+          "trait_type": "Artist",
+          "value": "J. Mileski"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "BANKGOBLINCD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 5
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Health",
+          "value": 11
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sasha Chudo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "FWSDLFIETHSC",
+      "secondary": true
+    },
+    {
+      "asset": "SOGJANUS"
+    },
+    {
+      "asset": "FWCFCFIERYCC",
+      "secondary": true
+    },
+    {
+      "asset": "FWCFCUMRATTC",
+      "secondary": true
+    },
+    {
+      "asset": "FWSDLICEDRAC",
+      "secondary": true
+    },
+    {
+      "asset": "LIGHTWARRIOR"
+    },
+    {
+      "asset": "SOGNFTMUSEUM",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Peyeyo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "SOGSAYLOR",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 19
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Brolo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "ROSSCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 4
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 13
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SOGBCYBACK",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 11
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Health",
+          "value": 20
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alejandro Hurtado"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "XCHAINCARD"
+    },
+    {
+      "asset": "CZCARD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 3
+        },
+        {
+          "trait_type": "Element",
+          "value": "Ice"
+        },
+        {
+          "trait_type": "Health",
+          "value": 10
+        },
+        {
+          "trait_type": "Artist",
+          "value": "J. Mileski"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "HUSTLEAICD"
+    },
+    {
+      "asset": "LORDPEPECD",
+      "attributes": [
+        {
+          "trait_type": "Attack",
+          "value": 2
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Health",
+          "value": 14
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mattia Simone"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Speed",
+          "value": 3
+        }
+      ]
+    }
+  ]
+}

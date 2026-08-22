@@ -1,13 +1,35 @@
 name: resolve
 on:
   pull_request:
-    paths: ["collections/**"]
+    paths:
+      - "collections/**"
+      - "aggregators/**"
+      - "lib/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/resolve.ts"
+  push:
+    branches: [main]
+    paths:
+      - "collections/**"
+      - "aggregators/**"
+      - "lib/**"
+      - "schemas/**"
+      - "scripts/**"
+      - ".github/resolve.ts"
+
+permissions:
+  contents: read
+
 jobs:
   resolve:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node .github/resolve.mjs
+      - run: node .github/resolve.ts

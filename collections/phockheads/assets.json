@@ -1,0 +1,1468 @@
+{
+  "assets": [
+    {
+      "asset": "FLOONEYHEADS"
+    },
+    {
+      "asset": "FLOONEYHEADS.FLOONEYBIN"
+    },
+    {
+      "asset": "FLOONEYHEADS.FLOPPYDESERT"
+    },
+    {
+      "asset": "FLOONEYHEADS.FRAMESOFJOEY"
+    },
+    {
+      "asset": "FLOONEYHEADS.GREENJOECREW"
+    },
+    {
+      "asset": "FLOONEYHEADS.LADENDELIC"
+    },
+    {
+      "asset": "FLOONEYHEADS.MODERNFRISBEE"
+    },
+    {
+      "asset": "FLOONEYHEADS.PEPEYELLOW"
+    },
+    {
+      "asset": "FLOONEYHEADS.REDORDEDJAK"
+    },
+    {
+      "asset": "FLOONEYHEADS.TOKENJOE"
+    },
+    {
+      "asset": "FLOONEYHEADS.TURQUOISEFLOONEY"
+    },
+    {
+      "asset": "FLOONEYHEADS.WHATSTHESCOREJOEY"
+    },
+    {
+      "asset": "FLOONEYHEADS.WOESGARDEN"
+    },
+    {
+      "asset": "KIDPHOCKS"
+    },
+    {
+      "asset": "KIDPHOCKS.BART"
+    },
+    {
+      "asset": "KIDPHOCKS.CHASE"
+    },
+    {
+      "asset": "KIDPHOCKS.COLE"
+    },
+    {
+      "asset": "KIDPHOCKS.GADGET"
+    },
+    {
+      "asset": "KIDPHOCKS.GARMADON"
+    },
+    {
+      "asset": "KIDPHOCKS.GED"
+    },
+    {
+      "asset": "KIDPHOCKS.GRANDMASTERSMURF"
+    },
+    {
+      "asset": "KIDPHOCKS.HELLINGER"
+    },
+    {
+      "asset": "KIDPHOCKS.JAY"
+    },
+    {
+      "asset": "KIDPHOCKS.KAI"
+    },
+    {
+      "asset": "KIDPHOCKS.KAKASHI"
+    },
+    {
+      "asset": "KIDPHOCKS.KEVIN"
+    },
+    {
+      "asset": "KIDPHOCKS.LLOYD"
+    },
+    {
+      "asset": "KIDPHOCKS.MASKFOUR"
+    },
+    {
+      "asset": "KIDPHOCKS.MASKONE"
+    },
+    {
+      "asset": "KIDPHOCKS.MASKTHREE"
+    },
+    {
+      "asset": "KIDPHOCKS.MASKTWO"
+    },
+    {
+      "asset": "KIDPHOCKS.NYA"
+    },
+    {
+      "asset": "KIDPHOCKS.OGGY"
+    },
+    {
+      "asset": "KIDPHOCKS.PIKAPIKA"
+    },
+    {
+      "asset": "KIDPHOCKS.PINGU"
+    },
+    {
+      "asset": "KIDPHOCKS.PORCOROSSO"
+    },
+    {
+      "asset": "KIDPHOCKS.SKELETOR"
+    },
+    {
+      "asset": "KIDPHOCKS.SPONGEBOB"
+    },
+    {
+      "asset": "KIDPHOCKS.STUART"
+    },
+    {
+      "asset": "KIDPHOCKS.WU"
+    },
+    {
+      "asset": "KIDPHOCKS.ZANE"
+    },
+    {
+      "asset": "LILPHOCKERS"
+    },
+    {
+      "asset": "LILPHOCKERS.ALADDIN"
+    },
+    {
+      "asset": "LILPHOCKERS.ANGELICA"
+    },
+    {
+      "asset": "LILPHOCKERS.ARNOLD"
+    },
+    {
+      "asset": "LILPHOCKERS.BENDER"
+    },
+    {
+      "asset": "LILPHOCKERS.BLOSSOM"
+    },
+    {
+      "asset": "LILPHOCKERS.BUBBLES"
+    },
+    {
+      "asset": "LILPHOCKERS.BUTTERCUP"
+    },
+    {
+      "asset": "LILPHOCKERS.DEXTER"
+    },
+    {
+      "asset": "LILPHOCKERS.FINN"
+    },
+    {
+      "asset": "LILPHOCKERS.FRY"
+    },
+    {
+      "asset": "LILPHOCKERS.JAKE"
+    },
+    {
+      "asset": "LILPHOCKERS.JBRAVO"
+    },
+    {
+      "asset": "LILPHOCKERS.LEELA"
+    },
+    {
+      "asset": "LILPHOCKERS.MORTY"
+    },
+    {
+      "asset": "LILPHOCKERS.PERRY"
+    },
+    {
+      "asset": "LILPHOCKERS.RICK"
+    },
+    {
+      "asset": "LILPHOCKERS.ROCCO"
+    },
+    {
+      "asset": "LILPHOCKERS.TOMMY"
+    },
+    {
+      "asset": "LILPHOCKERS.WIFFLE"
+    },
+    {
+      "asset": "LILPHOCKERS.WOWM"
+    },
+    {
+      "asset": "MVPPHOCK"
+    },
+    {
+      "asset": "MVPPHOCK.ALLENIVERSON"
+    },
+    {
+      "asset": "MVPPHOCK.DIRKNOWITZKI"
+    },
+    {
+      "asset": "MVPPHOCK.HAKEEMOLAJUWON"
+    },
+    {
+      "asset": "MVPPHOCK.KAREEMABDULJABBAR"
+    },
+    {
+      "asset": "MVPPHOCK.KEVINGARNETT"
+    },
+    {
+      "asset": "MVPPHOCK.KOBEBRYANT"
+    },
+    {
+      "asset": "MVPPHOCK.LARRYBIRD"
+    },
+    {
+      "asset": "MVPPHOCK.LEBRONJAMES"
+    },
+    {
+      "asset": "MVPPHOCK.MAGICJOHNSON"
+    },
+    {
+      "asset": "MVPPHOCK.MICHAELJORDAN"
+    },
+    {
+      "asset": "MVPPHOCK.SHAQUILLEONEILL"
+    },
+    {
+      "asset": "MVPPHOCK.STEPHENCURRY"
+    },
+    {
+      "asset": "MVPPHOCK.STEVENASH"
+    },
+    {
+      "asset": "MVPPHOCK.TIMDUNCAN"
+    },
+    {
+      "asset": "NOPHOCKGIVEN"
+    },
+    {
+      "asset": "NOPHOCKGIVEN.FYRE"
+    },
+    {
+      "asset": "NOPHOCKGIVEN.KIMJONGPHOCK"
+    },
+    {
+      "asset": "NOPHOCKGIVEN.PHOCKEDITUP"
+    },
+    {
+      "asset": "NOPHOCKGIVEN.PHOCKSBURY"
+    },
+    {
+      "asset": "PEPEPHOCKS"
+    },
+    {
+      "asset": "PEPEPHOCKS.BBAEPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.BIGGIEPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.CLOWNPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.CRYINGPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.FATHERPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.FEELSGOODMAN"
+    },
+    {
+      "asset": "PEPEPHOCKS.FULLMETALPEP"
+    },
+    {
+      "asset": "PEPEPHOCKS.GADSENPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.GROYPER"
+    },
+    {
+      "asset": "PEPEPHOCKS.HAIRPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.HOMERPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.MEMEMAGIC"
+    },
+    {
+      "asset": "PEPEPHOCKS.NAKAMOTO"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPA"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPALISA"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPARARE"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPEBOY"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPECASH"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPEHOODIE"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPEKEEPER"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPELAUGH"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPELETTERA"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPEMARLEY"
+    },
+    {
+      "asset": "PEPEPHOCKS.PEPESGYM"
+    },
+    {
+      "asset": "PEPEPHOCKS.PROPELLERBEANIE"
+    },
+    {
+      "asset": "PEPEPHOCKS.RAOULDUKEPEP"
+    },
+    {
+      "asset": "PEPEPHOCKS.REEEEEEE"
+    },
+    {
+      "asset": "PEPEPHOCKS.RGBPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.SALTANDPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.SMELLPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.SOCRATESPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.TOBIASPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.TROLLFACE"
+    },
+    {
+      "asset": "PEPEPHOCKS.UFOPEPE"
+    },
+    {
+      "asset": "PEPEPHOCKS.WAGMIPEPE"
+    },
+    {
+      "asset": "PHOCKANONZ"
+    },
+    {
+      "asset": "PHOCKANONZ.ANON"
+    },
+    {
+      "asset": "PHOCKANONZ.APE"
+    },
+    {
+      "asset": "PHOCKANONZ.BANKS"
+    },
+    {
+      "asset": "PHOCKANONZ.DALI"
+    },
+    {
+      "asset": "PHOCKANONZ.MARIO"
+    },
+    {
+      "asset": "PHOCKANONZ.MOTO"
+    },
+    {
+      "asset": "PHOCKANONZ.OBEY"
+    },
+    {
+      "asset": "PHOCKANONZ.PEPE"
+    },
+    {
+      "asset": "PHOCKANONZ.PILL"
+    },
+    {
+      "asset": "PHOCKANONZ.PRPEP"
+    },
+    {
+      "asset": "PHOCKART"
+    },
+    {
+      "asset": "PHOCKART.DORSEY"
+    },
+    {
+      "asset": "PHOCKBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.CLOWNBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.GENBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.GOSBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.JERRYBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.JORDANBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.KREGBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.LEMYBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.MIKBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.POLBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.RICBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.THREEBANGERS"
+    },
+    {
+      "asset": "PHOCKBANGERS.TOMBANGERS"
+    },
+    {
+      "asset": "PHOCKBEARD"
+    },
+    {
+      "asset": "PHOCKBEARD.CHARLIE"
+    },
+    {
+      "asset": "PHOCKBEARD.GRIZZ"
+    },
+    {
+      "asset": "PHOCKBEARD.ICE"
+    },
+    {
+      "asset": "PHOCKBEARD.NOMNOM"
+    },
+    {
+      "asset": "PHOCKBEARD.PANDA"
+    },
+    {
+      "asset": "PHOCKCHESS"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKBISHOP"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKKING"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKKNIGHT"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKPAWN"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKQUEEN"
+    },
+    {
+      "asset": "PHOCKCHESS.BLACKROOK"
+    },
+    {
+      "asset": "PHOCKCHESS.PLAY"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEBISHOP"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEKING"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEKNIGHT"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEPAWN"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEQUEEN"
+    },
+    {
+      "asset": "PHOCKCHESS.WHITEROOK"
+    },
+    {
+      "asset": "PHOCKCYBER"
+    },
+    {
+      "asset": "PHOCKCYBER.NUMBERFIVE"
+    },
+    {
+      "asset": "PHOCKCYBER.NUMBERFOUR"
+    },
+    {
+      "asset": "PHOCKCYBER.NUMBERONE"
+    },
+    {
+      "asset": "PHOCKCYBER.NUMBERTHREE"
+    },
+    {
+      "asset": "PHOCKCYBER.NUMBERTWO"
+    },
+    {
+      "asset": "PHOCKFITS"
+    },
+    {
+      "asset": "PHOCKFITS.CRIMSON"
+    },
+    {
+      "asset": "PHOCKFITS.DOYLE"
+    },
+    {
+      "asset": "PHOCKFITS.GLENN"
+    },
+    {
+      "asset": "PHOCKFITS.JERRY"
+    },
+    {
+      "asset": "PHOCKGOTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.ANDROTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.ASHITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.GOURMETCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.GOZARUTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.HIKOTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.MEGANITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.MUKIMUKITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.NIKATCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.OJITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.OKUTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.OTOKITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.OYAJITCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.TAMATCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.TOUGYUTCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.URADEBATCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.VIOLETCHI"
+    },
+    {
+      "asset": "PHOCKGOTCHI.YASAGURETCHI"
+    },
+    {
+      "asset": "PHOCKGUARDS"
+    },
+    {
+      "asset": "PHOCKGUARDS.BABY"
+    },
+    {
+      "asset": "PHOCKGUARDS.BUG"
+    },
+    {
+      "asset": "PHOCKGUARDS.COSM"
+    },
+    {
+      "asset": "PHOCKGUARDS.DRAX"
+    },
+    {
+      "asset": "PHOCKGUARDS.EGO"
+    },
+    {
+      "asset": "PHOCKGUARDS.GAMO"
+    },
+    {
+      "asset": "PHOCKGUARDS.GROO"
+    },
+    {
+      "asset": "PHOCKGUARDS.MANT"
+    },
+    {
+      "asset": "PHOCKGUARDS.ROCK"
+    },
+    {
+      "asset": "PHOCKGUARDS.RONA"
+    },
+    {
+      "asset": "PHOCKGUARDS.STAR"
+    },
+    {
+      "asset": "PHOCKGUARDS.THAN"
+    },
+    {
+      "asset": "PHOCKGUARDS.THOR"
+    },
+    {
+      "asset": "PHOCKGUARDS.WARL"
+    },
+    {
+      "asset": "PHOCKGUARDS.YOND"
+    },
+    {
+      "asset": "PHOCKHB"
+    },
+    {
+      "asset": "PHOCKHB.ATOMANT"
+    },
+    {
+      "asset": "PHOCKHB.BARNEYFLINTSTONE"
+    },
+    {
+      "asset": "PHOCKHB.DICKDASTARDLY"
+    },
+    {
+      "asset": "PHOCKHB.DINGALING"
+    },
+    {
+      "asset": "PHOCKHB.FREDFLINSTONE"
+    },
+    {
+      "asset": "PHOCKHB.GEORGEJETSON"
+    },
+    {
+      "asset": "PHOCKHB.HUCKLEBERRYHOUND"
+    },
+    {
+      "asset": "PHOCKHB.JONNYQUEST"
+    },
+    {
+      "asset": "PHOCKHB.MAGILLAGORILLA"
+    },
+    {
+      "asset": "PHOCKHB.MUTTLEY"
+    },
+    {
+      "asset": "PHOCKHB.SCOOBYDOO"
+    },
+    {
+      "asset": "PHOCKHB.SHAGGY"
+    },
+    {
+      "asset": "PHOCKHB.SNAGGLEPUSS"
+    },
+    {
+      "asset": "PHOCKHB.SPACEGHOST"
+    },
+    {
+      "asset": "PHOCKHB.YOGIBEAR"
+    },
+    {
+      "asset": "PHOCKHEADS"
+    },
+    {
+      "asset": "PHOCKHEADS.10"
+    },
+    {
+      "asset": "PHOCKHEADS.11"
+    },
+    {
+      "asset": "PHOCKHEADS.12"
+    },
+    {
+      "asset": "PHOCKHEADS.13"
+    },
+    {
+      "asset": "PHOCKHEADS.14"
+    },
+    {
+      "asset": "PHOCKHEADS.15"
+    },
+    {
+      "asset": "PHOCKHEADS.1"
+    },
+    {
+      "asset": "PHOCKHEADS.2"
+    },
+    {
+      "asset": "PHOCKHEADS.3"
+    },
+    {
+      "asset": "PHOCKHEADS.4"
+    },
+    {
+      "asset": "PHOCKHEADS.5"
+    },
+    {
+      "asset": "PHOCKHEADS.6"
+    },
+    {
+      "asset": "PHOCKHEADS.7"
+    },
+    {
+      "asset": "PHOCKHEADS.8"
+    },
+    {
+      "asset": "PHOCKHEADS.9"
+    },
+    {
+      "asset": "PHOCKHEADS.AA"
+    },
+    {
+      "asset": "PHOCKHEADS.ADAMBACK"
+    },
+    {
+      "asset": "PHOCKHEADS.ANDREWPOELSTRA"
+    },
+    {
+      "asset": "PHOCKHEADS.ARMSTRONG"
+    },
+    {
+      "asset": "PHOCKHEADS.BITCOINUNCENSORED"
+    },
+    {
+      "asset": "PHOCKHEADS.BLUEMATT"
+    },
+    {
+      "asset": "PHOCKHEADS.BREITWOMAN"
+    },
+    {
+      "asset": "PHOCKHEADS.CATHIEWOOD"
+    },
+    {
+      "asset": "PHOCKHEADS.CHARLES"
+    },
+    {
+      "asset": "PHOCKHEADS.CLONEX"
+    },
+    {
+      "asset": "PHOCKHEADS.CSW"
+    },
+    {
+      "asset": "PHOCKHEADS.CZ"
+    },
+    {
+      "asset": "PHOCKHEADS.DJPEPE"
+    },
+    {
+      "asset": "PHOCKHEADS.DORIAN"
+    },
+    {
+      "asset": "PHOCKHEADS.DRAPER"
+    },
+    {
+      "asset": "PHOCKHEADS.DROPLISTER"
+    },
+    {
+      "asset": "PHOCKHEADS.ELONMUSK"
+    },
+    {
+      "asset": "PHOCKHEADS.FREEROSS"
+    },
+    {
+      "asset": "PHOCKHEADS.GMAX"
+    },
+    {
+      "asset": "PHOCKHEADS.HESTER"
+    },
+    {
+      "asset": "PHOCKHEADS.JAMESONLOPP"
+    },
+    {
+      "asset": "PHOCKHEADS.JASON"
+    },
+    {
+      "asset": "PHOCKHEADS.JDOG"
+    },
+    {
+      "asset": "PHOCKHEADS.JEREMYRUBIN"
+    },
+    {
+      "asset": "PHOCKHEADS.JIMMYSONG"
+    },
+    {
+      "asset": "PHOCKHEADS.JOEROGAN"
+    },
+    {
+      "asset": "PHOCKHEADS.LORDGLEN"
+    },
+    {
+      "asset": "PHOCKHEADS.LSDPHOCK"
+    },
+    {
+      "asset": "PHOCKHEADS.LUKEDASHJR"
+    },
+    {
+      "asset": "PHOCKHEADS.MALLERS"
+    },
+    {
+      "asset": "PHOCKHEADS.MARKCUBAN"
+    },
+    {
+      "asset": "PHOCKHEADS.MCAFEE"
+    },
+    {
+      "asset": "PHOCKHEADS.NAYIB"
+    },
+    {
+      "asset": "PHOCKHEADS.NOTSOFAST"
+    },
+    {
+      "asset": "PHOCKHEADS.NOVOGRATZ"
+    },
+    {
+      "asset": "PHOCKHEADS.PETERSCHIFF"
+    },
+    {
+      "asset": "PHOCKHEADS.PHOCK14KEK"
+    },
+    {
+      "asset": "PHOCKHEADS.PWUILLE"
+    },
+    {
+      "asset": "PHOCKHEADS.RICHARDHEX"
+    },
+    {
+      "asset": "PHOCKHEADS.ROASBEEF"
+    },
+    {
+      "asset": "PHOCKHEADS.SAYLOR"
+    },
+    {
+      "asset": "PHOCKHEADS.SBF"
+    },
+    {
+      "asset": "PHOCKHEADS.SNOOP"
+    },
+    {
+      "asset": "PHOCKHEADS.STARKNESS"
+    },
+    {
+      "asset": "PHOCKHEADS.STEVEAOKI"
+    },
+    {
+      "asset": "PHOCKHEADS.STOOL"
+    },
+    {
+      "asset": "PHOCKHEADS.THEOGOODMAN"
+    },
+    {
+      "asset": "PHOCKHEADS.VITALIK"
+    },
+    {
+      "asset": "PHOCKHEADS.WINKLEVII"
+    },
+    {
+      "asset": "PHOCKHEADS.XCOPY"
+    },
+    {
+      "asset": "PHOCKHORROR"
+    },
+    {
+      "asset": "PHOCKHORROR.BEETLEJUICE"
+    },
+    {
+      "asset": "PHOCKHORROR.BILLY"
+    },
+    {
+      "asset": "PHOCKHORROR.CHUCKY"
+    },
+    {
+      "asset": "PHOCKHORROR.FRANK"
+    },
+    {
+      "asset": "PHOCKHORROR.FREDDY"
+    },
+    {
+      "asset": "PHOCKHORROR.HELLRAISER"
+    },
+    {
+      "asset": "PHOCKHORROR.IT"
+    },
+    {
+      "asset": "PHOCKHORROR.JASON"
+    },
+    {
+      "asset": "PHOCKHORROR.LEATHERFACE"
+    },
+    {
+      "asset": "PHOCKHORROR.MICHAEL"
+    },
+    {
+      "asset": "PHOCKHORROR.REGAN"
+    },
+    {
+      "asset": "PHOCKHORROR.SADAKO"
+    },
+    {
+      "asset": "PHOCKHORROR.SCREAM"
+    },
+    {
+      "asset": "PHOCKMEMES.BRAINYWOJAK"
+    },
+    {
+      "asset": "PHOCKMEMES.GONDOLA"
+    },
+    {
+      "asset": "PHOCKMEMES.NPC"
+    },
+    {
+      "asset": "PHOCKMEMES.SMINEM"
+    },
+    {
+      "asset": "PHOCKNFTS"
+    },
+    {
+      "asset": "PHOCKNFTS.64GALLONTOTER"
+    },
+    {
+      "asset": "PHOCKNFTS.ASCIILENASCIIBERNANKE"
+    },
+    {
+      "asset": "PHOCKNFTS.CHROMIESQUIGGLE"
+    },
+    {
+      "asset": "PHOCKNFTS.CURIOCARD1"
+    },
+    {
+      "asset": "PHOCKNFTS.ETHERIA"
+    },
+    {
+      "asset": "PHOCKNFTS.FIDENZA"
+    },
+    {
+      "asset": "PHOCKNFTS.GAZERS"
+    },
+    {
+      "asset": "PHOCKNFTS.LOOT"
+    },
+    {
+      "asset": "PHOCKNFTS.NILICOINS"
+    },
+    {
+      "asset": "PHOCKNFTS.NINJASUIT"
+    },
+    {
+      "asset": "PHOCKNFTS.OLGA"
+    },
+    {
+      "asset": "PHOCKNFTS.PUNYCODES"
+    },
+    {
+      "asset": "PHOCKNFTS.QUANTUM"
+    },
+    {
+      "asset": "PHOCKNFTS.TEST"
+    },
+    {
+      "asset": "PHOCKNFTS.TOKENSEQUALTEXT"
+    },
+    {
+      "asset": "PHOCKNFTS.TWITTEREGG"
+    },
+    {
+      "asset": "PHOCKNFTS.WACKNAKAMOTO"
+    },
+    {
+      "asset": "PHOCKPARK"
+    },
+    {
+      "asset": "PHOCKPARK.ANONYMOUS821"
+    },
+    {
+      "asset": "PHOCKPARK.BATDAD"
+    },
+    {
+      "asset": "PHOCKPARK.BEBE"
+    },
+    {
+      "asset": "PHOCKPARK.BUTTERS"
+    },
+    {
+      "asset": "PHOCKPARK.CARTMAN"
+    },
+    {
+      "asset": "PHOCKPARK.CHEF"
+    },
+    {
+      "asset": "PHOCKPARK.CITYWOKGUY"
+    },
+    {
+      "asset": "PHOCKPARK.CLYDE"
+    },
+    {
+      "asset": "PHOCKPARK.CRAIG"
+    },
+    {
+      "asset": "PHOCKPARK.DIANECHOKSONDIK"
+    },
+    {
+      "asset": "PHOCKPARK.GERALD"
+    },
+    {
+      "asset": "PHOCKPARK.GIANTDOUCHE"
+    },
+    {
+      "asset": "PHOCKPARK.HEIDI"
+    },
+    {
+      "asset": "PHOCKPARK.IKE"
+    },
+    {
+      "asset": "PHOCKPARK.JESUSCHRIST"
+    },
+    {
+      "asset": "PHOCKPARK.JIMBO"
+    },
+    {
+      "asset": "PHOCKPARK.JIMMY"
+    },
+    {
+      "asset": "PHOCKPARK.KENNY"
+    },
+    {
+      "asset": "PHOCKPARK.KYLE"
+    },
+    {
+      "asset": "PHOCKPARK.LIANECARTMAN"
+    },
+    {
+      "asset": "PHOCKPARK.MRGARRISON"
+    },
+    {
+      "asset": "PHOCKPARK.MRHANKEY"
+    },
+    {
+      "asset": "PHOCKPARK.MRMACKEY"
+    },
+    {
+      "asset": "PHOCKPARK.MRSLAVE"
+    },
+    {
+      "asset": "PHOCKPARK.NED"
+    },
+    {
+      "asset": "PHOCKPARK.NICHOLE"
+    },
+    {
+      "asset": "PHOCKPARK.OFFICERBARBRADY"
+    },
+    {
+      "asset": "PHOCKPARK.PCPRINCIPAL"
+    },
+    {
+      "asset": "PHOCKPARK.PHILLIP"
+    },
+    {
+      "asset": "PHOCKPARK.PIP"
+    },
+    {
+      "asset": "PHOCKPARK.RANDY"
+    },
+    {
+      "asset": "PHOCKPARK.SADDAM"
+    },
+    {
+      "asset": "PHOCKPARK.SATAN"
+    },
+    {
+      "asset": "PHOCKPARK.SCOTTMALKINSON"
+    },
+    {
+      "asset": "PHOCKPARK.SCOTTTENORMAN"
+    },
+    {
+      "asset": "PHOCKPARK.SCUZZLEBUTT"
+    },
+    {
+      "asset": "PHOCKPARK.SHEILABROFLOVSKI"
+    },
+    {
+      "asset": "PHOCKPARK.SHELLY"
+    },
+    {
+      "asset": "PHOCKPARK.STAN"
+    },
+    {
+      "asset": "PHOCKPARK.STARVINMARVIN"
+    },
+    {
+      "asset": "PHOCKPARK.STRONGWOMAN"
+    },
+    {
+      "asset": "PHOCKPARK.STUARTMCCORMICK"
+    },
+    {
+      "asset": "PHOCKPARK.TERRANCE"
+    },
+    {
+      "asset": "PHOCKPARK.TIMMY"
+    },
+    {
+      "asset": "PHOCKPARK.TOKEN"
+    },
+    {
+      "asset": "PHOCKPARK.TOWELIE"
+    },
+    {
+      "asset": "PHOCKPARK.TURDSANDWICH"
+    },
+    {
+      "asset": "PHOCKPARK.TWEEK"
+    },
+    {
+      "asset": "PHOCKPARK.VERONICACRABTREE"
+    },
+    {
+      "asset": "PHOCKPARK.WENDY"
+    },
+    {
+      "asset": "PHOCKS"
+    },
+    {
+      "asset": "PHOCKS.CAESAR"
+    },
+    {
+      "asset": "PHOCKS.CHAPLIN"
+    },
+    {
+      "asset": "PHOCKS.EINSTEIN"
+    },
+    {
+      "asset": "PHOCKS.GANDHI"
+    },
+    {
+      "asset": "PHOCKS.HODLONAUT"
+    },
+    {
+      "asset": "PHOCKS.HOWDAREYOU"
+    },
+    {
+      "asset": "PHOCKS.HULKHOGAN"
+    },
+    {
+      "asset": "PHOCKS.KANE"
+    },
+    {
+      "asset": "PHOCKS.KINGOFPOP"
+    },
+    {
+      "asset": "PHOCKS.LUIGI"
+    },
+    {
+      "asset": "PHOCKS.MARIO"
+    },
+    {
+      "asset": "PHOCKS.MONALISA"
+    },
+    {
+      "asset": "PHOCKS.MOTHERTERESA"
+    },
+    {
+      "asset": "PHOCKS.NAPOLEON"
+    },
+    {
+      "asset": "PHOCKS.NOPE"
+    },
+    {
+      "asset": "PHOCKS.ORANGEMAN"
+    },
+    {
+      "asset": "PHOCKS.QUEEN"
+    },
+    {
+      "asset": "PHOCKS.STEVEJOBS"
+    },
+    {
+      "asset": "PHOCKS.SUPERMAN"
+    },
+    {
+      "asset": "PHOCKS.TUTANKHAMUN"
+    },
+    {
+      "asset": "PHOCKS.ZORRO"
+    },
+    {
+      "asset": "PHOCKS.ZUBY"
+    },
+    {
+      "asset": "PHOCKSBOX"
+    },
+    {
+      "asset": "PHOCKSBOX.FAKAMOTO"
+    },
+    {
+      "asset": "PHOCKSBOX.KING"
+    },
+    {
+      "asset": "PHOCKSBOX.NAKAFAKAMOTO"
+    },
+    {
+      "asset": "PHOCKSBOX.NAKAMOTO"
+    },
+    {
+      "asset": "PHOCKSBOX.QUEEN"
+    },
+    {
+      "asset": "PHOCKSBOX.TUX"
+    },
+    {
+      "asset": "PHOCKVILLAIN"
+    },
+    {
+      "asset": "PHOCKVILLAIN.CROSSBONES"
+    },
+    {
+      "asset": "PHOCKVILLAIN.DOCTORDOOM"
+    },
+    {
+      "asset": "PHOCKVILLAIN.HELA"
+    },
+    {
+      "asset": "PHOCKVILLAIN.JOKER"
+    },
+    {
+      "asset": "PHOCKVILLAIN.MAGNETO-"
+    },
+    {
+      "asset": "PHOCKVILLAIN.MODOK"
+    },
+    {
+      "asset": "PHOCKVILLAIN.RIDDLE"
+    },
+    {
+      "asset": "PHOCKVILLAIN.SCARECROW"
+    },
+    {
+      "asset": "PHOCKVILLAIN.THANOS"
+    },
+    {
+      "asset": "PHOCKVILLAIN.TWOFACE"
+    },
+    {
+      "asset": "PHOCKVILLAIN.VENOM"
+    },
+    {
+      "asset": "PUNYPHOCKS"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--5q8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--6q8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--8j8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--9p9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--cr8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--fv9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--hr8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--jv9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--lu9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--lv9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--nk8h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--ov9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--pv9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--qs9h"
+    },
+    {
+      "asset": "PUNYPHOCKS.xn--yp9h"
+    },
+    {
+      "asset": "TWOSVENPHOCK"
+    },
+    {
+      "asset": "TWOSVENPHOCK.ALANWILSON"
+    },
+    {
+      "asset": "TWOSVENPHOCK.AMYWINEHOUSE"
+    },
+    {
+      "asset": "TWOSVENPHOCK.BRIANJONES"
+    },
+    {
+      "asset": "TWOSVENPHOCK.JANISJOPLIN"
+    },
+    {
+      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT"
+    },
+    {
+      "asset": "TWOSVENPHOCK.JIMIHENDRIX"
+    },
+    {
+      "asset": "TWOSVENPHOCK.JIMMORISSON"
+    },
+    {
+      "asset": "TWOSVENPHOCK.JOHNATHANBRANDIS"
+    },
+    {
+      "asset": "TWOSVENPHOCK.KURTCOBAIN"
+    },
+    {
+      "asset": "TWOSVENPHOCK.ROBERTJOHNSON"
+    },
+    {
+      "asset": "TWOSVENPHOCK.RONMCKERNAN"
+    },
+    {
+      "asset": "ZEROPHOCKS"
+    },
+    {
+      "asset": "ZEROPHOCKS.AWKWARDLOOK"
+    },
+    {
+      "asset": "ZEROPHOCKS.BATCOUNTRY"
+    },
+    {
+      "asset": "ZEROPHOCKS.BTCFLAVA"
+    },
+    {
+      "asset": "ZEROPHOCKS.BTCMFER"
+    },
+    {
+      "asset": "ZEROPHOCKS.BTCREATURE"
+    },
+    {
+      "asset": "ZEROPHOCKS.CHEECH"
+    },
+    {
+      "asset": "ZEROPHOCKS.CHONG"
+    },
+    {
+      "asset": "ZEROPHOCKS.CLONEX"
+    },
+    {
+      "asset": "ZEROPHOCKS.COBAIN"
+    },
+    {
+      "asset": "ZEROPHOCKS.DENSE"
+    },
+    {
+      "asset": "ZEROPHOCKS.DIGIHAAS"
+    },
+    {
+      "asset": "ZEROPHOCKS.DRE"
+    },
+    {
+      "asset": "ZEROPHOCKS.EATITBART"
+    },
+    {
+      "asset": "ZEROPHOCKS.ENDOT"
+    },
+    {
+      "asset": "ZEROPHOCKS.MRBROOKS"
+    },
+    {
+      "asset": "ZEROPHOCKS.NEOTYPE"
+    },
+    {
+      "asset": "ZEROPHOCKS.OGGLUE"
+    },
+    {
+      "asset": "ZEROPHOCKS.PEPEDRE"
+    },
+    {
+      "asset": "ZEROPHOCKS.PFI"
+    },
+    {
+      "asset": "ZEROPHOCKS.PFII"
+    },
+    {
+      "asset": "ZEROPHOCKS.SAILOPHOCK"
+    },
+    {
+      "asset": "ZEROPHOCKS.SONOFPHOCK"
+    },
+    {
+      "asset": "ZEROPHOCKS.STEVIEBOI"
+    },
+    {
+      "asset": "ZEROPHOCKS.STORMTRPR"
+    },
+    {
+      "asset": "ZEROPHOCKS.SWAGGYPHOCK"
+    },
+    {
+      "asset": "ZEROPHOCKS.TOTERHEAD"
+    },
+    {
+      "asset": "ZEROPHOCKS.TYRONE"
+    },
+    {
+      "asset": "ZEROPHOCKS.WPENG"
+    },
+    {
+      "asset": "ZEROPHOCKS.WWGARTH"
+    },
+    {
+      "asset": "ZEROPHOCKS.WWWAYNE"
+    },
+    {
+      "asset": "ZEROPHOCKSII"
+    },
+    {
+      "asset": "ZEROPHOCKSII.ANON"
+    },
+    {
+      "asset": "ZEROPHOCKSII.BTCKAT"
+    },
+    {
+      "asset": "ZEROPHOCKSII.BUELLER"
+    },
+    {
+      "asset": "ZEROPHOCKSII.CYBERNETIC"
+    },
+    {
+      "asset": "ZEROPHOCKSII.DREAM"
+    },
+    {
+      "asset": "ZEROPHOCKSII.OFFSIDES"
+    },
+    {
+      "asset": "ZEROPHOCKSII.PWEEE"
+    },
+    {
+      "asset": "ZEROPHOCKSII.SERSMOKE"
+    }
+  ]
+}

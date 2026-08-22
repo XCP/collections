@@ -1,0 +1,32 @@
+[
+  {
+    "id": 6638,
+    "name": "RARECOCO",
+    "title": null,
+    "image": "RARECOCO.jpg",
+    "collection": "rare-coco",
+    "supply": 297,
+    "serie": 1,
+    "card": 1,
+    "onchain": false,
+    "issuer": "1P3KQWLsTPXVWimiF2Q6WSES5vbJE8be5i",
+    "artist": { "name": "Kero", "slug": "Kero" },
+    "floor": { "value": 69, "ref": "xcp", "quantity": 1 },
+    "rank": 1
+  },
+  {
+    "id": 6676,
+    "name": "COCOGONE",
+    "title": null,
+    "image": "COCOGONE.gif",
+    "collection": "rare-coco",
+    "supply": 100,
+    "serie": 1,
+    "card": 39,
+    "onchain": false,
+    "issuer": "1FakeFixtureAddress",
+    "artist": null,
+    "floor": null,
+    "rank": 39
+  }
+]
