@@ -1,4 +1,17 @@
-# Update this collection
+# Age of Chains
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 15 assets |
+| Primary memberships | 15 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

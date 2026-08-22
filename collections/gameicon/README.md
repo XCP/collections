@@ -1,4 +1,17 @@
-# Update this collection
+# Gameicon
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 19 assets |
+| Primary memberships | 18 |
+| Secondary or curated memberships | 1 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

@@ -1,4 +1,17 @@
-# Update this collection
+# Pre-Ethereum
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Curated view |
+| Membership | Resolved from chain facts: `{"issued_before_block":367561}` |
+| Primary memberships | 0 |
+| Secondary or curated memberships | Determined during marketplace ingest |
+| Source | Computed `adapter.ts` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

@@ -1,4 +1,17 @@
-# Update this collection
+# 17ART
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 218 assets |
+| Primary memberships | 195 |
+| Secondary or curated memberships | 23 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

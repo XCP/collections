@@ -1,4 +1,17 @@
-# Update this collection
+# Fake Ape Club
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 305 assets |
+| Primary memberships | 305 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

@@ -16,6 +16,8 @@
     "coverage": "node .github/check-source-coverage.ts",
     "test": "node .github/run-tests.ts",
     "export": "node scripts/export.ts",
+    "docs": "node scripts/generate-readmes.ts",
+    "docs:check": "node scripts/generate-readmes.ts --check",
     "check": "npm run validate && npm run coverage && npm test && npm run export"
   }
 }

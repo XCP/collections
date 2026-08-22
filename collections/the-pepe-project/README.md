@@ -1,4 +1,17 @@
-# Update this collection
+# The Pepe Project
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 291 assets |
+| Primary memberships | 288 |
+| Secondary or curated memberships | 3 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

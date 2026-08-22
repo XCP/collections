@@ -1,5 +1,18 @@
 # Memory Fragments
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 1 assets |
+| Primary memberships | 1 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | No: 1/1 (100%) |
+<!-- collection-facts:end -->
+
 Membership is the reviewed static snapshot in `assets.json`.
 
 - Fix the name, description, or links in `meta.json`.

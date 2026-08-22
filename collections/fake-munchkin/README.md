@@ -1,4 +1,17 @@
-# Update this collection
+# Fake Munchkin
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Curated view |
+| Membership | 27 assets |
+| Primary memberships | 0 |
+| Secondary or curated memberships | 27 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

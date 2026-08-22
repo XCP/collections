@@ -1,5 +1,34 @@
 # Counterparty Collections
 
+<!-- registry-facts:start -->
+## Registry snapshot
+
+| What is tracked | Count |
+| --- | ---: |
+| Collections | 70 |
+| Canonical collections | 68 |
+| Curated views | 2 |
+| Explicit unique assets | 15,152 |
+| Explicit collection memberships | 15,470 |
+| Primary memberships | 15,152 |
+| Secondary or curated memberships | 318 |
+| Memberships with traits | 9,622 |
+
+| Membership source | Collections |
+| --- | ---: |
+| Reviewed static `assets.json` | 67 |
+| Collection or computed adapters | 2 |
+| Marketplace-indexed exceptions | 1 |
+| Active aggregator sources | 0 |
+| Available aggregators | 3 |
+
+Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
+
+Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, HP, Health, ID, Kaleidoscope ID, Month, No, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
+
+Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
+<!-- registry-facts:end -->
+
 The public catalog of Counterparty asset collections. One collection is one
 folder. Changes are made through pull requests.
 

@@ -1,4 +1,17 @@
-# Update this collection
+# Rare Coco
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 213 assets |
+| Primary memberships | 213 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 211/213 (99.1%)<br>Card: 213/213 (100%)<br>Series: 213/213 (100%) |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

@@ -1,4 +1,17 @@
-# Update this collection
+# RarePepeCoins
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 11 assets |
+| Primary memberships | 8 |
+| Secondary or curated memberships | 3 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

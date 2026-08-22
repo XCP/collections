@@ -1,5 +1,18 @@
 # The Future of Forgotten Relics
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 6 assets |
+| Primary memberships | 6 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 6/6 (100%)<br>Chapter: 6/6 (100%)<br>Story: 6/6 (100%) |
+<!-- collection-facts:end -->
+
 Membership is the reviewed static snapshot in `assets.json`.
 
 - Fix the name, description, or links in `meta.json`.

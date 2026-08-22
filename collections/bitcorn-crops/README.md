@@ -1,4 +1,17 @@
-# Update this collection
+# Bitcorn Crops
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 364 assets |
+| Primary memberships | 364 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 364/364 (100%)<br>Card: 364/364 (100%)<br>Series: 364/364 (100%) |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

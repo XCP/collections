@@ -1,5 +1,18 @@
 # TOPINI
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 10 assets |
+| Primary memberships | 10 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
 Membership is the reviewed static snapshot in `assets.json`.
 
 - Fix the name, description, or links in `meta.json`.

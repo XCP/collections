@@ -1,4 +1,17 @@
-# Update this collection
+# Rare Pepe
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 1,774 assets |
+| Primary memberships | 1,774 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 1,774/1,774 (100%)<br>Card: 1,774/1,774 (100%)<br>Series: 1,774/1,774 (100%) |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

@@ -1,5 +1,18 @@
 # Rare Lands
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 51 assets |
+| Primary memberships | 51 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
 Membership is the reviewed static snapshot in `assets.json`.
 
 - Fix the name, description, or links in `meta.json`.

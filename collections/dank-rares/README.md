@@ -1,4 +1,17 @@
-# Update this collection
+# Dank Rares
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 1,971 assets |
+| Primary memberships | 1,971 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 1,971/1,971 (100%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

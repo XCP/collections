@@ -1,4 +1,17 @@
-# Update this collection
+# Rare Bobo
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 83 assets |
+| Primary memberships | 42 |
+| Secondary or curated memberships | 41 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
 
 This folder is the public record for this collection.
 

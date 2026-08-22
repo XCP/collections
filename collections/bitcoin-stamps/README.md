@@ -1,5 +1,18 @@
 # Bitcoin Stamps
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | Indexed by the marketplace |
+| Primary memberships | Determined during marketplace ingest |
+| Secondary or curated memberships | Determined during marketplace ingest |
+| Source | Marketplace indexer |
+| Traits | None |
+<!-- collection-facts:end -->
+
 This is the Bitcoin Stamp **art** set, not every row indexed by Stampchain. It
 includes positive-numbered Counterparty `STAMP` and `SRC-721` records. It
 excludes fungible `SRC-20` activity and, for now, the negative-numbered
