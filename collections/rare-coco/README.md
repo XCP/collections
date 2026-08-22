@@ -1,12 +1,14 @@
-# Updating this collection
+# Update this collection
 
-This folder is the public, reviewable record for this collection.
+This folder is the public record for this collection.
 
-- `meta.json` contains its name, description, links, and collection type.
-- `assets.json` contains the reviewed membership snapshot when one is available.
-- `adapter.ts` may retrieve membership from a collection-operated API when the
-  project maintains one.
+- Fix the name, description, or links in `meta.json`.
+- Add, remove, or correct assets and traits in `assets.json`.
+- Change `adapter.ts` only if this collection operates the membership API.
+- Update this README with useful project-specific guidance.
+- Use DigiRare, not this repo, to list an asset for sale.
 
-If you represent this collection or notice incorrect information, open a pull
-request. You may update the metadata, asset membership, links, this README, or
-the collection adapter. Please explain what changed and how it can be verified.
+Read the [collection guide](../README.md) and
+[contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
+the change and how to verify it. If you cannot prepare a pull request,
+[open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml).

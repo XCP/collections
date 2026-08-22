@@ -1,0 +1,52 @@
+name: Collection change
+description: Request a new collection or report incorrect collection data
+title: "Collection: "
+body:
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Change type
+      options:
+        - Add a collection
+        - Correct metadata or links
+        - Add or remove assets
+        - Correct traits
+        - Correct primary or secondary membership
+        - Other collection data
+    validations:
+      required: true
+  - type: input
+    id: collection
+    attributes:
+      label: Collection
+      description: Give the collection name and existing folder slug, if it has one.
+      placeholder: Rare Pepe (rare-pepe)
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Requested change
+      description: State exactly what should be added, removed, or corrected.
+    validations:
+      required: true
+  - type: textarea
+    id: assets
+    attributes:
+      label: Affected Counterparty assets
+      description: List exact named assets, numeric assets, or subasset longnames. Leave blank for metadata-only changes.
+      render: text
+  - type: textarea
+    id: verification
+    attributes:
+      label: How can we verify it?
+      description: Link to the project site, API, published list, or other useful evidence.
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Repository scope
+      options:
+        - label: I understand this request changes collection catalog data and does not create a marketplace sale listing.
+          required: true

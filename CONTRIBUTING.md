@@ -3,6 +3,10 @@
 Membership and metadata are maintained in collection folders. DigiRare uses
 filesystem conventions rather than API configuration inside `meta.json`.
 
+Start with the task guide in the [main README](README.md#start-here). If you
+cannot prepare a pull request, [open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml)
+with the exact collection, assets, requested correction, and verification link.
+
 ## Add or update a collection
 
 1. Add or edit `collections/<slug>/meta.json`.
@@ -12,6 +16,10 @@ filesystem conventions rather than API configuration inside `meta.json`.
    welcome to replace the generic text with project-specific information.
 5. Add optional icons or logos alongside those files.
 6. Run the checks below and open a pull request.
+
+For a metadata correction, edit only `meta.json`. For a membership or trait
+correction, edit only `assets.json`. A sale listing is created in DigiRare and
+does not require a change here.
 
 Read [`collections/README.md`](collections/README.md) for the exact shapes.
 An asset entry uses a Counterparty identifier and optional OpenSea-style traits:
@@ -76,6 +84,10 @@ The first three commands are deterministic and run in pull-request CI. Export
 materializes the conventional sources and writes ignored
 `dist/collections.json`. For the normal static collection, it performs no
 network request.
+
+The files in [`schemas/`](schemas/) describe the public JSON formats for editor
+and tooling support. The checks above also enforce semantic rules such as valid
+Counterparty numeric ranges and one primary collection home.
 
 ## Pull-request expectations
 

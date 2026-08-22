@@ -4,9 +4,11 @@
 
 ## Membership source
 
+- [ ] Metadata, links, README, or media only; membership is unchanged
 - [ ] Static `assets.json`
 - [ ] Collection-operated `adapter.ts`
 - [ ] Computed curated `adapter.ts`
+- [ ] Derived `protocol.json`
 - [ ] Aggregator discovery or import
 
 Public endpoint, if applicable:
@@ -19,7 +21,7 @@ Source-selection rationale, especially when alternatives exist:
 
 ## Membership impact
 
-<!-- Note additions, removals, primary/secondary changes, and pagination. -->
+<!-- Note additions, removals, primary/secondary changes, and pagination. Write "none" for a metadata-only PR. -->
 
 ## Checks
 

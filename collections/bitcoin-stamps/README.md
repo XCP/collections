@@ -32,3 +32,9 @@ The policy follows Stampchain's own implementation:
 The marketplace implements this derivation. This README records the boundary
 and `protocol.json` is only its stable machine-readable marker; neither file is
 an API adapter or a checked-in membership snapshot.
+
+Read the [collection guide](../README.md) and
+[contribution steps](../../CONTRIBUTING.md) before proposing a policy change.
+Use DigiRare, not this repo, to list an asset for sale. If you cannot prepare a
+pull request,
+[open a collection change request](https://github.com/XCP/marketplace-collections/issues/new?template=collection-change.yml).
