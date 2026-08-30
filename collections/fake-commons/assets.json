@@ -7039,7 +7039,7 @@
       ]
     },
     {
-      "asset": "KEKISTHODLE.PEPEFANJUL",
+      "asset": "KEKISTHODLE.PepeFanjul",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -18221,7 +18221,7 @@
       ]
     },
     {
-      "asset": "BURNPEPECASH.FAKEPOB50",
+      "asset": "BURNPEPECASH.FAKEPoB50",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21401,7 +21401,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.ANGRYPEPE",
+      "asset": "EMOTIONPEPE.ANGRYpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21418,7 +21418,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.ANXIOUSPEPE",
+      "asset": "EMOTIONPEPE.ANXIOUSpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21435,7 +21435,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.SURPRISEDPEPE",
+      "asset": "EMOTIONPEPE.SURPRISEDpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21452,7 +21452,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.GLADPEPE",
+      "asset": "EMOTIONPEPE.GLADpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21469,7 +21469,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.PEPEPEPE",
+      "asset": "EMOTIONPEPE.PEPEpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21486,7 +21486,7 @@
       ]
     },
     {
-      "asset": "EMOTIONPEPE.SADPEPE",
+      "asset": "EMOTIONPEPE.SADpepe",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -25375,7 +25375,7 @@
       ]
     },
     {
-      "asset": "MULLETPARTY.SM",
+      "asset": "MULLETPARTY.SMOOTHMULLET",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -25806,19 +25806,6 @@
           "trait_type": "Artist",
           "value": "admodum"
         },
-        {
-          "trait_type": "Series",
-          "value": 36
-        },
-        {
-          "trait_type": "Card",
-          "value": 2
-        }
-      ]
-    },
-    {
-      "asset": "MASSAPEAL",
-      "attributes": [
         {
           "trait_type": "Series",
           "value": 36

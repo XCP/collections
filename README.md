@@ -8,11 +8,11 @@
 | Collections | 70 |
 | Canonical collections | 68 |
 | Curated views | 2 |
-| Explicit unique assets | 15,152 |
-| Explicit collection memberships | 15,470 |
-| Primary memberships | 15,152 |
+| Explicit unique assets | 15,151 |
+| Explicit collection memberships | 15,469 |
+| Primary memberships | 15,151 |
 | Secondary or curated memberships | 318 |
-| Memberships with traits | 9,622 |
+| Memberships with traits | 9,621 |
 
 | Membership source | Collections |
 | --- | ---: |
