@@ -82,7 +82,7 @@ export function collectionFactsBlock(repositoryRoot, collection) {
     : 0;
   const secondary = assets.length - primary;
   const membership = computedFromChain
-    ? `Resolved from chain facts: \`${JSON.stringify(collection.where)}\``
+    ? `Admitted collection assets matching chain facts: \`${JSON.stringify(collection.where)}\``
     : indexedByMarketplace
       ? "Indexed by the marketplace"
       : `${count(assets.length)} assets`;

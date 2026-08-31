@@ -39,3 +39,14 @@ test("marketplace-indexed collections do not report a misleading zero membership
   assert.match(block, /Indexed by the marketplace/);
   assert.match(block, /Determined during marketplace ingest/);
 });
+
+test("computed views describe their admitted collection scope", () => {
+  const block = collectionFactsBlock(repositoryRoot, {
+    slug: "pre-ethereum",
+    name: "Pre-Ethereum",
+    kind: "curated",
+    where: { issued_before_block: 367561 },
+  });
+  assert.match(block, /Admitted collection assets matching chain facts/);
+  assert.doesNotMatch(block, /Resolved from chain facts/);
+});

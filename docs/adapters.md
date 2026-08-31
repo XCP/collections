@@ -74,6 +74,16 @@ can be retried.
 Both forms pass through the same schema validation and deterministic
 normalization. The result is a complete snapshot, not a partial update.
 
+## Computed curated views
+
+A curated collection adapter may return a normalized `where` rule instead of
+an asset snapshot. The marketplace evaluates that rule only over assets that
+already have a primary collection membership. It does not search every asset
+registration, and one computed view cannot admit assets into another.
+
+Pre-Ethereum currently uses `issued_before_block`. The historical predicate
+refines the admitted collection universe; it does not define that universe.
+
 ## Included TokenScan aggregator
 
 `aggregators/tokenscan/adapter.ts` translates TokenScan's direct JSON project
