@@ -27,11 +27,16 @@ For most collections, submit `meta.json` and `assets.json`.
   "name": "Example Collection",
   "kind": "canonical",
   "description": "A short factual description.",
+  "art_frame": "card",
   "links": {
     "website": "https://example.com/"
   }
 }
 ```
+
+`art_frame` is optional. Use `card`, `square`, or `landscape` only when the
+collection artwork consistently uses that shape. Consumers may use it to fit
+art without cropping or letterboxing.
 
 ### Asset membership
 

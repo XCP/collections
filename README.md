@@ -60,7 +60,7 @@ and submit a pull request from the fork GitHub creates.
 
 ```text
 collections/<slug>/
-  meta.json      name, type, description, and links
+  meta.json      name, type, description, art frame, and links
   assets.json    reviewed static membership, preferred when available
   adapter.ts     optional collection-operated API adapter
   README.md      collection-specific notes
@@ -86,14 +86,16 @@ Useful examples:
   "name": "Rare Pepe",
   "kind": "canonical",
   "description": "The original card canon, issued on Counterparty from 2016 to 2018 across 36 series.",
+  "art_frame": "card",
   "links": {
     "website": "https://rarepepedirectory.com"
   }
 }
 ```
 
-Required fields are `name`, `kind`, and `description`. Optional links are
-`website`, `x`, and `discord`. See the
+Required fields are `name`, `kind`, and `description`. Optional `art_frame`
+values are `card`, `square`, and `landscape`. Optional links are `website`,
+`x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
 
 ### Asset membership

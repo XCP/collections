@@ -10,7 +10,8 @@ const NUMERIC_ASSET = /^A\d{17,20}$/;
 const SUBASSET_LONGNAME = /^(?:[B-Z][A-Z]{3,11}|A\d{17,20})\.[A-Za-z0-9_@!-]+(?:\.[A-Za-z0-9_@!-]+)*$/;
 const PROVIDER_NAME = /^[a-z0-9]+(?:[-_][a-z0-9]+)*$/;
 const KINDS = new Set(["canonical", "curated"]);
-const META_KEYS = new Set(["name", "kind", "description", "links"]);
+const ART_FRAMES = new Set(["card", "square", "landscape"]);
+const META_KEYS = new Set(["name", "kind", "description", "art_frame", "links"]);
 const ASSETS_FILE_KEYS = new Set(["assets"]);
 const METADATA_ONLY_COLLECTIONS = new Set(["bitcoin-stamps"]);
 const ENTRY_KEYS = new Set(["asset", "secondary", "attributes"]);
@@ -232,6 +233,12 @@ export function normalizeCollectionMeta(value, slug) {
     kind: meta.kind,
     description: nonemptyString(meta.description, `${slug}.description`, 2_000),
   };
+  if (meta.art_frame !== undefined) {
+    if (!ART_FRAMES.has(meta.art_frame)) {
+      fail(`${slug}.art_frame`, 'must be "card", "square", or "landscape"');
+    }
+    normalized.art_frame = meta.art_frame;
+  }
   if (meta.links !== undefined) normalized.links = normalizeLinks(meta.links, `${slug}.links`);
   return normalized;
 }

@@ -9,6 +9,7 @@
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
     "kind": { "enum": ["canonical", "curated"] },
     "description": { "type": "string", "minLength": 1, "maxLength": 2000 },
+    "art_frame": { "enum": ["card", "square", "landscape"] },
     "links": {
       "type": "object",
       "additionalProperties": false,

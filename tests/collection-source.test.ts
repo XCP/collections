@@ -133,6 +133,17 @@ test("meta.json rejects embedded membership and source configuration", () => {
   }
 });
 
+test("meta.json accepts only the standard collection art frames", () => {
+  assert.deepEqual(
+    normalizeCollectionMeta({ ...baseMeta, art_frame: "landscape" }, "example-set"),
+    { ...baseMeta, art_frame: "landscape" },
+  );
+  assert.throws(
+    () => normalizeCollectionMeta({ ...baseMeta, art_frame: "cinematic" }, "example-set"),
+    /must be "card", "square", or "landscape"/,
+  );
+});
+
 test("canonical static collections require a primary asset while curated overlaps may be all-secondary", async (t) => {
   const secondaryOnly = [{ asset: "CROSSCARD", secondary: true }];
   const canonical = makeRepository();
