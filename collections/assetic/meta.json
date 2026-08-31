@@ -2,6 +2,7 @@
   "name": "Assetic",
   "kind": "canonical",
   "description": "Assetic is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://assetic.io/"
   }

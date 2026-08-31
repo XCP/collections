@@ -2,6 +2,7 @@
   "name": "Common Coco",
   "kind": "canonical",
   "description": "Common Coco is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://commoncoco.wtf/"
   }

@@ -2,6 +2,7 @@
   "name": "The GreyPepe Project",
   "kind": "canonical",
   "description": "GreyPepe Project artworks issued on Counterparty.",
+  "art_frame": "card",
   "links": {
     "website": "https://greypepeproject.com/"
   }

@@ -2,6 +2,7 @@
   "name": "The Pepe Project",
   "kind": "canonical",
   "description": "The Pepe Project is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "http://pepeproject.com/"
   }

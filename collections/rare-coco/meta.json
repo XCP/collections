@@ -2,6 +2,7 @@
   "name": "Rare Coco",
   "kind": "canonical",
   "description": "Rare Coco is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://rarecoco.wtf/"
   }

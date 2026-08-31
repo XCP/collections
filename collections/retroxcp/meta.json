@@ -2,6 +2,7 @@
   "name": "RetroXCP",
   "kind": "canonical",
   "description": "RetroXCP is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://retro-xcp.art/"
   }

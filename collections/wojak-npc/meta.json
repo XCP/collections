@@ -2,6 +2,7 @@
   "name": "Wojak NPC",
   "kind": "canonical",
   "description": "Wojak NPC is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://wojaknpc.com/"
   }

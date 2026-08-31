@@ -1,5 +1,6 @@
 {
   "name": "Gameicon",
   "kind": "canonical",
-  "description": "Gameicon is a Counterparty collection."
+  "description": "Gameicon is a Counterparty collection.",
+  "art_frame": "card"
 }

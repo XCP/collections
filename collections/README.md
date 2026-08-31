@@ -34,9 +34,9 @@ For most collections, submit `meta.json` and `assets.json`.
 }
 ```
 
-`art_frame` is optional. Use `card`, `square`, or `landscape` only when the
-collection artwork consistently uses that shape. Consumers may use it to fit
-art without cropping or letterboxing.
+`art_frame` is required. Use `card`, `square`, or `landscape` for the dominant
+shape of the collection. Consumers may use it to fit art without cropping.
+Mixed collections should use the closest dominant shape.
 
 ### Asset membership
 

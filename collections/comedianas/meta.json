@@ -1,5 +1,6 @@
 {
   "name": "Comedianas",
   "kind": "canonical",
-  "description": "Comedianas collectibles issued on Counterparty."
+  "description": "Comedianas collectibles issued on Counterparty.",
+  "art_frame": "square"
 }

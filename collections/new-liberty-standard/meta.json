@@ -2,6 +2,7 @@
   "name": "New Liberty Standard",
   "kind": "canonical",
   "description": "New Liberty Standard assets issued on Counterparty.",
+  "art_frame": "card",
   "links": {
     "website": "https://newlibertystandard.io/"
   }

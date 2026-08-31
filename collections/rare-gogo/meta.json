@@ -2,6 +2,7 @@
   "name": "Rare GoGo",
   "kind": "canonical",
   "description": "Rare GoGo is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://raregogo.wtf/"
   }

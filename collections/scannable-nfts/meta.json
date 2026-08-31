@@ -2,6 +2,7 @@
   "name": "Scannable NFTs",
   "kind": "canonical",
   "description": "Scannable NFTs is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://scannablenfts.com/"
   }

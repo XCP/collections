@@ -2,6 +2,7 @@
   "name": "Barnyard Club",
   "kind": "canonical",
   "description": "Barnyard Club is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://barnyard.club/"
   }

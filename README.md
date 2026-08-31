@@ -93,9 +93,9 @@ Useful examples:
 }
 ```
 
-Required fields are `name`, `kind`, and `description`. Optional `art_frame`
-values are `card`, `square`, and `landscape`. Optional links are `website`,
-`x`, and `discord`. See the
+Required fields are `name`, `kind`, `description`, and `art_frame`.
+`art_frame` is `card`, `square`, or `landscape`, based on the collection's
+dominant artwork shape. Optional links are `website`, `x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
 
 ### Asset membership

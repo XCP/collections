@@ -1,5 +1,6 @@
 {
   "name": "Age of Rust",
   "kind": "canonical",
-  "description": "In-game cards for the Age of Rust universe, issued on Counterparty in 2017."
+  "description": "In-game cards for the Age of Rust universe, issued on Counterparty in 2017.",
+  "art_frame": "card"
 }

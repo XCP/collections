@@ -25,6 +25,7 @@ const baseMeta = {
   name: "Example Set",
   kind: "canonical",
   description: "A fixture collection.",
+  art_frame: "card",
 };
 function makeRepository(slug = "example-set") {
   const root = mkdtempSync(join(tmpdir(), "counterparty-collection-layout-"));
@@ -142,6 +143,11 @@ test("meta.json accepts only the standard collection art frames", () => {
     () => normalizeCollectionMeta({ ...baseMeta, art_frame: "cinematic" }, "example-set"),
     /must be "card", "square", or "landscape"/,
   );
+  const { art_frame: _artFrame, ...missingArtFrame } = baseMeta;
+  assert.throws(
+    () => normalizeCollectionMeta(missingArtFrame, "example-set"),
+    /must be "card", "square", or "landscape"/,
+  );
 });
 
 test("canonical static collections require a primary asset while curated overlaps may be all-secondary", async (t) => {
@@ -166,6 +172,7 @@ test("canonical static collections require a primary asset while curated overlap
       name: "Curated overlap",
       kind: "curated",
       description: "A fixture view.",
+      art_frame: "card",
     },
     repositoryRoot: curatedRepo.root,
   });

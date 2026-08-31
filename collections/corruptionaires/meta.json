@@ -2,6 +2,7 @@
   "name": "Corruptionaires",
   "kind": "canonical",
   "description": "Corruptionaires collectibles issued on Counterparty.",
+  "art_frame": "card",
   "links": {
     "website": "https://corruptionaires.neocities.org/"
   }

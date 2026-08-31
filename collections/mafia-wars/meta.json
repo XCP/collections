@@ -2,6 +2,7 @@
   "name": "Mafia Wars",
   "kind": "canonical",
   "description": "Mafia Wars is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://mafiawars.io/"
   }

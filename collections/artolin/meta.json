@@ -1,5 +1,6 @@
 {
   "name": "Artolin",
   "kind": "canonical",
-  "description": "Artolin assets from the original DigiRare collection catalog."
+  "description": "Artolin assets from the original DigiRare collection catalog.",
+  "art_frame": "card"
 }

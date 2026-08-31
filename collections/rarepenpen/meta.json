@@ -1,5 +1,6 @@
 {
   "name": "RarePenPen",
   "kind": "canonical",
-  "description": "RarePenPen collectibles issued on Counterparty."
+  "description": "RarePenPen collectibles issued on Counterparty.",
+  "art_frame": "card"
 }

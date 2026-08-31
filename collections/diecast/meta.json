@@ -2,6 +2,7 @@
   "name": "Diecast",
   "kind": "canonical",
   "description": "Diecast is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://collectablediecast.com/"
   }

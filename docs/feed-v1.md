@@ -1,7 +1,7 @@
 # Counterparty collection feed v1
 
 A standard feed lets a collection publish complete normalized membership with
-very little adapter code. The collection's name, description, kind, links, and
+very little adapter code. The collection's name, description, kind, art frame, links, and
 media remain reviewed in this repository; the endpoint supplies only the asset
 snapshot and attributes.
 

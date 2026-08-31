@@ -2,6 +2,7 @@
   "name": "The Wojak Way",
   "kind": "canonical",
   "description": "The Wojak Way is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://thewojakway.com/"
   }

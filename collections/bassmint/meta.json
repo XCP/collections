@@ -2,6 +2,7 @@
   "name": "Bassmint",
   "kind": "canonical",
   "description": "Bassmint is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://bassmint.wtf/"
   }

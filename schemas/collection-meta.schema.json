@@ -4,7 +4,7 @@
   "title": "Counterparty collection metadata",
   "type": "object",
   "additionalProperties": false,
-  "required": ["name", "kind", "description"],
+  "required": ["name", "kind", "description", "art_frame"],
   "properties": {
     "name": { "type": "string", "minLength": 1, "maxLength": 200 },
     "kind": { "enum": ["canonical", "curated"] },

@@ -2,6 +2,7 @@
   "name": "SKARA",
   "kind": "canonical",
   "description": "SKARA is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "http://skarathebladeremains.com/"
   }

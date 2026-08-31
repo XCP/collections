@@ -2,6 +2,7 @@
   "name": "Bitcoin War Bonds",
   "kind": "canonical",
   "description": "Bitcoin War Bonds is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://bitcoinwarbonds.law/"
   }

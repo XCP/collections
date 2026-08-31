@@ -2,6 +2,7 @@
   "name": "The CounterpART",
   "kind": "canonical",
   "description": "Art catalog published by The CounterpART.",
+  "art_frame": "card",
   "links": {
     "website": "https://www.thecounterp.art/"
   }

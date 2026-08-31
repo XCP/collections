@@ -2,6 +2,7 @@
   "name": "Modern Relics",
   "kind": "canonical",
   "description": "Modern Relics is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://modernrelics.io/"
   }

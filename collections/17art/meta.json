@@ -2,6 +2,7 @@
   "name": "17ART",
   "kind": "canonical",
   "description": "17ART is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://17art.io/"
   }

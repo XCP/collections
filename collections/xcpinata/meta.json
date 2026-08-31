@@ -2,6 +2,7 @@
   "name": "XCPinata",
   "kind": "canonical",
   "description": "XCPinata is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://www.xcpinata.com/"
   }

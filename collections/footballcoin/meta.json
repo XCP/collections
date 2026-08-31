@@ -2,6 +2,7 @@
   "name": "FootballCoin",
   "kind": "canonical",
   "description": "FootballCoin is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://www.footballcoin.io/"
   }

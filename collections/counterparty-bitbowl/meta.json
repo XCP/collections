@@ -2,6 +2,7 @@
   "name": "Counterparty BitBowl",
   "kind": "canonical",
   "description": "Counterparty BitBowl is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://dogermint.com/bitbowl/"
   }

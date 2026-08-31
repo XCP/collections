@@ -2,6 +2,7 @@
   "name": "LFG Collection",
   "kind": "canonical",
   "description": "LFG Collection is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://lfgcrypto.art/"
   }

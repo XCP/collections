@@ -2,6 +2,7 @@
   "name": "Rude Relics",
   "kind": "canonical",
   "description": "Rude Relics is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://ruderelics.io/"
   }

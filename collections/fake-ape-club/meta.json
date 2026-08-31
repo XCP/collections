@@ -2,6 +2,7 @@
   "name": "Fake Ape Club",
   "kind": "canonical",
   "description": "Fake Ape Club is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://fakeapeclub.com/"
   }

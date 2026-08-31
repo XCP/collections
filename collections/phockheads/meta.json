@@ -2,6 +2,7 @@
   "name": "PHOCKHEADS",
   "kind": "canonical",
   "description": "PHOCKHEADS is a Counterparty collection.",
+  "art_frame": "square",
   "links": {
     "website": "https://phockheads.com/"
   }

@@ -2,6 +2,7 @@
   "name": "RareSocks",
   "kind": "canonical",
   "description": "RareSocks is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://raresocks.xyz/"
   }

@@ -228,17 +228,15 @@ export function normalizeCollectionMeta(value, slug) {
   const meta = objectAt(value, `${slug}/meta.json`);
   exactKeys(meta, META_KEYS, `${slug}/meta.json`);
   if (!KINDS.has(meta.kind)) fail(`${slug}.kind`, 'must be "canonical" or "curated"');
+  if (!ART_FRAMES.has(meta.art_frame)) {
+    fail(`${slug}.art_frame`, 'must be "card", "square", or "landscape"');
+  }
   const normalized = {
     name: nonemptyString(meta.name, `${slug}.name`, 200),
     kind: meta.kind,
     description: nonemptyString(meta.description, `${slug}.description`, 2_000),
+    art_frame: meta.art_frame,
   };
-  if (meta.art_frame !== undefined) {
-    if (!ART_FRAMES.has(meta.art_frame)) {
-      fail(`${slug}.art_frame`, 'must be "card", "square", or "landscape"');
-    }
-    normalized.art_frame = meta.art_frame;
-  }
   if (meta.links !== undefined) normalized.links = normalizeLinks(meta.links, `${slug}.links`);
   return normalized;
 }

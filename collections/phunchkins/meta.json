@@ -2,6 +2,7 @@
   "name": "Phunchkins",
   "kind": "canonical",
   "description": "Phunchkins is a Counterparty collection.",
+  "art_frame": "card",
   "links": {
     "website": "https://phunchkins.com/"
   }
