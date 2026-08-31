@@ -1,0 +1,697 @@
+{
+  "assets": [
+    {
+      "asset": "A13371337133713371337"
+    },
+    {
+      "asset": "BEEDRILL"
+    },
+    {
+      "asset": "BELLSPROUT"
+    },
+    {
+      "asset": "BESTBUY"
+    },
+    {
+      "asset": "BLASTOISE"
+    },
+    {
+      "asset": "BONSAI"
+    },
+    {
+      "asset": "BTCGIFT"
+    },
+    {
+      "asset": "BTCGIFTCARD"
+    },
+    {
+      "asset": "BTCGIFTCARDS"
+    },
+    {
+      "asset": "BUBU"
+    },
+    {
+      "asset": "BULBASAUR"
+    },
+    {
+      "asset": "BURNBABYBURN"
+    },
+    {
+      "asset": "BUTTERFREE"
+    },
+    {
+      "asset": "CATERPIE"
+    },
+    {
+      "asset": "CAVECOIN"
+    },
+    {
+      "asset": "CHANSEY"
+    },
+    {
+      "asset": "CHARIZARD"
+    },
+    {
+      "asset": "CHARMANDER"
+    },
+    {
+      "asset": "CHARMELEON"
+    },
+    {
+      "asset": "CHERNOBYL"
+    },
+    {
+      "asset": "CLEFABLE"
+    },
+    {
+      "asset": "CLEFAIRY"
+    },
+    {
+      "asset": "CLOYSTER"
+    },
+    {
+      "asset": "CRYPTOFAIR"
+    },
+    {
+      "asset": "CUBONE"
+    },
+    {
+      "asset": "CVCV"
+    },
+    {
+      "asset": "DEATHRALLY"
+    },
+    {
+      "asset": "DEWGONG"
+    },
+    {
+      "asset": "DIGICOIN"
+    },
+    {
+      "asset": "DIGIMON"
+    },
+    {
+      "asset": "DIGIMONCOIN"
+    },
+    {
+      "asset": "DIGLETT"
+    },
+    {
+      "asset": "DODRIO"
+    },
+    {
+      "asset": "DODUO"
+    },
+    {
+      "asset": "DORAEMON"
+    },
+    {
+      "asset": "DRAGONAIR"
+    },
+    {
+      "asset": "DRAGONITE"
+    },
+    {
+      "asset": "DRATINI"
+    },
+    {
+      "asset": "DROWZEE"
+    },
+    {
+      "asset": "DUGTRIO"
+    },
+    {
+      "asset": "EEVEE"
+    },
+    {
+      "asset": "EGOX"
+    },
+    {
+      "asset": "EKANS"
+    },
+    {
+      "asset": "ELECTABUZZ"
+    },
+    {
+      "asset": "ELECTRODE"
+    },
+    {
+      "asset": "EXEGGCUTE"
+    },
+    {
+      "asset": "EXEGGUTOR"
+    },
+    {
+      "asset": "FALK"
+    },
+    {
+      "asset": "FALKE"
+    },
+    {
+      "asset": "FARFETCHD"
+    },
+    {
+      "asset": "FEAROW"
+    },
+    {
+      "asset": "FLAREON"
+    },
+    {
+      "asset": "FREY"
+    },
+    {
+      "asset": "GAMEOFTHRONE"
+    },
+    {
+      "asset": "GAMEROOM"
+    },
+    {
+      "asset": "GASTLY"
+    },
+    {
+      "asset": "GENGAR"
+    },
+    {
+      "asset": "GEOCACHES"
+    },
+    {
+      "asset": "GEODUDE"
+    },
+    {
+      "asset": "GHOSTS"
+    },
+    {
+      "asset": "GHOSTSATOSHI"
+    },
+    {
+      "asset": "GIFT"
+    },
+    {
+      "asset": "GIFTCARD"
+    },
+    {
+      "asset": "GIFTCARDS"
+    },
+    {
+      "asset": "GLASS"
+    },
+    {
+      "asset": "GLOOM"
+    },
+    {
+      "asset": "GOLBAT"
+    },
+    {
+      "asset": "GOLDEEN"
+    },
+    {
+      "asset": "GOLDUCK"
+    },
+    {
+      "asset": "GOLEM"
+    },
+    {
+      "asset": "GRAVELER"
+    },
+    {
+      "asset": "GRIMER"
+    },
+    {
+      "asset": "GROWLITHE"
+    },
+    {
+      "asset": "GYARADOS"
+    },
+    {
+      "asset": "HARA"
+    },
+    {
+      "asset": "HARAKIRI"
+    },
+    {
+      "asset": "HAUNTER"
+    },
+    {
+      "asset": "HITMONCHAN"
+    },
+    {
+      "asset": "HITMONLEE"
+    },
+    {
+      "asset": "HORSEA"
+    },
+    {
+      "asset": "HYPNO"
+    },
+    {
+      "asset": "IRON"
+    },
+    {
+      "asset": "IVYSAUR"
+    },
+    {
+      "asset": "JIGGLYPUFF"
+    },
+    {
+      "asset": "JOLTEON"
+    },
+    {
+      "asset": "JYNX"
+    },
+    {
+      "asset": "KABUTO"
+    },
+    {
+      "asset": "KABUTOPS"
+    },
+    {
+      "asset": "KADABRA"
+    },
+    {
+      "asset": "KAKUNA"
+    },
+    {
+      "asset": "KANA"
+    },
+    {
+      "asset": "KANGASKHAN"
+    },
+    {
+      "asset": "KINGLER"
+    },
+    {
+      "asset": "KINGOFTHESOG"
+    },
+    {
+      "asset": "KOFFING"
+    },
+    {
+      "asset": "KOTH"
+    },
+    {
+      "asset": "KRABBY"
+    },
+    {
+      "asset": "KUDO"
+    },
+    {
+      "asset": "KURO"
+    },
+    {
+      "asset": "LAPRAS"
+    },
+    {
+      "asset": "LIAN"
+    },
+    {
+      "asset": "LICKITUNG"
+    },
+    {
+      "asset": "LOTR"
+    },
+    {
+      "asset": "MACHAMP"
+    },
+    {
+      "asset": "MACHOKE"
+    },
+    {
+      "asset": "MACHOP"
+    },
+    {
+      "asset": "MAGIKARP"
+    },
+    {
+      "asset": "MAGMAR"
+    },
+    {
+      "asset": "MAGNEMITE"
+    },
+    {
+      "asset": "MAGNETON"
+    },
+    {
+      "asset": "MAKI"
+    },
+    {
+      "asset": "MANKEY"
+    },
+    {
+      "asset": "MAROWAK"
+    },
+    {
+      "asset": "MAYU"
+    },
+    {
+      "asset": "MEOWTH"
+    },
+    {
+      "asset": "METAPOD"
+    },
+    {
+      "asset": "MEWTWO"
+    },
+    {
+      "asset": "MEWX"
+    },
+    {
+      "asset": "MIKI"
+    },
+    {
+      "asset": "MIYU"
+    },
+    {
+      "asset": "MOLTRES"
+    },
+    {
+      "asset": "MORS"
+    },
+    {
+      "asset": "MRMIME"
+    },
+    {
+      "asset": "NAGA"
+    },
+    {
+      "asset": "NAGI"
+    },
+    {
+      "asset": "NIDOKING"
+    },
+    {
+      "asset": "NIDOQUEEN"
+    },
+    {
+      "asset": "NIDORAN"
+    },
+    {
+      "asset": "NIDORANMALE"
+    },
+    {
+      "asset": "NIDORINA"
+    },
+    {
+      "asset": "NIDORINO"
+    },
+    {
+      "asset": "NIKKOLE"
+    },
+    {
+      "asset": "NINETALES"
+    },
+    {
+      "asset": "ODDISH"
+    },
+    {
+      "asset": "OMANYTE"
+    },
+    {
+      "asset": "OMASTAR"
+    },
+    {
+      "asset": "ONIX"
+    },
+    {
+      "asset": "PANU"
+    },
+    {
+      "asset": "PARAGLIDING"
+    },
+    {
+      "asset": "PARAS"
+    },
+    {
+      "asset": "PARASECT"
+    },
+    {
+      "asset": "PERSIAN"
+    },
+    {
+      "asset": "PIDGEOT"
+    },
+    {
+      "asset": "PIDGEOTTO"
+    },
+    {
+      "asset": "PIDGEY"
+    },
+    {
+      "asset": "PIKACHU"
+    },
+    {
+      "asset": "PINSIR"
+    },
+    {
+      "asset": "POKECOIN"
+    },
+    {
+      "asset": "POKEMON"
+    },
+    {
+      "asset": "POKEMONCOIN"
+    },
+    {
+      "asset": "POKEMONEGG"
+    },
+    {
+      "asset": "POKEMONEGGS"
+    },
+    {
+      "asset": "POLIWAG"
+    },
+    {
+      "asset": "POLIWHIRL"
+    },
+    {
+      "asset": "POLIWRATH"
+    },
+    {
+      "asset": "PONYTA"
+    },
+    {
+      "asset": "PORYGON"
+    },
+    {
+      "asset": "PRIMEAPE"
+    },
+    {
+      "asset": "PSYDUCK"
+    },
+    {
+      "asset": "PUTIN"
+    },
+    {
+      "asset": "RAICHU"
+    },
+    {
+      "asset": "RAPIDASH"
+    },
+    {
+      "asset": "RATICATE"
+    },
+    {
+      "asset": "RATTATA"
+    },
+    {
+      "asset": "RHYDON"
+    },
+    {
+      "asset": "RHYHORN"
+    },
+    {
+      "asset": "RINA"
+    },
+    {
+      "asset": "SAKAMOTO"
+    },
+    {
+      "asset": "SANDSHREW"
+    },
+    {
+      "asset": "SANDSLASH"
+    },
+    {
+      "asset": "SATO"
+    },
+    {
+      "asset": "SAWA"
+    },
+    {
+      "asset": "SCYTHER"
+    },
+    {
+      "asset": "SEADRA"
+    },
+    {
+      "asset": "SEAKING"
+    },
+    {
+      "asset": "SEEL"
+    },
+    {
+      "asset": "SHELLDER"
+    },
+    {
+      "asset": "SKYDIVING"
+    },
+    {
+      "asset": "SLOWBRO"
+    },
+    {
+      "asset": "SLOWPOKE"
+    },
+    {
+      "asset": "SNORLAX"
+    },
+    {
+      "asset": "SPEAROW"
+    },
+    {
+      "asset": "SQUIRTLE"
+    },
+    {
+      "asset": "STARMIE"
+    },
+    {
+      "asset": "STARYU"
+    },
+    {
+      "asset": "SUZU"
+    },
+    {
+      "asset": "TAMAGOTCHI"
+    },
+    {
+      "asset": "TANGELA"
+    },
+    {
+      "asset": "TAUROS"
+    },
+    {
+      "asset": "TENTACOOL"
+    },
+    {
+      "asset": "TENTACRUEL"
+    },
+    {
+      "asset": "VAPOREON"
+    },
+    {
+      "asset": "VENOMOTH"
+    },
+    {
+      "asset": "VENONAT"
+    },
+    {
+      "asset": "VENUSAUR"
+    },
+    {
+      "asset": "VIAPLAY"
+    },
+    {
+      "asset": "VICTREEBEL"
+    },
+    {
+      "asset": "VILEPLUME"
+    },
+    {
+      "asset": "VOLTORB"
+    },
+    {
+      "asset": "VRAR"
+    },
+    {
+      "asset": "VRCASINO"
+    },
+    {
+      "asset": "VULPIX"
+    },
+    {
+      "asset": "WARTORTLE"
+    },
+    {
+      "asset": "WEEDLE"
+    },
+    {
+      "asset": "WEEPINBELL"
+    },
+    {
+      "asset": "WEEZING"
+    },
+    {
+      "asset": "WIGGLYTUFF"
+    },
+    {
+      "asset": "WINGSUIT"
+    },
+    {
+      "asset": "XABRAX"
+    },
+    {
+      "asset": "XAERODACTYL"
+    },
+    {
+      "asset": "XALAKAZAM"
+    },
+    {
+      "asset": "XARBOK"
+    },
+    {
+      "asset": "XARCANINE"
+    },
+    {
+      "asset": "XARTICUNO"
+    },
+    {
+      "asset": "XDITTO"
+    },
+    {
+      "asset": "XEGO"
+    },
+    {
+      "asset": "XFUCK"
+    },
+    {
+      "asset": "XKHL"
+    },
+    {
+      "asset": "XLOVE"
+    },
+    {
+      "asset": "XMEM"
+    },
+    {
+      "asset": "XMUK"
+    },
+    {
+      "asset": "XOMX"
+    },
+    {
+      "asset": "XOYJ"
+    },
+    {
+      "asset": "XREN"
+    },
+    {
+      "asset": "YABA"
+    },
+    {
+      "asset": "YUKA"
+    },
+    {
+      "asset": "YUKI"
+    },
+    {
+      "asset": "YUME"
+    },
+    {
+      "asset": "ZAPDOS"
+    },
+    {
+      "asset": "ZINZINO"
+    },
+    {
+      "asset": "ZUBAT"
+    }
+  ]
+}
