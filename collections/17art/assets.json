@@ -74,7 +74,7 @@
     },
     {
       "asset": "COVFEFEART",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "COVFUKEM"
@@ -147,7 +147,7 @@
     },
     {
       "asset": "FLAGDAY",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "FLIESOFEGYPT"
@@ -160,21 +160,21 @@
     },
     {
       "asset": "GAMESOFMUSK",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON"
     },
     {
       "asset": "GODARMOR",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GODXPEPE"
     },
     {
       "asset": "HAITIANPEPE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "HATBIDEN"
@@ -229,7 +229,7 @@
     },
     {
       "asset": "KEKCHIEF",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "KEKEVER"
@@ -239,7 +239,7 @@
     },
     {
       "asset": "KEKHODL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "KEKHRISTMAS"
@@ -267,7 +267,7 @@
     },
     {
       "asset": "MAKINGMEMES",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "MARGARITAVIL"
@@ -307,7 +307,7 @@
     },
     {
       "asset": "NIGHTGUARD",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "NOSES"
@@ -371,7 +371,7 @@
     },
     {
       "asset": "PEPEGIGACHAD",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PEPEGRASSLEY"
@@ -435,7 +435,7 @@
     },
     {
       "asset": "PEPESOFWAR",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PEPESTARKS"
@@ -472,14 +472,14 @@
     },
     {
       "asset": "PROOFOFWOKE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PUBPEPE"
     },
     {
       "asset": "QFLYNN",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "QOUNTRY"
@@ -495,22 +495,22 @@
     },
     {
       "asset": "QTRUMP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "RALLYTRUMP"
     },
     {
       "asset": "RAREGABRIEL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "RAREQTRUMP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "RARERUGPULL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "REDCARPETPEP"
@@ -565,7 +565,7 @@
     },
     {
       "asset": "STFUPEPE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "STUARTH"
@@ -590,7 +590,7 @@
     },
     {
       "asset": "THESAVIOR",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "THUMBSPEPE"
@@ -603,18 +603,18 @@
     },
     {
       "asset": "TRUMPFORCE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "TRUMPKEY"
     },
     {
       "asset": "TRUMPOWER",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "TRUMPSOCIAL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "TRUMPSPIRIN"
@@ -648,7 +648,7 @@
     },
     {
       "asset": "VPEPETRUMP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "VULTUREGIRL"

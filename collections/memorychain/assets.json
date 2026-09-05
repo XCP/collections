@@ -305,7 +305,7 @@
     },
     {
       "asset": "SARUTOBIISL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SATOSHICLUB"

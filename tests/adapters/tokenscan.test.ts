@@ -29,7 +29,7 @@ test("uses the direct project API, prefers asset_longname, and marks configured 
 
   assert.deepEqual(assets, [
     { asset: "FAKEDOSZERO.DOUBLE" },
-    { asset: "MONAS.NAKAMOTO", secondary: true },
+    { asset: "MONAS.NAKAMOTO", primary: false },
     { asset: "PEPETHEFAKE.GUCHIFAKE" },
     { asset: "FAKECARD" },
   ]);

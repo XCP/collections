@@ -20653,7 +20653,7 @@
     },
     {
       "asset": "EIGHTBIT.PEPE",
-      "secondary": true,
+      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",

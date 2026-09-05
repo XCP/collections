@@ -17,7 +17,7 @@
     },
     {
       "asset": "BUFFALOGAL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BURNEDCORN"
@@ -72,7 +72,7 @@
     },
     {
       "asset": "CORNROASTER",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "CORNROLLIJET"

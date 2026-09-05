@@ -44,7 +44,7 @@ are welcome. The endpoint must not rely on a particular browser origin.
     },
     {
       "asset": "CROSSOVERCARD",
-      "secondary": true
+      "primary": false
     }
   ]
 }
@@ -54,8 +54,9 @@ are welcome. The endpoint must not rely on a particular browser origin.
 - `collection` exactly matches the `collections/<slug>/` folder name.
 - `assets` is a non-empty, complete snapshot. Each Counterparty asset
   identifier appears once.
-- `secondary: true` means the asset's canonical primary home is another
-  collection. Omit it for primary members and for members of curated views.
+- `primary: false` means the asset's canonical primary home is another
+  collection. Omit it for primary members and for members of curated views;
+  `primary: true` is the default and may be omitted.
 - `attributes` is optional and uses `{ "trait_type", "value" }`, where the
   value is a non-empty string or a number. `Artist`, `Series`, and `Card` are
   understood by the marketplace today; other traits are retained by the

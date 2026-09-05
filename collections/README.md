@@ -58,7 +58,7 @@ Mixed collections should use the closest dominant shape.
 }
 ```
 
-Use `"secondary": true` when an asset appears here but has its canonical home
+Use `"primary": false` when an asset appears here but has its canonical home
 in another collection.
 
 Also add a short `README.md` telling contributors what belongs in the
@@ -70,7 +70,7 @@ collection and how to verify changes. Optional `icon.png`, `icon.jpg`,
 - Wrong name, description, or link: edit `meta.json`.
 - Missing or extra asset: edit `assets.json`.
 - Wrong artist, series, card, or other trait: edit that asset's `attributes`.
-- Asset belongs here but has a primary home elsewhere: add `"secondary": true`.
+- Asset belongs here but has a primary home elsewhere: add `"primary": false`.
 - Wrong supply, divisibility, issuer, owner, or issuance date: do not copy the
   correction here. Those are chain facts, not collection metadata.
 

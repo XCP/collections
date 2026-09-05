@@ -14,7 +14,7 @@ const ART_FRAMES = new Set(["card", "square", "landscape"]);
 const META_KEYS = new Set(["name", "kind", "description", "art_frame", "links"]);
 const ASSETS_FILE_KEYS = new Set(["assets"]);
 const METADATA_ONLY_COLLECTIONS = new Set(["bitcoin-stamps"]);
-const ENTRY_KEYS = new Set(["asset", "secondary", "attributes"]);
+const ENTRY_KEYS = new Set(["asset", "primary", "attributes"]);
 const ATTRIBUTE_KEYS = new Set(["trait_type", "value"]);
 const LINK_KEYS = new Set(["website", "x", "discord"]);
 const WHERE_KEYS = new Set([
@@ -107,15 +107,15 @@ export function normalizeAssets(value, path = "assets") {
     if (seen.has(entry.asset)) fail(`${entryPath}.asset`, `duplicates ${entry.asset}`);
     seen.add(entry.asset);
 
-    if (entry.secondary !== undefined && typeof entry.secondary !== "boolean") {
-      fail(`${entryPath}.secondary`, "must be a boolean");
+    if (entry.primary !== undefined && typeof entry.primary !== "boolean") {
+      fail(`${entryPath}.primary`, "must be a boolean");
     }
     if (entry.attributes !== undefined && !Array.isArray(entry.attributes)) {
       fail(`${entryPath}.attributes`, "must be an array");
     }
 
     const normalized = { asset: entry.asset };
-    if (entry.secondary === true) normalized.secondary = true;
+    if (entry.primary === false) normalized.primary = false;
     if (entry.attributes?.length > 0) {
       normalized.attributes = entry.attributes.map((attribute, attributeIndex) =>
         normalizedAttribute(attribute, `${entryPath}.attributes[${attributeIndex}]`),
@@ -139,7 +139,7 @@ export function normalizeAssets(value, path = "assets") {
 }
 
 function requireCanonicalPrimary(kind, assets, path) {
-  if (kind === "canonical" && !assets.some((entry) => entry.secondary !== true)) {
+  if (kind === "canonical" && !assets.some((entry) => entry.primary !== false)) {
     fail(path, "a canonical collection must contain at least one unflagged primary asset");
   }
 }
@@ -473,12 +473,12 @@ export function validateMemberships(collections, { requirePrimaryForSecondary = 
   for (const collection of collections) {
     if (!collection.assets) continue;
     for (const entry of collection.assets) {
-      const isPrimary = collection.kind === "canonical" && entry.secondary !== true;
+      const isPrimary = collection.kind === "canonical" && entry.primary !== false;
       if (isPrimary) {
         const existing = primaries.get(entry.asset);
         if (existing) {
           issues.push(
-            `${entry.asset} has two primary memberships: ${existing} and ${collection.slug}; mark the newcomer secondary`,
+            `${entry.asset} has two primary memberships: ${existing} and ${collection.slug}; mark the newcomer { "primary": false }`,
           );
         } else {
           primaries.set(entry.asset, collection.slug);
@@ -514,7 +514,7 @@ export function applySecondaryOnOverlap(collections) {
   for (const collection of collections) {
     if (collection.kind !== "canonical" || !Array.isArray(collection.assets)) continue;
     for (const entry of collection.assets) {
-      if (entry.secondary === true) continue;
+      if (entry.primary === false) continue;
       const list = appearances.get(entry.asset) ?? [];
       list.push({ collection, entry });
       appearances.set(entry.asset, list);
@@ -527,7 +527,7 @@ export function applySecondaryOnOverlap(collections) {
     if (fixed.length !== 1) continue;
     for (const appearance of entries) {
       if (appearance.collection[SECONDARY_ON_OVERLAP] === true) {
-        appearance.entry.secondary = true;
+        appearance.entry.primary = false;
       }
     }
   }

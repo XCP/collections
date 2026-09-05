@@ -191,6 +191,6 @@ export async function load({ collection, config = {}, fetchJson, cache }) {
   }
   return identities.map((asset) => ({
     asset,
-    ...(secondaryAssets.has(asset) ? { secondary: true } : {}),
+    ...(secondaryAssets.has(asset) ? { primary: false } : {}),
   }));
 }

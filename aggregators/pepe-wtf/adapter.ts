@@ -174,7 +174,7 @@ export async function load({ collection, config = {}, fetchJson, cache }) {
 
     assets.push({
       asset,
-      ...(secondaryAssets.has(asset) ? { secondary: true } : {}),
+      ...(secondaryAssets.has(asset) ? { primary: false } : {}),
       attributes,
     });
   }

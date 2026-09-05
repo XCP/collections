@@ -218,7 +218,7 @@
     },
     {
       "asset": "GAMESOFTRUMP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GAYASSASSIN"
@@ -699,7 +699,7 @@
     },
     {
       "asset": "SMUGTRUMP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SOFTWAR"
@@ -838,7 +838,7 @@
     },
     {
       "asset": "WETHEPEPE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "WIKIASSANGE"

@@ -35,7 +35,7 @@
     },
     {
       "asset": "WARJAK",
-      "secondary": true
+      "primary": false
     }
   ]
 }

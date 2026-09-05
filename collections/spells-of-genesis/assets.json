@@ -1516,7 +1516,7 @@
     },
     {
       "asset": "FWSDLTHEMONC",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "DAICARD"
@@ -1871,22 +1871,22 @@
     },
     {
       "asset": "FWSDLFIETHSC",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SOGJANUS"
     },
     {
       "asset": "FWCFCFIERYCC",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "FWCFCUMRATTC",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "FWSDLICEDRAC",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "LIGHTWARRIOR"

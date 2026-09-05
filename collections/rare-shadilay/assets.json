@@ -248,7 +248,7 @@
     },
     {
       "asset": "SHADIFAUX",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SHADIKACHU"

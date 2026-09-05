@@ -14,7 +14,7 @@
     },
     {
       "asset": "BOBKACHU",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBLO"
@@ -33,26 +33,26 @@
     },
     {
       "asset": "BOBOCASH",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOCIRCLE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBODICAPRIO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBODON",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBODONGO"
     },
     {
       "asset": "BOBOFAKE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOGITS"
@@ -62,32 +62,32 @@
     },
     {
       "asset": "BOBOKAREN",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOLOKOT"
     },
     {
       "asset": "BOBOMFER",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBONCOS"
     },
     {
       "asset": "BOBONOPOULOS",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOPARTE"
     },
     {
       "asset": "BOBOPIZZA",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOROSS",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOROTO"
@@ -100,7 +100,7 @@
     },
     {
       "asset": "BOBOSWEEP",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOTANK"
@@ -110,11 +110,11 @@
     },
     {
       "asset": "BOBOWETRUST",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOWHALE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "BOBOYAGA"
@@ -127,19 +127,19 @@
     },
     {
       "asset": "CLUBBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "CONTRABOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "DANKEQDANK",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "DEVBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "DEVTHBOBO"
@@ -152,15 +152,15 @@
     },
     {
       "asset": "EIGHTBIT.BOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "FAKEBOBOCASH",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GOXBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GRAILBOBO"
@@ -170,55 +170,55 @@
     },
     {
       "asset": "GRIMBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "INVISIBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "JOKERBOBO"
     },
     {
       "asset": "LAMBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "LAURENBOBO"
     },
     {
       "asset": "LUCKYBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "MAGICBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "MASTERBOBO"
     },
     {
       "asset": "MONABOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "MYBIGBOBO"
     },
     {
       "asset": "NAKABOTO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "NINJABOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "ONLYONEBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PEPEPOVERTY",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "POPBOBO"
@@ -228,52 +228,52 @@
     },
     {
       "asset": "RAREBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "REKTBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "RICHBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SAMBOBOMAN",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SHITCOINBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SMOKECANDLES"
     },
     {
       "asset": "SPACEBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SPENDME"
     },
     {
       "asset": "STRONGBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SUMMONBOBO"
     },
     {
       "asset": "THEBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "TORROBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "UFOBOBO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "UNTITLEDBOBO"

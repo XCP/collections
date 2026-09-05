@@ -20,7 +20,7 @@
     },
     {
       "asset": "BUFFALOGAL",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "CAESARPGN"
@@ -42,7 +42,7 @@
     },
     {
       "asset": "CORNPIGEON",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "CRASHPGN"
@@ -157,7 +157,7 @@
     },
     {
       "asset": "LFGSWARM",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "LOVEANDDOVES"
