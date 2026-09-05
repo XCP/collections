@@ -103,7 +103,7 @@ test("malformed standard feeds fail closed", () => {
     { ...feed, unexpected: true },
     { ...feed, assets: [feed.assets[0], feed.assets[0]] },
     { ...feed, assets: [{ asset: "A1" }] },
-    { ...feed, assets: [{ asset: "RAREPEPE", secondary: "yes" }] },
+    { ...feed, assets: [{ asset: "RAREPEPE", primary: "yes" }] },
   ];
   for (const invalidFeed of cases) {
     assert.throws(() => normalizeFeedV1(invalidFeed, "example-set"), CollectionValidationError);
@@ -151,7 +151,7 @@ test("meta.json accepts only the standard collection art frames", () => {
 });
 
 test("canonical static collections require a primary asset while curated overlaps may be all-secondary", async (t) => {
-  const secondaryOnly = [{ asset: "CROSSCARD", secondary: true }];
+  const secondaryOnly = [{ asset: "CROSSCARD", primary: false }];
   const canonical = makeRepository();
   t.after(() => rmSync(canonical.root, { recursive: true, force: true }));
   writeFileSync(join(canonical.directory, "assets.json"), JSON.stringify({ assets: secondaryOnly }));
@@ -202,7 +202,7 @@ test("an open collection adapter demotes only its conflicting memberships", asyn
   const result = await materializeRepository({ repositoryRoot: root });
   const open = result.collections.find(({ slug }) => slug === "open-set");
   assert.deepEqual(open.assets, [
-    { asset: "RAREPEPE", secondary: true },
+    { asset: "RAREPEPE", primary: false },
     { asset: "OPENONLY" },
   ]);
   assert.deepEqual(result.counts, { primaryMemberships: 2, secondaryMemberships: 1 });

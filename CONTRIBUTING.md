@@ -36,7 +36,7 @@ An asset entry uses a Counterparty identifier and optional OpenSea-style traits:
 ```
 
 If an asset's primary home is another canonical collection, include it with
-`"secondary": true` instead of creating a second primary membership.
+`"primary": false` instead of creating a second primary membership.
 
 ## Source conventions
 

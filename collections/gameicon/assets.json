@@ -11,7 +11,7 @@
     },
     {
       "asset": "GDCNOVADEMO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "GRUNDGY"

@@ -194,7 +194,7 @@
     },
     {
       "asset": "LFGLUTNICK",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "LFGMARKET"

@@ -150,7 +150,7 @@ If a canonical collection includes an asset whose primary home is another
 collection, keep the entry and mark it secondary:
 
 ```json
-{ "asset": "SATOSHICARD", "secondary": true }
+{ "asset": "SATOSHICARD", "primary": false }
 ```
 
 CI names the conflicting collections when it finds a duplicate primary. A

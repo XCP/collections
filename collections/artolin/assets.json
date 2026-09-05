@@ -14,19 +14,19 @@
     },
     {
       "asset": "FINEARTPEPE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "MALVERDE",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PEPETSHIRT",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PEPEYOTES",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "UPNDOWN"

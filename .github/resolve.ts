@@ -24,7 +24,7 @@ for (const collection of collections) {
   }
   if (collection.kind !== "canonical" || !Array.isArray(collection.assets)) continue;
   for (const entry of collection.assets) {
-    if (entry.secondary === true) continue;
+    if (entry.primary === false) continue;
     universe.push({
       asset: entry.asset,
       slug: collection.slug,

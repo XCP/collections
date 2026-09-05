@@ -10,6 +10,6 @@
         { "trait_type": "Series", "value": 1 }
       ]
     },
-    { "asset": "DANK.CARD", "secondary": true }
+    { "asset": "DANK.CARD", "primary": false }
   ]
 }

@@ -119,7 +119,7 @@
     },
     {
       "asset": "PENPENGEON",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "PENPENGOLD"

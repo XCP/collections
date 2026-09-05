@@ -78,7 +78,7 @@ export function collectionFactsBlock(repositoryRoot, collection) {
   const indexedByMarketplace = collection.slug === "bitcoin-stamps";
   const computedFromChain = collection.where !== undefined;
   const primary = collection.kind === "canonical"
-    ? assets.filter((entry) => entry.secondary !== true).length
+    ? assets.filter((entry) => entry.primary !== false).length
     : 0;
   const secondary = assets.length - primary;
   const membership = computedFromChain

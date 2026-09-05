@@ -23,7 +23,7 @@
     },
     {
       "asset": "QANON",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "WHORL"

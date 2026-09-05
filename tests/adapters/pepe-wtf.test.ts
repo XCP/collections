@@ -43,7 +43,7 @@ test("maps exact pepe.wtf rows to membership traits and discards chain and marke
     },
     {
       asset: "COCOGONE",
-      secondary: true,
+      primary: false,
       attributes: [
         { trait_type: "Series", value: 1 },
         { trait_type: "Card", value: 39 },

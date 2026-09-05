@@ -5,7 +5,7 @@
     },
     {
       "asset": "CORNATOMO",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "FRENSINPARIS"

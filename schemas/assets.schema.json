@@ -44,7 +44,7 @@
       "required": ["asset"],
       "properties": {
         "asset": { "$ref": "#/$defs/assetId" },
-        "secondary": { "type": "boolean" },
+        "primary": { "type": "boolean" },
         "attributes": { "type": "array", "items": { "$ref": "#/$defs/attribute" } }
       }
     }

@@ -254,11 +254,11 @@
     },
     {
       "asset": "RELICASH",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "RELICSUBMIT",
-      "secondary": true
+      "primary": false
     },
     {
       "asset": "SHART"
