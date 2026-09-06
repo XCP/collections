@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 82 |
-| Canonical collections | 80 |
+| Collections | 83 |
+| Canonical collections | 81 |
 | Curated views | 2 |
-| Explicit unique assets | 26,719 |
-| Explicit collection memberships | 27,047 |
-| Primary memberships | 26,719 |
-| Secondary or curated memberships | 328 |
-| Memberships with traits | 9,621 |
+| Explicit unique assets | 26,806 |
+| Explicit collection memberships | 27,143 |
+| Primary memberships | 26,806 |
+| Secondary or curated memberships | 337 |
+| Memberships with traits | 9,728 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 79 |
+| Reviewed static `assets.json` | 80 |
 | Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, HP, Health, ID, Kaleidoscope ID, Month, No, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
+Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, No, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->

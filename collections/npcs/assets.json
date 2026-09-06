@@ -1,0 +1,523 @@
+{
+  "assets": [
+    {
+      "asset": "NPCS.AnpcitaFemfreq",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Anpcita Sarkeesian"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.cdad27cb948d4e0",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC#cdad27cb948d4e0"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.CNNPC1",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "CNNPC"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.cwinemom58804",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Christine Blasey-Ford"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.female0028761",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC_Female0028761"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.film_student246",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Nathan P. Croft"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.GROYPERWAVE",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC GROYPERWAVE"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.Infinite_JW4",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC184729101027"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.KrassensteinNpc",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPCrassenstein"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.Love2Shill",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Shill Doogie(tm)"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.msnpcbot67"
+    },
+    {
+      "asset": "NPCS.MyBlueEyedChild",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC1234567890"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.N12670840",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC12670840"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.N80085",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC#80085"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NangRichard",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC 8AN3"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.Nattie_P_Cumins",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Natalie P Cumins"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC_Brennan",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Brennon"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC00473777",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Lilly theFighter"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC021505081301",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Nathan Patrick Collins"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc1001001",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Null P. Checksum"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc133713371337",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC133713371337"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc1337197",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "National Progressive Coalition 4 lyfe"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC1703420",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC 1703420"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc1984now",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC1984now"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc2304828716",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPCS2304828716"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc23456789",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "UniqueNPC.EXE"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc3302723396",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC3302723396"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC42354325",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC3408795"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc465292",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "GoodPersonNPC#465292"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc4815162342",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "AKCHUAL HUMAN"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc4836246j7",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC4836246j7"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc5318008",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPCS5318008"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc537223857",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC537223857"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC6000000",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC 6000000"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc6141946",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC6141946"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC691",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC29"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC707825",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC707825"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc7285950281",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC7285950281"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc7592057301",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Narnold Palmer C."
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC7770987",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc80014662",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC80014662"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc8547556",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC#8547556"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc8616712",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Npc Hendrickson"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npc8675301",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC8675301"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC86753093",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Rachel MadNow"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC9371953",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Nate Phugo Chavez"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPC94323381",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Local.NPC94323381"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.npcboi"
+    },
+    {
+      "asset": "NPCS.NPCECELEB",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Minor Eceleb 1337"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPCRIGHTS978681",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPCrights9786888"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.NPCuck",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Furry"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.pocasio2018",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Nalexandria Pocasio-Cortez"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.ponponpontifex",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Pontifex"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.resist12359914",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Natalie P Coolidge"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.SeeEnpee",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC030989"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.SpookyStirnman",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "NPC Reporter"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.The_NPCSA",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "The NPCSA"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.thelameduck8me",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "npc duck"
+        }
+      ]
+    },
+    {
+      "asset": "NPCS.WHORMY_NPC",
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Whormy Anals NPC v 2.0"
+        }
+      ]
+    }
+  ]
+}
