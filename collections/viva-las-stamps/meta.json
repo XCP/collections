@@ -2,5 +2,6 @@
   "name": "Viva Las Stamps",
   "kind": "canonical",
   "description": "Viva Las Stamps collectibles represented by Counterparty assets.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2023
 }
