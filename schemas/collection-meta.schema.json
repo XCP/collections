@@ -10,6 +10,12 @@
     "kind": { "enum": ["canonical", "curated"] },
     "description": { "type": "string", "minLength": 1, "maxLength": 2000 },
     "art_frame": { "enum": ["card", "square", "landscape"] },
+    "founded": {
+      "type": "integer",
+      "minimum": 2014,
+      "maximum": 2100,
+      "description": "The year the project launched. Optional; marketplaces otherwise date a collection from its oldest member's issuance, which overstates the age of a collection that adopted older assets."
+    },
     "links": {
       "type": "object",
       "additionalProperties": false,
