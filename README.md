@@ -96,10 +96,11 @@ Useful examples:
 
 Required fields are `name`, `kind`, `description`, and `art_frame`.
 `art_frame` is `card`, `square`, or `landscape`, based on the collection's
-dominant artwork shape. `founded` is the optional year the project launched;
-without it, a marketplace dates the collection from its oldest member's
-issuance, which overstates the age of a collection that adopted assets
-registered before it existed. Optional links are `website`, `x`, and `discord`. See the
+dominant artwork shape. `founded` is the year the project launched; every
+collection carries one, and a new collection should too. Without it, a
+marketplace dates the collection from its oldest member's issuance, which
+overstates the age of a collection that adopted assets registered before it
+existed. Optional links are `website`, `x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
 
 ### Asset membership
