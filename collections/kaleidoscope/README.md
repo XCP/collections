@@ -7,8 +7,8 @@
 | --- | --- |
 | Type | Canonical collection |
 | Membership | 2,110 assets |
-| Primary memberships | 1,909 |
-| Secondary or curated memberships | 201 |
+| Primary memberships | 1,900 |
+| Secondary or curated memberships | 210 |
 | Source | Collection-operated `adapter.ts` |
 | Traits | Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
