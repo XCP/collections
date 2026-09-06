@@ -11,7 +11,10 @@ const SUBASSET_LONGNAME = /^(?:[B-Z][A-Z]{3,11}|A\d{17,20})\.[A-Za-z0-9_@!-]+(?:
 const PROVIDER_NAME = /^[a-z0-9]+(?:[-_][a-z0-9]+)*$/;
 const KINDS = new Set(["canonical", "curated"]);
 const ART_FRAMES = new Set(["card", "square", "landscape"]);
-const META_KEYS = new Set(["name", "kind", "description", "art_frame", "links"]);
+const META_KEYS = new Set(["name", "kind", "description", "art_frame", "founded", "links"]);
+/** Counterparty launched in 2014; nothing was founded on it earlier. */
+const MIN_FOUNDED_YEAR = 2014;
+const MAX_FOUNDED_YEAR = 2100;
 const ASSETS_FILE_KEYS = new Set(["assets"]);
 const METADATA_ONLY_COLLECTIONS = new Set(["bitcoin-stamps"]);
 const ENTRY_KEYS = new Set(["asset", "primary", "attributes"]);
@@ -237,8 +240,19 @@ export function normalizeCollectionMeta(value, slug) {
     description: nonemptyString(meta.description, `${slug}.description`, 2_000),
     art_frame: meta.art_frame,
   };
+  if (meta.founded !== undefined) normalized.founded = foundedYear(meta.founded, `${slug}.founded`);
   if (meta.links !== undefined) normalized.links = normalizeLinks(meta.links, `${slug}.links`);
   return normalized;
+}
+
+/** The year the project launched. An old asset can be published into a
+ * young collection, so consumers dating a collection from its oldest
+ * member would overstate its age; this is the curated correction. */
+function foundedYear(value, path) {
+  if (!Number.isInteger(value) || value < MIN_FOUNDED_YEAR || value > MAX_FOUNDED_YEAR) {
+    fail(path, `must be an integer year from ${MIN_FOUNDED_YEAR} to ${MAX_FOUNDED_YEAR}`);
+  }
+  return value;
 }
 
 function parseJsonFile(path, label) {

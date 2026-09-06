@@ -150,6 +150,20 @@ test("meta.json accepts only the standard collection art frames", () => {
   );
 });
 
+test("meta.json accepts an optional founding year within the Counterparty era", () => {
+  assert.deepEqual(
+    normalizeCollectionMeta({ ...baseMeta, founded: 2018 }, "example-set"),
+    { ...baseMeta, founded: 2018 },
+  );
+  assert.deepEqual(normalizeCollectionMeta(baseMeta, "example-set"), baseMeta);
+  for (const founded of [2013, 2101, 2018.5, "2018", null]) {
+    assert.throws(
+      () => normalizeCollectionMeta({ ...baseMeta, founded }, "example-set"),
+      /must be an integer year from 2014 to 2100/,
+    );
+  }
+});
+
 test("canonical static collections require a primary asset while curated overlaps may be all-secondary", async (t) => {
   const secondaryOnly = [{ asset: "CROSSCARD", primary: false }];
   const canonical = makeRepository();
