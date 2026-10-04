@@ -2,5 +2,6 @@
   "name": "Comedianas",
   "kind": "canonical",
   "description": "Comedianas collectibles issued on Counterparty.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2023
 }

@@ -2,5 +2,6 @@
   "name": "Pre-Ethereum",
   "kind": "curated",
   "description": "Curated assets issued before Ethereum's genesis block (July 30, 2015).",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2014
 }

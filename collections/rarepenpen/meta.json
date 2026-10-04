@@ -2,5 +2,6 @@
   "name": "RarePenPen",
   "kind": "canonical",
   "description": "RarePenPen collectibles issued on Counterparty.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2026
 }
