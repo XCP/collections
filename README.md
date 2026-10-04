@@ -48,7 +48,7 @@ which collections it supports.
 | Fix a name, description, or link | Find the folder in [`collections/`](collections/) and edit `meta.json` |
 | Add, remove, or correct an asset | Edit that collection's `assets.json`; see [asset membership](collections/README.md#asset-membership) |
 | Add or correct traits | Edit the asset's `attributes` in `assets.json`; see [traits](#traits) |
-| Use my collection's API | Add a local `adapter.ts`; see [collection APIs](docs/adapters.md#collection-adapters) |
+| Use my collection's API | Add a local `adapter.ts` and remove `assets.json`; see [switching sources](docs/adapters.md#switching-sources-and-handling-outages) |
 | Report a problem without writing code | [Open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml) |
 | List an asset for sale | Use a marketplace application; no repo change is needed |
 
