@@ -17,7 +17,7 @@ import {
   selectedCollectionSlugs,
 } from "#lib/collection-source";
 import { createFetchJson, createFetchText, FetchJsonError } from "#lib/safe-fetch";
-import { parseArguments } from "#scripts/export";
+import { parseArguments, runExport } from "#scripts/export";
 
 const fixtureDirectory = join(dirname(fileURLToPath(import.meta.url)), "fixtures");
 const feed = JSON.parse(readFileSync(join(fixtureDirectory, "feed-v1.json"), "utf8"));
@@ -58,6 +58,32 @@ test("a collection adapter is used only when assets.json is absent", async (t) =
   assert.equal(resolveCollectionSource(root, "example-set").type, "collection-adapter");
   const collection = await materializeCollection({ slug: "example-set", meta: baseMeta, repositoryRoot: root });
   assert.deepEqual(collection.assets, feed.assets);
+});
+
+test("switching from JSON to an unavailable API preserves the last complete export", async (t) => {
+  const { root, directory } = makeRepository();
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  const snapshot = join(directory, "assets.json");
+  const assets = [{ asset: 'EXAMPLECARD' }];
+  writeFileSync(snapshot, JSON.stringify({ assets }));
+  const outputPath = join(root, "dist", "collections.json");
+  const args = ["--root", root, "--output", outputPath];
+  assert.ok(await runExport(args));
+  const previous = readFileSync(outputPath, "utf8");
+  writeFileSync(join(directory, "adapter.ts"), 'export async function load() { throw new Error("upstream unavailable"); }\n');
+  rmSync(snapshot);
+  const exitCode = process.exitCode;
+  try {
+    assert.equal(await runExport(args), undefined);
+    assert.equal(process.exitCode, 1);
+    assert.equal(readFileSync(outputPath, "utf8"), previous);
+  } finally {
+    process.exitCode = exitCode;
+  }
+  // A reviewed source switch recovers independently of the broken API.
+  writeFileSync(snapshot, JSON.stringify({ assets }));
+  assert.ok(await runExport(args));
+  assert.equal(readFileSync(outputPath, "utf8"), previous);
 });
 
 test("Bitcoin Stamps is the only metadata-only collection special case", async (t) => {

@@ -12,6 +12,36 @@ A selected source failure fails export. It does not fall through.
 An adapter is appropriate for pagination, nesting, naming, or
 other response-shape differences that genuinely require code.
 
+## Switching sources and handling outages
+
+Consumers read the published `collections.json` snapshot. They do not need to
+know whether a collection uses a static file, its own API, or an aggregator.
+Keep the same collection folder slug when changing sources; changing the slug
+is a removal and addition from a consumer's perspective.
+
+| Change | What to include in the pull request |
+| --- | --- |
+| Static JSON to an API | Add the adapter and its fixture-backed tests, and remove `assets.json`. |
+| API to static JSON | Add a complete, reviewed `assets.json`. Remove the unused adapter and its tests. |
+| Both JSON and an adapter exist | JSON is authoritative. The adapter is not called. |
+
+A selected API timeout, invalid response, or incomplete page fails the export.
+It must never be converted into an empty collection or silently replaced by
+another source. The publish workflow deploys only after the complete export
+succeeds, so an unsuccessful build leaves the previous published catalog in
+place. This preserves the last complete catalog, not a mixture of unrelated
+old and new snapshots. Other collection updates wait until that build succeeds.
+
+To recover, rerun publishing after the source recovers, or submit a reviewed
+static snapshot as an explicit source switch. A failed download is not a
+collection deletion; deleting the collection folder is an intentional change.
+
+Publishing currently runs on relevant changes merged to `main` or a manual
+workflow run. Changes made only at an external API appear at the next
+successful publish, not immediately. Consumers should validate the complete
+export, keep their last applied catalog on fetch or validation failures, and
+reconcile additions, edits, and removals without contacting individual APIs.
+
 ## Module contract
 
 An adapter exports one async function:
