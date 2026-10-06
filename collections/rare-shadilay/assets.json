@@ -275,7 +275,8 @@
       "asset": "SHADILAYAIR"
     },
     {
-      "asset": "SHADILAYCASH"
+      "asset": "SHADILAYCASH",
+      "asset_type": "currency"
     },
     {
       "asset": "SHADILAYDI"

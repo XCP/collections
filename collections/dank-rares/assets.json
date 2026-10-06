@@ -19,6 +19,7 @@
     },
     {
       "asset": "DANKMEMECASH",
+      "asset_type": "currency",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -22119,6 +22120,7 @@
     },
     {
       "asset": "BOBOCASH",
+      "asset_type": "currency",
       "attributes": [
         {
           "trait_type": "Artist",

@@ -4,7 +4,8 @@
       "asset": "BASEDBEAT"
     },
     {
-      "asset": "BASSMINT"
+      "asset": "BASSMINT",
+      "asset_type": "currency"
     },
     {
       "asset": "BICYCLEDAY"

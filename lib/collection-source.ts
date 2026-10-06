@@ -17,7 +17,7 @@ const MIN_FOUNDED_YEAR = 2014;
 const MAX_FOUNDED_YEAR = 2100;
 const ASSETS_FILE_KEYS = new Set(["assets"]);
 const METADATA_ONLY_COLLECTIONS = new Set(["bitcoin-stamps"]);
-const ENTRY_KEYS = new Set(["asset", "primary", "attributes"]);
+const ENTRY_KEYS = new Set(["asset", "asset_type", "primary", "attributes"]);
 const ATTRIBUTE_KEYS = new Set(["trait_type", "value"]);
 const LINK_KEYS = new Set(["website", "x", "discord"]);
 const WHERE_KEYS = new Set([
@@ -118,6 +118,12 @@ export function normalizeAssets(value, path = "assets") {
     }
 
     const normalized = { asset: entry.asset };
+    if (entry.asset_type !== undefined) {
+      if (entry.asset_type !== "currency" && entry.asset_type !== "collectible") {
+        fail(`${entryPath}.asset_type`, 'must be "currency" or "collectible"');
+      }
+      normalized.asset_type = entry.asset_type;
+    }
     if (entry.primary === false) normalized.primary = false;
     if (entry.attributes?.length > 0) {
       normalized.attributes = entry.attributes.map((attribute, attributeIndex) =>

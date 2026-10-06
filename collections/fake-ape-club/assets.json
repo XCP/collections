@@ -196,7 +196,8 @@
       "asset": "FAKEAPEBRO"
     },
     {
-      "asset": "FAKEAPECASH"
+      "asset": "FAKEAPECASH",
+      "asset_type": "currency"
     },
     {
       "asset": "FAKEAPECASSO"

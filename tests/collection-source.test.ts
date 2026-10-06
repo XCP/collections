@@ -27,6 +27,18 @@ const baseMeta = {
   description: "A fixture collection.",
   art_frame: "card",
 };
+
+test("feed exports preserve currency classification and reject misspellings", () => {
+  const input = { schema_version: 1, collection: "rare-pepe", assets: [
+    { asset: "PEPECASH", asset_type: "currency" },
+    { asset: "PEPEGUN", asset_type: "collectible" },
+    { asset: "RAREPEPE" },
+  ] };
+  assert.deepEqual(normalizeFeedV1(input).assets, input.assets);
+  for (const asset_type of ["Currency", "curreny", null, 1]) {
+    assert.throws(() => normalizeFeedV1({ ...input, assets: [{ asset: "PEPECASH", asset_type }] }), /asset_type/);
+  }
+});
 function makeRepository(slug = "example-set") {
   const root = mkdtempSync(join(tmpdir(), "counterparty-collection-layout-"));
   const directory = join(root, "collections", slug);

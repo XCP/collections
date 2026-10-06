@@ -107,7 +107,8 @@
       "asset": "DATAPEPE"
     },
     {
-      "asset": "DESANTISCASH"
+      "asset": "DESANTISCASH",
+      "asset_type": "currency"
     },
     {
       "asset": "DESECRATPEPE"

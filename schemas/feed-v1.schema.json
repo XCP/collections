@@ -49,6 +49,7 @@
       "required": ["asset"],
       "properties": {
         "asset": { "$ref": "#/$defs/assetId" },
+        "asset_type": { "enum": ["collectible", "currency"] },
         "primary": { "type": "boolean" },
         "attributes": {
           "type": "array",
