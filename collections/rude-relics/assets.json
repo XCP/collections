@@ -254,6 +254,7 @@
     },
     {
       "asset": "RELICASH",
+      "asset_type": "currency",
       "primary": false
     },
     {

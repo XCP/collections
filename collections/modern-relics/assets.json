@@ -377,7 +377,8 @@
       "asset": "PSYCHO.PEPE"
     },
     {
-      "asset": "RELICASH"
+      "asset": "RELICASH",
+      "asset_type": "currency"
     },
     {
       "asset": "RELICSUBMIT"

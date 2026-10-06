@@ -44,6 +44,12 @@ reconcile additions, edits, and removals without contacting individual APIs.
 
 ## Module contract
 
+Asset entries may include `asset_type: "currency"` or `asset_type: "collectible"`.
+Use `currency` for a payment or utility currency, not merely a divisible or
+high-supply asset. Preserve explicit classifications when switching between
+static files and an API adapter. Normalization retains this field; it does not
+remove currencies from the published membership snapshot.
+
 An adapter exports one async function:
 
 ```js

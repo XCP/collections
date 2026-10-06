@@ -1,7 +1,8 @@
 {
   "assets": [
     {
-      "asset": "WILLCOIN"
+      "asset": "WILLCOIN",
+      "asset_type": "currency"
     },
     {
       "asset": "FWCFCDREAMIC"

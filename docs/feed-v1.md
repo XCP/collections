@@ -95,3 +95,15 @@ node scripts/export.ts
 The export command performs the live request and writes ignored output to
 `dist/collections.json`. Commit a representative response fixture and a test
 under `tests/collections/`. Do not commit `dist/`.
+
+## Asset classification
+
+An asset entry may carry `asset_type`, with the value `currency` or `collectible`.
+Omission is unclassified and preserves existing consumer behavior. This is an
+editorial classification of the asset's role, not its on-chain divisibility,
+supply, or eligibility on a particular marketplace. A currency still belongs
+to its collection and is included in this feed.
+
+```json
+{ "asset": "DANKMEMECASH", "asset_type": "currency" }
+```

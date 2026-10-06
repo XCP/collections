@@ -172,6 +172,7 @@
     },
     {
       "asset": "PEPECASH",
+      "asset_type": "currency",
       "attributes": [
         {
           "trait_type": "Artist",

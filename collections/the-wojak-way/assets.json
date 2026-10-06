@@ -410,6 +410,7 @@
     },
     {
       "asset": "NOJAK",
+      "asset_type": "currency",
       "attributes": [
         {
           "trait_type": "Artist",

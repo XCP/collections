@@ -215,3 +215,25 @@ More detail:
 
 - **Cake Commons:** no reliable membership list has been found. A PR with a
   verifiable list is welcome.
+
+## Asset classification
+
+Membership entries may include `"asset_type": "currency"` for a project's
+payment or utility currency, or `"asset_type": "collectible"`. Omission means
+unclassified; it is not a claim about divisibility or supply. For example:
+
+```json
+{ "asset": "PEPECASH", "asset_type": "currency" }
+```
+
+Currencies retain their collection membership, artwork and other metadata.
+The registry publishes the classification without deciding whether a consumer
+should display or trade the asset. Consumers apply their own eligibility rules.
+Static files and adapters use the same field, preserved in feed-v1 exports.
+
+The initial currency annotations match the explicit quote-asset lists in
+[XCP/exchange](https://github.com/XCP/exchange/blob/main/apps/web/src/utils/constants.ts)
+and [XCP/explorer](https://github.com/XCP/explorer/blob/main/apps/web/src/lib/trading-pair.ts).
+They are reviewed registry metadata, not a runtime dependency on those repos.
+Do not classify assets by `CASH`/`COIN` name matching: collectible names can
+contain those words too.

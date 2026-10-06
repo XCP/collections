@@ -33,6 +33,7 @@
     },
     {
       "asset": "BOBOCASH",
+      "asset_type": "currency",
       "primary": false
     },
     {
