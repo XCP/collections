@@ -8,11 +8,11 @@
 | Collections | 83 |
 | Canonical collections | 81 |
 | Curated views | 2 |
-| Explicit unique assets | 26,806 |
-| Explicit collection memberships | 27,143 |
-| Primary memberships | 26,806 |
+| Explicit unique assets | 26,825 |
+| Explicit collection memberships | 27,162 |
+| Primary memberships | 26,825 |
 | Secondary or curated memberships | 337 |
-| Memberships with traits | 9,728 |
+| Memberships with traits | 9,727 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, No, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
+Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->

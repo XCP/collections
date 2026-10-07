@@ -1,4 +1,4 @@
-# Spells of Genesis
+# Independent
 
 <!-- collection-facts:start -->
 ## Registry facts
@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 291 assets |
-| Primary memberships | 286 |
-| Secondary or curated memberships | 5 |
+| Membership | 14 assets |
+| Primary memberships | 14 |
+| Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 46/291 (15.8%)<br>Attack: 46/291 (15.8%)<br>Element: 46/291 (15.8%)<br>Health: 46/291 (15.8%)<br>Rarity: 46/291 (15.8%)<br>Speed: 46/291 (15.8%) |
+| Traits | None |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
