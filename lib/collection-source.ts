@@ -588,6 +588,32 @@ export function numericAssetIssues(repositoryRoot, collections) {
   return issues;
 }
 
+const BLOCKED_CREDITS = "data/blocked-artist-credits.json";
+
+/**
+ * Artist values that name no artist ("Unknown", "none", "Community Created")
+ * or that were wrong ("Hairpepe" named an address's card, not its artist)
+ * would become artist pages. They are listed in data/blocked-artist-credits.json
+ * and rejected, case-insensitively; an unknown artist is simply no trait.
+ */
+export function blockedCreditIssues(repositoryRoot, collections) {
+  const path = join(repositoryRoot, BLOCKED_CREDITS);
+  if (!existsSync(path)) return [];
+  const blocked = new Set(parseJsonFile(path, BLOCKED_CREDITS).credits.map((credit) => credit.trim().toLowerCase()));
+  const issues = [];
+  for (const collection of collections) {
+    for (const entry of collection.assets ?? []) {
+      for (const attribute of entry.attributes ?? []) {
+        if (attribute.trait_type.toLowerCase() !== "artist" || typeof attribute.value !== "string") continue;
+        if (blocked.has(attribute.value.trim().toLowerCase())) {
+          issues.push(`${collection.slug}: ${entry.asset} credits "${attribute.value}", which is blocked; leave the Artist trait off when the artist is unknown`);
+        }
+      }
+    }
+  }
+  return issues;
+}
+
 /** Validate checked-in metadata and static membership without network calls. */
 export async function validateRepositoryMetadata({ repositoryRoot = process.cwd() } = {}) {
   const collections = [];
@@ -617,6 +643,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
     }
   }
   issues.push(...numericAssetIssues(repositoryRoot, collections));
+  issues.push(...blockedCreditIssues(repositoryRoot, collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
   const explicitCollections = collections.filter((collection) => collection.assets !== undefined);

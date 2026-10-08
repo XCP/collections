@@ -361,10 +361,6 @@
       "asset": "FAKEASF",
       "attributes": [
         {
-          "trait_type": "Artist",
-          "value": "Community Created"
-        },
-        {
           "trait_type": "Series",
           "value": 1
         },
@@ -377,10 +373,6 @@
     {
       "asset": "FAKETORCH",
       "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Community Created"
-        },
         {
           "trait_type": "Series",
           "value": 1
@@ -8011,10 +8003,6 @@
       "asset": "QUEENASF",
       "attributes": [
         {
-          "trait_type": "Artist",
-          "value": "Community Created"
-        },
-        {
           "trait_type": "Series",
           "value": 10
         },
@@ -9744,10 +9732,6 @@
     {
       "asset": "FAKEMIAMI",
       "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Community Created"
-        },
         {
           "trait_type": "Series",
           "value": 12

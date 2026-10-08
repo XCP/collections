@@ -10,6 +10,7 @@ import {
   materializeCollection,
   materializeRepository,
   normalizeCollectionMeta,
+  blockedCreditIssues,
   normalizeAssets,
   numericAssetIssues,
   normalizeFeedV1,
@@ -442,4 +443,17 @@ test("a subasset is listed by longname, and every numeric id is a known plain nu
     "subasset-by-id: A14280199102303321034 is the subasset BLUEBEAR.AOIKUMA; list it by that longname",
     "unknown: A11111111111111111111 is not in data/numeric-assets.json; run npm run numeric:resolve",
   ]);
+});
+
+test("blocked artist credits are rejected case-insensitively", (t) => {
+  const root = mkdtempSync(join(tmpdir(), "blocked-credits-"));
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  mkdirSync(join(root, "data"));
+  writeFileSync(join(root, "data", "blocked-artist-credits.json"), JSON.stringify({ credits: ["unknown", "hairpepe"] }));
+  const collections = [{ slug: "cards", assets: [
+    { asset: "HAIRPEPE", attributes: [{ trait_type: "Artist", value: "Hairpepe" }] },
+    { asset: "PEPECASH", attributes: [{ trait_type: "Artist", value: " UNKNOWN " }] },
+    { asset: "RAREPEPE", attributes: [{ trait_type: "Artist", value: "Rare Scrilla" }, { trait_type: "Card", value: "Unknown" }] },
+  ] }];
+  assert.deepEqual(blockedCreditIssues(root, collections).map((issue) => issue.split(" credits")[0]), ["cards: HAIRPEPE", "cards: PEPECASH"]);
 });
