@@ -2684,6 +2684,120 @@
     },
     {
       "asset": "ZEROPHOCKSII.SERSMOKE"
+    },
+    {
+      "asset": "TWOSVENPHOCK.FREDDIEMERCURY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
+    },
+    {
+      "asset": "NOPHOCKGIVEN.MOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "animalspirits"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.QUANTUM_-_NAMECOIN_VERSION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.GORILLAGLUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.MOURNINGMOOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPHOCKS.ETHERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPHOCKS.CHAMPAGNETNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPHOCKS.BLOCKPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKHORROR.DARACULA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKMEMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "ZEROPHOCKSII.BRITNEY"
+    },
+    {
+      "asset": "ZEROPHOCKSII.PHOCTAGON"
+    },
+    {
+      "asset": "ZEROPHOCKSII.FCRAIG"
+    },
+    {
+      "asset": "ZEROPHOCKSII.FSMOKEY"
+    },
+    {
+      "asset": "ZEROPHOCKSII.SASUKE"
+    },
+    {
+      "asset": "ZEROPHOCKSII.NARUTO"
+    },
+    {
+      "asset": "PHOCKGOTCHI.MAMEKOTCHI"
+    },
+    {
+      "asset": "LILPHOCKERS.WWOMAN"
     }
   ]
 }

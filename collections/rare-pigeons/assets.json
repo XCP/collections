@@ -977,6 +977,57 @@
     },
     {
       "asset": "XRPIGEON"
+    },
+    {
+      "asset": "PIGEONMSN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "PIGEONNOMAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "PGNAFROVIBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "PGNINTENSIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "PIGEONOPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "BARPIGEON"
+    },
+    {
+      "asset": "PIGEONFUNN"
     }
   ]
 }

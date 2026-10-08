@@ -611,6 +611,24 @@
     },
     {
       "asset": "WASTED.BERNIE"
+    },
+    {
+      "asset": "FUCKED.MMFCKED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
+    },
+    {
+      "asset": "FUCKED.INSANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     }
   ]
 }
