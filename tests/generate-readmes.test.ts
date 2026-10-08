@@ -25,7 +25,7 @@ test("generated collection facts replace generic headings and remain idempotent"
 
   assert.match(rendered, /^# Rare Pepe$/m);
   assert.match(rendered, /\| Membership \| 1,774 assets \|/);
-  assert.match(rendered, /Artist: 1,223\/1,774 \(68.9%\)/);
+  assert.match(rendered, /Artist: 1,220\/1,774 \(68.8%\)/);
   assert.match(rendered, /Human-maintained guidance\./);
   assert.equal(renderCollectionReadme(repositoryRoot, collection, rendered), rendered);
 });

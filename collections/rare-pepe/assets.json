@@ -260,10 +260,6 @@
       "asset": "PEPETRATION",
       "attributes": [
         {
-          "trait_type": "Artist",
-          "value": "Anon"
-        },
-        {
           "trait_type": "Series",
           "value": 1
         },
@@ -293,10 +289,6 @@
     {
       "asset": "HAIRPEPE",
       "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Hairpepe"
-        },
         {
           "trait_type": "Series",
           "value": 1
@@ -4935,10 +4927,6 @@
     {
       "asset": "BREATHEDPEPE",
       "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Hairpepe"
-        },
         {
           "trait_type": "Series",
           "value": 7

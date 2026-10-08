@@ -1,0 +1,18 @@
+{
+  "note": "Artist trait values that name no artist, or a wrong name. Validation rejects them (case-insensitive). Leave the trait off when the artist is unknown.",
+  "credits": [
+    "anon",
+    "anonymous",
+    "community created",
+    "hairpepe",
+    "multiple artists",
+    "multipleartists",
+    "n/a",
+    "none",
+    "tba",
+    "tbd",
+    "unknown",
+    "various",
+    "various artists"
+  ]
+}
