@@ -5,26 +5,26 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 88 |
-| Canonical collections | 87 |
+| Collections | 89 |
+| Canonical collections | 88 |
 | Curated views | 1 |
-| Explicit unique assets | 27,141 |
-| Explicit collection memberships | 27,524 |
-| Primary memberships | 27,141 |
+| Explicit unique assets | 27,147 |
+| Explicit collection memberships | 27,530 |
+| Primary memberships | 27,147 |
 | Secondary or curated memberships | 383 |
-| Memberships with traits | 10,307 |
+| Memberships with traits | 10,313 |
 
 | Membership source | Collections |
 | --- | ---: |
 | Reviewed static `assets.json` | 86 |
-| Collection or computed adapters | 1 |
+| Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
 | Available aggregators | 3 |
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Artist, Attack, Card, Chapter, Date, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Type, Year.
+Trait types: ATK, Affiliation, Artist, Attack, Backdrop, Banner, Battle scar, Body, Build boost, Car, Card, Chapter, Condition, Date, Edition, Element, Emoji, Engine, Finish, First pull, Founder plate, Front, Glow, HP, Health, ID, Inside, Kaleidoscope ID, Last race, Lights, Month, Name, Nitro, Odometer, Paint, Pioneer, Podium, Power, Rarity, Rear, Record, Roof, SPD, Season, Season part, Series, Speed, Stance, Standing, Story, Tint, Tires, Type, VIN, VTEC, Victory Lap, Wear, Weight reduction, Wheels, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->
