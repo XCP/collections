@@ -11,6 +11,7 @@ import {
   materializeRepository,
   normalizeCollectionMeta,
   normalizeAssets,
+  numericAssetIssues,
   normalizeFeedV1,
   readCollectionAssets,
   resolveAggregatorAdapterPath,
@@ -425,4 +426,20 @@ test("an Artist trait may not be a Bitcoin address", () => {
     normalizeAssets([{ asset: "RAREPEPE", attributes: [{ trait_type: "Artist", value: "Rare Scrilla" }] }])[0].attributes,
     [{ trait_type: "Artist", value: "Rare Scrilla" }],
   );
+});
+
+test("a subasset is listed by longname, and every numeric id is a known plain numeric asset", (t) => {
+  const root = mkdtempSync(join(tmpdir(), "numeric-assets-"));
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  mkdirSync(join(root, "data"));
+  writeFileSync(join(root, "data", "numeric-assets.json"), JSON.stringify({ A95428957753448833: null, A14280199102303321034: "BLUEBEAR.AOIKUMA" }));
+  const collections = [
+    { slug: "plain", assets: [{ asset: "A95428957753448833" }, { asset: "RAREPEPE" }, { asset: "BLUEBEAR.AOIKUMA" }] },
+    { slug: "subasset-by-id", assets: [{ asset: "A14280199102303321034" }] },
+    { slug: "unknown", assets: [{ asset: "A11111111111111111111" }] },
+  ];
+  assert.deepEqual(numericAssetIssues(root, collections), [
+    "subasset-by-id: A14280199102303321034 is the subasset BLUEBEAR.AOIKUMA; list it by that longname",
+    "unknown: A11111111111111111111 is not in data/numeric-assets.json; run npm run numeric:resolve",
+  ]);
 });

@@ -561,6 +561,33 @@ export function applySecondaryOnOverlap(collections) {
   return collections;
 }
 
+const NUMERIC_MAP = "data/numeric-assets.json";
+
+/**
+ * A subasset has two spellings: its longname and its numeric id. Written both
+ * ways in two collections, one asset would have two primary homes that no
+ * string comparison sees. Subassets are therefore always listed by longname,
+ * and every numeric id in a static list must be a known plain numeric asset in
+ * data/numeric-assets.json (id -> null, or id -> longname for a subasset).
+ * `npm run numeric:resolve` adds new ids from Counterparty.
+ */
+export function numericAssetIssues(repositoryRoot, collections) {
+  const path = join(repositoryRoot, NUMERIC_MAP);
+  const map = existsSync(path) ? parseJsonFile(path, NUMERIC_MAP) : {};
+  const issues = [];
+  for (const collection of collections) {
+    for (const entry of collection.assets ?? []) {
+      if (!NUMERIC_ASSET.test(entry.asset)) continue;
+      if (!Object.hasOwn(map, entry.asset)) {
+        issues.push(`${collection.slug}: ${entry.asset} is not in ${NUMERIC_MAP}; run npm run numeric:resolve`);
+      } else if (typeof map[entry.asset] === "string") {
+        issues.push(`${collection.slug}: ${entry.asset} is the subasset ${map[entry.asset]}; list it by that longname`);
+      }
+    }
+  }
+  return issues;
+}
+
 /** Validate checked-in metadata and static membership without network calls. */
 export async function validateRepositoryMetadata({ repositoryRoot = process.cwd() } = {}) {
   const collections = [];
@@ -589,6 +616,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
       else issues.push(`${slug}: ${error.message}`);
     }
   }
+  issues.push(...numericAssetIssues(repositoryRoot, collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
   const explicitCollections = collections.filter((collection) => collection.assets !== undefined);
