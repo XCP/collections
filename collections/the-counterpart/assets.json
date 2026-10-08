@@ -1,697 +1,2101 @@
 {
   "assets": [
     {
-      "asset": "A13371337133713371337"
-    },
-    {
-      "asset": "BEEDRILL"
-    },
-    {
-      "asset": "BELLSPROUT"
-    },
-    {
-      "asset": "BESTBUY"
-    },
-    {
-      "asset": "BLASTOISE"
-    },
-    {
-      "asset": "BONSAI"
-    },
-    {
-      "asset": "BTCGIFT"
-    },
-    {
-      "asset": "BTCGIFTCARD"
-    },
-    {
-      "asset": "BTCGIFTCARDS"
-    },
-    {
-      "asset": "BUBU"
-    },
-    {
-      "asset": "BULBASAUR"
-    },
-    {
-      "asset": "BURNBABYBURN"
-    },
-    {
-      "asset": "BUTTERFREE"
-    },
-    {
-      "asset": "CATERPIE"
-    },
-    {
-      "asset": "CAVECOIN"
-    },
-    {
-      "asset": "CHANSEY"
-    },
-    {
-      "asset": "CHARIZARD"
-    },
-    {
-      "asset": "CHARMANDER"
-    },
-    {
-      "asset": "CHARMELEON"
-    },
-    {
-      "asset": "CHERNOBYL"
-    },
-    {
-      "asset": "CLEFABLE"
-    },
-    {
-      "asset": "CLEFAIRY"
-    },
-    {
-      "asset": "CLOYSTER"
-    },
-    {
-      "asset": "CRYPTOFAIR"
-    },
-    {
-      "asset": "CUBONE"
-    },
-    {
-      "asset": "CVCV"
-    },
-    {
-      "asset": "DEATHRALLY"
-    },
-    {
-      "asset": "DEWGONG"
-    },
-    {
-      "asset": "DIGICOIN"
-    },
-    {
-      "asset": "DIGIMON"
-    },
-    {
-      "asset": "DIGIMONCOIN"
-    },
-    {
-      "asset": "DIGLETT"
-    },
-    {
-      "asset": "DODRIO"
-    },
-    {
-      "asset": "DODUO"
-    },
-    {
-      "asset": "DORAEMON"
-    },
-    {
-      "asset": "DRAGONAIR"
-    },
-    {
-      "asset": "DRAGONITE"
-    },
-    {
-      "asset": "DRATINI"
-    },
-    {
-      "asset": "DROWZEE"
-    },
-    {
-      "asset": "DUGTRIO"
-    },
-    {
-      "asset": "EEVEE"
-    },
-    {
-      "asset": "EGOX"
-    },
-    {
-      "asset": "EKANS"
-    },
-    {
-      "asset": "ELECTABUZZ"
-    },
-    {
-      "asset": "ELECTRODE"
-    },
-    {
-      "asset": "EXEGGCUTE"
-    },
-    {
-      "asset": "EXEGGUTOR"
-    },
-    {
-      "asset": "FALK"
-    },
-    {
-      "asset": "FALKE"
-    },
-    {
-      "asset": "FARFETCHD"
-    },
-    {
-      "asset": "FEAROW"
-    },
-    {
-      "asset": "FLAREON"
-    },
-    {
-      "asset": "FREY"
-    },
-    {
-      "asset": "GAMEOFTHRONE"
-    },
-    {
-      "asset": "GAMEROOM"
-    },
-    {
-      "asset": "GASTLY"
-    },
-    {
-      "asset": "GENGAR"
-    },
-    {
-      "asset": "GEOCACHES"
-    },
-    {
-      "asset": "GEODUDE"
-    },
-    {
-      "asset": "GHOSTS"
-    },
-    {
-      "asset": "GHOSTSATOSHI"
-    },
-    {
-      "asset": "GIFT"
-    },
-    {
-      "asset": "GIFTCARD"
-    },
-    {
-      "asset": "GIFTCARDS"
-    },
-    {
-      "asset": "GLASS"
-    },
-    {
-      "asset": "GLOOM"
-    },
-    {
-      "asset": "GOLBAT"
-    },
-    {
-      "asset": "GOLDEEN"
-    },
-    {
-      "asset": "GOLDUCK"
-    },
-    {
-      "asset": "GOLEM"
-    },
-    {
-      "asset": "GRAVELER"
-    },
-    {
-      "asset": "GRIMER"
-    },
-    {
-      "asset": "GROWLITHE"
-    },
-    {
-      "asset": "GYARADOS"
-    },
-    {
-      "asset": "HARA"
-    },
-    {
-      "asset": "HARAKIRI"
-    },
-    {
-      "asset": "HAUNTER"
-    },
-    {
-      "asset": "HITMONCHAN"
-    },
-    {
-      "asset": "HITMONLEE"
-    },
-    {
-      "asset": "HORSEA"
-    },
-    {
-      "asset": "HYPNO"
-    },
-    {
-      "asset": "IRON"
-    },
-    {
-      "asset": "IVYSAUR"
-    },
-    {
-      "asset": "JIGGLYPUFF"
-    },
-    {
-      "asset": "JOLTEON"
-    },
-    {
-      "asset": "JYNX"
-    },
-    {
-      "asset": "KABUTO"
-    },
-    {
-      "asset": "KABUTOPS"
-    },
-    {
-      "asset": "KADABRA"
-    },
-    {
-      "asset": "KAKUNA"
-    },
-    {
-      "asset": "KANA"
-    },
-    {
-      "asset": "KANGASKHAN"
-    },
-    {
-      "asset": "KINGLER"
-    },
-    {
-      "asset": "KINGOFTHESOG"
-    },
-    {
-      "asset": "KOFFING"
-    },
-    {
-      "asset": "KOTH"
-    },
-    {
-      "asset": "KRABBY"
-    },
-    {
-      "asset": "KUDO"
-    },
-    {
-      "asset": "KURO"
-    },
-    {
-      "asset": "LAPRAS"
-    },
-    {
-      "asset": "LIAN"
-    },
-    {
-      "asset": "LICKITUNG"
-    },
-    {
-      "asset": "LOTR"
-    },
-    {
-      "asset": "MACHAMP"
-    },
-    {
-      "asset": "MACHOKE"
-    },
-    {
-      "asset": "MACHOP"
-    },
-    {
-      "asset": "MAGIKARP"
-    },
-    {
-      "asset": "MAGMAR"
-    },
-    {
-      "asset": "MAGNEMITE"
-    },
-    {
-      "asset": "MAGNETON"
-    },
-    {
-      "asset": "MAKI"
-    },
-    {
-      "asset": "MANKEY"
-    },
-    {
-      "asset": "MAROWAK"
-    },
-    {
-      "asset": "MAYU"
-    },
-    {
-      "asset": "MEOWTH"
-    },
-    {
-      "asset": "METAPOD"
-    },
-    {
-      "asset": "MEWTWO"
-    },
-    {
-      "asset": "MEWX"
-    },
-    {
-      "asset": "MIKI"
-    },
-    {
-      "asset": "MIYU"
-    },
-    {
-      "asset": "MOLTRES"
-    },
-    {
-      "asset": "MORS"
-    },
-    {
-      "asset": "MRMIME"
-    },
-    {
-      "asset": "NAGA"
-    },
-    {
-      "asset": "NAGI"
-    },
-    {
-      "asset": "NIDOKING"
-    },
-    {
-      "asset": "NIDOQUEEN"
-    },
-    {
-      "asset": "NIDORAN"
-    },
-    {
-      "asset": "NIDORANMALE"
-    },
-    {
-      "asset": "NIDORINA"
-    },
-    {
-      "asset": "NIDORINO"
-    },
-    {
-      "asset": "NIKKOLE"
-    },
-    {
-      "asset": "NINETALES"
-    },
-    {
-      "asset": "ODDISH"
-    },
-    {
-      "asset": "OMANYTE"
-    },
-    {
-      "asset": "OMASTAR"
-    },
-    {
-      "asset": "ONIX"
-    },
-    {
-      "asset": "PANU"
-    },
-    {
-      "asset": "PARAGLIDING"
-    },
-    {
-      "asset": "PARAS"
-    },
-    {
-      "asset": "PARASECT"
-    },
-    {
-      "asset": "PERSIAN"
-    },
-    {
-      "asset": "PIDGEOT"
-    },
-    {
-      "asset": "PIDGEOTTO"
-    },
-    {
-      "asset": "PIDGEY"
-    },
-    {
-      "asset": "PIKACHU"
-    },
-    {
-      "asset": "PINSIR"
-    },
-    {
-      "asset": "POKECOIN"
-    },
-    {
-      "asset": "POKEMON"
-    },
-    {
-      "asset": "POKEMONCOIN"
-    },
-    {
-      "asset": "POKEMONEGG"
-    },
-    {
-      "asset": "POKEMONEGGS"
-    },
-    {
-      "asset": "POLIWAG"
-    },
-    {
-      "asset": "POLIWHIRL"
-    },
-    {
-      "asset": "POLIWRATH"
-    },
-    {
-      "asset": "PONYTA"
-    },
-    {
-      "asset": "PORYGON"
-    },
-    {
-      "asset": "PRIMEAPE"
-    },
-    {
-      "asset": "PSYDUCK"
-    },
-    {
-      "asset": "PUTIN"
-    },
-    {
-      "asset": "RAICHU"
-    },
-    {
-      "asset": "RAPIDASH"
-    },
-    {
-      "asset": "RATICATE"
-    },
-    {
-      "asset": "RATTATA"
-    },
-    {
-      "asset": "RHYDON"
-    },
-    {
-      "asset": "RHYHORN"
-    },
-    {
-      "asset": "RINA"
-    },
-    {
-      "asset": "SAKAMOTO"
-    },
-    {
-      "asset": "SANDSHREW"
-    },
-    {
-      "asset": "SANDSLASH"
-    },
-    {
-      "asset": "SATO"
-    },
-    {
-      "asset": "SAWA"
-    },
-    {
-      "asset": "SCYTHER"
-    },
-    {
-      "asset": "SEADRA"
-    },
-    {
-      "asset": "SEAKING"
-    },
-    {
-      "asset": "SEEL"
-    },
-    {
-      "asset": "SHELLDER"
-    },
-    {
-      "asset": "SKYDIVING"
-    },
-    {
-      "asset": "SLOWBRO"
-    },
-    {
-      "asset": "SLOWPOKE"
-    },
-    {
-      "asset": "SNORLAX"
-    },
-    {
-      "asset": "SPEAROW"
-    },
-    {
-      "asset": "SQUIRTLE"
-    },
-    {
-      "asset": "STARMIE"
-    },
-    {
-      "asset": "STARYU"
-    },
-    {
-      "asset": "SUZU"
-    },
-    {
-      "asset": "TAMAGOTCHI"
-    },
-    {
-      "asset": "TANGELA"
-    },
-    {
-      "asset": "TAUROS"
-    },
-    {
-      "asset": "TENTACOOL"
-    },
-    {
-      "asset": "TENTACRUEL"
-    },
-    {
-      "asset": "VAPOREON"
-    },
-    {
-      "asset": "VENOMOTH"
-    },
-    {
-      "asset": "VENONAT"
-    },
-    {
-      "asset": "VENUSAUR"
-    },
-    {
-      "asset": "VIAPLAY"
-    },
-    {
-      "asset": "VICTREEBEL"
-    },
-    {
-      "asset": "VILEPLUME"
-    },
-    {
-      "asset": "VOLTORB"
-    },
-    {
-      "asset": "VRAR"
-    },
-    {
-      "asset": "VRCASINO"
-    },
-    {
-      "asset": "VULPIX"
-    },
-    {
-      "asset": "WARTORTLE"
-    },
-    {
-      "asset": "WEEDLE"
-    },
-    {
-      "asset": "WEEPINBELL"
-    },
-    {
-      "asset": "WEEZING"
-    },
-    {
-      "asset": "WIGGLYTUFF"
-    },
-    {
-      "asset": "WINGSUIT"
-    },
-    {
-      "asset": "XABRAX"
-    },
-    {
-      "asset": "XAERODACTYL"
-    },
-    {
-      "asset": "XALAKAZAM"
-    },
-    {
-      "asset": "XARBOK"
-    },
-    {
-      "asset": "XARCANINE"
-    },
-    {
-      "asset": "XARTICUNO"
-    },
-    {
-      "asset": "XDITTO"
-    },
-    {
-      "asset": "XEGO"
-    },
-    {
-      "asset": "XFUCK"
-    },
-    {
-      "asset": "XKHL"
-    },
-    {
-      "asset": "XLOVE"
-    },
-    {
-      "asset": "XMEM"
-    },
-    {
-      "asset": "XMUK"
-    },
-    {
-      "asset": "XOMX"
-    },
-    {
-      "asset": "XOYJ"
-    },
-    {
-      "asset": "XREN"
-    },
-    {
-      "asset": "YABA"
-    },
-    {
-      "asset": "YUKA"
-    },
-    {
-      "asset": "YUKI"
-    },
-    {
-      "asset": "YUME"
-    },
-    {
-      "asset": "ZAPDOS"
-    },
-    {
-      "asset": "ZINZINO"
-    },
-    {
-      "asset": "ZUBAT"
+      "asset": "A13371337133713371337",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BEEDRILL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "BELLSPROUT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "BESTBUY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BLASTOISE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "BONSAI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BTCGIFT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BTCGIFTCARD",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BTCGIFTCARDS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BUBU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BULBASAUR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "BURNBABYBURN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "BUTTERFREE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CATERPIE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CAVECOIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "CHANSEY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CHARIZARD",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CHARMANDER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CHARMELEON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CHERNOBYL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "CLEFABLE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CLEFAIRY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CLOYSTER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CRYPTOFAIR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "CUBONE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "CVCV",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "DEATHRALLY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "DEWGONG",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DIGICOIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "DIGIMON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "DIGIMONCOIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "DIGLETT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DODRIO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DODUO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DORAEMON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "DRAGONAIR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DRAGONITE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DRATINI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DROWZEE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "DUGTRIO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "EEVEE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "EGOX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "EKANS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "ELECTABUZZ",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "ELECTRODE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "EXEGGCUTE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "EXEGGUTOR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "FALK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "FALKE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "FARFETCHD",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "FEAROW",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "FLAREON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "FREY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "GAMEOFTHRONE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GAMEROOM",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GASTLY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GENGAR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GEOCACHES",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GEODUDE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GHOSTS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GHOSTSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GIFT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GIFTCARD",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GIFTCARDS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GLASS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "GLOOM",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GOLBAT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GOLDEEN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GOLDUCK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GOLEM",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GRAVELER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GRIMER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GROWLITHE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "GYARADOS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "HARA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "HARAKIRI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "HAUNTER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "HITMONCHAN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "HITMONLEE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "HORSEA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "HYPNO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "IRON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "IVYSAUR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "JIGGLYPUFF",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "JOLTEON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "JYNX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KABUTO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KABUTOPS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KADABRA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KAKUNA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KANA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "KANGASKHAN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KINGLER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KINGOFTHESOG",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "KOFFING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KOTH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "KRABBY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "KUDO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "KURO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "LAPRAS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "LIAN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "LICKITUNG",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "LOTR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MACHAMP",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MACHOKE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MACHOP",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAGIKARP",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAGMAR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAGNEMITE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAGNETON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAKI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MANKEY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAROWAK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MAYU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MEOWTH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "METAPOD",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MEWTWO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MEWX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MIKI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MIYU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MOLTRES",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "MORS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "MRMIME",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NAGA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "NAGI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "NIDOKING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIDOQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIDORAN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIDORANMALE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIDORINA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIDORINO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NIKKOLE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "NINETALES",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "ODDISH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "OMANYTE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "OMASTAR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "ONIX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PANU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "PARAGLIDING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "PARAS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PARASECT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PERSIAN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PIDGEOT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PIDGEOTTO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PIDGEY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PIKACHU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PINSIR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "POKECOIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "POKEMON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "POKEMONCOIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "POKEMONEGG",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 2"
+        }
+      ]
+    },
+    {
+      "asset": "POKEMONEGGS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 2"
+        }
+      ]
+    },
+    {
+      "asset": "POLIWAG",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "POLIWHIRL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "POLIWRATH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PONYTA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PORYGON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PRIMEAPE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PSYDUCK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "PUTIN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "RAICHU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RAPIDASH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RATICATE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RATTATA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RHYDON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RHYHORN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "RINA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "SAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "SANDSHREW",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SANDSLASH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SATO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "SAWA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "SCYTHER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SEADRA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SEAKING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SEEL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SHELLDER",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SKYDIVING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "SLOWBRO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SLOWPOKE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SNORLAX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SPEAROW",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SQUIRTLE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "STARMIE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "STARYU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "SUZU",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "TAMAGOTCHI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "TANGELA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "TAUROS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "TENTACOOL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "TENTACRUEL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VAPOREON",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VENOMOTH",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VENONAT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VENUSAUR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VIAPLAY",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "VICTREEBEL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VILEPLUME",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VOLTORB",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "VRAR",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "VRCASINO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "VULPIX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WARTORTLE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WEEDLE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WEEPINBELL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WEEZING",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WIGGLYTUFF",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "WINGSUIT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "XABRAX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XAERODACTYL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XALAKAZAM",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XARBOK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XARCANINE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XARTICUNO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XDITTO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XEGO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "XFUCK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "XKHL",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "XLOVE",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "XMEM",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "XMUK",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "XOMX",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "XOYJ",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "XREN",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "YABA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "YUKA",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "YUKI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "YUME",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Legacy"
+        }
+      ]
+    },
+    {
+      "asset": "ZAPDOS",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "ZINZINO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "ZUBAT",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Generation 1"
+        }
+      ]
+    },
+    {
+      "asset": "NAKA.MOTO",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
+    },
+    {
+      "asset": "SATO.SHI",
+      "attributes": [
+        {
+          "trait_type": "Season",
+          "value": "Genesis"
+        }
+      ]
     }
   ]
 }
