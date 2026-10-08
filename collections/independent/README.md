@@ -1,4 +1,4 @@
-# Independent
+# Counterparty
 
 <!-- collection-facts:start -->
 ## Registry facts
