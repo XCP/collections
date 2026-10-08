@@ -1,4 +1,4 @@
-# STAMPunks
+# UTXO Bots
 
 <!-- collection-facts:start -->
 ## Registry facts
@@ -6,9 +6,9 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 9,992 assets |
-| Primary memberships | 9,992 |
+| Membership | 366 assets |
+| Primary memberships | 366 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Artist: 366/366 (100%) |
 <!-- collection-facts:end -->
