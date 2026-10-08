@@ -1,4 +1,4 @@
-# MODERNRARE
+# Modern Rare
 
 <!-- collection-facts:start -->
 ## Registry facts

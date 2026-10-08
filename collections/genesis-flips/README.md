@@ -1,4 +1,4 @@
-# GENESISFLIPS
+# Genesis Flips
 
 <!-- collection-facts:start -->
 ## Registry facts
