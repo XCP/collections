@@ -5,19 +5,19 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 87 |
-| Canonical collections | 85 |
-| Curated views | 2 |
-| Explicit unique assets | 27,128 |
-| Explicit collection memberships | 27,511 |
-| Primary memberships | 27,128 |
+| Collections | 88 |
+| Canonical collections | 87 |
+| Curated views | 1 |
+| Explicit unique assets | 27,139 |
+| Explicit collection memberships | 27,522 |
+| Primary memberships | 27,139 |
 | Secondary or curated memberships | 383 |
-| Memberships with traits | 10,068 |
+| Memberships with traits | 10,074 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 84 |
-| Collection or computed adapters | 2 |
+| Reviewed static `assets.json` | 86 |
+| Collection or computed adapters | 1 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
 | Available aggregators | 3 |
@@ -74,7 +74,6 @@ Useful examples:
 
 - [Age of Rust](collections/age-of-rust/) uses a small static `assets.json`.
 - [Kaleidoscope](collections/kaleidoscope/) uses a collection API adapter.
-- [Pre-Ethereum](collections/pre-ethereum/) is a computed curated view.
 - [Bitcoin Stamps](collections/bitcoin-stamps/) documents marketplace-indexed membership.
 
 ### Collection metadata
