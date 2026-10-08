@@ -5096,6 +5096,90 @@
           "value": 50
         }
       ]
+    },
+    {
+      "asset": "WOJACKBLACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
+    },
+    {
+      "asset": "WHERESWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
+    },
+    {
+      "asset": "MOONLOVERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
+    },
+    {
+      "asset": "HITTHEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "NFTWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKRICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
+    },
+    {
+      "asset": "HUMANWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKVISION"
+    },
+    {
+      "asset": "MASKKOJAK"
+    },
+    {
+      "asset": "THEFEELSBOOK"
+    },
+    {
+      "asset": "PEPEVONWOJAK"
+    },
+    {
+      "asset": "YOURASSET"
+    },
+    {
+      "asset": "UFOWOJAK"
+    },
+    {
+      "asset": "WOJAKALONE"
     }
   ]
 }

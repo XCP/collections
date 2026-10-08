@@ -6,9 +6,9 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 77 assets |
-| Primary memberships | 76 |
+| Membership | 79 assets |
+| Primary memberships | 78 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 16/77 (20.8%) |
+| Traits | Artist: 18/79 (22.8%) |
 <!-- collection-facts:end -->

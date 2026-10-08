@@ -6,8 +6,8 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 15 assets |
-| Primary memberships | 15 |
+| Membership | 16 assets |
+| Primary memberships | 16 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
 | Traits | None |

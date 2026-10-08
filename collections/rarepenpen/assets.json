@@ -327,6 +327,24 @@
     },
     {
       "asset": "ZOROPENPEN"
+    },
+    {
+      "asset": "PENPENNAMING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "PENHELPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     }
   ]
 }

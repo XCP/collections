@@ -284,6 +284,64 @@
     },
     {
       "asset": "YOUNAT"
+    },
+    {
+      "asset": "PEMBLEMVAULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        }
+      ]
+    },
+    {
+      "asset": "GIFTGOATS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
+        }
+      ]
+    },
+    {
+      "asset": "UNATCREDITS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        }
+      ]
+    },
+    {
+      "asset": "UNATJEANPHIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        }
+      ]
+    },
+    {
+      "asset": "UNATOMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        }
+      ]
+    },
+    {
+      "asset": "UNATDUCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JOE ATANG"
+        }
+      ]
     }
   ]
 }
