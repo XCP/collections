@@ -67,7 +67,13 @@
       "asset": "NEVERSURRNDR"
     },
     {
-      "asset": "NICEWINGLIZ"
+      "asset": "NICEWINGLIZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "NOCRYPTOPUNK"
@@ -100,7 +106,13 @@
       "asset": "SOGKO"
     },
     {
-      "asset": "SOGLOTUS"
+      "asset": "SOGLOTUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "STABLECOIN"

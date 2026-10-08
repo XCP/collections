@@ -7,7 +7,13 @@
       "asset": "CURSEBABYFY"
     },
     {
-      "asset": "DROOLPNCHKIN"
+      "asset": "DROOLPNCHKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "FAKEALITY"
@@ -16,7 +22,13 @@
       "asset": "FAKEMUNCHKIN"
     },
     {
-      "asset": "FAKEMUTNTAPE"
+      "asset": "FAKEMUTNTAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
     },
     {
       "asset": "FAKEORB"
@@ -25,7 +37,13 @@
       "asset": "FAKEPEPPEY"
     },
     {
-      "asset": "FAKETRACTION"
+      "asset": "FAKETRACTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "FAKETREASURE"
@@ -37,19 +55,43 @@
       "asset": "GHCP"
     },
     {
-      "asset": "INCEPTCHKIN"
+      "asset": "INCEPTCHKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "MOONCHKIN"
+      "asset": "MOONCHKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
-      "asset": "MUNCHCLONEX"
+      "asset": "MUNCHCLONEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "MUNCHGOBLIN"
     },
     {
-      "asset": "MUNCHIEF"
+      "asset": "MUNCHIEF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "MUNCHKAMOTO"
@@ -58,19 +100,43 @@
       "asset": "NFTCOLLECTOR"
     },
     {
-      "asset": "OBILISIMUNCH"
+      "asset": "OBILISIMUNCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
-      "asset": "PEPEAQUA"
+      "asset": "PEPEAQUA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoAli"
+        }
+      ]
     },
     {
-      "asset": "PEPETHETHING"
+      "asset": "PEPETHETHING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SHEWOLF"
+        }
+      ]
     },
     {
       "asset": "PEREDEATH"
     },
     {
-      "asset": "RAGNARMNCHKN"
+      "asset": "RAGNARMNCHKN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "REDCANDLE"
@@ -79,7 +145,13 @@
       "asset": "ROCKETTPEPE"
     },
     {
-      "asset": "TADWING"
+      "asset": "TADWING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
     }
   ]
 }

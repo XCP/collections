@@ -1,10 +1,22 @@
 {
   "assets": [
     {
-      "asset": "BABYSANTA"
+      "asset": "BABYSANTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "BAMBII"
+      "asset": "BAMBII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "BEARRATCD"
@@ -13,31 +25,79 @@
       "asset": "BEARSLAYER"
     },
     {
-      "asset": "BEARSOUL"
+      "asset": "BEARSOUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "BITGATE"
+      "asset": "BITGATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "BITGEMZ"
     },
     {
-      "asset": "BITRAILSCD"
+      "asset": "BITRAILSCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "BLACKROCKGLM"
+      "asset": "BLACKROCKGLM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "BLOCKDEMON"
+      "asset": "BLOCKDEMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "BLOCKI"
+      "asset": "BLOCKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "BOAFAUX"
+      "asset": "BOAFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "BOBOSDOCTOR"
+      "asset": "BOBOSDOCTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "BONKSCALL"
@@ -49,10 +109,22 @@
       "asset": "BOSSBABY"
     },
     {
-      "asset": "BOXOTREASURE"
+      "asset": "BOXOTREASURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
-      "asset": "BRDLSSCRN"
+      "asset": "BRDLSSCRN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "BRUTALRULER"
@@ -61,13 +133,25 @@
       "asset": "CARMERCHANT"
     },
     {
-      "asset": "CATTAMER"
+      "asset": "CATTAMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
       "asset": "CCSATOSHI"
     },
     {
-      "asset": "CKANDCORNCD"
+      "asset": "CKANDCORNCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "COBRA.hypnotized"
@@ -79,7 +163,13 @@
       "asset": "CONCEPTCARD"
     },
     {
-      "asset": "COUNTERWRATH"
+      "asset": "COUNTERWRATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
       "asset": "CPALCHEMIST"
@@ -88,7 +178,13 @@
       "asset": "CRYSTLMASTER"
     },
     {
-      "asset": "CULTOFTHEV"
+      "asset": "CULTOFTHEV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "DANKHUNTERS"
@@ -100,16 +196,34 @@
       "asset": "DARKSCOPE"
     },
     {
-      "asset": "DEMOMENT"
+      "asset": "DEMOMENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "DESTROYERCD"
+      "asset": "DESTROYERCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "DOLLARPEP"
     },
     {
-      "asset": "DORGENERAL"
+      "asset": "DORGENERAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "DRAGONFIRE"
@@ -118,19 +232,43 @@
       "asset": "DRAGONSFREED"
     },
     {
-      "asset": "EMPENPEN"
+      "asset": "EMPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
-      "asset": "ERMAGHERDCD"
+      "asset": "ERMAGHERDCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ]
     },
     {
       "asset": "ETHERYUMCARD"
     },
     {
-      "asset": "ETHXCPARTII"
+      "asset": "ETHXCPARTII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "FARMORDINAL"
+      "asset": "FARMORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FATHEROFDOGE"
@@ -139,7 +277,13 @@
       "asset": "FAUXAGBE"
     },
     {
-      "asset": "FAUXAI"
+      "asset": "FAUXAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXALCHEMY"
@@ -148,25 +292,55 @@
       "asset": "FAUXALICE"
     },
     {
-      "asset": "FAUXALIENS"
+      "asset": "FAUXALIENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FAUXANGEL"
     },
     {
-      "asset": "FAUXANGELF"
+      "asset": "FAUXANGELF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "FAUXARES"
+      "asset": "FAUXARES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXARMOURY"
     },
     {
-      "asset": "FAUXATDEPEPE"
+      "asset": "FAUXATDEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "FAUXATINA"
+      "asset": "FAUXATINA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXAZUKA"
@@ -175,10 +349,22 @@
       "asset": "FAUXBABEL"
     },
     {
-      "asset": "FAUXBASQ"
+      "asset": "FAUXBASQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXBAZAAR"
+      "asset": "FAUXBAZAAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXBEAST"
@@ -187,10 +373,22 @@
       "asset": "FAUXBIDDING"
     },
     {
-      "asset": "FAUXBONDTREE"
+      "asset": "FAUXBONDTREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAUXBOOK"
+      "asset": "FAUXBOOK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXBORGCUBE"
@@ -199,22 +397,58 @@
       "asset": "FAUXBOROMIR"
     },
     {
-      "asset": "FAUXBTCADICT"
+      "asset": "FAUXBTCADICT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXBUILDER"
+      "asset": "FAUXBUILDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "FAUXCARNAGE"
+      "asset": "FAUXCARNAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
-      "asset": "FAUXCASEY"
+      "asset": "FAUXCASEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Salva"
+        }
+      ]
     },
     {
-      "asset": "FAUXCASSO"
+      "asset": "FAUXCASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXCERBERUS"
+      "asset": "FAUXCERBERUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
       "asset": "FAUXCHEMIST"
@@ -226,109 +460,283 @@
       "asset": "FAUXCHURCH"
     },
     {
-      "asset": "FAUXCLAN"
+      "asset": "FAUXCLAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXCLOWN"
+      "asset": "FAUXCLOWN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "FAUXCOBBEE"
     },
     {
-      "asset": "FAUXCOIN"
+      "asset": "FAUXCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXCOMBAT"
+      "asset": "FAUXCOMBAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "FAUXCORNFUR"
+      "asset": "FAUXCORNFUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXCULT"
+      "asset": "FAUXCULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "FAUXDARKDRGN"
+      "asset": "FAUXDARKDRGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXDINGCARD"
+      "asset": "FAUXDINGCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "FAUXDIPER"
+      "asset": "FAUXDIPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXDRACULA"
+      "asset": "FAUXDRACULA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "FAUXDRIVER"
+      "asset": "FAUXDRIVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "FAUXELECTRON"
+      "asset": "FAUXELECTRON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "FAUXELON"
     },
     {
-      "asset": "FAUXFLAMEDRG"
+      "asset": "FAUXFLAMEDRG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXFRIENDS"
+      "asset": "FAUXFRIENDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "FAUXFRSTDRGN"
+      "asset": "FAUXFRSTDRGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXGABRIEL"
+      "asset": "FAUXGABRIEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXGAMERS"
     },
     {
-      "asset": "FAUXGATECARD"
+      "asset": "FAUXGATECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "FAUXGOD"
     },
     {
-      "asset": "FAUXGOLDFISH"
+      "asset": "FAUXGOLDFISH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "FAUXGRWLGR"
     },
     {
-      "asset": "FAUXHERO"
+      "asset": "FAUXHERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "FAUXHOMER"
+      "asset": "FAUXHOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "FAUXHOSPITAL"
+      "asset": "FAUXHOSPITAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXHYDRA"
+      "asset": "FAUXHYDRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXICEDRGN"
+      "asset": "FAUXICEDRGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXICITY"
+      "asset": "FAUXICITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAUXISLAND"
+      "asset": "FAUXISLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "FAUXJACK"
+      "asset": "FAUXJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXJAK"
+      "asset": "FAUXJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "FAUXKACHU"
+      "asset": "FAUXKACHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "FAUXKEEPER"
     },
     {
-      "asset": "FAUXKHALEESI"
+      "asset": "FAUXKHALEESI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXKIDUL"
@@ -346,25 +754,61 @@
       "asset": "FAUXLENOX"
     },
     {
-      "asset": "FAUXLIGHTDRG"
+      "asset": "FAUXLIGHTDRG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXLORDOO"
+      "asset": "FAUXLORDOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAUXLUNA"
+      "asset": "FAUXLUNA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "FAUXMARKET"
+      "asset": "FAUXMARKET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FAUXMEDUSA"
     },
     {
-      "asset": "FAUXMINER"
+      "asset": "FAUXMINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "FAUXMINOTAUR"
+      "asset": "FAUXMINOTAUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Salva"
+        }
+      ]
     },
     {
       "asset": "FAUXMOONGA"
@@ -376,28 +820,64 @@
       "asset": "FAUXMOTHER"
     },
     {
-      "asset": "FAUXMPIRE"
+      "asset": "FAUXMPIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "FAUXMSTR"
     },
     {
-      "asset": "FAUXMUSERATO"
+      "asset": "FAUXMUSERATO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXNAKA"
+      "asset": "FAUXNAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "FAUXNAKAROCK"
     },
     {
-      "asset": "FAUXNINJA"
+      "asset": "FAUXNINJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAUXNUNS"
+      "asset": "FAUXNUNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXORDINALS"
+      "asset": "FAUXORDINALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "FAUXORIGIN"
@@ -406,16 +886,34 @@
       "asset": "FAUXPATH"
     },
     {
-      "asset": "FAUXPRINCE"
+      "asset": "FAUXPRINCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "FAUXPUNK"
     },
     {
-      "asset": "FAUXPUNKSTER"
+      "asset": "FAUXPUNKSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "FAUXRABTLORD"
+      "asset": "FAUXRABTLORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXRAREAPE"
@@ -427,10 +925,22 @@
       "asset": "FAUXROCKPEEP"
     },
     {
-      "asset": "FAUXRONIN"
+      "asset": "FAUXRONIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
-      "asset": "FAUXRYLAKE"
+      "asset": "FAUXRYLAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
       "asset": "FAUXSAYLOR"
@@ -442,31 +952,73 @@
       "asset": "FAUXSHROOM"
     },
     {
-      "asset": "FAUXSOGSTHOR"
+      "asset": "FAUXSOGSTHOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAUXSPY"
+      "asset": "FAUXSPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FAUXSQUIRTLE"
     },
     {
-      "asset": "FAUXSTAMP"
+      "asset": "FAUXSTAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXSWORDMAN"
+      "asset": "FAUXSWORDMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
     },
     {
-      "asset": "FAUXTERROR"
+      "asset": "FAUXTERROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "FAUXTORIAN"
     },
     {
-      "asset": "FAUXTORTURE"
+      "asset": "FAUXTORTURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FAUXTOSHI"
+      "asset": "FAUXTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ]
     },
     {
       "asset": "FAUXTOWER"
@@ -475,10 +1027,22 @@
       "asset": "FAUXTRADER"
     },
     {
-      "asset": "FAUXTURTLES"
+      "asset": "FAUXTURTLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "FAUXURANUS"
+      "asset": "FAUXURANUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAUXVRAISOG"
@@ -490,10 +1054,22 @@
       "asset": "FAUXWARRIOR"
     },
     {
-      "asset": "FAUXWATERDRG"
+      "asset": "FAUXWATERDRG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "FAUXWEEDLORD"
+      "asset": "FAUXWEEDLORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "FAUXWIZARD"
@@ -502,25 +1078,55 @@
       "asset": "FAUXWORLDER"
     },
     {
-      "asset": "FAUXZOMBIE"
+      "asset": "FAUXZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "FDJCARD"
+      "asset": "FDJCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "FESTIFAUX"
+      "asset": "FESTIFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "FLOONEY"
     },
     {
-      "asset": "FREETOCHOOSE"
+      "asset": "FREETOCHOOSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        }
+      ]
     },
     {
       "asset": "FROGBIRTH"
     },
     {
-      "asset": "GANJAFAUX"
+      "asset": "GANJAFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "GENAUXFGLEAM"
@@ -529,7 +1135,13 @@
       "asset": "GENESISQUEST"
     },
     {
-      "asset": "GENESIX"
+      "asset": "GENESIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "GNOMERETURNS"
@@ -538,19 +1150,37 @@
       "asset": "GOLDENDRAGON"
     },
     {
-      "asset": "GOTHCHAINER"
+      "asset": "GOTHCHAINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        }
+      ]
     },
     {
       "asset": "GRAILHUNTER"
     },
     {
-      "asset": "GREATRUNE"
+      "asset": "GREATRUNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "GROGUCD"
     },
     {
-      "asset": "GUARDIANGEL"
+      "asset": "GUARDIANGEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "HALCARD"
@@ -559,34 +1189,76 @@
       "asset": "HASHCARD"
     },
     {
-      "asset": "HASKIANA"
+      "asset": "HASKIANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "HEARTSONFIRE"
     },
     {
-      "asset": "HODLFIST"
+      "asset": "HODLFIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "HUNTRNONYMUS"
+      "asset": "HUNTRNONYMUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "ICEDUNICORN"
+      "asset": "ICEDUNICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "IRLFDCARD"
     },
     {
-      "asset": "JESUSOGS"
+      "asset": "JESUSOGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
     },
     {
       "asset": "KAORIFAUX"
     },
     {
-      "asset": "KEKMINER"
+      "asset": "KEKMINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "KEKSTAFAUX"
+      "asset": "KEKSTAFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "LAMBOCORN"
@@ -604,25 +1276,49 @@
       "asset": "MAGICIANCARD"
     },
     {
-      "asset": "MANDELKING"
+      "asset": "MANDELKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "MEDICUS"
     },
     {
-      "asset": "MEDIIFAUX"
+      "asset": "MEDIIFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "MIZUKIFAUX"
     },
     {
-      "asset": "MNSTRKNGHT"
+      "asset": "MNSTRKNGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "MOLOTOV"
     },
     {
-      "asset": "MONKFAUX"
+      "asset": "MONKFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "MTCORN"
@@ -631,25 +1327,61 @@
       "asset": "MYTHOSSOO"
     },
     {
-      "asset": "NANAY"
+      "asset": "NANAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "NINJASARU"
     },
     {
-      "asset": "NITSABOBO"
+      "asset": "NITSABOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "NNNFAUX"
+      "asset": "NNNFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "ONEBLOCK"
+      "asset": "ONEBLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "ONECUBIT"
+      "asset": "ONECUBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "ORDCARD"
+      "asset": "ORDCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "aishyrine"
+        }
+      ]
     },
     {
       "asset": "OWLCOIN"
@@ -667,19 +1399,43 @@
       "asset": "PEPEHILL"
     },
     {
-      "asset": "PEPERCIVALFS"
+      "asset": "PEPERCIVALFS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "PERIGEE"
+      "asset": "PERIGEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "PHILOSOFAUX"
+      "asset": "PHILOSOFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "PHOENIXCD"
     },
     {
-      "asset": "PRIMALFAUX"
+      "asset": "PRIMALFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "PROOFOFSOG"
@@ -688,64 +1444,142 @@
       "asset": "QUANTUMUN"
     },
     {
-      "asset": "RARECHARM"
+      "asset": "RARECHARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "RARESOGS"
+      "asset": "RARESOGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "REALSATOSHI"
+      "asset": "REALSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "REINCOINATE"
     },
     {
-      "asset": "ROBOKEKPEPEX"
+      "asset": "ROBOKEKPEPEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Salva"
+        }
+      ]
     },
     {
       "asset": "RUGMANCER"
     },
     {
-      "asset": "SANTAFAUX"
+      "asset": "SANTAFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "SATOSHABAN"
     },
     {
-      "asset": "SATOSHECARD"
+      "asset": "SATOSHECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "SATOSHIBLOCK"
+      "asset": "SATOSHIBLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SATOSHISHITE"
     },
     {
-      "asset": "SATOSHISWORD"
+      "asset": "SATOSHISWORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "SEROFETHER"
     },
     {
-      "asset": "SGDANKNESS"
+      "asset": "SGDANKNESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
       "asset": "SHABANAMOTO"
     },
     {
-      "asset": "SHADIFAUX"
+      "asset": "SHADIFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "SHANGHAICARD"
+      "asset": "SHANGHAICARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M0d3d3b0"
+        }
+      ]
     },
     {
-      "asset": "SHIBCOINCARD"
+      "asset": "SHIBCOINCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "SILVANUS"
     },
     {
-      "asset": "SOGEMPEROR"
+      "asset": "SOGEMPEROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "SOGGENESIS"
@@ -766,16 +1600,40 @@
       "asset": "SOGONONOKE"
     },
     {
-      "asset": "SOGSAMARITAN"
+      "asset": "SOGSAMARITAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "SOGSPIDER"
+      "asset": "SOGSPIDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "SOGSTIECARD"
+      "asset": "SOGSTIECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "SOGUNICRON"
+      "asset": "SOGUNICRON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "SOGWAR"
@@ -787,7 +1645,13 @@
       "asset": "SPELLCASTER"
     },
     {
-      "asset": "SPRTLINFLATE"
+      "asset": "SPRTLINFLATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "STACKCHAIN"
@@ -823,7 +1687,13 @@
       "asset": "THEGODCARD"
     },
     {
-      "asset": "THEHIGHLANDS"
+      "asset": "THEHIGHLANDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "THELEXICON"
@@ -871,10 +1741,22 @@
       "asset": "WALKTHEPLANK"
     },
     {
-      "asset": "WEALTHPOT"
+      "asset": "WEALTHPOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "WEALTHSPELL"
+      "asset": "WEALTHSPELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "WHITEAODH"
@@ -883,13 +1765,25 @@
       "asset": "WIZARDOFSOG"
     },
     {
-      "asset": "WUKONGBTC"
+      "asset": "WUKONGBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "YACHTCARD"
     },
     {
-      "asset": "ZUGZWANG"
+      "asset": "ZUGZWANG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     }
   ]
 }

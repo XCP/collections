@@ -10,6 +10,7 @@ import {
   materializeCollection,
   materializeRepository,
   normalizeCollectionMeta,
+  normalizeAssets,
   normalizeFeedV1,
   readCollectionAssets,
   resolveAggregatorAdapterPath,
@@ -411,4 +412,17 @@ test("the public JSON schemas are valid JSON", () => {
   ]) {
     assert.doesNotThrow(() => JSON.parse(readFileSync(join(fixtureDirectory, "..", "..", "schemas", name), "utf8")));
   }
+});
+
+test("an Artist trait may not be a Bitcoin address", () => {
+  for (const value of ["1JDogZS6tQcSxwfxhv6XKKjcyicYA4Feev", "bc1qtsenny4t24882u7l854yzt0h2znq686mwhf2mt"]) {
+    assert.throws(
+      () => normalizeAssets([{ asset: "RAREPEPE", attributes: [{ trait_type: "Artist", value }] }]),
+      (error) => error instanceof CollectionValidationError && /not a Bitcoin address/.test(error.message),
+    );
+  }
+  assert.deepEqual(
+    normalizeAssets([{ asset: "RAREPEPE", attributes: [{ trait_type: "Artist", value: "Rare Scrilla" }] }])[0].attributes,
+    [{ trait_type: "Artist", value: "Rare Scrilla" }],
+  );
 });

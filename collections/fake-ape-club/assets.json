@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "BACKTOTHEAPE"
+      "asset": "BACKTOTHEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "BANANAKAMOTO"
@@ -10,31 +16,79 @@
       "asset": "BANANANA"
     },
     {
-      "asset": "BANEAPE"
+      "asset": "BANEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "BANKSYFAKE"
     },
     {
-      "asset": "BAPESTEIN"
+      "asset": "BAPESTEIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "BEATAPE"
+      "asset": "BEATAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "BEREAL"
+      "asset": "BEREAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "BIGFAKEWHALE"
+      "asset": "BIGFAKEWHALE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "BKLOUNGE"
+      "asset": "BKLOUNGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
-      "asset": "BLAPE"
+      "asset": "BLAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "BLINDAPE"
+      "asset": "BLINDAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "BOBABOREDAPE"
@@ -43,10 +97,22 @@
       "asset": "BOBBLEAPE"
     },
     {
-      "asset": "BOBBYFAKEZOO"
+      "asset": "BOBBYFAKEZOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
     },
     {
-      "asset": "BONAPETIT"
+      "asset": "BONAPETIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "BOREDAPEDBZ"
@@ -58,31 +124,79 @@
       "asset": "BTCSPACEAPE"
     },
     {
-      "asset": "CAPTAINAPE"
+      "asset": "CAPTAINAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "CHAINSAWAPE"
+      "asset": "CHAINSAWAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "CHARTBROS"
+      "asset": "CHARTBROS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "CHIEFAPE"
+      "asset": "CHIEFAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "CHILLAPE"
     },
     {
-      "asset": "CHUCKYAPE"
+      "asset": "CHUCKYAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
-      "asset": "CHUEN"
+      "asset": "CHUEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "CHUMBLEYAPE"
+      "asset": "CHUMBLEYAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
-      "asset": "CLINTAPEWOOD"
+      "asset": "CLINTAPEWOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "CLUSTERFAKE"
@@ -91,10 +205,22 @@
       "asset": "CODEDAPE"
     },
     {
-      "asset": "COWBOYAPE"
+      "asset": "COWBOYAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "CREEPYAPE"
+      "asset": "CREEPYAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "CRYPTOBOXING"
@@ -121,10 +247,22 @@
       "asset": "DAHDIRUGAL"
     },
     {
-      "asset": "DAPETECTIVE"
+      "asset": "DAPETECTIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "DARKNIGHT"
+      "asset": "DARKNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
       "asset": "DARKPILLAPE"
@@ -136,16 +274,34 @@
       "asset": "DJFAPE"
     },
     {
-      "asset": "DORIANAPE"
+      "asset": "DORIANAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "DRACULAPE"
+      "asset": "DRACULAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
       "asset": "DRIEDAPE"
     },
     {
-      "asset": "ELEMENTHAL"
+      "asset": "ELEMENTHAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "ERMINEANDAPE"
@@ -154,31 +310,85 @@
       "asset": "ETHZOMBIE"
     },
     {
-      "asset": "EVILFAPE"
+      "asset": "EVILFAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "FACEYKONG"
+      "asset": "FACEYKONG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "FACGRAVERIDE"
+      "asset": "FACGRAVERIDE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RandyBrigs"
+        }
+      ]
     },
     {
-      "asset": "FACURRY"
+      "asset": "FACURRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "FAKAPECHU"
+      "asset": "FAKAPECHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "FAKAVELLI"
+      "asset": "FAKAVELLI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "FAKEALBERT"
+      "asset": "FAKEALBERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPEAGENT"
+      "asset": "FAKEAPEAGENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPEAKIRA"
+      "asset": "FAKEAPEAKIRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "FAKEAPEALBUM"
@@ -187,20 +397,44 @@
       "asset": "FAKEAPEALONE"
     },
     {
-      "asset": "FAKEAPEART"
+      "asset": "FAKEAPEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPEBLOT"
+      "asset": "FAKEAPEBLOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPEBRO"
+      "asset": "FAKEAPEBRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "FAKEAPECASH",
       "asset_type": "currency"
     },
     {
-      "asset": "FAKEAPECASSO"
+      "asset": "FAKEAPECASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
     },
     {
       "asset": "FAKEAPECLUB"
@@ -212,22 +446,52 @@
       "asset": "FAKEAPEDAO"
     },
     {
-      "asset": "FAKEAPEFAUCI"
+      "asset": "FAKEAPEFAUCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPEGHOUL"
+      "asset": "FAKEAPEGHOUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPELAND"
+      "asset": "FAKEAPELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "FAKEAPELEGO"
+      "asset": "FAKEAPELEGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "FAKEAPELIPS"
     },
     {
-      "asset": "FAKEAPEPES"
+      "asset": "FAKEAPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "FAKEAPEPHONE"
@@ -245,13 +509,25 @@
       "asset": "FAKEAPER"
     },
     {
-      "asset": "FAKEAPERONIN"
+      "asset": "FAKEAPERONIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "FAKEAPES"
     },
     {
-      "asset": "FAKEAPESHIT"
+      "asset": "FAKEAPESHIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
     },
     {
       "asset": "FAKEAPETOKEN"
@@ -260,22 +536,58 @@
       "asset": "FAKEAPGOLFER"
     },
     {
-      "asset": "FAKEBASQAPE"
+      "asset": "FAKEBASQAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "FAKEBIKER"
+      "asset": "FAKEBIKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "FAKEBITS"
+      "asset": "FAKEBITS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "FAKEBLACK"
+      "asset": "FAKEBLACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "FAKEBONGHP"
+      "asset": "FAKEBONGHP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "FAKEBOREDAPE"
+      "asset": "FAKEBOREDAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
       "asset": "FAKECLOCKWRK"
@@ -284,16 +596,34 @@
       "asset": "FAKECNPCARD"
     },
     {
-      "asset": "FAKECOEN"
+      "asset": "FAKECOEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "FAKEDIESEL"
+      "asset": "FAKEDIESEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
     },
     {
       "asset": "FAKEDROOL"
     },
     {
-      "asset": "FAKEFRED"
+      "asset": "FAKEFRED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "FAKEFREDDY"
@@ -305,7 +635,13 @@
       "asset": "FAKEMAGICIAN"
     },
     {
-      "asset": "FAKEMAUS"
+      "asset": "FAKEMAUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
     },
     {
       "asset": "FAKEMEW"
@@ -323,16 +659,34 @@
       "asset": "FAKENEON"
     },
     {
-      "asset": "FAKEOGGHOUL"
+      "asset": "FAKEOGGHOUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "FAKEORAPE"
     },
     {
-      "asset": "FAKEPHLOYD"
+      "asset": "FAKEPHLOYD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "FAKERAVE"
+      "asset": "FAKERAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "FAKERAVERS"
@@ -353,25 +707,61 @@
       "asset": "FAKEUNIT"
     },
     {
-      "asset": "FAKEV"
+      "asset": "FAKEV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "FAKEVOLUTION"
+      "asset": "FAKEVOLUTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "FAKEXPLORERS"
+      "asset": "FAKEXPLORERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "FAKEYACHT"
     },
     {
-      "asset": "FAPD"
+      "asset": "FAPD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "FAPE"
+      "asset": "FAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "FAPEANCONG"
+      "asset": "FAPEANCONG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "FAPEBEDROOM"
@@ -386,73 +776,175 @@
       "asset": "FAPECOLUMBO"
     },
     {
-      "asset": "FAPECOPY"
+      "asset": "FAPECOPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "FAPEDEVIL"
+      "asset": "FAPEDEVIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "FAPEFOURTH"
+      "asset": "FAPEFOURTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "FAPEGARAGE"
+      "asset": "FAPEGARAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "FAPEGIANNIS"
     },
     {
-      "asset": "FAPEHANGER"
+      "asset": "FAPEHANGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     },
     {
       "asset": "FAPEHISTORIC"
     },
     {
-      "asset": "FAPEHULK"
+      "asset": "FAPEHULK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "FAPEKAMOTO"
+      "asset": "FAPEKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "FAPEKEVIN"
+      "asset": "FAPEKEVIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "FAPELEGACY"
+      "asset": "FAPELEGACY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "FAPELINEART"
+      "asset": "FAPELINEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "FAPEMEISTER"
+      "asset": "FAPEMEISTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
       "asset": "FAPEMORIARTY"
     },
     {
-      "asset": "FAPEOFSPADES"
+      "asset": "FAPEOFSPADES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "FAPEPES"
     },
     {
-      "asset": "FAPEPILPEPE"
+      "asset": "FAPEPILPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "FAPEPJMASK"
+      "asset": "FAPEPJMASK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "FAPEPUNK"
     },
     {
-      "asset": "FAPEREPORTA"
+      "asset": "FAPEREPORTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "FAPERUTH"
+      "asset": "FAPERUTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "FAPESATOSHI"
     },
     {
-      "asset": "FAPESEACK"
+      "asset": "FAPESEACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "FAPESHIT"
@@ -464,7 +956,13 @@
       "asset": "FAPETARIST"
     },
     {
-      "asset": "FAPETHEFOOL"
+      "asset": "FAPETHEFOOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "FAPEVIBE"
@@ -473,19 +971,43 @@
       "asset": "FAPEWINE"
     },
     {
-      "asset": "FAPEZUKI"
+      "asset": "FAPEZUKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
     },
     {
       "asset": "FATHERPEPAPE"
     },
     {
-      "asset": "FELLOWAPES"
+      "asset": "FELLOWAPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
-      "asset": "FEYMAR"
+      "asset": "FEYMAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "FKAPESCRILLA"
+      "asset": "FKAPESCRILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "FKENINJASUIT"
@@ -503,22 +1025,46 @@
       "asset": "GETBITCOIN"
     },
     {
-      "asset": "GHETTOMONKEY"
+      "asset": "GHETTOMONKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "GIRLDEMDADDY"
+      "asset": "GIRLDEMDADDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "GLOWAPE"
     },
     {
-      "asset": "GOLDENAPE"
+      "asset": "GOLDENAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
     },
     {
       "asset": "GRIMFAPE"
     },
     {
-      "asset": "GTAFAKE"
+      "asset": "GTAFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "HEISENAPE"
@@ -527,7 +1073,13 @@
       "asset": "HELLIENAPE"
     },
     {
-      "asset": "HEYBOB"
+      "asset": "HEYBOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "HIPHOPAPE"
@@ -536,16 +1088,34 @@
       "asset": "HOMERFAKEAPE"
     },
     {
-      "asset": "HOPAPE"
+      "asset": "HOPAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "HORNYAPE"
     },
     {
-      "asset": "HUGOSHAKUR"
+      "asset": "HUGOSHAKUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
-      "asset": "HUNTANAPE"
+      "asset": "HUNTANAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TooSweet"
+        }
+      ]
     },
     {
       "asset": "HUSLEVERYDAY"
@@ -560,16 +1130,34 @@
       "asset": "INSTAAPEGRL"
     },
     {
-      "asset": "ISLANDAPEFAK"
+      "asset": "ISLANDAPEFAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "ISLSARUTOBI"
     },
     {
-      "asset": "JAILAPE"
+      "asset": "JAILAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
     },
     {
-      "asset": "JOKERAPE"
+      "asset": "JOKERAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "JUNGLEFAPE"
@@ -578,13 +1166,31 @@
       "asset": "JURAPESIC"
     },
     {
-      "asset": "KENYOTMEMEK"
+      "asset": "KENYOTMEMEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "KEVAPE"
+      "asset": "KEVAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "KINGAPE"
+      "asset": "KINGAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
     },
     {
       "asset": "LALALALALA"
@@ -593,7 +1199,13 @@
       "asset": "LEFAPE"
     },
     {
-      "asset": "LINEAPE"
+      "asset": "LINEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "LOADEDAPE"
@@ -602,22 +1214,46 @@
       "asset": "LORDFAKEAPE"
     },
     {
-      "asset": "LOREAPE"
+      "asset": "LOREAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TooSweet"
+        }
+      ]
     },
     {
       "asset": "LUCKYFAKEAPE"
     },
     {
-      "asset": "MABOKJANDA"
+      "asset": "MABOKJANDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
       "asset": "MACAQUE"
     },
     {
-      "asset": "MADAPE"
+      "asset": "MADAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "MADFAPER"
+      "asset": "MADFAPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "MAGICEYEAPE"
@@ -626,43 +1262,115 @@
       "asset": "MAPETHERESE"
     },
     {
-      "asset": "MEGAAPE"
+      "asset": "MEGAAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
-      "asset": "MEGADANKAPE"
+      "asset": "MEGADANKAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "MFERAPE"
+      "asset": "MFERAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "MIKERODICK"
     },
     {
-      "asset": "MISSFAKEAPE"
+      "asset": "MISSFAKEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "MODERNAPES"
+      "asset": "MODERNAPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
-      "asset": "MONALISAAPE"
+      "asset": "MONALISAAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "MONDRIANAPE"
+      "asset": "MONDRIANAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
     },
     {
-      "asset": "MOONAPE"
+      "asset": "MOONAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JAMEX"
+        }
+      ]
     },
     {
-      "asset": "MOONBABY"
+      "asset": "MOONBABY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "MOONISNEAR"
+      "asset": "MOONISNEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "MPLYNMANSON"
+      "asset": "MPLYNMANSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "MUSICNOTEAPE"
+      "asset": "MUSICNOTEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "NAKAMOTOAPE"
@@ -671,7 +1379,13 @@
       "asset": "NAPEOLEON"
     },
     {
-      "asset": "NEONAPE"
+      "asset": "NEONAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "NOFACEMONKEY"
@@ -680,7 +1394,13 @@
       "asset": "NOKNIVESAPE"
     },
     {
-      "asset": "ONERAREAPE"
+      "asset": "ONERAREAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "ORIGAMIAPE"
@@ -689,16 +1409,34 @@
       "asset": "OZIOAPE"
     },
     {
-      "asset": "PEACEAPES"
+      "asset": "PEACEAPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JAMEX"
+        }
+      ]
     },
     {
-      "asset": "PEACEFAKER"
+      "asset": "PEACEFAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "PEPAPELAUGH"
     },
     {
-      "asset": "PEPEROCK"
+      "asset": "PEPEROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
       "asset": "PEPEVSAPE"
@@ -707,10 +1445,22 @@
       "asset": "PHOENIXAPE"
     },
     {
-      "asset": "PINKAPE"
+      "asset": "PINKAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "PINKPOPAPE"
+      "asset": "PINKPOPAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "PIRAPE"
@@ -719,13 +1469,31 @@
       "asset": "PIRATEAPE"
     },
     {
-      "asset": "PODOLAPE"
+      "asset": "PODOLAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "POLLOCKAPE"
+      "asset": "POLLOCKAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "PREGNANTAPE"
+      "asset": "PREGNANTAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "PRIMEFAPE"
@@ -737,49 +1505,127 @@
       "asset": "PUMPTHEFAC"
     },
     {
-      "asset": "PUNCTUREAPE"
+      "asset": "PUNCTUREAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "PUPETAPEDRIM"
+      "asset": "PUPETAPEDRIM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PURPLERAVER"
+      "asset": "PURPLERAVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
-      "asset": "RAREHANUMAN"
+      "asset": "RAREHANUMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "RAREPARTY"
+      "asset": "RAREPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "RAVEABSTRACT"
+      "asset": "RAVEABSTRACT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
     },
     {
       "asset": "RAVEAPE"
     },
     {
-      "asset": "RAVECITY"
+      "asset": "RAVECITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ysdrwn"
+        }
+      ]
     },
     {
       "asset": "RAVEDJ"
     },
     {
-      "asset": "RAVEIGHTAPE"
+      "asset": "RAVEIGHTAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "RAVENAPE"
+      "asset": "RAVENAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "RAVERBOYZ"
+      "asset": "RAVERBOYZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "RAVETOKEN"
+      "asset": "RAVETOKEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "RDRFAPE"
+      "asset": "RDRFAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "REALAPE"
+      "asset": "REALAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "REALFAKEAPE"
@@ -788,7 +1634,13 @@
       "asset": "REBELAPE"
     },
     {
-      "asset": "REKKTAPE"
+      "asset": "REKKTAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "REVERBAPE"
@@ -800,37 +1652,85 @@
       "asset": "RICHFAKEAPE"
     },
     {
-      "asset": "ROBOAPE"
+      "asset": "ROBOAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
-      "asset": "ROCKETAPE"
+      "asset": "ROCKETAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JAMEX"
+        }
+      ]
     },
     {
       "asset": "RONINAPE"
     },
     {
-      "asset": "ROYALAPE"
+      "asset": "ROYALAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "SALINEAPE"
+      "asset": "SALINEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
       "asset": "SARUTOBIAPE"
     },
     {
-      "asset": "SCREAMAPE"
+      "asset": "SCREAMAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "SGTAPEMAN"
+      "asset": "SGTAPEMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "SHAKENRAVE"
+      "asset": "SHAKENRAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
       "asset": "SHROOMAPE"
     },
     {
-      "asset": "SKRILAPECHIL"
+      "asset": "SKRILAPECHIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "SMOKINGAPE"
@@ -842,7 +1742,13 @@
       "asset": "SNAKEAPE"
     },
     {
-      "asset": "SNOOPAPE"
+      "asset": "SNOOPAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "SNOWFAKE"
@@ -854,7 +1760,13 @@
       "asset": "SQUIDBLOOD"
     },
     {
-      "asset": "STANDUPAPE"
+      "asset": "STANDUPAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "STEROIDAPE"
@@ -866,22 +1778,46 @@
       "asset": "TEATIMEAPE"
     },
     {
-      "asset": "TECHNOFAKE"
+      "asset": "TECHNOFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ysdrwn"
+        }
+      ]
     },
     {
       "asset": "TELEPORTAPE"
     },
     {
-      "asset": "THEAPEBENDER"
+      "asset": "THEAPEBENDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "THEFAKEAPE"
+      "asset": "THEFAKEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "THEMIGHTYAPE"
     },
     {
-      "asset": "THINKOUTLOUD"
+      "asset": "THINKOUTLOUD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "TOOMUCHTALK"
@@ -890,13 +1826,25 @@
       "asset": "TRIPPYFAPE"
     },
     {
-      "asset": "UFOAPE"
+      "asset": "UFOAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
     },
     {
       "asset": "VANFAKEGOGH"
     },
     {
-      "asset": "VIKINGAPE"
+      "asset": "VIKINGAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
       "asset": "VIOLETAPE"
@@ -914,7 +1862,13 @@
       "asset": "YACHTRAVE"
     },
     {
-      "asset": "ZAPEPUNK"
+      "asset": "ZAPEPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     }
   ]
 }

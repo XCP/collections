@@ -13,7 +13,13 @@
       "asset": "JAWSPEPE"
     },
     {
-      "asset": "MAGMAPEPE"
+      "asset": "MAGMAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memento"
+        }
+      ]
     },
     {
       "asset": "OJISANPEPE"

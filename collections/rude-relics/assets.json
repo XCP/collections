@@ -4,7 +4,13 @@
       "asset": "BARF"
     },
     {
-      "asset": "BARF.PEPE"
+      "asset": "BARF.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "CRACK"
@@ -16,7 +22,13 @@
       "asset": "DIARRHEA"
     },
     {
-      "asset": "DIARRHEA.HAIKU"
+      "asset": "DIARRHEA.HAIKU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "DIARRHEA.IT_WAS_MACRON"
@@ -28,19 +40,37 @@
       "asset": "DIARRHEA.PEPE_YUCK"
     },
     {
-      "asset": "DIARRHEA.PEPE"
+      "asset": "DIARRHEA.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "DIARRHEA.RELIEF"
     },
     {
-      "asset": "DIARRHEA.WHENYOUHAVE"
+      "asset": "DIARRHEA.WHENYOUHAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "DRUGGIE"
     },
     {
-      "asset": "DRUGGIE.GIRL"
+      "asset": "DRUGGIE.GIRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "DRUGGIE.KHOLE"
@@ -55,13 +85,25 @@
       "asset": "FUCKED.Bride"
     },
     {
-      "asset": "FUCKED.BUD"
+      "asset": "FUCKED.BUD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "FUCKED.PEPEBELLY"
     },
     {
-      "asset": "FUCKED.PEPEFUCKED"
+      "asset": "FUCKED.PEPEFUCKED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FUCKED.WELL"
@@ -73,28 +115,64 @@
       "asset": "HARDCORE.90sRavePepe"
     },
     {
-      "asset": "HARDCORE.BITETHEAPPLE"
+      "asset": "HARDCORE.BITETHEAPPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
-      "asset": "HARDCORE.BloodyCandy"
+      "asset": "HARDCORE.BloodyCandy",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "HARDCORE.Hardcore_Pepe_Card"
     },
     {
-      "asset": "HARDCORE.Hardcorepepe"
+      "asset": "HARDCORE.Hardcorepepe",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "HARDCORE.PEPEHUB"
+      "asset": "HARDCORE.PEPEHUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "HARDCORE.Princess_Pepe"
     },
     {
-      "asset": "HARDCORE.RUDECUM"
+      "asset": "HARDCORE.RUDECUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "HARDCORE.SNOWHITE"
+      "asset": "HARDCORE.SNOWHITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "HARDCORE.THEJUMPOFF"
@@ -106,7 +184,13 @@
       "asset": "HEROIN"
     },
     {
-      "asset": "HEROIN.ADDICTPEPE"
+      "asset": "HEROIN.ADDICTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "HEROIN.BAD"
@@ -121,13 +205,25 @@
       "asset": "HEROIN.HOPIUM"
     },
     {
-      "asset": "HEROIN.JustSayNever"
+      "asset": "HEROIN.JustSayNever",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "HEROIN.MUGSHOT"
     },
     {
-      "asset": "HEROIN.PEPESPOTTING"
+      "asset": "HEROIN.PEPESPOTTING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "HERPES"
@@ -136,13 +232,31 @@
       "asset": "HERPES.BOO"
     },
     {
-      "asset": "HERPES.HEROES"
+      "asset": "HERPES.HEROES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "HERPES.HERPEPES"
+      "asset": "HERPES.HERPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "HERPES.HERPESPEPE"
+      "asset": "HERPES.HERPESPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "HERPES.KissMeISwear"
@@ -157,10 +271,22 @@
       "asset": "HUMILIATE.HUMILIATERR"
     },
     {
-      "asset": "HUMILIATE.JUSUS"
+      "asset": "HUMILIATE.JUSUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "HUMILIATE.NOTOLERANCE"
+      "asset": "HUMILIATE.NOTOLERANCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "HUMILIATE.SADO"
@@ -169,10 +295,22 @@
       "asset": "KINKY"
     },
     {
-      "asset": "KINKY.CREAM"
+      "asset": "KINKY.CREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "KINKY.DADDY"
+      "asset": "KINKY.DADDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "MENAGEATROIS"
@@ -181,7 +319,13 @@
       "asset": "MENAGEATROIS.BLISS"
     },
     {
-      "asset": "MENAGEATROIS.BOIS"
+      "asset": "MENAGEATROIS.BOIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "MISTRESS"
@@ -190,7 +334,13 @@
       "asset": "MISTRESS.Dominatrix"
     },
     {
-      "asset": "MISTRESS.EVOLUTION"
+      "asset": "MISTRESS.EVOLUTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "MUFFDIVER"
@@ -205,10 +355,22 @@
       "asset": "MUFFDIVER.I_LOVE_MD"
     },
     {
-      "asset": "MUFFDIVER.MANIAC"
+      "asset": "MUFFDIVER.MANIAC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "MUFFDIVER.MUFFINTASTE"
+      "asset": "MUFFDIVER.MUFFINTASTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "MUFFDIVER.MUFFSTONE"
@@ -217,7 +379,13 @@
       "asset": "MUFFDIVER.RIMMING"
     },
     {
-      "asset": "MUFFDIVER.SHEDEVILSMUFF"
+      "asset": "MUFFDIVER.SHEDEVILSMUFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "MUFFDIVER.SLURP"
@@ -235,7 +403,13 @@
       "asset": "OCCULT.BLACKMAGIC"
     },
     {
-      "asset": "OCCULT.OFMEMES"
+      "asset": "OCCULT.OFMEMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "OCCULT.OFPEPE"
@@ -250,7 +424,13 @@
       "asset": "PINKTACO.SLURP_SLURP"
     },
     {
-      "asset": "PINKTACO.VEGAN"
+      "asset": "PINKTACO.VEGAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "RELICASH",
@@ -268,7 +448,13 @@
       "asset": "SHART.ART"
     },
     {
-      "asset": "SHART.TACO"
+      "asset": "SHART.TACO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "SHART.WEDDING"
@@ -298,34 +484,76 @@
       "asset": "TOKE.BADARSE"
     },
     {
-      "asset": "TOKE.CelestialHigh"
+      "asset": "TOKE.CelestialHigh",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "TOKE.GanjaGoddess"
+      "asset": "TOKE.GanjaGoddess",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "TOKE.LunarElevation"
+      "asset": "TOKE.LunarElevation",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "TOKE.LUNIZ"
     },
     {
-      "asset": "TOKE.MARYHANDS"
+      "asset": "TOKE.MARYHANDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "TOKE.N_SNIFFER"
     },
     {
-      "asset": "TOKE.NUNTOKE"
+      "asset": "TOKE.NUNTOKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "TOKE.Toke_of_Triumph"
+      "asset": "TOKE.Toke_of_Triumph",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "TORTURE"
     },
     {
-      "asset": "TORTURE.Game"
+      "asset": "TORTURE.Game",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "TORTURE.HOTEL_CRYPTO"
@@ -334,19 +562,43 @@
       "asset": "TORTURE.I_SUPPORT"
     },
     {
-      "asset": "TORTURE.InfernalAgony"
+      "asset": "TORTURE.InfernalAgony",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "TORTURE.MEDIEVAL"
+      "asset": "TORTURE.MEDIEVAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "TORTURE.MENTAL"
+      "asset": "TORTURE.MENTAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "TORTURE.SCREAM"
     },
     {
-      "asset": "TORTURE.SELLORBUY"
+      "asset": "TORTURE.SELLORBUY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "TORTURE.SOUL"

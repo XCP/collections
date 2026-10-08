@@ -10,7 +10,13 @@
       "asset": "BLKSWANGUIN"
     },
     {
-      "asset": "BORNTOCHILL"
+      "asset": "BORNTOCHILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "CLUBPENPEN"
@@ -46,7 +52,13 @@
       "asset": "LESGOPENPEN"
     },
     {
-      "asset": "LETSCOOK"
+      "asset": "LETSCOOK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
       "asset": "LORDPEN"
@@ -58,7 +70,13 @@
       "asset": "MRPALPHA"
     },
     {
-      "asset": "NAKAPENPEN"
+      "asset": "NAKAPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "ONLYONEPNPN"
@@ -73,13 +91,31 @@
       "asset": "PENASCENSION"
     },
     {
-      "asset": "PENBLINDERS"
+      "asset": "PENBLINDERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "PENHARMONY"
+      "asset": "PENHARMONY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PENIETZ"
+      "asset": "PENIETZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
       "asset": "PENJAMIN"
@@ -106,7 +142,13 @@
       "asset": "PENPENCASH"
     },
     {
-      "asset": "PENPENCOIN"
+      "asset": "PENPENCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
       "asset": "PENPENDEX"
@@ -115,7 +157,13 @@
       "asset": "PENPENDULUM"
     },
     {
-      "asset": "PENPENFUTURE"
+      "asset": "PENPENFUTURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PENPENGEON",
@@ -125,22 +173,46 @@
       "asset": "PENPENGOLD"
     },
     {
-      "asset": "PENPENHEAL"
+      "asset": "PENPENHEAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "PENPENHEIRR"
+      "asset": "PENPENHEIRR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PENPENJESS"
     },
     {
-      "asset": "PENPENLISSA"
+      "asset": "PENPENLISSA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "PENPENMON"
     },
     {
-      "asset": "PENPENNOWAY"
+      "asset": "PENPENNOWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "PENPENPIZZA"
@@ -170,13 +242,25 @@
       "asset": "PENPENVIP"
     },
     {
-      "asset": "PENSCAM"
+      "asset": "PENSCAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "PENSINGULRTY"
     },
     {
-      "asset": "PEPENG"
+      "asset": "PEPENG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "PPAPENPEN"
@@ -188,7 +272,13 @@
       "asset": "RAREPENPEN"
     },
     {
-      "asset": "SLAPEN"
+      "asset": "SLAPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "SPACEPENPEN"
@@ -197,7 +287,13 @@
       "asset": "STEAMPENKPEN"
     },
     {
-      "asset": "THELASTPEN"
+      "asset": "THELASTPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "THOTHPENPEN"

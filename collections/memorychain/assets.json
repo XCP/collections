@@ -1,10 +1,22 @@
 {
   "assets": [
     {
-      "asset": "BCCARD"
+      "asset": "BCCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Taakumi"
+        }
+      ]
     },
     {
-      "asset": "BIGONESTEP"
+      "asset": "BIGONESTEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
       "asset": "BIPBARD"
@@ -13,7 +25,13 @@
       "asset": "BIRTHOFTHBTC"
     },
     {
-      "asset": "BITCOINERS"
+      "asset": "BITCOINERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "BITCOINGIRL"
@@ -31,19 +49,37 @@
       "asset": "BOTCOINER"
     },
     {
-      "asset": "BTCFORK"
+      "asset": "BTCFORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
       "asset": "BTCTATTOO"
     },
     {
-      "asset": "BUNRETSU"
+      "asset": "BUNRETSU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
       "asset": "CCGANNEN"
     },
     {
-      "asset": "CCMC"
+      "asset": "CCMC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
       "asset": "COUPLEGOX"
@@ -52,37 +88,85 @@
       "asset": "CRYPTOGIRLS"
     },
     {
-      "asset": "CRYPTOHOLIC"
+      "asset": "CRYPTOHOLIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "CRYPTORPG"
     },
     {
-      "asset": "DECENTORACLE"
+      "asset": "DECENTORACLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "DOGECHAN"
     },
     {
-      "asset": "DOGETHEREUM"
+      "asset": "DOGETHEREUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
-      "asset": "EATSUSHI"
+      "asset": "EATSUSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "ECASHPAPER"
+      "asset": "ECASHPAPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "ECNUKO"
     },
     {
-      "asset": "ECOBITMAN"
+      "asset": "ECOBITMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "ECOBITREFUND"
+      "asset": "ECOBITREFUND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "ECOBITWOMAN"
+      "asset": "ECOBITWOMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "ESTOPIA"
@@ -97,10 +181,22 @@
       "asset": "ETHEREUMGIRL"
     },
     {
-      "asset": "ETHFRONTIER"
+      "asset": "ETHFRONTIER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "ETHHOMESTEAD"
+      "asset": "ETHHOMESTEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "FICOA"
@@ -109,16 +205,40 @@
       "asset": "FICOB"
     },
     {
-      "asset": "FORESIGHTMAN"
+      "asset": "FORESIGHTMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
-      "asset": "FOREVERP"
+      "asset": "FOREVERP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
-      "asset": "GAMESTART"
+      "asset": "GAMESTART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
-      "asset": "GARA"
+      "asset": "GARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
       "asset": "GARIKUSON"
@@ -133,7 +253,13 @@
       "asset": "GRIPGIRL"
     },
     {
-      "asset": "HALVING"
+      "asset": "HALVING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
       "asset": "HIGE"
@@ -148,19 +274,43 @@
       "asset": "ICOVACATION"
     },
     {
-      "asset": "INAGO"
+      "asset": "INAGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "JBWS"
+      "asset": "JBWS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "KAKUGALEE"
     },
     {
-      "asset": "KINGOFCC"
+      "asset": "KINGOFCC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
-      "asset": "KOJITHECUPID"
+      "asset": "KOJITHECUPID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "KUSACOIN"
@@ -175,7 +325,13 @@
       "asset": "MAIDSAFECHAN"
     },
     {
-      "asset": "MASTERINGPC"
+      "asset": "MASTERINGPC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "MCCOMER"
@@ -199,13 +355,25 @@
       "asset": "MEMEPARTNERS"
     },
     {
-      "asset": "MGOINVADER"
+      "asset": "MGOINVADER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "MIKEHEARNALT"
     },
     {
-      "asset": "MINERB"
+      "asset": "MINERB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
       "asset": "MOMEJINJA"
@@ -214,7 +382,13 @@
       "asset": "MONACOINGIRL"
     },
     {
-      "asset": "MONAPEPECARD"
+      "asset": "MONAPEPECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "MONASEGWIT"
@@ -241,7 +415,13 @@
       "asset": "NEMANGEL"
     },
     {
-      "asset": "NEMBERBECOOL"
+      "asset": "NEMBERBECOOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "NEMGIRL"
@@ -253,40 +433,94 @@
       "asset": "NEOCHAN"
     },
     {
-      "asset": "NHARVEST"
+      "asset": "NHARVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "NUMERAIAI"
+      "asset": "NUMERAIAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
-      "asset": "OAHF"
+      "asset": "OAHF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "OMATSURI"
     },
     {
-      "asset": "ORIGINOFMC"
+      "asset": "ORIGINOFMC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
-      "asset": "ORIGINOFSOG"
+      "asset": "ORIGINOFSOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "PENPENBTC"
     },
     {
-      "asset": "PEPEMODOKI"
+      "asset": "PEPEMODOKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "PICKUPKUSA"
     },
     {
-      "asset": "POTCOINER"
+      "asset": "POTCOINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "POWMONSTER"
+      "asset": "POWMONSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "PUMPEPE"
+      "asset": "PUMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "QUANTUMPC"
@@ -314,13 +548,25 @@
       "asset": "SCAMCOINSHOP"
     },
     {
-      "asset": "SCAMHAZARD"
+      "asset": "SCAMHAZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "SEGWITSHI"
     },
     {
-      "asset": "SELFGOX"
+      "asset": "SELFGOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "SHITCOINER"
@@ -329,37 +575,79 @@
       "asset": "SISUMAISTART"
     },
     {
-      "asset": "SMARTDUBAI"
+      "asset": "SMARTDUBAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "SNWARMHEART"
     },
     {
-      "asset": "SOGRAID"
+      "asset": "SOGRAID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "SOOOOOOOOOON"
+      "asset": "SOOOOOOOOOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "SROADCAMEL"
     },
     {
-      "asset": "STATUSICO"
+      "asset": "STATUSICO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "TAKABCOIN"
     },
     {
-      "asset": "TAKANE"
+      "asset": "TAKANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "TAKARAGPS"
+      "asset": "TAKARAGPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "TAKARAJPI"
     },
     {
-      "asset": "TANUKJ"
+      "asset": "TANUKJ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
       "asset": "TFORM"
@@ -368,16 +656,40 @@
       "asset": "THEAKANPANY"
     },
     {
-      "asset": "THEARUKAMO"
+      "asset": "THEARUKAMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Taakumi"
+        }
+      ]
     },
     {
-      "asset": "THEBYZANTINE"
+      "asset": "THEBYZANTINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
-      "asset": "THECEMETERY"
+      "asset": "THECEMETERY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
-      "asset": "THEDAODEAD"
+      "asset": "THEDAODEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "THEFINTECH"
@@ -386,13 +698,31 @@
       "asset": "THEGODTANU"
     },
     {
-      "asset": "THEICODEAD"
+      "asset": "THEICODEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
-      "asset": "THENIAGARA"
+      "asset": "THENIAGARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
-      "asset": "THETIMES"
+      "asset": "THETIMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bfm33211"
+        }
+      ]
     },
     {
       "asset": "TLOD"
@@ -401,19 +731,37 @@
       "asset": "TOTHEMOONCD"
     },
     {
-      "asset": "TREZORMYLOVE"
+      "asset": "TREZORMYLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "TTRUSTCARD"
     },
     {
-      "asset": "UASFARMY"
+      "asset": "UASFARMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "UNDERCONTROL"
     },
     {
-      "asset": "UNTRACEABLE"
+      "asset": "UNTRACEABLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "WACKNAKAMOTO"
@@ -428,16 +776,34 @@
       "asset": "WALLETKUN"
     },
     {
-      "asset": "WANNACRY"
+      "asset": "WANNACRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "WILLSPLIT"
     },
     {
-      "asset": "XASICBOOST"
+      "asset": "XASICBOOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
-      "asset": "XCPPEOPLE"
+      "asset": "XCPPEOPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "XEMANDJAPAN"
@@ -446,7 +812,13 @@
       "asset": "XEMTATTOO"
     },
     {
-      "asset": "XEMURAI"
+      "asset": "XEMURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "YOMEGOX"

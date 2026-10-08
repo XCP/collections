@@ -10,7 +10,7 @@
 | Primary memberships | 1,971 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1,971/1,971 (100%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
+| Traits | Artist: 1,970/1,971 (99.9%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

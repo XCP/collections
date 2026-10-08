@@ -14,22 +14,52 @@
     },
     {
       "asset": "BOBKACHU",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
     },
     {
-      "asset": "BOBLO"
+      "asset": "BOBLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
-      "asset": "BOBOBANE"
+      "asset": "BOBOBANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
       "asset": "BOBOBASS"
     },
     {
-      "asset": "BOBOBOBA"
+      "asset": "BOBOBOBA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "BOBOBULL"
+      "asset": "BOBOBULL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "BOBOCASH",
@@ -42,31 +72,67 @@
     },
     {
       "asset": "BOBODICAPRIO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
       "asset": "BOBODON",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "BOBODONGO"
     },
     {
       "asset": "BOBOFAKE",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whats in a name"
+        }
+      ]
     },
     {
       "asset": "BOBOGITS"
     },
     {
-      "asset": "BOBOGOBLOG"
+      "asset": "BOBOGOBLOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "BOBOKAREN",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nogoodboypoints"
+        }
+      ]
     },
     {
-      "asset": "BOBOLOKOT"
+      "asset": "BOBOLOKOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
       "asset": "BOBOMFER",
@@ -84,30 +150,72 @@
     },
     {
       "asset": "BOBOPIZZA",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
       "asset": "BOBOROSS",
       "primary": false
     },
     {
-      "asset": "BOBOROTO"
+      "asset": "BOBOROTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
-      "asset": "BOBOSHOCK"
+      "asset": "BOBOSHOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "BOBOSS"
+      "asset": "BOBOSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "BOBOSWEEP",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
-      "asset": "BOBOTANK"
+      "asset": "BOBOTANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RandyBrigs"
+        }
+      ]
     },
     {
-      "asset": "BOBOTRIP"
+      "asset": "BOBOTRIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "BOBOWETRUST",
@@ -115,13 +223,25 @@
     },
     {
       "asset": "BOBOWHALE",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "BOBOYAGA"
     },
     {
-      "asset": "BRACEBOBO"
+      "asset": "BRACEBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RandyBrigs"
+        }
+      ]
     },
     {
       "asset": "BRIARBOBO"
@@ -136,20 +256,44 @@
     },
     {
       "asset": "DANKEQDANK",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "DEVBOBO",
       "primary": false
     },
     {
-      "asset": "DEVTHBOBO"
+      "asset": "DEVTHBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
-      "asset": "DORMANTKEK"
+      "asset": "DORMANTKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "DREAMSLASHER"
+      "asset": "DREAMSLASHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "EIGHTBIT.BOBO",
@@ -157,7 +301,13 @@
     },
     {
       "asset": "FAKEBOBOCASH",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
       "asset": "GOXBOBO",
@@ -167,7 +317,13 @@
       "asset": "GRAILBOBO"
     },
     {
-      "asset": "GREENBOBO"
+      "asset": "GREENBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "GRIMBOBO",
@@ -175,57 +331,129 @@
     },
     {
       "asset": "INVISIBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
-      "asset": "JOKERBOBO"
+      "asset": "JOKERBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "LAMBOBO",
       "primary": false
     },
     {
-      "asset": "LAURENBOBO"
+      "asset": "LAURENBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
     },
     {
       "asset": "LUCKYBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
     },
     {
       "asset": "MAGICBOBO",
       "primary": false
     },
     {
-      "asset": "MASTERBOBO"
+      "asset": "MASTERBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "MONABOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
       "asset": "MYBIGBOBO"
     },
     {
       "asset": "NAKABOTO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "NINJABOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "ONLYONEBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
       "asset": "PEPEPOVERTY",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
-      "asset": "POPBOBO"
+      "asset": "POPBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
     },
     {
-      "asset": "PROBOGANDA"
+      "asset": "PROBOGANDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
     },
     {
       "asset": "RAREBOBO",
@@ -233,54 +461,126 @@
     },
     {
       "asset": "REKTBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whats in a name"
+        }
+      ]
     },
     {
       "asset": "RICHBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
     },
     {
       "asset": "SAMBOBOMAN",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pav"
+        }
+      ]
     },
     {
       "asset": "SHITCOINBOBO",
       "primary": false
     },
     {
-      "asset": "SMOKECANDLES"
+      "asset": "SMOKECANDLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
     },
     {
       "asset": "SPACEBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whats in a name"
+        }
+      ]
     },
     {
       "asset": "SPENDME"
     },
     {
       "asset": "STRONGBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "SUMMONBOBO"
+      "asset": "SUMMONBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
       "asset": "THEBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
     },
     {
       "asset": "TORROBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "UFOBOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
-      "asset": "UNTITLEDBOBO"
+      "asset": "UNTITLEDBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
     },
     {
-      "asset": "WEREALLBOBO"
+      "asset": "WEREALLBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
       "asset": "WREKTBOBO"
@@ -289,7 +589,13 @@
       "asset": "XMASBOBO"
     },
     {
-      "asset": "YOGABOBO"
+      "asset": "YOGABOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     }
   ]
 }

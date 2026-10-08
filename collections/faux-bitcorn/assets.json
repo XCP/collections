@@ -4,7 +4,13 @@
       "asset": "BITCORNGOLD"
     },
     {
-      "asset": "BITCORNHOLIO"
+      "asset": "BITCORNHOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
       "asset": "BITCORNIN"
@@ -13,17 +19,35 @@
       "asset": "BITCORNKING"
     },
     {
-      "asset": "BITCORNQUER"
+      "asset": "BITCORNQUER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "BUFFALOGAL",
       "primary": false
     },
     {
-      "asset": "BURNEDCORN"
+      "asset": "BURNEDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "CORNALIEN"
+      "asset": "CORNALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "CORNBORGHINI"
@@ -38,7 +62,13 @@
       "asset": "CORNDEITY"
     },
     {
-      "asset": "CORNEATER"
+      "asset": "CORNEATER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "CORNELYUNQUE"
@@ -68,26 +98,62 @@
       "asset": "CORNPOPZ"
     },
     {
-      "asset": "CORNQUEEN"
+      "asset": "CORNQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "CORNROASTER",
       "primary": false
     },
     {
-      "asset": "CORNROLLIJET"
+      "asset": "CORNROLLIJET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "CORNSENERGY"
+      "asset": "CORNSENERGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "CORNSHARVEST"
+      "asset": "CORNSHARVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "CORNSICKLE"
+      "asset": "CORNSICKLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
     },
     {
-      "asset": "CORNSNKESKL"
+      "asset": "CORNSNKESKL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "CORNSQUIAT"
@@ -99,10 +165,22 @@
       "asset": "CORNYACHT"
     },
     {
-      "asset": "CORNYHOMER"
+      "asset": "CORNYHOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "CUBISUMCORN"
+      "asset": "CUBISUMCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "DENTKORN"
@@ -123,7 +201,13 @@
       "asset": "FAULKCORN"
     },
     {
-      "asset": "FAUXARCHCORN"
+      "asset": "FAUXARCHCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "FAUXBATTLE"
@@ -138,7 +222,13 @@
       "asset": "FEWMORECORNS"
     },
     {
-      "asset": "FIELDOFCORN"
+      "asset": "FIELDOFCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "FISTFULCORN"
@@ -153,7 +243,13 @@
       "asset": "FXCORNFARMER"
     },
     {
-      "asset": "GOGHCORNISH"
+      "asset": "GOGHCORNISH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "GOODBADCORN"
@@ -165,7 +261,13 @@
       "asset": "INCORNITO"
     },
     {
-      "asset": "INTOCORNLAND"
+      "asset": "INTOCORNLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "ISTHISAGRAIL"
@@ -174,7 +276,13 @@
       "asset": "KERNELISLAND"
     },
     {
-      "asset": "KERNELKEVIN"
+      "asset": "KERNELKEVIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "KERNELLIMITS"
@@ -186,22 +294,58 @@
       "asset": "KRUSTYCORN"
     },
     {
-      "asset": "LINECORN"
+      "asset": "LINECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "METALCORN"
+      "asset": "METALCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "MONAS.BACORN"
+      "asset": "MONAS.BACORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "MRCORNPORATE"
+      "asset": "MRCORNPORATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "NEVEREATCORN"
+      "asset": "NEVEREATCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "NULLCORN"
+      "asset": "NULLCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "OFFDACORN"
@@ -210,28 +354,70 @@
       "asset": "ONLYCANS"
     },
     {
-      "asset": "ORVILLE"
+      "asset": "ORVILLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "PAIKCORN"
+      "asset": "PAIKCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
     },
     {
-      "asset": "PENCORNSCOB"
+      "asset": "PENCORNSCOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PEPECOB"
+      "asset": "PEPECOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "POPKORN"
     },
     {
-      "asset": "PUFFYCORNOIL"
+      "asset": "PUFFYCORNOIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "RARECOB"
+      "asset": "RARECOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "SHADOWCORN"
+      "asset": "SHADOWCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "SHUCKNORRIS"
@@ -255,7 +441,13 @@
       "asset": "TRANSFORMAS"
     },
     {
-      "asset": "TRUTHBUDCORN"
+      "asset": "TRUTHBUDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "UNJINXCORN"
@@ -264,10 +456,22 @@
       "asset": "WAXYKORN"
     },
     {
-      "asset": "XCPMADECORN"
+      "asset": "XCPMADECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "ZEAMAYS"
+      "asset": "ZEAMAYS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     }
   ]
 }

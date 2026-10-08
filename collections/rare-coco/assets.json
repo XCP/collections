@@ -1445,6 +1445,10 @@
       "asset": "COCONDOMS",
       "attributes": [
         {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        },
+        {
           "trait_type": "Series",
           "value": 3
         },

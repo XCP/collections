@@ -1,19 +1,49 @@
 {
   "assets": [
     {
-      "asset": "BEGUGANJANG"
+      "asset": "BEGUGANJANG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "BITCOINHODL"
+      "asset": "BITCOINHODL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "BORISJHNSPAM"
+      "asset": "BORISJHNSPAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyph3rpunk5"
+        }
+      ]
     },
     {
-      "asset": "BTCDIP"
+      "asset": "BTCDIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "BUSHIDOFAP"
+      "asset": "BUSHIDOFAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "DANKCREATOR"
@@ -31,19 +61,37 @@
       "asset": "DICKPEPE"
     },
     {
-      "asset": "DICKPILLPEPE"
+      "asset": "DICKPILLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "FAKESUTRA"
     },
     {
-      "asset": "FEELSBIGMAN"
+      "asset": "FEELSBIGMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
     },
     {
       "asset": "GODOFSPAM"
     },
     {
-      "asset": "HARDROCKDICK"
+      "asset": "HARDROCKDICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
       "asset": "IAMSPAMGELO"
@@ -67,13 +115,25 @@
       "asset": "NEWPUNK"
     },
     {
-      "asset": "NOSPAMGNET"
+      "asset": "NOSPAMGNET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "PEEN"
     },
     {
-      "asset": "PEENFREN"
+      "asset": "PEENFREN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
     },
     {
       "asset": "PEENGOTHIC"
@@ -91,13 +151,31 @@
       "asset": "PEENTIME"
     },
     {
-      "asset": "PEENWARHOL"
+      "asset": "PEENWARHOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
     },
     {
-      "asset": "PENACE"
+      "asset": "PENACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "PEPEBAGUETTE"
+      "asset": "PEPEBAGUETTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YT"
+        }
+      ]
     },
     {
       "asset": "PEPEBASEBALL"
@@ -112,34 +190,76 @@
       "asset": "PEPFUJIN"
     },
     {
-      "asset": "PROTOSPAMMER"
+      "asset": "PROTOSPAMMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
       "asset": "SMEXYMONK"
     },
     {
-      "asset": "SMOLMURAL"
+      "asset": "SMOLMURAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darkfarms"
+        }
+      ]
     },
     {
-      "asset": "SMOLPEEN"
+      "asset": "SMOLPEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "SPALAMP"
+      "asset": "SPALAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "SPAMAMOTO"
     },
     {
-      "asset": "SPAMAWAY"
+      "asset": "SPAMAWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RandyBrigs"
+        }
+      ]
     },
     {
-      "asset": "SPAMBASQIAT"
+      "asset": "SPAMBASQIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "SPAMBIRD"
     },
     {
-      "asset": "SPAMCAKE"
+      "asset": "SPAMCAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "SPAMDENZA"
@@ -148,10 +268,22 @@
       "asset": "SPAMEDUSA"
     },
     {
-      "asset": "SPAMEIDON"
+      "asset": "SPAMEIDON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "SPAMEX"
+      "asset": "SPAMEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "SPAMFREN"
@@ -160,40 +292,88 @@
       "asset": "SPAMGELOTHKO"
     },
     {
-      "asset": "SPAMICECREAM"
+      "asset": "SPAMICECREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "SPAMMONA"
+      "asset": "SPAMMONA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "SPAMMOTHER"
     },
     {
-      "asset": "SPAMPUTIN"
+      "asset": "SPAMPUTIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
       "asset": "SPAMTHEMIS"
     },
     {
-      "asset": "SPAMTRUMP"
+      "asset": "SPAMTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Harold Harambe"
+        }
+      ]
     },
     {
       "asset": "STIFFANY"
     },
     {
-      "asset": "TANKTICLES"
+      "asset": "TANKTICLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "TARSPAM"
     },
     {
-      "asset": "THECHOPPER"
+      "asset": "THECHOPPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bugchaser"
+        }
+      ]
     },
     {
-      "asset": "THEFLOP"
+      "asset": "THEFLOP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bugchaser"
+        }
+      ]
     },
     {
-      "asset": "THEPHALLUS"
+      "asset": "THEPHALLUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "TORPEPEDO"
@@ -202,10 +382,22 @@
       "asset": "UNTALHEJO"
     },
     {
-      "asset": "WOJAKSPEEN"
+      "asset": "WOJAKSPEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "WONDERZEUS"
+      "asset": "WONDERZEUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     }
   ]
 }

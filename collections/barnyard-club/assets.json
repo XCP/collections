@@ -1,19 +1,37 @@
 {
   "assets": [
     {
-      "asset": "BADFARM"
+      "asset": "BADFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mingie"
+        }
+      ]
     },
     {
       "asset": "BARNASSO"
     },
     {
-      "asset": "BARNLISA"
+      "asset": "BARNLISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Ruffian"
+        }
+      ]
     },
     {
       "asset": "BARNYARDCLUB"
     },
     {
-      "asset": "BARNYARDPIPE"
+      "asset": "BARNYARDPIPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
     },
     {
       "asset": "BEAVERMOON"
@@ -22,10 +40,22 @@
       "asset": "BEBEAR"
     },
     {
-      "asset": "BITPOPCORN"
+      "asset": "BITPOPCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
-      "asset": "BITTURNIP"
+      "asset": "BITTURNIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "BRNYRDLAMBO"
@@ -34,43 +64,97 @@
       "asset": "CORNHOARD"
     },
     {
-      "asset": "CORNHUNT"
+      "asset": "CORNHUNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
       "asset": "CORNKNIGHT"
     },
     {
-      "asset": "CORNPAGANDA"
+      "asset": "CORNPAGANDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        }
+      ]
     },
     {
       "asset": "CORNPODCAST"
     },
     {
-      "asset": "CORNTAGION"
+      "asset": "CORNTAGION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "CORNYARD"
+      "asset": "CORNYARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "CORNZ"
+      "asset": "CORNZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cryptonati"
+        }
+      ]
     },
     {
       "asset": "COSMICBARN"
     },
     {
-      "asset": "COWSPIRACY"
+      "asset": "COWSPIRACY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
       "asset": "CROPDATPOP"
     },
     {
-      "asset": "CRYPTOCORNS"
+      "asset": "CRYPTOCORNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "CSHGRBORANGE.GROUNDHOGMOON"
+      "asset": "CSHGRBORANGE.GROUNDHOGMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "CURN"
+      "asset": "CURN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "CYBERPIG"
@@ -79,10 +163,22 @@
       "asset": "DARKCOWGRAB"
     },
     {
-      "asset": "DOGEPEPEFARM"
+      "asset": "DOGEPEPEFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "DOGIEFARMER"
+      "asset": "DOGIEFARMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
       "asset": "FAKECOW"
@@ -94,7 +190,13 @@
       "asset": "FULLMOONCORN"
     },
     {
-      "asset": "FUTUREFARM"
+      "asset": "FUTUREFARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        }
+      ]
     },
     {
       "asset": "FUTUREHAND"
@@ -103,22 +205,46 @@
       "asset": "GENESISMOO"
     },
     {
-      "asset": "GMOPEPE"
+      "asset": "GMOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YT"
+        }
+      ]
     },
     {
-      "asset": "GOODYIELD"
+      "asset": "GOODYIELD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
     },
     {
       "asset": "HARVESTNHODL"
     },
     {
-      "asset": "HARVESTPEN"
+      "asset": "HARVESTPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
       "asset": "HARVESTPEPA"
     },
     {
-      "asset": "HAYFEVER"
+      "asset": "HAYFEVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
     },
     {
       "asset": "HDWALLCORN"
@@ -127,16 +253,40 @@
       "asset": "HONDO"
     },
     {
-      "asset": "HUNTGENESIS"
+      "asset": "HUNTGENESIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "INCOGNTO"
+      "asset": "INCOGNTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "JESUSCORNST"
+      "asset": "JESUSCORNST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
-      "asset": "LIVESTONKS"
+      "asset": "LIVESTONKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "LORETTALYNN"
@@ -157,19 +307,43 @@
       "asset": "MOURNINGMOOS.RAREMOOMOO"
     },
     {
-      "asset": "NACOWMOTO"
+      "asset": "NACOWMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "PEPEMUJICA"
+      "asset": "PEPEMUJICA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
     },
     {
-      "asset": "PEPETRACTOR"
+      "asset": "PEPETRACTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Naeem"
+        }
+      ]
     },
     {
       "asset": "PITCHFORKER"
     },
     {
-      "asset": "POKEFARMERS"
+      "asset": "POKEFARMERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "PUDGYPIG"
@@ -178,28 +352,70 @@
       "asset": "RAREBARNYARD"
     },
     {
-      "asset": "RULETHEROOST"
+      "asset": "RULETHEROOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
     },
     {
-      "asset": "RUNTHEYARD"
+      "asset": "RUNTHEYARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M0d3d3b0"
+        }
+      ]
     },
     {
-      "asset": "SCHROECORN"
+      "asset": "SCHROECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
     },
     {
-      "asset": "THEBUTCHER"
+      "asset": "THEBUTCHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
+        }
+      ]
     },
     {
       "asset": "THECORMEDIAN"
     },
     {
-      "asset": "THEPLOUGH"
+      "asset": "THEPLOUGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "THNXGIBBIN"
+      "asset": "THNXGIBBIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "TWOWOLVES"
+      "asset": "TWOWOLVES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
     },
     {
       "asset": "UNHOLYCOW"
@@ -208,16 +424,40 @@
       "asset": "VRGROWATER"
     },
     {
-      "asset": "WEEABARROW"
+      "asset": "WEEABARROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "WETAGAIN"
+      "asset": "WETAGAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
     },
     {
-      "asset": "WICKERCORN"
+      "asset": "WICKERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "XCORNPEPE"
+      "asset": "XCORNPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
     }
   ]
 }

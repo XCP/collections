@@ -10,7 +10,13 @@
       "asset": "BITSENNIN"
     },
     {
-      "asset": "BLACKSMITHS"
+      "asset": "BLACKSMITHS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "BOBBYWAVE"
@@ -22,7 +28,13 @@
       "asset": "BTCVIPCARD"
     },
     {
-      "asset": "BULLBEAR"
+      "asset": "BULLBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "CCGALLONE"
@@ -49,16 +61,34 @@
       "asset": "CIVICCARD"
     },
     {
-      "asset": "CODEISLAW"
+      "asset": "CODEISLAW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
       "asset": "DARKCOINGIRL"
     },
     {
-      "asset": "DASHMAN"
+      "asset": "DASHMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
-      "asset": "EHARDFORK"
+      "asset": "EHARDFORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
       "asset": "ETHEREUMON"
@@ -70,10 +100,22 @@
       "asset": "FORECASTING"
     },
     {
-      "asset": "GACHIHO"
+      "asset": "GACHIHO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "GNOSISWOMAN"
+      "asset": "GNOSISWOMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "GOHATTO"
@@ -91,37 +133,85 @@
       "asset": "IDOLRIPPLEA"
     },
     {
-      "asset": "ININCHAN"
+      "asset": "ININCHAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emma"
+        }
+      ]
     },
     {
-      "asset": "ISLANDSARU"
+      "asset": "ISLANDSARU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
-      "asset": "LOVEMONA"
+      "asset": "LOVEMONA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emma"
+        }
+      ]
     },
     {
-      "asset": "LTCDOG"
+      "asset": "LTCDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "McPizza88"
+        }
+      ]
     },
     {
       "asset": "MCDUMPING"
     },
     {
-      "asset": "MONABAACHAN"
+      "asset": "MONABAACHAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "MONAPLATINUM"
     },
     {
-      "asset": "NEMBAACHAN"
+      "asset": "NEMBAACHAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "NEMBAE"
     },
     {
-      "asset": "NEMBALLOON"
+      "asset": "NEMBALLOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
-      "asset": "NEMCATAPULT"
+      "asset": "NEMCATAPULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
       "asset": "NEOCHANS"
@@ -133,7 +223,13 @@
       "asset": "NOMONA"
     },
     {
-      "asset": "NUMERAIRES"
+      "asset": "NUMERAIRES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "OISHIKUNAI"
@@ -142,7 +238,13 @@
       "asset": "PENPENCOMSA"
     },
     {
-      "asset": "PEPEEYES"
+      "asset": "PEPEEYES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "PRINCESSNEM"
@@ -151,16 +253,34 @@
       "asset": "RIPULE"
     },
     {
-      "asset": "RLOCKUP"
+      "asset": "RLOCKUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
     },
     {
-      "asset": "SARUTOBIGIF"
+      "asset": "SARUTOBIGIF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        }
+      ]
     },
     {
       "asset": "SBITCOINER"
     },
     {
-      "asset": "SINGULARDTV"
+      "asset": "SINGULARDTV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Trendstream"
+        }
+      ]
     },
     {
       "asset": "SNCOLDHEARTB"
@@ -181,7 +301,13 @@
       "asset": "WARAGONCARD"
     },
     {
-      "asset": "WHOISSATOSHI"
+      "asset": "WHOISSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Taakumi"
+        }
+      ]
     },
     {
       "asset": "XAORANGERB"
@@ -190,7 +316,13 @@
       "asset": "XAORANGERG"
     },
     {
-      "asset": "XRPBAACHAN"
+      "asset": "XRPBAACHAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Japepeneseman"
+        }
+      ]
     },
     {
       "asset": "XRPLOCKUP"

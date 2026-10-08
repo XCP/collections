@@ -10,7 +10,7 @@
 | Primary memberships | 36 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Artist: 2/36 (5.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

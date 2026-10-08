@@ -1,127 +1,373 @@
 {
   "assets": [
     {
-      "asset": "FLOONEYHEADS"
+      "asset": "FLOONEYHEADS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.FLOONEYBIN"
+      "asset": "FLOONEYHEADS.FLOONEYBIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.FLOPPYDESERT"
+      "asset": "FLOONEYHEADS.FLOPPYDESERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.FRAMESOFJOEY"
+      "asset": "FLOONEYHEADS.FRAMESOFJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.GREENJOECREW"
+      "asset": "FLOONEYHEADS.GREENJOECREW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.LADENDELIC"
+      "asset": "FLOONEYHEADS.LADENDELIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.MODERNFRISBEE"
+      "asset": "FLOONEYHEADS.MODERNFRISBEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.PEPEYELLOW"
+      "asset": "FLOONEYHEADS.PEPEYELLOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.REDORDEDJAK"
+      "asset": "FLOONEYHEADS.REDORDEDJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.TOKENJOE"
+      "asset": "FLOONEYHEADS.TOKENJOE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.TURQUOISEFLOONEY"
+      "asset": "FLOONEYHEADS.TURQUOISEFLOONEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.WHATSTHESCOREJOEY"
+      "asset": "FLOONEYHEADS.WHATSTHESCOREJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "FLOONEYHEADS.WOESGARDEN"
+      "asset": "FLOONEYHEADS.WOESGARDEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS"
+      "asset": "KIDPHOCKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.BART"
+      "asset": "KIDPHOCKS.BART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.CHASE"
+      "asset": "KIDPHOCKS.CHASE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.COLE"
+      "asset": "KIDPHOCKS.COLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.GADGET"
+      "asset": "KIDPHOCKS.GADGET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.GARMADON"
+      "asset": "KIDPHOCKS.GARMADON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.GED"
+      "asset": "KIDPHOCKS.GED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.GRANDMASTERSMURF"
+      "asset": "KIDPHOCKS.GRANDMASTERSMURF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.HELLINGER"
+      "asset": "KIDPHOCKS.HELLINGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.JAY"
+      "asset": "KIDPHOCKS.JAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.KAI"
+      "asset": "KIDPHOCKS.KAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.KAKASHI"
+      "asset": "KIDPHOCKS.KAKASHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.KEVIN"
+      "asset": "KIDPHOCKS.KEVIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.LLOYD"
+      "asset": "KIDPHOCKS.LLOYD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.MASKFOUR"
+      "asset": "KIDPHOCKS.MASKFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.MASKONE"
+      "asset": "KIDPHOCKS.MASKONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.MASKTHREE"
+      "asset": "KIDPHOCKS.MASKTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.MASKTWO"
+      "asset": "KIDPHOCKS.MASKTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.NYA"
+      "asset": "KIDPHOCKS.NYA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.OGGY"
+      "asset": "KIDPHOCKS.OGGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.PIKAPIKA"
+      "asset": "KIDPHOCKS.PIKAPIKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.PINGU"
+      "asset": "KIDPHOCKS.PINGU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.PORCOROSSO"
+      "asset": "KIDPHOCKS.PORCOROSSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.SKELETOR"
+      "asset": "KIDPHOCKS.SKELETOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.SPONGEBOB"
+      "asset": "KIDPHOCKS.SPONGEBOB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.STUART"
+      "asset": "KIDPHOCKS.STUART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.WU"
+      "asset": "KIDPHOCKS.WU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "KIDPHOCKS.ZANE"
+      "asset": "KIDPHOCKS.ZANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "LILPHOCKERS"
@@ -187,49 +433,139 @@
       "asset": "LILPHOCKERS.WOWM"
     },
     {
-      "asset": "MVPPHOCK"
+      "asset": "MVPPHOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.ALLENIVERSON"
+      "asset": "MVPPHOCK.ALLENIVERSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.DIRKNOWITZKI"
+      "asset": "MVPPHOCK.DIRKNOWITZKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.HAKEEMOLAJUWON"
+      "asset": "MVPPHOCK.HAKEEMOLAJUWON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.KAREEMABDULJABBAR"
+      "asset": "MVPPHOCK.KAREEMABDULJABBAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.KEVINGARNETT"
+      "asset": "MVPPHOCK.KEVINGARNETT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.KOBEBRYANT"
+      "asset": "MVPPHOCK.KOBEBRYANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.LARRYBIRD"
+      "asset": "MVPPHOCK.LARRYBIRD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.LEBRONJAMES"
+      "asset": "MVPPHOCK.LEBRONJAMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.MAGICJOHNSON"
+      "asset": "MVPPHOCK.MAGICJOHNSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.MICHAELJORDAN"
+      "asset": "MVPPHOCK.MICHAELJORDAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.SHAQUILLEONEILL"
+      "asset": "MVPPHOCK.SHAQUILLEONEILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.STEPHENCURRY"
+      "asset": "MVPPHOCK.STEPHENCURRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.STEVENASH"
+      "asset": "MVPPHOCK.STEVENASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "MVPPHOCK.TIMDUNCAN"
+      "asset": "MVPPHOCK.TIMDUNCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
       "asset": "NOPHOCKGIVEN"
@@ -394,61 +730,175 @@
       "asset": "PHOCKART.DORSEY"
     },
     {
-      "asset": "PHOCKBANGERS"
+      "asset": "PHOCKBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.CLOWNBANGERS"
+      "asset": "PHOCKBANGERS.CLOWNBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.GENBANGERS"
+      "asset": "PHOCKBANGERS.GENBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.GOSBANGERS"
+      "asset": "PHOCKBANGERS.GOSBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.JERRYBANGERS"
+      "asset": "PHOCKBANGERS.JERRYBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.JORDANBANGERS"
+      "asset": "PHOCKBANGERS.JORDANBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.KREGBANGERS"
+      "asset": "PHOCKBANGERS.KREGBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.LEMYBANGERS"
+      "asset": "PHOCKBANGERS.LEMYBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.MIKBANGERS"
+      "asset": "PHOCKBANGERS.MIKBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.POLBANGERS"
+      "asset": "PHOCKBANGERS.POLBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.RICBANGERS"
+      "asset": "PHOCKBANGERS.RICBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.THREEBANGERS"
+      "asset": "PHOCKBANGERS.THREEBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBANGERS.TOMBANGERS"
+      "asset": "PHOCKBANGERS.TOMBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD"
+      "asset": "PHOCKBEARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD.CHARLIE"
+      "asset": "PHOCKBEARD.CHARLIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD.GRIZZ"
+      "asset": "PHOCKBEARD.GRIZZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD.ICE"
+      "asset": "PHOCKBEARD.ICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD.NOMNOM"
+      "asset": "PHOCKBEARD.NOMNOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKBEARD.PANDA"
+      "asset": "PHOCKBEARD.PANDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "PHOCKCHESS"
@@ -493,37 +943,103 @@
       "asset": "PHOCKCHESS.WHITEROOK"
     },
     {
-      "asset": "PHOCKCYBER"
+      "asset": "PHOCKCYBER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKCYBER.NUMBERFIVE"
+      "asset": "PHOCKCYBER.NUMBERFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKCYBER.NUMBERFOUR"
+      "asset": "PHOCKCYBER.NUMBERFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKCYBER.NUMBERONE"
+      "asset": "PHOCKCYBER.NUMBERONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKCYBER.NUMBERTHREE"
+      "asset": "PHOCKCYBER.NUMBERTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKCYBER.NUMBERTWO"
+      "asset": "PHOCKCYBER.NUMBERTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "PHOCKFITS"
+      "asset": "PHOCKFITS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKFITS.CRIMSON"
+      "asset": "PHOCKFITS.CRIMSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKFITS.DOYLE"
+      "asset": "PHOCKFITS.DOYLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKFITS.GLENN"
+      "asset": "PHOCKFITS.GLENN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "PHOCKFITS.JERRY"
+      "asset": "PHOCKFITS.JERRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "PHOCKGOTCHI"
@@ -580,100 +1096,292 @@
       "asset": "PHOCKGOTCHI.YASAGURETCHI"
     },
     {
-      "asset": "PHOCKGUARDS"
+      "asset": "PHOCKGUARDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.BABY"
+      "asset": "PHOCKGUARDS.BABY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.BUG"
+      "asset": "PHOCKGUARDS.BUG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.COSM"
+      "asset": "PHOCKGUARDS.COSM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.DRAX"
+      "asset": "PHOCKGUARDS.DRAX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.EGO"
+      "asset": "PHOCKGUARDS.EGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.GAMO"
+      "asset": "PHOCKGUARDS.GAMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.GROO"
+      "asset": "PHOCKGUARDS.GROO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.MANT"
+      "asset": "PHOCKGUARDS.MANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.ROCK"
+      "asset": "PHOCKGUARDS.ROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.RONA"
+      "asset": "PHOCKGUARDS.RONA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.STAR"
+      "asset": "PHOCKGUARDS.STAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.THAN"
+      "asset": "PHOCKGUARDS.THAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.THOR"
+      "asset": "PHOCKGUARDS.THOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.WARL"
+      "asset": "PHOCKGUARDS.WARL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKGUARDS.YOND"
+      "asset": "PHOCKGUARDS.YOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB"
+      "asset": "PHOCKHB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.ATOMANT"
+      "asset": "PHOCKHB.ATOMANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.BARNEYFLINTSTONE"
+      "asset": "PHOCKHB.BARNEYFLINTSTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.DICKDASTARDLY"
+      "asset": "PHOCKHB.DICKDASTARDLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.DINGALING"
+      "asset": "PHOCKHB.DINGALING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.FREDFLINSTONE"
+      "asset": "PHOCKHB.FREDFLINSTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.GEORGEJETSON"
+      "asset": "PHOCKHB.GEORGEJETSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.HUCKLEBERRYHOUND"
+      "asset": "PHOCKHB.HUCKLEBERRYHOUND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.JONNYQUEST"
+      "asset": "PHOCKHB.JONNYQUEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.MAGILLAGORILLA"
+      "asset": "PHOCKHB.MAGILLAGORILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.MUTTLEY"
+      "asset": "PHOCKHB.MUTTLEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.SCOOBYDOO"
+      "asset": "PHOCKHB.SCOOBYDOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.SHAGGY"
+      "asset": "PHOCKHB.SHAGGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.SNAGGLEPUSS"
+      "asset": "PHOCKHB.SNAGGLEPUSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.SPACEGHOST"
+      "asset": "PHOCKHB.SPACEGHOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHB.YOGIBEAR"
+      "asset": "PHOCKHB.YOGIBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS"
@@ -874,163 +1582,481 @@
       "asset": "PHOCKHEADS.XCOPY"
     },
     {
-      "asset": "PHOCKHORROR"
+      "asset": "PHOCKHORROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.BEETLEJUICE"
+      "asset": "PHOCKHORROR.BEETLEJUICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.BILLY"
+      "asset": "PHOCKHORROR.BILLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.CHUCKY"
+      "asset": "PHOCKHORROR.CHUCKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.FRANK"
+      "asset": "PHOCKHORROR.FRANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.FREDDY"
+      "asset": "PHOCKHORROR.FREDDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.HELLRAISER"
+      "asset": "PHOCKHORROR.HELLRAISER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.IT"
+      "asset": "PHOCKHORROR.IT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.JASON"
+      "asset": "PHOCKHORROR.JASON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.LEATHERFACE"
+      "asset": "PHOCKHORROR.LEATHERFACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.MICHAEL"
+      "asset": "PHOCKHORROR.MICHAEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.REGAN"
+      "asset": "PHOCKHORROR.REGAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.SADAKO"
+      "asset": "PHOCKHORROR.SADAKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.SCREAM"
+      "asset": "PHOCKHORROR.SCREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.SAM"
+      "asset": "PHOCKHORROR.SAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.JACK"
+      "asset": "PHOCKHORROR.JACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.ELVIRA"
+      "asset": "PHOCKHORROR.ELVIRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.WOLFMAN"
+      "asset": "PHOCKHORROR.WOLFMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.DRACULA"
+      "asset": "PHOCKHORROR.DRACULA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.SPAULDING"
+      "asset": "PHOCKHORROR.SPAULDING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.HANNIBAL"
+      "asset": "PHOCKHORROR.HANNIBAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.REANIMATOR"
+      "asset": "PHOCKHORROR.REANIMATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.CARRIE"
+      "asset": "PHOCKHORROR.CARRIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.JUON"
+      "asset": "PHOCKHORROR.JUON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.CRYPTGUARDIAN"
+      "asset": "PHOCKHORROR.CRYPTGUARDIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.NURSE"
+      "asset": "PHOCKHORROR.NURSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.MIKEINSPACE"
+      "asset": "PHOCKHORROR.MIKEINSPACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.ZOMBIE"
+      "asset": "PHOCKHORROR.ZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.NAKAZOMBIE"
+      "asset": "PHOCKHORROR.NAKAZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.VALAK"
+      "asset": "PHOCKHORROR.VALAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKHORROR.DOUG"
+      "asset": "PHOCKHORROR.DOUG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PHOCKMEMES.BRAINYWOJAK"
+      "asset": "PHOCKMEMES.BRAINYWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKMEMES.GONDOLA"
+      "asset": "PHOCKMEMES.GONDOLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKMEMES.NPC"
+      "asset": "PHOCKMEMES.NPC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKMEMES.SMINEM"
+      "asset": "PHOCKMEMES.SMINEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS"
+      "asset": "PHOCKNFTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.64GALLONTOTER"
+      "asset": "PHOCKNFTS.64GALLONTOTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.ASCIILENASCIIBERNANKE"
+      "asset": "PHOCKNFTS.ASCIILENASCIIBERNANKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.CHROMIESQUIGGLE"
+      "asset": "PHOCKNFTS.CHROMIESQUIGGLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.CURIOCARD1"
+      "asset": "PHOCKNFTS.CURIOCARD1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.ETHERIA"
+      "asset": "PHOCKNFTS.ETHERIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.FIDENZA"
+      "asset": "PHOCKNFTS.FIDENZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.GAZERS"
+      "asset": "PHOCKNFTS.GAZERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.LOOT"
+      "asset": "PHOCKNFTS.LOOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.NILICOINS"
+      "asset": "PHOCKNFTS.NILICOINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.NINJASUIT"
+      "asset": "PHOCKNFTS.NINJASUIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.OLGA"
+      "asset": "PHOCKNFTS.OLGA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.PUNYCODES"
+      "asset": "PHOCKNFTS.PUNYCODES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.QUANTUM"
+      "asset": "PHOCKNFTS.QUANTUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.TEST"
+      "asset": "PHOCKNFTS.TEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.TOKENSEQUALTEXT"
+      "asset": "PHOCKNFTS.TOKENSEQUALTEXT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.TWITTEREGG"
+      "asset": "PHOCKNFTS.TWITTEREGG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "PHOCKNFTS.WACKNAKAMOTO"
+      "asset": "PHOCKNFTS.WACKNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
       "asset": "PHOCKPARK"
@@ -1276,40 +2302,112 @@
       "asset": "PHOCKSBOX.TUX"
     },
     {
-      "asset": "PHOCKVILLAIN"
+      "asset": "PHOCKVILLAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.CROSSBONES"
+      "asset": "PHOCKVILLAIN.CROSSBONES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.DOCTORDOOM"
+      "asset": "PHOCKVILLAIN.DOCTORDOOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.HELA"
+      "asset": "PHOCKVILLAIN.HELA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.JOKER"
+      "asset": "PHOCKVILLAIN.JOKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.MAGNETO-"
+      "asset": "PHOCKVILLAIN.MAGNETO-",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.MODOK"
+      "asset": "PHOCKVILLAIN.MODOK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.RIDDLE"
+      "asset": "PHOCKVILLAIN.RIDDLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.SCARECROW"
+      "asset": "PHOCKVILLAIN.SCARECROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.THANOS"
+      "asset": "PHOCKVILLAIN.THANOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.TWOFACE"
+      "asset": "PHOCKVILLAIN.TWOFACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "PHOCKVILLAIN.VENOM"
+      "asset": "PHOCKVILLAIN.VENOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "PUNYPHOCKS"
@@ -1360,40 +2458,112 @@
       "asset": "PUNYPHOCKS.xn--yp9h"
     },
     {
-      "asset": "TWOSVENPHOCK"
+      "asset": "TWOSVENPHOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.ALANWILSON"
+      "asset": "TWOSVENPHOCK.ALANWILSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.AMYWINEHOUSE"
+      "asset": "TWOSVENPHOCK.AMYWINEHOUSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.BRIANJONES"
+      "asset": "TWOSVENPHOCK.BRIANJONES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.JANISJOPLIN"
+      "asset": "TWOSVENPHOCK.JANISJOPLIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT"
+      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.JIMIHENDRIX"
+      "asset": "TWOSVENPHOCK.JIMIHENDRIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.JIMMORISSON"
+      "asset": "TWOSVENPHOCK.JIMMORISSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.JOHNATHANBRANDIS"
+      "asset": "TWOSVENPHOCK.JOHNATHANBRANDIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.KURTCOBAIN"
+      "asset": "TWOSVENPHOCK.KURTCOBAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.ROBERTJOHNSON"
+      "asset": "TWOSVENPHOCK.ROBERTJOHNSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
-      "asset": "TWOSVENPHOCK.RONMCKERNAN"
+      "asset": "TWOSVENPHOCK.RONMCKERNAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
       "asset": "ZEROPHOCKS"

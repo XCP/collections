@@ -82,6 +82,10 @@ export function isCounterpartyAssetId(value) {
   return number >= MIN_NUMERIC_ASSET && number <= MAX_NUMERIC_ASSET;
 }
 
+// An issuing address is not an artist's name: the marketplace would show it
+// as a person. Leave the trait off until the artist is known.
+const BITCOIN_ADDRESS = /^(?:[13][1-9A-HJ-NP-Za-km-z]{25,34}|bc1[02-9ac-hj-np-z]{11,87})$/i;
+
 function normalizedAttribute(value, path) {
   const attribute = objectAt(value, path);
   exactKeys(attribute, ATTRIBUTE_KEYS, path);
@@ -93,6 +97,9 @@ function normalizedAttribute(value, path) {
     fail(`${path}.value`, "must be finite");
   }
   if (typeof attribute.value === "string") nonemptyString(attribute.value, `${path}.value`, 1_000);
+  if (traitType.toLowerCase() === "artist" && typeof attribute.value === "string" && BITCOIN_ADDRESS.test(attribute.value.trim())) {
+    fail(`${path}.value`, "must name the artist, not a Bitcoin address");
+  }
   return { trait_type: traitType, value: attribute.value };
 }
 

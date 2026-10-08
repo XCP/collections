@@ -106,7 +106,13 @@
       "asset": "PUTINSOCK"
     },
     {
-      "asset": "RASTASOCK"
+      "asset": "RASTASOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
     },
     {
       "asset": "RGBSOCK"
@@ -127,7 +133,13 @@
       "asset": "SOCKACHU"
     },
     {
-      "asset": "SOCKACTIVIST"
+      "asset": "SOCKACTIVIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
       "asset": "SOCKALISA"
@@ -181,7 +193,13 @@
       "asset": "SOCKLEPEW"
     },
     {
-      "asset": "SOCKLISA"
+      "asset": "SOCKLISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "SOCKLUMINATI"
@@ -247,7 +265,13 @@
       "asset": "SOCKTARD"
     },
     {
-      "asset": "SOCKTATE"
+      "asset": "SOCKTATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FRENSIDE"
+        }
+      ]
     },
     {
       "asset": "SOCKTRADER"
@@ -271,7 +295,13 @@
       "asset": "SUCKMYSOCK"
     },
     {
-      "asset": "TIMETOSOCK"
+      "asset": "TIMETOSOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "TROUTSOCK"

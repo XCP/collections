@@ -20,7 +20,13 @@
       "asset": "DROPPEDIN"
     },
     {
-      "asset": "EKAFKERAM"
+      "asset": "EKAFKERAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "ENLAKETCH"
@@ -32,7 +38,13 @@
       "asset": "EYEREEYES.SWAG"
     },
     {
-      "asset": "FAKEGVRMNT"
+      "asset": "FAKEGVRMNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "FAKESHERO.FAKESPOWER"
@@ -56,7 +68,13 @@
       "asset": "LIBERTYONE"
     },
     {
-      "asset": "MADNESSPEPE"
+      "asset": "MADNESSPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "MANTRAPEPE"
@@ -68,13 +86,25 @@
       "asset": "MUCHBASS"
     },
     {
-      "asset": "MUSICART"
+      "asset": "MUSICART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "MYFORTYFIVE"
     },
     {
-      "asset": "NOOTHERWAY"
+      "asset": "NOOTHERWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
     },
     {
       "asset": "NOTALLOWED"
@@ -86,13 +116,25 @@
       "asset": "OFFTHEGRID"
     },
     {
-      "asset": "PEPEFUNK"
+      "asset": "PEPEFUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     },
     {
       "asset": "RADAUDIO.ABSTRACTIONS"
     },
     {
-      "asset": "RIMINISIXAM"
+      "asset": "RIMINISIXAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
       "asset": "SEVNDAYZHERB"

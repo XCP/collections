@@ -67,19 +67,43 @@
       "asset": "CAMORRA"
     },
     {
-      "asset": "CAPOPEPE"
+      "asset": "CAPOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "CAPOREGIME"
     },
     {
-      "asset": "CARBOMB"
+      "asset": "CARBOMB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
-      "asset": "CDLC"
+      "asset": "CDLC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "CHANGPEPE"
+      "asset": "CHANGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "CHOPSHOP"
@@ -166,7 +190,13 @@
       "asset": "CRIMEINVTBRD"
     },
     {
-      "asset": "CRNSHAWMAFIA"
+      "asset": "CRNSHAWMAFIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoChainer"
+        }
+      ]
     },
     {
       "asset": "CRYPTODEALER"
@@ -202,7 +232,13 @@
       "asset": "DONHOMER"
     },
     {
-      "asset": "DONNIESNITCH"
+      "asset": "DONNIESNITCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
     },
     {
       "asset": "DONPABLO"
@@ -214,10 +250,22 @@
       "asset": "DONTRUMP"
     },
     {
-      "asset": "DONVITTORIO"
+      "asset": "DONVITTORIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "DREVILFROG"
+      "asset": "DREVILFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "DRYLAW"
@@ -226,10 +274,22 @@
       "asset": "DWEST"
     },
     {
-      "asset": "ELIOTNESS"
+      "asset": "ELIOTNESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "ENFORCERS"
+      "asset": "ENFORCERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
       "asset": "EYESANDEARS"
@@ -244,7 +304,13 @@
       "asset": "FAKEPASSPORT"
     },
     {
-      "asset": "FAKEPEPESPAM"
+      "asset": "FAKEPEPESPAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "FAKERAREPEPE"
@@ -253,7 +319,13 @@
       "asset": "FAMILYPHOTO"
     },
     {
-      "asset": "FATTONY"
+      "asset": "FATTONY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "FEMMEFATAL"
@@ -268,13 +340,25 @@
       "asset": "FLUSHROYAL"
     },
     {
-      "asset": "FROGMCCLANE"
+      "asset": "FROGMCCLANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "FUDSOLO"
     },
     {
-      "asset": "FULTONMARKET"
+      "asset": "FULTONMARKET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
       "asset": "FUNNYMAN"
@@ -298,7 +382,13 @@
       "asset": "GENOVESE"
     },
     {
-      "asset": "GLNVGN"
+      "asset": "GLNVGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
       "asset": "GMENCLUB"
@@ -307,10 +397,22 @@
       "asset": "GOLDENDEAGLE"
     },
     {
-      "asset": "GOOMAHBOOST"
+      "asset": "GOOMAHBOOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
-      "asset": "GREENMILL"
+      "asset": "GREENMILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "GROWSHOP"
@@ -319,7 +421,13 @@
       "asset": "GRUESOMEGUS"
     },
     {
-      "asset": "GUARDDOG"
+      "asset": "GUARDDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "GUNSHOP"
@@ -337,10 +445,22 @@
       "asset": "HATCHETMAN"
     },
     {
-      "asset": "HITLIST"
+      "asset": "HITLIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
-      "asset": "HNBL"
+      "asset": "HNBL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
       "asset": "HONKHONK"
@@ -352,10 +472,22 @@
       "asset": "HUCKSTER"
     },
     {
-      "asset": "IAMSTERDAM"
+      "asset": "IAMSTERDAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SIV"
+        }
+      ]
     },
     {
-      "asset": "INDIANAFROGS"
+      "asset": "INDIANAFROGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "ISONNY"
@@ -373,13 +505,31 @@
       "asset": "JRABBIT"
     },
     {
-      "asset": "JUETENG"
+      "asset": "JUETENG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
-      "asset": "KEISERFROG"
+      "asset": "KEISERFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "KINNIKUPEPE"
+      "asset": "KINNIKUPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "KOOPATROOPAS"
@@ -394,7 +544,13 @@
       "asset": "LADYINRED"
     },
     {
-      "asset": "LAEME"
+      "asset": "LAEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoChainer"
+        }
+      ]
     },
     {
       "asset": "LAUNDROMAT"
@@ -403,7 +559,13 @@
       "asset": "LOANSHARKS"
     },
     {
-      "asset": "LOUNGESINGER"
+      "asset": "LOUNGESINGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
       "asset": "LTOM"
@@ -451,13 +613,25 @@
       "asset": "MAFIAWARSAUC"
     },
     {
-      "asset": "MALVERDE"
+      "asset": "MALVERDE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus gg"
+        }
+      ]
     },
     {
       "asset": "MARIOMARIO"
     },
     {
-      "asset": "MARKEDMAN"
+      "asset": "MARKEDMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "MASKS"
@@ -466,19 +640,37 @@
       "asset": "MENOFHONOR"
     },
     {
-      "asset": "METAFATHER"
+      "asset": "METAFATHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "METSYSPWNBRK"
     },
     {
-      "asset": "MINIMEFROG"
+      "asset": "MINIMEFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "MISHKAVODKA"
     },
     {
-      "asset": "MOBCOP"
+      "asset": "MOBCOP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
     },
     {
       "asset": "MONEYPRINT"
@@ -490,7 +682,13 @@
       "asset": "MONKYBIZNESS"
     },
     {
-      "asset": "MONOPOLYWARS"
+      "asset": "MONOPOLYWARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "MOOK"
@@ -505,13 +703,25 @@
       "asset": "MWALONZO"
     },
     {
-      "asset": "NARCOSSUB"
+      "asset": "NARCOSSUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
     },
     {
       "asset": "NAVALNYI"
     },
     {
-      "asset": "NDRANGHETA"
+      "asset": "NDRANGHETA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "NONDA"
@@ -529,19 +739,37 @@
       "asset": "OSTAP"
     },
     {
-      "asset": "PEPEAVIS"
+      "asset": "PEPEAVIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "PEPEMAFIA"
     },
     {
-      "asset": "PEPENOCHO"
+      "asset": "PEPENOCHO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "PEPEOLOGY"
     },
     {
-      "asset": "PEPESOPRANO"
+      "asset": "PEPESOPRANO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "PEPESOZE"
@@ -553,7 +781,13 @@
       "asset": "PIGFARMER"
     },
     {
-      "asset": "PINKPOODLE"
+      "asset": "PINKPOODLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "PIXELMAFIA"
@@ -571,13 +805,25 @@
       "asset": "POUCHER"
     },
     {
-      "asset": "PRIVATEDICK"
+      "asset": "PRIVATEDICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
       "asset": "PRTCTNRKT"
     },
     {
-      "asset": "PUMPACTION"
+      "asset": "PUMPACTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "PUSHER"
@@ -586,7 +832,13 @@
       "asset": "QUEENB"
     },
     {
-      "asset": "RANDYPEPE"
+      "asset": "RANDYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "RAREAF.TER-PARTY"
@@ -625,10 +877,22 @@
       "asset": "SECRETBASE"
     },
     {
-      "asset": "SEXYFROG"
+      "asset": "SEXYFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "SHADOWREALM"
+      "asset": "SHADOWREALM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "SHARKSHYLOCK"
@@ -643,7 +907,13 @@
       "asset": "SOLDIER"
     },
     {
-      "asset": "SPINDOCTOR"
+      "asset": "SPINDOCTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "STEALINGART"
@@ -664,13 +934,25 @@
       "asset": "SUGARRAYS"
     },
     {
-      "asset": "TALKNOW"
+      "asset": "TALKNOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "THEADVOCATE"
     },
     {
-      "asset": "THEANTING"
+      "asset": "THEANTING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "THEBIGRACKET"
@@ -691,16 +973,40 @@
       "asset": "THEMECHANIC"
     },
     {
-      "asset": "THENUN"
+      "asset": "THENUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "THEOFFER"
+      "asset": "THEOFFER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
     },
     {
-      "asset": "THEPIMP"
+      "asset": "THEPIMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "THEPINKPEPE"
+      "asset": "THEPINKPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "TOMHAGEN"
@@ -754,7 +1060,13 @@
       "asset": "WOLFCRIME"
     },
     {
-      "asset": "WRECKINGYARD"
+      "asset": "WRECKINGYARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
       "asset": "YODEGENRAPS"

@@ -1,22 +1,46 @@
 {
   "assets": [
     {
-      "asset": "BADTRIPSHADI"
+      "asset": "BADTRIPSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "BIGSHAD"
     },
     {
-      "asset": "BOBSHADILAY"
+      "asset": "BOBSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "BREAKINGSHAD"
     },
     {
-      "asset": "BRIGHTSHADI"
+      "asset": "BRIGHTSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "CHADILAY"
+      "asset": "CHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "James McPickle"
+        }
+      ]
     },
     {
       "asset": "CHINANEWYEAR"
@@ -43,13 +67,25 @@
       "asset": "DAVINCISHAD"
     },
     {
-      "asset": "DEALSHADILAY"
+      "asset": "DEALSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
       "asset": "DEMOSHADILAY"
     },
     {
-      "asset": "DIESHADI"
+      "asset": "DIESHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "DIFFSHAD"
@@ -61,7 +97,13 @@
       "asset": "DRAWSHADILAY"
     },
     {
-      "asset": "ENJOYSHAD"
+      "asset": "ENJOYSHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "EVIVO"
@@ -73,16 +115,34 @@
       "asset": "FRAMPTON"
     },
     {
-      "asset": "FRISHADI"
+      "asset": "FRISHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FUCACTUSHADI"
+      "asset": "FUCACTUSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "GIGASHAD"
     },
     {
-      "asset": "GRIFFINSHAD"
+      "asset": "GRIFFINSHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "GRIMSHADI"
@@ -94,10 +154,22 @@
       "asset": "HHGTTSHADILY"
     },
     {
-      "asset": "HOMERLAY"
+      "asset": "HOMERLAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "IMPEPE"
+      "asset": "IMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
       "asset": "IMSHADBITCH"
@@ -106,7 +178,13 @@
       "asset": "IMWITHSHAD"
     },
     {
-      "asset": "INVISIBLSHAD"
+      "asset": "INVISIBLSHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "KEYBOARDSHAD"
@@ -121,19 +199,37 @@
       "asset": "LEGOSHADILAY"
     },
     {
-      "asset": "LORDRASHAD"
+      "asset": "LORDRASHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "LORDSHADILAY"
     },
     {
-      "asset": "MAGICSAROUND"
+      "asset": "MAGICSAROUND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mekabu"
+        }
+      ]
     },
     {
       "asset": "MEMETEMPLATE"
     },
     {
-      "asset": "MERRYSHADI"
+      "asset": "MERRYSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "METASHADILAY"
@@ -145,7 +241,13 @@
       "asset": "MODERNSHAD"
     },
     {
-      "asset": "NIGHTSHADI"
+      "asset": "NIGHTSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "NOTSHADILAY"
@@ -157,13 +259,25 @@
       "asset": "ONLYSHADS"
     },
     {
-      "asset": "PALASHADILAY"
+      "asset": "PALASHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "PATENTOFFICE"
     },
     {
-      "asset": "POPSHADILAY"
+      "asset": "POPSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Naeem"
+        }
+      ]
     },
     {
       "asset": "RARESHAD"
@@ -172,16 +286,40 @@
       "asset": "ROBCOIN"
     },
     {
-      "asset": "RSYC"
+      "asset": "RSYC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "SALVALAY"
+      "asset": "SALVALAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "SCREWSHADI"
+      "asset": "SCREWSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SCULLSHADI"
+      "asset": "SCULLSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "SELFPORTSHAD"
@@ -190,7 +328,13 @@
       "asset": "SHABBEYROAD"
     },
     {
-      "asset": "SHADALAY"
+      "asset": "SHADALAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "James McPickle"
+        }
+      ]
     },
     {
       "asset": "SHADBANKMAN"
@@ -199,40 +343,94 @@
       "asset": "SHADBOB"
     },
     {
-      "asset": "SHADBUBBLE"
+      "asset": "SHADBUBBLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     },
     {
       "asset": "SHADCASHBED"
     },
     {
-      "asset": "SHADCRUSADER"
+      "asset": "SHADCRUSADER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "SHADDYUFO"
     },
     {
-      "asset": "SHADEINSTEIN"
+      "asset": "SHADEINSTEIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
-      "asset": "SHADHOLIO"
+      "asset": "SHADHOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "SHADIBABE"
+      "asset": "SHADIBABE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "SHADIBOSHI"
     },
     {
-      "asset": "SHADIBUSCENI"
+      "asset": "SHADIBUSCENI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "SHADICLUB"
+      "asset": "SHADICLUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "SHADICMAN"
+      "asset": "SHADICMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHADICOIN"
+      "asset": "SHADICOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "SHADIDAHS"
@@ -241,35 +439,83 @@
       "asset": "SHADIDAS"
     },
     {
-      "asset": "SHADIELF"
+      "asset": "SHADIELF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "SHADIFARM"
     },
     {
       "asset": "SHADIFAUX",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "SHADIKACHU"
+      "asset": "SHADIKACHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "SHADIKING"
     },
     {
-      "asset": "SHADILACRES"
+      "asset": "SHADILACRES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "SHADILALISA"
+      "asset": "SHADILALISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "SHADILAMONDY"
+      "asset": "SHADILAMONDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "SHADILAMP"
+      "asset": "SHADILAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHADILAND"
+      "asset": "SHADILAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "SHADILAYAIR"
@@ -288,7 +534,13 @@
       "asset": "SHADILAYPUNK"
     },
     {
-      "asset": "SHADILAYSOG"
+      "asset": "SHADILAYSOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
       "asset": "SHADILAYTEST"
@@ -300,10 +552,22 @@
       "asset": "SHADILEES"
     },
     {
-      "asset": "SHADILENNON"
+      "asset": "SHADILENNON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "SHADILICKOIN"
+      "asset": "SHADILICKOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "SHADILUCKY"
@@ -312,46 +576,118 @@
       "asset": "SHADILUXURY"
     },
     {
-      "asset": "SHADILYN"
+      "asset": "SHADILYN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHADIMAMA"
+      "asset": "SHADIMAMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oni Giri"
+        }
+      ]
     },
     {
-      "asset": "SHADIMBER"
+      "asset": "SHADIMBER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHADINACCI"
+      "asset": "SHADINACCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
     },
     {
-      "asset": "SHADINDOM"
+      "asset": "SHADINDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHADINLIE"
+      "asset": "SHADINLIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "SHADIPINGU"
+      "asset": "SHADIPINGU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "SHADIQUIAT"
     },
     {
-      "asset": "SHADISCREAM"
+      "asset": "SHADISCREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "SHADISKATE"
+      "asset": "SHADISKATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "SHADISTUDIO"
+      "asset": "SHADISTUDIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Naeem"
+        }
+      ]
     },
     {
       "asset": "SHADITAXI"
     },
     {
-      "asset": "SHADITHEBADI"
+      "asset": "SHADITHEBADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "WomanNFT"
+        }
+      ]
     },
     {
-      "asset": "SHADITITAN"
+      "asset": "SHADITITAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "SHADIVERSE"
@@ -360,10 +696,22 @@
       "asset": "SHADKURTWOPE"
     },
     {
-      "asset": "SHADMCGEE"
+      "asset": "SHADMCGEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
     },
     {
-      "asset": "SHADNAP"
+      "asset": "SHADNAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "SHADNOSAURUS"
@@ -375,19 +723,37 @@
       "asset": "SHADRARE"
     },
     {
-      "asset": "SHADRONIN"
+      "asset": "SHADRONIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
       "asset": "SHADSHADILAY"
     },
     {
-      "asset": "SHADTARIST"
+      "asset": "SHADTARIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
       "asset": "SHADUMBRELLA"
     },
     {
-      "asset": "SHADVENTURE"
+      "asset": "SHADVENTURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "SHADWELL"
@@ -396,7 +762,13 @@
       "asset": "SHADWHALE"
     },
     {
-      "asset": "SHAIDLAY"
+      "asset": "SHAIDLAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tommy Marcheschi"
+        }
+      ]
     },
     {
       "asset": "SHANDINSKY"
@@ -414,34 +786,94 @@
       "asset": "SHATCOINCARD"
     },
     {
-      "asset": "SHMOL"
+      "asset": "SHMOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "SLIMSHADILAY"
+      "asset": "SLIMSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
-      "asset": "SOUNDSPELL"
+      "asset": "SOUNDSPELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "SPAD"
+      "asset": "SPAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
-      "asset": "SPIDERSHADI"
+      "asset": "SPIDERSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SQUEEZEDFROG"
+      "asset": "SQUEEZEDFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "TAJSHADILAY"
+      "asset": "TAJSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
-      "asset": "TRASHADILAY"
+      "asset": "TRASHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PAIN"
+        }
+      ]
     },
     {
-      "asset": "UFOSHADILAY"
+      "asset": "UFOSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
-      "asset": "WAKEUPSHADI"
+      "asset": "WAKEUPSHADI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "WEDIDIT"

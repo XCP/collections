@@ -19,10 +19,22 @@
       "asset": "DJPEPENAT"
     },
     {
-      "asset": "DRAWNATPEPE"
+      "asset": "DRAWNATPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "FEELSUNATMAN"
+      "asset": "FEELSUNATMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "FORKWARD"
@@ -31,7 +43,13 @@
       "asset": "GLOBEPEPE"
     },
     {
-      "asset": "GODMOLECULE"
+      "asset": "GODMOLECULE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "GREYUNAT"
@@ -40,19 +58,43 @@
       "asset": "KEKMONK"
     },
     {
-      "asset": "LFGDUNKPEPE"
+      "asset": "LFGDUNKPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "MEMELEGEND"
     },
     {
-      "asset": "NAKAIGNITE"
+      "asset": "NAKAIGNITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "NAKAPAINTER"
+      "asset": "NAKAPAINTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "NAKASOCCER"
+      "asset": "NAKASOCCER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "NATPRINTER"
@@ -73,7 +115,13 @@
       "asset": "NEVERPEPE"
     },
     {
-      "asset": "PEPEATCAFE"
+      "asset": "PEPEATCAFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "PEPESTARCARD"
@@ -106,7 +154,13 @@
       "asset": "THEYNATKNOW"
     },
     {
-      "asset": "UNATAIR"
+      "asset": "UNATAIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "UNATANSEM"
@@ -118,7 +172,13 @@
       "asset": "UNATBEANZ"
     },
     {
-      "asset": "UNATBOBBY"
+      "asset": "UNATBOBBY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "UNATBROKE"
@@ -163,7 +223,13 @@
       "asset": "UNATJESUS"
     },
     {
-      "asset": "UNATLISA"
+      "asset": "UNATLISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "UNATMEME"
@@ -205,7 +271,13 @@
       "asset": "UNATZILLA"
     },
     {
-      "asset": "VINTAGEUNAT"
+      "asset": "VINTAGEUNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "WALKOFMEME"

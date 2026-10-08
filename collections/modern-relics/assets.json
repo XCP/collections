@@ -7,7 +7,13 @@
       "asset": "BARBARIAN.BLACK"
     },
     {
-      "asset": "BARBARIAN.MEAL"
+      "asset": "BARBARIAN.MEAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "COBRA"
@@ -19,13 +25,31 @@
       "asset": "COBRA.CADUCEUS"
     },
     {
-      "asset": "COBRA.CrimsonQueen"
+      "asset": "COBRA.CrimsonQueen",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "COBRA.hauntedserpent"
+      "asset": "COBRA.hauntedserpent",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "COBRA.HERCULPEPES"
+      "asset": "COBRA.HERCULPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "COBRA.hypnotized",
@@ -35,7 +59,13 @@
       "asset": "COBRA.PEPE_BEER"
     },
     {
-      "asset": "COBRA.QUEEN"
+      "asset": "COBRA.QUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "COBRA.STALLONE"
@@ -47,7 +77,13 @@
       "asset": "COBRA.TATE"
     },
     {
-      "asset": "COBRA.TINFOILHAT"
+      "asset": "COBRA.TINFOILHAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "COLLECTOR"
@@ -62,10 +98,22 @@
       "asset": "COLLECTOR.COLLECTOR"
     },
     {
-      "asset": "COLLECTOR.FROGINAJAR"
+      "asset": "COLLECTOR.FROGINAJAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "COLLECTOR.FROGJUICE"
+      "asset": "COLLECTOR.FROGJUICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
       "asset": "COLLECTOR.Hand_of_Pepe"
@@ -74,28 +122,64 @@
       "asset": "COLLECTOR.Introducing_Pepe"
     },
     {
-      "asset": "COLLECTOR.KING"
+      "asset": "COLLECTOR.KING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "COLLECTOR.mint"
     },
     {
-      "asset": "COLLECTOR.mother"
+      "asset": "COLLECTOR.mother",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
     },
     {
       "asset": "COLLECTOR.not_a_hoarder"
     },
     {
-      "asset": "COLLECTOR.OOSEVEN"
+      "asset": "COLLECTOR.OOSEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
     },
     {
-      "asset": "COLLECTOR.PEPECOLLECTOR"
+      "asset": "COLLECTOR.PEPECOLLECTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "COLLECTOR.pepefc"
+      "asset": "COLLECTOR.pepefc",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "COLLECTOR.QUEEN"
+      "asset": "COLLECTOR.QUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "COLLECTOR.The_Collector"
@@ -110,7 +194,13 @@
       "asset": "CRAB"
     },
     {
-      "asset": "CRAB.BAND"
+      "asset": "CRAB.BAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "CRAB.CRABMR"
@@ -119,13 +209,25 @@
       "asset": "CRAB.HELP"
     },
     {
-      "asset": "CRAB.INVADER"
+      "asset": "CRAB.INVADER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "CRAB.SHINY"
     },
     {
-      "asset": "CRAB.Tramp"
+      "asset": "CRAB.Tramp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "CRAB.xcp"
@@ -134,7 +236,13 @@
       "asset": "DEMON"
     },
     {
-      "asset": "DEMON.FEARLESS"
+      "asset": "DEMON.FEARLESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "DEMON.LAVA_PEPE"
@@ -152,7 +260,13 @@
       "asset": "EYES.LASER"
     },
     {
-      "asset": "EYES.PEPE"
+      "asset": "EYES.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAIRY"
@@ -161,13 +275,25 @@
       "asset": "FAIRY.ANDPEPE"
     },
     {
-      "asset": "FAIRY.elvinia"
+      "asset": "FAIRY.elvinia",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "FAIRY.MAGIC"
     },
     {
-      "asset": "FAIRY.PEPE"
+      "asset": "FAIRY.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "FAIRY.The_Pepe_Fairy"
@@ -176,16 +302,34 @@
       "asset": "FAIRY.Tooth_Fairy"
     },
     {
-      "asset": "FAIRY.TWISTED"
+      "asset": "FAIRY.TWISTED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "FURY"
     },
     {
-      "asset": "FURY.NF"
+      "asset": "FURY.NF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "FURY.PEPE"
+      "asset": "FURY.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "FURY.TEMPEST"
@@ -197,7 +341,13 @@
       "asset": "GARGOYLE.AWAKENS"
     },
     {
-      "asset": "GARGOYLE.Gothic_Guardian"
+      "asset": "GARGOYLE.Gothic_Guardian",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "GARGOYLE.HUNCH"
@@ -206,10 +356,22 @@
       "asset": "GARGOYLE.INFAMOUS_PEPE"
     },
     {
-      "asset": "GARGOYLE.Mecha_Gargoyle_Enigma"
+      "asset": "GARGOYLE.Mecha_Gargoyle_Enigma",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "GARGOYLE.PEPE"
+      "asset": "GARGOYLE.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "GHOUL"
@@ -218,10 +380,22 @@
       "asset": "GHOUL.ATTACK"
     },
     {
-      "asset": "GHOUL.HIGH"
+      "asset": "GHOUL.HIGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "GHOUL.PEPE"
+      "asset": "GHOUL.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "GOAT"
@@ -230,34 +404,70 @@
       "asset": "GOAT.COWPEPE"
     },
     {
-      "asset": "GOAT.DEVILSGOAT"
+      "asset": "GOAT.DEVILSGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "GOAT.ERNEST"
     },
     {
-      "asset": "GOAT.Illumigoat"
+      "asset": "GOAT.Illumigoat",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "GOAT.Jeez"
+      "asset": "GOAT.Jeez",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
     },
     {
       "asset": "GOAT.JORDAN"
     },
     {
-      "asset": "GOAT.MJGOAT"
+      "asset": "GOAT.MJGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "GOAT.THE27CLUB"
     },
     {
-      "asset": "GOAT.WILLIEPEPENELSON"
+      "asset": "GOAT.WILLIEPEPENELSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "GODS"
     },
     {
-      "asset": "GODS.LOVESYALL"
+      "asset": "GODS.LOVESYALL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "GODS.OFCHAIN"
@@ -266,16 +476,34 @@
       "asset": "GODS.PEPE_IS_GOD"
     },
     {
-      "asset": "GODS.THATFAILED"
+      "asset": "GODS.THATFAILED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "GREED"
     },
     {
-      "asset": "GREED.GREEDMACDUCK"
+      "asset": "GREED.GREEDMACDUCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "GREED.ISGOOD"
+      "asset": "GREED.ISGOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "GREED.MAMMON"
@@ -287,7 +515,13 @@
       "asset": "GREED.PEPE"
     },
     {
-      "asset": "GREED.PORTALS"
+      "asset": "GREED.PORTALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "GREED.PRECIOUS"
@@ -302,10 +536,22 @@
       "asset": "INSOMNIA.CANTSLEEP"
     },
     {
-      "asset": "INSOMNIA.FIGHT"
+      "asset": "INSOMNIA.FIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "INSOMNIA.LETMEDREAM"
+      "asset": "INSOMNIA.LETMEDREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "LORD"
@@ -317,13 +563,25 @@
       "asset": "LORD.OFMEMES"
     },
     {
-      "asset": "LORD.OFTHERINGS"
+      "asset": "LORD.OFTHERINGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "LUCIFER"
     },
     {
-      "asset": "LUCIFER.LUCIFUN"
+      "asset": "LUCIFER.LUCIFUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "LUCIFER.WHOISGENSLER"
@@ -332,13 +590,25 @@
       "asset": "MERMAID"
     },
     {
-      "asset": "MERMAID.BIKINIBOTTOM"
+      "asset": "MERMAID.BIKINIBOTTOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "MERMAID.BLOCKCHAIN"
     },
     {
-      "asset": "MERMAID.BOOBS"
+      "asset": "MERMAID.BOOBS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "MERMAID.FART"
@@ -350,7 +620,13 @@
       "asset": "PSYCHO"
     },
     {
-      "asset": "PSYCHO.CYBERPUNK"
+      "asset": "PSYCHO.CYBERPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "PSYCHO.DALIESQUE"
@@ -362,7 +638,13 @@
       "asset": "PSYCHO.IMHOME"
     },
     {
-      "asset": "PSYCHO.KILLER"
+      "asset": "PSYCHO.KILLER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "PSYCHO.KRUEGER"
@@ -371,7 +653,13 @@
       "asset": "PSYCHO.MASKOFF"
     },
     {
-      "asset": "PSYCHO.OG"
+      "asset": "PSYCHO.OG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PSYCHO.PEPE"
@@ -387,10 +675,22 @@
       "asset": "SUMO"
     },
     {
-      "asset": "SUMO.BABY"
+      "asset": "SUMO.BABY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "SUMO.BIGINJAPAN"
+      "asset": "SUMO.BIGINJAPAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "SUMO.FACEOFF"
@@ -399,13 +699,25 @@
       "asset": "VIPER"
     },
     {
-      "asset": "VIPER.BRO"
+      "asset": "VIPER.BRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "VIPER.FINAL_BITCOIN"
     },
     {
-      "asset": "VIPER.MRVIPERPEPE"
+      "asset": "VIPER.MRVIPERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "VIPER.PEPE"
@@ -414,16 +726,34 @@
       "asset": "VIPER.SELFID"
     },
     {
-      "asset": "VIPER.SELFSERVICE"
+      "asset": "VIPER.SELFSERVICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "VIPER.THELOVER"
+      "asset": "VIPER.THELOVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "VIPER.UH_OH"
     },
     {
-      "asset": "VIPER.VENOMNIGHT"
+      "asset": "VIPER.VENOMNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "VIPER.VYPER"
@@ -435,7 +765,13 @@
       "asset": "WASP.WASPHEAD"
     },
     {
-      "asset": "WASP.WASPPE"
+      "asset": "WASP.WASPPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     }
   ]
 }

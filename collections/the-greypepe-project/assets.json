@@ -7,7 +7,13 @@
       "asset": "BUTTTANNER"
     },
     {
-      "asset": "CINEREOUS"
+      "asset": "CINEREOUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "CULTUREGREY"
@@ -19,19 +25,43 @@
       "asset": "FLYMETODMOON"
     },
     {
-      "asset": "GALF"
+      "asset": "GALF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "GLAIRPEPE"
+      "asset": "GLAIRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "GRALIEN"
     },
     {
-      "asset": "GRAPEPE"
+      "asset": "GRAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "GRAYTEARS"
+      "asset": "GRAYTEARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "GREYAREAPEPE"
@@ -43,7 +73,13 @@
       "asset": "GREYDJPEPE"
     },
     {
-      "asset": "GREYGALAXY"
+      "asset": "GREYGALAXY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "GREYGHOST"
@@ -79,10 +115,22 @@
       "asset": "GREYWHALIEN"
     },
     {
-      "asset": "GRISPEPE"
+      "asset": "GRISPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "GUERNICAPEPE"
+      "asset": "GUERNICAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "INVADERPEPE"
@@ -100,13 +148,25 @@
       "asset": "MENINGREY"
     },
     {
-      "asset": "NEOMORPH"
+      "asset": "NEOMORPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "ONLYONEGREY"
     },
     {
-      "asset": "ORIGAE"
+      "asset": "ORIGAE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "PEEKABOOGREY"
@@ -115,7 +175,13 @@
       "asset": "PEPEANUNNAKI"
     },
     {
-      "asset": "SHADESOFGREY"
+      "asset": "SHADESOFGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "STALKERGREY"
@@ -130,13 +196,25 @@
       "asset": "THEGREYPEPES"
     },
     {
-      "asset": "UFOMO"
+      "asset": "UFOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "desultor"
+        }
+      ]
     },
     {
       "asset": "YOQUIEROGREY"
     },
     {
-      "asset": "YOUAREGREY"
+      "asset": "YOUAREGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
     }
   ]
 }

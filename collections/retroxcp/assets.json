@@ -4,25 +4,55 @@
       "asset": "BITCOINSNAKE"
     },
     {
-      "asset": "BITKOMBAT"
+      "asset": "BITKOMBAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "BITRIS"
     },
     {
-      "asset": "BITRUNNER"
+      "asset": "BITRUNNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "BOMBERXPEPE"
+      "asset": "BOMBERXPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "BROPEPE"
+      "asset": "BROPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
     },
     {
       "asset": "BTLPEPE"
     },
     {
-      "asset": "BUSTAPEPE"
+      "asset": "BUSTAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "CARPETBAGGER"
@@ -52,13 +82,31 @@
       "asset": "DANKSHINING"
     },
     {
-      "asset": "DIGIBITCOIN"
+      "asset": "DIGIBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "DONKEYPEP"
+      "asset": "DONKEYPEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "DRMARIOTOSHI"
+      "asset": "DRMARIOTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
       "asset": "DROOLBATTLE.SPACEAPE"
@@ -76,7 +124,13 @@
       "asset": "FROGGERPEPE"
     },
     {
-      "asset": "GAMEMOTO"
+      "asset": "GAMEMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "GAUNTPEP"
@@ -88,19 +142,43 @@
       "asset": "GRAILHUNT"
     },
     {
-      "asset": "GREASEPEPE"
+      "asset": "GREASEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "GUNSMOKEPEPE"
     },
     {
-      "asset": "KAARTPEPE"
+      "asset": "KAARTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
-      "asset": "KARATERETRO"
+      "asset": "KARATERETRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
     },
     {
-      "asset": "KEKLINK"
+      "asset": "KEKLINK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "KIRBYPEPE"
@@ -118,7 +196,13 @@
       "asset": "MORTALKEKBAT"
     },
     {
-      "asset": "MRPEPEYOD"
+      "asset": "MRPEPEYOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "MSDOS"
@@ -130,16 +214,34 @@
       "asset": "NESPEPE"
     },
     {
-      "asset": "NORETRONET"
+      "asset": "NORETRONET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "NVRNDINGPEPE"
     },
     {
-      "asset": "ONTHEROPES"
+      "asset": "ONTHEROPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "PACMANPEPE"
+      "asset": "PACMANPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
     },
     {
       "asset": "PENIGHTFEVER"
@@ -157,7 +259,13 @@
       "asset": "PEPEHERM"
     },
     {
-      "asset": "PEPEHUNT"
+      "asset": "PEPEHUNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "PEPEKUNGFU"
@@ -178,10 +286,22 @@
       "asset": "PEPEPUZZLE"
     },
     {
-      "asset": "PEPESTRAD"
+      "asset": "PEPESTRAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "PEPIECIRCUSS"
+      "asset": "PEPIECIRCUSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "PEPROIDGALAX"
@@ -190,13 +310,25 @@
       "asset": "PITMOON"
     },
     {
-      "asset": "PMAN"
+      "asset": "PMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "PROSKATER"
     },
     {
-      "asset": "RAYMANPEPE"
+      "asset": "RAYMANPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
     },
     {
       "asset": "REBELPEPE"
@@ -211,16 +343,34 @@
       "asset": "RETROHAIR.SUPERSHINE"
     },
     {
-      "asset": "RETROKEKKEN"
+      "asset": "RETROKEKKEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "RETROPEPMAN"
     },
     {
-      "asset": "RETROSTART"
+      "asset": "RETROSTART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
-      "asset": "RETROTETRIS"
+      "asset": "RETROTETRIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "RTRNBAJAM"
@@ -232,16 +382,34 @@
       "asset": "SHRUNKSHIT"
     },
     {
-      "asset": "SMOLDRIVE"
+      "asset": "SMOLDRIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "SONIKEK"
+      "asset": "SONIKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "STANDBYME"
     },
     {
-      "asset": "STARPEPEX"
+      "asset": "STARPEPEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "STARSTRIKE"
@@ -250,22 +418,46 @@
       "asset": "STREETFGHTR"
     },
     {
-      "asset": "THEPESK"
+      "asset": "THEPESK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "TOADALFACTS"
     },
     {
-      "asset": "TOADSDREAM"
+      "asset": "TOADSDREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
-      "asset": "TOTALCARNAGE"
+      "asset": "TOTALCARNAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "URBANCHAMP"
     },
     {
-      "asset": "WIZOFBIT"
+      "asset": "WIZOFBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "XCPFANTASY"

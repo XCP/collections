@@ -1,70 +1,166 @@
 {
   "assets": [
     {
-      "asset": "BITERIA"
+      "asset": "BITERIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "CNSTRCTNPEPE"
     },
     {
-      "asset": "CONQUERORARE"
+      "asset": "CONQUERORARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "CRYPTLAND"
     },
     {
-      "asset": "CYBRDVTHLND"
+      "asset": "CYBRDVTHLND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
-      "asset": "DACHUMPLANDS"
+      "asset": "DACHUMPLANDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "DARKLANDS"
     },
     {
-      "asset": "DEEPLAND"
+      "asset": "DEEPLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
-      "asset": "DRASILAND"
+      "asset": "DRASILAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
       "asset": "FLATLANDS"
     },
     {
-      "asset": "FREELAND"
+      "asset": "FREELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
     },
     {
-      "asset": "HENGEKEK"
+      "asset": "HENGEKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
-      "asset": "KEKEYELAND"
+      "asset": "KEKEYELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crypto hunks"
+        }
+      ]
     },
     {
-      "asset": "KEKLAND"
+      "asset": "KEKLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
     },
     {
-      "asset": "KEKOWSKILAND"
+      "asset": "KEKOWSKILAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
     },
     {
       "asset": "KEKSPACE"
     },
     {
-      "asset": "KETERLAND"
+      "asset": "KETERLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "KONOHALAND"
+      "asset": "KONOHALAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "LANDRARE"
+      "asset": "LANDRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "LONELYLAND"
     },
     {
-      "asset": "MACHUPEPECHU"
+      "asset": "MACHUPEPECHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
     },
     {
-      "asset": "MAROONED"
+      "asset": "MAROONED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "MINERLANDS"
@@ -73,16 +169,34 @@
       "asset": "MOONDREAMS"
     },
     {
-      "asset": "NAKAMOTOLAND"
+      "asset": "NAKAMOTOLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
       "asset": "NOSMOLISLAND"
     },
     {
-      "asset": "PEPAVERSE"
+      "asset": "PEPAVERSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
-      "asset": "PEPEPIXELAND"
+      "asset": "PEPEPIXELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
       "asset": "PEPESCAPE"
@@ -91,31 +205,73 @@
       "asset": "PEPEVILLLA"
     },
     {
-      "asset": "RARELAND"
+      "asset": "RARELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
     },
     {
-      "asset": "RARELANDPEPE"
+      "asset": "RARELANDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "RARELANDS"
     },
     {
-      "asset": "SALTMAP"
+      "asset": "SALTMAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
     },
     {
-      "asset": "SATOSHILAND"
+      "asset": "SATOSHILAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cyph3rpunk5"
+        }
+      ]
     },
     {
-      "asset": "SMOLATOLL"
+      "asset": "SMOLATOLL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "SMOLFALL"
+      "asset": "SMOLFALL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
       "asset": "SMOLLAAND"
     },
     {
-      "asset": "SMOLPLATOE"
+      "asset": "SMOLPLATOE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
     },
     {
       "asset": "SMOWLGUARO"
@@ -136,16 +292,40 @@
       "asset": "TENDIELAND"
     },
     {
-      "asset": "THEGM"
+      "asset": "THEGM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "THELALALAND"
+      "asset": "THELALALAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
     },
     {
-      "asset": "THESMOL"
+      "asset": "THESMOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "TUBBYLAND"
+      "asset": "TUBBYLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "ULTRALAND"
