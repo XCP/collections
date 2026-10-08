@@ -6,8 +6,8 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 403 assets |
-| Primary memberships | 403 |
+| Membership | 433 assets |
+| Primary memberships | 433 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
 | Traits | None |

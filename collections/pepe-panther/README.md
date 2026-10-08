@@ -1,4 +1,4 @@
-# Bitcorn Crops
+# PEPEPANTHER
 
 <!-- collection-facts:start -->
 ## Registry facts
@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 374 assets |
-| Primary memberships | 374 |
+| Membership | 13 assets |
+| Primary memberships | 13 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 374/374 (100%)<br>Card: 364/374 (97.3%)<br>Series: 364/374 (97.3%) |
+| Traits | Artist: 13/13 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
