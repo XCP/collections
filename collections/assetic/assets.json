@@ -19,7 +19,13 @@
       "asset": "FASS"
     },
     {
-      "asset": "FEELSGOODASS"
+      "asset": "FEELSGOODASS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "HOMERASS"
@@ -28,7 +34,13 @@
       "asset": "LIKEASS"
     },
     {
-      "asset": "OOAKXXXMRYUK"
+      "asset": "OOAKXXXMRYUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "PAPERASS"
@@ -61,7 +73,13 @@
       "asset": "TESTASS"
     },
     {
-      "asset": "THEASSHOLE"
+      "asset": "THEASSHOLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "TWERK"

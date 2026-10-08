@@ -10,7 +10,13 @@
       "asset": "BARARENTRUMP"
     },
     {
-      "asset": "BHAGAVADBTC"
+      "asset": "BHAGAVADBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "BIGMIKEDANCE"
@@ -19,7 +25,13 @@
       "asset": "BIRDSTHEWORD"
     },
     {
-      "asset": "BITCOINTAO"
+      "asset": "BITCOINTAO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "BITKOI"
@@ -37,19 +49,43 @@
       "asset": "BOOMTIME"
     },
     {
-      "asset": "BREEDLOVE"
+      "asset": "BREEDLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "BTCISHOPE"
     },
     {
-      "asset": "BTCPRESIDENT"
+      "asset": "BTCPRESIDENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "BTCWARRIOR"
+      "asset": "BTCWARRIOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "BURGUERTRUMP"
+      "asset": "BURGUERTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "BUSTEDJPEPE"
@@ -67,10 +103,22 @@
       "asset": "CODEMONKEYZ"
     },
     {
-      "asset": "COINDISPENSE"
+      "asset": "COINDISPENSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "COUNTERPUNCH"
+      "asset": "COUNTERPUNCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "COVFEFEART"
@@ -82,7 +130,13 @@
       "asset": "COVFEFEPEPE"
     },
     {
-      "asset": "COVPEPE"
+      "asset": "COVPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ]
     },
     {
       "asset": "CREEPYKAMALA"
@@ -139,7 +193,13 @@
       "asset": "EPSTEINFILES"
     },
     {
-      "asset": "ERAOFPIRACY"
+      "asset": "ERAOFPIRACY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YT"
+        }
+      ]
     },
     {
       "asset": "ERIKPRINCE"
@@ -233,7 +293,13 @@
       "asset": "GODARMOR"
     },
     {
-      "asset": "GOODGAMEGARY"
+      "asset": "GOODGAMEGARY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
     },
     {
       "asset": "GQPEPE"
@@ -299,22 +365,46 @@
       "asset": "JPEPELOWERY"
     },
     {
-      "asset": "KEKACE"
+      "asset": "KEKACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "KEKASCENSION"
+      "asset": "KEKASCENSION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "KEKCHIEF"
     },
     {
-      "asset": "KEKCOUNCIL"
+      "asset": "KEKCOUNCIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "KEKFEFE"
     },
     {
-      "asset": "KEKFORCORN"
+      "asset": "KEKFORCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "KEKHODL"
@@ -323,16 +413,34 @@
       "asset": "KEKINWARSH"
     },
     {
-      "asset": "KEKLUMINATIS"
+      "asset": "KEKLUMINATIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "KEKMIRROR"
     },
     {
-      "asset": "KEKRAMID"
+      "asset": "KEKRAMID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "KEKSTONE"
+      "asset": "KEKSTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "KILLERAPP"
@@ -341,7 +449,13 @@
       "asset": "LAWANDORDER"
     },
     {
-      "asset": "LAZORBOY"
+      "asset": "LAZORBOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "LEADEROFKEK"
@@ -359,7 +473,13 @@
       "asset": "LRDBLCKSCHLD"
     },
     {
-      "asset": "MAGICMEME"
+      "asset": "MAGICMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "MAKEDANKRARE"
@@ -389,13 +509,31 @@
       "asset": "MOAB.PEPEBOMB"
     },
     {
-      "asset": "MUGSHOT"
+      "asset": "MUGSHOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
-      "asset": "MUSKJUMPING"
+      "asset": "MUSKJUMPING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "MYSTICASCEND"
+      "asset": "MYSTICASCEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "MYTHQTRUMP"
@@ -455,7 +593,13 @@
       "asset": "PASSIONPEPE"
     },
     {
-      "asset": "PATRIOTPROG"
+      "asset": "PATRIOTPROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "PEPEAMMOUS"
@@ -467,7 +611,13 @@
       "asset": "PEPEBROOKS"
     },
     {
-      "asset": "PEPECEE"
+      "asset": "PEPECEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "PEPECHEQUES"
@@ -476,7 +626,13 @@
       "asset": "PEPECHIEF"
     },
     {
-      "asset": "PEPECRAMER"
+      "asset": "PEPECRAMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "PEPEFINKCOIN"
@@ -497,7 +653,13 @@
       "asset": "PEPEISPROUD"
     },
     {
-      "asset": "PEPEJACKD"
+      "asset": "PEPEJACKD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "PEPEKWAST"
@@ -506,7 +668,13 @@
       "asset": "PEPELASVEGAS"
     },
     {
-      "asset": "PEPELEGACY"
+      "asset": "PEPELEGACY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "PEPELETTER"
@@ -551,13 +719,25 @@
       "asset": "PEPESAVEME"
     },
     {
-      "asset": "PEPESCULT"
+      "asset": "PEPESCULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "PEPESGATE"
     },
     {
-      "asset": "PEPESNOWDEN"
+      "asset": "PEPESNOWDEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "PEPESOFWAR"
@@ -626,7 +806,13 @@
       "asset": "QTRUMP"
     },
     {
-      "asset": "RARECOCK"
+      "asset": "RARECOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "RAREGABRIEL"
@@ -647,16 +833,34 @@
       "asset": "RARERUGPULL"
     },
     {
-      "asset": "RESISTCBDC"
+      "asset": "RESISTCBDC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "RETURNOFUSA"
     },
     {
-      "asset": "RFKEK"
+      "asset": "RFKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
-      "asset": "RIDEWITHPEPE"
+      "asset": "RIDEWITHPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "ROTHSCHILDS"
@@ -717,7 +921,13 @@
       "asset": "STRLDYKEKUIT"
     },
     {
-      "asset": "SUPERTRUMP"
+      "asset": "SUPERTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
       "asset": "TAXDEEZNUTS"
@@ -807,7 +1017,13 @@
       "asset": "TRUMPTRAIN"
     },
     {
-      "asset": "TRUMTREASOR"
+      "asset": "TRUMTREASOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "TRUSTFLYNN"
@@ -841,7 +1057,13 @@
       "primary": false
     },
     {
-      "asset": "WIKIASSANGE"
+      "asset": "WIKIASSANGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
     },
     {
       "asset": "WINNINGBIGLY"
@@ -850,16 +1072,34 @@
       "asset": "XCHAINLEGEND"
     },
     {
-      "asset": "XICHINPING"
+      "asset": "XICHINPING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "XILOVESKEK"
+      "asset": "XILOVESKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "YELLENPEPE"
     },
     {
-      "asset": "YINYIN"
+      "asset": "YINYIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mike"
+        }
+      ]
     },
     {
       "asset": "YOKAIPEPE"

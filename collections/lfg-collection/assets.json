@@ -37,13 +37,25 @@
       "asset": "COPYPASTGOLD"
     },
     {
-      "asset": "COUNTERREJOY"
+      "asset": "COUNTERREJOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "CRYPTOCZAR"
     },
     {
-      "asset": "DARKPROPHECY"
+      "asset": "DARKPROPHECY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "DNTPEPENIC"
@@ -58,22 +70,46 @@
       "asset": "DUHPEPE"
     },
     {
-      "asset": "EGOROYALE"
+      "asset": "EGOROYALE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "EHOKAYPEPE"
     },
     {
-      "asset": "ELFGXCHAIN"
+      "asset": "ELFGXCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "FAKEOLDFROG"
+      "asset": "FAKEOLDFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FAKEPROPHECY"
     },
     {
-      "asset": "FAKTELEPHONE"
+      "asset": "FAKTELEPHONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FIREHORSELFG"
@@ -82,13 +118,31 @@
       "asset": "FRIENDLYFIRE"
     },
     {
-      "asset": "FROGNATION"
+      "asset": "FROGNATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "FROGPROPHET"
+      "asset": "FROGPROPHET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "FROGSLAVERY"
+      "asset": "FROGSLAVERY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FULLFUGGEM"
@@ -106,7 +160,13 @@
       "asset": "GMPEPES"
     },
     {
-      "asset": "HEWHOHOLDS"
+      "asset": "HEWHOHOLDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "HOPEFORYOU"
@@ -121,7 +181,13 @@
       "asset": "ITSCOMMING"
     },
     {
-      "asset": "JACKDESIGNER"
+      "asset": "JACKDESIGNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "JECKALISLAND"
@@ -130,16 +196,34 @@
       "asset": "JUNETHIRD"
     },
     {
-      "asset": "JUSTICELFG"
+      "asset": "JUSTICELFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "KEKBTCPHLUG"
+      "asset": "KEKBTCPHLUG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "KEKLOSOPHY"
     },
     {
-      "asset": "KEKWARRANT"
+      "asset": "KEKWARRANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "KNOTSKAMOTO"
@@ -151,10 +235,22 @@
       "asset": "LFGACE"
     },
     {
-      "asset": "LFGAFRODITE"
+      "asset": "LFGAFRODITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "LFGASF"
+      "asset": "LFGASF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "LFGAWAKEN"
@@ -172,7 +268,13 @@
       "asset": "LFGEVOLVE"
     },
     {
-      "asset": "LFGFOUNDER"
+      "asset": "LFGFOUNDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "LFGFOUR"
@@ -184,7 +286,13 @@
       "asset": "LFGFRIEND"
     },
     {
-      "asset": "LFGHOPEALIVE"
+      "asset": "LFGHOPEALIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "LFGKEK"
@@ -215,37 +323,97 @@
       "asset": "LFGORBITAL"
     },
     {
-      "asset": "LFGPARTY"
+      "asset": "LFGPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPE"
+      "asset": "LFGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPEFAKER"
+      "asset": "LFGPEPEFAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPEFAKER.RAREDRAGON"
+      "asset": "LFGPEPEFAKER.RAREDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPEFAKER.RAREGOKU"
+      "asset": "LFGPEPEFAKER.RAREGOKU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPEFAKER.RAREVEGETA"
+      "asset": "LFGPEPEFAKER.RAREVEGETA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "LFGPEPEFAKER.XFACTOR"
+      "asset": "LFGPEPEFAKER.XFACTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
-      "asset": "LFGPROPHECY"
+      "asset": "LFGPROPHECY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "LFGQUEEN"
+      "asset": "LFGQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "LFGROOM"
     },
     {
-      "asset": "LFGROYALFIRE"
+      "asset": "LFGROYALFIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "LFGSPEAKER"
@@ -287,10 +455,22 @@
       "asset": "MYSOUP"
     },
     {
-      "asset": "NAKAAFRICA"
+      "asset": "NAKAAFRICA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "NAKAXMASSLFG"
+      "asset": "NAKAXMASSLFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "NATUREBOY"
@@ -305,7 +485,13 @@
       "asset": "ORANGEFIGHT"
     },
     {
-      "asset": "PAPETOLFG"
+      "asset": "PAPETOLFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "PEPEAWAY"
@@ -371,7 +557,13 @@
       "asset": "PEPESMIRK"
     },
     {
-      "asset": "PEPESURE"
+      "asset": "PEPESURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "PEPETRUMPFGT"
@@ -380,43 +572,97 @@
       "asset": "PIXELLIMIT"
     },
     {
-      "asset": "PROJECTKNIFE"
+      "asset": "PROJECTKNIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PROOFOFMIND"
+      "asset": "PROOFOFMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "RAREANGLE"
+      "asset": "RAREANGLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "RAREBABYSWAN"
+      "asset": "RAREBABYSWAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "RAREERIC"
     },
     {
-      "asset": "RAREKEKXMAS"
+      "asset": "RAREKEKXMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "RARESNAPLAPS"
     },
     {
-      "asset": "RICHPRESIDDO"
+      "asset": "RICHPRESIDDO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "SATASHI"
+      "asset": "SATASHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
       "asset": "SIDEPEPE"
     },
     {
-      "asset": "SIGNALFLARE"
+      "asset": "SIGNALFLARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OOAKOSIMO"
+        }
+      ]
     },
     {
       "asset": "SLEEPINGNFT"
     },
     {
-      "asset": "SMILINGJACK"
+      "asset": "SMILINGJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "SURFPEPE"
@@ -434,7 +680,13 @@
       "asset": "TOOFUNNYPEPE"
     },
     {
-      "asset": "TOOWEIRDPEPE"
+      "asset": "TOOWEIRDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "TREASURYPEPE"
@@ -446,13 +698,25 @@
       "asset": "TRUMPWOJAK"
     },
     {
-      "asset": "ULTIMATELFG"
+      "asset": "ULTIMATELFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "UNITECRYPTO"
     },
     {
-      "asset": "WAILINGWOJAK"
+      "asset": "WAILINGWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "WEALTHYPEPE"
@@ -461,22 +725,46 @@
       "asset": "WINNERPEPE"
     },
     {
-      "asset": "XCHAINREBIRT"
+      "asset": "XCHAINREBIRT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "XCPWARRIOR"
     },
     {
-      "asset": "XLFGSCOUTER"
+      "asset": "XLFGSCOUTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "XLFGUNBOUND"
+      "asset": "XLFGUNBOUND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "YESSSSPEPE"
     },
     {
-      "asset": "YOUANDMELFG"
+      "asset": "YOUANDMELFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     }
   ]
 }

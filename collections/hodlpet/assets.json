@@ -1,10 +1,22 @@
 {
   "assets": [
     {
-      "asset": "DEVTHPETHODL"
+      "asset": "DEVTHPETHODL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
-      "asset": "DRACOPEPITO"
+      "asset": "DRACOPEPITO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "morlacos"
+        }
+      ]
     },
     {
       "asset": "FEELSGOODPET"

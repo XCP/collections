@@ -48,7 +48,13 @@
       "asset": "CRASHPGN"
     },
     {
-      "asset": "CROWNBOY"
+      "asset": "CROWNBOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "CZPIGEON"
@@ -129,7 +135,13 @@
       "asset": "GREYPIGEON"
     },
     {
-      "asset": "GROUNDED"
+      "asset": "GROUNDED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
       "asset": "GTAPIGEON"
@@ -196,7 +208,13 @@
       "asset": "NARDWUARPGN"
     },
     {
-      "asset": "NATUREGRAIL"
+      "asset": "NATUREGRAIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "NERONPGN"
@@ -211,7 +229,13 @@
       "asset": "NOOTHODL"
     },
     {
-      "asset": "NOTASCAMPIJO"
+      "asset": "NOTASCAMPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "OPPGN"
@@ -220,34 +244,76 @@
       "asset": "ORDIMSG"
     },
     {
-      "asset": "ORIGAMIPGN"
+      "asset": "ORIGAMIPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "OVERTHEROOF"
+      "asset": "OVERTHEROOF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "PALEFLYER"
     },
     {
-      "asset": "PARADISEPGN"
+      "asset": "PARADISEPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "PATHFINDER"
     },
     {
-      "asset": "PEACEPIGEON"
+      "asset": "PEACEPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PECKING"
+      "asset": "PECKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
-      "asset": "PEEREON"
+      "asset": "PEEREON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
     },
     {
       "asset": "PENPENGEON"
     },
     {
-      "asset": "PEPEPIJO"
+      "asset": "PEPEPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "PEPIGEON"
@@ -259,82 +325,202 @@
       "asset": "PGNALIEN"
     },
     {
-      "asset": "PGNALONE"
+      "asset": "PGNALONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "PGNARTIST"
+      "asset": "PGNARTIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PGNBOXERRCKY"
+      "asset": "PGNBOXERRCKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PGNCOBBEE"
     },
     {
-      "asset": "PGNFDN"
+      "asset": "PGNFDN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "PGNGENESIS"
+      "asset": "PGNGENESIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PGNGODFATHER"
+      "asset": "PGNGODFATHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "PGNHUNTER"
+      "asset": "PGNHUNTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PGNKARMA"
+      "asset": "PGNKARMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PGNMASON"
     },
     {
-      "asset": "PGNPEACE"
+      "asset": "PGNPEACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PGNSACRIFICE"
     },
     {
-      "asset": "PGNSAMURAI"
+      "asset": "PGNSAMURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PGNSTRIKE"
     },
     {
-      "asset": "PGNZOMBIA"
+      "asset": "PGNZOMBIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "PGONEST"
+      "asset": "PGONEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "PICASSOPGN"
     },
     {
-      "asset": "PIGALLEON"
+      "asset": "PIGALLEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGANKSY"
+      "asset": "PIGANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGECOINS"
+      "asset": "PIGECOINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGECROW"
+      "asset": "PIGECROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "PIGEINVATION"
     },
     {
-      "asset": "PIGEISHA"
+      "asset": "PIGEISHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGEOGAMBLER"
+      "asset": "PIGEOGAMBLER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONACDTRP"
+      "asset": "PIGEONACDTRP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "PIGEONBARBER"
+      "asset": "PIGEONBARBER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PIGEONCLAP"
@@ -343,94 +529,232 @@
       "asset": "PIGEONCORN"
     },
     {
-      "asset": "PIGEONCULT"
+      "asset": "PIGEONCULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PIGEONDIVINE"
     },
     {
-      "asset": "PIGEONEMPIRE"
+      "asset": "PIGEONEMPIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONFATHER"
+      "asset": "PIGEONFATHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONFLAME"
+      "asset": "PIGEONFLAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONGENIUS"
+      "asset": "PIGEONGENIUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONINTRAP"
+      "asset": "PIGEONINTRAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "PIGEONISM"
     },
     {
-      "asset": "PIGEONLAYERS"
+      "asset": "PIGEONLAYERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONLEGION"
+      "asset": "PIGEONLEGION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGEONLEGOS"
+      "asset": "PIGEONLEGOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "PIGEONMASTER"
     },
     {
-      "asset": "PIGEONMODEL"
+      "asset": "PIGEONMODEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEONPOLICE"
+      "asset": "PIGEONPOLICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "PIGEONPOPO"
+      "asset": "PIGEONPOPO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "PIGEONPOST"
     },
     {
-      "asset": "PIGEONPRIEST"
+      "asset": "PIGEONPRIEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PIGEONSHIT"
     },
     {
-      "asset": "PIGEONSTACK"
+      "asset": "PIGEONSTACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "PIGEONSTEVE"
     },
     {
-      "asset": "PIGEONTERMIR"
+      "asset": "PIGEONTERMIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "PIGEONTOSKY"
+      "asset": "PIGEONTOSKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "PIGEONWARIOR"
+      "asset": "PIGEONWARIOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEOUNCHAIN"
+      "asset": "PIGEOUNCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGEOWHISKEY"
+      "asset": "PIGEOWHISKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "PIGERAON"
+      "asset": "PIGERAON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGGYGEON"
+      "asset": "PIGGYGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
-      "asset": "PIGYAKUZA"
+      "asset": "PIGYAKUZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
     },
     {
       "asset": "PIJOLADY"
     },
     {
-      "asset": "PIXOPIJO"
+      "asset": "PIXOPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "PLANEPIGEON"
@@ -445,22 +769,58 @@
       "asset": "POTPIGEON"
     },
     {
-      "asset": "PRISMPIGEONA"
+      "asset": "PRISMPIGEONA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "PRISMPIGEONB"
+      "asset": "PRISMPIGEONB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "PRISMPIGEONC"
+      "asset": "PRISMPIGEONC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "PRISMPIGEOND"
+      "asset": "PRISMPIGEOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "PRISMPIGEONE"
+      "asset": "PRISMPIGEONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "PRISMPIGEONF"
+      "asset": "PRISMPIGEONF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "PUMPNOAT"
@@ -478,7 +838,13 @@
       "asset": "REMBRANDTPGN"
     },
     {
-      "asset": "RESIDENTPEN"
+      "asset": "RESIDENTPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
       "asset": "ROBOTPGN"
@@ -487,7 +853,13 @@
       "asset": "ROCKWELLPGN"
     },
     {
-      "asset": "ROSEYPGN"
+      "asset": "ROSEYPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "RPIJO"
@@ -499,7 +871,13 @@
       "asset": "SAMURAIPGN"
     },
     {
-      "asset": "SAXPIGEON"
+      "asset": "SAXPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "SECRETPJO"
@@ -508,10 +886,22 @@
       "asset": "SEEKERPGN"
     },
     {
-      "asset": "SKYPIGEONS"
+      "asset": "SKYPIGEONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "SNOOPPIJO"
+      "asset": "SNOOPPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
       "asset": "SOGPIGEON"
@@ -565,13 +955,25 @@
       "asset": "VANGOGHPGN"
     },
     {
-      "asset": "XCHAINPIGEON"
+      "asset": "XCHAINPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "XQUISITEPGN"
     },
     {
-      "asset": "XRAREPIGEON"
+      "asset": "XRAREPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "XRPIGEON"

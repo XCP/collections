@@ -10,7 +10,13 @@
       "asset": "BRITNEYQR"
     },
     {
-      "asset": "BTCPAPERSCAN"
+      "asset": "BTCPAPERSCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "BTCPIZZASCAN"
@@ -31,16 +37,34 @@
       "asset": "DEKOONINGQR"
     },
     {
-      "asset": "DERPMENSION.QR"
+      "asset": "DERPMENSION.QR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
       "asset": "DOODLEQR"
     },
     {
-      "asset": "ENDLESSCAVE"
+      "asset": "ENDLESSCAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
-      "asset": "ETHNICPEPE"
+      "asset": "ETHNICPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "FLORENCEQR"
@@ -49,10 +73,22 @@
       "asset": "HAPPYLTLQR"
     },
     {
-      "asset": "HODLLAGE.QR"
+      "asset": "HODLLAGE.QR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "INKWASHQR"
+      "asset": "INKWASHQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "INVESTINART"
@@ -76,7 +112,13 @@
       "asset": "MILLENNIALQR"
     },
     {
-      "asset": "MODERNSCAN"
+      "asset": "MODERNSCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "MONOPOLYQR"
@@ -118,19 +160,49 @@
       "asset": "QDERPLORDAPE"
     },
     {
-      "asset": "QRABBITWHITE"
+      "asset": "QRABBITWHITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "QRANDINSKY"
+      "asset": "QRANDINSKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "QRAPEMAGIC"
+      "asset": "QRAPEMAGIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "QRBANKSY"
+      "asset": "QRBANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRBASQUIAT"
+      "asset": "QRBASQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "QRBITCORN"
@@ -139,7 +211,13 @@
       "asset": "QRBOSHI"
     },
     {
-      "asset": "QRBROS"
+      "asset": "QRBROS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ysdrwn"
+        }
+      ]
     },
     {
       "asset": "QRCHAPLIN"
@@ -163,7 +241,13 @@
       "asset": "QRDERPYMONA"
     },
     {
-      "asset": "QRDOGE"
+      "asset": "QRDOGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "QRDUCHAMP"
@@ -175,7 +259,13 @@
       "asset": "QRFLIP"
     },
     {
-      "asset": "QRGIGA"
+      "asset": "QRGIGA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "QRGUITAR"
@@ -187,46 +277,106 @@
       "asset": "QRHENDRIX"
     },
     {
-      "asset": "QRHIDESEEK"
+      "asset": "QRHIDESEEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRHITMAN"
+      "asset": "QRHITMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "QRKIMBROWAF"
     },
     {
-      "asset": "QRKLEE"
+      "asset": "QRKLEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRLEDERP"
+      "asset": "QRLEDERP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "QRLEGO"
+      "asset": "QRLEGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "QRLIFE"
     },
     {
-      "asset": "QRLISA"
+      "asset": "QRLISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "QRLISAFRANK"
     },
     {
-      "asset": "QRMAGE"
+      "asset": "QRMAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
-      "asset": "QRMEWTOSHI"
+      "asset": "QRMEWTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "QRMFER"
+      "asset": "QRMFER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
       "asset": "QRMONDRIAN"
     },
     {
-      "asset": "QRNEEDLOVE"
+      "asset": "QRNEEDLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "QROCEANA"
@@ -235,16 +385,34 @@
       "asset": "QROKEEFFE"
     },
     {
-      "asset": "QRORDINAL"
+      "asset": "QRORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "QROUTOFHELL"
     },
     {
-      "asset": "QRPACPAC"
+      "asset": "QRPACPAC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRPANDA"
+      "asset": "QRPANDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "QRPEPE"
@@ -253,43 +421,115 @@
       "asset": "QRPICASSO"
     },
     {
-      "asset": "QRPOLLOCK"
+      "asset": "QRPOLLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRPUNK"
+      "asset": "QRPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "QRPYSANKY"
     },
     {
-      "asset": "QRRARE"
+      "asset": "QRRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "QRRBAYC"
+      "asset": "QRRBAYC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
-      "asset": "QRSARUTOBI"
+      "asset": "QRSARUTOBI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "QRSEURAT"
+      "asset": "QRSEURAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "QRTEST"
+      "asset": "QRTEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "QRTETRIS"
+      "asset": "QRTETRIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "QRTV"
+      "asset": "QRTV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "QRTWITTER"
+      "asset": "QRTWITTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "QRVANGOGH"
+      "asset": "QRVANGOGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "QRVERMEER"
+      "asset": "QRVERMEER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "QRWARHOL"
@@ -316,7 +556,13 @@
       "asset": "SADPLANE"
     },
     {
-      "asset": "SCANATOMO"
+      "asset": "SCANATOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "SCANNABLROYL"
@@ -331,7 +577,13 @@
       "asset": "STOOGESQR"
     },
     {
-      "asset": "THEARTTRADER"
+      "asset": "THEARTTRADER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "THESCREAMQR"
@@ -343,7 +595,13 @@
       "asset": "WALLSTCROC"
     },
     {
-      "asset": "WORLDISGREEN.QR"
+      "asset": "WORLDISGREEN.QR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
       "asset": "YELLOWSQR"

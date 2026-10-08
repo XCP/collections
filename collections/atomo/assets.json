@@ -1,17 +1,41 @@
 {
   "assets": [
     {
-      "asset": "CHCRYPTOCAT"
+      "asset": "CHCRYPTOCAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "CORNATOMO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
-      "asset": "FRENSINPARIS"
+      "asset": "FRENSINPARIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
-      "asset": "LATOMO"
+      "asset": "LATOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOAC"
@@ -44,7 +68,13 @@
       "asset": "LATOMOBA"
     },
     {
-      "asset": "LATOMOBCY"
+      "asset": "LATOMOBCY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOBE"
@@ -59,13 +89,25 @@
       "asset": "LATOMOBK"
     },
     {
-      "asset": "LATOMOBOO"
+      "asset": "LATOMOBOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOBR"
     },
     {
-      "asset": "LATOMOBRAIN"
+      "asset": "LATOMOBRAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOC"
@@ -74,7 +116,13 @@
       "asset": "LATOMOCA"
     },
     {
-      "asset": "LATOMOCAPTIO"
+      "asset": "LATOMOCAPTIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOCD"
@@ -137,13 +185,25 @@
       "asset": "LATOMOFM"
     },
     {
-      "asset": "LATOMOFOMO"
+      "asset": "LATOMOFOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOFR"
     },
     {
-      "asset": "LATOMOFUN"
+      "asset": "LATOMOFUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOGA"
@@ -170,7 +230,13 @@
       "asset": "LATOMOHO"
     },
     {
-      "asset": "LATOMOHOHOHO"
+      "asset": "LATOMOHOHOHO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOHS"
@@ -203,7 +269,13 @@
       "asset": "LATOMOLU"
     },
     {
-      "asset": "LATOMOLUCKY"
+      "asset": "LATOMOLUCKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOLV"
@@ -251,7 +323,13 @@
       "asset": "LATOMONO"
     },
     {
-      "asset": "LATOMONOICO"
+      "asset": "LATOMONOICO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMONP"
@@ -263,7 +341,13 @@
       "asset": "LATOMOOG"
     },
     {
-      "asset": "LATOMOONOFF"
+      "asset": "LATOMOONOFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOOS"
@@ -344,10 +428,22 @@
       "asset": "LATOMOSN"
     },
     {
-      "asset": "LATOMOSOCOIN"
+      "asset": "LATOMOSOCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
-      "asset": "LATOMOSOG"
+      "asset": "LATOMOSOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOSR"
@@ -389,7 +485,13 @@
       "asset": "LATOMOW"
     },
     {
-      "asset": "LATOMOWOW"
+      "asset": "LATOMOWOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMOXE"
@@ -407,7 +509,13 @@
       "asset": "LATOMOZR"
     },
     {
-      "asset": "SRGSSR"
+      "asset": "SRGSSR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     }
   ]
 }

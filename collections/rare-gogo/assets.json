@@ -1,13 +1,25 @@
 {
   "assets": [
     {
-      "asset": "BARKLEYGOAT"
+      "asset": "BARKLEYGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
     },
     {
       "asset": "BTCGOATGRUFF"
     },
     {
-      "asset": "CAPRA"
+      "asset": "CAPRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "CCGOGO"
@@ -31,10 +43,22 @@
       "asset": "GOATLAVANDAL"
     },
     {
-      "asset": "GOATMARKET"
+      "asset": "GOATMARKET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
     },
     {
-      "asset": "GOATMILK"
+      "asset": "GOATMILK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
     },
     {
       "asset": "GOATSEASON"
@@ -52,10 +76,22 @@
       "asset": "GOGOGOCH"
     },
     {
-      "asset": "GOGOHORN"
+      "asset": "GOGOHORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
-      "asset": "GOGOWOMAN"
+      "asset": "GOGOWOMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "WomanNFT"
+        }
+      ]
     },
     {
       "asset": "GOOOAT"
@@ -64,19 +100,37 @@
       "asset": "HOODGOAT"
     },
     {
-      "asset": "KINGGOGO"
+      "asset": "KINGGOGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VSTRVL"
+        }
+      ]
     },
     {
       "asset": "LFGOGO"
     },
     {
-      "asset": "OLGOAT"
+      "asset": "OLGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
     },
     {
       "asset": "RAREGOGO"
     },
     {
-      "asset": "RAREIBEX"
+      "asset": "RAREIBEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
     },
     {
       "asset": "RAREPEP"
@@ -85,10 +139,22 @@
       "asset": "RUBINKHNUM"
     },
     {
-      "asset": "SUPREMEGOAT"
+      "asset": "SUPREMEGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mighty Shroom"
+        }
+      ]
     },
     {
-      "asset": "VANGOAT"
+      "asset": "VANGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        }
+      ]
     },
     {
       "asset": "VVDGOGO"

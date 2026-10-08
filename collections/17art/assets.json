@@ -10,7 +10,13 @@
       "asset": "BIGIDEA"
     },
     {
-      "asset": "BILLRUSSEL"
+      "asset": "BILLRUSSEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "BITCOINGREAT"
@@ -34,7 +40,13 @@
       "asset": "CARDBORDPOND"
     },
     {
-      "asset": "CARROTHORN"
+      "asset": "CARROTHORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "CHIGUIAFRO"
@@ -95,7 +107,13 @@
       "asset": "DANKERIDOO"
     },
     {
-      "asset": "DANKFSPEAKER"
+      "asset": "DANKFSPEAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "DANPEPVINO"
@@ -148,7 +166,13 @@
     },
     {
       "asset": "FLAGDAY",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "FLIESOFEGYPT"
@@ -168,7 +192,13 @@
     },
     {
       "asset": "GODARMOR",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "GODXPEPE"
@@ -220,7 +250,13 @@
       "asset": "JONNYFIVPEPE"
     },
     {
-      "asset": "JOURNEYPEPE"
+      "asset": "JOURNEYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "JULIETH"
@@ -233,10 +269,22 @@
       "primary": false
     },
     {
-      "asset": "KEKEVER"
+      "asset": "KEKEVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "KEKFLUTE"
+      "asset": "KEKFLUTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "KEKHODL",
@@ -274,7 +322,13 @@
       "asset": "MARGARITAVIL"
     },
     {
-      "asset": "MEGAXPEPE"
+      "asset": "MEGAXPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
       "asset": "MELANIAKISS"
@@ -283,10 +337,22 @@
       "asset": "MELANIAPEPE"
     },
     {
-      "asset": "MEMEWARS"
+      "asset": "MEMEWARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
-      "asset": "MERMAIDSTORY"
+      "asset": "MERMAIDSTORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "MIRIEMS"
@@ -365,7 +431,13 @@
       "asset": "PEPEFIRST"
     },
     {
-      "asset": "PEPEFOURONE"
+      "asset": "PEPEFOURONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ELHelloWorld"
+        }
+      ]
     },
     {
       "asset": "PEPEFROGGIE"
@@ -432,7 +504,13 @@
       "asset": "PEPERNICUS"
     },
     {
-      "asset": "PEPESCOMPANY"
+      "asset": "PEPESCOMPANY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "PEPESOFWAR",
@@ -451,7 +529,13 @@
       "asset": "PEPEWEATHER"
     },
     {
-      "asset": "PESTICIDES"
+      "asset": "PESTICIDES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "PETROSOCIAL"
@@ -466,7 +550,13 @@
       "asset": "POORCOWS"
     },
     {
-      "asset": "PRESLEYELVIS"
+      "asset": "PRESLEYELVIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
     },
     {
       "asset": "PROOFOFTROL"
@@ -520,19 +610,37 @@
       "asset": "REDSMILE"
     },
     {
-      "asset": "REINKAMOTO"
+      "asset": "REINKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
     },
     {
       "asset": "RESERVEBTC"
     },
     {
-      "asset": "RETICULART"
+      "asset": "RETICULART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "RISEOFZFROGS"
     },
     {
-      "asset": "RRSSANON"
+      "asset": "RRSSANON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "SATOSHICORE"
@@ -553,7 +661,13 @@
       "asset": "SMITETHEDUST"
     },
     {
-      "asset": "SMOLTRUMP"
+      "asset": "SMOLTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
       "asset": "SOVERKEK"
@@ -591,7 +705,13 @@
     },
     {
       "asset": "THESAVIOR",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "THUMBSPEPE"
@@ -652,16 +772,34 @@
       "primary": false
     },
     {
-      "asset": "VULTUREGIRL"
+      "asset": "VULTUREGIRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
     },
     {
       "asset": "WALLETPROFIT"
     },
     {
-      "asset": "WHITECAPEPE"
+      "asset": "WHITECAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
-      "asset": "WHOSSATONAKA"
+      "asset": "WHOSSATONAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "WILLSLAP"
@@ -670,7 +808,13 @@
       "asset": "WORLDORDER"
     },
     {
-      "asset": "WORLDWARPEPE"
+      "asset": "WORLDWARPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
     },
     {
       "asset": "XCANCELLABLE"

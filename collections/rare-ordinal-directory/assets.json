@@ -1,19 +1,43 @@
 {
   "assets": [
     {
-      "asset": "BASQETPEPE"
+      "asset": "BASQETPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
     },
     {
-      "asset": "BASQORD"
+      "asset": "BASQORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "BERETTAGOOD"
+      "asset": "BERETTAGOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
     },
     {
       "asset": "BERNDINAL"
     },
     {
-      "asset": "BIGBRORDINAL"
+      "asset": "BIGBRORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
       "asset": "BIGBUTTS"
@@ -34,19 +58,43 @@
       "asset": "BLACKLISTOR"
     },
     {
-      "asset": "BREAKORDINAL"
+      "asset": "BREAKORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "BTCORDINALS"
+      "asset": "BTCORDINALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "BTCPEPEPUNK"
     },
     {
-      "asset": "BTCRODPUNK"
+      "asset": "BTCRODPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "BTCRODPUNK.HOOD"
+      "asset": "BTCRODPUNK.HOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "BURNINGKISS"
@@ -58,19 +106,43 @@
       "asset": "CARDINORDAL"
     },
     {
-      "asset": "CASEYRARE"
+      "asset": "CASEYRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
-      "asset": "CATINFOILHAT"
+      "asset": "CATINFOILHAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
     },
     {
-      "asset": "CCORDINAL"
+      "asset": "CCORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
     },
     {
       "asset": "CENSORDINAL"
     },
     {
-      "asset": "CHADINOL"
+      "asset": "CHADINOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "CHANCHU"
@@ -82,7 +154,13 @@
       "asset": "CORNDINAL"
     },
     {
-      "asset": "CORNKID"
+      "asset": "CORNKID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Harold Harambe"
+        }
+      ]
     },
     {
       "asset": "COUNTORDINAL"
@@ -94,7 +172,13 @@
       "asset": "CYBERPARTY"
     },
     {
-      "asset": "DANDAMAN"
+      "asset": "DANDAMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "DANKAFRARES"
@@ -118,7 +202,13 @@
       "asset": "FEELSQUAKE"
     },
     {
-      "asset": "FEEME"
+      "asset": "FEEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
       "asset": "FIRSTGM"
@@ -127,13 +217,31 @@
       "asset": "FUNDEDPEPE"
     },
     {
-      "asset": "FYOUMONEY"
+      "asset": "FYOUMONEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
-      "asset": "GHOTB"
+      "asset": "GHOTB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "GOLDENRECORD"
+      "asset": "GOLDENRECORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        }
+      ]
     },
     {
       "asset": "GOTORDINALS"
@@ -145,7 +253,13 @@
       "asset": "GOTORDINALS.3"
     },
     {
-      "asset": "GUIDORDINAL"
+      "asset": "GUIDORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
     },
     {
       "asset": "HELLOORD"
@@ -175,10 +289,22 @@
       "asset": "JORDINAL"
     },
     {
-      "asset": "KANDINSKYORD"
+      "asset": "KANDINSKYORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
     },
     {
-      "asset": "KEKTOSHI"
+      "asset": "KEKTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "KIMJONGORD"
@@ -202,7 +328,13 @@
       "asset": "LORDINALIND"
     },
     {
-      "asset": "LORDINALKEK"
+      "asset": "LORDINALKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "LORDQUAKE"
@@ -211,10 +343,22 @@
       "asset": "LORDY"
     },
     {
-      "asset": "MAXHODL"
+      "asset": "MAXHODL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
-      "asset": "MEMEORDINAL"
+      "asset": "MEMEORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
     },
     {
       "asset": "MEMEPEPOOL"
@@ -235,10 +379,22 @@
       "asset": "NONFINANCIAL"
     },
     {
-      "asset": "NORDINAL"
+      "asset": "NORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "NOSPEPERATU"
+      "asset": "NOSPEPERATU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
       "asset": "NOTARMORD"
@@ -247,10 +403,22 @@
       "asset": "ODIDYOUWANT"
     },
     {
-      "asset": "OFFROADINAL"
+      "asset": "OFFROADINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
-      "asset": "OFORORDINAL"
+      "asset": "OFORORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
       "asset": "OLDINAL"
@@ -259,10 +427,22 @@
       "asset": "OMEGALULORD"
     },
     {
-      "asset": "ONEORDINAL"
+      "asset": "ONEORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        }
+      ]
     },
     {
-      "asset": "ORDANCE"
+      "asset": "ORDANCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
       "asset": "ORDAROUND"
@@ -274,52 +454,124 @@
       "asset": "ORDBEY"
     },
     {
-      "asset": "ORDBTCNOBRDR"
+      "asset": "ORDBTCNOBRDR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "ORDBTCSNKE"
+      "asset": "ORDBTCSNKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "ORDCLUB"
     },
     {
-      "asset": "ORDEFEND"
+      "asset": "ORDEFEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
-      "asset": "ORDEINSTEIN"
+      "asset": "ORDEINSTEIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
       "asset": "ORDERNAL"
     },
     {
-      "asset": "ORDFAUCET"
+      "asset": "ORDFAUCET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
     },
     {
-      "asset": "ORDIBANK"
+      "asset": "ORDIBANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
-      "asset": "ORDICULT"
+      "asset": "ORDICULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "ORDILAX"
     },
     {
-      "asset": "ORDILEAKS"
+      "asset": "ORDILEAKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
     },
     {
-      "asset": "ORDILINES"
+      "asset": "ORDILINES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "ORDILLUMNAT"
+      "asset": "ORDILLUMNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "ORDINALARMY"
     },
     {
-      "asset": "ORDINALART"
+      "asset": "ORDINALART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
-      "asset": "ORDINALBARON"
+      "asset": "ORDINALBARON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     },
     {
       "asset": "ORDINALBLOCK"
@@ -334,13 +586,31 @@
       "asset": "ORDINALCASH"
     },
     {
-      "asset": "ORDINALCHECK"
+      "asset": "ORDINALCHECK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
-      "asset": "ORDINALDANK"
+      "asset": "ORDINALDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "ORDINALFORCE"
+      "asset": "ORDINALFORCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "ORDINALFRENZ.5"
@@ -349,58 +619,136 @@
       "asset": "ORDINALGTSE"
     },
     {
-      "asset": "ORDINALHERE"
+      "asset": "ORDINALHERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "ORDINALHERO"
+      "asset": "ORDINALHERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
     },
     {
-      "asset": "ORDINALHOOD"
+      "asset": "ORDINALHOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
-      "asset": "ORDINALIEN"
+      "asset": "ORDINALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
       "asset": "ORDINALKESHA"
     },
     {
-      "asset": "ORDINALKISS"
+      "asset": "ORDINALKISS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "ORDINALMAXI"
+      "asset": "ORDINALMAXI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
-      "asset": "ORDINALONE"
+      "asset": "ORDINALONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Salva"
+        }
+      ]
     },
     {
       "asset": "ORDINALPEPE"
     },
     {
-      "asset": "ORDINALPI"
+      "asset": "ORDINALPI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "ORDINALPILL"
     },
     {
-      "asset": "ORDINALPIZZA"
+      "asset": "ORDINALPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
     },
     {
       "asset": "ORDINALPREME"
     },
     {
-      "asset": "ORDINALPUTIN"
+      "asset": "ORDINALPUTIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "ORDINALRARE"
     },
     {
-      "asset": "ORDINALRUN"
+      "asset": "ORDINALRUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "ORDINALSCASH"
+      "asset": "ORDINALSCASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "ORDINALSDICE"
+      "asset": "ORDINALSDICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
       "asset": "ORDINALSLUNA"
@@ -412,7 +760,13 @@
       "asset": "ORDINALSNES"
     },
     {
-      "asset": "ORDINALSROCK"
+      "asset": "ORDINALSROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "ORDINALSTORY"
@@ -421,7 +775,13 @@
       "asset": "ORDINALSUGAR"
     },
     {
-      "asset": "ORDINALTRUMP"
+      "asset": "ORDINALTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GMONEY"
+        }
+      ]
     },
     {
       "asset": "ORDINALTX"
@@ -430,52 +790,112 @@
       "asset": "ORDINALYF"
     },
     {
-      "asset": "ORDINALYPPL"
+      "asset": "ORDINALYPPL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
     },
     {
       "asset": "ORDINAMA"
     },
     {
-      "asset": "ORDINART"
+      "asset": "ORDINART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
       "asset": "ORDINOOOS"
     },
     {
-      "asset": "ORDIPOLLOCK"
+      "asset": "ORDIPOLLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
     },
     {
-      "asset": "ORDMULANT"
+      "asset": "ORDMULANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "ORDNATION"
     },
     {
-      "asset": "ORDOLLAR"
+      "asset": "ORDOLLAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "ORDPARTY"
     },
     {
-      "asset": "ORDPEPECESAR"
+      "asset": "ORDPEPECESAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
-      "asset": "ORDPEPEINSCR"
+      "asset": "ORDPEPEINSCR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AbysVora"
+        }
+      ]
     },
     {
-      "asset": "ORDPEPEXIV"
+      "asset": "ORDPEPEXIV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
       "asset": "ORDPHANTOM"
     },
     {
-      "asset": "ORDPPMOLIERE"
+      "asset": "ORDPPMOLIERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Daisy"
+        }
+      ]
     },
     {
       "asset": "ORDRING"
     },
     {
-      "asset": "ORDROSS"
+      "asset": "ORDROSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "ORDSCHACH"
@@ -484,7 +904,13 @@
       "asset": "ORDSMOBILE"
     },
     {
-      "asset": "ORDSOFGALAXY"
+      "asset": "ORDSOFGALAXY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "ORDSOUL"
@@ -493,7 +919,13 @@
       "asset": "ORDSTREAM"
     },
     {
-      "asset": "ORDSUMMONED"
+      "asset": "ORDSUMMONED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
     },
     {
       "asset": "ORDSUSPECTS"
@@ -517,7 +949,13 @@
       "asset": "ORDWARDIV"
     },
     {
-      "asset": "ORDXCPLOVE"
+      "asset": "ORDXCPLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
       "asset": "OWLDINALS"
@@ -529,16 +967,34 @@
       "asset": "PELLOCK"
     },
     {
-      "asset": "PENCILORD"
+      "asset": "PENCILORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
     },
     {
-      "asset": "PEPEBOYS"
+      "asset": "PEPEBOYS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
     },
     {
       "asset": "PEPEBUSTA"
     },
     {
-      "asset": "PEPECHOKES"
+      "asset": "PEPECHOKES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "PEPECOLORI"
@@ -604,25 +1060,55 @@
       "asset": "PUBKEYCARD"
     },
     {
-      "asset": "PUNKBTC"
+      "asset": "PUNKBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
-      "asset": "PUNKSBITCOIN"
+      "asset": "PUNKSBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ]
     },
     {
       "asset": "RAREORDALISA"
     },
     {
-      "asset": "RAREPEPESS.ORDINALGLOBETROTTER"
+      "asset": "RAREPEPESS.ORDINALGLOBETROTTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
     },
     {
       "asset": "RAREROD"
     },
     {
-      "asset": "RODINALS"
+      "asset": "RODINALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
     },
     {
-      "asset": "RODMALONE"
+      "asset": "RODMALONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "aishyrine"
+        }
+      ]
     },
     {
       "asset": "RORSCHADINAL"
@@ -631,7 +1117,13 @@
       "asset": "RUGPAL"
     },
     {
-      "asset": "RVRSTRJN"
+      "asset": "RVRSTRJN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
       "asset": "SATHUNTERS"
@@ -652,10 +1144,22 @@
       "asset": "SELFCUSTODY"
     },
     {
-      "asset": "SHAKEORDINAL"
+      "asset": "SHAKEORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "SHITCOINS.Ordinals"
+      "asset": "SHITCOINS.Ordinals",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SHROUDOFPEPE"
@@ -670,16 +1174,34 @@
       "asset": "SMARTORDINAL"
     },
     {
-      "asset": "SMOLSCRIBE"
+      "asset": "SMOLSCRIBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
     },
     {
-      "asset": "SPARROWPEPE"
+      "asset": "SPARROWPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "doggfather"
+        }
+      ]
     },
     {
       "asset": "SUMMEROFSPAM"
     },
     {
-      "asset": "SUPERORDINAL"
+      "asset": "SUPERORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        }
+      ]
     },
     {
       "asset": "SWORDINALSEA"
@@ -688,31 +1210,73 @@
       "asset": "TAPROOTWIZ"
     },
     {
-      "asset": "TELEBURNT"
+      "asset": "TELEBURNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
     },
     {
-      "asset": "THEETERNALS"
+      "asset": "THEETERNALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
-      "asset": "THEORDINAL"
+      "asset": "THEORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
     },
     {
-      "asset": "THEORIGINAL"
+      "asset": "THEORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
     },
     {
       "asset": "TONYQUAKE"
     },
     {
-      "asset": "TYSORDINAL"
+      "asset": "TYSORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "UNODOSTREDOS"
     },
     {
-      "asset": "WATURDADID"
+      "asset": "WATURDADID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
-      "asset": "WHATTHEFOX"
+      "asset": "WHATTHEFOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
       "asset": "WHYSOORDINAL"
@@ -721,13 +1285,31 @@
       "asset": "WINGSPEPE"
     },
     {
-      "asset": "WTHDORDINAL"
+      "asset": "WTHDORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Glen"
+        }
+      ]
     },
     {
-      "asset": "YOGORDINAL"
+      "asset": "YOGORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "YOYORDINAL"
+      "asset": "YOYORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PrivateKey"
+        }
+      ]
     },
     {
       "asset": "ZENROD"

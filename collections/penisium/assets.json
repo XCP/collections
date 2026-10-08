@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "DAVIDSNOSE"
+      "asset": "DAVIDSNOSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
       "asset": "DICKBUTTS"
@@ -13,7 +19,13 @@
       "asset": "DORKINS"
     },
     {
-      "asset": "DRUKPAKUNLEY"
+      "asset": "DRUKPAKUNLEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
     },
     {
       "asset": "MCAFEEPEEN"
@@ -28,13 +40,25 @@
       "asset": "ORIGINTURBO"
     },
     {
-      "asset": "PAPERJPEEN"
+      "asset": "PAPERJPEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "John Villar"
+        }
+      ]
     },
     {
       "asset": "PEENARCH"
     },
     {
-      "asset": "PEENHEAD"
+      "asset": "PEENHEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ]
     },
     {
       "asset": "PEENINSULA"
@@ -64,16 +88,34 @@
       "asset": "POKEPEEN"
     },
     {
-      "asset": "RAMSAYBOLTON"
+      "asset": "RAMSAYBOLTON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
     },
     {
       "asset": "SHLONGDONG"
     },
     {
-      "asset": "SPEEN"
+      "asset": "SPEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
-      "asset": "TAPEMEASURE"
+      "asset": "TAPEMEASURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
     },
     {
       "asset": "THEANTONTAUN"

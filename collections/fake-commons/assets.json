@@ -24804,6 +24804,10 @@
       "asset": "DOMAINPEPE",
       "attributes": [
         {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        },
+        {
           "trait_type": "Series",
           "value": 32
         },

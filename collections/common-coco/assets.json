@@ -19,19 +19,49 @@
       "asset": "A666240355190303432"
     },
     {
-      "asset": "A9942055563966637280"
+      "asset": "A9942055563966637280",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
     },
     {
-      "asset": "BASEDCOCO"
+      "asset": "BASEDCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
-      "asset": "BITCOCO"
+      "asset": "BITCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
     },
     {
-      "asset": "BOATSNHOES"
+      "asset": "BOATSNHOES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "BULLCOCO"
+      "asset": "BULLCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Paolo Cremona"
+        }
+      ]
     },
     {
       "asset": "COCAI"
@@ -49,7 +79,13 @@
       "asset": "COCOBAIN"
     },
     {
-      "asset": "COCOBEGGAR"
+      "asset": "COCOBEGGAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "coriot"
+        }
+      ]
     },
     {
       "asset": "COCOBIRTHDAY"
@@ -58,16 +94,40 @@
       "asset": "COCOBRUUUSH"
     },
     {
-      "asset": "COCOBWARE"
+      "asset": "COCOBWARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
-      "asset": "COCOCASINO"
+      "asset": "COCOCASINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "COCOCHECKS"
+      "asset": "COCOCHECKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BillyNFTees"
+        }
+      ]
     },
     {
-      "asset": "COCOCHICK"
+      "asset": "COCOCHICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        }
+      ]
     },
     {
       "asset": "COCOCONNECTA"
@@ -76,7 +136,13 @@
       "asset": "COCOCOUPLE"
     },
     {
-      "asset": "COCOCRIMINAL"
+      "asset": "COCOCRIMINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        }
+      ]
     },
     {
       "asset": "COCOCROCS"
@@ -85,7 +151,13 @@
       "asset": "COCODEAL"
     },
     {
-      "asset": "COCODENZA"
+      "asset": "COCODENZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
       "asset": "COCODILE"
@@ -97,13 +169,25 @@
       "asset": "COCODILES"
     },
     {
-      "asset": "COCOFLAME"
+      "asset": "COCOFLAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "COCOFRENS"
     },
     {
-      "asset": "COCOFRENZ"
+      "asset": "COCOFRENZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
       "asset": "COCOFRONT"
@@ -118,22 +202,58 @@
       "asset": "COCOHOMER"
     },
     {
-      "asset": "COCOHOMERED"
+      "asset": "COCOHOMERED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
-      "asset": "COCOINFERNO"
+      "asset": "COCOINFERNO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
     },
     {
-      "asset": "COCOKANECARD"
+      "asset": "COCOKANECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
-      "asset": "COCOKINGBIT"
+      "asset": "COCOKINGBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "COCOLIGHTER"
+      "asset": "COCOLIGHTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "blake"
+        }
+      ]
     },
     {
-      "asset": "COCOLLAB"
+      "asset": "COCOLLAB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        }
+      ]
     },
     {
       "asset": "COCOMANIA"
@@ -148,13 +268,31 @@
       "asset": "COCOMMANDO"
     },
     {
-      "asset": "COCONFIDENT"
+      "asset": "COCONFIDENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
-      "asset": "COCONOTREAL"
+      "asset": "COCONOTREAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
-      "asset": "COCONOTREAL.GHG"
+      "asset": "COCONOTREAL.GHG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
     },
     {
       "asset": "COCOPASTOR"
@@ -184,10 +322,22 @@
       "asset": "COCOROSS"
     },
     {
-      "asset": "COCOSENTO"
+      "asset": "COCOSENTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tomopen"
+        }
+      ]
     },
     {
-      "asset": "COCOSURFPRTY"
+      "asset": "COCOSURFPRTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sea is Medicine"
+        }
+      ]
     },
     {
       "asset": "COCOTHECLOWN"
@@ -202,10 +352,22 @@
       "asset": "COMNCOCOCASH"
     },
     {
-      "asset": "COUPLESZONE"
+      "asset": "COUPLESZONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
-      "asset": "COVINTAGE"
+      "asset": "COVINTAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "ENDLESSCOCO"
@@ -214,49 +376,115 @@
       "asset": "FEELSSNAPMAN"
     },
     {
-      "asset": "FELACOA"
+      "asset": "FELACOA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "FLORYDACOCO"
     },
     {
-      "asset": "FRENTECH"
+      "asset": "FRENTECH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "GRANTCOCO"
+      "asset": "GRANTCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "GRIMCOCO"
+      "asset": "GRIMCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "HANDSOMECOCO"
+      "asset": "HANDSOMECOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "HECOCO"
     },
     {
-      "asset": "HOTCOCO"
+      "asset": "HOTCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
     },
     {
       "asset": "IMWITHKERO"
     },
     {
-      "asset": "LACOCO"
+      "asset": "LACOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
     },
     {
-      "asset": "LATOMOCOCO"
+      "asset": "LATOMOCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
-      "asset": "MAMACOCO"
+      "asset": "MAMACOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
     },
     {
-      "asset": "MAXXCOCO"
+      "asset": "MAXXCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
       "asset": "MRTLCOCOMBAT"
     },
     {
-      "asset": "MULLETCOCO.COCO-SALUTATIONS"
+      "asset": "MULLETCOCO.COCO-SALUTATIONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     },
     {
       "asset": "NOCO"
@@ -265,7 +493,13 @@
       "asset": "OCOCERAR"
     },
     {
-      "asset": "OTOSCOCO"
+      "asset": "OTOSCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "PICOKOCHU"
@@ -274,7 +508,13 @@
       "asset": "RARESLIMCOCO"
     },
     {
-      "asset": "RDYTODNKCOCO"
+      "asset": "RDYTODNKCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
       "asset": "RICHCOCOMOND"
@@ -286,19 +526,37 @@
       "asset": "SLOCOCO"
     },
     {
-      "asset": "TRAPSTARCOCO"
+      "asset": "TRAPSTARCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
     },
     {
       "asset": "TRUMPCOCO"
     },
     {
-      "asset": "UNIPEPECORN.UNIPEPECOCO"
+      "asset": "UNIPEPECORN.UNIPEPECOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "VATOSCOCOS"
     },
     {
-      "asset": "WENCOCO"
+      "asset": "WENCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "ZENCOCO"
