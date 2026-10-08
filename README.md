@@ -8,9 +8,9 @@
 | Collections | 87 |
 | Canonical collections | 85 |
 | Curated views | 2 |
-| Explicit unique assets | 27,120 |
-| Explicit collection memberships | 27,503 |
-| Primary memberships | 27,120 |
+| Explicit unique assets | 27,122 |
+| Explicit collection memberships | 27,505 |
+| Primary memberships | 27,122 |
 | Secondary or curated memberships | 383 |
 | Memberships with traits | 10,068 |
 
