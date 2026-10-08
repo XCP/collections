@@ -1,4 +1,4 @@
-# THUGLIFENOTE
+# Thug Life Note
 
 <!-- collection-facts:start -->
 ## Registry facts
