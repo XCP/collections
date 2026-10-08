@@ -26,11 +26,20 @@ function countAt(value, path) {
 }
 
 function traitsOf(card, path, season, number) {
-  if (!Array.isArray(card.attributes)) throw new Error(`${path}.attributes must be an array`);
   const attributes = [
     { trait_type: "Series", value: season },
     { trait_type: "Card", value: number },
   ];
+  // Since October 2026 gallery cards carry their headline fields instead of the
+  // full attribute list (which stays on the per-card endpoint). Keep the stable
+  // ones; never fail the registry over a missing optional trait list.
+  if (card.attributes === undefined) {
+    for (const [traitType, value] of [["Car", card.car], ["Tier", card.tier_label]]) {
+      if (typeof value === "string" && value.trim() !== "") attributes.push({ trait_type: traitType, value: value.trim() });
+    }
+    return attributes;
+  }
+  if (!Array.isArray(card.attributes)) throw new Error(`${path}.attributes must be an array`);
   const seen = new Set();
   card.attributes.forEach((attribute, index) => {
     const at = `${path}.attributes[${index}]`;
@@ -96,7 +105,11 @@ export async function load({ fetchJson }) {
     }
     const cardSeason = Number(match[1]);
     const number = Number(match[2]);
-    if (card.season !== cardSeason) throw new Error(`${path}.season disagrees with ${card.asset}`);
+    // The card name carries its season; the API's own season field is optional
+    // (it was dropped from gallery cards in October 2026) but must agree if sent.
+    if (card.season !== undefined && card.season !== cardSeason) {
+      throw new Error(`${path}.season disagrees with ${card.asset}`);
+    }
     if (card.mint_no !== number) throw new Error(`${path}.mint_no disagrees with ${card.asset}`);
     if (seen.has(card.asset)) throw new Error(`${path} duplicates ${card.asset}`);
     seen.add(card.asset);
