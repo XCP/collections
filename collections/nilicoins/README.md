@@ -1,23 +1,19 @@
-# Pre-Ethereum
+# NILIcoins
 
 <!-- collection-facts:start -->
 ## Registry facts
 
 | Field | Value |
 | --- | --- |
-| Type | Curated view |
-| Membership | Admitted collection assets matching chain facts: `{"issued_before_block":367561}` |
-| Primary memberships | 0 |
-| Secondary or curated memberships | Determined during marketplace ingest |
-| Source | Computed `adapter.ts` |
-| Traits | None |
+| Type | Canonical collection |
+| Membership | 6 assets |
+| Primary memberships | 6 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 6/6 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
-
-Pre-Ethereum is a cross-collection view, not a catalog of every early asset
-registration. The marketplace starts with assets already admitted to a
-primary collection and then applies the Ethereum-genesis block cutoff.
 
 - Fix the name, description, or links in `meta.json`.
 - Add, remove, or correct assets and traits in `assets.json`.
