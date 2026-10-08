@@ -173,33 +173,6 @@
       ]
     },
     {
-      "asset": "SPOOKYPEPES.WEREFANK",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "SPOOKYPEPES.FAKENSTEIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "SPOOKYPEPES.NOSFAKERATU",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
       "asset": "DIMZ.EXORCISM",
       "attributes": [
         {
@@ -458,15 +431,6 @@
     {
       "asset": "FAKERARA",
       "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "SPOOKYPEPES.KEKHEAD",
       "attributes": [
         {
           "trait_type": "Artist",
