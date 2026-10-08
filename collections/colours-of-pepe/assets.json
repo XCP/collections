@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "COLORSOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "COLORSOFPEPE.COP1G",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "COLORSOFPEPE.COP2B",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "COLORSOFPEPE.COP3W",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "COLORSOFPEPE.COP4R",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    }
+  ]
+}
