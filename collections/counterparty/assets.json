@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "TEST"
+      "asset": "TEST",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "HORIEMONCARD"
@@ -43,7 +49,13 @@
       "asset": "RAREPEPEFLIP"
     },
     {
-      "asset": "BEERS"
+      "asset": "BEERS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "YACHTYPEPE"
@@ -2549,6 +2561,10 @@
         {
           "trait_type": "Artist",
           "value": "DOGE-STYLE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -3026,6 +3042,10 @@
         {
           "trait_type": "Artist",
           "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
         }
       ]
     },
@@ -5321,6 +5341,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Cartel"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2025
         }
       ]
     },
@@ -6014,6 +6038,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Cartel"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -12332,6 +12360,10 @@
         {
           "trait_type": "Artist",
           "value": "DCOT"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2025
         }
       ]
     },
@@ -14285,6 +14317,10 @@
         {
           "trait_type": "Artist",
           "value": "Guzman"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -14654,6 +14690,10 @@
         {
           "trait_type": "Artist",
           "value": "hariram"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -15005,6 +15045,10 @@
         {
           "trait_type": "Artist",
           "value": "HNFT Pepe"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -18776,6 +18820,10 @@
         {
           "trait_type": "Artist",
           "value": "Luca"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -20045,6 +20093,10 @@
         {
           "trait_type": "Artist",
           "value": "Majoni"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -20054,6 +20106,10 @@
         {
           "trait_type": "Artist",
           "value": "Majoni"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -21143,6 +21199,10 @@
         {
           "trait_type": "Artist",
           "value": "Mooncorn"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -23528,6 +23588,10 @@
         {
           "trait_type": "Artist",
           "value": "RareDesigner"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -27659,6 +27723,10 @@
         {
           "trait_type": "Artist",
           "value": "Worm"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -28721,6 +28789,10 @@
         {
           "trait_type": "Artist",
           "value": "Alondre Crypto"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -35966,6 +36038,10 @@
         {
           "trait_type": "Artist",
           "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -36029,6 +36105,10 @@
         {
           "trait_type": "Artist",
           "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -36317,6 +36397,10 @@
         {
           "trait_type": "Artist",
           "value": "Chrome Void"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2025
         }
       ]
     },
@@ -36470,6 +36554,10 @@
         {
           "trait_type": "Artist",
           "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -41744,6 +41832,10 @@
         {
           "trait_type": "Artist",
           "value": "GMONEY"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -41978,6 +42070,10 @@
         {
           "trait_type": "Artist",
           "value": "Herckeim"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -42518,6 +42614,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -42527,6 +42627,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -42536,6 +42640,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -42563,6 +42671,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -42581,6 +42693,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -43760,6 +43876,10 @@
         {
           "trait_type": "Artist",
           "value": "JOE ATANG"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -46253,6 +46373,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -46379,6 +46503,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -46856,6 +46984,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -47135,6 +47267,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -47360,6 +47496,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -47405,6 +47545,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -47657,6 +47801,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -49952,6 +50100,10 @@
         {
           "trait_type": "Artist",
           "value": "OOAKOSIMO"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -50060,6 +50212,10 @@
         {
           "trait_type": "Artist",
           "value": "OOAKOSIMO"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

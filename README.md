@@ -12,7 +12,7 @@
 | Explicit collection memberships | 36,526 |
 | Primary memberships | 35,252 |
 | Secondary or curated memberships | 1,274 |
-| Memberships with traits | 20,259 |
+| Memberships with traits | 20,261 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Artist, Attack, Car, Card, Chapter, Date, Edition, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Tier, Type, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Car, Card, Chapter, Date, Edition, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Tier, Type, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->
