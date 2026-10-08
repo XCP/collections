@@ -116,3 +116,22 @@ test("fails closed on a malformed response", async () => {
   response.gallery = {};
   await assert.rejects(load({ fetchJson: serve(response).fetchJson }), /gallery must be an array/);
 });
+
+test("reads the season from the card name when the API omits it", async () => {
+  const response = structuredClone(fixture);
+  for (const card of response.gallery) delete card.season;
+  const assets = await load({ fetchJson: serve(response).fetchJson, cache: new Map() });
+  assert.ok(assets.length > 0 && assets.every((entry) => entry.attributes.some((t) => t.trait_type === "Series" && t.value === 1)));
+})
+
+test("keeps Series, Card, Car and Tier when gallery cards omit the attribute list", async () => {
+  const response = structuredClone(fixture);
+  for (const card of response.gallery) {
+    delete card.attributes;
+    delete card.season;
+    card.car = "VIN-DIESEL";
+    card.tier_label = "Legend";
+  }
+  const assets = await load({ fetchJson: serve(response).fetchJson, cache: new Map() });
+  assert.deepEqual(assets[0].attributes.map((t) => t.trait_type), ["Series", "Card", "Car", "Tier"]);
+});
