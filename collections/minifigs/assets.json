@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "MINIFIGS.BLOBBY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "MINIFIGS.PEPEFRENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}
