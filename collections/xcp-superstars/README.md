@@ -17,7 +17,7 @@
 
 Descriptions explicitly name XCP SUPERSTARS and Series 1 card numbers. All ten have the same original issuer and were issued 27–28 July 2023. Card 8 occurs twice in the descriptions; no missing or corrected card numbers are inferred. Existing Arwyn credits are preserved.
 
-Reviewed and approved on 2026-10-09. All 10 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 10 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

@@ -569,6 +569,9 @@ export function validateMemberships(collections, { requirePrimaryForSecondary = 
     if (!collection.assets) continue;
     for (const entry of collection.assets) {
       const isPrimary = collection.kind === "canonical" && entry.primary !== false;
+      if (collection.slug === "counterparty" && !isPrimary) {
+        issues.push(`${entry.asset}: Counterparty is a primary-only catch-all; remove its membership when another collection is primary`);
+      }
       if (isPrimary) {
         const existing = primaries.get(entry.asset);
         if (existing) {

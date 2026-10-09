@@ -17,7 +17,7 @@
 
 This is a descriptive editorial grouping, not a verified original project title. All 30 assets share one original issuer and were issued 1–2 September 2022. Names and reviewed artwork support a fantasy grouping. No artist credit is inferred from the shared issuer.
 
-Reviewed and approved on 2026-10-09. All 30 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 30 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

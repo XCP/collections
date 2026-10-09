@@ -18,6 +18,7 @@ import {
   resolveAggregatorAdapterPath,
   resolveCollectionSource,
   selectedCollectionSlugs,
+  validateMemberships,
 } from "#lib/collection-source";
 import { createFetchJson, createFetchText, FetchJsonError } from "#lib/safe-fetch";
 import { parseArguments, runExport } from "#scripts/export";
@@ -456,4 +457,21 @@ test("blocked artist credits are rejected case-insensitively", (t) => {
     { asset: "RAREPEPE", attributes: [{ trait_type: "Artist", value: "Rare Scrilla" }, { trait_type: "Card", value: "Unknown" }] },
   ] }];
   assert.deepEqual(blockedCreditIssues(root, collections).map((issue) => issue.split(" credits")[0]), ["cards: HAIRPEPE", "cards: PEPECASH"]);
+});
+
+test("Counterparty accepts primary homes but rejects secondary memberships even in partial exports", () => {
+  const counterparty = { slug: "counterparty", kind: "canonical", assets: [{ asset: "MAGATAMABL" }] };
+  const project = { slug: "magatama", kind: "canonical", assets: [{ asset: "MAGATAMABL", primary: false }] };
+  assert.deepEqual(validateMemberships([counterparty, project]), { primaryMemberships: 1, secondaryMemberships: 1 });
+  counterparty.assets[0].primary = false;
+  delete project.assets[0].primary;
+  assert.throws(() => validateMemberships([counterparty, project]), /Counterparty is a primary-only catch-all/);
+  assert.throws(() => validateMemberships([counterparty], { requirePrimaryForSecondary: false }), /Counterparty is a primary-only catch-all/);
+});
+
+test("Counterparty adapter refresh cannot restore secondary memberships", async (t) => {
+  const { root, directory } = makeRepository("counterparty");
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  writeFileSync(join(directory, "adapter.ts"), 'export async function load() { return [{ asset: "STANDALONE" }, { asset: "MAGATAMABL", primary: false }]; }\n');
+  await assert.rejects(materializeRepository({ repositoryRoot: root, includeSlugs: ["counterparty"] }), /Counterparty is a primary-only catch-all/);
 });

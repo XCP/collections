@@ -17,7 +17,7 @@
 
 Reviewed grouping of 58 names with matching Zaif/IndieSquare metadata and stored artwork. The main issuance batch dates to 17 August 2016. The project’s original purpose and collectible-versus-utility status have not been established; inclusion does not assert those functions.
 
-Reviewed and approved on 2026-10-09. All 58 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 58 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

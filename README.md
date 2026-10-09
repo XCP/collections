@@ -9,10 +9,10 @@
 | Canonical collections | 170 |
 | Curated views | 0 |
 | Explicit unique assets | 64,436 |
-| Explicit collection memberships | 66,236 |
+| Explicit collection memberships | 65,669 |
 | Primary memberships | 64,436 |
-| Secondary or curated memberships | 1,800 |
-| Memberships with traits | 33,842 |
+| Secondary or curated memberships | 1,233 |
+| Memberships with traits | 33,610 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -160,6 +160,8 @@ collection, keep the entry and mark it secondary:
 CI names the conflicting collections when it finds a duplicate primary. A
 canonical collection must keep at least one primary asset. If every member is
 an overlap, use `"kind": "curated"` instead.
+
+Counterparty (`counterparty`) is a primary-only catch-all for assets without a project collection. When an asset gains another primary home, remove its Counterparty membership instead of marking it secondary. Validation rejects secondary Counterparty memberships from static files and adapter exports; other collections may still have secondary memberships.
 
 ## How membership is selected
 

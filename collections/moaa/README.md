@@ -17,4 +17,4 @@
 
 Reviewed 2026-10-09 against the artist-operated [catalogue](https://xcpinata.com/collections.html) and its [membership JSON](https://xcpinata.com/catalog.json). This explicit snapshot includes 85 matched registry assets. Match catalogue titles or refs to exact asset names; refs are not universally protocol identifiers (for example HILLXCP denotes HILL, and PunchPuff longname case must be preserved).
 
-Matched Counterparty entries use this collection as primary and retain Counterparty as secondary. Existing attributes and artist credits are preserved without new attribution. Unresolved catalogue entries are not automatically admitted. The catalogue spans multiple years; no launch year is inferred from an old token registration.
+Matched Counterparty entries use this collection as primary and are removed from the Counterparty catch-all. Existing attributes and artist credits are preserved without new attribution. Unresolved catalogue entries are not automatically admitted. The catalogue spans multiple years; no launch year is inferred from an old token registration.
