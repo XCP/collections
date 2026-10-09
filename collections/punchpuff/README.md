@@ -1,4 +1,4 @@
-# PunchPuff (Counterparty Series)
+# PunchPuff
 
 <!-- collection-facts:start -->
 ## Registry facts
