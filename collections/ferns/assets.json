@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FERNS.Static_Monotone",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FERNS.Static_Colour",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FERNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "asset": "FEELSBRIEF.Black_and_White",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF.Variation_2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF.Noise_Transparent",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF.Variation_1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF.Still_Image",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSBRIEF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
