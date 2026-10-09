@@ -44,3 +44,12 @@ reviewed asset references. These labels are removed after every source load;
 other traits and actual artist credits are retained. `1BCQVoz` is the issuer's
 address prefix for YOGURTPUTIN and MOOSEPUTIN, not an established artist name.
 No replacement attribution was supported by the available source metadata.
+
+Approved name variants live under `aliases` in the same correction file. These
+map one source label to one canonical artist, including case-only corrections.
+Other split rules use canonical targets, so alias chains are rejected rather
+than depending on rule order. On 2026-10-09 the curator approved seven pairs:
+NurstMembrane / burstMembrane, Mike in space / Mike in Space, Andre-U / AndreU,
+VVD / Vincent Van Dough, Virtual AK / Virtual Alaska, PurpleDrank /
+PurpleDrank7855, and Ollie / Oliver Morris. Marketplace identity merges retain
+old URLs and profile history; the registry supplies canonical future credits.
