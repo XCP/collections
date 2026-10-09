@@ -9,10 +9,10 @@
 | Canonical collections | 172 |
 | Curated views | 0 |
 | Explicit unique assets | 64,436 |
-| Explicit collection memberships | 65,669 |
+| Explicit collection memberships | 64,798 |
 | Primary memberships | 64,436 |
-| Secondary or curated memberships | 1,233 |
-| Memberships with traits | 33,610 |
+| Secondary or curated memberships | 362 |
+| Memberships with traits | 32,739 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -161,7 +161,7 @@ CI names the conflicting collections when it finds a duplicate primary. A
 canonical collection must keep at least one primary asset. If every member is
 an overlap, use `"kind": "curated"` instead.
 
-Counterparty (`counterparty`) is a primary-only catch-all for assets without a project collection. When an asset gains another primary home, remove its Counterparty membership instead of marking it secondary. Validation rejects secondary Counterparty memberships from static files and adapter exports; other collections may still have secondary memberships.
+Counterparty (`counterparty`) is an exclusive fallback for assets without another collection. An exported asset in any other collection must never also appear in Counterparty, regardless of primary/secondary status. After all sources load, the exporter removes overlapping Counterparty candidates and assigns their canonical project home before resolving other overlaps. It preserves reviewed Artist traits (including multiple artists) and fills missing project traits from the fallback entry; project-specific trait values take precedence. The Counterparty source can retain fallback candidates and their credits so fresh adapter memberships are handled on every export. A curated-only overlap without a canonical replacement fails export. Validation also rejects secondary Counterparty memberships and any unresolved overlap. Artist attribution is independent of this exclusivity rule; other collections may still overlap with each other.
 
 ## How membership is selected
 
