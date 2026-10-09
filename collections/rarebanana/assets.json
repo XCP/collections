@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "RAREBANANA.A-BANANA-STORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "RAREBANANA.STRONG-BANANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "RAREBANANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}
