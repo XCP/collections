@@ -396,6 +396,53 @@ export function resolveCollectionSource(repositoryRoot, slug) {
   return { type: "aggregator" };
 }
 
+/** Reviewed labels are durable corrections, applied regardless of membership source. */
+export function readArtistCreditSplits(repositoryRoot) {
+  const path = join(repositoryRoot, "data", "collaboration-credits.json");
+  const splits = new Map();
+  if (!existsSync(path)) return splits;
+  let document;
+  try { document = JSON.parse(readFileSync(path, "utf8")); }
+  catch (error) { fail(path, `invalid JSON (${error.message})`); }
+  if (!Array.isArray(document?.entries)) fail(path, "entries must be an array");
+  const key = value => value.trim().toLowerCase();
+  for (const [index, entry] of document.entries.entries()) {
+    const location = `${path}.entries[${index}]`;
+    if (typeof entry?.credit !== "string" || !entry.credit.trim()) fail(location, "credit must be nonempty");
+    if (!Array.isArray(entry.artists) || entry.artists.length < 1 ||
+        entry.artists.some(value => typeof value !== "string" || !value.trim() || value !== value.trim())) {
+      fail(location, "artists must contain at least one nonempty, trimmed name");
+    }
+    entry.artists.forEach((value, index) => normalizedAttribute({ trait_type: "Artist", value }, `${location}.artists[${index}]`));
+    if (new Set(entry.artists.map(key)).size !== entry.artists.length) fail(location, "duplicate artists");
+    const label = key(entry.credit);
+    if (splits.has(label)) fail(location, "duplicate source credit");
+    splits.set(label, entry.artists);
+  }
+  for (const artists of splits.values()) {
+    if (artists.some(name => splits.has(key(name)))) fail(path, "split targets must be individual credits, not another split label");
+  }
+  return splits;
+}
+
+export function applyArtistCreditSplits(assets, splits) {
+  return assets.map(asset => {
+    if (!asset.attributes) return asset;
+    const seen = new Set();
+    const attributes = asset.attributes.flatMap(trait => {
+      if (trait.trait_type !== "Artist" || typeof trait.value !== "string") return [trait];
+      const names = splits.get(trait.value.trim().toLowerCase()) ?? [trait.value];
+      return names.filter(name => {
+        const key = name.trim().toLowerCase();
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      }).map(value => ({ ...trait, value }));
+    });
+    return { ...asset, attributes };
+  });
+}
+
 /** Resolve assets.json, a collection adapter, a known metadata-only entry, then aggregators. */
 export async function materializeCollection({
   slug,
@@ -405,6 +452,7 @@ export async function materializeCollection({
   fetchText = createFetchText(),
   aggregatorsDirectory = join(repositoryRoot, "aggregators"),
   adapterCache = new Map(),
+  artistCreditSplits = readArtistCreditSplits(repositoryRoot),
 }) {
   const normalized = normalizeCollectionMeta(meta, slug);
   const output = { slug, ...normalized };
@@ -439,7 +487,7 @@ export async function materializeCollection({
 
   if (membership?.assets !== undefined) {
     requireCanonicalPrimary(output.kind, membership.assets, `${slug}.assets`);
-    output.assets = membership.assets;
+    output.assets = applyArtistCreditSplits(membership.assets, artistCreditSplits);
     if (membership.overlapPolicy === "secondary") {
       Object.defineProperty(output, SECONDARY_ON_OVERLAP, { value: true });
       output.overlap_policy = "secondary";
@@ -619,6 +667,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
   const collections = [];
   const issues = [];
   let externalSources = 0;
+  const artistCreditSplits = readArtistCreditSplits(repositoryRoot);
 
   for (const slug of collectionSlugs(repositoryRoot)) {
     try {
@@ -626,7 +675,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
       const collection = { slug, ...normalized };
       const source = resolveCollectionSource(repositoryRoot, slug);
       if (source.type === "static") {
-        collection.assets = readCollectionAssets(repositoryRoot, slug);
+        collection.assets = applyArtistCreditSplits(readCollectionAssets(repositoryRoot, slug), artistCreditSplits);
         requireCanonicalPrimary(collection.kind, collection.assets, `${slug}.assets`);
       } else {
         if (source.type !== "metadata-only") externalSources += 1;
@@ -663,6 +712,7 @@ export async function materializeRepository({
   // One source-local cache per materialization prevents duplicate requests
   // without leaking remote snapshots into later exports in this process.
   const adapterCache = new Map();
+  const artistCreditSplits = readArtistCreditSplits(repositoryRoot);
   const selection = selectedCollectionSlugs(repositoryRoot, includeSlugs);
   for (const slug of selection.slugs) {
     try {
@@ -675,6 +725,7 @@ export async function materializeRepository({
           fetchText,
           aggregatorsDirectory,
           adapterCache,
+          artistCreditSplits,
         }),
       );
     } catch (error) {

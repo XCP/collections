@@ -2352,7 +2352,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "TESTIIPROD x Mandarinemarie"
+          "value": "TESTIIPROD"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
         },
         {
           "trait_type": "Series",
@@ -4354,7 +4358,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "MemeKingArt x subterranean"
+          "value": "MemeKingArt"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
         },
         {
           "trait_type": "Series",

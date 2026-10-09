@@ -141,7 +141,7 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi."
+          "value": "Robness"
         },
         {
           "trait_type": "Series",
@@ -1476,7 +1476,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "DJ Q-Bert x Rare Scrilla"
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
         },
         {
           "trait_type": "Series",
@@ -1595,7 +1599,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mrs. Micon x Doctor Phoenix"
+          "value": "Mrs. Micon"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Doctor Phoenix"
         },
         {
           "trait_type": "Series",
@@ -1935,7 +1943,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mumbling Bearded Freak and Deep Honey"
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Deep Honey"
         },
         {
           "trait_type": "Series",
@@ -1952,7 +1964,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Kaph Resh and Prefer Wealth"
+          "value": "Kaph Resh"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Prefer Wealth"
         },
         {
           "trait_type": "Series",
@@ -1986,7 +2002,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Indelible and WetPotatoBrain"
+          "value": "Indelible"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "WetPotatoBrain"
         },
         {
           "trait_type": "Series",
@@ -2649,7 +2669,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Sir Barry Gibb and Maya"
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
         },
         {
           "trait_type": "Series",
@@ -2785,7 +2809,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "DarkFluffyRabbit x Darkfarms"
+          "value": "DarkFluffyRabbit"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Darkfarms"
         },
         {
           "trait_type": "Series",
@@ -2853,7 +2881,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "VIVALAVANDAL x ShowerShoes"
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
         },
         {
           "trait_type": "Series",
@@ -2870,7 +2902,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Rare Scrilla and Ghostface Killah"
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ghostface Killah"
         },
         {
           "trait_type": "Series",
@@ -2887,7 +2923,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mr Hansel and Ghostface Killah"
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ghostface Killah"
         },
         {
           "trait_type": "Series",
@@ -2904,7 +2944,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Indelible and Ghostface Killah"
+          "value": "Indelible"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ghostface Killah"
         },
         {
           "trait_type": "Series",
@@ -2921,7 +2965,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Indelible and Ghostface Killah"
+          "value": "Indelible"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ghostface Killah"
         },
         {
           "trait_type": "Series",
@@ -2938,7 +2986,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Rare Scrilla and Ghostface Killah"
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ghostface Killah"
         },
         {
           "trait_type": "Series",
@@ -2955,7 +3007,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "AWRALPH x Rare Scrilla"
+          "value": "AWRALPH"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
         },
         {
           "trait_type": "Series",
@@ -2972,7 +3028,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "VIVALAVANDAL x ShowerShoes"
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
         },
         {
           "trait_type": "Series",
@@ -3074,7 +3134,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mike in Space and WhoIsIt"
+          "value": "Mike in Space"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
         },
         {
           "trait_type": "Series",
@@ -3091,7 +3155,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Ill Bill x VIVALAVANDAL x Rare Scrilla"
+          "value": "Ill Bill"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
         },
         {
           "trait_type": "Series",
@@ -3261,7 +3333,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Dino x Rydes"
+          "value": "Dino"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rydes"
         },
         {
           "trait_type": "Series",
@@ -3295,7 +3371,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "80sKurtRussell x Sketch"
+          "value": "80sKurtRussel"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sketch"
         },
         {
           "trait_type": "Series",
@@ -3499,7 +3579,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "NFTMANC x VIVA LA VANDAL"
+          "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
         },
         {
           "trait_type": "Series",
@@ -3584,7 +3668,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Fishbrain, Luifex, Viva La Vandal"
+          "value": "Fishbrain"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Luifex"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
         },
         {
           "trait_type": "Series",
@@ -3635,7 +3727,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Master Yin and Master Yang"
+          "value": "Master Yin"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Master Yang"
         },
         {
           "trait_type": "Series",
@@ -3890,7 +3986,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Caravaggio x Vincent Van Dough"
+          "value": "Caravaggio"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Vincent Van Dough"
         },
         {
           "trait_type": "Series",
@@ -3924,7 +4024,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Sketch x 80sKurt Russell"
+          "value": "Sketch"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "80sKurtRussel"
         },
         {
           "trait_type": "Series",
@@ -4111,7 +4215,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "ThePark x 80sKurtRussell"
+          "value": "The Park"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "80sKurtRussel"
         },
         {
           "trait_type": "Series",
@@ -4298,7 +4406,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mumbling Bearded Freak and Kaph Resh"
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
         },
         {
           "trait_type": "Series",
@@ -4553,7 +4665,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Mr. P x Stack"
+          "value": "Mr. P"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Stack"
         },
         {
           "trait_type": "Series",
@@ -4655,7 +4771,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "FWD x DJ Kermit"
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DJ Kermit"
         },
         {
           "trait_type": "Series",
@@ -4961,7 +5081,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "80sKurt Russell x Early Bird"
+          "value": "80sKurtRussel"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Early Bird"
         },
         {
           "trait_type": "Series",
@@ -5471,7 +5595,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Viva La Vandal x ShowerShoes"
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
         },
         {
           "trait_type": "Series",
@@ -5624,7 +5752,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Rare Scrilla x VLAD COSTEA"
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "VLAD COSTEA"
         },
         {
           "trait_type": "Series",
@@ -5726,7 +5858,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Prez1 x Kane Mayfield"
+          "value": "Prez1"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
         },
         {
           "trait_type": "Series",
@@ -5896,7 +6032,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "PUR X FWD"
+          "value": "PUR"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
         },
         {
           "trait_type": "Series",
@@ -5998,7 +6138,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Sketch x 80sKurt Russell"
+          "value": "Sketch"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "80sKurtRussel"
         },
         {
           "trait_type": "Series",
@@ -6066,7 +6210,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Basqkek x HODLPIG"
+          "value": "BasqKek"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "HODLPIG"
         },
         {
           "trait_type": "Series",
@@ -6627,7 +6775,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Afonso Caravagio X Aisha Venus"
+          "value": "Afonso Caravagio"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Aisha Venus"
         },
         {
           "trait_type": "Series",
@@ -7154,7 +7306,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Viva La Vandal x 80sKurt Russell x Sketch"
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "80sKurtRussel"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sketch"
         },
         {
           "trait_type": "Series",
@@ -7273,7 +7433,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Hammad x Doge-Style"
+          "value": "HAMMAD"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
         },
         {
           "trait_type": "Series",
@@ -7562,7 +7726,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "FWD x MR"
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "MR"
         },
         {
           "trait_type": "Series",
@@ -7783,7 +7951,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "ROBNESS x PEEPS"
+          "value": "Robness"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEEPS"
         },
         {
           "trait_type": "Series",
@@ -8238,7 +8410,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "ZETRA x PurpleDrank7855"
+          "value": "ZETRA"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PurpleDrank7855"
         },
         {
           "trait_type": "Series",
@@ -8357,7 +8533,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Pepe Inside x Hammad"
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "HAMMAD"
         },
         {
           "trait_type": "Series",
@@ -8408,7 +8588,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Father John x Chaotic Crypto"
+          "value": "Father John"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
         },
         {
           "trait_type": "Series",
@@ -8765,7 +8949,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Sketch x 80sKurt x Early Bird"
+          "value": "Sketch"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "80sKurtRussel"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Early Bird"
         },
         {
           "trait_type": "Series",
@@ -9275,7 +9467,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Luna x Al x Pepe"
+          "value": "Luna"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Al"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe"
         },
         {
           "trait_type": "Series",
@@ -9377,7 +9577,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Indelible and WetPotatoBrain"
+          "value": "Indelible"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "WetPotatoBrain"
         },
         {
           "trait_type": "Series",
@@ -10138,7 +10342,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "CrimsonRider x Rey"
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "REY"
         },
         {
           "trait_type": "Series",
@@ -10257,7 +10465,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "El Cholo Pepe x Arwyn"
+          "value": "El Cholo Pepe"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
         },
         {
           "trait_type": "Series",
@@ -10393,7 +10605,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "ROBNESS V2 x PEEPS"
+          "value": "Robness"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEEPS"
         },
         {
           "trait_type": "Series",
@@ -11260,7 +11476,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Alth0tas x Regan"
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Regan"
         },
         {
           "trait_type": "Series",
@@ -12059,7 +12279,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Dr. Greedy x FWD"
+          "value": "Dr. Greedy"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
         },
         {
           "trait_type": "Series",
@@ -12195,7 +12419,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Theo Goodman x MC Fanny"
+          "value": "Theo Goodman"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "MC Fanny"
         },
         {
           "trait_type": "Series",
@@ -12892,7 +13120,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Lord Jamie V Shill x Dita Crypto"
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
         },
         {
           "trait_type": "Series",
@@ -14014,7 +14246,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "realPepstein x Rare Designer"
+          "value": "realPepstein"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "RareDesigner"
         },
         {
           "trait_type": "Series",
@@ -14558,7 +14794,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "davesta x Le Hues"
+          "value": "Davesta"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Le Hues"
         },
         {
           "trait_type": "Series",
