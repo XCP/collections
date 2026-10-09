@@ -1526,5 +1526,21 @@
       ],
       "reason": "Curator confirmed this credit should remain unchanged."
     }
+  ],
+  "suppressed": [
+    {
+      "credit": "1BCQVoz",
+      "reason": "Abbreviated issuer address 1BCQVozFsfLvEvhxyeRvtg5sZFa2k4xQdF, not an identified artist. Counterparty API confirms both assets share this issuer; pepe.wtf repeats the prefix. Both easyasset.art metadata URLs returned empty on 2026-10-09. No supported replacement attribution found.",
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "MOOSEPUTIN"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "YOGURTPUTIN"
+        }
+      ]
+    }
   ]
 }
