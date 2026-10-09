@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "NOTAPEPEMOTO.BLKCHNJESUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "NOTAPEPEMOTO.FAKERAREPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "NOTAPEPEMOTO.JESUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "NOTAPEPEMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}
