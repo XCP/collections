@@ -54763,7 +54763,8 @@
           "trait_type": "Artist",
           "value": "Vizique"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "NEONAKAMOTO.NEON"
