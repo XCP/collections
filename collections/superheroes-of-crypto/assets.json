@@ -1,0 +1,303 @@
+{
+  "assets": [
+    {
+      "asset": "BTCNERTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "The Bitcoiner"
+        }
+      ]
+    },
+    {
+      "asset": "BTCNRFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "The Bitcoiner"
+        }
+      ]
+    },
+    {
+      "asset": "BTCNRFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "The Bitcoiner"
+        }
+      ]
+    },
+    {
+      "asset": "BTCNRONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "The Bitcoiner"
+        }
+      ]
+    },
+    {
+      "asset": "BTCNRTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "The Bitcoiner"
+        }
+      ]
+    },
+    {
+      "asset": "BTMANFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Bitman"
+        }
+      ]
+    },
+    {
+      "asset": "BTMANFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Bitman"
+        }
+      ]
+    },
+    {
+      "asset": "BTMANONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Bitman"
+        }
+      ]
+    },
+    {
+      "asset": "BTMANTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Bitman"
+        }
+      ]
+    },
+    {
+      "asset": "SPDERBTFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Spiderbit"
+        }
+      ]
+    },
+    {
+      "asset": "SPDERBTFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Spiderbit"
+        }
+      ]
+    },
+    {
+      "asset": "SPDERBTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Spiderbit"
+        }
+      ]
+    },
+    {
+      "asset": "SPDERBTTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Spiderbit"
+        }
+      ]
+    },
+    {
+      "asset": "SUPBFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "SUPBFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "SUPBONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "SUPBTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "SUPBTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "SUPRBTTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Superbits"
+        }
+      ]
+    },
+    {
+      "asset": "WNDRBTFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "WonderBit"
+        }
+      ]
+    },
+    {
+      "asset": "WNDRBTFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "WonderBit"
+        }
+      ]
+    },
+    {
+      "asset": "WNDRBTONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "WonderBit"
+        }
+      ]
+    },
+    {
+      "asset": "WNDRBTTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "WonderBit"
+        }
+      ]
+    }
+  ]
+}
