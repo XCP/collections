@@ -10,7 +10,7 @@
 | Primary memberships | 3 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/4 (25%) |
+| Traits | Artist: 4/4 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -20,3 +20,7 @@ Reviewed 2026-10-09 against the artist-operated [catalogue](https://xcpinata.com
 Matched Counterparty entries use this collection as primary and are removed from the Counterparty catch-all. Existing attributes and artist credits are preserved without new attribution. Unresolved catalogue entries are not automatically admitted. The founding year follows the artist catalogue.
 
 RATTY retains Pepe Pals as its primary home and appears here only as a secondary membership. Its existing artist credit is preserved.
+
+## Kevin Ferreira attribution
+
+Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.

@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "SCARAB"
+      "asset": "SCARAB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

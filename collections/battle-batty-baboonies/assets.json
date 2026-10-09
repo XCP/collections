@@ -1,16 +1,40 @@
 {
   "assets": [
     {
-      "asset": "BATTY.001"
+      "asset": "BATTY.001",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "BATTY.002"
+      "asset": "BATTY.002",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "BATTY.BLINDBOX"
+      "asset": "BATTY.BLINDBOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "BATTY.WRAPPING"
+      "asset": "BATTY.WRAPPING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

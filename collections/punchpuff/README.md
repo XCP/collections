@@ -10,7 +10,7 @@
 | Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Artist: 10/10 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -35,3 +35,7 @@ All 24 known PUNCHPUFF subassets from the issuing-address review were checked ag
 - `PUNCHPUFF.04ffff001d0`
 - `PUNCHPUFF.046f54161c0`
 - `PUNCHPUFF.0464ba0e1c0`
+
+## Kevin Ferreira attribution
+
+Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.

@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Artist: 1/1 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -20,3 +20,7 @@ Reviewed 2026-10-09 against the artist-operated [catalogue](https://xcpinata.com
 Matched Counterparty entries use this collection as primary and are removed from the Counterparty catch-all. Existing attributes and artist credits are preserved without new attribution. Unresolved catalogue entries are not automatically admitted. The catalogue spans multiple years; no launch year is inferred from an old token registration.
 
 Only SCARAB is matched to an existing registry asset. The catalogue entry with ref SCARAB48X48 and title SCARABART is unresolved and excluded.
+
+## Kevin Ferreira attribution
+
+Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.
