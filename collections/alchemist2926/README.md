@@ -17,7 +17,7 @@
 
 Descriptions explicitly name The Alchemist2926 Collection, Rare Texan, and numbers 1/6 through 6/6. All six were issued on 11 October 2021. Existing artist credits are preserved.
 
-Reviewed and approved on 2026-10-09. All 6 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 6 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

@@ -17,7 +17,7 @@
 
 Members link to project-operated proofofvisit.com metadata. BANFF metadata identifies it as A Proof of Visit Original. The project describes digital souvenirs and postcards, rather than a fine-art edition series.
 
-Reviewed and approved on 2026-10-09. All 45 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 45 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

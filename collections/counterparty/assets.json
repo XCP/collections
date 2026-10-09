@@ -79,10 +79,6 @@
       "asset": "PIXELMONPEPE"
     },
     {
-      "asset": "SCARAB",
-      "primary": false
-    },
-    {
       "asset": "BITCOINCHAN"
     },
     {
@@ -125,47 +121,7 @@
       ]
     },
     {
-      "asset": "PEPELIOTTA",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEPESCI",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "PEPENIRO",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
       "asset": "GOODBADPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEPLEBZ",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -327,26 +283,6 @@
       ]
     },
     {
-      "asset": "RAREVISION",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "WOJAKINABOX",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
       "asset": "COFEEPEPE",
       "attributes": [
         {
@@ -366,26 +302,6 @@
     },
     {
       "asset": "MANWITHHAT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEANGELS",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEBRO",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -430,16 +346,6 @@
       ]
     },
     {
-      "asset": "FAKERARA",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dim Zayan"
-        }
-      ]
-    },
-    {
       "asset": "OPRAHWINKEK",
       "attributes": [
         {
@@ -467,107 +373,7 @@
       ]
     },
     {
-      "asset": "DANKFACTORY",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "WOJAKANGEL",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEGENHEIM",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "FAKENARA",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "LORDBASQKEK",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEBASQKEK",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
       "asset": "FAKEKOONING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEANDTV",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEFRENDT",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEFACTORY",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BasqKek"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEBULLZORD",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -756,26 +562,6 @@
       ]
     },
     {
-      "asset": "OUTTAPEPE",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "CYBRDVTHLND",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
       "asset": "DEVTHDIP",
       "attributes": [
         {
@@ -812,16 +598,6 @@
       ]
     },
     {
-      "asset": "DEVTHPETHODL",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
       "asset": "DTHNOTKAMOTO",
       "attributes": [
         {
@@ -832,16 +608,6 @@
     },
     {
       "asset": "GOXDEVTH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "PEINT",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -886,16 +652,6 @@
       ]
     },
     {
-      "asset": "FAKAVISION",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
       "asset": "DEVTHBLEU",
       "attributes": [
         {
@@ -905,47 +661,7 @@
       ]
     },
     {
-      "asset": "WOJAKSABBATH",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "DEVTHBOBO",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
       "asset": "DEVTHVERSO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "DEVTHSWAN",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "CORNHUNT",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -1017,71 +733,7 @@
       ]
     },
     {
-      "asset": "FAKADEATH",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "SUMMONBOBO",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "DARKCOCO",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
       "asset": "NOTALIEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "COCOSFLIGHT",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        }
-      ]
-    },
-    {
-      "asset": "INFILTRVTE",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "VSTRVL"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ]
-    },
-    {
-      "asset": "KINGGOGO",
-      "primary": false,
       "attributes": [
         {
           "trait_type": "Artist",
@@ -9825,16 +9477,6 @@
           "value": "Chris Storm"
         }
       ]
-    },
-    {
-      "asset": "PFPPEPE.18",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chris Storm"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "LILLYKEK.INSCRIPTION47425",
@@ -18847,16 +18489,6 @@
       ]
     },
     {
-      "asset": "PFPPEPE.13",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mighty Shroom"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PSYTRIP",
       "attributes": [
         {
@@ -20524,16 +20156,6 @@
           "value": "Nogoodboypoints"
         }
       ]
-    },
-    {
-      "asset": "PFPPEPE.16",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Nogoodboypoints"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "FORTHELOLS",
@@ -27328,106 +26950,6 @@
       ]
     },
     {
-      "asset": "ULTWORRIER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "POWERNGLORY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "DRAGONDARKY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "BOBOHEENAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "DAVEYBOBSMTH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "BIGBOOOMAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "SWANDERTAKER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "TORNATHAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "MOUNTYMIKE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "ROWDYPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "HAIRKEVIN",
       "attributes": [
         {
@@ -28952,76 +28474,6 @@
       ]
     },
     {
-      "asset": "NAMJUNEPEPE.1974_FAKE_BUDDHA_NIGHT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1995_FAKE_FROGS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1989_EVOLUTION_REVOLUTION_RESOLUTION_FAKED",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1977_FAKE_GARDEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1974_FAKE_BUDDHA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1965_MAGNET_FAKE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NAMJUNEPEPE.1963_ZEN_FOR_FAKES",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKESOONMIRO.ARTISTEDITION",
       "attributes": [
         {
@@ -29213,16 +28665,6 @@
           "value": "Chrome Void"
         }
       ]
-    },
-    {
-      "asset": "NAMJUNEPEPE.1975_FAKE_FISH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chrome Void"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "COCOBEANZ",
@@ -35944,16 +35386,6 @@
       ]
     },
     {
-      "asset": "PFPPEPE.9",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Kero"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "RARETODDPEPE",
       "attributes": [
         {
@@ -40581,16 +40013,6 @@
       ]
     },
     {
-      "asset": "PFPPEPE.23",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "papeto"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "LFGCHAOS",
       "attributes": [
         {
@@ -42518,16 +41940,6 @@
           "value": "Robenira"
         }
       ]
-    },
-    {
-      "asset": "PFPPEPE.24",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Robenira"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "THEFEE",
@@ -45892,66 +45304,6 @@
       ]
     },
     {
-      "asset": "RARETEXAN.ALCHEMIST2926-1",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "RARETEXAN.ALCHEMIST2926-3",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "RARETEXAN.ALCHEMIST2926-6",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "RARETEXAN.ALCHEMIST2926-5",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "RARETEXAN.ALCHEMIST2926-4",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "RARETEXAN.ALCHEMIST2926-2",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rare Texan"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "THEWORLDPEPE",
       "attributes": [
         {
@@ -47422,16 +46774,6 @@
       "asset": "DROOLPARK.CARTMAN"
     },
     {
-      "asset": "PEPEBORNFREE.06",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "DANKSGIVIN.2023"
     },
     {
@@ -47453,16 +46795,6 @@
       "asset": "BTCBALLERS.TO_THE_MOON"
     },
     {
-      "asset": "NEONS.DANKPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAUXKING.KINGSCROWN"
     },
     {
@@ -47476,10 +46808,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "HIPHOPGAME.FATAHK",
-      "primary": false
     },
     {
       "asset": "CRYPTOPUNKS.1"
@@ -47497,10 +46825,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.MANDELLAESKIA",
-      "primary": false
-    },
-    {
       "asset": "EURONOTES.20"
     },
     {
@@ -47511,16 +46835,6 @@
     },
     {
       "asset": "A10231849034384115054"
-    },
-    {
-      "asset": "NEONS.FAKEASF",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "DJHERO.KONG",
@@ -47590,10 +46904,6 @@
           "value": "Fabrique"
         }
       ]
-    },
-    {
-      "asset": "PEPAGANDA.14",
-      "primary": false
     },
     {
       "asset": "WRBPT.PEPELIBERATION"
@@ -47666,10 +46976,6 @@
     },
     {
       "asset": "A10588395808704602522"
-    },
-    {
-      "asset": "PEPAGANDA.11",
-      "primary": false
     },
     {
       "asset": "RAREPEPA.NFTNYC"
@@ -47769,16 +47075,6 @@
       "asset": "VETTEDREALTY.VRX-TH-03"
     },
     {
-      "asset": "PEPEGIRLZ.5",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKEXPLORERS.ORANGE",
       "attributes": [
         {
@@ -47789,10 +47085,6 @@
     },
     {
       "asset": "FAKERARECAP.PEPE_NO.04"
-    },
-    {
-      "asset": "PEPAGANDA.05",
-      "primary": false
     },
     {
       "asset": "KEKOBRA.PURPLEPROMO",
@@ -47870,16 +47162,6 @@
       "asset": "A11101059233286948976"
     },
     {
-      "asset": "A11101353450754058810",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11101979053450953397"
     },
     {
@@ -47889,100 +47171,10 @@
       "asset": "A11102426886564262683"
     },
     {
-      "asset": "A11102582461667152779",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11102600484819088549",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11102827699722113546",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11103018680467897762"
     },
     {
-      "asset": "A11103099430842801156",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11103103220012747506",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11103148821410661912",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11103216086083546251",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11103344587313453803",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11103947182125538304"
-    },
-    {
-      "asset": "A11104615745677397628",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11105062459937883333"
@@ -48012,16 +47204,6 @@
       "asset": "A11108393848273902576"
     },
     {
-      "asset": "A11108447993260603966",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11108626723306025015"
     },
     {
@@ -48037,16 +47219,6 @@
       "asset": "A11109730028507954478"
     },
     {
-      "asset": "A11109966091857952990",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11110769943985588693"
     },
     {
@@ -48056,67 +47228,7 @@
       "asset": "A11110862929477545731"
     },
     {
-      "asset": "A11110952469598736013",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11110974599335988104",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11111004228329315489",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A111111111111111555"
-    },
-    {
-      "asset": "A11111139247819862389",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11111366092005461719",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11111560121360785738",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11111580668436835532"
@@ -48129,16 +47241,6 @@
     },
     {
       "asset": "A11112654277914465062"
-    },
-    {
-      "asset": "A11113100884651454529",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "UGLYLINES.1",
@@ -48159,26 +47261,6 @@
       "asset": "A11114413083988935324"
     },
     {
-      "asset": "A11114564959880083972",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11114787067003517606",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11115084949037919711"
     },
     {
@@ -48188,40 +47270,10 @@
       "asset": "A11115868125750457703"
     },
     {
-      "asset": "A11116199696408059831",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11116345364500699815"
     },
     {
-      "asset": "NEONS.KARPELES",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11116465218956654469"
-    },
-    {
-      "asset": "A11116569476381755097",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11116690817131570831"
@@ -48245,10 +47297,6 @@
       "asset": "KAITRUMP.KeepWisdomTeeth"
     },
     {
-      "asset": "PUNCHPUFF.04c38c001d0",
-      "primary": false
-    },
-    {
       "asset": "A11121916854091689824",
       "attributes": [
         {
@@ -48258,40 +47306,10 @@
       ]
     },
     {
-      "asset": "A11121933663551267915",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11122049537957745107",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11122432383980663236"
     },
     {
       "asset": "A11122453808990824225"
-    },
-    {
-      "asset": "A11123209003392091575",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11123923743033021137"
@@ -48309,27 +47327,7 @@
       "asset": "A11125765912000190629"
     },
     {
-      "asset": "A11126037008292244175",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11127063398873455523"
-    },
-    {
-      "asset": "A11127675535174066347",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11128255402392176830"
@@ -48344,16 +47342,6 @@
       "asset": "A11128917572891077289"
     },
     {
-      "asset": "A11129209006817476811",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11129253651138068768"
     },
     {
@@ -48361,16 +47349,6 @@
     },
     {
       "asset": "A11129369280079231713"
-    },
-    {
-      "asset": "A11129548295236277526",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11129680812808730594"
@@ -48382,43 +47360,13 @@
       "asset": "A11130420283443311768"
     },
     {
-      "asset": "A11130556616805903917",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11131361629564449701"
     },
     {
       "asset": "A11131455115575156239"
     },
     {
-      "asset": "A11132813284112699648",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11132873450052259284"
-    },
-    {
-      "asset": "A11132881200061775803",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11133126349559965953"
@@ -48428,26 +47376,6 @@
     },
     {
       "asset": "A11133403603752979672"
-    },
-    {
-      "asset": "A11133564536537064548",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11133647885993123401",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11133699281386044042"
@@ -48465,27 +47393,7 @@
       "asset": "A11134976695564032759"
     },
     {
-      "asset": "A11135174502132017061",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11135778757820387006"
-    },
-    {
-      "asset": "A11136172101038750782",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11136200084871068033"
@@ -48507,16 +47415,6 @@
     },
     {
       "asset": "A11137800638328069457"
-    },
-    {
-      "asset": "A11137862809517441375",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11138030402944266945"
@@ -48546,40 +47444,10 @@
       "asset": "A11139763248693955722"
     },
     {
-      "asset": "A11139877173220437651",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11140430503049094509"
     },
     {
       "asset": "A11140536455331674842"
-    },
-    {
-      "asset": "A11141000748146845191",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11141260390868014180",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11141440011288405453"
@@ -48639,16 +47507,6 @@
       "asset": "A11143898289123282927"
     },
     {
-      "asset": "A11143926055031673707",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11143980326416976779"
     },
     {
@@ -48667,27 +47525,7 @@
       "asset": "A11144567107252211144"
     },
     {
-      "asset": "A11144934679764914393",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11145636025439664242"
-    },
-    {
-      "asset": "A11145812868061383561",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11145874558318735121"
@@ -48717,16 +47555,6 @@
       "asset": "A11147658409834577097"
     },
     {
-      "asset": "A11147696273653304109",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11148361412322720429"
     },
     {
@@ -48748,50 +47576,10 @@
       "asset": "A11150182714572412348"
     },
     {
-      "asset": "A11150292266759363480",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11150930517616565085",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11150973750399943774"
     },
     {
       "asset": "A11151219132375818637"
-    },
-    {
-      "asset": "A11151757620637246014",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11151858279152793187",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11152195020300850518"
@@ -48815,46 +47603,16 @@
       "asset": "A11153412690716541444"
     },
     {
-      "asset": "A11153552193438581028",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11153995295883985230"
     },
     {
       "asset": "A11154296116510275657"
     },
     {
-      "asset": "A11154315798088292375",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11154836036793692056"
     },
     {
       "asset": "A11154940816589814689"
-    },
-    {
-      "asset": "A11155034606277680143",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11155155034554020932"
@@ -48864,16 +47622,6 @@
     },
     {
       "asset": "A11155266465376171233"
-    },
-    {
-      "asset": "A11155293067315671492",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11155307517406100104"
@@ -48891,47 +47639,13 @@
       ]
     },
     {
-      "asset": "A11155640087186000576",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11155714912399869693"
-    },
-    {
-      "asset": "A11156098388972828536",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.LETTUCEHEAL",
-      "primary": false
     },
     {
       "asset": "A11156434261417584372"
     },
     {
       "asset": "A11156762188829960337"
-    },
-    {
-      "asset": "A11157017952610695671",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11157037608010462694"
@@ -48959,16 +47673,6 @@
     },
     {
       "asset": "A11160095801744818289"
-    },
-    {
-      "asset": "A11160103968035480494",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11160603865229875139"
@@ -49019,53 +47723,13 @@
       "asset": "A11163899794157402570"
     },
     {
-      "asset": "A11164063860286947340",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11164199662039595963",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11164354444840851951"
     },
     {
       "asset": "A11164405120951169835"
     },
     {
-      "asset": "A11164464449719069721",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11164706467551366260"
-    },
-    {
-      "asset": "A11165020424091171588",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11165057436966182185",
@@ -49101,26 +47765,6 @@
       "asset": "A11167160817292638787"
     },
     {
-      "asset": "A11167431393782718103",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11167486988924563439",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKEHOURY.LaFakaKidnapped"
     },
     {
@@ -49128,16 +47772,6 @@
     },
     {
       "asset": "A11167590432722092673"
-    },
-    {
-      "asset": "A11167844717853008894",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11168180410447845652"
@@ -49167,26 +47801,6 @@
       ]
     },
     {
-      "asset": "A11168918204713124372",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11169274427646009915",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11169536696103243541"
     },
     {
@@ -49203,16 +47817,6 @@
     },
     {
       "asset": "A11170263925228406169"
-    },
-    {
-      "asset": "A11171105677901490573",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11171183583951612273"
@@ -49234,16 +47838,6 @@
     },
     {
       "asset": "A11173647872831585911"
-    },
-    {
-      "asset": "A11173768322621057042",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11173775997477616096"
@@ -49282,16 +47876,6 @@
       "asset": "A11175579477495490250"
     },
     {
-      "asset": "A11175640059034886529",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11175709503821775187"
     },
     {
@@ -49304,53 +47888,13 @@
       "asset": "A11176659450763881634"
     },
     {
-      "asset": "A11176793409504263170",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11176804474449732682"
-    },
-    {
-      "asset": "A11176950150278252701",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "TILES.007"
     },
     {
       "asset": "A11177883647748015641"
-    },
-    {
-      "asset": "A11178055384770449600",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11178409746570769587",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11178991720333680253"
@@ -49377,27 +47921,7 @@
       "asset": "A11180670444661539710"
     },
     {
-      "asset": "A11180785211851132062",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11180831279572832484"
-    },
-    {
-      "asset": "A11180971246750330386",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11181178082779850300"
@@ -49433,30 +47957,10 @@
       "asset": "A11182953094687993774"
     },
     {
-      "asset": "A11183178470655203594",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11183424268582809975"
     },
     {
       "asset": "A11183657764986798029"
-    },
-    {
-      "asset": "A11183861165711677246",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11184253893669306558"
@@ -49480,70 +47984,10 @@
       "asset": "A11185216289734174811"
     },
     {
-      "asset": "A11185281486656791743",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11185601696782652151"
     },
     {
-      "asset": "A11185643562638413921",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11185719307259127859",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11185795174951066814"
-    },
-    {
-      "asset": "A11185897778122685878",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11185919517903677462",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11186188590789488930",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11186539510240837747"
@@ -49553,16 +47997,6 @@
     },
     {
       "asset": "A11186885812142971571"
-    },
-    {
-      "asset": "A11186962870625382735",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11187201189552447769"
@@ -49595,106 +48029,16 @@
       "asset": "A11189097942144524007"
     },
     {
-      "asset": "A11189397854175403139",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11189607302589826576",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11189677099106657950"
     },
     {
       "asset": "A11189935194761510506"
     },
     {
-      "asset": "A11190041639892669468",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11190166189993312822",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11190232858145604808"
     },
     {
       "asset": "A11190326893143448431"
-    },
-    {
-      "asset": "A11190401764843924711",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11190504882074265051",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11191007041876269027",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11191188929638477759",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "A11191290543857754038",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11192234086109354002"
@@ -49704,16 +48048,6 @@
     },
     {
       "asset": "A11193054832787328626"
-    },
-    {
-      "asset": "A11193151063546511316",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11193338576900252447"
@@ -49732,16 +48066,6 @@
     },
     {
       "asset": "A11194578283541199947"
-    },
-    {
-      "asset": "A11194950052399576321",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11195165668549946058"
@@ -49792,30 +48116,10 @@
       "asset": "A11198135522077175347"
     },
     {
-      "asset": "A11198372542765325551",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A11198384678562650450"
     },
     {
       "asset": "A11198529567493684162"
-    },
-    {
-      "asset": "A11198627669248830004",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MEAR ONE"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11198924780789860186"
@@ -49884,10 +48188,6 @@
       "asset": "PEPEISART.TSHIRT22"
     },
     {
-      "asset": "PUNCHPUFF.0471be001d0",
-      "primary": false
-    },
-    {
       "asset": "A1136919345517703189"
     },
     {
@@ -49901,16 +48201,6 @@
     },
     {
       "asset": "PINKSHIRTGUY.7"
-    },
-    {
-      "asset": "PEPEBORNFREE.14",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A11430368194707426367"
@@ -49955,10 +48245,6 @@
       "asset": "DGAUCTION.0"
     },
     {
-      "asset": "HIPHOPGAME.JAHIWITNESS",
-      "primary": false
-    },
-    {
       "asset": "A11540636025540900728"
     },
     {
@@ -49992,34 +48278,10 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.CHRISBAYNES",
-      "primary": false
-    },
-    {
       "asset": "WEEX.A7714010038065172000"
     },
     {
       "asset": "A11617427467724435000"
-    },
-    {
-      "asset": "NEONS.KEVIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "NEONS.PEPETHOTH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "FAKEBASEL.22.PAPERPLANE"
@@ -50056,10 +48318,6 @@
           "value": "Tizar Berandalan"
         }
       ]
-    },
-    {
-      "asset": "PUNCHPUFF.0428c4001d0",
-      "primary": false
     },
     {
       "asset": "WASCALMPEPE.AFTERMATH",
@@ -50149,10 +48407,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.ENOCH7THPROPHET",
-      "primary": false
-    },
-    {
       "asset": "A118564007733320842"
     },
     {
@@ -50172,24 +48426,6 @@
     },
     {
       "asset": "A118844227696375964"
-    },
-    {
-      "asset": "HIPHOPGAME.TKDACYPH",
-      "primary": false
-    },
-    {
-      "asset": "FAKEJOURNEY.7",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "PUNCHPUFF.04f4a3051c0",
-      "primary": false
     },
     {
       "asset": "A11920112557338814000"
@@ -50255,10 +48491,6 @@
       "asset": "FAKEROTHKO.BASQKEK"
     },
     {
-      "asset": "HIPHOPGAME.MERCTHEBIGBODYBENZ",
-      "primary": false
-    },
-    {
       "asset": "BLAZYSUSAN.126"
     },
     {
@@ -50305,16 +48537,6 @@
     },
     {
       "asset": "INFOKEK.RPA03"
-    },
-    {
-      "asset": "PEPEGIRLZ.12",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "FAKEXPLORERS.BLUEKONG",
@@ -50413,50 +48635,16 @@
       "asset": "A12405764456997387506"
     },
     {
-      "asset": "PEPEGIRLZ.6",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "HOLYCARD.PadrePio"
     },
     {
-      "asset": "NEONS.WINKELPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKERARECAP.BERRYRED"
-    },
-    {
-      "asset": "PEPEGIRLZ.3",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A12460021579324678296"
     },
     {
       "asset": "WHATIS.DIGITALSILVER"
-    },
-    {
-      "asset": "HIPHOPGAME.TRUTH",
-      "primary": false
     },
     {
       "asset": "MIKAPOSTERS.NYEBOSHIBASH.2023"
@@ -50471,10 +48659,6 @@
       "asset": "WRBPT.WomensSportsPepe"
     },
     {
-      "asset": "PUNCHPUFF.04fd68011c0",
-      "primary": false
-    },
-    {
       "asset": "PEPERANSOM.xcp"
     },
     {
@@ -50482,16 +48666,6 @@
     },
     {
       "asset": "SOULPEPE.PROTECTION"
-    },
-    {
-      "asset": "PEPEBORNFREE.12",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PROOFOFVISIT.EXPO2020"
@@ -50540,10 +48714,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPAGANDA.13",
-      "primary": false
     },
     {
       "asset": "FLOONEYBIN.FHOLYBIN",
@@ -50595,10 +48765,6 @@
     },
     {
       "asset": "VEEFREN.CRINGE_KOALA"
-    },
-    {
-      "asset": "PFPPEPE.15",
-      "primary": false
     },
     {
       "asset": "SEASTAMP.CORALSTAMP"
@@ -50709,16 +48875,6 @@
       "asset": "FAUXSOGS.21.Series1"
     },
     {
-      "asset": "PEPEBORNFREE.01",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A1312491311291920103"
     },
     {
@@ -50756,10 +48912,6 @@
     },
     {
       "asset": "GOATSE.CX"
-    },
-    {
-      "asset": "PFPPEPE.3",
-      "primary": false
     },
     {
       "asset": "UGLYLINES.NATHAN",
@@ -50837,10 +48989,6 @@
       ]
     },
     {
-      "asset": "PFPPEPE.6",
-      "primary": false
-    },
-    {
       "asset": "TONILANEC.43"
     },
     {
@@ -50856,18 +49004,10 @@
       "asset": "INERMIS.2"
     },
     {
-      "asset": "PINATA.TEDDYBEAST",
-      "primary": false
-    },
-    {
       "asset": "GUGGENMEME.HOMERCHECKS"
     },
     {
       "asset": "LAMAPEPE.incarnation"
-    },
-    {
-      "asset": "PEPAGANDA.19",
-      "primary": false
     },
     {
       "asset": "QUESTFREN.QUESTFREN.154",
@@ -50897,16 +49037,6 @@
       "asset": "CARDASF.COUPON"
     },
     {
-      "asset": "PEPEBORNFREE.18",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "EURONOTES.500"
     },
     {
@@ -50926,16 +49056,6 @@
     },
     {
       "asset": "PEPEALBUM.August_Burns_Pepe"
-    },
-    {
-      "asset": "PEPEBORNFREE.09",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "DANKBETTY.ARTISTPROOFSCENETWO"
@@ -50974,30 +49094,6 @@
       "asset": "LITOCOIN.MARTYNAS_MAZVYDAS_10_EUR"
     },
     {
-      "asset": "PEPAGANDA.09",
-      "primary": false
-    },
-    {
-      "asset": "FAKEJOURNEY.1",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "PFPPEPE.14",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mort"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "HANDPRINTS.airdrop"
     },
     {
@@ -51008,10 +49104,6 @@
     },
     {
       "asset": "BLACKBOX.2021.MYSTERY_LISTING_B"
-    },
-    {
-      "asset": "PFPPEPE.22",
-      "primary": false
     },
     {
       "asset": "TRIGRAMS.Fire"
@@ -51068,10 +49160,6 @@
       "asset": "FAKERARECAP.PEPE_No.06"
     },
     {
-      "asset": "HIPHOPGAME.JONEYE",
-      "primary": false
-    },
-    {
       "asset": "WEEX.KETF"
     },
     {
@@ -51096,16 +49184,6 @@
       "asset": "WRBPT.PepeLiberation"
     },
     {
-      "asset": "PEPEGIRLZ.11",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "CHAINWARS.TIGERS"
     },
     {
@@ -51125,10 +49203,6 @@
     },
     {
       "asset": "PEPETORCH.GALAXYSTICKERS2"
-    },
-    {
-      "asset": "PINATA.SNAKEBEAST",
-      "primary": false
     },
     {
       "asset": "WHATIS.TIME"
@@ -51189,10 +49263,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPAGANDA.17",
-      "primary": false
     },
     {
       "asset": "TONILANE.26"
@@ -51267,20 +49337,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.SHUNDAK",
-      "primary": false
-    },
-    {
-      "asset": "FAKEJOURNEY.2",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "MASKS.0x0000"
     },
     {
@@ -51309,14 +49365,6 @@
     },
     {
       "asset": "WEEX.A4727714767834463000"
-    },
-    {
-      "asset": "PFPPEPE.11",
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.SUBSTANTIAL",
-      "primary": false
     },
     {
       "asset": "BKYLE.Lyra"
@@ -51352,16 +49400,6 @@
       "asset": "FAUXJHEEZE.KAPHRESH"
     },
     {
-      "asset": "PEPEGIRLZ.1",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKEDUST.ELECTRUM"
     },
     {
@@ -51369,16 +49407,6 @@
     },
     {
       "asset": "PINKSHIRTGUY.12"
-    },
-    {
-      "asset": "PEPEBORNFREE.03",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "FLOONEYBIN.NORMANCOMICS"
@@ -51426,20 +49454,6 @@
       "asset": "A14983420839020756993"
     },
     {
-      "asset": "HIPHOPGAME.COOPDVILLE",
-      "primary": false
-    },
-    {
-      "asset": "NEONS.KEISERPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKEPEPA.NFTNYC"
     },
     {
@@ -51480,10 +49494,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPAGANDA.02",
-      "primary": false
     },
     {
       "asset": "MENABO.BarbaraMcClintock"
@@ -51543,24 +49553,10 @@
       "asset": "FAKEWYOMING.708803"
     },
     {
-      "asset": "NEONS.SECURITY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PEPEMAGPIE.OIL"
     },
     {
       "asset": "SUCCESSDANK.FAIL"
-    },
-    {
-      "asset": "PFPPEPE.2",
-      "primary": false
     },
     {
       "asset": "TONILANE.LiberateDivineFeminine.Spirit"
@@ -51615,10 +49611,6 @@
           "value": "Darky"
         }
       ]
-    },
-    {
-      "asset": "BATTY.002",
-      "primary": false
     },
     {
       "asset": "KITKATS.NAKAMOTO",
@@ -51681,16 +49673,6 @@
       "asset": "SHORTFOR.FOMO"
     },
     {
-      "asset": "NEONS.NOFUCKSPUTINPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PHOCKHEADS.DJPEPE.SPACESCRILLA"
     },
     {
@@ -51716,10 +49698,6 @@
     },
     {
       "asset": "NUTILDAH.III"
-    },
-    {
-      "asset": "HIPHOPGAME.KNUKLEHEAD",
-      "primary": false
     },
     {
       "asset": "FUTURETRASH.FIVE",
@@ -51752,10 +49730,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.NATESKYWALKER",
-      "primary": false
-    },
-    {
       "asset": "FAKEWYOMING.909632"
     },
     {
@@ -51786,16 +49760,6 @@
       "asset": "A15962975660261072929"
     },
     {
-      "asset": "FAKEJOURNEY.3",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PABLOSURYA.CITYSCAPE"
     },
     {
@@ -51806,26 +49770,6 @@
     },
     {
       "asset": "CRYPTOPUNKS.5"
-    },
-    {
-      "asset": "NEONS.PEPEONECOIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "PEPEBORNFREE.08",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "BATTLECORN.BOOST",
@@ -51880,10 +49824,6 @@
           "value": "Darky"
         }
       ]
-    },
-    {
-      "asset": "PINATA.PROGENY.GOLD",
-      "primary": false
     },
     {
       "asset": "FAKERARECAP.PEPE_No.03"
@@ -51964,16 +49904,6 @@
       ]
     },
     {
-      "asset": "PEPEGIRLZ.4",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "RUNDMP.REMIX"
     },
     {
@@ -52010,10 +49940,6 @@
       "asset": "TANGERINE.BLOOM"
     },
     {
-      "asset": "PFPPEPE.21",
-      "primary": false
-    },
-    {
       "asset": "PINKSHIRTGUY.14"
     },
     {
@@ -52027,10 +49953,6 @@
     },
     {
       "asset": "A16433714299024736000"
-    },
-    {
-      "asset": "HIPHOPGAME.FLEXMATHEWS",
-      "primary": false
     },
     {
       "asset": "PEPEFRENZ.FLOONEY.SASHA",
@@ -52064,16 +49986,6 @@
     },
     {
       "asset": "LVSD.TWOLONGPAPERS"
-    },
-    {
-      "asset": "PEPEBORNFREE.15",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "XCPARTWORK.PEPEBAG",
@@ -52122,16 +50034,6 @@
     },
     {
       "asset": "A166224238372279500"
-    },
-    {
-      "asset": "FAKEJOURNEY.9",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PEPEALBUM.The_Changing_of_Pepes"
@@ -52251,10 +50153,6 @@
       "asset": "LEMONPARTY.ORG"
     },
     {
-      "asset": "PFPPEPE.5",
-      "primary": false
-    },
-    {
       "asset": "PEPENDO.Super_Pepe_World"
     },
     {
@@ -52265,16 +50163,6 @@
     },
     {
       "asset": "RARESCRILLA.CME006"
-    },
-    {
-      "asset": "NEONS.DANKGOD",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A17011935852398205605"
@@ -52317,10 +50205,6 @@
           "value": "JDog"
         }
       ]
-    },
-    {
-      "asset": "HIPHOPGAME.JWLB",
-      "primary": false
     },
     {
       "asset": "TESTGEN.3",
@@ -52407,16 +50291,6 @@
       "asset": "DREAMTEAM.PURPLE"
     },
     {
-      "asset": "PEPEGIRLZ.8",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PEPEFRENZ.WOJAK.SASHA",
       "attributes": [
         {
@@ -52456,16 +50330,6 @@
       "asset": "SHORTFOR.DYOR"
     },
     {
-      "asset": "NEONS.NAKAMOTO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "RAREIBEX.RGB"
     },
     {
@@ -52488,10 +50352,6 @@
     },
     {
       "asset": "BTCBROSSHIRT.V1"
-    },
-    {
-      "asset": "HIPHOPGAME.PROWESSTHETESTAMENT",
-      "primary": false
     },
     {
       "asset": "PEPEGLASS.PEARL",
@@ -52551,16 +50411,6 @@
       ]
     },
     {
-      "asset": "NEONS.FREEDOMKEK",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FSHARP.2hj"
     },
     {
@@ -52607,16 +50457,6 @@
     },
     {
       "asset": "TUBGIRL.COM"
-    },
-    {
-      "asset": "NEONS.PUTINPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "MADETHISPEPE.KINGPIN",
@@ -52700,10 +50540,6 @@
       "asset": "GOATSE.WEDDINGRING"
     },
     {
-      "asset": "PEPAGANDA.10",
-      "primary": false
-    },
-    {
       "asset": "FAKEWYOMING.709435"
     },
     {
@@ -52714,10 +50550,6 @@
     },
     {
       "asset": "THEENIGMA.CHESTCARD"
-    },
-    {
-      "asset": "PEPAGANDA.06",
-      "primary": false
     },
     {
       "asset": "RAREREAGAN.MONEYBERN"
@@ -52742,10 +50574,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "HIPHOPGAME.MALIKDOPE",
-      "primary": false
     },
     {
       "asset": "TESTGEN.2",
@@ -52803,10 +50631,6 @@
     },
     {
       "asset": "ZHONGGUO.YI"
-    },
-    {
-      "asset": "PEPAGANDA.04",
-      "primary": false
     },
     {
       "asset": "FLOONEYBIN.CHECKITOUT"
@@ -52887,10 +50711,6 @@
       "asset": "LOEWYLOOP.Alebrije-Desert-MercuryC"
     },
     {
-      "asset": "HIPHOPGAME.STEPHENREDHEAD",
-      "primary": false
-    },
-    {
       "asset": "MLIBTY.Anonymous_Official_Hodls"
     },
     {
@@ -52901,16 +50721,6 @@
     },
     {
       "asset": "ILLUSTRATO.R_PEPETHOTHFAKE"
-    },
-    {
-      "asset": "NEONS.HAIRPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A188412285204007068",
@@ -53009,16 +50819,6 @@
       ]
     },
     {
-      "asset": "PEPEBORNFREE.19",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "KAITRUMP.HappyBirthdayDear"
     },
     {
@@ -53064,30 +50864,10 @@
       "asset": "THREESISTERS.LEFT"
     },
     {
-      "asset": "FAKEJOURNEY.8",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "ESCAPED.BOREDAPE1111"
     },
     {
       "asset": "DANKBETTY.ARTISTPROOFSCENEONE"
-    },
-    {
-      "asset": "PEPEGIRLZ.9",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "FAKEARWYN.ARWYNATOR",
@@ -53097,16 +50877,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "NEONS.FSBPUTINPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "UKSTAMPS.FAKAMOTO",
@@ -53220,16 +50990,6 @@
       "asset": "SHORTFOR.LFG"
     },
     {
-      "asset": "PEPEGIRLZ.2",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A2371478676728427000",
       "attributes": [
         {
@@ -53240,10 +51000,6 @@
     },
     {
       "asset": "TRIGRAMS.Lake"
-    },
-    {
-      "asset": "PUNCHPUFF.04a7bc201c0",
-      "primary": false
     },
     {
       "asset": "A2395131544327443000"
@@ -53345,10 +51101,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.RIZTHAGREAT",
-      "primary": false
-    },
-    {
       "asset": "A2708147647607995905"
     },
     {
@@ -53364,16 +51116,6 @@
       ]
     },
     {
-      "asset": "PEPEBORNFREE.17",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PEPEDIBLES.CHEMDOG",
       "attributes": [
         {
@@ -53383,25 +51125,7 @@
       ]
     },
     {
-      "asset": "PEPEGIRLZ.10",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
-      "asset": "PUNCHPUFF.047513381c0",
-      "primary": false
-    },
-    {
       "asset": "PEPONONOKE.ACIDFOREST"
-    },
-    {
-      "asset": "HIPHOPGAME.CRYPTOCASUALLY",
-      "primary": false
     },
     {
       "asset": "PEPECHECKED.DAILYDANK"
@@ -53548,10 +51272,6 @@
       "asset": "A3251685181621140103"
     },
     {
-      "asset": "HIPHOPGAME.KURTIETOP",
-      "primary": false
-    },
-    {
       "asset": "PURPLEFROG.magic"
     },
     {
@@ -53678,16 +51398,6 @@
       "asset": "A3523430749813374000"
     },
     {
-      "asset": "FAKEJOURNEY.4",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "KEKOBRA.STORY",
       "attributes": [
         {
@@ -53701,16 +51411,6 @@
     },
     {
       "asset": "A3576478248047319000"
-    },
-    {
-      "asset": "PEPEBORNFREE.04",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "INERMIS.4"
@@ -53893,10 +51593,6 @@
       "asset": "MMTCARDS.MMT2ABTC-UNIDENTIFIED_LIES"
     },
     {
-      "asset": "PEPAGANDA.03",
-      "primary": false
-    },
-    {
       "asset": "XCPARTWORK.DALI",
       "attributes": [
         {
@@ -53930,15 +51626,7 @@
       ]
     },
     {
-      "asset": "PINATA.BLACKDOGBEAST",
-      "primary": false
-    },
-    {
       "asset": "A413134221458965690"
-    },
-    {
-      "asset": "PEPAGANDA.01",
-      "primary": false
     },
     {
       "asset": "PINKSHIRTGUY.17"
@@ -53957,10 +51645,6 @@
     },
     {
       "asset": "A415676093991334097"
-    },
-    {
-      "asset": "PFPPEPE.20",
-      "primary": false
     },
     {
       "asset": "A416837106925141242"
@@ -53985,10 +51669,6 @@
           "value": "Darky"
         }
       ]
-    },
-    {
-      "asset": "HIPHOPGAME.KREM",
-      "primary": false
     },
     {
       "asset": "XCPARTWORK.THREE",
@@ -54051,16 +51731,6 @@
       "asset": "CHAINWARS.TINEATTACK"
     },
     {
-      "asset": "PFPPEPE.10",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Kevo-B"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "ESCAPED.BOREDAPE1572"
     },
     {
@@ -54083,10 +51753,6 @@
     },
     {
       "asset": "BLOCKCARD.14"
-    },
-    {
-      "asset": "PEPAGANDA.08",
-      "primary": false
     },
     {
       "asset": "A4483950648172006000",
@@ -54134,16 +51800,6 @@
       "asset": "LITOCOIN.MINDAUGAS_20_EUR"
     },
     {
-      "asset": "PEPEGIRLZ.15",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A4632881004432185000"
     },
     {
@@ -54180,10 +51836,6 @@
       "asset": "CSAT.PSST"
     },
     {
-      "asset": "HIPHOPGAME.KOUNTFIF",
-      "primary": false
-    },
-    {
       "asset": "SCHRUTEBUCKS.STANLEYNICKELS"
     },
     {
@@ -54191,16 +51843,6 @@
     },
     {
       "asset": "FAKEWYOMING.708800"
-    },
-    {
-      "asset": "PEPEGIRLZ.13",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PEPEALBUM.Heavy_Heavy_Pepe"
@@ -54344,16 +51986,6 @@
       "asset": "MISSPEEPS.The_Ultimate_Sub"
     },
     {
-      "asset": "FAKEJOURNEY.5",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "DANPEPVINO.PROJECT"
     },
     {
@@ -54366,21 +51998,7 @@
       ]
     },
     {
-      "asset": "PFPPEPE.12",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Rocco"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A5148085805068396300"
-    },
-    {
-      "asset": "HIPHOPGAME.PARNHASHNAKOVSKY",
-      "primary": false
     },
     {
       "asset": "CARPOPODITE.PREBIRTH"
@@ -54396,10 +52014,6 @@
     },
     {
       "asset": "CRYPTOPUNKS.9"
-    },
-    {
-      "asset": "BATTY.WRAPPING",
-      "primary": false
     },
     {
       "asset": "MIAWALLACE.LICENSE",
@@ -54468,24 +52082,10 @@
       "asset": "NIMZOBIT.XCP"
     },
     {
-      "asset": "PEPEBORNFREE.11",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "TILES.001"
     },
     {
       "asset": "PEPEMOSAIC.NAKAMOTO"
-    },
-    {
-      "asset": "HIPHOPGAME.DJRAEDAWN",
-      "primary": false
     },
     {
       "asset": "EMMAMARKIN.NaturesTheCure"
@@ -54495,16 +52095,6 @@
     },
     {
       "asset": "VICEPEPE.test1"
-    },
-    {
-      "asset": "NEONS.PEPEBEEFTAXI",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PEEKABOO.BARRYPEPE",
@@ -54525,10 +52115,6 @@
       ]
     },
     {
-      "asset": "PFPPEPE.8",
-      "primary": false
-    },
-    {
       "asset": "A544991696871232022"
     },
     {
@@ -54539,10 +52125,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPAGANDA.18",
-      "primary": false
     },
     {
       "asset": "SECURITYPEPE.FAKERARE"
@@ -54585,10 +52167,6 @@
       "asset": "A5530153688548641793"
     },
     {
-      "asset": "HIPHOPGAME.MALIKSTARX",
-      "primary": false
-    },
-    {
       "asset": "QUESTFREN.QUESTFREN.137",
       "attributes": [
         {
@@ -54617,10 +52195,6 @@
     },
     {
       "asset": "BLOCKCARD.5"
-    },
-    {
-      "asset": "PEPAGANDA.12",
-      "primary": false
     },
     {
       "asset": "PONZIPEPE.RUG",
@@ -54660,16 +52234,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPEBORNFREE.07",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "TESTINGFW.TIMELINEXCPTEST1"
@@ -54729,10 +52293,6 @@
       "asset": "A582497131107666994"
     },
     {
-      "asset": "PEPAGANDA.15",
-      "primary": false
-    },
-    {
       "asset": "A5839740742190281000"
     },
     {
@@ -54790,16 +52350,6 @@
       "asset": "A5905827981401042000"
     },
     {
-      "asset": "PEPEBORNFREE.10",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "SURFSPOTS.TRESTLES"
     },
     {
@@ -54845,10 +52395,6 @@
       "asset": "A5972747811647741000"
     },
     {
-      "asset": "PUNCHPUFF.046f7f381c0",
-      "primary": false
-    },
-    {
       "asset": "BALLOONPEPE.BALLOONPEPE.PURPLERAIN"
     },
     {
@@ -54868,10 +52414,6 @@
     },
     {
       "asset": "HEFE.xcp"
-    },
-    {
-      "asset": "HIPHOPGAME.SCESSIONS",
-      "primary": false
     },
     {
       "asset": "A6089544598505577473"
@@ -54934,10 +52476,6 @@
       "asset": "BITBALL.2SATCHELPAIGE"
     },
     {
-      "asset": "PINATA.RHINOBEAST",
-      "primary": false
-    },
-    {
       "asset": "RRAM.16"
     },
     {
@@ -54978,10 +52516,6 @@
     },
     {
       "asset": "A6211212141545190103"
-    },
-    {
-      "asset": "PFPPEPE.1",
-      "primary": false
     },
     {
       "asset": "ESCAPED.BOREDAPE2808"
@@ -55170,14 +52704,6 @@
       "asset": "MOURNINGMOOS.BLISS"
     },
     {
-      "asset": "HIPHOPGAME.MOZAYCALLOWAY",
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.ROCMIKEY",
-      "primary": false
-    },
-    {
       "asset": "JPEPELOWERY.NCSWIC"
     },
     {
@@ -55197,14 +52723,6 @@
     },
     {
       "asset": "A6585132898611254000"
-    },
-    {
-      "asset": "HIPHOPGAME.ARDAMUS",
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.MYKA9",
-      "primary": false
     },
     {
       "asset": "FROGG.BROWN"
@@ -55333,16 +52851,6 @@
       ]
     },
     {
-      "asset": "NEONS.DOGGYPUTIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "PINKSHIRTGUY.1"
     },
     {
@@ -55359,16 +52867,6 @@
     },
     {
       "asset": "HELLAPAPELLA.666"
-    },
-    {
-      "asset": "NEONS.FAKAMOTO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "LABRADEPE.threeD"
@@ -55392,16 +52890,6 @@
       "asset": "RHYSMONKEY.xcp"
     },
     {
-      "asset": "PEPEBORNFREE.05",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "CORNKITTIES.STAMP",
       "attributes": [
         {
@@ -55412,16 +52900,6 @@
     },
     {
       "asset": "A708255477416302000"
-    },
-    {
-      "asset": "PEPEBORNFREE.16",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A708844309230287744"
@@ -55517,10 +52995,6 @@
       "asset": "A7197698260037259000"
     },
     {
-      "asset": "HIPHOPGAME.GOEZKO",
-      "primary": false
-    },
-    {
       "asset": "PEPEFAIR.80K"
     },
     {
@@ -55590,10 +53064,6 @@
       "asset": "FLAMP.PURP"
     },
     {
-      "asset": "PEPAGANDA.16",
-      "primary": false
-    },
-    {
       "asset": "PEPEFRENZ.WINKELPEPE",
       "attributes": [
         {
@@ -55651,16 +53121,6 @@
       "asset": "MRDANKBOT.MRRAREBOT_FAKE_REJECT"
     },
     {
-      "asset": "GENESISFLIPS.TEST",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "NEONAKAMOTO.NEON"
     },
     {
@@ -55674,16 +53134,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "NEONS.PEPEBOY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "DIERKS.BENTLEY.GOLD"
@@ -55720,10 +53170,6 @@
     },
     {
       "asset": "ONCHAINART.1X1"
-    },
-    {
-      "asset": "HIPHOPGAME.MADDILLZ",
-      "primary": false
     },
     {
       "asset": "FAKERARECAP.DARKBLUE"
@@ -55825,14 +53271,6 @@
       ]
     },
     {
-      "asset": "PEPAGANDA.07",
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.JASHEED",
-      "primary": false
-    },
-    {
       "asset": "FLAMP.BLUE"
     },
     {
@@ -55932,16 +53370,6 @@
       ]
     },
     {
-      "asset": "PEPEBORNFREE.13",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "OMARPEPE.DONTSCARE"
     },
     {
@@ -55997,16 +53425,6 @@
     },
     {
       "asset": "A8059762935787374000"
-    },
-    {
-      "asset": "PEPEGIRLZ.7",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "CHIEFMONKEY.TEST2"
@@ -56093,16 +53511,6 @@
       "asset": "FAKERARECAP.ORANGE"
     },
     {
-      "asset": "PEPEGIRLZ.14",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "A821103067574542300",
       "attributes": [
         {
@@ -56140,16 +53548,6 @@
     },
     {
       "asset": "A8254007100538157000"
-    },
-    {
-      "asset": "FAKEJOURNEY.6",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "INCOGNITOFRN.SKULLDISGUISE"
@@ -56242,10 +53640,6 @@
       "asset": "TWEETIOUS.xcp"
     },
     {
-      "asset": "HIPHOPGAME.MELATTO",
-      "primary": false
-    },
-    {
       "asset": "A850425893471127542"
     },
     {
@@ -56253,10 +53647,6 @@
     },
     {
       "asset": "A853310607317391585"
-    },
-    {
-      "asset": "BATTY.001",
-      "primary": false
     },
     {
       "asset": "SCANNABLES.GRAIL1"
@@ -56316,14 +53706,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.ELFOFNYC",
-      "primary": false
-    },
-    {
-      "asset": "PINATA.PROGENY",
-      "primary": false
-    },
-    {
       "asset": "BIGDEAL.xcp"
     },
     {
@@ -56348,10 +53730,6 @@
       "asset": "PINKSHIRTGUY.13"
     },
     {
-      "asset": "HIPHOPGAME.AURARIGHTEO",
-      "primary": false
-    },
-    {
       "asset": "PHOCKHEADS.DJPEPE.DJSCRIBBLE"
     },
     {
@@ -56373,10 +53751,6 @@
       ]
     },
     {
-      "asset": "HIPHOPGAME.NESSYTHERILLA",
-      "primary": false
-    },
-    {
       "asset": "A8770763801467030000"
     },
     {
@@ -56393,14 +53767,6 @@
     },
     {
       "asset": "LIGHTHOUSES.MIKALIGHT"
-    },
-    {
-      "asset": "PINATA.DINOSAURBEAST",
-      "primary": false
-    },
-    {
-      "asset": "PINATA.CURSE",
-      "primary": false
     },
     {
       "asset": "A8803594158107764000",
@@ -56457,16 +53823,6 @@
       "asset": "PEPESUNCATCH.1"
     },
     {
-      "asset": "PEPEBORNFREE.02",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "WEEX.A10757775179751730000"
     },
     {
@@ -56518,14 +53874,6 @@
       "asset": "KSANA.PEPEWORLD"
     },
     {
-      "asset": "HIPHOPGAME.KINGBEY",
-      "primary": false
-    },
-    {
-      "asset": "HIPHOPGAME.KINGGREEN",
-      "primary": false
-    },
-    {
       "asset": "VETTEDREALTY.VRX-CE-01"
     },
     {
@@ -56574,15 +53922,7 @@
       ]
     },
     {
-      "asset": "BATTY.BLINDBOX",
-      "primary": false
-    },
-    {
       "asset": "LABRADEPE.PURPLE"
-    },
-    {
-      "asset": "HIPHOPGAME.MENTALSTAMINA",
-      "primary": false
     },
     {
       "asset": "PEPEMPERNEL.TRASHREDUX"
@@ -56831,14 +54171,6 @@
       "asset": "FAKEWYOMING.715140"
     },
     {
-      "asset": "PUNCHPUFF.04e5b3431c0",
-      "primary": false
-    },
-    {
-      "asset": "PUNCHPUFF.0493e40a1c0",
-      "primary": false
-    },
-    {
       "asset": "RARESCRILLA.FRAMED_4ELE_SC_11_3_21",
       "attributes": [
         {
@@ -56921,16 +54253,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPEBORNFREE.20",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "A984204460867893727"
@@ -57083,10 +54405,6 @@
       "asset": "BAGGIO"
     },
     {
-      "asset": "BAGS",
-      "primary": false
-    },
-    {
       "asset": "BALDEAGLES"
     },
     {
@@ -57115,10 +54433,6 @@
     },
     {
       "asset": "BANCARROTA"
-    },
-    {
-      "asset": "BANFF",
-      "primary": false
     },
     {
       "asset": "BANKGOBURR"
@@ -57389,10 +54703,6 @@
     },
     {
       "asset": "BIPIIOLOSERS"
-    },
-    {
-      "asset": "BIRCHDRAGON",
-      "primary": false
     },
     {
       "asset": "BIRTHDAYDANK"
@@ -57842,10 +55152,6 @@
       ]
     },
     {
-      "asset": "BOOKWYRM",
-      "primary": false
-    },
-    {
       "asset": "BOOMPEPE"
     },
     {
@@ -57955,10 +55261,6 @@
     },
     {
       "asset": "BROKEASSPEPE"
-    },
-    {
-      "asset": "BRONZEDRAGON",
-      "primary": false
     },
     {
       "asset": "BROOME"
@@ -58192,10 +55494,6 @@
       "asset": "BUCKETHATPEP"
     },
     {
-      "asset": "BUDGET",
-      "primary": false
-    },
-    {
       "asset": "BUFFALOS"
     },
     {
@@ -58361,14 +55659,6 @@
       "asset": "CARRYONHODL"
     },
     {
-      "asset": "CARTOON",
-      "primary": false
-    },
-    {
-      "asset": "CARWASH",
-      "primary": false
-    },
-    {
       "asset": "CARWHEEL"
     },
     {
@@ -58432,10 +55722,6 @@
       "asset": "CHAINSTEED"
     },
     {
-      "asset": "CHAMONIX",
-      "primary": false
-    },
-    {
       "asset": "CHAPLINPEPE"
     },
     {
@@ -58449,10 +55735,6 @@
     },
     {
       "asset": "CHARLTON"
-    },
-    {
-      "asset": "CHATEL",
-      "primary": false
     },
     {
       "asset": "CHATGPTMEME"
@@ -58602,22 +55884,10 @@
       ]
     },
     {
-      "asset": "CLAY",
-      "primary": false
-    },
-    {
-      "asset": "CLINTON",
-      "primary": false
-    },
-    {
       "asset": "CLOSEFRIEND"
     },
     {
       "asset": "CLOSEUPPPEPE"
-    },
-    {
-      "asset": "CLOTH",
-      "primary": false
     },
     {
       "asset": "CLOUDEDFLOW"
@@ -58833,10 +56103,6 @@
       "asset": "CONKS"
     },
     {
-      "asset": "CONNECTICUT",
-      "primary": false
-    },
-    {
       "asset": "CONSUMED"
     },
     {
@@ -58850,10 +56116,6 @@
           "value": "Rocco"
         }
       ]
-    },
-    {
-      "asset": "CONTEXT",
-      "primary": false
     },
     {
       "asset": "COOLDANK"
@@ -58976,10 +56238,6 @@
       "asset": "COUNTESSSTAX"
     },
     {
-      "asset": "COURCHEVEL",
-      "primary": false
-    },
-    {
       "asset": "COVERUPKASH"
     },
     {
@@ -59020,10 +56278,6 @@
     },
     {
       "asset": "CPSUBMARINER"
-    },
-    {
-      "asset": "CRATE",
-      "primary": false
     },
     {
       "asset": "CRAZYASS"
@@ -59113,10 +56367,6 @@
       "asset": "CUMPEPE"
     },
     {
-      "asset": "CUPCAKES",
-      "primary": false
-    },
-    {
       "asset": "CUPIDJAG"
     },
     {
@@ -59184,10 +56434,6 @@
           "value": "ROCHIGG"
         }
       ]
-    },
-    {
-      "asset": "DACHSTEIN",
-      "primary": false
     },
     {
       "asset": "DADACARD"
@@ -59515,10 +56761,6 @@
     },
     {
       "asset": "DAVIDPEPEBTC"
-    },
-    {
-      "asset": "DAVINCI",
-      "primary": false
     },
     {
       "asset": "DAWNAPFIVE"
@@ -59893,10 +57135,6 @@
       ]
     },
     {
-      "asset": "DINOSAURIOS",
-      "primary": false
-    },
-    {
       "asset": "DIOSASTRAEA"
     },
     {
@@ -60074,10 +57312,6 @@
       "asset": "DOUCIT"
     },
     {
-      "asset": "DRACO",
-      "primary": false
-    },
-    {
       "asset": "DRACUL"
     },
     {
@@ -60087,19 +57321,7 @@
       "asset": "DRADAMBACK"
     },
     {
-      "asset": "DRAGONALBINO",
-      "primary": false
-    },
-    {
-      "asset": "DRAGONAMBER",
-      "primary": false
-    },
-    {
       "asset": "DRAGONBALLS"
-    },
-    {
-      "asset": "DRAGONMOON",
-      "primary": false
     },
     {
       "asset": "DRAGONS"
@@ -60207,10 +57429,6 @@
       "asset": "DUNEPEPE"
     },
     {
-      "asset": "DUNKINDONUTS",
-      "primary": false
-    },
-    {
       "asset": "DURINGSLEEP"
     },
     {
@@ -60232,10 +57450,6 @@
       "asset": "EAGLETONE"
     },
     {
-      "asset": "EARTHBEAST",
-      "primary": false
-    },
-    {
       "asset": "EATFDS"
     },
     {
@@ -60243,10 +57457,6 @@
     },
     {
       "asset": "EAZYOH"
-    },
-    {
-      "asset": "EDGEMAG",
-      "primary": false
     },
     {
       "asset": "EEEASTERRR"
@@ -60459,15 +57669,7 @@
       "asset": "EVTESTTOKEN"
     },
     {
-      "asset": "EWOK",
-      "primary": false
-    },
-    {
       "asset": "EXCHANGEKING"
-    },
-    {
-      "asset": "EXPERIMENTAL",
-      "primary": false
     },
     {
       "asset": "EXPERTPEPE"
@@ -60485,15 +57687,7 @@
       "asset": "EZMINER"
     },
     {
-      "asset": "FABLE",
-      "primary": false
-    },
-    {
       "asset": "FABLUE"
-    },
-    {
-      "asset": "FABRIC",
-      "primary": false
     },
     {
       "asset": "FABRIZIO"
@@ -60742,16 +57936,6 @@
       "asset": "FAKEJACKBFL"
     },
     {
-      "asset": "FAKEJOURNEY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Tasha"
-        }
-      ],
-      "primary": false
-    },
-    {
       "asset": "FAKEJOY"
     },
     {
@@ -60953,10 +58137,6 @@
       "asset": "FAKWILDCASSO"
     },
     {
-      "asset": "FALCONER",
-      "primary": false
-    },
-    {
       "asset": "FALLTIME"
     },
     {
@@ -61026,10 +58206,6 @@
       "asset": "FATGIRLS"
     },
     {
-      "asset": "FAULT",
-      "primary": false
-    },
-    {
       "asset": "FAUXBANKSY",
       "attributes": [
         {
@@ -61076,10 +58252,6 @@
     },
     {
       "asset": "FAUXSTORM"
-    },
-    {
-      "asset": "FAVORITE",
-      "primary": false
     },
     {
       "asset": "FAWKESAMOTO"
@@ -61136,10 +58308,6 @@
       ]
     },
     {
-      "asset": "FERNIE",
-      "primary": false
-    },
-    {
       "asset": "FERRAGAMO"
     },
     {
@@ -61191,10 +58359,6 @@
       ]
     },
     {
-      "asset": "FIDELITYDRAG",
-      "primary": false
-    },
-    {
       "asset": "FIFAWCQATAR"
     },
     {
@@ -61225,10 +58389,6 @@
       "asset": "FINGERDROOL"
     },
     {
-      "asset": "FIREBEAST",
-      "primary": false
-    },
-    {
       "asset": "FIREBREATHER"
     },
     {
@@ -61236,10 +58396,6 @@
     },
     {
       "asset": "FIRELOGS"
-    },
-    {
-      "asset": "FIREWYRM",
-      "primary": false
     },
     {
       "asset": "FIRSTBIDPEPE"
@@ -61261,10 +58417,6 @@
     },
     {
       "asset": "FISIHNGPEPE"
-    },
-    {
-      "asset": "FITBIT",
-      "primary": false
     },
     {
       "asset": "FITRIDERPEPE"
@@ -61357,22 +58509,10 @@
       "asset": "FOCUSPEPE"
     },
     {
-      "asset": "FOLIEVIP",
-      "primary": false
-    },
-    {
       "asset": "FORALLDAPEPE"
     },
     {
       "asset": "FORBIDDENFRU"
-    },
-    {
-      "asset": "FORESTBANE",
-      "primary": false
-    },
-    {
-      "asset": "FORESTDRAGON",
-      "primary": false
     },
     {
       "asset": "FORESTPEPE"
@@ -61408,10 +58548,6 @@
       "asset": "FORTHEREAL"
     },
     {
-      "asset": "FORTPOINT",
-      "primary": false
-    },
-    {
       "asset": "FOUCAULTKN"
     },
     {
@@ -61430,22 +58566,10 @@
       "asset": "FOXRACEWAY"
     },
     {
-      "asset": "FPAC",
-      "primary": false
-    },
-    {
       "asset": "FPIFREN"
     },
     {
       "asset": "FRAGILETEARS"
-    },
-    {
-      "asset": "FRAME",
-      "primary": false
-    },
-    {
-      "asset": "FRAMES",
-      "primary": false
     },
     {
       "asset": "FREEDMSPEECH"
@@ -61553,10 +58677,6 @@
       "asset": "FRIENDSHAPPY"
     },
     {
-      "asset": "FRIENDSHIP",
-      "primary": false
-    },
-    {
       "asset": "FRODOPEPE"
     },
     {
@@ -61570,10 +58690,6 @@
     },
     {
       "asset": "FROGDORPEPE"
-    },
-    {
-      "asset": "FROGDRAGON",
-      "primary": false
     },
     {
       "asset": "FROGG"
@@ -62200,10 +59316,6 @@
       "asset": "GREENPILLDTC"
     },
     {
-      "asset": "GREENWICH",
-      "primary": false
-    },
-    {
       "asset": "GREMLINPEPE",
       "attributes": [
         {
@@ -62348,10 +59460,6 @@
       "asset": "HAMTASTIC"
     },
     {
-      "asset": "HAND",
-      "primary": false
-    },
-    {
       "asset": "HANDPEPE",
       "attributes": [
         {
@@ -62374,10 +59482,6 @@
     },
     {
       "asset": "HAPPYFAKE"
-    },
-    {
-      "asset": "HARBOR",
-      "primary": false
     },
     {
       "asset": "HARDAF"
@@ -62423,10 +59527,6 @@
     },
     {
       "asset": "HASHWAR"
-    },
-    {
-      "asset": "HATHOR",
-      "primary": false
     },
     {
       "asset": "HATSUCOIN"
@@ -62528,19 +59628,7 @@
       "asset": "HIKKOSHIDRM"
     },
     {
-      "asset": "HILL",
-      "primary": false
-    },
-    {
-      "asset": "HINTERTUXER",
-      "primary": false
-    },
-    {
       "asset": "HIPAPEDROOL"
-    },
-    {
-      "asset": "HIPHOPGAME",
-      "primary": false
     },
     {
       "asset": "HIPPIEFLOWER"
@@ -62840,10 +59928,6 @@
       "asset": "HOWNOWBLUCOW"
     },
     {
-      "asset": "HUMMINGDRAKE",
-      "primary": false
-    },
-    {
       "asset": "HUNGRYPARTY"
     },
     {
@@ -62869,10 +59953,6 @@
     },
     {
       "asset": "ICANNOTEVEN"
-    },
-    {
-      "asset": "ICEBRAKER",
-      "primary": false
     },
     {
       "asset": "ICEDPEPE"
@@ -62936,14 +60016,6 @@
           "value": "Rocco"
         }
       ]
-    },
-    {
-      "asset": "ILLUSTRATION",
-      "primary": false
-    },
-    {
-      "asset": "ILLUSTRATOR",
-      "primary": false
     },
     {
       "asset": "ILUMINATIPE"
@@ -63186,10 +60258,6 @@
       "asset": "JESTER"
     },
     {
-      "asset": "JESTERDRAKE",
-      "primary": false
-    },
-    {
       "asset": "JESUSISBACK"
     },
     {
@@ -63365,10 +60433,6 @@
     },
     {
       "asset": "KECASSO"
-    },
-    {
-      "asset": "KEEPSAKE",
-      "primary": false
     },
     {
       "asset": "KEIOPS"
@@ -63629,14 +60693,6 @@
       "asset": "KHYPIANO"
     },
     {
-      "asset": "KICKINGHORSE",
-      "primary": false
-    },
-    {
-      "asset": "KIMBERLEYAR",
-      "primary": false
-    },
-    {
       "asset": "KINGDROOL"
     },
     {
@@ -63670,15 +60726,7 @@
       "asset": "KIRINIPEPE"
     },
     {
-      "asset": "KITZBUHEL",
-      "primary": false
-    },
-    {
       "asset": "KLABAUTERBAC"
-    },
-    {
-      "asset": "KLOSTERS",
-      "primary": false
     },
     {
       "asset": "KLUTO"
@@ -63756,10 +60804,6 @@
       ]
     },
     {
-      "asset": "LAAX",
-      "primary": false
-    },
-    {
       "asset": "LAGERTHA"
     },
     {
@@ -63767,10 +60811,6 @@
     },
     {
       "asset": "LAKEHOUSE"
-    },
-    {
-      "asset": "LAKELOUISE",
-      "primary": false
     },
     {
       "asset": "LAMBOHORSE"
@@ -63783,14 +60823,6 @@
     },
     {
       "asset": "LAPISPOTION"
-    },
-    {
-      "asset": "LAPLAGNE",
-      "primary": false
-    },
-    {
-      "asset": "LAROSIERE",
-      "primary": false
     },
     {
       "asset": "LASTMSG"
@@ -63844,23 +60876,7 @@
       "asset": "LEONPHUN"
     },
     {
-      "asset": "LESARCS",
-      "primary": false
-    },
-    {
-      "asset": "LESDEUXALPES",
-      "primary": false
-    },
-    {
-      "asset": "LESGETS",
-      "primary": false
-    },
-    {
       "asset": "LESLIEGROFF"
-    },
-    {
-      "asset": "LESMENUIRES",
-      "primary": false
     },
     {
       "asset": "LESWEXNER"
@@ -63906,10 +60922,6 @@
     },
     {
       "asset": "LIFTEDPEPE"
-    },
-    {
-      "asset": "LIGHTCASTER",
-      "primary": false
     },
     {
       "asset": "LIGHTNINGBN"
@@ -63958,10 +60970,6 @@
     },
     {
       "asset": "LITEPILLPEPE"
-    },
-    {
-      "asset": "LITERATURE",
-      "primary": false
     },
     {
       "asset": "LITOCOIN"
@@ -64028,10 +61036,6 @@
           "value": "Rocco"
         }
       ]
-    },
-    {
-      "asset": "LORE",
-      "primary": false
     },
     {
       "asset": "LOSERDROOL"
@@ -64190,238 +61194,6 @@
       "asset": "MAFIAWARZ"
     },
     {
-      "asset": "MAGATAMABL",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABLTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMABZ",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGN",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAGNTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAMIJN",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARD",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMARDTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQ",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMATQTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVT",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAVTTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWT",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAWTTW",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYL",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLFR",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLFV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLON",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLSV",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLSX",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLTH",
-      "primary": false
-    },
-    {
-      "asset": "MAGATAMAYLTW",
-      "primary": false
-    },
-    {
       "asset": "MAGICUMEKO"
     },
     {
@@ -64500,18 +61272,6 @@
       "asset": "MARIHORSOE"
     },
     {
-      "asset": "MARINA",
-      "primary": false
-    },
-    {
-      "asset": "MARKER",
-      "primary": false
-    },
-    {
-      "asset": "MARMOTARMS",
-      "primary": false
-    },
-    {
       "asset": "MARQUIS"
     },
     {
@@ -64545,14 +61305,6 @@
       "asset": "MATCOINS"
     },
     {
-      "asset": "MATE",
-      "primary": false
-    },
-    {
-      "asset": "MATTERHORN",
-      "primary": false
-    },
-    {
       "asset": "MAXCOINTOKEN"
     },
     {
@@ -64569,10 +61321,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "MAYRHOFEN",
-      "primary": false
     },
     {
       "asset": "MCANALOS"
@@ -64600,10 +61348,6 @@
     },
     {
       "asset": "MDRNSPAMGELO"
-    },
-    {
-      "asset": "MEGEVE",
-      "primary": false
     },
     {
       "asset": "MEIDOCOIN"
@@ -64669,10 +61413,6 @@
       "asset": "MERGECARD"
     },
     {
-      "asset": "MERIBEL",
-      "primary": false
-    },
-    {
       "asset": "MERICANMEME"
     },
     {
@@ -64686,10 +61426,6 @@
     },
     {
       "asset": "MESSIXAPE"
-    },
-    {
-      "asset": "METALBEAST",
-      "primary": false
     },
     {
       "asset": "METARABONE"
@@ -64773,10 +61509,6 @@
       "asset": "MIDNITEMINTS"
     },
     {
-      "asset": "MIDWAY",
-      "primary": false
-    },
-    {
       "asset": "MIGHTYPEPE"
     },
     {
@@ -64856,10 +61588,6 @@
     },
     {
       "asset": "MININGTOKEN"
-    },
-    {
-      "asset": "MINIONMASTER",
-      "primary": false
     },
     {
       "asset": "MINIONS"
@@ -65132,10 +61860,6 @@
       "asset": "MORIPEPE"
     },
     {
-      "asset": "MORZINE",
-      "primary": false
-    },
-    {
       "asset": "MOSAICNAKA",
       "attributes": [
         {
@@ -65179,14 +61903,6 @@
           "value": "Theo Goodman"
         }
       ]
-    },
-    {
-      "asset": "MOVIETICKETS",
-      "primary": false
-    },
-    {
-      "asset": "MOVING",
-      "primary": false
     },
     {
       "asset": "MPGA"
@@ -65274,10 +61990,6 @@
     },
     {
       "asset": "MUNDIKEK"
-    },
-    {
-      "asset": "MURAKAMI",
-      "primary": false
     },
     {
       "asset": "MUSHROOMSTMP"
@@ -65544,10 +62256,6 @@
       ]
     },
     {
-      "asset": "NANYDRAGON",
-      "primary": false
-    },
-    {
       "asset": "NAPALI"
     },
     {
@@ -65570,10 +62278,6 @@
     },
     {
       "asset": "NCGSHARE"
-    },
-    {
-      "asset": "NEIGHBOR",
-      "primary": false
     },
     {
       "asset": "NEKOKO"
@@ -65867,10 +62571,6 @@
       "asset": "NOROYALTIES"
     },
     {
-      "asset": "NORQUAY",
-      "primary": false
-    },
-    {
       "asset": "NOSATOSHIBUT"
     },
     {
@@ -65980,10 +62680,6 @@
     },
     {
       "asset": "NYCCOMMON"
-    },
-    {
-      "asset": "NYFA",
-      "primary": false
     },
     {
       "asset": "NYTA"
@@ -66364,15 +63060,7 @@
       "asset": "PAPRHNDSPEPE"
     },
     {
-      "asset": "PARADISEBIRD",
-      "primary": false
-    },
-    {
       "asset": "PARADOXPEPE"
-    },
-    {
-      "asset": "PARCEL",
-      "primary": false
     },
     {
       "asset": "PARISAIRBNB"
@@ -66499,10 +63187,6 @@
     },
     {
       "asset": "PEPAFREN"
-    },
-    {
-      "asset": "PEPAGANDA",
-      "primary": false
     },
     {
       "asset": "PEPAGENESIS"
@@ -66713,16 +63397,6 @@
           "value": "Phake"
         }
       ]
-    },
-    {
-      "asset": "PEPEBORNFREE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "GabDevs"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PEPEBOSHING"
@@ -67101,16 +63775,6 @@
     },
     {
       "asset": "PEPEGIRAFFE"
-    },
-    {
-      "asset": "PEPEGIRLZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "S1MONS"
-        }
-      ],
-      "primary": false
     },
     {
       "asset": "PEPEGLOB",
@@ -67956,10 +64620,6 @@
       "asset": "PEPETITANIC"
     },
     {
-      "asset": "PEPETO",
-      "primary": false
-    },
-    {
       "asset": "PEPETODAY"
     },
     {
@@ -68308,10 +64968,6 @@
       "asset": "PESSI"
     },
     {
-      "asset": "PETDRAGON",
-      "primary": false
-    },
-    {
       "asset": "PETEHEGSETH"
     },
     {
@@ -68382,10 +65038,6 @@
     },
     {
       "asset": "PHONTWITCH"
-    },
-    {
-      "asset": "PHOTOGRAPH",
-      "primary": false
     },
     {
       "asset": "PHUNCH"
@@ -68467,10 +65119,6 @@
     },
     {
       "asset": "PINATAPEPE"
-    },
-    {
-      "asset": "PINEAPPLEEGG",
-      "primary": false
     },
     {
       "asset": "PINECONES"
@@ -68567,10 +65215,6 @@
     },
     {
       "asset": "PLAGUEPEPES"
-    },
-    {
-      "asset": "PLANKS",
-      "primary": false
     },
     {
       "asset": "PLANTPEPE"
@@ -68681,10 +65325,6 @@
       ]
     },
     {
-      "asset": "POSTCARD",
-      "primary": false
-    },
-    {
       "asset": "POSTMINTPEPE"
     },
     {
@@ -68745,10 +65385,6 @@
       ]
     },
     {
-      "asset": "PRALOGNAN",
-      "primary": false
-    },
-    {
       "asset": "PRAYERCOMPS"
     },
     {
@@ -68789,10 +65425,6 @@
     },
     {
       "asset": "PRIVPHECY"
-    },
-    {
-      "asset": "PRODUCTION",
-      "primary": false
     },
     {
       "asset": "PROJECTEPE"
@@ -68991,10 +65623,6 @@
     },
     {
       "asset": "QAREYOUREADY"
-    },
-    {
-      "asset": "QBERT",
-      "primary": false
     },
     {
       "asset": "QCEINSTEIN",
@@ -69357,10 +65985,6 @@
       ]
     },
     {
-      "asset": "RATIO",
-      "primary": false
-    },
-    {
       "asset": "RATPOISON"
     },
     {
@@ -69406,29 +66030,13 @@
       "asset": "REDAMARYLLIS"
     },
     {
-      "asset": "REDBLADE",
-      "primary": false
-    },
-    {
       "asset": "REDFOX"
-    },
-    {
-      "asset": "REDGEM",
-      "primary": false
-    },
-    {
-      "asset": "REDGLASSES",
-      "primary": false
     },
     {
       "asset": "REDGRAIL"
     },
     {
       "asset": "REDGREENPEPE"
-    },
-    {
-      "asset": "REDHERB",
-      "primary": false
     },
     {
       "asset": "REDHODLMODEL",
@@ -69449,25 +66057,13 @@
       "asset": "REDOX"
     },
     {
-      "asset": "REDPAPER",
-      "primary": false
-    },
-    {
       "asset": "REDSAUCE"
-    },
-    {
-      "asset": "REDSKULL",
-      "primary": false
     },
     {
       "asset": "REDSMILESSS"
     },
     {
       "asset": "REDSTONE"
-    },
-    {
-      "asset": "REDVEST",
-      "primary": false
     },
     {
       "asset": "REDZUKI"
@@ -69522,10 +66118,6 @@
     },
     {
       "asset": "REREPEPE"
-    },
-    {
-      "asset": "RESERVOIR",
-      "primary": false
     },
     {
       "asset": "RESSEIMFER"
@@ -69585,10 +66177,6 @@
       "asset": "RIPMIKAOG"
     },
     {
-      "asset": "RISD",
-      "primary": false
-    },
-    {
       "asset": "RISHINFT",
       "attributes": [
         {
@@ -69614,10 +66202,6 @@
     },
     {
       "asset": "RIVERDOGE"
-    },
-    {
-      "asset": "RIVERWYRM",
-      "primary": false
     },
     {
       "asset": "ROADSKULL"
@@ -69666,10 +66250,6 @@
     },
     {
       "asset": "ROLLDISPLAY"
-    },
-    {
-      "asset": "ROMAN",
-      "primary": false
     },
     {
       "asset": "RONALDORARE"
@@ -69738,10 +66318,6 @@
       "asset": "RTHURHAYES"
     },
     {
-      "asset": "RTIST",
-      "primary": false
-    },
-    {
       "asset": "RUBENPANG"
     },
     {
@@ -69796,10 +66372,6 @@
       "asset": "RYUNOSUKE"
     },
     {
-      "asset": "SAASFEE",
-      "primary": false
-    },
-    {
       "asset": "SABA"
     },
     {
@@ -69819,10 +66391,6 @@
     },
     {
       "asset": "SAIFAMOUS"
-    },
-    {
-      "asset": "SAINTFOY",
-      "primary": false
     },
     {
       "asset": "SAINTFREN"
@@ -69882,10 +66450,6 @@
       "asset": "SATOSHICERT"
     },
     {
-      "asset": "SATOSHICNTRE",
-      "primary": false
-    },
-    {
       "asset": "SATOSHIDARK"
     },
     {
@@ -69926,10 +66490,6 @@
     },
     {
       "asset": "SATSUMA"
-    },
-    {
-      "asset": "SAUCE",
-      "primary": false
     },
     {
       "asset": "SAULALINSKY"
@@ -70013,10 +66573,6 @@
       "asset": "SCOUSEPRIDE"
     },
     {
-      "asset": "SCREENPRINT",
-      "primary": false
-    },
-    {
       "asset": "SCREWTHIS"
     },
     {
@@ -70039,10 +66595,6 @@
     },
     {
       "asset": "SDCARD"
-    },
-    {
-      "asset": "SEADRAGON",
-      "primary": false
     },
     {
       "asset": "SEANPEPE"
@@ -70129,15 +66681,7 @@
       "asset": "SERAPHPEPE"
     },
     {
-      "asset": "SERE",
-      "primary": false
-    },
-    {
       "asset": "SERFPEPE"
-    },
-    {
-      "asset": "SERRECHE",
-      "primary": false
     },
     {
       "asset": "SEVENMINPEPE"
@@ -70242,10 +66786,6 @@
       "asset": "SHYCOPEPE"
     },
     {
-      "asset": "SICKLEHORNS",
-      "primary": false
-    },
-    {
       "asset": "SIGNEDLOONEY"
     },
     {
@@ -70256,10 +66796,6 @@
     },
     {
       "asset": "SILKROADPEPE"
-    },
-    {
-      "asset": "SILKSCREEN",
-      "primary": false
     },
     {
       "asset": "SILVERBLINGZ"
@@ -70278,10 +66814,6 @@
     },
     {
       "asset": "SISENEGEKAF"
-    },
-    {
-      "asset": "SISTERHOOD",
-      "primary": false
     },
     {
       "asset": "SIXSEVEN"
@@ -70309,10 +66841,6 @@
     },
     {
       "asset": "SKELETONKEK"
-    },
-    {
-      "asset": "SKETCH",
-      "primary": false
     },
     {
       "asset": "SKILLOFPEPE"
@@ -70364,10 +66892,6 @@
     },
     {
       "asset": "SLOOMOFO"
-    },
-    {
-      "asset": "SMFA",
-      "primary": false
     },
     {
       "asset": "SMOKINGPEPE"
@@ -70535,10 +67059,6 @@
       "asset": "SOMEFLOONS"
     },
     {
-      "asset": "SOMETHING",
-      "primary": false
-    },
-    {
       "asset": "SONICHORSE"
     },
     {
@@ -70560,10 +67080,6 @@
       "asset": "SOURCEPEPE"
     },
     {
-      "asset": "SOUTHIE",
-      "primary": false
-    },
-    {
       "asset": "SPACEAPE",
       "attributes": [
         {
@@ -70571,10 +67087,6 @@
           "value": "Motopikl"
         }
       ]
-    },
-    {
-      "asset": "SPACEBEAST",
-      "primary": false
     },
     {
       "asset": "SPACEINVADER"
@@ -70607,10 +67119,6 @@
       "asset": "SPIDERVERSE"
     },
     {
-      "asset": "SPIRAL",
-      "primary": false
-    },
-    {
       "asset": "SPIRITCORNCD"
     },
     {
@@ -70624,10 +67132,6 @@
     },
     {
       "asset": "SPOOFPEPE"
-    },
-    {
-      "asset": "SPRAY",
-      "primary": false
     },
     {
       "asset": "SQUELCHSKIN"
@@ -70669,10 +67173,6 @@
       "asset": "STARTELE"
     },
     {
-      "asset": "STARTER",
-      "primary": false
-    },
-    {
       "asset": "STAYHOMEPEPE"
     },
     {
@@ -70697,33 +67197,13 @@
       "asset": "STGIGACHAD"
     },
     {
-      "asset": "STICKER",
-      "primary": false
-    },
-    {
       "asset": "STICKEY"
     },
     {
       "asset": "STICKHEAD"
     },
     {
-      "asset": "STILL",
-      "primary": false
-    },
-    {
-      "asset": "STIPEND",
-      "primary": false
-    },
-    {
-      "asset": "STMARTIN",
-      "primary": false
-    },
-    {
       "asset": "STOCKAMOTO"
-    },
-    {
-      "asset": "STONEDRAGON",
-      "primary": false
     },
     {
       "asset": "STORMBURGUER",
@@ -70786,15 +67266,7 @@
       "asset": "STRAWBARY"
     },
     {
-      "asset": "STUBAI",
-      "primary": false
-    },
-    {
       "asset": "STUDYPEPE"
-    },
-    {
-      "asset": "STUFF",
-      "primary": false
     },
     {
       "asset": "STUPIDSHIRT"
@@ -70830,10 +67302,6 @@
       ]
     },
     {
-      "asset": "SUMMITDRAGON",
-      "primary": false
-    },
-    {
       "asset": "SUNBLOCKS"
     },
     {
@@ -70844,10 +67312,6 @@
     },
     {
       "asset": "SUPERFREAK"
-    },
-    {
-      "asset": "SUPERHERO",
-      "primary": false
     },
     {
       "asset": "SUPERLEAGUE"
@@ -70931,10 +67395,6 @@
       "asset": "SYLTPEPE"
     },
     {
-      "asset": "SYMBIOTE",
-      "primary": false
-    },
-    {
       "asset": "SYZOYYYYYZ"
     },
     {
@@ -70983,10 +67443,6 @@
       "asset": "TAXIPEPE"
     },
     {
-      "asset": "TAYLORSWIFT",
-      "primary": false
-    },
-    {
       "asset": "TBDETERMINED"
     },
     {
@@ -71024,10 +67480,6 @@
     },
     {
       "asset": "TERMINATED"
-    },
-    {
-      "asset": "TERRY",
-      "primary": false
     },
     {
       "asset": "TESTAMINT"
@@ -71258,10 +67710,6 @@
       "asset": "THELANDING"
     },
     {
-      "asset": "THEMARMOT",
-      "primary": false
-    },
-    {
       "asset": "THENARDOMOTO",
       "attributes": [
         {
@@ -71382,10 +67830,6 @@
       "asset": "THINKEREVOLV"
     },
     {
-      "asset": "THIRTYTHREE",
-      "primary": false
-    },
-    {
       "asset": "THISBLOWS"
     },
     {
@@ -71396,10 +67840,6 @@
     },
     {
       "asset": "THISISRARE"
-    },
-    {
-      "asset": "THOTH",
-      "primary": false
     },
     {
       "asset": "THREEBANGERS",
@@ -71415,18 +67855,6 @@
     },
     {
       "asset": "THUMBFACE"
-    },
-    {
-      "asset": "THUMPER",
-      "primary": false
-    },
-    {
-      "asset": "TIGNADDICT",
-      "primary": false
-    },
-    {
-      "asset": "TIGNES",
-      "primary": false
     },
     {
       "asset": "TILES"
@@ -71516,10 +67944,6 @@
       "asset": "TONYPEPE"
     },
     {
-      "asset": "TOON",
-      "primary": false
-    },
-    {
       "asset": "TOPFLOORPEPE"
     },
     {
@@ -71533,10 +67957,6 @@
     },
     {
       "asset": "TOPRAMEN"
-    },
-    {
-      "asset": "TOPS",
-      "primary": false
     },
     {
       "asset": "TOPURIA"
@@ -71560,10 +67980,6 @@
       "asset": "TOWNHERITAGE"
     },
     {
-      "asset": "TOWNIE",
-      "primary": false
-    },
-    {
       "asset": "TPOL"
     },
     {
@@ -71580,10 +67996,6 @@
     },
     {
       "asset": "TRAINTOKEN"
-    },
-    {
-      "asset": "TRAITOR",
-      "primary": false
     },
     {
       "asset": "TRANCEPEP",
@@ -71835,10 +68247,6 @@
       "asset": "TWEETIOUS"
     },
     {
-      "asset": "TWIST",
-      "primary": false
-    },
-    {
       "asset": "TWITTEREGGS"
     },
     {
@@ -71876,10 +68284,6 @@
     },
     {
       "asset": "UCITPEPE"
-    },
-    {
-      "asset": "UCONN",
-      "primary": false
     },
     {
       "asset": "UFOATLAS"
@@ -72062,15 +68466,7 @@
       "asset": "UXTOWARS"
     },
     {
-      "asset": "VALDISERE",
-      "primary": false
-    },
-    {
       "asset": "VALENTINEPEP"
-    },
-    {
-      "asset": "VALTHORENS",
-      "primary": false
     },
     {
       "asset": "VANBASTEN"
@@ -72097,10 +68493,6 @@
       "asset": "VERAX"
     },
     {
-      "asset": "VERBIER",
-      "primary": false
-    },
-    {
       "asset": "VERYNPC"
     },
     {
@@ -72122,10 +68514,6 @@
       ]
     },
     {
-      "asset": "VIDEOS",
-      "primary": false
-    },
-    {
       "asset": "VILLARPEPE"
     },
     {
@@ -72142,10 +68530,6 @@
     },
     {
       "asset": "VIOLINI"
-    },
-    {
-      "asset": "VISUAL",
-      "primary": false
     },
     {
       "asset": "VITOPEPE"
@@ -72265,14 +68649,6 @@
       "asset": "WALLPLUGNFT"
     },
     {
-      "asset": "WALT",
-      "primary": false
-    },
-    {
-      "asset": "WAMPIREDRAG",
-      "primary": false
-    },
-    {
       "asset": "WANDWANDW"
     },
     {
@@ -72288,10 +68664,6 @@
       "asset": "WANNABUYCARD"
     },
     {
-      "asset": "WARDRAGON",
-      "primary": false
-    },
-    {
       "asset": "WARSTOPPER"
     },
     {
@@ -72302,10 +68674,6 @@
     },
     {
       "asset": "WATCHWRIST"
-    },
-    {
-      "asset": "WATERBEAST",
-      "primary": false
     },
     {
       "asset": "WATERCLOCK"
@@ -72342,10 +68710,6 @@
     },
     {
       "asset": "WEAVEPEPE"
-    },
-    {
-      "asset": "WEEBLY",
-      "primary": false
     },
     {
       "asset": "WEEPINGPEP",
@@ -72406,10 +68770,6 @@
           "value": "YT"
         }
       ]
-    },
-    {
-      "asset": "WHISTLER",
-      "primary": false
     },
     {
       "asset": "WHITEHOTMON"
@@ -72484,10 +68844,6 @@
       "asset": "WILDTURKEY"
     },
     {
-      "asset": "WINDBEAST",
-      "primary": false
-    },
-    {
       "asset": "WINDOWVIEW"
     },
     {
@@ -72495,10 +68851,6 @@
     },
     {
       "asset": "WISDOMCOIN"
-    },
-    {
-      "asset": "WIZARDRAGON",
-      "primary": false
     },
     {
       "asset": "WIZKEKFREN"
@@ -72636,10 +68988,6 @@
       "asset": "WOMANINBED"
     },
     {
-      "asset": "WOODBEAST",
-      "primary": false
-    },
-    {
       "asset": "WOODENHORSE"
     },
     {
@@ -72656,10 +69004,6 @@
     },
     {
       "asset": "WOWOW"
-    },
-    {
-      "asset": "WOWTROLL",
-      "primary": false
     },
     {
       "asset": "WRITINGMUSIC"
@@ -72969,10 +69313,6 @@
     },
     {
       "asset": "ZENPOKOENFUN"
-    },
-    {
-      "asset": "ZERMATT",
-      "primary": false
     },
     {
       "asset": "ZEROBASQUIAT"
@@ -73285,10 +69625,6 @@
     },
     {
       "asset": "GOODDOG"
-    },
-    {
-      "asset": "GREENGEM",
-      "primary": false
     },
     {
       "asset": "HAPPYFACE"

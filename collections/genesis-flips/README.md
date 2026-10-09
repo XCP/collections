@@ -27,4 +27,4 @@ the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
 
 GENESISFLIPS.TEST belongs to this collection: its animated artwork is available at
-https://cdn.xcp.io/img/full/GENESISFLIPS.TEST. Counterparty retains a secondary membership.
+https://cdn.xcp.io/img/full/GENESISFLIPS.TEST. This asset is removed from the Counterparty catch-all.

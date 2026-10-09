@@ -17,7 +17,7 @@
 
 The 97 assets share one original issuer and the same stored CDN artwork (ETag 4a81714315bf97bb22aecb8425a300f3), visually matched to MEAR ONE’s official gallery. This is an artwork attribution, not verification of the token issuer’s relationship to the artist. The snapshot contains 96 numbered entries with 95 distinct numbers plus one unnumbered entry. Edition 19 is duplicated; 79, 84, 98, 99 and 100 are absent. Do not claim a complete 100-piece set. The separately issued DAVIDGOLIATH asset is excluded.
 
-Reviewed and approved on 2026-10-09. All 97 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; Counterparty remains secondary. Existing traits are preserved.
+Reviewed and approved on 2026-10-09. All 97 entries have stored CDN media. This is a reviewed snapshot of existing Counterparty assets, not an automatically expanding issuer or namespace rule. The collection is their primary home; these assets are removed from the Counterparty catch-all. Existing traits are preserved.
 
 ## Per-asset evidence
 

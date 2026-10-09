@@ -269,3 +269,5 @@ loopback/private/link-local/unspecified IP literals, including redirects to
 those targets. They intentionally do not perform a separate DNS-resolution
 sandbox. Adapter modules are reviewed, unsandboxed JavaScript, so transport
 checks complement code review; they do not replace it.
+
+Counterparty (`counterparty`) is a primary-only catch-all for assets without a project collection. When an asset gains another primary home, remove its Counterparty membership instead of marking it secondary. Validation rejects secondary Counterparty memberships from static files and adapter exports; other collections may still have secondary memberships.
