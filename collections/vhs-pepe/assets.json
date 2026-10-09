@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "VHSPEPE.PARTII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "VHSPEPE.FAKEDANKREAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "VHSPEPE.ALLPEPESEVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "VHSPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
