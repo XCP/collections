@@ -1,0 +1,118 @@
+{
+  "assets": [
+    {
+      "asset": "PFPPEPE.1"
+    },
+    {
+      "asset": "PFPPEPE.2"
+    },
+    {
+      "asset": "PFPPEPE.3"
+    },
+    {
+      "asset": "PFPPEPE.5"
+    },
+    {
+      "asset": "PFPPEPE.6"
+    },
+    {
+      "asset": "PFPPEPE.8"
+    },
+    {
+      "asset": "PFPPEPE.9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.11"
+    },
+    {
+      "asset": "PFPPEPE.12",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rocco"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.13",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mighty Shroom"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.14",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.15"
+    },
+    {
+      "asset": "PFPPEPE.16",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nogoodboypoints"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.18",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.20"
+    },
+    {
+      "asset": "PFPPEPE.21"
+    },
+    {
+      "asset": "PFPPEPE.22"
+    },
+    {
+      "asset": "PFPPEPE.23",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "papeto"
+        }
+      ]
+    },
+    {
+      "asset": "PFPPEPE.24",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robenira"
+        }
+      ]
+    }
+  ]
+}
