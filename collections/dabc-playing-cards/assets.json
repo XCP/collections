@@ -1,0 +1,168 @@
+{
+  "assets": [
+    {
+      "asset": "DABCKING.HEARTQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.HEARTACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.SPADESACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.CLUBSACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.CLUBSJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.DIAMONDQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.BLACKJOKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.SPADESJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.SPADESQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.DIAMONDKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.CLUBSQUEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.DIAMONDJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.DIAMONDACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.CLUBSKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER.SPADESKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCKING.HEARTJACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "DABCJOKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DABCKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
