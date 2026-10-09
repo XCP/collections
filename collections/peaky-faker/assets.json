@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEAKYBROONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PEAKYBROTHRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PEAKYBROTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}
