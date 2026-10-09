@@ -27334,7 +27334,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "POWERNGLORY",
@@ -27343,7 +27344,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "DRAGONDARKY",
@@ -27352,7 +27354,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "BOBOHEENAN",
@@ -27361,7 +27364,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "DAVEYBOBSMTH",
@@ -27370,7 +27374,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "BIGBOOOMAN",
@@ -27379,7 +27384,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "SWANDERTAKER",
@@ -27388,7 +27394,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "TORNATHAN",
@@ -27397,7 +27404,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "MOUNTYMIKE",
@@ -27406,7 +27414,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "ROWDYPEPE",
@@ -27415,7 +27424,8 @@
           "trait_type": "Artist",
           "value": "Arwyn"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "HAIRKEVIN",
@@ -45888,7 +45898,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "RARETEXAN.ALCHEMIST2926-3",
@@ -45897,7 +45908,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "RARETEXAN.ALCHEMIST2926-6",
@@ -45906,7 +45918,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "RARETEXAN.ALCHEMIST2926-5",
@@ -45915,7 +45928,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "RARETEXAN.ALCHEMIST2926-4",
@@ -45924,7 +45938,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "RARETEXAN.ALCHEMIST2926-2",
@@ -45933,7 +45948,8 @@
           "trait_type": "Artist",
           "value": "Rare Texan"
         }
-      ]
+      ],
+      "primary": false
     },
     {
       "asset": "THEWORLDPEPE",
@@ -47680,7 +47696,17 @@
       ]
     },
     {
-      "asset": "FLOONEYBIN.IMWITHJOEY"
+      "asset": "FLOONEYBIN.IMWITHJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
     },
     {
       "asset": "FAKEPEPELISA.DYORZURICH22"
@@ -47844,7 +47870,14 @@
       "asset": "A11101059233286948976"
     },
     {
-      "asset": "A11101353450754058810"
+      "asset": "A11101353450754058810",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11101979053450953397"
@@ -47856,37 +47889,100 @@
       "asset": "A11102426886564262683"
     },
     {
-      "asset": "A11102582461667152779"
+      "asset": "A11102582461667152779",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11102600484819088549"
+      "asset": "A11102600484819088549",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11102827699722113546"
+      "asset": "A11102827699722113546",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11103018680467897762"
     },
     {
-      "asset": "A11103099430842801156"
+      "asset": "A11103099430842801156",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11103103220012747506"
+      "asset": "A11103103220012747506",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11103148821410661912"
+      "asset": "A11103148821410661912",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11103216086083546251"
+      "asset": "A11103216086083546251",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11103344587313453803"
+      "asset": "A11103344587313453803",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11103947182125538304"
     },
     {
-      "asset": "A11104615745677397628"
+      "asset": "A11104615745677397628",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11105062459937883333"
@@ -47916,7 +48012,14 @@
       "asset": "A11108393848273902576"
     },
     {
-      "asset": "A11108447993260603966"
+      "asset": "A11108447993260603966",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11108626723306025015"
@@ -47934,7 +48037,14 @@
       "asset": "A11109730028507954478"
     },
     {
-      "asset": "A11109966091857952990"
+      "asset": "A11109966091857952990",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11110769943985588693"
@@ -47946,25 +48056,67 @@
       "asset": "A11110862929477545731"
     },
     {
-      "asset": "A11110952469598736013"
+      "asset": "A11110952469598736013",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11110974599335988104"
+      "asset": "A11110974599335988104",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11111004228329315489"
+      "asset": "A11111004228329315489",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A111111111111111555"
     },
     {
-      "asset": "A11111139247819862389"
+      "asset": "A11111139247819862389",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11111366092005461719"
+      "asset": "A11111366092005461719",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11111560121360785738"
+      "asset": "A11111560121360785738",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11111580668436835532"
@@ -47979,7 +48131,14 @@
       "asset": "A11112654277914465062"
     },
     {
-      "asset": "A11113100884651454529"
+      "asset": "A11113100884651454529",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "UGLYLINES.1",
@@ -48000,10 +48159,24 @@
       "asset": "A11114413083988935324"
     },
     {
-      "asset": "A11114564959880083972"
+      "asset": "A11114564959880083972",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11114787067003517606"
+      "asset": "A11114787067003517606",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11115084949037919711"
@@ -48015,7 +48188,14 @@
       "asset": "A11115868125750457703"
     },
     {
-      "asset": "A11116199696408059831"
+      "asset": "A11116199696408059831",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11116345364500699815"
@@ -48034,7 +48214,14 @@
       "asset": "A11116465218956654469"
     },
     {
-      "asset": "A11116569476381755097"
+      "asset": "A11116569476381755097",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11116690817131570831"
@@ -48071,10 +48258,24 @@
       ]
     },
     {
-      "asset": "A11121933663551267915"
+      "asset": "A11121933663551267915",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11122049537957745107"
+      "asset": "A11122049537957745107",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11122432383980663236"
@@ -48083,7 +48284,14 @@
       "asset": "A11122453808990824225"
     },
     {
-      "asset": "A11123209003392091575"
+      "asset": "A11123209003392091575",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11123923743033021137"
@@ -48101,13 +48309,27 @@
       "asset": "A11125765912000190629"
     },
     {
-      "asset": "A11126037008292244175"
+      "asset": "A11126037008292244175",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11127063398873455523"
     },
     {
-      "asset": "A11127675535174066347"
+      "asset": "A11127675535174066347",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11128255402392176830"
@@ -48122,7 +48344,14 @@
       "asset": "A11128917572891077289"
     },
     {
-      "asset": "A11129209006817476811"
+      "asset": "A11129209006817476811",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11129253651138068768"
@@ -48134,7 +48363,14 @@
       "asset": "A11129369280079231713"
     },
     {
-      "asset": "A11129548295236277526"
+      "asset": "A11129548295236277526",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11129680812808730594"
@@ -48146,7 +48382,14 @@
       "asset": "A11130420283443311768"
     },
     {
-      "asset": "A11130556616805903917"
+      "asset": "A11130556616805903917",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11131361629564449701"
@@ -48155,13 +48398,27 @@
       "asset": "A11131455115575156239"
     },
     {
-      "asset": "A11132813284112699648"
+      "asset": "A11132813284112699648",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11132873450052259284"
     },
     {
-      "asset": "A11132881200061775803"
+      "asset": "A11132881200061775803",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11133126349559965953"
@@ -48173,10 +48430,24 @@
       "asset": "A11133403603752979672"
     },
     {
-      "asset": "A11133564536537064548"
+      "asset": "A11133564536537064548",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11133647885993123401"
+      "asset": "A11133647885993123401",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11133699281386044042"
@@ -48194,13 +48465,27 @@
       "asset": "A11134976695564032759"
     },
     {
-      "asset": "A11135174502132017061"
+      "asset": "A11135174502132017061",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11135778757820387006"
     },
     {
-      "asset": "A11136172101038750782"
+      "asset": "A11136172101038750782",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11136200084871068033"
@@ -48224,7 +48509,14 @@
       "asset": "A11137800638328069457"
     },
     {
-      "asset": "A11137862809517441375"
+      "asset": "A11137862809517441375",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11138030402944266945"
@@ -48254,7 +48546,14 @@
       "asset": "A11139763248693955722"
     },
     {
-      "asset": "A11139877173220437651"
+      "asset": "A11139877173220437651",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11140430503049094509"
@@ -48263,10 +48562,24 @@
       "asset": "A11140536455331674842"
     },
     {
-      "asset": "A11141000748146845191"
+      "asset": "A11141000748146845191",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11141260390868014180"
+      "asset": "A11141260390868014180",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11141440011288405453"
@@ -48326,7 +48639,14 @@
       "asset": "A11143898289123282927"
     },
     {
-      "asset": "A11143926055031673707"
+      "asset": "A11143926055031673707",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11143980326416976779"
@@ -48347,13 +48667,27 @@
       "asset": "A11144567107252211144"
     },
     {
-      "asset": "A11144934679764914393"
+      "asset": "A11144934679764914393",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11145636025439664242"
     },
     {
-      "asset": "A11145812868061383561"
+      "asset": "A11145812868061383561",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11145874558318735121"
@@ -48383,7 +48717,14 @@
       "asset": "A11147658409834577097"
     },
     {
-      "asset": "A11147696273653304109"
+      "asset": "A11147696273653304109",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11148361412322720429"
@@ -48407,10 +48748,24 @@
       "asset": "A11150182714572412348"
     },
     {
-      "asset": "A11150292266759363480"
+      "asset": "A11150292266759363480",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11150930517616565085"
+      "asset": "A11150930517616565085",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11150973750399943774"
@@ -48419,10 +48774,24 @@
       "asset": "A11151219132375818637"
     },
     {
-      "asset": "A11151757620637246014"
+      "asset": "A11151757620637246014",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11151858279152793187"
+      "asset": "A11151858279152793187",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11152195020300850518"
@@ -48446,7 +48815,14 @@
       "asset": "A11153412690716541444"
     },
     {
-      "asset": "A11153552193438581028"
+      "asset": "A11153552193438581028",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11153995295883985230"
@@ -48455,7 +48831,14 @@
       "asset": "A11154296116510275657"
     },
     {
-      "asset": "A11154315798088292375"
+      "asset": "A11154315798088292375",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11154836036793692056"
@@ -48464,7 +48847,14 @@
       "asset": "A11154940816589814689"
     },
     {
-      "asset": "A11155034606277680143"
+      "asset": "A11155034606277680143",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11155155034554020932"
@@ -48476,7 +48866,14 @@
       "asset": "A11155266465376171233"
     },
     {
-      "asset": "A11155293067315671492"
+      "asset": "A11155293067315671492",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11155307517406100104"
@@ -48494,13 +48891,27 @@
       ]
     },
     {
-      "asset": "A11155640087186000576"
+      "asset": "A11155640087186000576",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11155714912399869693"
     },
     {
-      "asset": "A11156098388972828536"
+      "asset": "A11156098388972828536",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "HIPHOPGAME.LETTUCEHEAL",
@@ -48513,7 +48924,14 @@
       "asset": "A11156762188829960337"
     },
     {
-      "asset": "A11157017952610695671"
+      "asset": "A11157017952610695671",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11157037608010462694"
@@ -48543,7 +48961,14 @@
       "asset": "A11160095801744818289"
     },
     {
-      "asset": "A11160103968035480494"
+      "asset": "A11160103968035480494",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11160603865229875139"
@@ -48594,10 +49019,24 @@
       "asset": "A11163899794157402570"
     },
     {
-      "asset": "A11164063860286947340"
+      "asset": "A11164063860286947340",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11164199662039595963"
+      "asset": "A11164199662039595963",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11164354444840851951"
@@ -48606,13 +49045,27 @@
       "asset": "A11164405120951169835"
     },
     {
-      "asset": "A11164464449719069721"
+      "asset": "A11164464449719069721",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11164706467551366260"
     },
     {
-      "asset": "A11165020424091171588"
+      "asset": "A11165020424091171588",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11165057436966182185",
@@ -48648,10 +49101,24 @@
       "asset": "A11167160817292638787"
     },
     {
-      "asset": "A11167431393782718103"
+      "asset": "A11167431393782718103",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11167486988924563439"
+      "asset": "A11167486988924563439",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "FAKEHOURY.LaFakaKidnapped"
@@ -48663,7 +49130,14 @@
       "asset": "A11167590432722092673"
     },
     {
-      "asset": "A11167844717853008894"
+      "asset": "A11167844717853008894",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11168180410447845652"
@@ -48693,10 +49167,24 @@
       ]
     },
     {
-      "asset": "A11168918204713124372"
+      "asset": "A11168918204713124372",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11169274427646009915"
+      "asset": "A11169274427646009915",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11169536696103243541"
@@ -48717,7 +49205,14 @@
       "asset": "A11170263925228406169"
     },
     {
-      "asset": "A11171105677901490573"
+      "asset": "A11171105677901490573",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11171183583951612273"
@@ -48741,7 +49236,14 @@
       "asset": "A11173647872831585911"
     },
     {
-      "asset": "A11173768322621057042"
+      "asset": "A11173768322621057042",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11173775997477616096"
@@ -48780,7 +49282,14 @@
       "asset": "A11175579477495490250"
     },
     {
-      "asset": "A11175640059034886529"
+      "asset": "A11175640059034886529",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11175709503821775187"
@@ -48795,13 +49304,27 @@
       "asset": "A11176659450763881634"
     },
     {
-      "asset": "A11176793409504263170"
+      "asset": "A11176793409504263170",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11176804474449732682"
     },
     {
-      "asset": "A11176950150278252701"
+      "asset": "A11176950150278252701",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "TILES.007"
@@ -48810,10 +49333,24 @@
       "asset": "A11177883647748015641"
     },
     {
-      "asset": "A11178055384770449600"
+      "asset": "A11178055384770449600",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11178409746570769587"
+      "asset": "A11178409746570769587",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11178991720333680253"
@@ -48840,13 +49377,27 @@
       "asset": "A11180670444661539710"
     },
     {
-      "asset": "A11180785211851132062"
+      "asset": "A11180785211851132062",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11180831279572832484"
     },
     {
-      "asset": "A11180971246750330386"
+      "asset": "A11180971246750330386",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11181178082779850300"
@@ -48882,7 +49433,14 @@
       "asset": "A11182953094687993774"
     },
     {
-      "asset": "A11183178470655203594"
+      "asset": "A11183178470655203594",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11183424268582809975"
@@ -48891,7 +49449,14 @@
       "asset": "A11183657764986798029"
     },
     {
-      "asset": "A11183861165711677246"
+      "asset": "A11183861165711677246",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11184253893669306558"
@@ -48915,28 +49480,70 @@
       "asset": "A11185216289734174811"
     },
     {
-      "asset": "A11185281486656791743"
+      "asset": "A11185281486656791743",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11185601696782652151"
     },
     {
-      "asset": "A11185643562638413921"
+      "asset": "A11185643562638413921",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11185719307259127859"
+      "asset": "A11185719307259127859",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11185795174951066814"
     },
     {
-      "asset": "A11185897778122685878"
+      "asset": "A11185897778122685878",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11185919517903677462"
+      "asset": "A11185919517903677462",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11186188590789488930"
+      "asset": "A11186188590789488930",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11186539510240837747"
@@ -48948,7 +49555,14 @@
       "asset": "A11186885812142971571"
     },
     {
-      "asset": "A11186962870625382735"
+      "asset": "A11186962870625382735",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11187201189552447769"
@@ -48981,10 +49595,24 @@
       "asset": "A11189097942144524007"
     },
     {
-      "asset": "A11189397854175403139"
+      "asset": "A11189397854175403139",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11189607302589826576"
+      "asset": "A11189607302589826576",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11189677099106657950"
@@ -48993,10 +49621,24 @@
       "asset": "A11189935194761510506"
     },
     {
-      "asset": "A11190041639892669468"
+      "asset": "A11190041639892669468",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11190166189993312822"
+      "asset": "A11190166189993312822",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11190232858145604808"
@@ -49005,19 +49647,54 @@
       "asset": "A11190326893143448431"
     },
     {
-      "asset": "A11190401764843924711"
+      "asset": "A11190401764843924711",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11190504882074265051"
+      "asset": "A11190504882074265051",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11191007041876269027"
+      "asset": "A11191007041876269027",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11191188929638477759"
+      "asset": "A11191188929638477759",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
-      "asset": "A11191290543857754038"
+      "asset": "A11191290543857754038",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11192234086109354002"
@@ -49029,7 +49706,14 @@
       "asset": "A11193054832787328626"
     },
     {
-      "asset": "A11193151063546511316"
+      "asset": "A11193151063546511316",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11193338576900252447"
@@ -49050,7 +49734,14 @@
       "asset": "A11194578283541199947"
     },
     {
-      "asset": "A11194950052399576321"
+      "asset": "A11194950052399576321",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11195165668549946058"
@@ -49101,7 +49792,14 @@
       "asset": "A11198135522077175347"
     },
     {
-      "asset": "A11198372542765325551"
+      "asset": "A11198372542765325551",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11198384678562650450"
@@ -49110,7 +49808,14 @@
       "asset": "A11198529567493684162"
     },
     {
-      "asset": "A11198627669248830004"
+      "asset": "A11198627669248830004",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "A11198924780789860186"
@@ -49841,7 +50546,13 @@
       "primary": false
     },
     {
-      "asset": "FLOONEYBIN.FHOLYBIN"
+      "asset": "FLOONEYBIN.FHOLYBIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DarkFluffyRabbit"
+        }
+      ]
     },
     {
       "asset": "CHAMPAGNETNT.SIGNED"
@@ -50435,7 +51146,13 @@
       "asset": "A14330260351543535617"
     },
     {
-      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.WOJOEY"
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.WOJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
     },
     {
       "asset": "BTCSTAMPART.ONE",
@@ -50529,7 +51246,13 @@
       "asset": "PEPEWATER.FAKEBASEL2022.MINTGOLDDUST"
     },
     {
-      "asset": "FLOONEYBIN.A"
+      "asset": "FLOONEYBIN.A",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
     },
     {
       "asset": "EMMAMARKIN.VirgoTheReal"
@@ -51660,7 +52383,13 @@
       "asset": "TIMELINEXCP.MOUSEPAD.V1"
     },
     {
-      "asset": "FLOONEYBIN.THETOKENISTHEART"
+      "asset": "FLOONEYBIN.THETOKENISTHEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mike in Space"
+        }
+      ]
     },
     {
       "asset": "VETTEDREALTY.VRX-TH-02"
@@ -54046,7 +54775,13 @@
       "asset": "DIERKS.BENTLEY"
     },
     {
-      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.LOONDRIAN"
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.LOONDRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bullishseller"
+        }
+      ]
     },
     {
       "asset": "A590339321295353740"
@@ -54511,7 +55246,13 @@
       "asset": "A674613990700798600"
     },
     {
-      "asset": "ISAESNULT.BTCFORTUNA"
+      "asset": "ISAESNULT.BTCFORTUNA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isabelle Esnult"
+        }
+      ]
     },
     {
       "asset": "ESCAPED.BOREDAPE528"
@@ -56021,7 +56762,13 @@
       "asset": "A946797236961234804"
     },
     {
-      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.TEST"
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.TEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
     },
     {
       "asset": "FAKEAPETOKEN.RADIOACTIVEEP"
@@ -56370,7 +57117,8 @@
       "asset": "BANCARROTA"
     },
     {
-      "asset": "BANFF"
+      "asset": "BANFF",
+      "primary": false
     },
     {
       "asset": "BANKGOBURR"
@@ -56643,7 +57391,8 @@
       "asset": "BIPIIOLOSERS"
     },
     {
-      "asset": "BIRCHDRAGON"
+      "asset": "BIRCHDRAGON",
+      "primary": false
     },
     {
       "asset": "BIRTHDAYDANK"
@@ -57093,7 +57842,8 @@
       ]
     },
     {
-      "asset": "BOOKWYRM"
+      "asset": "BOOKWYRM",
+      "primary": false
     },
     {
       "asset": "BOOMPEPE"
@@ -57207,7 +57957,8 @@
       "asset": "BROKEASSPEPE"
     },
     {
-      "asset": "BRONZEDRAGON"
+      "asset": "BRONZEDRAGON",
+      "primary": false
     },
     {
       "asset": "BROOME"
@@ -57681,7 +58432,8 @@
       "asset": "CHAINSTEED"
     },
     {
-      "asset": "CHAMONIX"
+      "asset": "CHAMONIX",
+      "primary": false
     },
     {
       "asset": "CHAPLINPEPE"
@@ -57699,7 +58451,8 @@
       "asset": "CHARLTON"
     },
     {
-      "asset": "CHATEL"
+      "asset": "CHATEL",
+      "primary": false
     },
     {
       "asset": "CHATGPTMEME"
@@ -58223,7 +58976,8 @@
       "asset": "COUNTESSSTAX"
     },
     {
-      "asset": "COURCHEVEL"
+      "asset": "COURCHEVEL",
+      "primary": false
     },
     {
       "asset": "COVERUPKASH"
@@ -58432,7 +59186,8 @@
       ]
     },
     {
-      "asset": "DACHSTEIN"
+      "asset": "DACHSTEIN",
+      "primary": false
     },
     {
       "asset": "DADACARD"
@@ -59332,16 +60087,19 @@
       "asset": "DRADAMBACK"
     },
     {
-      "asset": "DRAGONALBINO"
+      "asset": "DRAGONALBINO",
+      "primary": false
     },
     {
-      "asset": "DRAGONAMBER"
+      "asset": "DRAGONAMBER",
+      "primary": false
     },
     {
       "asset": "DRAGONBALLS"
     },
     {
-      "asset": "DRAGONMOON"
+      "asset": "DRAGONMOON",
+      "primary": false
     },
     {
       "asset": "DRAGONS"
@@ -59487,7 +60245,8 @@
       "asset": "EAZYOH"
     },
     {
-      "asset": "EDGEMAG"
+      "asset": "EDGEMAG",
+      "primary": false
     },
     {
       "asset": "EEEASTERRR"
@@ -60194,13 +60953,20 @@
       "asset": "FAKWILDCASSO"
     },
     {
-      "asset": "FALCONER"
+      "asset": "FALCONER",
+      "primary": false
     },
     {
       "asset": "FALLTIME"
     },
     {
-      "asset": "FALSEPROFITS"
+      "asset": "FALSEPROFITS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ]
     },
     {
       "asset": "FANKYMONKEY"
@@ -60370,7 +61136,8 @@
       ]
     },
     {
-      "asset": "FERNIE"
+      "asset": "FERNIE",
+      "primary": false
     },
     {
       "asset": "FERRAGAMO"
@@ -60424,7 +61191,8 @@
       ]
     },
     {
-      "asset": "FIDELITYDRAG"
+      "asset": "FIDELITYDRAG",
+      "primary": false
     },
     {
       "asset": "FIFAWCQATAR"
@@ -60470,7 +61238,8 @@
       "asset": "FIRELOGS"
     },
     {
-      "asset": "FIREWYRM"
+      "asset": "FIREWYRM",
+      "primary": false
     },
     {
       "asset": "FIRSTBIDPEPE"
@@ -60588,7 +61357,8 @@
       "asset": "FOCUSPEPE"
     },
     {
-      "asset": "FOLIEVIP"
+      "asset": "FOLIEVIP",
+      "primary": false
     },
     {
       "asset": "FORALLDAPEPE"
@@ -60597,10 +61367,12 @@
       "asset": "FORBIDDENFRU"
     },
     {
-      "asset": "FORESTBANE"
+      "asset": "FORESTBANE",
+      "primary": false
     },
     {
-      "asset": "FORESTDRAGON"
+      "asset": "FORESTDRAGON",
+      "primary": false
     },
     {
       "asset": "FORESTPEPE"
@@ -60800,7 +61572,8 @@
       "asset": "FROGDORPEPE"
     },
     {
-      "asset": "FROGDRAGON"
+      "asset": "FROGDRAGON",
+      "primary": false
     },
     {
       "asset": "FROGG"
@@ -61759,7 +62532,8 @@
       "primary": false
     },
     {
-      "asset": "HINTERTUXER"
+      "asset": "HINTERTUXER",
+      "primary": false
     },
     {
       "asset": "HIPAPEDROOL"
@@ -62066,7 +62840,8 @@
       "asset": "HOWNOWBLUCOW"
     },
     {
-      "asset": "HUMMINGDRAKE"
+      "asset": "HUMMINGDRAKE",
+      "primary": false
     },
     {
       "asset": "HUNGRYPARTY"
@@ -62096,7 +62871,8 @@
       "asset": "ICANNOTEVEN"
     },
     {
-      "asset": "ICEBRAKER"
+      "asset": "ICEBRAKER",
+      "primary": false
     },
     {
       "asset": "ICEDPEPE"
@@ -62305,7 +63081,13 @@
       ]
     },
     {
-      "asset": "ISAESNULT"
+      "asset": "ISAESNULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isabelle Esnult"
+        }
+      ]
     },
     {
       "asset": "ISAMAZING"
@@ -62404,7 +63186,8 @@
       "asset": "JESTER"
     },
     {
-      "asset": "JESTERDRAKE"
+      "asset": "JESTERDRAKE",
+      "primary": false
     },
     {
       "asset": "JESUSISBACK"
@@ -62584,7 +63367,8 @@
       "asset": "KECASSO"
     },
     {
-      "asset": "KEEPSAKE"
+      "asset": "KEEPSAKE",
+      "primary": false
     },
     {
       "asset": "KEIOPS"
@@ -62845,10 +63629,12 @@
       "asset": "KHYPIANO"
     },
     {
-      "asset": "KICKINGHORSE"
+      "asset": "KICKINGHORSE",
+      "primary": false
     },
     {
-      "asset": "KIMBERLEYAR"
+      "asset": "KIMBERLEYAR",
+      "primary": false
     },
     {
       "asset": "KINGDROOL"
@@ -62884,13 +63670,15 @@
       "asset": "KIRINIPEPE"
     },
     {
-      "asset": "KITZBUHEL"
+      "asset": "KITZBUHEL",
+      "primary": false
     },
     {
       "asset": "KLABAUTERBAC"
     },
     {
-      "asset": "KLOSTERS"
+      "asset": "KLOSTERS",
+      "primary": false
     },
     {
       "asset": "KLUTO"
@@ -62968,7 +63756,8 @@
       ]
     },
     {
-      "asset": "LAAX"
+      "asset": "LAAX",
+      "primary": false
     },
     {
       "asset": "LAGERTHA"
@@ -62980,7 +63769,8 @@
       "asset": "LAKEHOUSE"
     },
     {
-      "asset": "LAKELOUISE"
+      "asset": "LAKELOUISE",
+      "primary": false
     },
     {
       "asset": "LAMBOHORSE"
@@ -62995,10 +63785,12 @@
       "asset": "LAPISPOTION"
     },
     {
-      "asset": "LAPLAGNE"
+      "asset": "LAPLAGNE",
+      "primary": false
     },
     {
-      "asset": "LAROSIERE"
+      "asset": "LAROSIERE",
+      "primary": false
     },
     {
       "asset": "LASTMSG"
@@ -63052,19 +63844,23 @@
       "asset": "LEONPHUN"
     },
     {
-      "asset": "LESARCS"
+      "asset": "LESARCS",
+      "primary": false
     },
     {
-      "asset": "LESDEUXALPES"
+      "asset": "LESDEUXALPES",
+      "primary": false
     },
     {
-      "asset": "LESGETS"
+      "asset": "LESGETS",
+      "primary": false
     },
     {
       "asset": "LESLIEGROFF"
     },
     {
-      "asset": "LESMENUIRES"
+      "asset": "LESMENUIRES",
+      "primary": false
     },
     {
       "asset": "LESWEXNER"
@@ -63112,7 +63908,8 @@
       "asset": "LIFTEDPEPE"
     },
     {
-      "asset": "LIGHTCASTER"
+      "asset": "LIGHTCASTER",
+      "primary": false
     },
     {
       "asset": "LIGHTNINGBN"
@@ -63393,178 +64190,236 @@
       "asset": "MAFIAWARZ"
     },
     {
-      "asset": "MAGATAMABL"
+      "asset": "MAGATAMABL",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLFR"
+      "asset": "MAGATAMABLFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLFV"
+      "asset": "MAGATAMABLFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLON"
+      "asset": "MAGATAMABLON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLSV"
+      "asset": "MAGATAMABLSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLSX"
+      "asset": "MAGATAMABLSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLTH"
+      "asset": "MAGATAMABLTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABLTW"
+      "asset": "MAGATAMABLTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMABZ"
+      "asset": "MAGATAMABZ",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGN"
+      "asset": "MAGATAMAGN",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNFR"
+      "asset": "MAGATAMAGNFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNFV"
+      "asset": "MAGATAMAGNFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNON"
+      "asset": "MAGATAMAGNON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNSV"
+      "asset": "MAGATAMAGNSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNSX"
+      "asset": "MAGATAMAGNSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNTH"
+      "asset": "MAGATAMAGNTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAGNTW"
+      "asset": "MAGATAMAGNTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAMIJN"
+      "asset": "MAGATAMAMIJN",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARD"
+      "asset": "MAGATAMARD",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDFR"
+      "asset": "MAGATAMARDFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDFV"
+      "asset": "MAGATAMARDFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDON"
+      "asset": "MAGATAMARDON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDSV"
+      "asset": "MAGATAMARDSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDSX"
+      "asset": "MAGATAMARDSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDTH"
+      "asset": "MAGATAMARDTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMARDTW"
+      "asset": "MAGATAMARDTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQ"
+      "asset": "MAGATAMATQ",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQFR"
+      "asset": "MAGATAMATQFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQFV"
+      "asset": "MAGATAMATQFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQON"
+      "asset": "MAGATAMATQON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQSV"
+      "asset": "MAGATAMATQSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQSX"
+      "asset": "MAGATAMATQSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQTH"
+      "asset": "MAGATAMATQTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMATQTW"
+      "asset": "MAGATAMATQTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVT"
+      "asset": "MAGATAMAVT",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTFR"
+      "asset": "MAGATAMAVTFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTFV"
+      "asset": "MAGATAMAVTFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTON"
+      "asset": "MAGATAMAVTON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTSV"
+      "asset": "MAGATAMAVTSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTSX"
+      "asset": "MAGATAMAVTSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTTH"
+      "asset": "MAGATAMAVTTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAVTTW"
+      "asset": "MAGATAMAVTTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWT"
+      "asset": "MAGATAMAWT",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTFR"
+      "asset": "MAGATAMAWTFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTFV"
+      "asset": "MAGATAMAWTFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTON"
+      "asset": "MAGATAMAWTON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTSV"
+      "asset": "MAGATAMAWTSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTSX"
+      "asset": "MAGATAMAWTSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTTH"
+      "asset": "MAGATAMAWTTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAWTTW"
+      "asset": "MAGATAMAWTTW",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYL"
+      "asset": "MAGATAMAYL",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLFR"
+      "asset": "MAGATAMAYLFR",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLFV"
+      "asset": "MAGATAMAYLFV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLON"
+      "asset": "MAGATAMAYLON",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLSV"
+      "asset": "MAGATAMAYLSV",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLSX"
+      "asset": "MAGATAMAYLSX",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLTH"
+      "asset": "MAGATAMAYLTH",
+      "primary": false
     },
     {
-      "asset": "MAGATAMAYLTW"
+      "asset": "MAGATAMAYLTW",
+      "primary": false
     },
     {
       "asset": "MAGICUMEKO"
@@ -63653,7 +64508,8 @@
       "primary": false
     },
     {
-      "asset": "MARMOTARMS"
+      "asset": "MARMOTARMS",
+      "primary": false
     },
     {
       "asset": "MARQUIS"
@@ -63693,7 +64549,8 @@
       "primary": false
     },
     {
-      "asset": "MATTERHORN"
+      "asset": "MATTERHORN",
+      "primary": false
     },
     {
       "asset": "MAXCOINTOKEN"
@@ -63714,7 +64571,8 @@
       ]
     },
     {
-      "asset": "MAYRHOFEN"
+      "asset": "MAYRHOFEN",
+      "primary": false
     },
     {
       "asset": "MCANALOS"
@@ -63744,7 +64602,8 @@
       "asset": "MDRNSPAMGELO"
     },
     {
-      "asset": "MEGEVE"
+      "asset": "MEGEVE",
+      "primary": false
     },
     {
       "asset": "MEIDOCOIN"
@@ -63810,7 +64669,8 @@
       "asset": "MERGECARD"
     },
     {
-      "asset": "MERIBEL"
+      "asset": "MERIBEL",
+      "primary": false
     },
     {
       "asset": "MERICANMEME"
@@ -63998,7 +64858,8 @@
       "asset": "MININGTOKEN"
     },
     {
-      "asset": "MINIONMASTER"
+      "asset": "MINIONMASTER",
+      "primary": false
     },
     {
       "asset": "MINIONS"
@@ -64271,7 +65132,8 @@
       "asset": "MORIPEPE"
     },
     {
-      "asset": "MORZINE"
+      "asset": "MORZINE",
+      "primary": false
     },
     {
       "asset": "MOSAICNAKA",
@@ -64682,7 +65544,8 @@
       ]
     },
     {
-      "asset": "NANYDRAGON"
+      "asset": "NANYDRAGON",
+      "primary": false
     },
     {
       "asset": "NAPALI"
@@ -65004,7 +65867,8 @@
       "asset": "NOROYALTIES"
     },
     {
-      "asset": "NORQUAY"
+      "asset": "NORQUAY",
+      "primary": false
     },
     {
       "asset": "NOSATOSHIBUT"
@@ -65500,7 +66364,8 @@
       "asset": "PAPRHNDSPEPE"
     },
     {
-      "asset": "PARADISEBIRD"
+      "asset": "PARADISEBIRD",
+      "primary": false
     },
     {
       "asset": "PARADOXPEPE"
@@ -67443,7 +68308,8 @@
       "asset": "PESSI"
     },
     {
-      "asset": "PETDRAGON"
+      "asset": "PETDRAGON",
+      "primary": false
     },
     {
       "asset": "PETEHEGSETH"
@@ -67703,7 +68569,8 @@
       "asset": "PLAGUEPEPES"
     },
     {
-      "asset": "PLANKS"
+      "asset": "PLANKS",
+      "primary": false
     },
     {
       "asset": "PLANTPEPE"
@@ -67878,7 +68745,8 @@
       ]
     },
     {
-      "asset": "PRALOGNAN"
+      "asset": "PRALOGNAN",
+      "primary": false
     },
     {
       "asset": "PRAYERCOMPS"
@@ -68748,7 +69616,8 @@
       "asset": "RIVERDOGE"
     },
     {
-      "asset": "RIVERWYRM"
+      "asset": "RIVERWYRM",
+      "primary": false
     },
     {
       "asset": "ROADSKULL"
@@ -68927,7 +69796,8 @@
       "asset": "RYUNOSUKE"
     },
     {
-      "asset": "SAASFEE"
+      "asset": "SAASFEE",
+      "primary": false
     },
     {
       "asset": "SABA"
@@ -68951,7 +69821,8 @@
       "asset": "SAIFAMOUS"
     },
     {
-      "asset": "SAINTFOY"
+      "asset": "SAINTFOY",
+      "primary": false
     },
     {
       "asset": "SAINTFREN"
@@ -69011,7 +69882,8 @@
       "asset": "SATOSHICERT"
     },
     {
-      "asset": "SATOSHICNTRE"
+      "asset": "SATOSHICNTRE",
+      "primary": false
     },
     {
       "asset": "SATOSHIDARK"
@@ -69169,7 +70041,8 @@
       "asset": "SDCARD"
     },
     {
-      "asset": "SEADRAGON"
+      "asset": "SEADRAGON",
+      "primary": false
     },
     {
       "asset": "SEANPEPE"
@@ -69263,7 +70136,8 @@
       "asset": "SERFPEPE"
     },
     {
-      "asset": "SERRECHE"
+      "asset": "SERRECHE",
+      "primary": false
     },
     {
       "asset": "SEVENMINPEPE"
@@ -69368,7 +70242,8 @@
       "asset": "SHYCOPEPE"
     },
     {
-      "asset": "SICKLEHORNS"
+      "asset": "SICKLEHORNS",
+      "primary": false
     },
     {
       "asset": "SIGNEDLOONEY"
@@ -69840,13 +70715,15 @@
       "primary": false
     },
     {
-      "asset": "STMARTIN"
+      "asset": "STMARTIN",
+      "primary": false
     },
     {
       "asset": "STOCKAMOTO"
     },
     {
-      "asset": "STONEDRAGON"
+      "asset": "STONEDRAGON",
+      "primary": false
     },
     {
       "asset": "STORMBURGUER",
@@ -69909,7 +70786,8 @@
       "asset": "STRAWBARY"
     },
     {
-      "asset": "STUBAI"
+      "asset": "STUBAI",
+      "primary": false
     },
     {
       "asset": "STUDYPEPE"
@@ -69952,7 +70830,8 @@
       ]
     },
     {
-      "asset": "SUMMITDRAGON"
+      "asset": "SUMMITDRAGON",
+      "primary": false
     },
     {
       "asset": "SUNBLOCKS"
@@ -70379,7 +71258,8 @@
       "asset": "THELANDING"
     },
     {
-      "asset": "THEMARMOT"
+      "asset": "THEMARMOT",
+      "primary": false
     },
     {
       "asset": "THENARDOMOTO",
@@ -70537,13 +71417,16 @@
       "asset": "THUMBFACE"
     },
     {
-      "asset": "THUMPER"
+      "asset": "THUMPER",
+      "primary": false
     },
     {
-      "asset": "TIGNADDICT"
+      "asset": "TIGNADDICT",
+      "primary": false
     },
     {
-      "asset": "TIGNES"
+      "asset": "TIGNES",
+      "primary": false
     },
     {
       "asset": "TILES"
@@ -71179,13 +72062,15 @@
       "asset": "UXTOWARS"
     },
     {
-      "asset": "VALDISERE"
+      "asset": "VALDISERE",
+      "primary": false
     },
     {
       "asset": "VALENTINEPEP"
     },
     {
-      "asset": "VALTHORENS"
+      "asset": "VALTHORENS",
+      "primary": false
     },
     {
       "asset": "VANBASTEN"
@@ -71212,7 +72097,8 @@
       "asset": "VERAX"
     },
     {
-      "asset": "VERBIER"
+      "asset": "VERBIER",
+      "primary": false
     },
     {
       "asset": "VERYNPC"
@@ -71383,7 +72269,8 @@
       "primary": false
     },
     {
-      "asset": "WAMPIREDRAG"
+      "asset": "WAMPIREDRAG",
+      "primary": false
     },
     {
       "asset": "WANDWANDW"
@@ -71401,7 +72288,8 @@
       "asset": "WANNABUYCARD"
     },
     {
-      "asset": "WARDRAGON"
+      "asset": "WARDRAGON",
+      "primary": false
     },
     {
       "asset": "WARSTOPPER"
@@ -71520,7 +72408,8 @@
       ]
     },
     {
-      "asset": "WHISTLER"
+      "asset": "WHISTLER",
+      "primary": false
     },
     {
       "asset": "WHITEHOTMON"
@@ -71608,7 +72497,8 @@
       "asset": "WISDOMCOIN"
     },
     {
-      "asset": "WIZARDRAGON"
+      "asset": "WIZARDRAGON",
+      "primary": false
     },
     {
       "asset": "WIZKEKFREN"
@@ -71768,7 +72658,8 @@
       "asset": "WOWOW"
     },
     {
-      "asset": "WOWTROLL"
+      "asset": "WOWTROLL",
+      "primary": false
     },
     {
       "asset": "WRITINGMUSIC"
@@ -72080,7 +72971,8 @@
       "asset": "ZENPOKOENFUN"
     },
     {
-      "asset": "ZERMATT"
+      "asset": "ZERMATT",
+      "primary": false
     },
     {
       "asset": "ZEROBASQUIAT"
