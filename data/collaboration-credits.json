@@ -97,7 +97,7 @@
       "credit": "Basqkek x HODLPIG",
       "artists": [
         "BasqKek",
-        "HODLPIG"
+        "Mr. HODLPIG"
       ],
       "assets": [
         {
@@ -1678,6 +1678,32 @@
         {
           "collection": "fake-commons",
           "asset": "DANKGOD.DANK8LIEN"
+        }
+      ]
+    },
+    {
+      "credit": "D Shorty",
+      "artist": "shorty",
+      "reason": "Curator approved 2026-10-09. CHADSMIND collection metadata credits Shorty and links https://twitter.com/DShorty81; ITRUMPED attribution accepted as the same artist by editorial review.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "ITRUMPED"
+        }
+      ]
+    },
+    {
+      "credit": "HODLPIG",
+      "artist": "Mr. HODLPIG",
+      "reason": "Curator approved 2026-10-09 as an editorial identity decision after reviewing names and issuing addresses; no shared-address proof claimed.",
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "JUSTHODLPEPE.HODLPIG"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "JUSTHODLPEPE"
         }
       ]
     }
