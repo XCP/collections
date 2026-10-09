@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SHIREPEPE.SILMARILLION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "SHIREPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
