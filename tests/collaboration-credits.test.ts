@@ -90,3 +90,19 @@ test('single-artist reattributions survive endpoint refreshes and reuse the cano
   ] });
   assert.deepEqual(result.collections[0].assets[0].attributes, [{ trait_type: 'Artist', value: 'Robness' }]);
 });
+
+test('address placeholders remain removed when an endpoint returns them again', async t => {
+  const directory = fixture(t, []);
+  writeFileSync(join(directory, 'data', 'collaboration-credits.json'), JSON.stringify({ entries: [], suppressed: review.suppressed }));
+  writeFileSync(join(directory, 'collections', 'example', 'adapter.ts'),
+    'export async function load({ fetchJson }) { return await fetchJson("https://example.com/feed"); }');
+  const result = await materializeRepository({ repositoryRoot: directory, fetchJson: async () => [
+    { asset: 'YOGURTPUTIN', attributes: [{ trait_type: 'Artist', value: '1BCQVoz' }, { trait_type: 'Series', value: 14 }] },
+  ] });
+  assert.deepEqual(result.collections[0].assets[0].attributes, [{ trait_type: 'Series', value: 14 }]);
+  for (const entry of review.suppressed) for (const { collection, asset } of entry.assets) {
+    const record = read(`collections/${collection}/assets.json`).assets.find(row => row.asset === asset);
+    assert.ok(record);
+    assert.ok(!(record.attributes ?? []).some(t => t.trait_type === 'Artist' && t.value === entry.credit));
+  }
+});

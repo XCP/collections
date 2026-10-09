@@ -38,3 +38,9 @@ remain awaiting clarification. FRIENDS WITH YOU is also unchanged.
 
 Deploy marketplace support for multiple Artist traits before publishing this
 conversion. Older consumers may otherwise show only the first contributor.
+
+False artist labels can be recorded under `suppressed`, with a reason and the
+reviewed asset references. These labels are removed after every source load;
+other traits and actual artist credits are retained. `1BCQVoz` is the issuer's
+address prefix for YOGURTPUTIN and MOOSEPUTIN, not an established artist name.
+No replacement attribution was supported by the available source metadata.

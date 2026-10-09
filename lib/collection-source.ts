@@ -419,6 +419,14 @@ export function readArtistCreditSplits(repositoryRoot) {
     if (splits.has(label)) fail(location, "duplicate source credit");
     splits.set(label, entry.artists);
   }
+  if (document.suppressed !== undefined && !Array.isArray(document.suppressed)) fail(path, "suppressed must be an array");
+  for (const entry of document.suppressed ?? []) {
+    if (typeof entry?.credit !== "string" || !entry.credit.trim() ||
+        typeof entry.reason !== "string" || !entry.reason.trim()) fail(path, "suppressed credits require a credit and reason");
+    const label = key(entry.credit);
+    if (splits.has(label)) fail(path, "credit cannot be both corrected and suppressed");
+    splits.set(label, []);
+  }
   for (const artists of splits.values()) {
     if (artists.some(name => splits.has(key(name)))) fail(path, "split targets must be individual credits, not another split label");
   }
