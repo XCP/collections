@@ -12,7 +12,7 @@ const review = read('data/collaboration-credits.json');
 test('reviewed collaborations survive normalization as ordered individual Artist traits', () => {
   const collections = new Map();
   for (const entry of review.entries) {
-    assert.ok(entry.artists.length >= 2);
+    assert.ok(entry.artists.length >= 1);
     assert.equal(new Set(entry.artists).size, entry.artists.length);
     for (const {collection, asset} of entry.assets) {
       if (!collections.has(collection)) collections.set(collection, normalizeAssets(read(`collections/${collection}/assets.json`).assets));
@@ -71,11 +71,22 @@ test('invalid correction rules fail closed before loading endpoints', async t =>
     [{ credit: 'Alice x Bob', artists: ['Alice', 'alice'] }],
     [{ credit: 'Alice x Bob', artists: ['Alice', 'Alice x Bob'] }],
     [{ credit: 'Alice x Bob', artists: ['Alice', 'Bob'] }, { credit: 'alice x bob', artists: ['Alice', 'Carol'] }],
-    [{ credit: 'Alice x Bob', artists: ['Alice'] }],
+    [{ credit: 'Alice x Bob', artists: [] }],
   ]) {
     const directory = fixture(t, entries);
     await assert.rejects(materializeRepository({ repositoryRoot: directory, fetchJson: async () => {
       assert.fail('invalid rules must stop before network calls');
-    } }), /duplicate|split targets|at least two/);
+    } }), /duplicate|split targets|at least one/);
   }
+});
+
+test('single-artist reattributions survive endpoint refreshes and reuse the canonical credit', async t => {
+  const credit = 'V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.';
+  const directory = fixture(t, [{ credit, artists: ['Robness'] }]);
+  writeFileSync(join(directory, 'collections', 'example', 'adapter.ts'),
+    'export async function load({ fetchJson }) { return await fetchJson("https://example.com/feed"); }');
+  const result = await materializeRepository({ repositoryRoot: directory, fetchJson: async () => [
+    { asset: 'NORMIES', attributes: [{ trait_type: 'Artist', value: credit }, { trait_type: 'Artist', value: 'Robness' }] },
+  ] });
+  assert.deepEqual(result.collections[0].assets[0].attributes, [{ trait_type: 'Artist', value: 'Robness' }]);
 });

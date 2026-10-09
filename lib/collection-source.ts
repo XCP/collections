@@ -409,9 +409,9 @@ export function readArtistCreditSplits(repositoryRoot) {
   for (const [index, entry] of document.entries.entries()) {
     const location = `${path}.entries[${index}]`;
     if (typeof entry?.credit !== "string" || !entry.credit.trim()) fail(location, "credit must be nonempty");
-    if (!Array.isArray(entry.artists) || entry.artists.length < 2 ||
+    if (!Array.isArray(entry.artists) || entry.artists.length < 1 ||
         entry.artists.some(value => typeof value !== "string" || !value.trim() || value !== value.trim())) {
-      fail(location, "artists must contain at least two nonempty, trimmed names");
+      fail(location, "artists must contain at least one nonempty, trimmed name");
     }
     entry.artists.forEach((value, index) => normalizedAttribute({ trait_type: "Artist", value }, `${location}.artists[${index}]`));
     if (new Set(entry.artists.map(key)).size !== entry.artists.length) fail(location, "duplicate artists");

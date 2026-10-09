@@ -25,15 +25,16 @@ credits, including on newly discovered assets and after changing sources.
 Matching ignores case and outer whitespace; contributor order is preserved and
 repeated individual credits are deduplicated. Invalid or recursive rules stop
 the export before publication. Add future reviewed corrections to `entries` in
-`data/collaboration-credits.json`; no adapter-specific fix is needed.
+`data/collaboration-credits.json`; no adapter-specific fix is needed. A rule
+can name one target for a reattribution or multiple targets for a collaboration.
+The NORMIES source credit `V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.`
+is corrected to the existing `Robness` credit, as confirmed by the curator.
 
-Unrecognized labels remain unchanged. Do not split every
-name containing `and`, `&`, or a comma. H & Art Block is confirmed by the
-curator as a single artist and recorded under `preserved`. Vibes and Stuff,
-Britts and Stas, Nay and Ry, Mr. and Mrs. Micon, and the NORMIES
-credit `V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.` are held for clarification
-instead of inventing identities from ambiguous components. FRIENDS WITH YOU
-is also unchanged.
+Unrecognized labels remain unchanged. Do not split every name containing `and`,
+`&`, or a comma. The curator confirmed H & Art Block is a single artist and
+approved keeping Vibes and Stuff, Britts and Stas, Nay and Ry, and Mr. and Mrs.
+Micon unchanged. These decisions are recorded under `preserved`. No entries
+remain awaiting clarification. FRIENDS WITH YOU is also unchanged.
 
 Deploy marketplace support for multiple Artist traits before publishing this
 conversion. Older consumers may otherwise show only the first contributor.

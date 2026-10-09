@@ -1283,30 +1283,6 @@
           "asset": "OSHIDANKCITY"
         }
       ]
-    }
-  ],
-  "held": [
-    {
-      "credit": "Vibes and Stuff",
-      "assets": [
-        {
-          "collection": "fake-commons",
-          "asset": "PEPEPWRBALL"
-        },
-        {
-          "collection": "fake-commons",
-          "asset": "PEPPESSY"
-        }
-      ]
-    },
-    {
-      "credit": "Mr. and Mrs. Micon",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "VASECTOPEPE"
-        }
-      ]
     },
     {
       "credit": "V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.",
@@ -1315,27 +1291,14 @@
           "collection": "fake-rares",
           "asset": "NORMIES"
         }
-      ]
-    },
-    {
-      "credit": "Britts and Stas",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "COLLEGEMONEY"
-        }
-      ]
-    },
-    {
-      "credit": "Nay and Ry",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "OMARPEPE"
-        }
-      ]
+      ],
+      "artists": [
+        "Robness"
+      ],
+      "reason": "Curator confirmed the full credit refers to the existing Robness artist, not a collaboration."
     }
   ],
+  "held": [],
   "preserved": [
     {
       "credit": "H & Art Block",
@@ -1518,6 +1481,50 @@
         }
       ],
       "reason": "Confirmed by the curator as one artist using a humorous name, not a collaboration."
+    },
+    {
+      "credit": "Vibes and Stuff",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPEPWRBALL"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "PEPPESSY"
+        }
+      ],
+      "reason": "Curator confirmed this credit should remain unchanged."
+    },
+    {
+      "credit": "Mr. and Mrs. Micon",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "VASECTOPEPE"
+        }
+      ],
+      "reason": "Curator confirmed this credit should remain unchanged."
+    },
+    {
+      "credit": "Britts and Stas",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "COLLEGEMONEY"
+        }
+      ],
+      "reason": "Curator confirmed this credit should remain unchanged."
+    },
+    {
+      "credit": "Nay and Ry",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "OMARPEPE"
+        }
+      ],
+      "reason": "Curator confirmed this credit should remain unchanged."
     }
   ]
 }
