@@ -125,6 +125,15 @@
           "value": "Vizique"
         }
       ]
+    },
+    {
+      "asset": "GENESISFLIPS.TEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
     }
   ]
 }
