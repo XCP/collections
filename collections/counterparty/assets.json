@@ -79,7 +79,8 @@
       "asset": "PIXELMONPEPE"
     },
     {
-      "asset": "SCARAB"
+      "asset": "SCARAB",
+      "primary": false
     },
     {
       "asset": "BITCOINCHAN"
@@ -48057,7 +48058,8 @@
       "asset": "KAITRUMP.KeepWisdomTeeth"
     },
     {
-      "asset": "PUNCHPUFF.04c38c001d0"
+      "asset": "PUNCHPUFF.04c38c001d0",
+      "primary": false
     },
     {
       "asset": "A11121916854091689824",
@@ -49177,7 +49179,8 @@
       "asset": "PEPEISART.TSHIRT22"
     },
     {
-      "asset": "PUNCHPUFF.0471be001d0"
+      "asset": "PUNCHPUFF.0471be001d0",
+      "primary": false
     },
     {
       "asset": "A1136919345517703189"
@@ -49350,7 +49353,8 @@
       ]
     },
     {
-      "asset": "PUNCHPUFF.0428c4001d0"
+      "asset": "PUNCHPUFF.0428c4001d0",
+      "primary": false
     },
     {
       "asset": "WASCALMPEPE.AFTERMATH",
@@ -49479,7 +49483,8 @@
       "primary": false
     },
     {
-      "asset": "PUNCHPUFF.04f4a3051c0"
+      "asset": "PUNCHPUFF.04f4a3051c0",
+      "primary": false
     },
     {
       "asset": "A11920112557338814000"
@@ -49761,7 +49766,8 @@
       "asset": "WRBPT.WomensSportsPepe"
     },
     {
-      "asset": "PUNCHPUFF.04fd68011c0"
+      "asset": "PUNCHPUFF.04fd68011c0",
+      "primary": false
     },
     {
       "asset": "PEPERANSOM.xcp"
@@ -50139,7 +50145,8 @@
       "asset": "INERMIS.2"
     },
     {
-      "asset": "PINATA.TEDDYBEAST"
+      "asset": "PINATA.TEDDYBEAST",
+      "primary": false
     },
     {
       "asset": "GUGGENMEME.HOMERCHECKS"
@@ -50409,7 +50416,8 @@
       "asset": "PEPETORCH.GALAXYSTICKERS2"
     },
     {
-      "asset": "PINATA.SNAKEBEAST"
+      "asset": "PINATA.SNAKEBEAST",
+      "primary": false
     },
     {
       "asset": "WHATIS.TIME"
@@ -50886,7 +50894,8 @@
       ]
     },
     {
-      "asset": "BATTY.002"
+      "asset": "BATTY.002",
+      "primary": false
     },
     {
       "asset": "KITKATS.NAKAMOTO",
@@ -51150,7 +51159,8 @@
       ]
     },
     {
-      "asset": "PINATA.PROGENY.GOLD"
+      "asset": "PINATA.PROGENY.GOLD",
+      "primary": false
     },
     {
       "asset": "FAKERARECAP.PEPE_No.03"
@@ -52503,7 +52513,8 @@
       "asset": "TRIGRAMS.Lake"
     },
     {
-      "asset": "PUNCHPUFF.04a7bc201c0"
+      "asset": "PUNCHPUFF.04a7bc201c0",
+      "primary": false
     },
     {
       "asset": "A2395131544327443000"
@@ -52653,7 +52664,8 @@
       "primary": false
     },
     {
-      "asset": "PUNCHPUFF.047513381c0"
+      "asset": "PUNCHPUFF.047513381c0",
+      "primary": false
     },
     {
       "asset": "PEPONONOKE.ACIDFOREST"
@@ -53189,7 +53201,8 @@
       ]
     },
     {
-      "asset": "PINATA.BLACKDOGBEAST"
+      "asset": "PINATA.BLACKDOGBEAST",
+      "primary": false
     },
     {
       "asset": "A413134221458965690"
@@ -53656,7 +53669,8 @@
       "asset": "CRYPTOPUNKS.9"
     },
     {
-      "asset": "BATTY.WRAPPING"
+      "asset": "BATTY.WRAPPING",
+      "primary": false
     },
     {
       "asset": "MIAWALLACE.LICENSE",
@@ -54096,7 +54110,8 @@
       "asset": "A5972747811647741000"
     },
     {
-      "asset": "PUNCHPUFF.046f7f381c0"
+      "asset": "PUNCHPUFF.046f7f381c0",
+      "primary": false
     },
     {
       "asset": "BALLOONPEPE.BALLOONPEPE.PURPLERAIN"
@@ -54184,7 +54199,8 @@
       "asset": "BITBALL.2SATCHELPAIGE"
     },
     {
-      "asset": "PINATA.RHINOBEAST"
+      "asset": "PINATA.RHINOBEAST",
+      "primary": false
     },
     {
       "asset": "RRAM.16"
@@ -55498,7 +55514,8 @@
       "asset": "A853310607317391585"
     },
     {
-      "asset": "BATTY.001"
+      "asset": "BATTY.001",
+      "primary": false
     },
     {
       "asset": "SCANNABLES.GRAIL1"
@@ -55562,7 +55579,8 @@
       "primary": false
     },
     {
-      "asset": "PINATA.PROGENY"
+      "asset": "PINATA.PROGENY",
+      "primary": false
     },
     {
       "asset": "BIGDEAL.xcp"
@@ -55636,10 +55654,12 @@
       "asset": "LIGHTHOUSES.MIKALIGHT"
     },
     {
-      "asset": "PINATA.DINOSAURBEAST"
+      "asset": "PINATA.DINOSAURBEAST",
+      "primary": false
     },
     {
-      "asset": "PINATA.CURSE"
+      "asset": "PINATA.CURSE",
+      "primary": false
     },
     {
       "asset": "A8803594158107764000",
@@ -55813,7 +55833,8 @@
       ]
     },
     {
-      "asset": "BATTY.BLINDBOX"
+      "asset": "BATTY.BLINDBOX",
+      "primary": false
     },
     {
       "asset": "LABRADEPE.PURPLE"
@@ -56063,10 +56084,12 @@
       "asset": "FAKEWYOMING.715140"
     },
     {
-      "asset": "PUNCHPUFF.04e5b3431c0"
+      "asset": "PUNCHPUFF.04e5b3431c0",
+      "primary": false
     },
     {
-      "asset": "PUNCHPUFF.0493e40a1c0"
+      "asset": "PUNCHPUFF.0493e40a1c0",
+      "primary": false
     },
     {
       "asset": "RARESCRILLA.FRAMED_4ELE_SC_11_3_21",
@@ -56313,7 +56336,8 @@
       "asset": "BAGGIO"
     },
     {
-      "asset": "BAGS"
+      "asset": "BAGS",
+      "primary": false
     },
     {
       "asset": "BALDEAGLES"
@@ -57417,7 +57441,8 @@
       "asset": "BUCKETHATPEP"
     },
     {
-      "asset": "BUDGET"
+      "asset": "BUDGET",
+      "primary": false
     },
     {
       "asset": "BUFFALOS"
@@ -57585,10 +57610,12 @@
       "asset": "CARRYONHODL"
     },
     {
-      "asset": "CARTOON"
+      "asset": "CARTOON",
+      "primary": false
     },
     {
-      "asset": "CARWASH"
+      "asset": "CARWASH",
+      "primary": false
     },
     {
       "asset": "CARWHEEL"
@@ -57822,10 +57849,12 @@
       ]
     },
     {
-      "asset": "CLAY"
+      "asset": "CLAY",
+      "primary": false
     },
     {
-      "asset": "CLINTON"
+      "asset": "CLINTON",
+      "primary": false
     },
     {
       "asset": "CLOSEFRIEND"
@@ -57834,7 +57863,8 @@
       "asset": "CLOSEUPPPEPE"
     },
     {
-      "asset": "CLOTH"
+      "asset": "CLOTH",
+      "primary": false
     },
     {
       "asset": "CLOUDEDFLOW"
@@ -58050,7 +58080,8 @@
       "asset": "CONKS"
     },
     {
-      "asset": "CONNECTICUT"
+      "asset": "CONNECTICUT",
+      "primary": false
     },
     {
       "asset": "CONSUMED"
@@ -58068,7 +58099,8 @@
       ]
     },
     {
-      "asset": "CONTEXT"
+      "asset": "CONTEXT",
+      "primary": false
     },
     {
       "asset": "COOLDANK"
@@ -58236,7 +58268,8 @@
       "asset": "CPSUBMARINER"
     },
     {
-      "asset": "CRATE"
+      "asset": "CRATE",
+      "primary": false
     },
     {
       "asset": "CRAZYASS"
@@ -58326,7 +58359,8 @@
       "asset": "CUMPEPE"
     },
     {
-      "asset": "CUPCAKES"
+      "asset": "CUPCAKES",
+      "primary": false
     },
     {
       "asset": "CUPIDJAG"
@@ -58728,7 +58762,8 @@
       "asset": "DAVIDPEPEBTC"
     },
     {
-      "asset": "DAVINCI"
+      "asset": "DAVINCI",
+      "primary": false
     },
     {
       "asset": "DAWNAPFIVE"
@@ -59103,7 +59138,8 @@
       ]
     },
     {
-      "asset": "DINOSAURIOS"
+      "asset": "DINOSAURIOS",
+      "primary": false
     },
     {
       "asset": "DIOSASTRAEA"
@@ -59283,7 +59319,8 @@
       "asset": "DOUCIT"
     },
     {
-      "asset": "DRACO"
+      "asset": "DRACO",
+      "primary": false
     },
     {
       "asset": "DRACUL"
@@ -59412,7 +59449,8 @@
       "asset": "DUNEPEPE"
     },
     {
-      "asset": "DUNKINDONUTS"
+      "asset": "DUNKINDONUTS",
+      "primary": false
     },
     {
       "asset": "DURINGSLEEP"
@@ -59436,7 +59474,8 @@
       "asset": "EAGLETONE"
     },
     {
-      "asset": "EARTHBEAST"
+      "asset": "EARTHBEAST",
+      "primary": false
     },
     {
       "asset": "EATFDS"
@@ -59661,13 +59700,15 @@
       "asset": "EVTESTTOKEN"
     },
     {
-      "asset": "EWOK"
+      "asset": "EWOK",
+      "primary": false
     },
     {
       "asset": "EXCHANGEKING"
     },
     {
-      "asset": "EXPERIMENTAL"
+      "asset": "EXPERIMENTAL",
+      "primary": false
     },
     {
       "asset": "EXPERTPEPE"
@@ -59685,13 +59726,15 @@
       "asset": "EZMINER"
     },
     {
-      "asset": "FABLE"
+      "asset": "FABLE",
+      "primary": false
     },
     {
       "asset": "FABLUE"
     },
     {
-      "asset": "FABRIC"
+      "asset": "FABRIC",
+      "primary": false
     },
     {
       "asset": "FABRIZIO"
@@ -60217,7 +60260,8 @@
       "asset": "FATGIRLS"
     },
     {
-      "asset": "FAULT"
+      "asset": "FAULT",
+      "primary": false
     },
     {
       "asset": "FAUXBANKSY",
@@ -60268,7 +60312,8 @@
       "asset": "FAUXSTORM"
     },
     {
-      "asset": "FAVORITE"
+      "asset": "FAVORITE",
+      "primary": false
     },
     {
       "asset": "FAWKESAMOTO"
@@ -60412,7 +60457,8 @@
       "asset": "FINGERDROOL"
     },
     {
-      "asset": "FIREBEAST"
+      "asset": "FIREBEAST",
+      "primary": false
     },
     {
       "asset": "FIREBREATHER"
@@ -60448,7 +60494,8 @@
       "asset": "FISIHNGPEPE"
     },
     {
-      "asset": "FITBIT"
+      "asset": "FITBIT",
+      "primary": false
     },
     {
       "asset": "FITRIDERPEPE"
@@ -60589,7 +60636,8 @@
       "asset": "FORTHEREAL"
     },
     {
-      "asset": "FORTPOINT"
+      "asset": "FORTPOINT",
+      "primary": false
     },
     {
       "asset": "FOUCAULTKN"
@@ -60610,7 +60658,8 @@
       "asset": "FOXRACEWAY"
     },
     {
-      "asset": "FPAC"
+      "asset": "FPAC",
+      "primary": false
     },
     {
       "asset": "FPIFREN"
@@ -60619,10 +60668,12 @@
       "asset": "FRAGILETEARS"
     },
     {
-      "asset": "FRAME"
+      "asset": "FRAME",
+      "primary": false
     },
     {
-      "asset": "FRAMES"
+      "asset": "FRAMES",
+      "primary": false
     },
     {
       "asset": "FREEDMSPEECH"
@@ -60730,7 +60781,8 @@
       "asset": "FRIENDSHAPPY"
     },
     {
-      "asset": "FRIENDSHIP"
+      "asset": "FRIENDSHIP",
+      "primary": false
     },
     {
       "asset": "FRODOPEPE"
@@ -61375,7 +61427,8 @@
       "asset": "GREENPILLDTC"
     },
     {
-      "asset": "GREENWICH"
+      "asset": "GREENWICH",
+      "primary": false
     },
     {
       "asset": "GREMLINPEPE",
@@ -61522,7 +61575,8 @@
       "asset": "HAMTASTIC"
     },
     {
-      "asset": "HAND"
+      "asset": "HAND",
+      "primary": false
     },
     {
       "asset": "HANDPEPE",
@@ -61549,7 +61603,8 @@
       "asset": "HAPPYFAKE"
     },
     {
-      "asset": "HARBOR"
+      "asset": "HARBOR",
+      "primary": false
     },
     {
       "asset": "HARDAF"
@@ -61597,7 +61652,8 @@
       "asset": "HASHWAR"
     },
     {
-      "asset": "HATHOR"
+      "asset": "HATHOR",
+      "primary": false
     },
     {
       "asset": "HATSUCOIN"
@@ -61699,7 +61755,8 @@
       "asset": "HIKKOSHIDRM"
     },
     {
-      "asset": "HILL"
+      "asset": "HILL",
+      "primary": false
     },
     {
       "asset": "HINTERTUXER"
@@ -62105,10 +62162,12 @@
       ]
     },
     {
-      "asset": "ILLUSTRATION"
+      "asset": "ILLUSTRATION",
+      "primary": false
     },
     {
-      "asset": "ILLUSTRATOR"
+      "asset": "ILLUSTRATOR",
+      "primary": false
     },
     {
       "asset": "ILUMINATIPE"
@@ -63104,7 +63163,8 @@
       "asset": "LITEPILLPEPE"
     },
     {
-      "asset": "LITERATURE"
+      "asset": "LITERATURE",
+      "primary": false
     },
     {
       "asset": "LITOCOIN"
@@ -63173,7 +63233,8 @@
       ]
     },
     {
-      "asset": "LORE"
+      "asset": "LORE",
+      "primary": false
     },
     {
       "asset": "LOSERDROOL"
@@ -63584,10 +63645,12 @@
       "asset": "MARIHORSOE"
     },
     {
-      "asset": "MARINA"
+      "asset": "MARINA",
+      "primary": false
     },
     {
-      "asset": "MARKER"
+      "asset": "MARKER",
+      "primary": false
     },
     {
       "asset": "MARMOTARMS"
@@ -63626,7 +63689,8 @@
       "asset": "MATCOINS"
     },
     {
-      "asset": "MATE"
+      "asset": "MATE",
+      "primary": false
     },
     {
       "asset": "MATTERHORN"
@@ -63764,7 +63828,8 @@
       "asset": "MESSIXAPE"
     },
     {
-      "asset": "METALBEAST"
+      "asset": "METALBEAST",
+      "primary": false
     },
     {
       "asset": "METARABONE"
@@ -63848,7 +63913,8 @@
       "asset": "MIDNITEMINTS"
     },
     {
-      "asset": "MIDWAY"
+      "asset": "MIDWAY",
+      "primary": false
     },
     {
       "asset": "MIGHTYPEPE"
@@ -64253,10 +64319,12 @@
       ]
     },
     {
-      "asset": "MOVIETICKETS"
+      "asset": "MOVIETICKETS",
+      "primary": false
     },
     {
-      "asset": "MOVING"
+      "asset": "MOVING",
+      "primary": false
     },
     {
       "asset": "MPGA"
@@ -64346,7 +64414,8 @@
       "asset": "MUNDIKEK"
     },
     {
-      "asset": "MURAKAMI"
+      "asset": "MURAKAMI",
+      "primary": false
     },
     {
       "asset": "MUSHROOMSTMP"
@@ -64640,7 +64709,8 @@
       "asset": "NCGSHARE"
     },
     {
-      "asset": "NEIGHBOR"
+      "asset": "NEIGHBOR",
+      "primary": false
     },
     {
       "asset": "NEKOKO"
@@ -65048,7 +65118,8 @@
       "asset": "NYCCOMMON"
     },
     {
-      "asset": "NYFA"
+      "asset": "NYFA",
+      "primary": false
     },
     {
       "asset": "NYTA"
@@ -65435,7 +65506,8 @@
       "asset": "PARADOXPEPE"
     },
     {
-      "asset": "PARCEL"
+      "asset": "PARCEL",
+      "primary": false
     },
     {
       "asset": "PARISAIRBNB"
@@ -67019,7 +67091,8 @@
       "asset": "PEPETITANIC"
     },
     {
-      "asset": "PEPETO"
+      "asset": "PEPETO",
+      "primary": false
     },
     {
       "asset": "PEPETODAY"
@@ -67445,7 +67518,8 @@
       "asset": "PHONTWITCH"
     },
     {
-      "asset": "PHOTOGRAPH"
+      "asset": "PHOTOGRAPH",
+      "primary": false
     },
     {
       "asset": "PHUNCH"
@@ -67529,7 +67603,8 @@
       "asset": "PINATAPEPE"
     },
     {
-      "asset": "PINEAPPLEEGG"
+      "asset": "PINEAPPLEEGG",
+      "primary": false
     },
     {
       "asset": "PINECONES"
@@ -67739,7 +67814,8 @@
       ]
     },
     {
-      "asset": "POSTCARD"
+      "asset": "POSTCARD",
+      "primary": false
     },
     {
       "asset": "POSTMINTPEPE"
@@ -67847,7 +67923,8 @@
       "asset": "PRIVPHECY"
     },
     {
-      "asset": "PRODUCTION"
+      "asset": "PRODUCTION",
+      "primary": false
     },
     {
       "asset": "PROJECTEPE"
@@ -68048,7 +68125,8 @@
       "asset": "QAREYOUREADY"
     },
     {
-      "asset": "QBERT"
+      "asset": "QBERT",
+      "primary": false
     },
     {
       "asset": "QCEINSTEIN",
@@ -68411,7 +68489,8 @@
       ]
     },
     {
-      "asset": "RATIO"
+      "asset": "RATIO",
+      "primary": false
     },
     {
       "asset": "RATPOISON"
@@ -68459,16 +68538,19 @@
       "asset": "REDAMARYLLIS"
     },
     {
-      "asset": "REDBLADE"
+      "asset": "REDBLADE",
+      "primary": false
     },
     {
       "asset": "REDFOX"
     },
     {
-      "asset": "REDGEM"
+      "asset": "REDGEM",
+      "primary": false
     },
     {
-      "asset": "REDGLASSES"
+      "asset": "REDGLASSES",
+      "primary": false
     },
     {
       "asset": "REDGRAIL"
@@ -68477,7 +68559,8 @@
       "asset": "REDGREENPEPE"
     },
     {
-      "asset": "REDHERB"
+      "asset": "REDHERB",
+      "primary": false
     },
     {
       "asset": "REDHODLMODEL",
@@ -68498,13 +68581,15 @@
       "asset": "REDOX"
     },
     {
-      "asset": "REDPAPER"
+      "asset": "REDPAPER",
+      "primary": false
     },
     {
       "asset": "REDSAUCE"
     },
     {
-      "asset": "REDSKULL"
+      "asset": "REDSKULL",
+      "primary": false
     },
     {
       "asset": "REDSMILESSS"
@@ -68513,7 +68598,8 @@
       "asset": "REDSTONE"
     },
     {
-      "asset": "REDVEST"
+      "asset": "REDVEST",
+      "primary": false
     },
     {
       "asset": "REDZUKI"
@@ -68570,7 +68656,8 @@
       "asset": "REREPEPE"
     },
     {
-      "asset": "RESERVOIR"
+      "asset": "RESERVOIR",
+      "primary": false
     },
     {
       "asset": "RESSEIMFER"
@@ -68630,7 +68717,8 @@
       "asset": "RIPMIKAOG"
     },
     {
-      "asset": "RISD"
+      "asset": "RISD",
+      "primary": false
     },
     {
       "asset": "RISHINFT",
@@ -68711,7 +68799,8 @@
       "asset": "ROLLDISPLAY"
     },
     {
-      "asset": "ROMAN"
+      "asset": "ROMAN",
+      "primary": false
     },
     {
       "asset": "RONALDORARE"
@@ -68780,7 +68869,8 @@
       "asset": "RTHURHAYES"
     },
     {
-      "asset": "RTIST"
+      "asset": "RTIST",
+      "primary": false
     },
     {
       "asset": "RUBENPANG"
@@ -68966,7 +69056,8 @@
       "asset": "SATSUMA"
     },
     {
-      "asset": "SAUCE"
+      "asset": "SAUCE",
+      "primary": false
     },
     {
       "asset": "SAULALINSKY"
@@ -69050,7 +69141,8 @@
       "asset": "SCOUSEPRIDE"
     },
     {
-      "asset": "SCREENPRINT"
+      "asset": "SCREENPRINT",
+      "primary": false
     },
     {
       "asset": "SCREWTHIS"
@@ -69164,7 +69256,8 @@
       "asset": "SERAPHPEPE"
     },
     {
-      "asset": "SERE"
+      "asset": "SERE",
+      "primary": false
     },
     {
       "asset": "SERFPEPE"
@@ -69290,7 +69383,8 @@
       "asset": "SILKROADPEPE"
     },
     {
-      "asset": "SILKSCREEN"
+      "asset": "SILKSCREEN",
+      "primary": false
     },
     {
       "asset": "SILVERBLINGZ"
@@ -69311,7 +69405,8 @@
       "asset": "SISENEGEKAF"
     },
     {
-      "asset": "SISTERHOOD"
+      "asset": "SISTERHOOD",
+      "primary": false
     },
     {
       "asset": "SIXSEVEN"
@@ -69341,7 +69436,8 @@
       "asset": "SKELETONKEK"
     },
     {
-      "asset": "SKETCH"
+      "asset": "SKETCH",
+      "primary": false
     },
     {
       "asset": "SKILLOFPEPE"
@@ -69395,7 +69491,8 @@
       "asset": "SLOOMOFO"
     },
     {
-      "asset": "SMFA"
+      "asset": "SMFA",
+      "primary": false
     },
     {
       "asset": "SMOKINGPEPE"
@@ -69563,7 +69660,8 @@
       "asset": "SOMEFLOONS"
     },
     {
-      "asset": "SOMETHING"
+      "asset": "SOMETHING",
+      "primary": false
     },
     {
       "asset": "SONICHORSE"
@@ -69587,7 +69685,8 @@
       "asset": "SOURCEPEPE"
     },
     {
-      "asset": "SOUTHIE"
+      "asset": "SOUTHIE",
+      "primary": false
     },
     {
       "asset": "SPACEAPE",
@@ -69599,7 +69698,8 @@
       ]
     },
     {
-      "asset": "SPACEBEAST"
+      "asset": "SPACEBEAST",
+      "primary": false
     },
     {
       "asset": "SPACEINVADER"
@@ -69632,7 +69732,8 @@
       "asset": "SPIDERVERSE"
     },
     {
-      "asset": "SPIRAL"
+      "asset": "SPIRAL",
+      "primary": false
     },
     {
       "asset": "SPIRITCORNCD"
@@ -69650,7 +69751,8 @@
       "asset": "SPOOFPEPE"
     },
     {
-      "asset": "SPRAY"
+      "asset": "SPRAY",
+      "primary": false
     },
     {
       "asset": "SQUELCHSKIN"
@@ -69692,7 +69794,8 @@
       "asset": "STARTELE"
     },
     {
-      "asset": "STARTER"
+      "asset": "STARTER",
+      "primary": false
     },
     {
       "asset": "STAYHOMEPEPE"
@@ -69719,7 +69822,8 @@
       "asset": "STGIGACHAD"
     },
     {
-      "asset": "STICKER"
+      "asset": "STICKER",
+      "primary": false
     },
     {
       "asset": "STICKEY"
@@ -69728,10 +69832,12 @@
       "asset": "STICKHEAD"
     },
     {
-      "asset": "STILL"
+      "asset": "STILL",
+      "primary": false
     },
     {
-      "asset": "STIPEND"
+      "asset": "STIPEND",
+      "primary": false
     },
     {
       "asset": "STMARTIN"
@@ -69809,7 +69915,8 @@
       "asset": "STUDYPEPE"
     },
     {
-      "asset": "STUFF"
+      "asset": "STUFF",
+      "primary": false
     },
     {
       "asset": "STUPIDSHIRT"
@@ -69860,7 +69967,8 @@
       "asset": "SUPERFREAK"
     },
     {
-      "asset": "SUPERHERO"
+      "asset": "SUPERHERO",
+      "primary": false
     },
     {
       "asset": "SUPERLEAGUE"
@@ -69944,7 +70052,8 @@
       "asset": "SYLTPEPE"
     },
     {
-      "asset": "SYMBIOTE"
+      "asset": "SYMBIOTE",
+      "primary": false
     },
     {
       "asset": "SYZOYYYYYZ"
@@ -69995,7 +70104,8 @@
       "asset": "TAXIPEPE"
     },
     {
-      "asset": "TAYLORSWIFT"
+      "asset": "TAYLORSWIFT",
+      "primary": false
     },
     {
       "asset": "TBDETERMINED"
@@ -70037,7 +70147,8 @@
       "asset": "TERMINATED"
     },
     {
-      "asset": "TERRY"
+      "asset": "TERRY",
+      "primary": false
     },
     {
       "asset": "TESTAMINT"
@@ -70391,7 +70502,8 @@
       "asset": "THINKEREVOLV"
     },
     {
-      "asset": "THIRTYTHREE"
+      "asset": "THIRTYTHREE",
+      "primary": false
     },
     {
       "asset": "THISBLOWS"
@@ -70406,7 +70518,8 @@
       "asset": "THISISRARE"
     },
     {
-      "asset": "THOTH"
+      "asset": "THOTH",
+      "primary": false
     },
     {
       "asset": "THREEBANGERS",
@@ -70520,7 +70633,8 @@
       "asset": "TONYPEPE"
     },
     {
-      "asset": "TOON"
+      "asset": "TOON",
+      "primary": false
     },
     {
       "asset": "TOPFLOORPEPE"
@@ -70538,7 +70652,8 @@
       "asset": "TOPRAMEN"
     },
     {
-      "asset": "TOPS"
+      "asset": "TOPS",
+      "primary": false
     },
     {
       "asset": "TOPURIA"
@@ -70562,7 +70677,8 @@
       "asset": "TOWNHERITAGE"
     },
     {
-      "asset": "TOWNIE"
+      "asset": "TOWNIE",
+      "primary": false
     },
     {
       "asset": "TPOL"
@@ -70583,7 +70699,8 @@
       "asset": "TRAINTOKEN"
     },
     {
-      "asset": "TRAITOR"
+      "asset": "TRAITOR",
+      "primary": false
     },
     {
       "asset": "TRANCEPEP",
@@ -70835,7 +70952,8 @@
       "asset": "TWEETIOUS"
     },
     {
-      "asset": "TWIST"
+      "asset": "TWIST",
+      "primary": false
     },
     {
       "asset": "TWITTEREGGS"
@@ -70877,7 +70995,8 @@
       "asset": "UCITPEPE"
     },
     {
-      "asset": "UCONN"
+      "asset": "UCONN",
+      "primary": false
     },
     {
       "asset": "UFOATLAS"
@@ -71117,7 +71236,8 @@
       ]
     },
     {
-      "asset": "VIDEOS"
+      "asset": "VIDEOS",
+      "primary": false
     },
     {
       "asset": "VILLARPEPE"
@@ -71138,7 +71258,8 @@
       "asset": "VIOLINI"
     },
     {
-      "asset": "VISUAL"
+      "asset": "VISUAL",
+      "primary": false
     },
     {
       "asset": "VITOPEPE"
@@ -71258,7 +71379,8 @@
       "asset": "WALLPLUGNFT"
     },
     {
-      "asset": "WALT"
+      "asset": "WALT",
+      "primary": false
     },
     {
       "asset": "WAMPIREDRAG"
@@ -71294,7 +71416,8 @@
       "asset": "WATCHWRIST"
     },
     {
-      "asset": "WATERBEAST"
+      "asset": "WATERBEAST",
+      "primary": false
     },
     {
       "asset": "WATERCLOCK"
@@ -71333,7 +71456,8 @@
       "asset": "WEAVEPEPE"
     },
     {
-      "asset": "WEEBLY"
+      "asset": "WEEBLY",
+      "primary": false
     },
     {
       "asset": "WEEPINGPEP",
@@ -71471,7 +71595,8 @@
       "asset": "WILDTURKEY"
     },
     {
-      "asset": "WINDBEAST"
+      "asset": "WINDBEAST",
+      "primary": false
     },
     {
       "asset": "WINDOWVIEW"
@@ -71621,7 +71746,8 @@
       "asset": "WOMANINBED"
     },
     {
-      "asset": "WOODBEAST"
+      "asset": "WOODBEAST",
+      "primary": false
     },
     {
       "asset": "WOODENHORSE"
@@ -72269,7 +72395,8 @@
       "asset": "GOODDOG"
     },
     {
-      "asset": "GREENGEM"
+      "asset": "GREENGEM",
+      "primary": false
     },
     {
       "asset": "HAPPYFACE"
