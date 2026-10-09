@@ -427,8 +427,20 @@ export function readArtistCreditSplits(repositoryRoot) {
     if (splits.has(label)) fail(path, "credit cannot be both corrected and suppressed");
     splits.set(label, []);
   }
+  if (document.aliases !== undefined && !Array.isArray(document.aliases)) fail(path, "aliases must be an array");
+  for (const entry of document.aliases ?? []) {
+    if (typeof entry?.credit !== "string" || !entry.credit.trim()) fail(path, "alias credit must be nonempty");
+    normalizedAttribute({ trait_type: "Artist", value: entry.artist }, `${path}.aliases.artist`);
+    if (typeof entry.artist !== "string") fail(path, "alias artist must be a string");
+    if (splits.has(key(entry.credit))) fail(path, "duplicate alias source credit");
+    splits.set(key(entry.credit), [entry.artist]);
+  }
+  const terminal = name => {
+    const target = splits.get(key(name));
+    return !target || (target.length === 1 && target[0] === name);
+  };
   for (const artists of splits.values()) {
-    if (artists.some(name => splits.has(key(name)))) fail(path, "split targets must be individual credits, not another split label");
+    if (artists.some(name => !terminal(name))) fail(path, "split targets must be individual credits, not another split label");
   }
   return splits;
 }

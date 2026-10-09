@@ -766,7 +766,7 @@
     {
       "credit": "Ollie x Arwyn",
       "artists": [
-        "Ollie",
+        "Oliver Morris",
         "Arwyn"
       ],
       "assets": [
@@ -1088,7 +1088,7 @@
     {
       "credit": "Virtual AK x Fried",
       "artists": [
-        "Virtual AK",
+        "Virtual Alaska",
         "Fried"
       ],
       "assets": [
@@ -1539,6 +1539,145 @@
         {
           "collection": "fake-rares",
           "asset": "YOGURTPUTIN"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "credit": "NurstMembrane",
+      "artist": "burstMembrane",
+      "reason": "Curator approved 2026-10-09. Both affected works point to burstMembrane/xcpassets metadata. Those JSON files name 14sxc2ZaGcPC51hfYksSVmQm9YUt5HVkiK, the issuer of all eight burstMembrane works. Original named-asset issuers differ, so metadata is the important evidence.",
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "LATENTPEPE"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEORBIT"
+        }
+      ]
+    },
+    {
+      "credit": "Mike in space",
+      "artist": "Mike in Space",
+      "reason": "Curator approved 2026-10-09. Exact name with capitalization difference. One work (CHAMPAGNETNT) versus 369. Issuer overlap is absent; CHAMPAGNETNT was issued by an address associated with multiple credited artists.",
+      "assets": [
+        {
+          "collection": "rare-pepe",
+          "asset": "CHAMPAGNETNT"
+        }
+      ]
+    },
+    {
+      "credit": "Andre-U",
+      "artist": "AndreU",
+      "reason": "Curator approved 2026-10-09. Punctuation-only variation. DANKLEVANIA and BALDATTACK have the same original issuer 1AX6uzwzeNyJKjtQius6LnX8r4nup24aQ. Only these two artist labels occur at that issuer in this credited-asset snapshot.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "DANKLEVANIA"
+        }
+      ]
+    },
+    {
+      "credit": "VVD",
+      "artist": "Vincent Van Dough",
+      "reason": "Curator approved 2026-10-09. Recognized abbreviation, shared issuer 1F8Yy1L43CpkYrbb1hcCKhncdipAAh6GGj, and FAKELAWS metadata signs its existing collaboration as Caravaggio x VVD. Canonical display name can be chosen without changing collaborators.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "NYCPEPECASH"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "SLEIGHRIDE"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEROTHKO"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "GREENBEANZ"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "LILYPAD"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "MINIMALISTPP"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "LOVEBIRDS"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PONDSIDE"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "TREEFROGS"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PUMPKINPATCH"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPETRILLION"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEAQUIT"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "SMINEMPEPEP"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "TRENCHLORD"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEEKABOOPEP"
+        }
+      ]
+    },
+    {
+      "credit": "Virtual AK",
+      "artist": "Virtual Alaska",
+      "reason": "Curator approved 2026-10-09. USDPEPE and all four Virtual Alaska works share issuer 183bxkkdVfHQYZuX3UpanLd5xPL2tGQqo8. Abbreviated name is consistent; this issuer also appears under another artist label.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "USDPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "PurpleDrank",
+      "artist": "PurpleDrank7855",
+      "reason": "Curator approved 2026-10-09. BROTHERSCOCO and FIATDEATH share issuer 1YkH35tkGmzUcSShnGsNNtfZ5g7CNxKXX; handle suffix is consistent. This address also issued a ZETRA-credited work.",
+      "assets": [
+        {
+          "collection": "rare-coco",
+          "asset": "BROTHERSCOCO"
+        }
+      ]
+    },
+    {
+      "credit": "Ollie",
+      "artist": "Oliver Morris",
+      "reason": "Curator approved 2026-10-09. All five works share issuer 1M7HN2wh32YU4AMfMatrAnCcdyfmuow7V3. Ollie’s sole work is subasset DANKGOD.DANK8LIEN, while DANKGOD is credited to Oliver Morris. The address also issued other artists’ works.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "DANKGOD.DANK8LIEN"
         }
       ]
     }

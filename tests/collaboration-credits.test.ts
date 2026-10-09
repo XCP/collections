@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import { readFileSync, mkdirSync, mkdtempSync, writeFileSync, rmSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import test from 'node:test';
@@ -104,5 +105,20 @@ test('address placeholders remain removed when an endpoint returns them again', 
     const record = read(`collections/${collection}/assets.json`).assets.find(row => row.asset === asset);
     assert.ok(record);
     assert.ok(!(record.attributes ?? []).some(t => t.trait_type === 'Artist' && t.value === entry.credit));
+  }
+});
+
+test('approved aliases canonicalize refreshed credits, including case-only corrections', () => {
+  const splits = readArtistCreditSplits(fileURLToPath(new URL('../', import.meta.url)));
+  for (const entry of review.aliases) {
+    const input = [{ asset: 'TESTART', attributes: [{ trait_type: 'Artist', value: entry.credit }] }];
+    const result = applyArtistCreditSplits(input, splits);
+    assert.equal(result[0].attributes[0].value, entry.artist);
+    assert.deepEqual(applyArtistCreditSplits(result, splits), result);
+    for (const { collection, asset } of entry.assets) {
+      const record = read(`collections/${collection}/assets.json`).assets.find(row => row.asset === asset);
+      assert.ok(record.attributes.some(t => t.trait_type === 'Artist' && t.value === entry.artist));
+      assert.ok(!record.attributes.some(t => t.trait_type === 'Artist' && t.value === entry.credit));
+    }
   }
 });
