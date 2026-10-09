@@ -28,8 +28,9 @@ the export before publication. Add future reviewed corrections to `entries` in
 `data/collaboration-credits.json`; no adapter-specific fix is needed.
 
 Unrecognized labels remain unchanged. Do not split every
-name containing `and`, `&`, or a comma. H & Art Block and Vibes and Stuff are
-left intact; Britts and Stas, Nay and Ry, Mr. and Mrs. Micon, and the NORMIES
+name containing `and`, `&`, or a comma. H & Art Block is confirmed by the
+curator as a single artist and recorded under `preserved`. Vibes and Stuff,
+Britts and Stas, Nay and Ry, Mr. and Mrs. Micon, and the NORMIES
 credit `V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.` are held for clarification
 instead of inventing identities from ambiguous components. FRIENDS WITH YOU
 is also unchanged.

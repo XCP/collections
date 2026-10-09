@@ -23,8 +23,8 @@ test('reviewed collaborations survive normalization as ordered individual Artist
   }
 });
 
-test('ambiguous names are not split by punctuation', () => {
-  for (const entry of review.held) for (const {collection, asset} of entry.assets) {
+test('ambiguous and confirmed individual names are not split by punctuation', () => {
+  for (const entry of [...review.held, ...review.preserved]) for (const {collection, asset} of entry.assets) {
     const record = read(`collections/${collection}/assets.json`).assets.find(row=>row.asset===asset);
     assert.ok(record.attributes.some(t=>t.trait_type==='Artist' && t.value===entry.credit));
   }
@@ -79,4 +79,3 @@ test('invalid correction rules fail closed before loading endpoints', async t =>
     } }), /duplicate|split targets|at least two/);
   }
 });
-

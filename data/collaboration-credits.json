@@ -1287,6 +1287,57 @@
   ],
   "held": [
     {
+      "credit": "Vibes and Stuff",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPEPWRBALL"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "PEPPESSY"
+        }
+      ]
+    },
+    {
+      "credit": "Mr. and Mrs. Micon",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "VASECTOPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "NORMIES"
+        }
+      ]
+    },
+    {
+      "credit": "Britts and Stas",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "COLLEGEMONEY"
+        }
+      ]
+    },
+    {
+      "credit": "Nay and Ry",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "OMARPEPE"
+        }
+      ]
+    }
+  ],
+  "preserved": [
+    {
       "credit": "H & Art Block",
       "assets": [
         {
@@ -1465,56 +1516,8 @@
           "collection": "fake-commons",
           "asset": "COLORWHEEL"
         }
-      ]
-    },
-    {
-      "credit": "Vibes and Stuff",
-      "assets": [
-        {
-          "collection": "fake-commons",
-          "asset": "PEPEPWRBALL"
-        },
-        {
-          "collection": "fake-commons",
-          "asset": "PEPPESSY"
-        }
-      ]
-    },
-    {
-      "credit": "Mr. and Mrs. Micon",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "VASECTOPEPE"
-        }
-      ]
-    },
-    {
-      "credit": "V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "NORMIES"
-        }
-      ]
-    },
-    {
-      "credit": "Britts and Stas",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "COLLEGEMONEY"
-        }
-      ]
-    },
-    {
-      "credit": "Nay and Ry",
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "OMARPEPE"
-        }
-      ]
+      ],
+      "reason": "Confirmed by the curator as one artist using a humorous name, not a collaboration."
     }
   ]
 }
