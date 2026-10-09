@@ -1,4 +1,4 @@
-# Bitcorn Cards
+# Corn Geisha
 
 <!-- collection-facts:start -->
 ## Registry facts
