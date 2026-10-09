@@ -1,0 +1,9 @@
+{
+  "name": "Ape-opoly",
+  "kind": "canonical",
+  "description": "Vizique's print-to-play board game, comprising board sections, a full board, Mystery cards and Beat Your Chest cards.",
+  "art_frame": "square",
+  "links": {
+    "website": "https://vizique.com/apes-kind-of/"
+  }
+}

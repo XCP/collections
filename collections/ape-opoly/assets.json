@@ -1,0 +1,381 @@
+{
+  "assets": [
+    {
+      "asset": "BEATYACHEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Card back"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.APEOPOLYONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Board section"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.BYCCARD1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.BYCCARD2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.BYCCARD3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.BYCCARD4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.MCCARD1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.MCCARD2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.MCCARD3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "DERIVAPE.MCCARD4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.APEOPOLYTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Board section"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.BYCCARD13",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.BYCCARD14",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.BYCCARD15",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.BYCCARD16",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.MCCARD5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "GURUAPE.MCCARD6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card"
+        }
+      ]
+    },
+    {
+      "asset": "JAPEYDEMON.APEOPOLYFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Board section"
+        }
+      ]
+    },
+    {
+      "asset": "JAPEYDEMON.BYCCARD10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "JAPEYDEMON.BYCCARD11",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "JAPEYDEMON.BYCCARD12",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "JAPEYDEMON.BYCCARD9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "MYSTERYDECK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Card back"
+        }
+      ]
+    },
+    {
+      "asset": "PETERSCHIMP.APEOPOLYTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Board section"
+        }
+      ]
+    },
+    {
+      "asset": "PETERSCHIMP.BYCCARD5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "PETERSCHIMP.BYCCARD6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "PETERSCHIMP.BYCCARD7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "PETERSCHIMP.BYCCARD8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Beat Your Chest card"
+        }
+      ]
+    },
+    {
+      "asset": "POLYAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Full board"
+        }
+      ]
+    }
+  ]
+}
