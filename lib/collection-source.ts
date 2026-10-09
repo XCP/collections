@@ -589,6 +589,9 @@ export function validateMemberships(collections, { requirePrimaryForSecondary = 
   }
 
   for (const [asset, appearances] of secondaries) {
+    if (primaries.get(asset) === "counterparty") {
+      issues.push(`${asset}: Counterparty membership must be exclusive; also appears in ${appearances.join(", ")}`);
+    }
     if (requirePrimaryForSecondary && !primaries.has(asset)) {
       issues.push(`${asset} appears only as secondary or curated (${appearances.join(", ")}) but has no primary home`);
     }
@@ -629,6 +632,41 @@ export function applySecondaryOnOverlap(collections) {
       }
     }
   }
+  return collections;
+}
+
+/** Counterparty is a fallback, never an additional collection. Resolve after
+ * adapters load so new project memberships cannot restore an overlap. Keep
+ * reviewed artist credits and missing traits on the asset's new home. */
+export function applyCounterpartyFallback(collections) {
+  const fallback = collections.find(collection => collection.slug === "counterparty");
+  if (!fallback?.assets) return collections;
+  const others = new Map();
+  for (const collection of collections) {
+    if (collection === fallback) continue;
+    for (const entry of collection.assets ?? []) {
+      const entries = others.get(entry.asset) ?? [];
+      entries.push({ collection, entry });
+      others.set(entry.asset, entries);
+    }
+  }
+  fallback.assets = fallback.assets.filter(entry => {
+    const appearances = others.get(entry.asset);
+    if (!appearances) return true;
+    const canonical = appearances.filter(item => item.collection.kind === "canonical");
+    const home = canonical.find(item => item.entry.primary !== false) ?? canonical[0];
+    if (!home) throw new CollectionValidationError([`${entry.asset}: replace Counterparty with a canonical home before adding curated memberships`]);
+    delete home.entry.primary;
+    const attributes = [...(home.entry.attributes ?? [])];
+    for (const trait of entry.attributes ?? []) {
+      const sameType = attributes.filter(existing => existing.trait_type.toLowerCase() === trait.trait_type.toLowerCase());
+      if (sameType.length === 0 || (trait.trait_type.toLowerCase() === "artist" && !sameType.some(existing => existing.value === trait.value))) {
+        attributes.push({ ...trait });
+      }
+    }
+    if (attributes.length > 0) home.entry.attributes = attributes;
+    return false;
+  });
   return collections;
 }
 
@@ -757,6 +795,7 @@ export async function materializeRepository({
     }
   }
   if (issues.length > 0) throw new CollectionValidationError(issues);
+  applyCounterpartyFallback(collections);
   applySecondaryOnOverlap(collections);
   const counts = validateMemberships(collections, {
     // A selected subset may contain a secondary appearance whose primary home

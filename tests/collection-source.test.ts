@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 
 import {
   CollectionValidationError,
+  applyCounterpartyFallback,
   materializeCollection,
   materializeRepository,
   normalizeCollectionMeta,
@@ -462,7 +463,7 @@ test("blocked artist credits are rejected case-insensitively", (t) => {
 test("Counterparty accepts primary homes but rejects secondary memberships even in partial exports", () => {
   const counterparty = { slug: "counterparty", kind: "canonical", assets: [{ asset: "MAGATAMABL" }] };
   const project = { slug: "magatama", kind: "canonical", assets: [{ asset: "MAGATAMABL", primary: false }] };
-  assert.deepEqual(validateMemberships([counterparty, project]), { primaryMemberships: 1, secondaryMemberships: 1 });
+  assert.throws(() => validateMemberships([counterparty, project]), /Counterparty membership must be exclusive/);
   counterparty.assets[0].primary = false;
   delete project.assets[0].primary;
   assert.throws(() => validateMemberships([counterparty, project]), /Counterparty is a primary-only catch-all/);
@@ -474,4 +475,43 @@ test("Counterparty adapter refresh cannot restore secondary memberships", async 
   t.after(() => rmSync(root, { recursive: true, force: true }));
   writeFileSync(join(directory, "adapter.ts"), 'export async function load() { return [{ asset: "STANDALONE" }, { asset: "MAGATAMABL", primary: false }]; }\n');
   await assert.rejects(materializeRepository({ repositoryRoot: root, includeSlugs: ["counterparty"] }), /Counterparty is a primary-only catch-all/);
+});
+
+test("Counterparty yields to adapter membership while preserving artists and standalone entries", async (t) => {
+  const { root, directory } = makeRepository("counterparty");
+  t.after(() => rmSync(root, { recursive: true, force: true }));
+  writeFileSync(join(directory, "assets.json"), JSON.stringify({ assets: [
+    { asset: "STANDALONE", attributes: [{ trait_type: "Artist", value: "Alice" }] },
+    { asset: "SHARED", attributes: [{ trait_type: "Artist", value: "Alice" }, { trait_type: "Art year", value: 2021 }] },
+  ] }));
+  const project = join(root, "collections", "project");
+  mkdirSync(project);
+  writeFileSync(join(project, "meta.json"), JSON.stringify(baseMeta));
+  writeFileSync(join(project, "adapter.ts"), 'export const overlapPolicy = "secondary"; export async function load() { return [{ asset: "SHARED", attributes: [{ trait_type: "Artist", value: "Bob" }, { trait_type: "Card", value: 3 }] }]; }');
+  for (let refresh = 0; refresh < 2; refresh++) {
+    const { collections, counts } = await materializeRepository({ repositoryRoot: root });
+    assert.deepEqual(collections.find(c => c.slug === "counterparty").assets.map(a => a.asset), ["STANDALONE"]);
+    const moved = collections.find(c => c.slug === "project").assets[0];
+    assert.notEqual(moved.primary, false);
+    assert.deepEqual(moved.attributes, [
+      { trait_type: "Artist", value: "Bob" }, { trait_type: "Card", value: 3 },
+      { trait_type: "Artist", value: "Alice" }, { trait_type: "Art year", value: 2021 },
+    ]);
+    assert.deepEqual(counts, { primaryMemberships: 2, secondaryMemberships: 0 });
+  }
+});
+
+test("Counterparty fallback preserves project traits and rejects a curated-only replacement", () => {
+  const collections = [
+    { slug: "counterparty", kind: "canonical", assets: [{ asset: "SHARED", attributes: [{ trait_type: "Artist", value: "Alice" }, { trait_type: "Card", value: 1 }] }] },
+    { slug: "project", kind: "canonical", assets: [{ asset: "SHARED", primary: false, attributes: [{ trait_type: "Artist", value: "Alice" }, { trait_type: "Card", value: 2 }] }] },
+  ];
+  applyCounterpartyFallback(collections);
+  assert.deepEqual(collections[0].assets, []);
+  assert.deepEqual(collections[1].assets[0].attributes, [{ trait_type: "Artist", value: "Alice" }, { trait_type: "Card", value: 2 }]);
+  assert.deepEqual(validateMemberships(collections), { primaryMemberships: 1, secondaryMemberships: 0 });
+  assert.throws(() => applyCounterpartyFallback([
+    { slug: "counterparty", kind: "canonical", assets: [{ asset: "SHARED" }] },
+    { slug: "gallery", kind: "curated", assets: [{ asset: "SHARED" }] },
+  ]), /canonical home/);
 });
