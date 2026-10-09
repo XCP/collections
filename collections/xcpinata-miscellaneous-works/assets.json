@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "GREENGEM"
+    },
+    {
+      "asset": "PEPETO"
+    },
+    {
+      "asset": "PINEAPPLEEGG"
+    },
+    {
+      "asset": "RATTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BitcoinJake09"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
