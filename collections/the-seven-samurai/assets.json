@@ -1,0 +1,87 @@
+{
+  "assets": [
+    {
+      "asset": "SAMURAIFIVE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAIFOUR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAIONE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAISEVEN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAISIX",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAITHREE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SAMURAITWO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "SEVENSAMURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
+    }
+  ]
+}
