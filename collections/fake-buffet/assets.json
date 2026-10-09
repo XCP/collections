@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBUFFET.CHOPSTICKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBUFFET.FAKEBEER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBUFFET.VIPSANDWICH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBUFFET.VIPTOOTHPICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBUFFET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
