@@ -1,0 +1,9 @@
+{
+  "name": "Rick and Morty",
+  "kind": "canonical",
+  "description": "Rick and Morty, a 6-work series by Vizique, grouped in the artist's own catalogue.",
+  "art_frame": "card",
+  "links": {
+    "website": "https://vizique.com/by-series-style/"
+  }
+}
