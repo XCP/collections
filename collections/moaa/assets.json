@@ -1,259 +1,769 @@
 {
   "assets": [
     {
-      "asset": "BAGS"
-    },
-    {
-      "asset": "BUDGET"
-    },
-    {
-      "asset": "CARTOON"
-    },
-    {
-      "asset": "CARWASH"
-    },
-    {
-      "asset": "CLAY"
-    },
-    {
-      "asset": "CLINTON"
-    },
-    {
-      "asset": "CLOTH"
-    },
-    {
-      "asset": "CONNECTICUT"
-    },
-    {
-      "asset": "CONTEXT"
-    },
-    {
-      "asset": "CRATE"
-    },
-    {
-      "asset": "CUPCAKES"
-    },
-    {
-      "asset": "DAVINCI"
-    },
-    {
-      "asset": "DRACO"
-    },
-    {
-      "asset": "DUNKINDONUTS"
-    },
-    {
-      "asset": "EWOK"
-    },
-    {
-      "asset": "EXPERIMENTAL"
-    },
-    {
-      "asset": "FABLE"
-    },
-    {
-      "asset": "FABRIC"
-    },
-    {
-      "asset": "FAULT"
-    },
-    {
-      "asset": "FAVORITE"
-    },
-    {
-      "asset": "FITBIT"
-    },
-    {
-      "asset": "FORTPOINT"
-    },
-    {
-      "asset": "FPAC"
-    },
-    {
-      "asset": "FRAME"
-    },
-    {
-      "asset": "FRAMES"
-    },
-    {
-      "asset": "FRIENDSHIP"
-    },
-    {
-      "asset": "GREENWICH"
-    },
-    {
-      "asset": "HAND"
-    },
-    {
-      "asset": "HARBOR"
-    },
-    {
-      "asset": "HATHOR"
-    },
-    {
-      "asset": "HILL"
-    },
-    {
-      "asset": "ILLUSTRATION"
-    },
-    {
-      "asset": "ILLUSTRATOR"
-    },
-    {
-      "asset": "LITERATURE"
-    },
-    {
-      "asset": "MARINA"
-    },
-    {
-      "asset": "MARKER"
-    },
-    {
-      "asset": "MATE"
-    },
-    {
-      "asset": "MIDWAY"
-    },
-    {
-      "asset": "MOVIETICKETS"
-    },
-    {
-      "asset": "MOVING"
-    },
-    {
-      "asset": "MURAKAMI"
-    },
-    {
-      "asset": "NEIGHBOR"
-    },
-    {
-      "asset": "NYFA"
-    },
-    {
-      "asset": "PARCEL"
-    },
-    {
-      "asset": "PHOTOGRAPH"
-    },
-    {
-      "asset": "POSTCARD"
-    },
-    {
-      "asset": "PRODUCTION"
-    },
-    {
-      "asset": "QBERT"
-    },
-    {
-      "asset": "RATIO"
-    },
-    {
-      "asset": "RESERVOIR"
-    },
-    {
-      "asset": "RISD"
-    },
-    {
-      "asset": "ROMAN"
-    },
-    {
-      "asset": "RTIST"
-    },
-    {
-      "asset": "SAUCE"
-    },
-    {
-      "asset": "SCREENPRINT"
-    },
-    {
-      "asset": "SERE"
-    },
-    {
-      "asset": "SILKSCREEN"
-    },
-    {
-      "asset": "SISTERHOOD"
-    },
-    {
-      "asset": "SKETCH"
-    },
-    {
-      "asset": "SMFA"
-    },
-    {
-      "asset": "SOMETHING"
-    },
-    {
-      "asset": "SOUTHIE"
-    },
-    {
-      "asset": "SPIRAL"
-    },
-    {
-      "asset": "SPRAY"
-    },
-    {
-      "asset": "STARTER"
-    },
-    {
-      "asset": "STICKER"
-    },
-    {
-      "asset": "STILL"
-    },
-    {
-      "asset": "STIPEND"
-    },
-    {
-      "asset": "STUFF"
-    },
-    {
-      "asset": "SUPERHERO"
-    },
-    {
-      "asset": "SYMBIOTE"
-    },
-    {
-      "asset": "TAYLORSWIFT"
-    },
-    {
-      "asset": "TERRY"
-    },
-    {
-      "asset": "THIRTYTHREE"
-    },
-    {
-      "asset": "THOTH"
-    },
-    {
-      "asset": "TOON"
-    },
-    {
-      "asset": "TOPS"
-    },
-    {
-      "asset": "TOWNIE"
-    },
-    {
-      "asset": "TRAITOR"
-    },
-    {
-      "asset": "TWIST"
-    },
-    {
-      "asset": "UCONN"
-    },
-    {
-      "asset": "VIDEOS"
-    },
-    {
-      "asset": "VISUAL"
-    },
-    {
-      "asset": "WALT"
-    },
-    {
-      "asset": "WEEBLY"
+      "asset": "BAGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "BUDGET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CARTOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CARWASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CLAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CLINTON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CLOTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CONNECTICUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CONTEXT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CRATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "CUPCAKES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "DAVINCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "DRACO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "DUNKINDONUTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "EWOK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "EXPERIMENTAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FABLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FABRIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FAULT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FAVORITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FITBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FORTPOINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FPAC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FRAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FRAMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "FRIENDSHIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "GREENWICH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "HAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "HARBOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "HATHOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "HILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "ILLUSTRATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "ILLUSTRATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "LITERATURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MARINA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MARKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MIDWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MOVIETICKETS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MOVING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "MURAKAMI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "NEIGHBOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "NYFA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "PARCEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "PHOTOGRAPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "POSTCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "PRODUCTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "QBERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "RATIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "RESERVOIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "RISD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "ROMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "RTIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SAUCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SCREENPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SILKSCREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SISTERHOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SKETCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SMFA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SOMETHING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SOUTHIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SPIRAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SPRAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "STARTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "STICKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "STILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "STIPEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "STUFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SUPERHERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "SYMBIOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TAYLORSWIFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TERRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "THIRTYTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "THOTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TOPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TOWNIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TRAITOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "TWIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "UCONN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "VIDEOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "VISUAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "WALT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
+    },
+    {
+      "asset": "WEEBLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

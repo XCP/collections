@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "LORE"
+      "asset": "LORE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

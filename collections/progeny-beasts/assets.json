@@ -1,28 +1,76 @@
 {
   "assets": [
     {
-      "asset": "PINATA.BLACKDOGBEAST"
+      "asset": "PINATA.BLACKDOGBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.CURSE"
+      "asset": "PINATA.CURSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.DINOSAURBEAST"
+      "asset": "PINATA.DINOSAURBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.PROGENY"
+      "asset": "PINATA.PROGENY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.PROGENY.GOLD"
+      "asset": "PINATA.PROGENY.GOLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.RHINOBEAST"
+      "asset": "PINATA.RHINOBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.SNAKEBEAST"
+      "asset": "PINATA.SNAKEBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA.TEDDYBEAST"
+      "asset": "PINATA.TEDDYBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

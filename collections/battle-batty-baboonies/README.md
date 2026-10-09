@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Artist: 4/4 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -20,3 +20,7 @@ Reviewed 2026-10-09 against the artist-operated [catalogue](https://xcpinata.com
 Matched Counterparty entries use this collection as primary and are removed from the Counterparty catch-all. Existing attributes and artist credits are preserved without new attribution. Unresolved catalogue entries are not automatically admitted. The founding year follows the artist catalogue.
 
 The catalogue references `001` and `UPGRADEARMOR001` are not resolved to verified Counterparty identities. They are excluded; no asset is admitted or reassigned on the strength of these display references.
+
+## Kevin Ferreira attribution
+
+Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.

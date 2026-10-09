@@ -1,76 +1,220 @@
 {
   "assets": [
     {
-      "asset": "BLACKDOG"
+      "asset": "BLACKDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "BROWNIE"
+      "asset": "BROWNIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CALENDAR"
+      "asset": "CALENDAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CANVAS"
+      "asset": "CANVAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CHARIOT"
+      "asset": "CHARIOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CHEESECAKE"
+      "asset": "CHEESECAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "COOKIES"
+      "asset": "COOKIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CORAL"
+      "asset": "CORAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "CUPCAKE"
+      "asset": "CUPCAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "DINOSAUR"
+      "asset": "DINOSAUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "ICECREAM"
+      "asset": "ICECREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "LOAF"
+      "asset": "LOAF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "MANUSCRIPT"
+      "asset": "MANUSCRIPT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "MOVIETICKET"
+      "asset": "MOVIETICKET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PAINT"
+      "asset": "PAINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PENCIL"
+      "asset": "PENCIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINATA"
+      "asset": "PINATA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "RHINO"
+      "asset": "RHINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "SANDWICH"
+      "asset": "SANDWICH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "SNAKE"
+      "asset": "SNAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "SODA"
+      "asset": "SODA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "TEDDY"
+      "asset": "TEDDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "TOWEL"
+      "asset": "TOWEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "YARN"
+      "asset": "YARN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

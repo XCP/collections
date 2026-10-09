@@ -1,25 +1,67 @@
 {
   "assets": [
     {
-      "asset": "REDBLADE"
+      "asset": "REDBLADE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDGEM"
+      "asset": "REDGEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDGLASSES"
+      "asset": "REDGLASSES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDHERB"
+      "asset": "REDHERB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDPAPER"
+      "asset": "REDPAPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDSKULL"
+      "asset": "REDSKULL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "REDVEST"
+      "asset": "REDVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

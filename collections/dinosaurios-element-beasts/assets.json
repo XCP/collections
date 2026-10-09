@@ -1,28 +1,76 @@
 {
   "assets": [
     {
-      "asset": "DINOSAURIOS"
+      "asset": "DINOSAURIOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "EARTHBEAST"
+      "asset": "EARTHBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "FIREBEAST"
+      "asset": "FIREBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "METALBEAST"
+      "asset": "METALBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "SPACEBEAST"
+      "asset": "SPACEBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "WATERBEAST"
+      "asset": "WATERBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "WINDBEAST"
+      "asset": "WINDBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "WOODBEAST"
+      "asset": "WOODBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     }
   ]
 }

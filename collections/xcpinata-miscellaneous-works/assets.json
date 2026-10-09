@@ -1,20 +1,38 @@
 {
   "assets": [
     {
-      "asset": "GREENGEM"
+      "asset": "GREENGEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PEPETO"
+      "asset": "PEPETO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
-      "asset": "PINEAPPLEEGG"
+      "asset": "PINEAPPLEEGG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Ferreira"
+        }
+      ]
     },
     {
       "asset": "RATTY",
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "BitcoinJake09"
+          "value": "Kevin Ferreira"
         }
       ],
       "primary": false
