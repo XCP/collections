@@ -1,0 +1,69 @@
+{
+  "assets": [
+    {
+      "asset": "SMOLJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SMOJAKBATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SMOLJAKLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SMOLJAKEAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "SMOLJAKTV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KINKINETIC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    }
+  ]
+}
