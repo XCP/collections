@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEAFPRINT.420K",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEAFPRINT.CARBONSPIRIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEAFPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

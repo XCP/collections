@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESWALLOW.CLASSICBLUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWALLOW.CLASSICGREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWALLOW.INKWASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWALLOW.DAYTRIPPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWALLOW.H-BOMB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWALLOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
