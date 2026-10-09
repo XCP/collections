@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "KEKBONDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "KEKBONDS.KEKBONDS.PEPEGANDACARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "DISINFOCZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "XCHAINPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    }
+  ]
+}
