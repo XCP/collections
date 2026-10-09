@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESPACEDUB.SIDE2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESPACEDUB.SIDE3.SCARCESPACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESPACEDUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}

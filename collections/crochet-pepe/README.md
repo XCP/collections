@@ -1,0 +1,24 @@
+# Crochet Pepe
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 4 assets |
+| Primary memberships | 4 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 4/4 (100%) |
+<!-- collection-facts:end -->
+
+## Membership evidence
+
+Reviewed 2026-10-09 using xcpio-core issuer and longname records and direct CDN comparison of every listed artwork. The parent and BABY, nirvana and TABOO children depict the same crocheted Pepe character in photographic cards, with the project name printed on the artwork.
+
+All 4 members share issuer 206595 in the reviewed chain data and retain their existing Arwyn credits. This is an explicit reviewed family list, not blanket attribution of an issuer or proof of acceptance into a different official directory.
+
+Counterparty memberships are removed. Kaleidoscope is an open gallery and its existing adapter automatically makes overlapping appearances secondary to these more specific families. No existing non-Counterparty membership is removed.
+
+The easyasset.art links did not provide usable JSON in the metadata audit. Those unavailable documents are not used as evidence. No verified project homepage was found.
