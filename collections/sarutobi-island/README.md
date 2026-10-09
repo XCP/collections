@@ -6,9 +6,9 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 10 assets |
+| Membership | 7 assets |
 | Primary memberships | 6 |
-| Secondary or curated memberships | 4 |
+| Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
 | Traits | None |
 <!-- collection-facts:end -->
