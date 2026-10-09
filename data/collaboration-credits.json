@@ -1,5 +1,5 @@
 {
-  "description": "Reviewed expansion of existing explicit collaboration credits into repeated Artist traits. Source labels are retained here as evidence; this is not a runtime name-splitting rule.",
+  "description": "Reviewed collaboration labels expanded to ordered individual Artist credits on every export, regardless of source. Asset references preserve the original review evidence.",
   "source_commit": "82389c7",
   "entries": [
     {

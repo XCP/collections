@@ -19,7 +19,15 @@ Robness credits also receive the collaborators named by their familiar
 80sKurt/80sKurtRussell and ROBNESS V2 variants. Mr.P and Mr. P use one spelling.
 Contributor order follows the source credit.
 
-The reviewed map is an audit record, not a runtime parser. Do not split every
+The reviewed map is also applied to every export after loading static files or
+endpoint adapters. A returning source label expands to its reviewed individual
+credits, including on newly discovered assets and after changing sources.
+Matching ignores case and outer whitespace; contributor order is preserved and
+repeated individual credits are deduplicated. Invalid or recursive rules stop
+the export before publication. Add future reviewed corrections to `entries` in
+`data/collaboration-credits.json`; no adapter-specific fix is needed.
+
+Unrecognized labels remain unchanged. Do not split every
 name containing `and`, `&`, or a comma. H & Art Block and Vibes and Stuff are
 left intact; Britts and Stas, Nay and Ry, Mr. and Mrs. Micon, and the NORMIES
 credit `V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.` are held for clarification
