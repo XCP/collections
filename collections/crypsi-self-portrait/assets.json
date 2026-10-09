@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BNONONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "BNONTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "BNONTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FEDTIMEFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "FEDTIMEONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "FEDTIMESIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "FEDTIMETHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    }
+  ]
+}
