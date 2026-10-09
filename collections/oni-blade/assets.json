@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "ONIBLADEONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "ONIBLADETWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    }
+  ]
+}

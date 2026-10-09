@@ -1,0 +1,68 @@
+{
+  "assets": [
+    {
+      "asset": "KEKOBRA.PURPLEPROMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA.POSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA.RIPPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA.STORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA.TEEKOBRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
