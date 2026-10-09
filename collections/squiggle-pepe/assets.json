@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "SQUIGGLEPEPE.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "SQUIGGLEPEPE.WuTs_My_CaGr",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESQUIGGLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "SQUIGGLEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

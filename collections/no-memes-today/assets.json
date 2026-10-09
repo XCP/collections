@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "NOMEMESTODAY.POTATOE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "NOMEMESTODAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    }
+  ]
+}

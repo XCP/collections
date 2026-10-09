@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEUBU.Real_Pepe_Ubu",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEUBU.Variation_1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEUBU.Variation_2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEUBU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

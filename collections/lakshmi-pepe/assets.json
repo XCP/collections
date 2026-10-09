@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "LAKSHMIPEPE.GIF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "LAKSHMIPEPE.STAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "LAKSHMIPEPE.ORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "LAKSHMIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
