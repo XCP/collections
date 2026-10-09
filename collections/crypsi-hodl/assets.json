@@ -1,0 +1,186 @@
+{
+  "assets": [
+    {
+      "asset": "HDLBRNTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Earthquake"
+        }
+      ]
+    },
+    {
+      "asset": "HDLVIRTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Virus"
+        }
+      ]
+    },
+    {
+      "asset": "HODLFDFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Flood"
+        }
+      ]
+    },
+    {
+      "asset": "HODLFDFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Flood"
+        }
+      ]
+    },
+    {
+      "asset": "HODLFLFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Flood"
+        }
+      ]
+    },
+    {
+      "asset": "HODLMFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Meteor"
+        }
+      ]
+    },
+    {
+      "asset": "HODLMFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Meteor"
+        }
+      ]
+    },
+    {
+      "asset": "HODLONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "HODL"
+        }
+      ]
+    },
+    {
+      "asset": "HODLQFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Earthquake"
+        }
+      ]
+    },
+    {
+      "asset": "HODLQFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Earthquake"
+        }
+      ]
+    },
+    {
+      "asset": "HODLVFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Virus"
+        }
+      ]
+    },
+    {
+      "asset": "HODLVFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Virus"
+        }
+      ]
+    },
+    {
+      "asset": "HODLVOFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Volcano"
+        }
+      ]
+    },
+    {
+      "asset": "HODLVOFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Work",
+          "value": "Volcano"
+        }
+      ]
+    }
+  ]
+}
