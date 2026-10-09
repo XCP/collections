@@ -1,0 +1,1520 @@
+{
+  "description": "Reviewed expansion of existing explicit collaboration credits into repeated Artist traits. Source labels are retained here as evidence; this is not a runtime name-splitting rule.",
+  "source_commit": "82389c7",
+  "entries": [
+    {
+      "credit": "80sKurt Russell x Early Bird",
+      "artists": [
+        "80sKurtRussel",
+        "Early Bird"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "THEGODFAKA"
+        }
+      ]
+    },
+    {
+      "credit": "80sKurtRussell x Sketch",
+      "artists": [
+        "80sKurtRussel",
+        "Sketch"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "THEBURNCARD"
+        }
+      ]
+    },
+    {
+      "credit": "AWRALPH x Rare Scrilla",
+      "artists": [
+        "AWRALPH",
+        "Rare Scrilla"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "LILPEPEVERT"
+        }
+      ]
+    },
+    {
+      "credit": "AdeKrypto x HaMMad",
+      "artists": [
+        "AdeKrypto",
+        "HAMMAD"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "PEPEMOREMI"
+        }
+      ]
+    },
+    {
+      "credit": "Afonso Caravagio X Aisha Venus",
+      "artists": [
+        "Afonso Caravagio",
+        "Aisha Venus"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEELDERMEN"
+        }
+      ]
+    },
+    {
+      "credit": "Alth0tas x Regan",
+      "artists": [
+        "Alth0tas",
+        "Regan"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "A8008135800813580085"
+        }
+      ]
+    },
+    {
+      "credit": "BIGTOX x LORD",
+      "artists": [
+        "BIGTOX",
+        "LORD"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "BEEPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Basqkek x HODLPIG",
+      "artists": [
+        "BasqKek",
+        "HODLPIG"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "JUSTHODLPEPE.HODLPIG"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "JUSTHODLPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Caravaggio x Vincent Van Dough",
+      "artists": [
+        "Caravaggio",
+        "Vincent Van Dough"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKELAWS"
+        }
+      ]
+    },
+    {
+      "credit": "CrimsonRider x Rey",
+      "artists": [
+        "Crimson Rider",
+        "REY"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEXTASIS"
+        }
+      ]
+    },
+    {
+      "credit": "DJ Q-Bert x Rare Scrilla",
+      "artists": [
+        "DJ QBert",
+        "Rare Scrilla"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEDJPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Dabsky x davesta",
+      "artists": [
+        "Dabsky",
+        "Davesta"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "IRONMACEPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "DarkFluffyRabbit x Darkfarms",
+      "artists": [
+        "DarkFluffyRabbit",
+        "Darkfarms"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEONEPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Dino x Rydes",
+      "artists": [
+        "Dino",
+        "Rydes"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "QUEENOFCARDS"
+        }
+      ]
+    },
+    {
+      "credit": "Ditacrypto and Winds_hit_heavy",
+      "artists": [
+        "ditacrypto",
+        "windshitheavy"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "MINDBLOWNWTF"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "GREENMALIN"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "METAKEKSTAR"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "NEONAPEPE"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "NEXTPEPISODE"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "BLUEMALLIN"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "NAKAMODOUGH"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "GALLERYVIBES"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "WIPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Dr. Greedy x FWD",
+      "artists": [
+        "Dr. Greedy",
+        "FWD"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PLUSHPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "ENDINGSUNDAYS x COIT",
+      "artists": [
+        "ENDINGSUNDAYS",
+        "Coit"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "KERMITACRIME"
+        }
+      ]
+    },
+    {
+      "credit": "El Cholo Pepe x Arwyn",
+      "artists": [
+        "El Cholo Pepe",
+        "Arwyn"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPESUBLIME"
+        }
+      ]
+    },
+    {
+      "credit": "EverydayEarth x RarePepeNews",
+      "artists": [
+        "EverydayEarth",
+        "RarePepeNews"
+      ],
+      "assets": [
+        {
+          "collection": "rare-coco",
+          "asset": "COCOMAN"
+        }
+      ]
+    },
+    {
+      "credit": "FWD X TCH",
+      "artists": [
+        "FWD",
+        "TCH"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "FAKEBAB"
+        }
+      ]
+    },
+    {
+      "credit": "FWD x DJ Kermit",
+      "artists": [
+        "FWD",
+        "DJ Kermit"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "KEKGRAM"
+        }
+      ]
+    },
+    {
+      "credit": "FWD x Dim x Netidx",
+      "artists": [
+        "FWD",
+        "Dim",
+        "netidx"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "KEKMAC"
+        }
+      ]
+    },
+    {
+      "credit": "FWD x MR",
+      "artists": [
+        "FWD",
+        "MR"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKENESS"
+        }
+      ]
+    },
+    {
+      "credit": "Father John x Chaotic Crypto",
+      "artists": [
+        "Father John",
+        "Chaotic Crypto"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEMOSES"
+        }
+      ]
+    },
+    {
+      "credit": "Fishbrain, Luifex, Viva La Vandal",
+      "artists": [
+        "Fishbrain",
+        "Luifex",
+        "Viva La Vandal"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEBRAIN"
+        }
+      ]
+    },
+    {
+      "credit": "FitzRoy x Arno",
+      "artists": [
+        "FitzRoy",
+        "Arno"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "YESDADDY"
+        }
+      ]
+    },
+    {
+      "credit": "GirlzGonePepe x PepeGuyKek",
+      "artists": [
+        "GirlzGonePepe",
+        "PepeGuyKek"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "FKVARSITYPEP"
+        }
+      ]
+    },
+    {
+      "credit": "Hammad x Doge-Style",
+      "artists": [
+        "HAMMAD",
+        "DOGE-STYLE"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "XASSETHOLDIN"
+        }
+      ]
+    },
+    {
+      "credit": "Hilman x Anto",
+      "artists": [
+        "Hilman",
+        "Anto"
+      ],
+      "assets": [
+        {
+          "collection": "rare-coco",
+          "asset": "RIDEWTIHFREN"
+        }
+      ]
+    },
+    {
+      "credit": "Ill Bill x VIVALAVANDAL x Rare Scrilla",
+      "artists": [
+        "Ill Bill",
+        "Viva La Vandal",
+        "Rare Scrilla"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "SCRILLBILL"
+        }
+      ]
+    },
+    {
+      "credit": "Indelible and Ghostface Killah",
+      "artists": [
+        "Indelible",
+        "Ghostface Killah"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEAFGHOST"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEGHOST"
+        }
+      ]
+    },
+    {
+      "credit": "Indelible and WetPotatoBrain",
+      "artists": [
+        "Indelible",
+        "WetPotatoBrain"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEDENZA"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEORBITS"
+        }
+      ]
+    },
+    {
+      "credit": "JB x The Genius x Master Yang",
+      "artists": [
+        "JB",
+        "The Genius",
+        "Master Yang"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PROOFOFCHAD"
+        }
+      ]
+    },
+    {
+      "credit": "Kaph Resh and Prefer Wealth",
+      "artists": [
+        "Kaph Resh",
+        "Prefer Wealth"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "DREAMTEAM"
+        }
+      ]
+    },
+    {
+      "credit": "Kevo-B x Monday Motion",
+      "artists": [
+        "Kevo-B",
+        "MONDAY MOTION"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "PEPETRUTHS"
+        }
+      ]
+    },
+    {
+      "credit": "Kevo-B x nogoodboypoints",
+      "artists": [
+        "Kevo-B",
+        "Nogoodboypoints"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "DANKJUDGMENT"
+        }
+      ]
+    },
+    {
+      "credit": "Kevo-b x Dogestyle",
+      "artists": [
+        "Kevo-B",
+        "DOGE-STYLE"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "SWANALDO"
+        }
+      ]
+    },
+    {
+      "credit": "Lord Jamie V Shill x Dita Crypto",
+      "artists": [
+        "Lord Jamie V. Shill",
+        "ditacrypto"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "FKTHRILLER"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPELUCI"
+        }
+      ]
+    },
+    {
+      "credit": "Luna x Al x Pepe",
+      "artists": [
+        "Luna",
+        "Al",
+        "Pepe"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "DEVELOPEPER"
+        }
+      ]
+    },
+    {
+      "credit": "Mandarinemarie and TESTIIPROD",
+      "artists": [
+        "Mandarinemarie",
+        "TESTIIPROD"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "PAPPYPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Master Yin and Master Yang",
+      "artists": [
+        "Master Yin",
+        "Master Yang"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPAAGOTCHI"
+        }
+      ]
+    },
+    {
+      "credit": "Melk and Pepe De Medici",
+      "artists": [
+        "Melk",
+        "Pepe de medici"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "FEELINAWAY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "INPURSUITOF"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "GOTTADANCE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "REBORNPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "CAKETRUKPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "RUDBOYPHUNCH"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPEFY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "HUSLEVERYDAY.VISUALS"
+        },
+        {
+          "collection": "dank-rares",
+          "asset": "CONGENITALHP"
+        }
+      ]
+    },
+    {
+      "credit": "MemeKingArt x subterranean",
+      "artists": [
+        "MemeKingArt",
+        "subterranean"
+      ],
+      "assets": [
+        {
+          "collection": "the-wojak-way",
+          "asset": "WOJAKFOCUS"
+        }
+      ]
+    },
+    {
+      "credit": "Mike in Space and WhoIsIt",
+      "artists": [
+        "Mike in Space",
+        "Whoisit"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKARESIST"
+        }
+      ]
+    },
+    {
+      "credit": "Mr Hansel and Ghostface Killah",
+      "artists": [
+        "Mr Hansel",
+        "Ghostface Killah"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKETONY"
+        }
+      ]
+    },
+    {
+      "credit": "Mr. P x Stack",
+      "artists": [
+        "Mr. P",
+        "Stack"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKECEZANNE"
+        }
+      ]
+    },
+    {
+      "credit": "Mr.P x Stack",
+      "artists": [
+        "Mr. P",
+        "Stack"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PURPLENUDE"
+        }
+      ]
+    },
+    {
+      "credit": "Mrs. Micon x Doctor Phoenix",
+      "artists": [
+        "Mrs. Micon",
+        "Doctor Phoenix"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEPEPA"
+        }
+      ]
+    },
+    {
+      "credit": "Mumbling Bearded Freak and Deep Honey",
+      "artists": [
+        "Mumbling Bearded Freak",
+        "Deep Honey"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKELORDKEK"
+        }
+      ]
+    },
+    {
+      "credit": "Mumbling Bearded Freak and Kaph Resh",
+      "artists": [
+        "Mumbling Bearded Freak",
+        "Kaph Resh"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "STOPTHEFAKE"
+        }
+      ]
+    },
+    {
+      "credit": "NFTMANC x VIVA LA VANDAL",
+      "artists": [
+        "NFTMANC",
+        "Viva La Vandal"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "DANKBETTY"
+        }
+      ]
+    },
+    {
+      "credit": "Naime X Meysvm",
+      "artists": [
+        "Naime",
+        "Meysvm"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "FAKEGMPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Ollie x Arwyn",
+      "artists": [
+        "Ollie",
+        "Arwyn"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "DANKGOD.DANK8LIEN"
+        }
+      ]
+    },
+    {
+      "credit": "PUR X FWD",
+      "artists": [
+        "PUR",
+        "FWD"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "BELTRACCHI"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "HELLOBYE.GREEN"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEEGG"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "HELLOBYE"
+        }
+      ]
+    },
+    {
+      "credit": "Pepe Inside x Hammad",
+      "artists": [
+        "Pepe Inside",
+        "HAMMAD"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "WHERESHAL"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "KREMLINPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Pepe de Medici x Monday Motion",
+      "artists": [
+        "Pepe de medici",
+        "MONDAY MOTION"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "PEPELUXURY"
+        }
+      ]
+    },
+    {
+      "credit": "Prez1 x Kane Mayfield",
+      "artists": [
+        "Prez1",
+        "Kane Mayfield"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEBEACHPEP"
+        }
+      ]
+    },
+    {
+      "credit": "ROBNESS V2 x PEEPS",
+      "artists": [
+        "Robness",
+        "PEEPS"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "RARESTPASS"
+        }
+      ]
+    },
+    {
+      "credit": "ROBNESS x PEEPS",
+      "artists": [
+        "Robness",
+        "PEEPS"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "NEWPEPEDESU"
+        }
+      ]
+    },
+    {
+      "credit": "Radar X Jose Burrito",
+      "artists": [
+        "Radar",
+        "Jose Burrito"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "SKELANDOREE"
+        }
+      ]
+    },
+    {
+      "credit": "Rare Scrilla and Ghostface Killah",
+      "artists": [
+        "Rare Scrilla",
+        "Ghostface Killah"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "GHOSTFAKE"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "FAKENUTMEG"
+        }
+      ]
+    },
+    {
+      "credit": "Rare Scrilla x VLAD COSTEA",
+      "artists": [
+        "Rare Scrilla",
+        "VLAD COSTEA"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEBTCTKVR"
+        }
+      ]
+    },
+    {
+      "credit": "Regan X Lenny",
+      "artists": [
+        "Regan",
+        "Lenny"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "FAILDANK"
+        }
+      ]
+    },
+    {
+      "credit": "Sir Barry Gibb and Maya",
+      "artists": [
+        "Sir Barry Gibb",
+        "Maya"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "PEPEISDED.STORY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPEISDED.FAKAKILLEDPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPEISDED.T-SHIRT_3"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPEISDED.T-SHIRT_2"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPEISDED.T-Shirt_1"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPEISDED"
+        }
+      ]
+    },
+    {
+      "credit": "Sketch x 80sKurt Russell",
+      "artists": [
+        "Sketch",
+        "80sKurtRussel"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEFICTION"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "THEREBUILD"
+        }
+      ]
+    },
+    {
+      "credit": "Sketch x 80sKurt x Early Bird",
+      "artists": [
+        "Sketch",
+        "80sKurtRussel",
+        "Early Bird"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "DANKHEISTT"
+        }
+      ]
+    },
+    {
+      "credit": "SteveWeave x kevo-b",
+      "artists": [
+        "SteveWeave",
+        "Kevo-B"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "JESUSBOBO"
+        }
+      ]
+    },
+    {
+      "credit": "TESTIIPROD x Mandarinemarie",
+      "artists": [
+        "TESTIIPROD",
+        "Mandarinemarie"
+      ],
+      "assets": [
+        {
+          "collection": "the-wojak-way",
+          "asset": "WOJAKGASBOB"
+        }
+      ]
+    },
+    {
+      "credit": "ThePark x 80sKurtRussell",
+      "artists": [
+        "The Park",
+        "80sKurtRussel"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKESTREETS"
+        }
+      ]
+    },
+    {
+      "credit": "Theo Goodman x MC Fanny",
+      "artists": [
+        "Theo Goodman",
+        "MC Fanny"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "BERTRANDRAP"
+        }
+      ]
+    },
+    {
+      "credit": "VEGA AND ERIC DAYTON",
+      "artists": [
+        "VEGA",
+        "ERIC DAYTON"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPEGRAIL"
+        }
+      ]
+    },
+    {
+      "credit": "VIVALAVANDAL x ShowerShoes",
+      "artists": [
+        "Viva La Vandal",
+        "ShowerShoes"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "PEPELAVANDAL"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPELEVANDAL"
+        }
+      ]
+    },
+    {
+      "credit": "VSTRVL & Chrome Void",
+      "artists": [
+        "VSTRVL",
+        "Chrome Void"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "INFILTRVTE"
+        }
+      ]
+    },
+    {
+      "credit": "Virtual AK x Fried",
+      "artists": [
+        "Virtual AK",
+        "Fried"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "USDPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "Viva La Vandal x 80sKurt Russell x Sketch",
+      "artists": [
+        "Viva La Vandal",
+        "80sKurtRussel",
+        "Sketch"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEDREAMZ"
+        }
+      ]
+    },
+    {
+      "credit": "Viva La Vandal x ShowerShoes",
+      "artists": [
+        "Viva La Vandal",
+        "ShowerShoes"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "PEPELAVANDAL.PEPELON"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPELEVANDAL.PEPEPHELPS"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PEPELAVANDAL.FAKEYE"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "PEPIO"
+        }
+      ]
+    },
+    {
+      "credit": "WHOISIT and Dreamz She Wrote",
+      "artists": [
+        "Whoisit",
+        "Dreamz She Wrote"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPECOMMON"
+        }
+      ]
+    },
+    {
+      "credit": "ZETRA x PurpleDrank7855",
+      "artists": [
+        "ZETRA",
+        "PurpleDrank7855"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FIATDEATH"
+        }
+      ]
+    },
+    {
+      "credit": "davesta & admodum",
+      "artists": [
+        "Davesta",
+        "admodum"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPENEAL"
+        }
+      ]
+    },
+    {
+      "credit": "davesta x Le Hues",
+      "artists": [
+        "Davesta",
+        "Le Hues"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "TIMELINEXCP"
+        }
+      ]
+    },
+    {
+      "credit": "dontbesovasya and IlyaShapko",
+      "artists": [
+        "dontbesovasya",
+        "IlyaShapko"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPERUN"
+        }
+      ]
+    },
+    {
+      "credit": "drazestan X Monday Motion",
+      "artists": [
+        "drazestan",
+        "MONDAY MOTION"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "LETTUCEAUCT"
+        }
+      ]
+    },
+    {
+      "credit": "loground x vorksee",
+      "artists": [
+        "loground",
+        "vorksee"
+      ],
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PERTAWAVE"
+        }
+      ]
+    },
+    {
+      "credit": "mort x INSIDE",
+      "artists": [
+        "Mort",
+        "INSIDE"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "DANKZOMBIE"
+        }
+      ]
+    },
+    {
+      "credit": "psyfrogger x subterranean",
+      "artists": [
+        "psyfrogger",
+        "subterranean"
+      ],
+      "assets": [
+        {
+          "collection": "rare-coco",
+          "asset": "OLDFRIENDS"
+        },
+        {
+          "collection": "rare-coco",
+          "asset": "KINGCOCO"
+        }
+      ]
+    },
+    {
+      "credit": "realPepstein x Rare Designer",
+      "artists": [
+        "realPepstein",
+        "RareDesigner"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "HIDEYOKIDS"
+        }
+      ]
+    },
+    {
+      "credit": "rocco x williewaze",
+      "artists": [
+        "Rocco",
+        "williewaze"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "OSHIDANKCITY"
+        }
+      ]
+    }
+  ],
+  "held": [
+    {
+      "credit": "H & Art Block",
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "FAKEDISNEY.BLeU"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "HOODBLEUS"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEQUINTET"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "MADAMPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "HAPPYVISION"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "DANKSEX"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEETOSHI.PRINT"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEETOSHI"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEFAKEGOLD"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "MOONCATPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "ZYNOPHILE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEETOSHI.KEK"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "SIMTHEORY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "NATOPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "BINBINBIN"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "KDRATIO.CAPTURED"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "BINPURP"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "KDRATIO.REAL"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "KDRATIO"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "COLORWHEEL.ORD"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "COLORWHEEL.INSCRIPTION"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "INSCRIPSUN"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FOUNDMYFRENS"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FINDMYFRENS"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "WHEREMYFRENS"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "MATISSE.FLOONEYBIN"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEDISNEY.RARE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKEBLACHE.REAL"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FAKRISTIES"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "OPEEPPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "BOINGBOING"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "COMPEDSUSHI"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "STEVEMCCURRY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "FRENWIN"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PIXELSTUDY"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "PLANCKPEPE"
+        },
+        {
+          "collection": "counterparty",
+          "asset": "YOKOPEPE"
+        },
+        {
+          "collection": "dank-rares",
+          "asset": "DANKWHEEL"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "FAKEBLACHE"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "PEPARIEL"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "FAKEDISNEY"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "FAKEXUEJIYE"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "FAKAWALT"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "COLORWHEEL"
+        }
+      ]
+    },
+    {
+      "credit": "Vibes and Stuff",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PEPEPWRBALL"
+        },
+        {
+          "collection": "fake-commons",
+          "asset": "PEPPESSY"
+        }
+      ]
+    },
+    {
+      "credit": "Mr. and Mrs. Micon",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "VASECTOPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "V2 ROBNESS, (THE ROBNESS), Ground Beef Taxi.",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "NORMIES"
+        }
+      ]
+    },
+    {
+      "credit": "Britts and Stas",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "COLLEGEMONEY"
+        }
+      ]
+    },
+    {
+      "credit": "Nay and Ry",
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "OMARPEPE"
+        }
+      ]
+    }
+  ]
+}

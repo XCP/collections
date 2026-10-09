@@ -1616,7 +1616,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "psyfrogger x subterranean"
+          "value": "psyfrogger"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
         },
         {
           "trait_type": "Series",
@@ -1684,7 +1688,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Hilman x Anto"
+          "value": "Hilman"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Anto"
         },
         {
           "trait_type": "Series",
@@ -2228,7 +2236,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "psyfrogger x subterranean"
+          "value": "psyfrogger"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
         },
         {
           "trait_type": "Series",
@@ -3571,7 +3583,11 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "EverydayEarth x RarePepeNews"
+          "value": "EverydayEarth"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "RarePepeNews"
         },
         {
           "trait_type": "Series",

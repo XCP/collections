@@ -44,6 +44,12 @@ reconcile additions, edits, and removals without contacting individual APIs.
 
 ## Module contract
 
+An artwork may have multiple contributors. Return one `Artist` attribute per
+person, in credit order; do not combine their names into a synthetic artist.
+Repeated Artist traits survive normalization. Preserve studios and individual
+names containing punctuation unless an explicit source identifies separate
+contributors. See [reviewed collaboration credits](collaboration-credits.md).
+
 Asset entries may include `asset_type: "currency"` or `asset_type: "collectible"`.
 Use `currency` for a payment or utility currency, not merely a divisible or
 high-supply asset. Preserve explicit classifications when switching between
