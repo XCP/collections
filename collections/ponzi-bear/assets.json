@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PONZIBEAR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    },
+    {
+      "asset": "PONZIBEAR.RIGHTCLICKSAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    }
+  ]
+}
