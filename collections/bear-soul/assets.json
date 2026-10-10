@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "asset": "BEARSOUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "BEARSOUL.CLOAKFORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "BEARSOUL.FIRSTFORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "BEARSOUL.FIRSTFORM.CLAW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    },
+    {
+      "asset": "BEARSOUL.SECONDFORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

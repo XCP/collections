@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DACHUMPLANDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DACHUMPLANDS.TIMELAPSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    }
+  ]
+}

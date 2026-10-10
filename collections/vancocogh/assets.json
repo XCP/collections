@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "VANCOCOGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "VANCOCOGH.TIMELAPSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    }
+  ]
+}
