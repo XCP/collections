@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "MYPEPEISFAKE.EP2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        }
+      ]
+    },
+    {
+      "asset": "MYPEPEISFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        },
+        {
+          "trait_type": "Series",
+          "value": 25
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

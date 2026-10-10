@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PENNYGREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PENNYGREENPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    }
+  ]
+}

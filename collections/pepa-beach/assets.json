@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPABEACH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABEACHPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    }
+  ]
+}

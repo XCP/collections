@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "NAUFRAGHPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    },
+    {
+      "asset": "THENAUFRAGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 25
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
