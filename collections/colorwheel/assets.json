@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "COLORWHEEL.ORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "COLORWHEEL.INSCRIPTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "COLORWHEEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        },
+        {
+          "trait_type": "Series",
+          "value": 30
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

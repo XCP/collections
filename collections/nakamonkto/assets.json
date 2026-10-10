@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "NAKAMONKTO.DISTRESSED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMONKTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

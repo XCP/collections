@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDISNEY.BLeU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDISNEY.RARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDISNEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
