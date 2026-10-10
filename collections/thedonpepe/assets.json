@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "THEDONPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SNUXTONPACK"
+        }
+      ]
+    },
+    {
+      "asset": "THEDONPEPE.FAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SNUXTONPACK"
+        }
+      ]
+    }
+  ]
+}

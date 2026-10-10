@@ -9836,28 +9836,6 @@
       ]
     },
     {
-      "asset": "PEPEROTHKO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Luca"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
-    },
-    {
-      "asset": "PEPEROTHKO.LUCA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Luca"
-        }
-      ]
-    },
-    {
       "asset": "THEPEPEGY",
       "attributes": [
         {
@@ -13762,15 +13740,6 @@
         {
           "trait_type": "Artist",
           "value": "Skife"
-        }
-      ]
-    },
-    {
-      "asset": "THEDONPEPE.FAKA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "SNUXTONPACK"
         }
       ]
     },
@@ -22926,33 +22895,6 @@
         {
           "trait_type": "Artist",
           "value": "Lu Ambriz"
-        }
-      ]
-    },
-    {
-      "asset": "FORKOFF.WAR",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "LycosFreak"
-        }
-      ]
-    },
-    {
-      "asset": "FORKOFF",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "LycosFreak"
-        }
-      ]
-    },
-    {
-      "asset": "FORKOFF.KING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "LycosFreak"
         }
       ]
     },
