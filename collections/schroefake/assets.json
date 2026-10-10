@@ -1,0 +1,85 @@
+{
+  "assets": [
+    {
+      "asset": "SCHROEFAKE.DEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION05",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION01",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION02",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION04",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION03",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE.ALIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "SCHROEFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
