@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "GUDBITMORNIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mortree"
+        }
+      ]
+    },
+    {
+      "asset": "GUDBITMORNST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mortree"
+        }
+      ]
+    }
+  ]
+}
