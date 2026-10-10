@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESOZE",
+      "primary": false,
+      "attributes": []
+    },
+    {
+      "asset": "REALPEPESOZE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "hariram"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEBASYASHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "hariram"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "DONFAUCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "hariram"
+        }
+      ]
+    },
+    {
+      "asset": "DONFAUCIKDR",
+      "primary": false,
+      "attributes": []
+    },
+    {
+      "asset": "TONYJABFAUCI",
+      "primary": false,
+      "attributes": []
+    },
+    {
+      "asset": "DONPEPEFAUCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "hariram"
+        }
+      ]
+    }
+  ]
+}
