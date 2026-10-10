@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "KEKFEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    },
+    {
+      "asset": "KEKFEST.MADEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    }
+  ]
+}
