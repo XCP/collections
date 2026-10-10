@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "GONEPHISHIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        }
+      ]
+    },
+    {
+      "asset": "GONEPHISHIN.BIGPHISH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        }
+      ]
+    }
+  ]
+}
