@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 8,204 assets |
-| Primary memberships | 8,204 |
+| Membership | 8,205 assets |
+| Primary memberships | 8,205 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 18/8,204 (0.2%)<br>Artist: 3,251/8,204 (39.6%) |
+| Traits | Art year: 18/8,205 (0.2%)<br>Artist: 3,252/8,205 (39.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -43,3 +43,7 @@ Reviewed 2026-10-09: the artwork for PEPEGOAT.WIZARD_X_GOAT explicitly credits R
 ## RAREPEPELORE attribution: 2026-10-10
 
 The chain-linked [exact-asset JSON](https://raw.githubusercontent.com/subterranean1/jsons/refs/heads/main/rarepepelore.json) is hosted by subterranean1, signs the work as subterranean, and links that artist’s X and Linktree profiles. Correct the earlier CTC credit to subterranean. Issuance from CTC’s address is not authorship evidence; the card’s dedication to Cody is consistent with a gifted work. This changes only the artist credit.
+
+## OKAYLIGHTHD recovery
+
+Added 2026-10-10 after recovering its original animated artwork from https://raw.githubusercontent.com/parispsalter/forge/main/OKAYLIGHTHD.json . The JSON names the exact asset and issuer 1AStcZCyVeVuMxaXSKfHTcg45qGDZ6Hdxk; the image visibly signs PARISIANFORGE. Original full image: https://i.imgur.com/GFHddrx.gif . It remains in Counterparty pending evidence of a named collection. Metadata supply/lock fields are historical and are not imported as current chain facts.

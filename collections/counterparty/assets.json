@@ -51569,6 +51569,15 @@
           "value": "CMYK"
         }
       ]
+    },
+    {
+      "asset": "OKAYLIGHTHD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ParisianForge"
+        }
+      ]
     }
   ]
 }
