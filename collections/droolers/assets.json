@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DROOLERS.MEDUSA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "DROOLERS",
+      "primary": false
+    }
+  ]
+}

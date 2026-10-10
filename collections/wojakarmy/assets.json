@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKARMY.ASSEMBLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKARMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

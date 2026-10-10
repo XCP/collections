@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DERPYJAGGER.DERPKEITH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "DERPYJAGGER",
+      "primary": false
+    }
+  ]
+}

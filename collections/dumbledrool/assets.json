@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DUMBLEDROOL.DERPHAGRID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "DUMBLEDROOL",
+      "primary": false
+    }
+  ]
+}
