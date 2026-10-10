@@ -39,3 +39,7 @@ TIZARBTCART.TANKMAN and TIZARBTCART.THEFIATMONEIIFRM have unavailable CDN images
 ## Rare Scrilla and Wizard X
 
 Reviewed 2026-10-09: the artwork for PEPEGOAT.WIZARD_X_GOAT explicitly credits RARE SCRILLA X WIZARDX below the image. Retain Rare Scrilla and add the existing canonical Wizard X artist as a separate Artist trait. The asset remains in Counterparty; no attribution change is inferred for the PEPEGOAT parent. Evidence: https://cdn.xcp.io/img/card/PEPEGOAT.WIZARD_X_GOAT .
+
+## RAREPEPELORE attribution: 2026-10-10
+
+The chain-linked [exact-asset JSON](https://raw.githubusercontent.com/subterranean1/jsons/refs/heads/main/rarepepelore.json) is hosted by subterranean1, signs the work as subterranean, and links that artist’s X and Linktree profiles. Correct the earlier CTC credit to subterranean. Issuance from CTC’s address is not authorship evidence; the card’s dedication to Cody is consistent with a gifted work. This changes only the artist credit.

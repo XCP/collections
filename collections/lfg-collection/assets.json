@@ -1,16 +1,34 @@
 {
   "assets": [
     {
-      "asset": "A9735376114921552403"
+      "asset": "A9735376114921552403",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "BEDAYPEPE"
+      "asset": "BEDAYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "BEMINEPEPE"
     },
     {
-      "asset": "BONDIPEPE"
+      "asset": "BONDIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "BUFFALOGAL"
@@ -34,7 +52,13 @@
       "asset": "CODYSIMPSON"
     },
     {
-      "asset": "COPYPASTGOLD"
+      "asset": "COPYPASTGOLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "COUNTERREJOY",
@@ -61,13 +85,31 @@
       "asset": "DNTPEPENIC"
     },
     {
-      "asset": "DOHPEPE"
+      "asset": "DOHPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "DOITPEPE"
+      "asset": "DOITPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "DUHPEPE"
+      "asset": "DUHPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "EGOROYALE",
@@ -79,7 +121,13 @@
       ]
     },
     {
-      "asset": "EHOKAYPEPE"
+      "asset": "EHOKAYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "ELFGXCHAIN",
@@ -132,7 +180,13 @@
       "asset": "FIREHORSELFG"
     },
     {
-      "asset": "FRIENDLYFIRE"
+      "asset": "FRIENDLYFIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "FROGNATION",
@@ -162,13 +216,25 @@
       ]
     },
     {
-      "asset": "FULLFUGGEM"
+      "asset": "FULLFUGGEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "GARDENPEPE"
     },
     {
-      "asset": "GASPPEPE"
+      "asset": "GASPPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "GENERALMEME"
@@ -186,16 +252,40 @@
       ]
     },
     {
-      "asset": "HOPEFORYOU"
+      "asset": "HOPEFORYOU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "HOPEINPEPE"
+      "asset": "HOPEINPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "INCOGNTOPEPE"
+      "asset": "INCOGNTOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "ITSCOMMING"
+      "asset": "ITSCOMMING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "JACKDESIGNER",
@@ -207,10 +297,22 @@
       ]
     },
     {
-      "asset": "JECKALISLAND"
+      "asset": "JECKALISLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "JUNETHIRD"
+      "asset": "JUNETHIRD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "JUSTICELFG",
@@ -246,7 +348,13 @@
       "asset": "KNOTSKAMOTO"
     },
     {
-      "asset": "KONTORONBTC"
+      "asset": "KONTORONBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFGACE"
@@ -312,7 +420,13 @@
       ]
     },
     {
-      "asset": "LFGKEK"
+      "asset": "LFGKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFGLSD"
@@ -445,10 +559,22 @@
       "asset": "LFGTENNIS"
     },
     {
-      "asset": "LFGXCHAIN"
+      "asset": "LFGXCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "LOWFEEKING"
+      "asset": "LOWFEEKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "MANONFIRE"
@@ -460,7 +586,13 @@
       "asset": "MEETLENNY"
     },
     {
-      "asset": "MELTFACES"
+      "asset": "MELTFACES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "MERRIPEPE"
@@ -469,7 +601,13 @@
       "asset": "MOVINGPEPE"
     },
     {
-      "asset": "MYSOUP"
+      "asset": "MYSOUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "NAKAAFRICA",
@@ -493,10 +631,22 @@
       "asset": "NATUREBOY"
     },
     {
-      "asset": "NRFTW"
+      "asset": "NRFTW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "ONETWENTYK"
+      "asset": "ONETWENTYK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "ORANGEFIGHT"
@@ -523,7 +673,13 @@
       "asset": "PEPEFIESTA"
     },
     {
-      "asset": "PEPEFLARE"
+      "asset": "PEPEFLARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPEFOSHUR"
@@ -538,40 +694,94 @@
       "asset": "PEPEISBLISS"
     },
     {
-      "asset": "PEPEJDOG"
+      "asset": "PEPEJDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "PEPELIKALOT"
+      "asset": "PEPELIKALOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "PEPELIKES"
+      "asset": "PEPELIKES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPELUMMIS"
     },
     {
-      "asset": "PEPEMEH"
+      "asset": "PEPEMEH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPENDOGE"
     },
     {
-      "asset": "PEPENOLIKE"
+      "asset": "PEPENOLIKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "PEPEPATEL"
+      "asset": "PEPEPATEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPEPAUL"
     },
     {
-      "asset": "PEPEPINUP"
+      "asset": "PEPEPINUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "PEPEPRESS"
+      "asset": "PEPEPRESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "PEPESMIRK"
+      "asset": "PEPESMIRK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPESURE",
@@ -694,7 +904,13 @@
       "asset": "THESEEKERLFG"
     },
     {
-      "asset": "TOOFUNNYPEPE"
+      "asset": "TOOFUNNYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "TOOWEIRDPEPE",
@@ -706,7 +922,13 @@
       ]
     },
     {
-      "asset": "TREASURYPEPE"
+      "asset": "TREASURYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "TRUDPEPEIGHT"
@@ -724,7 +946,13 @@
       ]
     },
     {
-      "asset": "UNITECRYPTO"
+      "asset": "UNITECRYPTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "WAILINGWOJAK",
@@ -772,7 +1000,13 @@
       ]
     },
     {
-      "asset": "YESSSSPEPE"
+      "asset": "YESSSSPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "YOUANDMELFG",
