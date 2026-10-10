@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEHANDOUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEHANDOUT.SUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    }
+  ]
+}
