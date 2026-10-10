@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEWARHOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wizard X"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEWARHOL.X",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wizard X"
+        }
+      ]
+    }
+  ]
+}
