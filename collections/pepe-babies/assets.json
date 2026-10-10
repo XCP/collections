@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "asset": "DROOLINGPARK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "KIDHAIRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 29
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "LILDJPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
+    },
+    {
+      "asset": "LILDJPEPEWIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 35
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "OGCRYPTOART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "OGCRYPTOART.GREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
+    }
+  ]
+}
