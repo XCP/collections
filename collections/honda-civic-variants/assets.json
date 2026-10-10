@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "HONDACIVIC.TUNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "HONDACIVIC.MONSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "HONDACIVIC.LIMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "HONDACIVIC.LOWRIDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    }
+  ]
+}
