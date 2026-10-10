@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEINDABOX.DISSOLVEDINAIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEINDABOX.DYNAMICS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEINDABOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
