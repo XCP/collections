@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEHAIRPEP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FakeBuddha"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEHAIRPEP.LAFAKAHARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FakeBuddha"
+        }
+      ]
+    }
+  ]
+}
