@@ -1,0 +1,441 @@
+{
+  "assets": [
+    {
+      "asset": "MEWTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "HAIRPUNK.PEPEMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PEBASAUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Celo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "DOGELON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fabrique"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "CATERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M.BTC"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "PEPTOPEPEDOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "CACIOPEPEMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "teymthebeast"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "PEPEUNOWN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "PIKAPEPECHU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BitcoinJake09"
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "PPTERODACTYL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "SPICYPEPEMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "burstMembrane"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "CelestialGreen"
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "PEPEQUAZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "PEPELISAJYNX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "MUDKIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "SWAMPEPERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "BROKCHAINMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crashblossom"
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "PEPELODON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "CHARTIZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "BLAZIKENPEPE",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "SNORKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EM"
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "PEPEBONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Notgod"
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "LILPEPEZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "XCHAINMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Notgod"
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "PEPLETT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jams"
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "PEPELOSAUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ]
+    },
+    {
+      "asset": "SQUERKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kapirasong-dayami"
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "KAPPAPEPEMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "HOMERSAURUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "crashblossom"
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMONMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ]
+    },
+    {
+      "asset": "PEPYGONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BIGTOX"
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ]
+    },
+    {
+      "asset": "RAMBOGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fabrique"
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ]
+    },
+    {
+      "asset": "MEGAPEPEZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ]
+    },
+    {
+      "asset": "PEPPLYPUFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    }
+  ]
+}

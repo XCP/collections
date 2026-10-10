@@ -1,0 +1,9 @@
+{
+  "name": "Pepemon",
+  "kind": "canonical",
+  "description": "A community-created collection of Pepe monster trading cards on Counterparty.",
+  "art_frame": "card",
+  "links": {
+    "website": "https://pepemon.net/"
+  }
+}
