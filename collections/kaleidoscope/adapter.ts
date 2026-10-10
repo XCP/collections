@@ -4,6 +4,11 @@ const SEARCH_URL = "https://kaleidoscopexcp.net/api/search";
 const PAGE_SIZE = 60;
 const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
+// Reviewed original metadata / artwork signatures; see the collection README.
+const REVIEWED_ARTISTS = new Map([
+  ["PEPESHOOD", "subterranean"],
+  ["PEPEFAKERARE", "BIGTOX"],
+]);
 
 // Kaleidoscope is intentionally inclusive. A more specific canonical set
 // keeps primary ownership; the resolver turns that appearance here secondary.
@@ -109,8 +114,7 @@ export async function load({ fetchJson, cache }) {
       asset,
       attributes: [
         { trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId },
-        // Issuer-linked original metadata: github.com/subterranean1/jsons/blob/main/PEPESHOOD.json
-        ...(asset === "PEPESHOOD" ? [{ trait_type: "Artist", value: "subterranean" }] : []),
+        ...(REVIEWED_ARTISTS.has(asset) ? [{ trait_type: "Artist", value: REVIEWED_ARTISTS.get(asset) }] : []),
       ],
     };
   });
