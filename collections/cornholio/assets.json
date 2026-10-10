@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CORNHOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 61
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CORNHOLIO.LASER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    }
+  ]
+}
