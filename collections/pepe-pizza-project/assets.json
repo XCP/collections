@@ -1,0 +1,61 @@
+{
+  "assets": [
+    {
+      "asset": "BLANKPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "ELONPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "HOMERPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "JDOGPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "PIZZAPROJECT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNPIZZA"
+    }
+  ]
+}
