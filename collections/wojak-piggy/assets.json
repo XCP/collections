@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKPIGGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WOJAKPIGGY.GLAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
+    }
+  ]
+}

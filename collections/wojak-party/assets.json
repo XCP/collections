@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WOJAKPARTY.BARBELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CEFFIE"
+        }
+      ]
+    }
+  ]
+}
