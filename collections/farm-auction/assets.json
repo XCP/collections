@@ -1,0 +1,71 @@
+{
+  "assets": [
+    {
+      "asset": "FARMAUCTION.BALLER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION.THANKSGIVING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION.SKETCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION.FAKE",
+      "attributes": []
+    },
+    {
+      "asset": "FARMAUCTION.FAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION.HALLOWEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "FARMAUCTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 272
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

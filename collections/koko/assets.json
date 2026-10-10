@@ -1,0 +1,71 @@
+{
+  "assets": [
+    {
+      "asset": "KOKO.NATURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.KITTEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.ATOMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.CAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.SOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.FAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.JEALOUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO",
+      "attributes": []
+    }
+  ]
+}

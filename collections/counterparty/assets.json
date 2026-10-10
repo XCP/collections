@@ -18808,78 +18808,6 @@
       ]
     },
     {
-      "asset": "KOKO.JEALOUS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.FAKE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.SOS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "PUPS.SHEPHERD",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "PUPS.CHONK",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.KITTEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.NATURE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.CAT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
       "asset": "CORNHOLIO.LASER",
       "attributes": [
         {
@@ -18926,15 +18854,6 @@
     },
     {
       "asset": "DONDA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Wheeler"
-        }
-      ]
-    },
-    {
-      "asset": "KOKO.ATOMO",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -37358,9 +37277,6 @@
       ]
     },
     {
-      "asset": "FAKEWYOMING.709428"
-    },
-    {
       "asset": "KAITRUMP.Awaken"
     },
     {
@@ -38614,16 +38530,10 @@
       "asset": "XCERMINT.6PACK"
     },
     {
-      "asset": "MASKS.0x0008"
-    },
-    {
       "asset": "PINKSHIRTGUY.7"
     },
     {
       "asset": "A11430368194707426367"
-    },
-    {
-      "asset": "MASKS.0x000b"
     },
     {
       "asset": "A11442977150864436860"
@@ -38692,15 +38602,6 @@
       "asset": "SOULPEPE.SUMMER"
     },
     {
-      "asset": "FARMAUCTION.BALLER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MightBeMike"
-        }
-      ]
-    },
-    {
       "asset": "TOMBRAIDER.SIDEB",
       "attributes": [
         {
@@ -38741,15 +38642,6 @@
       "asset": "SHANINBLAKE.Manifest"
     },
     {
-      "asset": "FARMAUCTION.THANKSGIVING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MightBeMike"
-        }
-      ]
-    },
-    {
       "asset": "RARESTSETS.scarcecitynyc2023"
     },
     {
@@ -38760,9 +38652,6 @@
     },
     {
       "asset": "A1179625407175205167"
-    },
-    {
-      "asset": "BITCOINROCK.2"
     },
     {
       "asset": "BLOCKCARD.11"
@@ -38925,9 +38814,6 @@
     },
     {
       "asset": "INERMIS.1"
-    },
-    {
-      "asset": "MASKS.0x000d"
     },
     {
       "asset": "BLACKBOX.Xchain_Server_Hosting"
@@ -39152,9 +39038,6 @@
       "asset": "WEEX.A1672758370327094000"
     },
     {
-      "asset": "BITCOINROCK.0"
-    },
-    {
       "asset": "BTCRN.GOAL"
     },
     {
@@ -39173,9 +39056,6 @@
       "asset": "FRACLUBPEPE.CLUBDANK"
     },
     {
-      "asset": "MASKS.0x0009"
-    },
-    {
       "asset": "BTCNAVATARS.FATBULL"
     },
     {
@@ -39186,9 +39066,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "FAKEWYOMING.709628"
     },
     {
       "asset": "DANK.SPRINT"
@@ -39267,9 +39144,6 @@
     },
     {
       "asset": "DARKCASHGRAB.VINCENT_VAN_NOPE"
-    },
-    {
-      "asset": "BITCOINROCK.3"
     },
     {
       "asset": "QUESTFREN.QUESTFREN.135",
@@ -39390,9 +39264,6 @@
     },
     {
       "asset": "TRIGRAMS.Fire"
-    },
-    {
-      "asset": "FAKEWYOMING.909627"
     },
     {
       "asset": "SCARCECITY.XCP_LEGEND"
@@ -39602,9 +39473,6 @@
       "asset": "EMMAMARKIN.VirgoTheReal"
     },
     {
-      "asset": "MASKS.0x0000"
-    },
-    {
       "asset": "BALDIES.CAROLINE",
       "attributes": [
         {
@@ -39612,9 +39480,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "FAKEWYOMING.709555"
     },
     {
       "asset": "FAKEGRAM.GAMMA"
@@ -39639,15 +39504,6 @@
     },
     {
       "asset": "BLACKBOX.Misc_Donations"
-    },
-    {
-      "asset": "FARMAUCTION.SKETCH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MightBeMike"
-        }
-      ]
     },
     {
       "asset": "CRYPTOARTDIR.SUPERB_ART"
@@ -39803,9 +39659,6 @@
       "asset": "RAREVOLCANO.WHITEPAPER"
     },
     {
-      "asset": "FAKEWYOMING.708803"
-    },
-    {
       "asset": "PEPEMAGPIE.OIL"
     },
     {
@@ -39923,9 +39776,6 @@
       "asset": "PINKSHIRTGUY.6"
     },
     {
-      "asset": "FAKEWYOMING.753484"
-    },
-    {
       "asset": "LOEWYLOOP.Alebrije-Desert-AuroraB"
     },
     {
@@ -39936,12 +39786,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "FAKEWYOMING.909632"
-    },
-    {
-      "asset": "FAKEWYOMING.709431"
     },
     {
       "asset": "COCOCHANEL.JeNeFaisPasLeMeme.JeSuisLeMeme"
@@ -40053,9 +39897,6 @@
     },
     {
       "asset": "SODAPEPENSKI.SIGNED"
-    },
-    {
-      "asset": "FAKEWYOMING.709583"
     },
     {
       "asset": "KONGS.CROCHETPEPE",
@@ -40205,9 +40046,6 @@
       "asset": "FLAMP.AQUA"
     },
     {
-      "asset": "MASKS.0x000e"
-    },
-    {
       "asset": "BLOCKCARD.1"
     },
     {
@@ -40254,9 +40092,6 @@
     },
     {
       "asset": "A1684675629381051700"
-    },
-    {
-      "asset": "FAKEWYOMING.753485"
     },
     {
       "asset": "PEPEALBUM.Pepeen"
@@ -40589,9 +40424,6 @@
       "asset": "PEPEWATER.LAFAKANOSTRA"
     },
     {
-      "asset": "FAKEWYOMING.709424"
-    },
-    {
       "asset": "TUBGIRL.COM"
     },
     {
@@ -40674,9 +40506,6 @@
     },
     {
       "asset": "GOATSE.WEDDINGRING"
-    },
-    {
-      "asset": "FAKEWYOMING.709435"
     },
     {
       "asset": "SOULPEPE.BEAUTY"
@@ -40833,9 +40662,6 @@
     },
     {
       "asset": "PEPEALBUM.The_Eldritch_Pepe"
-    },
-    {
-      "asset": "MASKS.0x0005"
     },
     {
       "asset": "ILLUSTRATO.R_PEPETHOTHFAKE"
@@ -41042,9 +40868,6 @@
       "asset": "PEPERTOY.HISTORY"
     },
     {
-      "asset": "FAKEWYOMING.755353"
-    },
-    {
       "asset": "A2288042306314470700"
     },
     {
@@ -41103,9 +40926,6 @@
     },
     {
       "asset": "GENAUXFGLEAM.ANIMATED"
-    },
-    {
-      "asset": "FAKEWYOMING.738448"
     },
     {
       "asset": "A2415504866170160000"
@@ -41253,9 +41073,6 @@
     },
     {
       "asset": "FORTHETECH.GENESIS"
-    },
-    {
-      "asset": "MASKS.0x0004"
     },
     {
       "asset": "FAUXJHEEZE.NATHANSONIC"
@@ -41427,9 +41244,6 @@
     },
     {
       "asset": "A347162147702845600"
-    },
-    {
-      "asset": "BITCOINROCK.1"
     },
     {
       "asset": "A3516832161418224000",
@@ -41858,9 +41672,6 @@
       "asset": "A4727332526279217000"
     },
     {
-      "asset": "FAKEWYOMING.708800"
-    },
-    {
       "asset": "PEPEALBUM.Heavy_Heavy_Pepe"
     },
     {
@@ -42099,9 +41910,6 @@
       "asset": "SVPEPE.SATURN"
     },
     {
-      "asset": "MASKS.0x0002"
-    },
-    {
       "asset": "BTCSTAMPART.SEVEN",
       "attributes": [
         {
@@ -42211,9 +42019,6 @@
           "value": "Yotet"
         }
       ]
-    },
-    {
-      "asset": "MASKS.0x000c"
     },
     {
       "asset": "A5820901868890286009"
@@ -42528,9 +42333,6 @@
       "asset": "A6458346773125283000"
     },
     {
-      "asset": "FAKEWYOMING.746849"
-    },
-    {
       "asset": "A6474558503148075009"
     },
     {
@@ -42544,9 +42346,6 @@
     },
     {
       "asset": "FROGG.RED"
-    },
-    {
-      "asset": "FAKEWYOMING.709629"
     },
     {
       "asset": "PONZIPEPE.LSD",
@@ -42597,9 +42396,6 @@
       "asset": "A6665564803451677397"
     },
     {
-      "asset": "MASKS.0x0003"
-    },
-    {
       "asset": "A667152631054407443"
     },
     {
@@ -42619,9 +42415,6 @@
     },
     {
       "asset": "RARESTSETS.AUCTIONWINNER"
-    },
-    {
-      "asset": "MASKS.0x0006"
     },
     {
       "asset": "A674349541829321676"
@@ -42876,9 +42669,6 @@
       "asset": "A731018939201832356"
     },
     {
-      "asset": "FAKEWYOMING.783366"
-    },
-    {
       "asset": "FLAMP.PURP"
     },
     {
@@ -42993,15 +42783,6 @@
       "asset": "FAKERARECAP.DARKBLUE"
     },
     {
-      "asset": "FARMAUCTION.FAUX",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MightBeMike"
-        }
-      ]
-    },
-    {
       "asset": "SUCCESSDANK.WOJAK"
     },
     {
@@ -43098,9 +42879,6 @@
       ]
     },
     {
-      "asset": "MASKS.0x000f"
-    },
-    {
       "asset": "TRAVOLTA.BitcoinStampTest"
     },
     {
@@ -43174,12 +42952,6 @@
     },
     {
       "asset": "PEPEFINEART.MADONNAPEPE"
-    },
-    {
-      "asset": "MASKS.0x0001"
-    },
-    {
-      "asset": "FAKEWYOMING.738597"
     },
     {
       "asset": "A798193895127754500",
@@ -43788,9 +43560,6 @@
       "asset": "PEPEWATER.FAKEBASEL2022.DESULTOR"
     },
     {
-      "asset": "MASKS.0x0007"
-    },
-    {
       "asset": "A940306458608321954"
     },
     {
@@ -43893,9 +43662,6 @@
       "asset": "THEENIGMA.DOUBT"
     },
     {
-      "asset": "FAKEWYOMING.715140"
-    },
-    {
       "asset": "RARESCRILLA.FRAMED_4ELE_SC_11_3_21",
       "attributes": [
         {
@@ -43922,15 +43688,6 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
-        }
-      ]
-    },
-    {
-      "asset": "FARMAUCTION.HALLOWEEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "MightBeMike"
         }
       ]
     },
@@ -43981,9 +43738,6 @@
     },
     {
       "asset": "MOURNINGMOOS.BEYONDBARNYARD"
-    },
-    {
-      "asset": "MASKS.0x000a"
     },
     {
       "asset": "A9918753434359284000",
@@ -50997,9 +50751,6 @@
       "asset": "MELINDAGATES"
     },
     {
-      "asset": "MELTEM"
-    },
-    {
       "asset": "MEMEALPHA"
     },
     {
@@ -54535,9 +54286,6 @@
     },
     {
       "asset": "PETEHEGSETH"
-    },
-    {
-      "asset": "PETERSCHIFF"
     },
     {
       "asset": "PETRIDISHPEP"
