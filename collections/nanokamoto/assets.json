@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "NANOKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "NANOKAMOTO.1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
+    }
+  ]
+}
