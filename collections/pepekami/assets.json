@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEKAMI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melih Polat"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEKAMIPSCL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melih Polat"
+        }
+      ]
+    }
+  ]
+}

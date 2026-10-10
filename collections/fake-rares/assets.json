@@ -13400,6 +13400,10 @@
         {
           "trait_type": "Card",
           "value": 47
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
         }
       ]
     },
@@ -13757,6 +13761,10 @@
         {
           "trait_type": "Card",
           "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
         }
       ]
     },

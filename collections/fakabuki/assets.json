@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKABUKI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melih Polat"
+        }
+      ]
+    },
+    {
+      "asset": "FAKABUKIPSCL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melih Polat"
+        }
+      ]
+    }
+  ]
+}
