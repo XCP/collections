@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "COUNTERWRATH.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
+    },
+    {
+      "asset": "COUNTERWRATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
