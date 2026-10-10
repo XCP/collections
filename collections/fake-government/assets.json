@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEGVRMNT.Physic",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEGVRMNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

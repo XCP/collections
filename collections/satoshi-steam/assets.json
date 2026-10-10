@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SATOSHISTEAM.WIPPHYSICAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISTEAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 22
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

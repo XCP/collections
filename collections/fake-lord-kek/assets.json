@@ -1,0 +1,75 @@
+{
+  "assets": [
+    {
+      "asset": "FAKELORDKEK.PURP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
+    },
+    {
+      "asset": "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
+    },
+    {
+      "asset": "FAKELORDKEK.SACRIFICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Deep Honey"
+        }
+      ]
+    },
+    {
+      "asset": "FAKELORDKEK.DANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 23
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKELORDKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Deep Honey"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

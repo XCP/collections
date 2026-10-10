@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPALPHAMAXI.Delta8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
+    },
+    {
+      "asset": "PEPALPHAMAXI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 38
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
