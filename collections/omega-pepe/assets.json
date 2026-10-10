@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "OMEGAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "OMEGAPEPE.FOILCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ]
+    }
+  ]
+}

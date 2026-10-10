@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "HUCKAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HUCKAPEPE.RARECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ]
+    }
+  ]
+}
