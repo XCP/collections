@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESCIENCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKESCIENCE.PALETTE",
+      "attributes": []
+    }
+  ]
+}

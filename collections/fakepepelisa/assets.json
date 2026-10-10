@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPEPELISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEPEPELISA.DYORZURICH22",
+      "attributes": []
+    },
+    {
+      "asset": "FAKEPEPELISA.GENESISOF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPELISA.NFTNYC22",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

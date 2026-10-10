@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMAGPIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEMAGPIE.OIL",
+      "attributes": []
+    }
+  ]
+}

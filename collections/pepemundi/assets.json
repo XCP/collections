@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMUNDI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEMUNDI.LAFAKASMESSAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMUNDI.PALETTE",
+      "attributes": []
+    }
+  ]
+}
