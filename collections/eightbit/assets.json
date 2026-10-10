@@ -21,7 +21,12 @@
     },
     {
       "asset": "EIGHTBIT.PEPE",
-      "attributes": [],
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ],
       "primary": false
     }
   ]
