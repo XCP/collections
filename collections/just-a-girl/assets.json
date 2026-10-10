@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "JUSTAGIRL.Bedroom_Pose",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DesktopCommando"
+        }
+      ]
+    },
+    {
+      "asset": "JUSTAGIRL.Bathroom_Selfie",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DesktopCommando"
+        }
+      ]
+    }
+  ]
+}

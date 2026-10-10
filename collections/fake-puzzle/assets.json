@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPUZZLE.FAKERARESI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DesktopCommando"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPUZZLE.FAKERARES2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DesktopCommando"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPUZZLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DesktopCommando"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
