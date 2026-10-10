@@ -1736,15 +1736,6 @@
       ]
     },
     {
-      "asset": "GREYWAVE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "HNFT Pepe"
-        }
-      ]
-    },
-    {
       "asset": "NAKAHONEYPOT",
       "attributes": [
         {
@@ -8660,15 +8651,6 @@
       ]
     },
     {
-      "asset": "CUBISMGREY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "HNFT Pepe"
-        }
-      ]
-    },
-    {
       "asset": "CONEHEADS",
       "attributes": [
         {
@@ -13380,15 +13362,6 @@
     },
     {
       "asset": "DJTRIPLEMIKE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Michael Naples"
-        }
-      ]
-    },
-    {
-      "asset": "COSMISEER",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -21243,15 +21216,6 @@
     },
     {
       "asset": "TREEOFBRBJP",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arwyn"
-        }
-      ]
-    },
-    {
-      "asset": "SGONEGREY",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31991,33 +31955,6 @@
     },
     {
       "asset": "FAKEMERCHANT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "RAHVO"
-        }
-      ]
-    },
-    {
-      "asset": "GREYWELDER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "RAHVO"
-        }
-      ]
-    },
-    {
-      "asset": "GREYTAPESTRY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "RAHVO"
-        }
-      ]
-    },
-    {
-      "asset": "GREYBARBER",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -45952,9 +45889,6 @@
       "asset": "EXPERTPEPE"
     },
     {
-      "asset": "EXTRAGREY"
-    },
-    {
       "asset": "EYEATOLLAH"
     },
     {
@@ -47587,21 +47521,6 @@
       ]
     },
     {
-      "asset": "GREYCENTRIC"
-    },
-    {
-      "asset": "GREYFAKER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Darky"
-        }
-      ]
-    },
-    {
-      "asset": "GREYSAVIOR"
-    },
-    {
       "asset": "GRINRPRPEPE"
     },
     {
@@ -48577,9 +48496,6 @@
       "asset": "JUDGMENTSAC"
     },
     {
-      "asset": "JUSTAWIG"
-    },
-    {
       "asset": "JUSTBEHAPEPE"
     },
     {
@@ -49485,9 +49401,6 @@
     },
     {
       "asset": "MARQUIS"
-    },
-    {
-      "asset": "MARVINGREY"
     },
     {
       "asset": "MASALULU"
@@ -51085,9 +50998,6 @@
     },
     {
       "asset": "OSAKAGOLD"
-    },
-    {
-      "asset": "OSCARTHEGREY"
     },
     {
       "asset": "OSCTOKYO"
@@ -54369,9 +54279,6 @@
       "asset": "ROSWELLPEPE"
     },
     {
-      "asset": "ROSWELLSOUP"
-    },
-    {
       "asset": "ROTHERDAM"
     },
     {
@@ -55962,9 +55869,6 @@
       "asset": "TOEKING"
     },
     {
-      "asset": "TOEROGAN"
-    },
-    {
       "asset": "TOKENEYEZ"
     },
     {
@@ -56149,9 +56053,6 @@
           "value": "Phake"
         }
       ]
-    },
-    {
-      "asset": "TRISOLARIS"
     },
     {
       "asset": "TROJANFROG"

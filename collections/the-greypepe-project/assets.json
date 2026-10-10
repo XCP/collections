@@ -16,7 +16,34 @@
       ]
     },
     {
+      "asset": "COSMISEER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
+    },
+    {
+      "asset": "CUBISMGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
       "asset": "CULTUREGREY"
+    },
+    {
+      "asset": "EXTRAGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "FEELSGREYMAN"
@@ -67,10 +94,37 @@
       "asset": "GREYAREAPEPE"
     },
     {
+      "asset": "GREYBARBER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "GREYCENTRIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
+    },
+    {
       "asset": "GREYCIRCLE"
     },
     {
       "asset": "GREYDJPEPE"
+    },
+    {
+      "asset": "GREYFAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
     },
     {
       "asset": "GREYGALAXY",
@@ -97,7 +151,20 @@
       "asset": "GREYPEPEPSA"
     },
     {
+      "asset": "GREYPIGEON",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
       "asset": "GREYSATOSHI"
+    },
+    {
+      "asset": "GREYSAVIOR"
     },
     {
       "asset": "GREYSCALE"
@@ -106,10 +173,37 @@
       "asset": "GREYSIGNAL"
     },
     {
+      "asset": "GREYTAPESTRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
       "asset": "GREYTRUMP"
     },
     {
       "asset": "GREYTWHTPEPE"
+    },
+    {
+      "asset": "GREYWAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
+      "asset": "GREYWELDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
     },
     {
       "asset": "GREYWHALIEN"
@@ -142,7 +236,25 @@
       "asset": "IWANTTOKEK"
     },
     {
+      "asset": "JUSTAWIG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "zederwan"
+        }
+      ]
+    },
+    {
       "asset": "LADYGREY"
+    },
+    {
+      "asset": "MARVINGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Burn"
+        }
+      ]
     },
     {
       "asset": "MENINGREY"
@@ -169,10 +281,37 @@
       ]
     },
     {
+      "asset": "OSCARTHEGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Denim_Dee"
+        }
+      ]
+    },
+    {
       "asset": "PEEKABOOGREY"
     },
     {
       "asset": "PEPEANUNNAKI"
+    },
+    {
+      "asset": "ROSWELLSOUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "zederwan"
+        }
+      ]
+    },
+    {
+      "asset": "SGONEGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "SHADESOFGREY",
@@ -194,6 +333,24 @@
     },
     {
       "asset": "THEGREYPEPES"
+    },
+    {
+      "asset": "TOEROGAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
+    },
+    {
+      "asset": "TRISOLARIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "UFOMO",
