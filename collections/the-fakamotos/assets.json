@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "THEFAKAMOTOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "THEFAKAMOTOS.56",
       "attributes": [
         {

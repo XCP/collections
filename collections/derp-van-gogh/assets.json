@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "asset": "DERPVANGOGH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "DERPVANGOGH.CLOUDS",
       "attributes": [
         {

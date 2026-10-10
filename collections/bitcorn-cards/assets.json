@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "CORNGEISHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 257
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "BITCORNCARDS.CORNGEISHA",
       "attributes": [
         {

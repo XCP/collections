@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "VAPORMAGIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 20
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "VAPORMAGIC.EKO",
       "attributes": [
         {

@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "NAMJUNEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "NAMJUNEPEPE.1963_ZEN_FOR_FAKES",
       "attributes": [
         {

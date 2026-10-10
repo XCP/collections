@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "DJPEPEBADGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "DJPEPEBADGER.A-FULL-MOON-NIGHT",
       "attributes": [
         {

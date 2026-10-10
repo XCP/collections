@@ -6,9 +6,13 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 29 assets |
+| Membership | 30 assets |
 | Primary memberships | 29 |
-| Secondary or curated memberships | 0 |
+| Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 29/29 (100%) |
+| Traits | Artist: 30/30 (100%) |
 <!-- collection-facts:end -->
+
+## Parent artwork
+
+SQUIDAPEGAME is included secondarily as the related parent artwork. Its primary home remains drooling-ape-bus-club. Reviewed 2026-10-10 against the explicit namespace and CDN artwork; existing parent artist credits are preserved independently of its children.
