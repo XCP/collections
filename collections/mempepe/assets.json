@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "MEMPEPE.ONCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMPEPE.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMPEPE.GREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMPEPE.GREY2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMPEPE.CYAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMPEPE.MAGENTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    }
+  ]
+}

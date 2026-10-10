@@ -28291,24 +28291,6 @@
       ]
     },
     {
-      "asset": "MEMEGREEN.MEMEPRESSIONISM",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMEGREEN.REFERENCE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
       "asset": "TYPESOFMEMES",
       "attributes": [
         {
@@ -28327,97 +28309,7 @@
       ]
     },
     {
-      "asset": "PEPEMEMECOIN.S1N6",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Darky"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMEMECOIN.S1N4",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Zuriel"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMEMECOIN.S1N2",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "subterranean"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMEMECOIN.S1N1",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMEMECOIN.ALPHA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "FIVEMEODMT.BLUEPOND",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "FIVEMEODMT.MEMEPOND",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "WHATTHEYTOOK.FITNESS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
       "asset": "KEKOLITH",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "FIVEMEODMT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "WHATTHEYTOOK",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -36492,96 +36384,6 @@
         {
           "trait_type": "Artist",
           "value": "halluciphile"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.ONCHAIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.PURPLE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.GREY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.GREY2",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.CYAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMPEPE.MAGENTA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMESTACKS.SPRING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMESTACKS.SUMMER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMESTACKS.AUTUMN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
-        }
-      ]
-    },
-    {
-      "asset": "MEMESTACKS.WINTER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Memeticx"
         }
       ]
     },

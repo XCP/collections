@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "MEMEGREEN.MEMEPRESSIONISM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMEGREEN.REFERENCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMEGREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
