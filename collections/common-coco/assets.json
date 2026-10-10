@@ -163,7 +163,13 @@
       "asset": "COCODILE"
     },
     {
-      "asset": "COCODILE.tears"
+      "asset": "COCODILE.tears",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "COCODILES"

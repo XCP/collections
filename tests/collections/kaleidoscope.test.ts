@@ -48,3 +48,15 @@ test("fails closed if the source changes while pages are being read", async () =
     /total changed during pagination/,
   );
 });
+
+test("preserves the reviewed PEPESHOOD credit across API refreshes without creating membership", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "PEPESHOOD";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, fixture.items.length);
+  assert.deepEqual(assets[0].attributes, [
+    { trait_type: "Kaleidoscope ID", value: 2380 },
+    { trait_type: "Artist", value: "subterranean" },
+  ]);
+  assert.ok(assets.slice(1).every(asset => !asset.attributes.some(trait => trait.trait_type === "Artist")));
+});

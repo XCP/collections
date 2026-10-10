@@ -677,7 +677,13 @@
       ]
     },
     {
-      "asset": "PEPELETTER"
+      "asset": "PEPELETTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "PEPEMELANIA"

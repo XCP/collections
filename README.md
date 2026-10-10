@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 669 |
-| Canonical collections | 665 |
+| Collections | 670 |
+| Canonical collections | 666 |
 | Curated views | 4 |
 | Explicit unique assets | 64,526 |
-| Explicit collection memberships | 65,507 |
+| Explicit collection memberships | 65,508 |
 | Primary memberships | 64,526 |
-| Secondary or curated memberships | 981 |
-| Memberships with traits | 33,742 |
+| Secondary or curated memberships | 982 |
+| Memberships with traits | 33,759 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 666 |
+| Reviewed static `assets.json` | 667 |
 | Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |

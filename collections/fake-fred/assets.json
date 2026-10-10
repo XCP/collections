@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPARTY.FAKEMEMORIES1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nipdog"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPARTY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nipdog"
+        }
+      ]
+    }
+  ]
+}

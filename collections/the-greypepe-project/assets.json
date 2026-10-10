@@ -206,7 +206,13 @@
       ]
     },
     {
-      "asset": "GREYWHALIEN"
+      "asset": "GREYWHALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "GRISPEPE",

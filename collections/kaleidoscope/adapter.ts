@@ -107,7 +107,11 @@ export async function load({ fetchJson, cache }) {
     assets.add(asset);
     return {
       asset,
-      attributes: [{ trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId }],
+      attributes: [
+        { trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId },
+        // Issuer-linked original metadata: github.com/subterranean1/jsons/blob/main/PEPESHOOD.json
+        ...(asset === "PEPESHOOD" ? [{ trait_type: "Artist", value: "subterranean" }] : []),
+      ],
     };
   });
 }
