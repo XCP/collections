@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETOON.ROPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
+    }
+  ]
+}

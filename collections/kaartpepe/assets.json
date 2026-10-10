@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "KAARTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "KAARTPEPE.DASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
+    }
+  ]
+}
