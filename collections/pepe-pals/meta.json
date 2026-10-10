@@ -1,7 +1,10 @@
 {
   "name": "Pepe Pals",
   "kind": "canonical",
-  "description": "BitcoinJake09's Pepe Pals.",
+  "description": "A community art project featuring Pepe and his pals.",
   "art_frame": "card",
-  "founded": 2022
+  "founded": 2022,
+  "links": {
+    "website": "https://pepepalsbtc.github.io/"
+  }
 }

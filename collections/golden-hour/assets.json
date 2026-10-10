@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "GOLDENHOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Paolo Cremona"
+        }
+      ]
+    },
+    {
+      "asset": "MIKAHOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Paolo Cremona"
+        }
+      ]
+    }
+  ]
+}

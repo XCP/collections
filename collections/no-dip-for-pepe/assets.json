@@ -80,6 +80,15 @@
           "value": "BitcoinJake09"
         }
       ]
+    },
+    {
+      "asset": "PEPERITOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BitcoinJake09"
+        }
+      ]
     }
   ]
 }
