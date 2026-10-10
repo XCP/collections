@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "COMMONFORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "COMMONFORK.PEPECASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    }
+  ]
+}

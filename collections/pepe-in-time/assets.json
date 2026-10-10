@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEINTIME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEINTIME.SUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    }
+  ]
+}

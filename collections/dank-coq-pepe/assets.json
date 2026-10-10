@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DANKCOQPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DANKCOQPEPE.FREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    }
+  ]
+}
