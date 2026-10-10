@@ -1,0 +1,184 @@
+{
+  "assets": [
+    {
+      "asset": "HODLHALPEPE.FAKATOMATA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "HODLPIGPEPE.LAFAKATAGGED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "DAWNOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FORKEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HASHGRABPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HODLHALPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HODLPIGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEDROPOUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEGRAMS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHILWILSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RUGPULLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SILKTOADPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WINKLEVIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
