@@ -1,0 +1,223 @@
+{
+  "assets": [
+    {
+      "asset": "PPZERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Number",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "PPONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        },
+        {
+          "trait_type": "Number",
+          "value": 1
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PPTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Number",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PPTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        },
+        {
+          "trait_type": "Number",
+          "value": 3
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PPFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Number",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "PPFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        },
+        {
+          "trait_type": "Number",
+          "value": 5
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PPSIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Number",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "PPSEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        },
+        {
+          "trait_type": "Number",
+          "value": 7
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PPEIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Number",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "PPNINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        },
+        {
+          "trait_type": "Number",
+          "value": 9
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PPTEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 60
+        },
+        {
+          "trait_type": "Number",
+          "value": 10
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HOTPPSUMMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 64
+        },
+        {
+          "trait_type": "Role",
+          "value": "Collector airdrop"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
