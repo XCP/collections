@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "FEDUPPEPE.FRAME01",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "FEDUPPEPE.FRAME02",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "FEDUPPEPE.FRAME04",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "FEDUPPEPE.FRAME03",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "FEDUPPEPE.FRAME05",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "FEDUPPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    }
+  ]
+}

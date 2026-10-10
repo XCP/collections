@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "YUKPEPE.FRAME1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "YUKPEPE.FRAME5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "YUKPEPE.FRAME2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "YUKPEPE.FRAME3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "YUKPEPE.FRAME4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    },
+    {
+      "asset": "YUKPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Frames"
+        }
+      ]
+    }
+  ]
+}

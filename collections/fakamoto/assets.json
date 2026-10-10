@@ -1,0 +1,68 @@
+{
+  "assets": [
+    {
+      "asset": "FAKAMOTO.KEKMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKAMOTO.LAFAKANUSTRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKAMOTO.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKAMOTO.pepe-is-art",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKAMOTO.PROJECTFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

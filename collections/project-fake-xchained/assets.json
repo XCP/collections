@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKOMER.PROJECTFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKAMOTO.PROJECTFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKENOPOULOS.PROJECTFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "FAKOMER.KEKMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKOMER.PROJECTFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
