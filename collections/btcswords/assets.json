@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BTCSWORDS.ALBUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
+      "asset": "BTCSWORDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
