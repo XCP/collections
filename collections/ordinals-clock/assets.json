@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "ORDINALCLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    },
+    {
+      "asset": "ORDINALSTIME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    }
+  ]
+}
