@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "DANKSET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    },
+    {
+      "asset": "DANKSET.ALPHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    }
+  ]
+}

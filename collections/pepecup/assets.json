@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PEPECUP.LOSER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECUP.WINNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    }
+  ]
+}

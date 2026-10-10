@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "PEPENIRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPENIRO.FAKACCOMPLICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    },
+    {
+      "asset": "PEPENIRO.FAKEFELLAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dim Zayan"
+        }
+      ]
+    }
+  ]
+}
