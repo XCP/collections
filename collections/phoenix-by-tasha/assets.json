@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PHOENIXCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOENIXCD.processvideo",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
+    }
+  ]
+}

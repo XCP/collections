@@ -1660,7 +1660,13 @@
       ]
     },
     {
-      "asset": "DROOLINGPARK"
+      "asset": "DROOLINGPARK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
     },
     {
       "asset": "WHITEDROOLER"
