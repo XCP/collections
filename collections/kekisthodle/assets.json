@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "KEKISTHODLE.PepeFanjul",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Aristhodle"
+        }
+      ]
+    },
+    {
+      "asset": "KEKISTHODLE.PEPEFANJUL2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Aristhodle"
+        }
+      ]
+    }
+  ]
+}
