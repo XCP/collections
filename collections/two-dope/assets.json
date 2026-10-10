@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETWODOPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETWODOPE.PHYSICAL01",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        }
+      ]
+    },
+    {
+      "asset": "COCOTWODOPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTWODOPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        }
+      ]
+    },
+    {
+      "asset": "DOPEVHS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroG"
+        }
+      ]
+    }
+  ]
+}
