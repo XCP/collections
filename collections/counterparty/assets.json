@@ -3625,15 +3625,6 @@
       ]
     },
     {
-      "asset": "PIGANKSY.ART",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "ALG"
-        }
-      ]
-    },
-    {
       "asset": "BUCEPHAL",
       "attributes": [
         {
@@ -17878,51 +17869,6 @@
       ]
     },
     {
-      "asset": "MODERNFEEL.MYLITTLEPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "MODERNFEEL.PEPEVIAGRA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "MODERNFEEL.BANANAPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "MODERNFEEL.PEPETRATION",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "MODERNFEEL",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
       "asset": "FOREVERKEV",
       "attributes": [
         {
@@ -17933,42 +17879,6 @@
     },
     {
       "asset": "DRYASAKEV",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "DOLFIN.STILLPURPLE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "COLDPHOCKS.NIGHTKING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "COLDPHOCKS.SUBZERO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Worm"
-        }
-      ]
-    },
-    {
-      "asset": "DOLFIN.TSHIRT",
       "attributes": [
         {
           "trait_type": "Artist",

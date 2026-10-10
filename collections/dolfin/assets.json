@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "asset": "DOLFIN.TSHIRT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "DOLFIN.STILLPURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "DOLFIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        },
+        {
+          "trait_type": "Artist",
+          "value": "One Time"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PIGANKSY.ART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ]
+    },
+    {
+      "asset": "PIGANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALG"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
