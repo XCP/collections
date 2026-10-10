@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "ONOMIKABOSHI.NYC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "frau"
+        }
+      ]
+    },
+    {
+      "asset": "ONOMIKABOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "frau"
+        }
+      ]
+    }
+  ]
+}

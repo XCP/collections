@@ -4813,24 +4813,6 @@
       ]
     },
     {
-      "asset": "SACREDGREEN.HQ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Costa Jpeg"
-        }
-      ]
-    },
-    {
-      "asset": "SACREDGREEN.WOMAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Costa Jpeg"
-        }
-      ]
-    },
-    {
       "asset": "PEPEVANGELIS",
       "attributes": [
         {
@@ -6890,24 +6872,6 @@
         {
           "trait_type": "Artist",
           "value": "Frames"
-        }
-      ]
-    },
-    {
-      "asset": "ONOMIKABOSHI.NYC",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "frau"
-        }
-      ]
-    },
-    {
-      "asset": "ONOMIKABOSHI",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "frau"
         }
       ]
     },
