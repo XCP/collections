@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "MODERNFEEL.MYLITTLEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNFEEL.BANANAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNFEEL.PEPEVIAGRA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNFEEL.PEPETRATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNFEEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    }
+  ]
+}
