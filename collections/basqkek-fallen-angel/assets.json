@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FALLENANGEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BasqKek"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKANGEL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BasqKek"
+        }
+      ]
+    }
+  ]
+}
