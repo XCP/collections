@@ -449,6 +449,10 @@
         {
           "trait_type": "Series",
           "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Proof of Paint"
         }
       ]
     },
@@ -497,6 +501,10 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
         }
       ]
     },
@@ -685,6 +693,10 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
         }
       ]
     },
@@ -811,6 +823,10 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sergei Vesselov"
         }
       ]
     },
@@ -924,6 +940,10 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
         }
       ]
     },
@@ -959,6 +979,14 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Holden L."
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
         }
       ]
     },
@@ -998,6 +1026,10 @@
         {
           "trait_type": "Artist",
           "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
         }
       ],
       "primary": false
@@ -1008,6 +1040,10 @@
         {
           "trait_type": "Series",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "JAQO"
         }
       ]
     },
@@ -1069,6 +1105,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
         }
       ]
     },
@@ -1157,6 +1197,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Artserge"
         }
       ]
     },
@@ -1166,6 +1210,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Art By Lou B"
         }
       ]
     },
@@ -1240,6 +1288,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "RZH05"
         }
       ]
     },
@@ -1331,6 +1383,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Astrobrowww"
         }
       ]
     },
@@ -1387,6 +1443,10 @@
         {
           "trait_type": "Artist",
           "value": "Whoisit"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DJ BooMan"
         }
       ]
     },
@@ -1396,6 +1456,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DJ BooMan"
         }
       ]
     },
@@ -1405,6 +1469,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Muggy"
         }
       ]
     },
@@ -1414,6 +1482,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
         }
       ]
     },
@@ -1423,6 +1495,14 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Marina Tito"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Lorenzo Di Alessandro"
         }
       ]
     },
@@ -1432,6 +1512,10 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
         }
       ]
     },
@@ -1441,6 +1525,18 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Marina Tito"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Lorenzo Di Alessandro"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DJ BooMan"
         }
       ]
     },
@@ -1489,6 +1585,22 @@
         {
           "trait_type": "Series",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
         }
       ]
     },
@@ -1537,6 +1649,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
         }
       ]
     },
@@ -1585,6 +1701,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mavs_Odracir"
         }
       ]
     },
@@ -1611,6 +1731,10 @@
         {
           "trait_type": "Artist",
           "value": "Whoisit"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DJ BooMan"
         }
       ]
     },
@@ -1620,6 +1744,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
         }
       ]
     },
@@ -1629,6 +1757,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Art By Lou B"
         }
       ]
     },
@@ -1690,6 +1822,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
         }
       ]
     },
@@ -1752,6 +1888,10 @@
         {
           "trait_type": "Series",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Bifaresh"
         }
       ]
     },
