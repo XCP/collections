@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBLACHE.REAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBLACHE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
