@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "BOOUUSEGG.WONDERFUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Herckeim"
+        }
+      ]
+    },
+    {
+      "asset": "BOOUUSEGG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Herckeim"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
+    }
+  ]
+}
