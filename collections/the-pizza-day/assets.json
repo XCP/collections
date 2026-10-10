@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "THEPIZZADAY.INDEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        }
+      ]
+    },
+    {
+      "asset": "THEPIZZADAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jona Carbi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 56
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
