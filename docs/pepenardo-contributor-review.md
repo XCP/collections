@@ -59,3 +59,7 @@ Mappings:
 - DaBlockGod → Da'Block God
 
 The following source labels remain pending identity reconciliation, to avoid duplicate artist profiles: espinosa, Dr. $uss, Dimension, Lord Jaime V. Shill, NAPLES, Sunday Funday, Jahair G. Heva, TIZAR, NFTZOE, Pepe Capital, Ser Sleepy, Ham Slice. They are explicit contributor names, but this review does not yet establish which existing identity, if any, each should resolve to. No collective artist profile or issuer-wide attribution is introduced.
+
+## Lord Jaime identity follow-up
+
+The exact DANKPEPESOX JSON returned by its chain-linked https://easyasset.art/j/1stu8b/DANKPEPESOX.json identifies the asset, signs LORD JAIME V SHILL and links https://twitter.com/Bitt11021. DANKPEPESOX already belongs to the Lord Jamie V. Shill identity. The official https://fakeraredirectory.com/series-12/ catalog also credits FOURPEPAS to Lord Jaime V Shill, while that same work uses Lord Jamie V. Shill in the registry. These matching works resolve the spelling variation; FAKEMIAMI now additionally uses the existing identity. Eleven other source labels remain unresolved.

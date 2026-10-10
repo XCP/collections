@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MONALISAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MONALISAPEPE.PIXELMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OE"
+        }
+      ]
+    }
+  ]
+}
