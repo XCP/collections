@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "UTILITYCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mingie"
+        }
+      ]
+    },
+    {
+      "asset": "UTILITYSAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mingie"
+        }
+      ]
+    },
+    {
+      "asset": "UTILITYSUV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mingie"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "SVPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "svp"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SVPEPE.SATURN",
+      "attributes": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "PARTYPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jpegtrashbin"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PARTYPEPES.COMMON",
+      "attributes": []
+    }
+  ]
+}
