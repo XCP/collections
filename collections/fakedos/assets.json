@@ -1,0 +1,139 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDOSZERO.DOUBLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEDOSALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDOSHOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDOSMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDOSONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDOSTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDOSUFO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEDOSZERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZADRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZAMINA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZCHRSTN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZNOOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZROYCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Greencross"
+        }
+      ]
+    }
+  ]
+}

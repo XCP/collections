@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "EVTESTCOMMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTEPIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTLEGEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    }
+  ]
+}
