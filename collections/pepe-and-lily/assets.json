@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEANDLILY.STEALSYERGIRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEANDLILY.Love",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEANDLILY.DANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 23
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEANDLILY.INSCRIPTION47276",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEANDLILY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

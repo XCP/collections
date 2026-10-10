@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEWINTER.PANIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEWINTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

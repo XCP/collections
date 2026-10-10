@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "DRPEPEMUMULV.KEKUPOFFME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
+      "asset": "DRPEPEMUMULV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "LAMBOFAKE.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "LAMBOFAKE.TEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "LAMBOFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
