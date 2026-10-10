@@ -1,0 +1,112 @@
+{
+  "assets": [
+    {
+      "asset": "KEKOBOND.RECEIPT.003",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.001",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.001",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.004",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.003",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.002",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.004",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.002",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.005",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.005",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        }
+      ]
+    },
+    {
+      "asset": "KEKOBOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BigKekowski"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
