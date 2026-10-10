@@ -6,26 +6,17 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 28 assets |
-| Primary memberships | 28 |
-| Secondary or curated memberships | 0 |
+| Membership | 152 assets |
+| Primary memberships | 148 |
+| Secondary or curated memberships | 4 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 13/28 (46.4%) |
+| Traits | Artist: 122/152 (80.3%)<br>Series: 152/152 (100%) |
 <!-- collection-facts:end -->
 
-This folder is the public record for this collection.
+## Membership evidence
 
-- Fix the name, description, or links in `meta.json`.
-- Add, remove, or correct assets and traits in `assets.json`.
-- Change `adapter.ts` only if this collection operates the membership API.
-- Update this README with useful project-specific guidance.
-- This repo does not create sale listings.
+Reviewed 2026-10-10 from archived collection-operated catalogues: [Series 0](https://web.archive.org/web/20231208201039/https://phunchkins.com/series-0/), [Series 1](https://web.archive.org/web/20230926033749/https://phunchkins.com/series-1/), [Series 2](https://web.archive.org/web/20231208181549/https://phunchkins.com/series-2/), [Series 3](https://web.archive.org/web/20230926014125/https://phunchkins.com/series-3/) and [Series 4](https://web.archive.org/web/20230926014931/https://phunchkins.com/series-4/). The 152 explicitly listed works comprise 36, 49, 36, 23 and 8 works respectively. Membership rests on these accepted catalogues, not visual resemblance or submission metadata.
 
-Read the [collection guide](../README.md) and
-[contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
-the change and how to verify it. If you cannot prepare a pull request,
-[open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+Exact xcpio-core identities and CDN first-frame inventories were reviewed. Catalogue title variants resolve through individual archived pages and exact media: THIRDEYEWIZARD → THIRDEYEWIZ, PHUNCHKINTIST/PHUNCHKINIST → PHUNCHKTIST (matching imgur tA9WxCq), TRIPPEDOUTPEPE → TRIPPINGPEPE, PHUNCHBUNNY → PEPEPES.PHUNCHBUNNY_01, and POPEYEPHUNCH → PEPEPES.POPEYEPHUNCH. Individual page copy has some erroneous series/link fields; the explicit series gallery establishes the Series trait. Card numbers are not inferred from position.
 
-## Genesis card evidence
-
-PHUNCHKINS was added on 2026-10-10 from its exact chain-linked [Coindaddy JSON](https://xcp.coindaddy.io/PHUNCHKINS.json), which explicitly identifies the work as the first community-created Phunchkins card and links the project website and social. CDN artwork shows the community collage. The website itself was unavailable during review. Existing credit is preserved; the metadata does not enumerate all contributors. Counterparty fallback membership is removed.
+The previous 27-card list belongs to Fake Munchkin and is now stored separately. PHUNCHKINS itself remains here as the Series 1 community card. Counterparty fallback memberships are removed; existing specific collection homes and every previous artist credit remain. Source credits are added only where canonical artist identity resolves; ambiguous aliases, collaborations and community contributor enumeration remain pending. Full animation review and failed previews remain open.
