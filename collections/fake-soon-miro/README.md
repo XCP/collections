@@ -15,6 +15,6 @@
 
 ## Membership evidence
 
-Reviewed 2026-10-10 against exact xcpio-core identities, issuer records and CDN contact sheets. Original and canonical Arweave metadata URLs returned 404; membership is based on the explicit namespace and reviewed images, not unverified JSON. Parent and six variants explicitly combine the same Fake, Soon and Miro graphic layers in different arrangements; names and artwork corroborate the family. Parent remains primary in Fake Commons and secondary here. Children are not claimed as accepted Fake Commons directory cards.
+Reviewed 2026-10-10 against exact xcpio-core identities, issuer records and CDN contact sheets. The filename-suffixed Arweave URLs returned 404, but the transaction-root URLs recovered exact-asset JSON for every included work. These records name the asset, credit chrome void in pgpsig, and link twitter.com/chrome_void. Membership is corroborated by the explicit namespace and reviewed images. Parent and six variants explicitly combine the same Fake, Soon and Miro graphic layers in different arrangements; names and artwork corroborate the family. Parent remains primary in Fake Commons and secondary here. Children are not claimed as accepted Fake Commons directory cards.
 
 Existing artist credits and directory primary homes are preserved. Kaleidoscope gallery entries become secondary to the specific family. Counterparty fallback memberships are removed.
