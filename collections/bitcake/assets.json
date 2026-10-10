@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BITCAKE.PIZZABIKINI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "BITCAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 92
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
