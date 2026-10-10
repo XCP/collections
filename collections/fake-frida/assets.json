@@ -1,0 +1,94 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEFRIDA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEFRIDA.FRIDASHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEFRIDA.LAFAKASUPREMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEFRIDA.MINDONDIEGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEFRIDA.TASHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEFRIDA.TWOLINES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEFRIDA.VIDADERANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

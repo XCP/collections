@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "GRUNCHELF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "GRUNCHELF.EVOLVED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "GRUNCHELF.TAGGED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    }
+  ]
+}

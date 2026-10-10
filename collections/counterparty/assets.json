@@ -1228,33 +1228,6 @@
       ]
     },
     {
-      "asset": "FAKEFRIDA.TASHA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMOONSHOT.LAFAKA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "GRUNCHELF.EVOLVED",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
       "asset": "SHOWTHEWAY",
       "attributes": [
         {
@@ -1265,24 +1238,6 @@
     },
     {
       "asset": "FARTFAIRIE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEFRIDA.LAFAKASUPREMA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEDESTROY",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4795,43 +4750,7 @@
       ]
     },
     {
-      "asset": "FAKEDESTROY.VOLCANO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEDESTROY.BOATACCIDENT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "GRUNCHELF.TAGGED",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
       "asset": "BASEDKERMIT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "GRUNCHELF",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -22558,61 +22477,7 @@
       ]
     },
     {
-      "asset": "GREENNUDES.II",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "GREENNUDES.I",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
       "asset": "PEPECHAPLIN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPABSTRACTS.TRUEBELIEVER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPABSTRACTS.BROKEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPABSTRACTS.FACES",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPABSTRACTS.FOREVERSEEKING",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -22661,24 +22526,6 @@
       ]
     },
     {
-      "asset": "PEPEASTRACTS.TEN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEASTRACTS.NINE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
       "asset": "DOTMATRIX",
       "attributes": [
         {
@@ -22715,33 +22562,6 @@
         {
           "trait_type": "Art year",
           "value": 2024
-        }
-      ]
-    },
-    {
-      "asset": "FAKEFRIDA.MINDONDIEGO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEMETABOLY.PRPL",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEFRIDA.FRIDASHA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Chaotic Crypto"
         }
       ]
     },
