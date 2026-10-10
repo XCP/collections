@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "SACREDGREEN.WOMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Costa Jpeg"
+        }
+      ]
+    },
+    {
+      "asset": "SACREDGREEN.HQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Costa Jpeg"
+        }
+      ]
+    },
+    {
+      "asset": "SACREDGREEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Costa Jpeg"
+        },
+        {
+          "trait_type": "Series",
+          "value": 43
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
