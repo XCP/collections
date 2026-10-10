@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "BURNPEPECASH.PoB50",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    },
+    {
+      "asset": "BURNPEPECASH.FAKEPoB50",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    }
+  ]
+}
