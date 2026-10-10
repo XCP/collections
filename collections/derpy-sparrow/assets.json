@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DERPYSPARROW.JACKTHEMONKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "DERPYSPARROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

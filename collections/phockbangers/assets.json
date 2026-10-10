@@ -1,0 +1,170 @@
+{
+  "assets": [
+    {
+      "asset": "PHOCKBANGERS.MIKBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.TOMBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.GOSBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.KREGBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.POLBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.CLOWNBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.RICBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.GENBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.THREEBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.JERRYBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.JORDANBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHOCKBANGERS.LEMYBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CLOWNBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "KREGBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "MIKBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "PHOCKBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "THREEBANGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    }
+  ]
+}
