@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SEETHRUPEPHD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ParisianForge"
+        }
+      ]
+    },
+    {
+      "asset": "SEETHRUPEPHD.LAFAKASTOLEMYGUTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ParisianForge"
+        }
+      ]
+    }
+  ]
+}
