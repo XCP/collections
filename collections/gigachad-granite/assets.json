@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "GIGACHADG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "GIGACHADG.BSTR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}

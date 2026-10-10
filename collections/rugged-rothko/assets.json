@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "RUGGEDROTHKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RUGGEDROTHKO.643349001",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "RUGGEDROTHKO.643349002",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "RUGGEDROTHKO.643349003",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "RUGGEDROTHKO.GUIDO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}
