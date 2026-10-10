@@ -1397,6 +1397,23 @@
           "asset": "GHOSTFAKE"
         }
       ]
+    },
+    {
+      "credit": "James McPickle&Pepe de’ Medici",
+      "artists": [
+        "JamesMcPickle",
+        "Pepe de medici"
+      ],
+      "assets": [
+        {
+          "collection": "dank-rares",
+          "asset": "BOBOMANCER"
+        },
+        {
+          "collection": "bobomancer",
+          "asset": "BOBOMANCER"
+        }
+      ]
     }
   ],
   "held": [],
