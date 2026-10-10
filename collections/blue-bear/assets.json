@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "BLUEBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        },
+        {
+          "trait_type": "Series",
+          "value": 66
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "BLUEBEAR.2.ON.DVD",
       "attributes": [
         {

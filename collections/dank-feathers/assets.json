@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "DANKFEATHERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 36
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "DANKFEATHERS.BONUS",
       "attributes": [
         {

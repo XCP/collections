@@ -1,6 +1,24 @@
 {
   "assets": [
     {
+      "asset": "PEPEPANTHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "PEPEPANTHER.BLUE",
       "attributes": [
         {

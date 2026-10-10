@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "asset": "PUNKSBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mj_rivaldi"
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "PUNKSBITCOIN.1",
       "attributes": [
         {

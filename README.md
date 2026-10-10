@@ -9,10 +9,10 @@
 | Canonical collections | 315 |
 | Curated views | 0 |
 | Explicit unique assets | 64,445 |
-| Explicit collection memberships | 64,909 |
+| Explicit collection memberships | 64,921 |
 | Primary memberships | 64,445 |
-| Secondary or curated memberships | 464 |
-| Memberships with traits | 33,015 |
+| Secondary or curated memberships | 476 |
+| Memberships with traits | 33,026 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -238,3 +238,11 @@ and [XCP/explorer](https://github.com/XCP/explorer/blob/main/apps/web/src/lib/tr
 They are reviewed registry metadata, not a runtime dependency on those repos.
 Do not classify assets by `CASH`/`COIN` name matching: collectible names can
 contain those words too.
+
+## Parent artwork in subasset collections
+
+For a collection organized around subassets, review the parent for inclusion as well. Include it when it is related artwork, a genesis piece, or a project cover that helps explain the family. The parent need not look identical to its children.
+
+If the parent already has an established primary collection, preserve that membership and add the parent to the subasset collection with `"primary": false`. Preserve the parent's own artist credits and traits; do not copy the children's attribution onto it. A parent without another primary home may be primary in the family after review.
+
+This is an editorial default, not automatic membership by prefix. Exclude empty namespace holders, placeholders without artwork, unrelated reused parents, and umbrella assets that do not belong to the specific series. Record the evidence or exception in the collection README. A child's acceptance into an official directory does not establish acceptance of its parent, and vice versa.

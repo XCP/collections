@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 8 assets |
+| Membership | 9 assets |
 | Primary memberships | 8 |
-| Secondary or curated memberships | 0 |
+| Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 8/8 (100%) |
+| Traits | Artist: 9/9 (100%)<br>Card: 1/9 (11.1%)<br>Series: 1/9 (11.1%) |
 <!-- collection-facts:end -->
 
 ## Membership review
@@ -26,3 +26,7 @@ Evidence:
 - [Reviewed artwork: NAMJUNEPEPE.1995_FAKE_FROGS](https://cdn.xcp.io/img/full/NAMJUNEPEPE.1995_FAKE_FROGS)
 
 The parent NAMJUNEPEPE remains in Fake Rares and is not included here. This collection groups its eight reviewed subassets.
+
+## Parent artwork
+
+NAMJUNEPEPE is included secondarily as the related parent artwork. Its primary home remains fake-rares. Reviewed 2026-10-10 against the explicit namespace and CDN artwork; existing parent artist credits are preserved independently of its children.

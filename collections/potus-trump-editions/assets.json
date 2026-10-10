@@ -1,6 +1,10 @@
 {
   "assets": [
     {
+      "asset": "POTUSTRUMP",
+      "primary": false
+    },
+    {
       "asset": "POTUSTRUMP.FIRSTLADYGOLD",
       "attributes": [
         {
