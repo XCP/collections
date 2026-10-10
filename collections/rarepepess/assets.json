@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "asset": "RAREPEPESS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPESS.SKYHOOK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPESS.SKYHOOKDEED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPESS.ORDINALGLOBETROTTER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPESS.10YEARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    }
+  ]
+}

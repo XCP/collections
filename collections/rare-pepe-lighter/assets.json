@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "RPEPELIGHTER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "RPEPELIGHTER.REDEEMED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SUPERAREPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    },
+    {
+      "asset": "SUPERAREPEPE.TEE23",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yoni Terenzi"
+        }
+      ]
+    }
+  ]
+}
