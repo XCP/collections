@@ -188,6 +188,16 @@
       "primary": false
     },
     {
+      "asset": "GAMESOFTRUMP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GabDevs"
+        }
+      ]
+    },
+    {
       "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON"
     },
     {
@@ -292,6 +302,9 @@
     },
     {
       "asset": "KEKHRISTMAS"
+    },
+    {
+      "asset": "KEKINGWARSH"
     },
     {
       "asset": "KEKZEUS"
@@ -451,6 +464,16 @@
     },
     {
       "asset": "PEPEHANNIBAL"
+    },
+    {
+      "asset": "PEPEHEFNER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GabDevs"
+        }
+      ]
     },
     {
       "asset": "PEPEHUGHES"
@@ -720,6 +743,9 @@
       "asset": "TRSTSESSIONS"
     },
     {
+      "asset": "TRUMPALLY"
+    },
+    {
       "asset": "TRUMPETIST"
     },
     {
@@ -805,6 +831,16 @@
       "asset": "WILLSLAP"
     },
     {
+      "asset": "WORLDOFPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GabDevs"
+        }
+      ]
+    },
+    {
       "asset": "WORLDORDER"
     },
     {
@@ -821,12 +857,6 @@
     },
     {
       "asset": "ZAFIRO"
-    },
-    {
-      "asset": "TRUMPALLY"
-    },
-    {
-      "asset": "KEKINGWARSH"
     }
   ]
 }
