@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "asset": "PEPELAVANDAL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
+        }
+      ]
+    },
+    {
+      "asset": "PEPELAVANDAL.PEPELON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
+        }
+      ]
+    },
+    {
+      "asset": "PEPELAVANDAL.FAKEYE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ShowerShoes"
+        }
+      ]
+    }
+  ]
+}

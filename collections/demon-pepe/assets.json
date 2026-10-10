@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "asset": "ELPAZUZUPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    },
+    {
+      "asset": "ELDUENDEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    },
+    {
+      "asset": "ELETEREOPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    },
+    {
+      "asset": "ELPAZUZUPEPE.PURPLAFAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    }
+  ]
+}
