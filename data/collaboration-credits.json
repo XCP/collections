@@ -1807,6 +1807,17 @@
           "asset": "JUSTHODLPEPE"
         }
       ]
+    },
+    {
+      "credit": "CRIME BREAKFAST",
+      "artist": "Max Capacity",
+      "reason": "Repeated exact chain-linked metadata explicitly equates CRIME BREAKFAST and MAX CAPACITY. PPDESTROYER: https://arweave.net/s7dUwdosUO44nsjAhN2kYUdsfQduq9gStO5l_WRoofg; PPTEN: https://arweave.net/4Ud1o7uQghv1DGMFJ7FOe0GYnT0f5Rr0T_usnOslAys. Preserve existing multi-artist credits such as NAKAMOTOBTC.",
+      "assets": [
+        {
+          "collection": "fake-commons",
+          "asset": "PPTEN"
+        }
+      ]
     }
   ]
 }
