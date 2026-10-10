@@ -1,0 +1,134 @@
+{
+  "assets": [
+    {
+      "asset": "SPAKITA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "SPBORZOI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "SPCAVALIER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "SPCORGI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "SPPOMERANIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "SPPUPPY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "SPSHEPHERD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "SPSHIBA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SPSHIHTZU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SPTERRIER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shingo"
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    }
+  ]
+}
