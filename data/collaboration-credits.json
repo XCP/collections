@@ -1362,6 +1362,19 @@
           "asset": "PEPHEARTSKEV"
         }
       ]
+    },
+    {
+      "credit": "Dr Pep X ICQPEPE",
+      "artists": [
+        "ICQPEPE",
+        "Dr Pep"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "FARTRON"
+        }
+      ]
     }
   ],
   "held": [],
