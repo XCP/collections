@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "RAVERBOYZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RAVERBOYZ.COLLECTIVE1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "RAVERBOYZ.COLLECTIVE2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    }
+  ]
+}
