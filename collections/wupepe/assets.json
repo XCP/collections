@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "WUPEPE.ENTERTHEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        }
+      ]
+    },
+    {
+      "asset": "WUPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "netidx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
