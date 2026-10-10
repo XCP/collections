@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "HOMERLAY.DISCOCLASSIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "HOMERLAY.CLASSIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "HOMERLAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

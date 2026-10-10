@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEPIXELAND.RAILWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPIXELAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

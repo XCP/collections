@@ -10181,24 +10181,6 @@
       ]
     },
     {
-      "asset": "KEYCAPEPE.STONE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
-    },
-    {
-      "asset": "KEYCAPEPE.BASIC",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
-    },
-    {
       "asset": "BABYPIZZA",
       "attributes": [
         {
@@ -10209,15 +10191,6 @@
     },
     {
       "asset": "SATOSHRIFICE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEPIXELAND.RAILWAY",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -15700,24 +15673,6 @@
       ]
     },
     {
-      "asset": "HOMERLAY.DISCOCLASSIC",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "SilK"
-        }
-      ]
-    },
-    {
-      "asset": "HOMERLAY.CLASSIC",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "SilK"
-        }
-      ]
-    },
-    {
       "asset": "BROBOCOP",
       "attributes": [
         {
@@ -15827,15 +15782,6 @@
     },
     {
       "asset": "LONELYFAP",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "SilK"
-        }
-      ]
-    },
-    {
-      "asset": "DERPYSPARROW.JACKTHEMONKEY",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -42057,15 +42003,6 @@
       "asset": "CLOVERS"
     },
     {
-      "asset": "CLOWNBANGERS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
-    },
-    {
       "asset": "CLOWNSTRONG"
     },
     {
@@ -46813,15 +46750,6 @@
       "asset": "KRAKENPEPE"
     },
     {
-      "asset": "KREGBANGERS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
-    },
-    {
       "asset": "KRYPTOPEPE"
     },
     {
@@ -47562,15 +47490,6 @@
     },
     {
       "asset": "MIKAPARTY"
-    },
-    {
-      "asset": "MIKBANGERS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
     },
     {
       "asset": "MIKEINSPACE"
@@ -53715,15 +53634,6 @@
     },
     {
       "asset": "THISISRARE"
-    },
-    {
-      "asset": "THREEBANGERS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "KAWABANGGA"
-        }
-      ]
     },
     {
       "asset": "THREESISTERS"
