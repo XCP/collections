@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DRACULAPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
+    },
+    {
+      "asset": "DROOLACULA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
+    }
+  ]
+}

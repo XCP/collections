@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SALINEAPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
+    },
+    {
+      "asset": "DROOLSALINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
+    }
+  ]
+}
