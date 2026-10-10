@@ -12826,15 +12826,6 @@
       ]
     },
     {
-      "asset": "SEETHRUPEPHD.LAFAKASTOLEMYGUTS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "ParisianForge"
-        }
-      ]
-    },
-    {
       "asset": "NITELIGHTHD",
       "attributes": [
         {
@@ -51576,6 +51567,15 @@
         {
           "trait_type": "Artist",
           "value": "CMYK"
+        }
+      ]
+    },
+    {
+      "asset": "OKAYLIGHTHD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ParisianForge"
         }
       ]
     }
