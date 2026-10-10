@@ -13,15 +13,10 @@
 | Traits | None |
 <!-- collection-facts:end -->
 
-This folder is the public record for this collection.
+## Membership evidence
 
-- Fix the name, description, or links in `meta.json`.
-- Add, remove, or correct assets and traits in `assets.json`.
-- Change `adapter.ts` only if this collection operates the membership API.
-- Update this README with useful project-specific guidance.
-- This repo does not create sale listings.
+Reviewed 2026-10-10 against the [project website](https://cubism-nakamoto.slidde.co/), exact xcpio-core subasset records and all 22 reachable artwork JSON documents. The published gallery includes the master and CUBINAKAMOTO.00 through .21; all are already registered. The chain also contains .22 through .60, but their descriptions are empty and the published gallery does not yet list them. Reserved identifiers are not proof of completed artwork and are not automatically added.
 
-Read the [collection guide](../README.md) and
-[contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
-the change and how to verify it. If you cannot prepare a pull request,
-[open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+CUBINAKAMOTO is the master; .00 is Genesis. The existing CUBINAKACASH and CUBINAKAREDO memberships represent related project utility tokens: the former is burned to submit a work, and the latter provides a retry for a rejected submission. They are not numbered gallery artworks.
+
+This is a multiartist curated project. The website allows anonymous contributions, and the reachable JSON does not identify individual creators (one explicitly says Anonymous). Do not assign all works to the issuer or create an artist named Anonymous. Future credits require evidence specific to the artwork.

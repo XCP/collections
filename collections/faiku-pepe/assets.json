@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FAIKUPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAIKUPEPE.FA_LAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
+    },
+    {
+      "asset": "FAIKUPEPE.LA_FAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
+    }
+  ]
+}
