@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "SHATS.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
+    },
+    {
+      "asset": "SHATS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
+    }
+  ]
+}
