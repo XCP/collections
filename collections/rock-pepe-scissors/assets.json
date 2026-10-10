@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "ROCKPEPESCSR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M.BTC"
+        }
+      ]
+    },
+    {
+      "asset": "ROCKPEPESCSR.DESTROYED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M.BTC"
+        }
+      ]
+    }
+  ]
+}
