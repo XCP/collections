@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "MAKEARTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    },
+    {
+      "asset": "MAKEARTPEPE.MESSAGEFROMENRIQUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    },
+    {
+      "asset": "MAKEARTPEPE.MOARPURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    }
+  ]
+}
