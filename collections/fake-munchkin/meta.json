@@ -1,0 +1,9 @@
+{
+  "name": "Fake Munchkin",
+  "kind": "canonical",
+  "description": "Community-created Counterparty cards inspired by the Munchkin tabletop card format.",
+  "art_frame": "card",
+  "links": {
+    "website": "https://www.fakemunchkin.com/"
+  }
+}

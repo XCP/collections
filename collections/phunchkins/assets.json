@@ -1,80 +1,138 @@
 {
   "assets": [
     {
-      "asset": "COUNTRFAKE"
-    },
-    {
-      "asset": "CURSEBABYFY"
-    },
-    {
-      "asset": "DROOLPNCHKIN",
+      "asset": "MARMMUNCHKIN",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "Tizar Berandalan"
+          "value": "Whoisit"
         }
       ]
     },
     {
-      "asset": "FAKEALITY"
-    },
-    {
-      "asset": "FAKEMUNCHKIN"
-    },
-    {
-      "asset": "FAKEMUTNTAPE",
+      "asset": "EVILWIZARD",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "Zima Blue"
+          "value": "SteveWeave"
         }
       ]
     },
     {
-      "asset": "FAKEORB"
-    },
-    {
-      "asset": "FAKEPEPPEY"
-    },
-    {
-      "asset": "FAKETRACTION",
+      "asset": "FAKEPOGGER",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "Tizar Berandalan"
+          "value": "mellow"
         }
       ]
     },
     {
-      "asset": "FAKETREASURE"
-    },
-    {
-      "asset": "FINVERSION"
-    },
-    {
-      "asset": "GHCP"
-    },
-    {
-      "asset": "INCEPTCHKIN",
+      "asset": "FAKEMONSTER",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "m3thod23"
+          "value": "Mumbling Bearded Freak"
         }
       ]
     },
     {
-      "asset": "MOONCHKIN",
+      "asset": "BLUNTMONSTER",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "ZeppikEarth"
+          "value": "Chris Storm"
         }
       ]
     },
     {
-      "asset": "MUNCHCLONEX",
+      "asset": "NOREJECTS",
       "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "WAGMUNCHKIN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
+    },
+    {
+      "asset": "KILLAHMUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
+        }
+      ]
+    },
+    {
+      "asset": "DABZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "MUNCHKINKEK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHMONK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
         {
           "trait_type": "Artist",
           "value": "PiFu"
@@ -82,35 +140,64 @@
       ]
     },
     {
-      "asset": "MUNCHGOBLIN"
-    },
-    {
-      "asset": "MUNCHIEF",
+      "asset": "DIAMONDCHKIN",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "Remster"
+          "value": "Tasha"
         }
       ]
     },
     {
-      "asset": "MUNCHKAMOTO"
-    },
-    {
-      "asset": "NFTCOLLECTOR"
-    },
-    {
-      "asset": "OBILISIMUNCH",
+      "asset": "SATOSHIKIN",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "ZeppikEarth"
+          "value": "Miss Pepe"
         }
       ]
     },
     {
-      "asset": "PEPEAQUA",
+      "asset": "THIRDEYEWIZ",
       "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "PEPENUNCHAKU",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
+    },
+    {
+      "asset": "PEPISCES",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
         {
           "trait_type": "Artist",
           "value": "CryptoAli"
@@ -118,35 +205,199 @@
       ]
     },
     {
-      "asset": "PEPETHETHING",
+      "asset": "DRKEK",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "SHEWOLF"
+          "value": "Crypsi"
         }
       ]
     },
     {
-      "asset": "PEREDEATH"
-    },
-    {
-      "asset": "RAGNARMNCHKN",
+      "asset": "FARTFAIRIE",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
           "trait_type": "Artist",
-          "value": "Rarejay"
+          "value": "Chaotic Crypto"
         }
       ]
     },
     {
-      "asset": "REDCANDLE"
-    },
-    {
-      "asset": "ROCKETTPEPE"
-    },
-    {
-      "asset": "TADWING",
+      "asset": "PHONTWITCH",
       "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Regan"
+        }
+      ]
+    },
+    {
+      "asset": "FRENSCARD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        }
+      ]
+    },
+    {
+      "asset": "MUNCHTHIEF",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    },
+    {
+      "asset": "WISEJOCKERPH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHKTIST",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "PLTCMONSTER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "GENIEINABONG",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHEPHERD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "HIRSTCURSE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "BLAZEDKIN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BIGTOX"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEDOM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "hariram"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEFLUFFY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "TihhonAlina"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMERMAID",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPRO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
         {
           "trait_type": "Artist",
           "value": "Sovanvirak"
@@ -154,11 +405,1474 @@
       ]
     },
     {
+      "asset": "PEPECLOWN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "MaXim_MxM"
+        }
+      ]
+    },
+    {
+      "asset": "TEDDYKEK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "FORD"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHILD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
+    },
+    {
+      "asset": "REBELPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 0
+        }
+      ]
+    },
+    {
       "asset": "PHUNCHKINS",
       "attributes": [
         {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        }
+      ]
+    },
+    {
+      "asset": "MAKAVELI",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "DJPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "FGTGPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHUNKROCKER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHFACE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "GANGSTRGHOUL",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
+    },
+    {
+      "asset": "BBYIMAPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHOOD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "MARVELLOUS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHGHOULA",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
+    },
+    {
+      "asset": "CREEPYTOY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHUNKINVEGAS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESCREAMS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
+        }
+      ]
+    },
+    {
+      "asset": "JOKERPUN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "FORD"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETRATOR",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "MaXim_MxM"
+        }
+      ]
+    },
+    {
+      "asset": "FORGEDAXE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMARIANNE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MRLIZARD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "EXORSYSTEM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
+    },
+    {
+      "asset": "BLEEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        }
+      ]
+    },
+    {
+      "asset": "JAHREBELLION",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "SHOWTHEWAY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "NOTWERK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "TihhonAlina"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCIOUS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "FXPHUNCHKINS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHYCABRA",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESTA",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "HOLDSELPHNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHUNKNOSTRA",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETODAY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "M0d3d3b0"
+        }
+      ]
+    },
+    {
+      "asset": "PEPENTROPY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    },
+    {
+      "asset": "LEONPHUN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHASF",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Lenny"
+        }
+      ]
+    },
+    {
+      "asset": "MIDANK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Desdotexe"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHBLADE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHYJASON",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "williewaze"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "LILPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHERIX",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "TRASHFIRE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
+    },
+    {
+      "asset": "HIFEASPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "WORLDSFINEST",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mortree"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHWITCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "CryptoAli"
+        }
+      ]
+    },
+    {
+      "asset": "GRUNCHELF.EVOLVED",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "TRIPPINGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "THECALLING",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "PEPENEMY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ysdrwn"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHBLOOD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "drazestan"
+        }
+      ]
+    },
+    {
+      "asset": "CHARMWIZARD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
+    },
+    {
+      "asset": "DARKYOKAI",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "ETHTORTURE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHSCARE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHUNCHSCREAM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "PEPWHO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dantheman"
+        }
+      ]
+    },
+    {
+      "asset": "GORELOVER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHSIN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECEONUS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "MASKDBYBLOOD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHYBLOOD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "VPALGOREY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPES.PHUNCHBUNNY_01",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEPEPES"
+        }
+      ]
+    },
+    {
+      "asset": "TONYWOPRANO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pork Chop Express"
+        }
+      ]
+    },
+    {
+      "asset": "GOREPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "GOREGEISHA",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "EYELOLLY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "CrazyZapped"
+        }
+      ]
+    },
+    {
+      "asset": "LIFELESSPEPE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bugchaser"
+        }
+      ]
+    },
+    {
+      "asset": "EMBERDEMON",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESTUBBS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECHAINSAW",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "HNKHNKHNKHNK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
+    },
+    {
+      "asset": "ISEEYOU",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PEPERONIN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Inside"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEDESLAYER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "GOROGORE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        }
+      ]
+    },
+    {
+      "asset": "CRYINTHEDARK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dreamz She Wrote"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHAUDRY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "IWARRIOR",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHLOVE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PUNKYMONSTER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PEPEKRUEGERZ",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SOUPEDUJOUR",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "SIKSAKUBUR",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
+    },
+    {
+      "asset": "ONIPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "AIRAVATA"
+        }
+      ]
+    },
+    {
+      "asset": "PLAGUEATTACK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "drazestan"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHJAM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PEPPIESMALLS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Peddler"
+        }
+      ]
+    },
+    {
+      "asset": "FRESHPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "BTCLOVER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERCHAUN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "PEPEFELDS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ROCHIGG"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHEERS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "SLIMPHUNCHY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECHIPM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "JAZZYJEFF",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
+    },
+    {
+      "asset": "FRIDANK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "GOKUDOUKEN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "CHRONICFROG",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHDOOM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "KAWABANGGA"
+        }
+      ]
+    },
+    {
+      "asset": "PEPFORDNSON",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECOLAPHUN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPES.POPEYEPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEPEPES"
+        }
+      ]
+    },
+    {
+      "asset": "SAVEDBYTHXCP",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "PEPELTUNNEL",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEPABLE"
+        }
+      ]
+    },
+    {
+      "asset": "ISLANDTOURS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Marcus Connor"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DANKPHUNCH",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
+        }
+      ]
+    },
+    {
+      "asset": "SNOOPFROG",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Lyoji"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISHOW",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHFAM",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "CryptoAli"
+        }
+      ]
+    },
+    {
+      "asset": "THEPHUNCHKIN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "SCARYDOO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SilK"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEZOMBIES",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "PHUNCHWOLF",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "HIPSTRZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "SMOLZOMBIE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dankfarms"
+        }
+      ]
+    },
+    {
+      "asset": "ZOMBIEFLU",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "PEPAJET",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "PEPEPES"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
         }
       ]
     }
