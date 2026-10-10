@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "RARESTSWAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RARESTSWAN.BREAKFRMADS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    }
+  ]
+}

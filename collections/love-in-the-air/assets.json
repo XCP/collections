@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "LOVEINTHEAIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
+    },
+    {
+      "asset": "LOVEINTHEAIR.CAKE",
+      "attributes": []
+    }
+  ]
+}

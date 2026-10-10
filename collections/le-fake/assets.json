@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "asset": "LEFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "LEFAKE.EARLYWHALES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    },
+    {
+      "asset": "LEFAKE.FLAWLESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "LEFAKE.SELFPEACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
