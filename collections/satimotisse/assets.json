@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SARTIMOTISSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        }
+      ]
+    },
+    {
+      "asset": "SATIMOTISSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        }
+      ]
+    },
+    {
+      "asset": "SATIMOTISSE.TRIKKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        }
+      ]
+    }
+  ]
+}

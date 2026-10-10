@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "RARESACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        }
+      ]
+    },
+    {
+      "asset": "RARESACE.GEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Filthy Trikks"
+        }
+      ]
+    }
+  ]
+}
