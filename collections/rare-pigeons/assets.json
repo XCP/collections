@@ -32,7 +32,13 @@
       "asset": "CHIHUAHUAPGN"
     },
     {
-      "asset": "CHOOSEPIGEON"
+      "asset": "CHOOSEPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SAMAKAVO"
+        }
+      ]
     },
     {
       "asset": "CLEOPATRAPGN"
