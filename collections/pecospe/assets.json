@@ -1,0 +1,51 @@
+{
+  "assets": [
+    {
+      "asset": "PECOSPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PECOSPE.FANCAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    },
+    {
+      "asset": "PECOSPE.ARRESTED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    },
+    {
+      "asset": "PECOSPE.SCARCECITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    },
+    {
+      "asset": "PECOSPEFRENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
