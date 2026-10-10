@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "CORNFIFTYONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CORNFIFTYONE.rug",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    }
+  ]
+}

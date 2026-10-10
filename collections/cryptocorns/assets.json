@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CRYPTOCORNS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CRYPTOCORNS.1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    }
+  ]
+}
