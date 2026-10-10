@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "DANKLEGION",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TooSweet"
+        }
+      ]
+    },
+    {
+      "asset": "DANKLEGION.SILVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TooSweet"
+        }
+      ]
+    },
+    {
+      "asset": "DANKLEGION.GENERAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TooSweet"
+        }
+      ]
+    }
+  ]
+}
