@@ -1,0 +1,71 @@
+{
+  "assets": [
+    {
+      "asset": "SHITCOINS",
+      "attributes": []
+    },
+    {
+      "asset": "SHITCOINS.AtOMo",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SHITCOINS.CORN",
+      "attributes": []
+    },
+    {
+      "asset": "SHITCOINS.ETH2.0",
+      "attributes": []
+    },
+    {
+      "asset": "SHITCOINS.Ordinals",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SHITCOINS.RUNES",
+      "attributes": []
+    },
+    {
+      "asset": "SHITCOINS.SAUCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    },
+    {
+      "asset": "SHITCOINS.Stimmies",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    },
+    {
+      "asset": "SHITCOINS.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    }
+  ]
+}
