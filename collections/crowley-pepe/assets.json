@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "CROWLEYPEPE.SUMMONCROWLEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "CROWLEYPEPE.OLDCROWLEYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "CROWLEYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 46
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
