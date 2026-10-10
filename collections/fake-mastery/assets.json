@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEMASTERY.NEURAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMASTERY.SYSTEM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMASTERY.___",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMASTERY.ASSET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMASTERY.PEPECASH_V2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMASTERY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MASTERYINFO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    }
+  ]
+}
