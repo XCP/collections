@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "HALLUCIPHILE.0x6D2F656F77",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        }
+      ]
+    },
+    {
+      "asset": "HALLUCIPHILE.0x6D2F656F772D6273696465",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        }
+      ]
+    }
+  ]
+}

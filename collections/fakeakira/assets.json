@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEAKIRA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEAKIRA.WATCHTHETHRONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        }
+      ]
+    }
+  ]
+}

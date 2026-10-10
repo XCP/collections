@@ -2944,6 +2944,14 @@
         {
           "trait_type": "Card",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BL'EVE Brown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Jimmy 2Shoes"
         }
       ]
     },
@@ -3015,6 +3023,14 @@
         {
           "trait_type": "Card",
           "value": 5
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BL'EVE Brown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Jimmy 2Shoes"
         }
       ]
     },

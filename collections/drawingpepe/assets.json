@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DRAWINGPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Winnie"
+        }
+      ]
+    },
+    {
+      "asset": "DRAWINGPEPE.SKETCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gmarz"
+        }
+      ]
+    }
+  ]
+}
