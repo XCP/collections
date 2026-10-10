@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEMEDIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEMEDIPEPE.LFN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEMEDIPEPE.BEWATERFREN",
+      "attributes": []
+    },
+    {
+      "asset": "BEWATERFREN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
