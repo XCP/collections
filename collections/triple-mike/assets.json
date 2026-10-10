@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "TRIPLEMIKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
+    },
+    {
+      "asset": "DJTRIPLEMIKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "JOHNNYDOLLAR.Bill",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR.YearOfTheNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    }
+  ]
+}

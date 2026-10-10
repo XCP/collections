@@ -1,0 +1,139 @@
+{
+  "assets": [
+    {
+      "asset": "RENRARETWO.BOTCHED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
+    },
+    {
+      "asset": "RENRAREFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRAREFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRAREONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRARESEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRARESIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRARETHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RENRARETWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

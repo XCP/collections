@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "CORNAN.makingof",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "CORNAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 108
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CORNANSECOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 162
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

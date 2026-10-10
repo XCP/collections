@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "GOLDKINGDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        }
+      ]
+    },
+    {
+      "asset": "THELADY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "THELORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Naples"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
