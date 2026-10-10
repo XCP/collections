@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "INVISIBLHAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mnl classic"
+        }
+      ]
+    },
+    {
+      "asset": "INVISIBLHAND.BAG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mnl classic"
+        }
+      ]
+    },
+    {
+      "asset": "INVISIBLHAND.pepecash_millionaire",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mnl classic"
+        }
+      ]
+    }
+  ]
+}
