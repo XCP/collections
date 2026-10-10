@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "HUSLEVERYDAY",
+      "attributes": [],
+      "primary": false
+    },
+    {
+      "asset": "HUSLEVERYDAY.VISUALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Melk"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe de medici"
+        }
+      ]
+    }
+  ]
+}

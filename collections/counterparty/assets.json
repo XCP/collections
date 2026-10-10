@@ -12561,6 +12561,10 @@
         {
           "trait_type": "Artist",
           "value": "morlacos"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "puromay"
         }
       ]
     },
@@ -36851,19 +36855,6 @@
     },
     {
       "asset": "INFOKEK.RPA02"
-    },
-    {
-      "asset": "HUSLEVERYDAY.VISUALS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Melk"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "Pepe de medici"
-        }
-      ]
     },
     {
       "asset": "BTCSTAMPART.SEVEN",
