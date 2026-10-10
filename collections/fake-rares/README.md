@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## Recovered music credits
+
+Reviewed 2026-10-10: exact chain-linked Coindaddy metadata for [FAKEGHOST](https://xcp.coindaddy.io/FAKEGHOST.json) and [GHOSTFAKE](https://xcp.coindaddy.io/GHOSTFAKE.json) separately credits the track to BL'EVE Brown and Jimmy 2Shoes alongside the existing visual artist and Ghostface Killah lyric credits. [PEPEMPERNEL](https://xcp.coindaddy.io/PEPEMPERNEL.json) explicitly credits music to Herma Puma (Pimpernel Jones) and visuals to Indelible. Added the missing music contributors as individual Artist traits, preserving existing credits.

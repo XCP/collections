@@ -1,0 +1,48 @@
+{
+  "assets": [
+    {
+      "asset": "JONGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "JONGPEPE.NUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "JONGPEPE.NUKETOWN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
+    }
+  ]
+}

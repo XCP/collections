@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "DASHPEPE.PARABOLIC"
+    },
+    {
+      "asset": "DASHPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
