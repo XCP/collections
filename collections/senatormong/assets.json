@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SENATORMONG.VIBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        }
+      ]
+    },
+    {
+      "asset": "SENATORMONG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "olliesblog"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

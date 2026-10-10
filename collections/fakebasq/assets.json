@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBASQ.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBASQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
