@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "OFFENDED",
+      "attributes": []
+    },
+    {
+      "asset": "OFFENDED.MIKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ]
+    }
+  ]
+}

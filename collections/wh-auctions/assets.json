@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "WHAUCTIONGLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YT"
+        }
+      ]
+    },
+    {
+      "asset": "WHAUCTIONSLV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YT"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "EIGHTBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ]
+    },
+    {
+      "asset": "EIGHTBIT.BOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "EIGHTBIT.PEPE",
+      "attributes": [],
+      "primary": false
+    }
+  ]
+}
