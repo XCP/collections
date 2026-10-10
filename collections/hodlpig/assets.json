@@ -1,0 +1,220 @@
+{
+  "assets": [
+    {
+      "asset": "HODLHALPEPE.FAKATOMATA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        }
+      ]
+    },
+    {
+      "asset": "HODLPIGPEPE.LAFAKATAGGED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        }
+      ]
+    },
+    {
+      "asset": "DAWNOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FORKEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HASHGRABPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HODLHALPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HODLPIGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEDROPOUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEGRAMS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PHILWILSON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RUGPULLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SILKTOADPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WINKLEVIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Series",
+          "value": 6
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
