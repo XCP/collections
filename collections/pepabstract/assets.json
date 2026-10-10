@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPABSTRACT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BUGCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "BUGCARDTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "BUGCARDTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    }
+  ]
+}
