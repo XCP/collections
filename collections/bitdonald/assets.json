@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "BITDONALD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "BITDONALD.FRAMEDPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
+        }
+      ]
+    }
+  ]
+}
