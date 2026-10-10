@@ -238,7 +238,13 @@
       "asset": "MKULTRA"
     },
     {
-      "asset": "MODERNSHAD"
+      "asset": "MODERNSHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "NIGHTSHADI",
@@ -780,7 +786,13 @@
       "asset": "SHAQUELINE"
     },
     {
-      "asset": "SHARAOH"
+      "asset": "SHARAOH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "SHATCOINCARD"

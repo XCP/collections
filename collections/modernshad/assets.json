@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MODERNSHAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MODERNSHAD.ORIGIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
+    }
+  ]
+}
