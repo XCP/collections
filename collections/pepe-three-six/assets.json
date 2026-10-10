@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETHREESIX.ACTIONFIGURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETHREESIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 24
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

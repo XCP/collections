@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 425 |
-| Canonical collections | 424 |
+| Collections | 431 |
+| Canonical collections | 430 |
 | Curated views | 1 |
 | Explicit unique assets | 64,457 |
-| Explicit collection memberships | 65,029 |
+| Explicit collection memberships | 65,033 |
 | Primary memberships | 64,457 |
-| Secondary or curated memberships | 572 |
-| Memberships with traits | 33,147 |
+| Secondary or curated memberships | 576 |
+| Memberships with traits | 33,151 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 422 |
+| Reviewed static `assets.json` | 428 |
 | Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Art year, Artist, Attack, Car, Card, Chapter, Component, Date, Edition, Element, Emoji, HP, Health, ID, Kaleidoscope ID, Month, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Tier, Type, Work, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Chapter, Colour, Component, Date, Edition, Element, Emoji, Eyes, Face, HP, Head, Health, ID, Kaleidoscope ID, Month, Mouth, Name, Pioneer, Rarity, SPD, Season, Series, Speed, Story, Tier, Title, Type, Work, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->

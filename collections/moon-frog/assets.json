@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "MOONFROG.PROOFOFDONATIONRULES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
+    },
+    {
+      "asset": "MOONFROG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMANTIS.PRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMANTIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Series",
+          "value": 28
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
