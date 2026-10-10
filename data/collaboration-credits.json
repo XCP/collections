@@ -656,10 +656,12 @@
       ]
     },
     {
-      "credit": "Mr Hansel and Ghostface Killah",
+      "credit": "Mr Hansel and Ghostface Killah and BL'EVE Brown and Jimmy 2Shoes",
       "artists": [
         "Mr Hansel",
-        "Ghostface Killah"
+        "Ghostface Killah",
+        "BL'EVE Brown",
+        "Jimmy 2Shoes"
       ],
       "assets": [
         {
@@ -880,15 +882,21 @@
       ]
     },
     {
-      "credit": "Rare Scrilla and Ghostface Killah",
+      "credit": "Rare Scrilla and Ghostface Killah and BL'EVE Brown and Jimmy 2Shoes",
       "artists": [
         "Rare Scrilla",
-        "Ghostface Killah"
+        "Ghostface Killah",
+        "BL'EVE Brown",
+        "Jimmy 2Shoes"
       ],
       "assets": [
         {
           "collection": "fake-rares",
           "asset": "FAKENUTMEG"
+        },
+        {
+          "collection": "fake-rares",
+          "asset": "GHOSTFAKE"
         }
       ]
     },
@@ -1380,21 +1388,6 @@
         {
           "collection": "fake-rares",
           "asset": "FAKEGHOST"
-        }
-      ]
-    },
-    {
-      "credit": "Rare Scrilla and Ghostface Killah and BL'EVE Brown and Jimmy 2Shoes",
-      "artists": [
-        "Rare Scrilla",
-        "Ghostface Killah",
-        "BL'EVE Brown",
-        "Jimmy 2Shoes"
-      ],
-      "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "GHOSTFAKE"
         }
       ]
     },

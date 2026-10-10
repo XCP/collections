@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DARKPOOLPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        }
+      ]
+    },
+    {
+      "asset": "DARKPOOLPEPE.darkcashgrab",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JB"
+        }
+      ]
+    }
+  ]
+}
