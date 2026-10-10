@@ -1,0 +1,63 @@
+{
+  "assets": [
+    {
+      "asset": "MATSUNIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    },
+    {
+      "asset": "SAKURANIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    },
+    {
+      "asset": "SUSUKINIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    },
+    {
+      "asset": "TAIKONIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    },
+    {
+      "asset": "UMENIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    },
+    {
+      "asset": "YANAGINIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NoraMyao"
+        }
+      ]
+    }
+  ]
+}

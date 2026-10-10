@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "YOUL.TheLastPepeSupper",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YoulDesign"
+        }
+      ]
+    },
+    {
+      "asset": "YOUL.LASTPEPESUPPER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YoulDesign"
+        }
+      ]
+    },
+    {
+      "asset": "YOUL.YOUL.BTCPOINTILLISME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "YoulDesign"
+        }
+      ]
+    }
+  ]
+}
