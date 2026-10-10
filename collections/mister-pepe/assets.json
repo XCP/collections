@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "MISTERPEPE.COIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "MISTERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        },
+        {
+          "trait_type": "Series",
+          "value": 22
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
