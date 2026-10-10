@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "DANKPARTY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        }
+      ]
+    },
+    {
+      "asset": "DANKPARTY.PAINT"
+    },
+    {
+      "asset": "DANKPARTY.PAINT.ROSS"
+    }
+  ]
+}
