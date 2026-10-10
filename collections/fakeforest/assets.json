@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEFOREST",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEFOREST.DAWN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    }
+  ]
+}

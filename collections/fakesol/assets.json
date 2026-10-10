@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESOL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOL.OIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    }
+  ]
+}

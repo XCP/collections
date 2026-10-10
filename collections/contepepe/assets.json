@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CONTEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    },
+    {
+      "asset": "CONTEPEPE.OIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    }
+  ]
+}

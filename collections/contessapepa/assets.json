@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CONTESSAPEPA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    },
+    {
+      "asset": "CONTESSAPEPA.OIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    }
+  ]
+}
