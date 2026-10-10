@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "PHONEYSIMPSO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
+    },
+    {
+      "asset": "PHONEYSIMPSO.LAFAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
+    },
+    {
+      "asset": "PHONEYSIMPSO.PURPLE",
+      "attributes": []
+    }
+  ]
+}
