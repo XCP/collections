@@ -1,0 +1,143 @@
+{
+  "assets": [
+    {
+      "asset": "FLOONEYBIN.FLOONEYDELIC",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.IMWITHJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.FLOPPYBIN",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.FHOLYBIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DarkFluffyRabbit"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.CAVEINTERVIEW",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.KIMJONGLOON",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.WOJOEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.A",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.NORMANCOMICS",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.DANGERFLOONEY",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.THETOKENISTHEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mike in Space"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.CHECKITOUT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.PEPELOONEY",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.FLOONSAIC",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.REINASSANCE",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.LOONDRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bullishseller"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.flooneypin",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN",
+      "attributes": []
+    },
+    {
+      "asset": "FLOONEYBIN.FLOONEYTUNES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LoveableTee"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN.MAKE_YOUR_OWN.TEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
+    },
+    {
+      "asset": "FLOONEYBIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Booo_Urns"
+        }
+      ]
+    }
+  ]
+}
