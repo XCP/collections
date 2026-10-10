@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 220 assets |
+| Membership | 223 assets |
 | Primary memberships | 197 |
-| Secondary or curated memberships | 23 |
+| Secondary or curated memberships | 26 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 24/220 (10.9%) |
+| Traits | Artist: 27/223 (12.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,9 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## First-season catalog cross-check
+
+The on-chain description of CRITICART.Linker points to https://17art.io/inside/bibimg/linker.json. Its first-season catalog explicitly links 55 asset names, all resolved against xcpio-core. GAMESOFTRUMP, PEPEHEFNER and WORLDOFPEPE are included here as secondary memberships, preserving Rare Pepe as their primary home.
+
+The metadata asset field uses CRITICART.17ARTLINKER while its name field uses CRITICART.LINKER; this record is used as catalog evidence, not as an asset-alias assertion. Similarly named works not explicitly listed are not automatically included.
