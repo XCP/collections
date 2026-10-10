@@ -15,6 +15,6 @@
 
 ## Membership evidence
 
-Reviewed 2026-10-10 against exact xcpio-core identities, issuer records and CDN contact sheets. Original and canonical Arweave metadata URLs returned 404; membership is based on the explicit namespace and reviewed images, not unverified JSON. Parent and FAKELIGHTMODE show the same green verification-badge character in dark and light treatments. LETTHATSINKIN has empty description and a CDN placeholder and is excluded.
+Reviewed 2026-10-10 against exact xcpio-core identities, issuer records and CDN contact sheets. The filename-suffixed Arweave URLs returned 404, but the transaction-root URLs recovered exact-asset JSON for every included work. These records name the asset, credit chrome void in pgpsig, and link twitter.com/chrome_void. Membership is corroborated by the explicit namespace and reviewed images. Parent and FAKELIGHTMODE show the same green verification-badge character in dark and light treatments. LETTHATSINKIN has empty description and a CDN placeholder and is excluded.
 
 Existing artist credits and directory primary homes are preserved. Kaleidoscope gallery entries become secondary to the specific family. Counterparty fallback memberships are removed.
