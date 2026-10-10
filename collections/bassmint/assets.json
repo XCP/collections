@@ -47,7 +47,13 @@
       ]
     },
     {
-      "asset": "FAKESHERO.FAKESPOWER"
+      "asset": "FAKESHERO.FAKESPOWER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
     },
     {
       "asset": "GEEKIN"
