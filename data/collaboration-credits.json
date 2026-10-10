@@ -1296,6 +1296,19 @@
         "Robness"
       ],
       "reason": "Curator confirmed the full credit refers to the existing Robness artist, not a collaboration."
+    },
+    {
+      "credit": "Memeticx x DANK 1010",
+      "artists": [
+        "Memeticx",
+        "DANK 1010"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "MEMETICXAI"
+        }
+      ]
     }
   ],
   "held": [],
