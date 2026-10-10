@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BTCSCHIFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JMarls"
+        }
+      ]
+    },
+    {
+      "asset": "BTCSCHIFF.BIGMAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JMarls"
+        }
+      ]
+    }
+  ]
+}
