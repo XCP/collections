@@ -1,0 +1,690 @@
+{
+  "assets": [
+    {
+      "asset": "LOWFNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CANDEVSDO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CORRUPTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DEATHGRASP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DIMITRIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "EASYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FROGMILK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HIREDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "HRDCOREPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "IVANTHEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "KARENPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "LICPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "LORDJAIME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MASTERDJPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MCLOVINPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "MINIMAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "NICEGUYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEACELOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEALI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEASYLUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEDEFENDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEFAKESHOP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEGAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEHACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEKAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEMAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEMBER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPENOTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 29
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERIALKLLR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 30
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPESALUTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 31
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPESCORPION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 32
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPESWIPEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEWILLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEYANG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEYOUSOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPICASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPINDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPLITORIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPORROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "POLLOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PURPEPEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "RISKYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "STNEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "TACOPEPESTOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "THEPOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "TRIPPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "VIRTUAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "COWPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crimson Rider"
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
