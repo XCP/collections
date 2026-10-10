@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "asset": "BLUEFARMS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bluefarms"
+        }
+      ]
+    },
+    {
+      "asset": "BLUEFARMS.gallery",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bluefarms"
+        }
+      ]
+    },
+    {
+      "asset": "BLUEFARMS.LEAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bluefarms"
+        }
+      ]
+    },
+    {
+      "asset": "BLUEFARMS.gallery.BLUEBIRD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bluefarms"
+        }
+      ]
+    },
+    {
+      "asset": "BLUEFARMS.rarepower",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "bluefarms"
+        }
+      ]
+    }
+  ]
+}
