@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "NODROOLHOME",
+      "primary": false,
+      "attributes": []
+    },
+    {
+      "asset": "NODROOLHOME.SMILESMORALES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Desdotexe"
+        }
+      ]
+    }
+  ]
+}
