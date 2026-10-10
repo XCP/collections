@@ -3591,6 +3591,10 @@
         {
           "trait_type": "Card",
           "value": 37
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Conceptuel"
         }
       ]
     },

@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FEELSGOODGRL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GoingPepe100"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSGOODGRL.NFTNYC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GoingPepe100"
+        }
+      ]
+    },
+    {
+      "asset": "FEELSGOODGRL.LAFAKAGRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GoingPepe100"
+        }
+      ]
+    }
+  ]
+}
