@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEJEEZY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEJEEZY.LA_FAKA_NOSTRA_DESTROY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ]
+    }
+  ]
+}

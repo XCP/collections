@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "FARMHAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FARMHANDETTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ]
+    },
+    {
+      "asset": "FARMHAND.DROPPINGS",
+      "attributes": []
+    }
+  ]
+}
