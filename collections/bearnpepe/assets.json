@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BEARNPEPE.PAINTING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "BEARNPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 59
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

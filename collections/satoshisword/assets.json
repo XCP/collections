@@ -1,0 +1,158 @@
+{
+  "assets": [
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN11",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 72
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 70
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SATOSHISWORD.DORIANSBLADE3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DORIANSBLADE1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        },
+        {
+          "trait_type": "Series",
+          "value": 17
+        },
+        {
+          "trait_type": "Card",
+          "value": 71
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD.DORIANSBLADE2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHISWORD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
