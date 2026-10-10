@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "FKRCERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEBRICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEBRICKFKR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEISVIVID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
+    }
+  ]
+}

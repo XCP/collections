@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPBOTCERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
+    },
+    {
+      "asset": "PEPBOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        },
+        {
+          "trait_type": "Series",
+          "value": 36
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

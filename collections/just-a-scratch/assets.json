@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "JUSTASCRATCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
+    },
+    {
+      "asset": "JUSTASTICH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr Hansel"
+        }
+      ]
+    }
+  ]
+}
