@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "PUPS.CHONK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "PUPS.SHEPHERD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "PUPS",
+      "attributes": []
+    }
+  ]
+}

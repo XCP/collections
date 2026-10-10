@@ -1,0 +1,82 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEWYOMING.709428"
+    },
+    {
+      "asset": "FAKEWYOMING.709628"
+    },
+    {
+      "asset": "FAKEWYOMING.909627"
+    },
+    {
+      "asset": "FAKEWYOMING.709555"
+    },
+    {
+      "asset": "FAKEWYOMING.708803"
+    },
+    {
+      "asset": "FAKEWYOMING.753484"
+    },
+    {
+      "asset": "FAKEWYOMING.909632"
+    },
+    {
+      "asset": "FAKEWYOMING.709431"
+    },
+    {
+      "asset": "FAKEWYOMING.709583"
+    },
+    {
+      "asset": "FAKEWYOMING.753485"
+    },
+    {
+      "asset": "FAKEWYOMING.709424"
+    },
+    {
+      "asset": "FAKEWYOMING.709435"
+    },
+    {
+      "asset": "FAKEWYOMING.755353"
+    },
+    {
+      "asset": "FAKEWYOMING.738448"
+    },
+    {
+      "asset": "FAKEWYOMING.708800"
+    },
+    {
+      "asset": "FAKEWYOMING.746849"
+    },
+    {
+      "asset": "FAKEWYOMING.709629"
+    },
+    {
+      "asset": "FAKEWYOMING.783366"
+    },
+    {
+      "asset": "FAKEWYOMING.738597"
+    },
+    {
+      "asset": "FAKEWYOMING.715140"
+    },
+    {
+      "asset": "FAKEWYOMING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
