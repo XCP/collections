@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "KALEIDOART.1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    },
+    {
+      "asset": "KALEIDOART.3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    },
+    {
+      "asset": "KALEIDOART.2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    },
+    {
+      "asset": "KALEIDOART.4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    }
+  ]
+}

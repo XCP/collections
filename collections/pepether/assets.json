@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETHER.RACKETED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "The Mule"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "CONSTANCY.2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    },
+    {
+      "asset": "CONSTANCY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        }
+      ]
+    }
+  ]
+}
