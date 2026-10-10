@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEVIBES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEVIBES.GOLDCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ]
+    }
+  ]
+}
