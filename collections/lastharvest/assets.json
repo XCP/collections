@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "LASTHARVEST.sketch",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "LASTHARVEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 347
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

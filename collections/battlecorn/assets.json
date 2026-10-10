@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "asset": "BATTLECORN.EARLYBATTLES",
+      "attributes": []
+    },
+    {
+      "asset": "BATTLECORN.BOOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "BITCORNCARDS.BATTLECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "BATTLECORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

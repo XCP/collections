@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "asset": "CORNTUKTUK.HARDCIDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTUKTUK.PIGSNTUKTUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTUKTUK.PIGINTUKTUK",
+      "attributes": []
+    },
+    {
+      "asset": "CORNTUKTUK.BLUEANDCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTUKTUK.hardCIDER",
+      "attributes": []
+    },
+    {
+      "asset": "CORNTUKTUK.WATERCOLOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTUKTUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
