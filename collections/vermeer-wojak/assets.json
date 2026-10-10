@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "VERMEERWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "VERMEERWOJAK.CARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
+    }
+  ]
+}

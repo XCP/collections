@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PICAMONDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PICAMONDPEPE.REAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
+    }
+  ]
+}
