@@ -8999,6 +8999,15 @@
           "value": "Fabrique"
         }
       ]
+    },
+    {
+      "asset": "QUESTFRENS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fabrique"
+        }
+      ]
     }
   ]
 }

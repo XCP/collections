@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "DUCHAMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fabrique"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DUCHAMPEPE.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fabrique"
+        }
+      ]
+    }
+  ]
+}
