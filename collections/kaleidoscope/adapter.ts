@@ -8,6 +8,7 @@ const CACHE_KEY = "kaleidoscope-search-v1";
 const REVIEWED_ARTISTS = new Map([
   ["PEPESHOOD", "subterranean"],
   ["PEPEFAKERARE", "BIGTOX"],
+  ["TMDAUTOGRAPH", "ArtemTemaDa"],
 ]);
 
 // Kaleidoscope is intentionally inclusive. A more specific canonical set
