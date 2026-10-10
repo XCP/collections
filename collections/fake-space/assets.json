@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESPACE.EP1.PepeNardo",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESPACE.EP2.DimZayan",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RebelMoney"
+        }
+      ]
+    }
+  ]
+}
