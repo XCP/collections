@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CLOONEYBIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CLOONEYBIN.CLASSIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    }
+  ]
+}

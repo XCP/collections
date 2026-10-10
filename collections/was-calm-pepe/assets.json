@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WASCALMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WASCALMPEPE.AFTERMATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    }
+  ]
+}
