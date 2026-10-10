@@ -1,0 +1,60 @@
+{
+  "assets": [
+    {
+      "asset": "A15278739962652801000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ]
+    },
+    {
+      "asset": "DANKTIMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ]
+    },
+    {
+      "asset": "FREEEDOMCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ]
+    },
+    {
+      "asset": "SEEDCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEVRS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PETWOPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DCOT"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

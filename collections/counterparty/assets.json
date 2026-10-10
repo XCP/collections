@@ -5784,15 +5784,6 @@
       ]
     },
     {
-      "asset": "SEEDCARD",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "DCOT"
-        }
-      ]
-    },
-    {
       "asset": "DANKCHEMIST",
       "attributes": [
         {
@@ -5802,15 +5793,6 @@
         {
           "trait_type": "Art year",
           "value": 2025
-        }
-      ]
-    },
-    {
-      "asset": "FREEEDOMCARD",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "DCOT"
         }
       ]
     },
@@ -5825,24 +5807,6 @@
     },
     {
       "asset": "A9609996666999666096",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "DCOT"
-        }
-      ]
-    },
-    {
-      "asset": "A15278739962652801000",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "DCOT"
-        }
-      ]
-    },
-    {
-      "asset": "DANKTIMES",
       "attributes": [
         {
           "trait_type": "Artist",
