@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "SPAMBIRD.ARISE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "SPAMBIRD",
+      "primary": false
+    }
+  ]
+}
