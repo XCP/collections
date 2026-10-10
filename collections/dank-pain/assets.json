@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DANKPAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DANKPAIN.GOLDEDITION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
+    }
+  ]
+}

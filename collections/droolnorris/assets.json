@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DROOLNORRIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DROOLNORRIS.DNBC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m3thod23"
+        }
+      ]
+    }
+  ]
+}
