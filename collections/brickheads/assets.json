@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "BRICKHEADS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MissingInActionMan"
+        }
+      ]
+    },
+    {
+      "asset": "BRICKHEADSB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MissingInActionMan"
+        }
+      ]
+    },
+    {
+      "asset": "BRCKHEADPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MissingInActionMan"
+        }
+      ]
+    }
+  ]
+}
