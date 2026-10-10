@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEISDRUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDRUNK.DANKBAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    }
+  ]
+}

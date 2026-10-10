@@ -1,0 +1,94 @@
+{
+  "assets": [
+    {
+      "asset": "PENCILMOVIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        },
+        {
+          "trait_type": "Series",
+          "value": 50
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PENCILMOVIE.0.1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    },
+    {
+      "asset": "PENCILMOVIE.0.8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kevin Satoshi"
+        }
+      ]
+    }
+  ]
+}
