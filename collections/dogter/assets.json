@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "A11135481808042737436",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SaSHA-256"
+        }
+      ]
+    },
+    {
+      "asset": "A11144865221391704668",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SaSHA-256"
+        }
+      ]
+    },
+    {
+      "asset": "A11157399071023909023",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SaSHA-256"
+        }
+      ]
+    }
+  ]
+}
