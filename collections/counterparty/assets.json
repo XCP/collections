@@ -5177,7 +5177,15 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "CRIME BREAKFAST"
+          "value": "Maxwell Bruno"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Max Capacity"
         }
       ]
     },
@@ -7765,6 +7773,10 @@
         {
           "trait_type": "Artist",
           "value": "Greencross"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Alpaca Later"
         }
       ]
     },

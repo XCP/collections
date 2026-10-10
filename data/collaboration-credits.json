@@ -1309,6 +1309,33 @@
           "asset": "MEMETICXAI"
         }
       ]
+    },
+    {
+      "credit": "Greencross & Alpaca Later",
+      "artists": [
+        "Greencross",
+        "Alpaca Later"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "DUCKLIPSPEPE"
+        }
+      ]
+    },
+    {
+      "credit": "MAXWELL BRUNO + SCRILLA + MAX CAPACITY",
+      "artists": [
+        "Maxwell Bruno",
+        "Rare Scrilla",
+        "Max Capacity"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "NAKAMOTOBTC"
+        }
+      ]
     }
   ],
   "held": [],
