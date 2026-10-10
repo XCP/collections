@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "OKTOBEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nogoodboypoints"
+        }
+      ]
+    },
+    {
+      "asset": "OKTOBEPEPE.POWER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nogoodboypoints"
+        }
+      ]
+    }
+  ]
+}
