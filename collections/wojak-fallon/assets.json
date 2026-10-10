@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKFALLON.SERIOUSJIMMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFALLON.WOJAKLETTERMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFALLON.DEPLORABLEWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKFALLON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
