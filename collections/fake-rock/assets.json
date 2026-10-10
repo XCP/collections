@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEROCK.PSA10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEROCK.lafakanostra",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yotet"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
