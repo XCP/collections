@@ -5761,15 +5761,6 @@
       ]
     },
     {
-      "asset": "PEPECERTIF",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "eth69420"
-        }
-      ]
-    },
-    {
       "asset": "RUPEPE",
       "attributes": [
         {
@@ -11005,33 +10996,6 @@
         {
           "trait_type": "Artist",
           "value": "Mark Rothkdough"
-        }
-      ]
-    },
-    {
-      "asset": "FALSEACE.LAFAKAROYAL",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Maya"
-        }
-      ]
-    },
-    {
-      "asset": "FAKEQUEEN.LAFAKAROYAL",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Maya"
-        }
-      ]
-    },
-    {
-      "asset": "RAREINKONE.MAGENTATHURSDAY",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Maya"
         }
       ]
     },

@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "RAREINKONE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "RAREINKONE.MAGENTATHURSDAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    }
+  ]
+}
