@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEKISS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEKISS.NY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    }
+  ]
+}

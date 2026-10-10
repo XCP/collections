@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEITMAKEIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEITMAKEIT.fakeit",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEITMAKEIT.makeit",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEITMAKEIT.fakeitmakeit",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luna"
+        }
+      ]
+    }
+  ]
+}
