@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BLUESWAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "BLUESWAN.smug",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    }
+  ]
+}

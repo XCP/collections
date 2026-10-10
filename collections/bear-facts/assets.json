@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "BEARFACTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        },
+        {
+          "trait_type": "Series",
+          "value": 64
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "BEARFACTS.misprint",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "BEARFACTS.poachers",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    }
+  ]
+}

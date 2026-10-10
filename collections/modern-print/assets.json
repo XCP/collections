@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "MODERNPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNPRINT.AAPL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNPRINT.discard",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNPRINT.GOOGL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    }
+  ]
+}
