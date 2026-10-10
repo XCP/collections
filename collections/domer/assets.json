@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "DOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "DOMER.IQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "DOMER.IQ.DART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    },
+    {
+      "asset": "DOMER.RIDE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "exdank"
+        }
+      ]
+    }
+  ]
+}
