@@ -1,13 +1,31 @@
 {
   "assets": [
     {
-      "asset": "BEATLESQR"
+      "asset": "BEATLESQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "BLUESQR"
+      "asset": "BLUESQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "BRITNEYQR"
+      "asset": "BRITNEYQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "BTCPAPERSCAN",
@@ -19,22 +37,58 @@
       ]
     },
     {
-      "asset": "BTCPIZZASCAN"
+      "asset": "BTCPIZZASCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "CLEANWATERQR"
+      "asset": "CLEANWATERQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "CORNSCAN"
+      "asset": "CORNSCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "DALAILAMAXIV"
+      "asset": "DALAILAMAXIV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "DAVINCICODE"
+      "asset": "DAVINCICODE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "DEKOONINGQR"
+      "asset": "DEKOONINGQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "DERPMENSION.QR",
@@ -46,7 +100,13 @@
       ]
     },
     {
-      "asset": "DOODLEQR"
+      "asset": "DOODLEQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "ENDLESSCAVE",
@@ -67,10 +127,22 @@
       ]
     },
     {
-      "asset": "FLORENCEQR"
+      "asset": "FLORENCEQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "HAPPYLTLQR"
+      "asset": "HAPPYLTLQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "HODLLAGE.QR",
@@ -91,25 +163,67 @@
       ]
     },
     {
-      "asset": "INVESTINART"
+      "asset": "INVESTINART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "KIDSDAYQR"
+      "asset": "KIDSDAYQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pumpoom"
+        }
+      ]
     },
     {
-      "asset": "MALEVICHQR"
+      "asset": "MALEVICHQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "obutenop"
+        }
+      ]
     },
     {
-      "asset": "MAPSDOTORGQR"
+      "asset": "MAPSDOTORGQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "MARILYNQR"
+      "asset": "MARILYNQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "METAFOX"
+      "asset": "METAFOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
-      "asset": "MILLENNIALQR"
+      "asset": "MILLENNIALQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "MODERNSCAN",
@@ -121,40 +235,106 @@
       ]
     },
     {
-      "asset": "MONOPOLYQR"
+      "asset": "MONOPOLYQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "MONROEQR"
+      "asset": "MONROEQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "MORSEQRCODE"
+      "asset": "MORSEQRCODE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "MURAKAMIQR"
+      "asset": "MURAKAMIQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "MYFIRSTNFT"
+      "asset": "MYFIRSTNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "OPERATIONQR"
+      "asset": "OPERATIONQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "ORANGESQR"
+      "asset": "ORANGESQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "PARISQR"
+      "asset": "PARISQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "PINKPEPEQR"
     },
     {
-      "asset": "PINKPOPQR"
+      "asset": "PINKPOPQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MaXim_MxM"
+        }
+      ]
     },
     {
-      "asset": "POKERCHEATQR"
+      "asset": "POKERCHEATQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "PURPLEPROMO"
+      "asset": "PURPLEPROMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QDERPLORDAPE"
@@ -205,10 +385,22 @@
       ]
     },
     {
-      "asset": "QRBITCORN"
+      "asset": "QRBITCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRBOSHI"
+      "asset": "QRBOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
       "asset": "QRBROS",
@@ -220,25 +412,67 @@
       ]
     },
     {
-      "asset": "QRCHAPLIN"
+      "asset": "QRCHAPLIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRCHESS"
+      "asset": "QRCHESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "tamale2"
+        }
+      ]
     },
     {
-      "asset": "QRCKC"
+      "asset": "QRCKC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "QRDALI"
+      "asset": "QRDALI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRDEGAS"
+      "asset": "QRDEGAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRDERPYAPES"
+      "asset": "QRDERPYAPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "QRDERPYMONA"
+      "asset": "QRDERPYMONA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "QRDOGE",
@@ -250,13 +484,31 @@
       ]
     },
     {
-      "asset": "QRDUCHAMP"
+      "asset": "QRDUCHAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QREINSTEIN"
+      "asset": "QREINSTEIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRFLIP"
+      "asset": "QRFLIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
       "asset": "QRGIGA",
@@ -268,13 +520,31 @@
       ]
     },
     {
-      "asset": "QRGUITAR"
+      "asset": "QRGUITAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
     },
     {
-      "asset": "QRHARING"
+      "asset": "QRHARING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRHENDRIX"
+      "asset": "QRHENDRIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRHIDESEEK",
@@ -295,7 +565,13 @@
       ]
     },
     {
-      "asset": "QRKIMBROWAF"
+      "asset": "QRKIMBROWAF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "QRKLEE",
@@ -325,7 +601,13 @@
       ]
     },
     {
-      "asset": "QRLIFE"
+      "asset": "QRLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRLISA",
@@ -337,7 +619,13 @@
       ]
     },
     {
-      "asset": "QRLISAFRANK"
+      "asset": "QRLISAFRANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "QRMAGE",
@@ -367,7 +655,13 @@
       ]
     },
     {
-      "asset": "QRMONDRIAN"
+      "asset": "QRMONDRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRNEEDLOVE",
@@ -379,10 +673,22 @@
       ]
     },
     {
-      "asset": "QROCEANA"
+      "asset": "QROCEANA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QROKEEFFE"
+      "asset": "QROKEEFFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRORDINAL",
@@ -394,7 +700,13 @@
       ]
     },
     {
-      "asset": "QROUTOFHELL"
+      "asset": "QROUTOFHELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRPACPAC",
@@ -415,10 +727,22 @@
       ]
     },
     {
-      "asset": "QRPEPE"
+      "asset": "QRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
-      "asset": "QRPICASSO"
+      "asset": "QRPICASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRPOLLOCK",
@@ -439,7 +763,13 @@
       ]
     },
     {
-      "asset": "QRPYSANKY"
+      "asset": "QRPYSANKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "QRRARE",
@@ -532,28 +862,76 @@
       ]
     },
     {
-      "asset": "QRWARHOL"
+      "asset": "QRWARHOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRWEAVE"
+      "asset": "QRWEAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "QRWHOISIT"
+      "asset": "QRWHOISIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
     },
     {
-      "asset": "QRWTF"
+      "asset": "QRWTF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "RAYCHARLESQR"
+      "asset": "RAYCHARLESQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "REDPUTIN"
+      "asset": "REDPUTIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "RIHANNAQR"
+      "asset": "RIHANNAQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "SADPLANE"
+      "asset": "SADPLANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
     },
     {
       "asset": "SCANATOMO",
@@ -565,16 +943,40 @@
       ]
     },
     {
-      "asset": "SCANNABLROYL"
+      "asset": "SCANNABLROYL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "SCANTOSHI"
+      "asset": "SCANTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "SCRCCTYQR"
+      "asset": "SCRCCTYQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
-      "asset": "STOOGESQR"
+      "asset": "STOOGESQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "THEARTTRADER",
@@ -586,13 +988,31 @@
       ]
     },
     {
-      "asset": "THESCREAMQR"
+      "asset": "THESCREAMQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "VENICEQR"
+      "asset": "VENICEQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
-      "asset": "WALLSTCROC"
+      "asset": "WALLSTCROC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "WORLDISGREEN.QR",
@@ -604,7 +1024,13 @@
       ]
     },
     {
-      "asset": "YELLOWSQR"
+      "asset": "YELLOWSQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     }
   ]
 }
