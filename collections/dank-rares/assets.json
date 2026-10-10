@@ -22350,16 +22350,20 @@
       "asset": "BOBOMANCER",
       "attributes": [
         {
-          "trait_type": "Artist",
-          "value": "JamesMcPickle"
-        },
-        {
           "trait_type": "Series",
           "value": 63
         },
         {
           "trait_type": "Card",
           "value": 18
+        },
+        {
+          "trait_type": "Artist",
+          "value": "JamesMcPickle"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe de medici"
         }
       ]
     },

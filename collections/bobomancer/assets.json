@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "BOBOMANCER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JamesMcPickle"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepe de medici"
+        }
+      ]
+    },
+    {
+      "asset": "BOBOMANCER.shadowbankingbobo",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "James McPickle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "asset": "YOUCANTSMOKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JamesMcPickle"
+        }
+      ]
+    },
+    {
+      "asset": "YOUCANSMOKE",
+      "attributes": []
+    },
+    {
+      "asset": "YOUCANTSMOAK",
+      "attributes": []
+    },
+    {
+      "asset": "YOUCANTSMOKE.FAKEMOVIE",
+      "attributes": []
+    },
+    {
+      "asset": "YOUCANTSMOKE.BLUEVAPOR",
+      "attributes": []
+    },
+    {
+      "asset": "YOUCANTSMOKE.GREENVAPOR",
+      "attributes": []
+    },
+    {
+      "asset": "YOUCANTSMOKE.MCPICKLEXPURPLE",
+      "attributes": []
+    }
+  ]
+}
