@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 8,139 assets |
-| Primary memberships | 8,139 |
+| Membership | 8,138 assets |
+| Primary memberships | 8,138 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/8,139 (0.2%)<br>Artist: 3,199/8,139 (39.3%) |
+| Traits | Art year: 17/8,138 (0.2%)<br>Artist: 3,203/8,138 (39.4%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -47,3 +47,7 @@ The chain-linked [exact-asset JSON](https://raw.githubusercontent.com/subterrane
 ## OKAYLIGHTHD recovery
 
 Added 2026-10-10 after recovering its original animated artwork from https://raw.githubusercontent.com/parispsalter/forge/main/OKAYLIGHTHD.json . The JSON names the exact asset and issuer 1AStcZCyVeVuMxaXSKfHTcg45qGDZ6Hdxk; the image visibly signs PARISIANFORGE. Original full image: https://i.imgur.com/GFHddrx.gif . It remains in Counterparty pending evidence of a named collection. Metadata supply/lock fields are historical and are not imported as current chain facts.
+
+## Artist attribution review (2026-10-10)
+
+Issuer-linked [original metadata](https://github.com/subterranean1/jsons) explicitly credits subterranean for: BITCORNKING, COCODILE.tears, CORNTAINER, GMOPIGEONS, GREYWHALIEN, ONLYCANS, PEPELETTER, PEPESHOOD, PIXELLIMIT, RAREPEPEPINK, TOPFLOORPEPE.legend, FAUXCORNHOLE, FUNKYWENHEN, GOGOGHOST, PEPEPAUL, POTPIGEON, THISGOAT. Each asset identity and its issuance description URL were checked individually; repository ownership alone was not used as attribution. WOJAKPROF’s [original metadata](https://arweave.net/qh0HGe2TpUyMKVOKNZeLJsU9OF5PgoD2SKiqfdR6Pno) names MemeKingArt x subterranean, now stored as separate individual credits. Existing collection homes are retained. The adapter-backed PEPESHOOD credit is preserved on refresh without introducing membership.

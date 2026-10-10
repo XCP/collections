@@ -754,7 +754,13 @@
       ]
     },
     {
-      "asset": "PEPEPAUL"
+      "asset": "PEPEPAUL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "PEPEPINUP",
@@ -796,7 +802,13 @@
       "asset": "PEPETRUMPFGT"
     },
     {
-      "asset": "PIXELLIMIT"
+      "asset": "PIXELLIMIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "PROJECTKNIFE",

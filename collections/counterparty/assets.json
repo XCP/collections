@@ -24494,15 +24494,6 @@
       ]
     },
     {
-      "asset": "FAKEPARTY.FAKEMEMORIES1",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Nipdog"
-        }
-      ]
-    },
-    {
       "asset": "PAPILAMB",
       "attributes": [
         {
@@ -27914,6 +27905,10 @@
     {
       "asset": "WOJAKPROF",
       "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MemeKingArt"
+        },
         {
           "trait_type": "Artist",
           "value": "subterranean"
@@ -33272,7 +33267,13 @@
       "asset": "WEEX.A11433176278603567000"
     },
     {
-      "asset": "TOPFLOORPEPE.legend"
+      "asset": "TOPFLOORPEPE.legend",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "BYMIOT.MONKEY_INSPIRED"
@@ -40352,7 +40353,13 @@
       "asset": "FUNDAY"
     },
     {
-      "asset": "FUNKYWENHEN"
+      "asset": "FUNKYWENHEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "FUNNELCAKES"
@@ -40646,7 +40653,13 @@
       "asset": "GODIVAPEPE"
     },
     {
-      "asset": "GOGOGHOST"
+      "asset": "GOGOGHOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "GOGOKEK"
@@ -46984,7 +46997,13 @@
       "asset": "RAREPEPEPE"
     },
     {
-      "asset": "RAREPEPEPINK"
+      "asset": "RAREPEPEPINK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "RAREPEPEZERO"
@@ -48868,7 +48887,13 @@
       "asset": "THISFLOONEY"
     },
     {
-      "asset": "THISGOAT"
+      "asset": "THISGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "THISISRARE"

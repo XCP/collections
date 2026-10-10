@@ -135,7 +135,13 @@
       "asset": "GAYPIGEON"
     },
     {
-      "asset": "GMOPIGEONS"
+      "asset": "GMOPIGEONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "GREYPIGEON"
@@ -772,7 +778,13 @@
       "asset": "POCKETOAT"
     },
     {
-      "asset": "POTPIGEON"
+      "asset": "POTPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "PRISMPIGEONA",

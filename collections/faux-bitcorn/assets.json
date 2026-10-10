@@ -16,7 +16,13 @@
       "asset": "BITCORNIN"
     },
     {
-      "asset": "BITCORNKING"
+      "asset": "BITCORNKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "BITCORNQUER",
@@ -159,7 +165,13 @@
       "asset": "CORNSQUIAT"
     },
     {
-      "asset": "CORNTAINER"
+      "asset": "CORNTAINER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "CORNYACHT"
@@ -216,7 +228,13 @@
       "asset": "FAUXCORNCASH"
     },
     {
-      "asset": "FAUXCORNHOLE"
+      "asset": "FAUXCORNHOLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "FEWMORECORNS"
@@ -351,7 +369,13 @@
       "asset": "OFFDACORN"
     },
     {
-      "asset": "ONLYCANS"
+      "asset": "ONLYCANS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "ORVILLE",
