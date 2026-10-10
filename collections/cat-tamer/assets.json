@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "CATTAMER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
+    },
+    {
+      "asset": "CATTAMER.DOGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
+    },
+    {
+      "asset": "CATTAMER.SARU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
+    }
+  ]
+}
