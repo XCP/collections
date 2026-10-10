@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEROTHKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEROTHKO.LUCA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
+    }
+  ]
+}
