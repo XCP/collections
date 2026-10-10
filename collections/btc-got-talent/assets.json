@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PIFU.BTCGOTTALENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "PIFU.BTCGOTTALENT.BIDDERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}
