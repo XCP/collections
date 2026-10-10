@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "PILLEDWOJAK.FREEDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
+    },
+    {
+      "asset": "PILLEDWOJAK.BLUEPILLDEALER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
+    },
+    {
+      "asset": "PILLEDWOJAK.BROWNPILLDEALER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
+    },
+    {
+      "asset": "PILLEDWOJAK.OVERDOSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
+    },
+    {
+      "asset": "PILLEDWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
+    }
+  ]
+}
