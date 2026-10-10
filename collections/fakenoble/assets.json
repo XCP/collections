@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKENOBLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKENOBLE.FRAMEDPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
+        }
+      ]
+    }
+  ]
+}
