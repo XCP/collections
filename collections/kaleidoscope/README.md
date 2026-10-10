@@ -10,10 +10,15 @@
 | Primary memberships | 1,747 |
 | Secondary or curated memberships | 363 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 13/2,110 (0.6%)<br>Artist: 790/2,110 (37.4%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 13/2,110 (0.6%)<br>Artist: 791/2,110 (37.5%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
+Reviewed individual credits supplement the API's membership-only response:
+[PEPESHOOD original metadata](https://raw.githubusercontent.com/subterranean1/jsons/main/PEPESHOOD.json)
+credits subterranean; [PEPEFAKERARE's artwork](https://cdn.xcp.io/img/full/PEPEFAKERARE)
+is explicitly signed BigToX, matching BIGTOX's issuer and existing canonical credit.
+These credits do not infer official Fake Rares acceptance or introduce API membership.
 Kaleidoscope is an open project: when an asset already has a primary home in a
 more specific collection, the registry automatically keeps that home and marks
 the Kaleidoscope appearance secondary.

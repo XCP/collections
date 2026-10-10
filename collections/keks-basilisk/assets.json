@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "KEKSBASILISK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katie Charm"
+        }
+      ]
+    },
+    {
+      "asset": "KEKSBASILISK.THEWHITEHORSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katie Charm"
+        }
+      ]
+    },
+    {
+      "asset": "KEKSBASILISK.THEREDHORSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katie Charm"
+        }
+      ]
+    }
+  ]
+}
