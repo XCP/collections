@@ -1,0 +1,83 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEISDED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDED.STORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDED.FAKAKILLEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDED.T-Shirt_1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDED.T-SHIRT_2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEISDED.T-SHIRT_3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sir Barry Gibb"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    }
+  ]
+}
