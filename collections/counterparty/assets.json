@@ -1763,15 +1763,6 @@
       ]
     },
     {
-      "asset": "PHUNCHKINS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "ICQPEPE"
-        }
-      ]
-    },
-    {
       "asset": "FAKEAKIRA.WATCHTHETHRONE",
       "attributes": [
         {
@@ -24114,32 +24105,6 @@
       ]
     },
     {
-      "asset": "JONGPEPE.NUK",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
-        }
-      ]
-    },
-    {
-      "asset": "JONGPEPE.NUKETOWN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
-        }
-      ]
-    },
-    {
       "asset": "PEPEDOTORG",
       "attributes": [
         {
@@ -36161,9 +36126,6 @@
       "asset": "COACHCARBON.ALTERED_CARBON"
     },
     {
-      "asset": "FAUXJHEEZE.KAPHRESH"
-    },
-    {
       "asset": "FAKEDUST.ELECTRUM"
     },
     {
@@ -37046,9 +37008,6 @@
       "asset": "RAREREAGAN.MONEYBERN"
     },
     {
-      "asset": "FAUXJHEEZE.CARSONATED"
-    },
-    {
       "asset": "BEARSOUL.FIRSTFORM.CLAW",
       "attributes": [
         {
@@ -37563,9 +37522,6 @@
     },
     {
       "asset": "FORTHETECH.GENESIS"
-    },
-    {
-      "asset": "FAUXJHEEZE.NATHANSONIC"
     },
     {
       "asset": "UTXHOESART.BRIFITDANCE"
@@ -38802,9 +38758,6 @@
       "asset": "A6565027715474670000"
     },
     {
-      "asset": "FAUXJHEEZE.WHOISIT"
-    },
-    {
       "asset": "A6585132898611254000"
     },
     {
@@ -39382,9 +39335,6 @@
     },
     {
       "asset": "A8174207959756521000"
-    },
-    {
-      "asset": "DASHPEPE.PARABOLIC"
     },
     {
       "asset": "FAKERARECAP.ORANGE"
@@ -40078,9 +40028,6 @@
           "value": "teymthebeast"
         }
       ]
-    },
-    {
-      "asset": "FAUXJHEEZE.MELLOWMINING"
     },
     {
       "asset": "PEPPEMINT.PHYSICAL"

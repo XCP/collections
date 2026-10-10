@@ -441,10 +441,6 @@
         {
           "collection": "fake-rares",
           "asset": "FAKEAFGHOST"
-        },
-        {
-          "collection": "fake-rares",
-          "asset": "FAKEGHOST"
         }
       ]
     },
@@ -890,10 +886,6 @@
         "Ghostface Killah"
       ],
       "assets": [
-        {
-          "collection": "fake-rares",
-          "asset": "GHOSTFAKE"
-        },
         {
           "collection": "fake-rares",
           "asset": "FAKENUTMEG"
@@ -1373,6 +1365,36 @@
         {
           "collection": "counterparty",
           "asset": "FARTRON"
+        }
+      ]
+    },
+    {
+      "credit": "Indelible and Ghostface Killah and BL'EVE Brown and Jimmy 2Shoes",
+      "artists": [
+        "Indelible",
+        "Ghostface Killah",
+        "BL'EVE Brown",
+        "Jimmy 2Shoes"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "FAKEGHOST"
+        }
+      ]
+    },
+    {
+      "credit": "Rare Scrilla and Ghostface Killah and BL'EVE Brown and Jimmy 2Shoes",
+      "artists": [
+        "Rare Scrilla",
+        "Ghostface Killah",
+        "BL'EVE Brown",
+        "Jimmy 2Shoes"
+      ],
+      "assets": [
+        {
+          "collection": "fake-rares",
+          "asset": "GHOSTFAKE"
         }
       ]
     }

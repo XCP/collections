@@ -2915,6 +2915,14 @@
         {
           "trait_type": "Card",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BL'EVE Brown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Jimmy 2Shoes"
         }
       ]
     },
@@ -2978,6 +2986,14 @@
         {
           "trait_type": "Card",
           "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "BL'EVE Brown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Jimmy 2Shoes"
         }
       ]
     },
@@ -3554,6 +3570,10 @@
         {
           "trait_type": "Card",
           "value": 36
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Herma Puma"
         }
       ]
     },
