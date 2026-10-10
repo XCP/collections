@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "asset": "KEKEBRATE.AMC",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    },
+    {
+      "asset": "KEKEBRATE.CC",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    },
+    {
+      "asset": "KEKEBRATE.FAKEAMC",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    },
+    {
+      "asset": "A5190892444239416000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    },
+    {
+      "asset": "A8677014705733442000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rito Rhymes"
+        }
+      ]
+    }
+  ]
+}
