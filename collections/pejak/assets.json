@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "asset": "PEJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEJAK.ALPHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    },
+    {
+      "asset": "PEJAK.BETA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    },
+    {
+      "asset": "PEJAK.DELTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    },
+    {
+      "asset": "PEJAK.ULTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    },
+    {
+      "asset": "PEJAK.ZETA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    }
+  ]
+}

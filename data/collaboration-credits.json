@@ -1818,6 +1818,21 @@
           "asset": "PPTEN"
         }
       ]
+    },
+    {
+      "credit": "zederwan",
+      "artist": "Zed Erwan",
+      "reason": "Exact JUSTAWIG and ROSWELLSOUP chain-linked JSON identify @zederwan, the same handle linked by WOJAKSOUP.CRASHED signed Zed. Sources: https://arweave.net/gVFUncjhmIjXbeSHrIPGAdL_M-FGy2JKq-0QIYPlo68 ; https://arweave.net/PccGLHBo-9iLDiol5RWRo_UURoIy3VzLSTQUjZ_HFrs ; https://arweave.net/L5j6RuGjNm7kL-KUBIBi7WUZUFPy7UJ4HQqYKF46YJQ .",
+      "assets": [
+        {
+          "collection": "the-greypepe-project",
+          "asset": "JUSTAWIG"
+        },
+        {
+          "collection": "the-greypepe-project",
+          "asset": "ROSWELLSOUP"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKSOUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "WOJAKSOUP.CRASHED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKSOUP.EX-LIBRIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
+    }
+  ]
+}
