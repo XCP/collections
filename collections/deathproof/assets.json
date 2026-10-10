@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DEATHPROOF",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        }
+      ]
+    },
+    {
+      "asset": "DEATHPROOF.PART2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MIKEYCORTEZ"
+        }
+      ]
+    }
+  ]
+}
