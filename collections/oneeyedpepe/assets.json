@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "ONEEYEDPEPE.ART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "ONEEYEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 29
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

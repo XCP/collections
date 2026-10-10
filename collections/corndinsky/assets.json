@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CORNDINSKY.SIGNEDPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "CORNDINSKY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 284
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

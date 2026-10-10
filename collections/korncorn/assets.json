@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "KORNCORN.PHYSICALARTWORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "KORNCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 329
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

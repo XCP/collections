@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBASQPEPE.PEACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEBASQPEPE.PEACEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBASQPEPE.PRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBASQPEPE.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBASQPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

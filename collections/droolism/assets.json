@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DROOLISM.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "DROOLISM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
