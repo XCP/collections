@@ -694,6 +694,32 @@
           "value": "XPSA"
         }
       ]
+    },
+    {
+      "asset": "XADAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Counterparty Legends"
+        }
+      ]
+    },
+    {
+      "asset": "VILLAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Counterparty Legends"
+        }
+      ]
     }
   ]
 }
