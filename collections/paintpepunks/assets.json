@@ -1,0 +1,152 @@
+{
+  "assets": [
+    {
+      "asset": "PAINTPEPUNKS.0002",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Gold Nakamoto"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Nakamoto Hair"
+        },
+        {
+          "trait_type": "Face",
+          "value": "NA"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nakamoto Glasses"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Sad"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pepe Green"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Gold"
+        }
+      ]
+    },
+    {
+      "asset": "PAINTPEPUNKS.0005",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Title",
+          "value": "PepeUSAmania"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Yellow Mania Bandana"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Blonde Skullet"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Blonde Handlebar Moustache"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pepe Green"
+        },
+        {
+          "trait_type": "Background",
+          "value": "USA"
+        }
+      ]
+    },
+    {
+      "asset": "PAINTPEPUNKS.0003",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Title",
+          "value": "DJ Pepe"
+        },
+        {
+          "trait_type": "Head",
+          "value": "DJ Cap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "NA"
+        },
+        {
+          "trait_type": "Face",
+          "value": "DJ Beard"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Pepe Green"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        }
+      ]
+    },
+    {
+      "asset": "PAINTPEPUNKS.0006",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Easy B"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Purple Pepe (First)"
+        },
+        {
+          "trait_type": "Head",
+          "value": "NA"
+        },
+        {
+          "trait_type": "Face",
+          "value": "NA"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "NA"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Colour",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Tea Green"
+        }
+      ]
+    }
+  ]
+}
