@@ -943,7 +943,13 @@
       ]
     },
     {
-      "asset": "FAUXSAYLOR"
+      "asset": "FAUXSAYLOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mallery"
+        }
+      ]
     },
     {
       "asset": "FAUXSHIZZLE"

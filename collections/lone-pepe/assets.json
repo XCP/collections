@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "LONEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
+        }
+      ]
+    },
+    {
+      "asset": "LONEPEPE.PAINTING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
+        }
+      ]
+    }
+  ]
+}

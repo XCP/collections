@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEAHSOKA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEAHSOKA.PAINTING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "East Three"
+        }
+      ]
+    }
+  ]
+}
