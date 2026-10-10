@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "DIAMONDANK.THEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "DIAMONDANK.THEBASICS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "DIAMONDANK.THESTAMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "DIAMONDANK.THERAREST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "DIAMONDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        },
+        {
+          "trait_type": "Series",
+          "value": 86
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

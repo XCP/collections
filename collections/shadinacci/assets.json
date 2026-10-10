@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SHADINACCI.MONDRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "SHADINACCI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "NITSABOBO.SPACEWELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ]
+    },
+    {
+      "asset": "NITSABOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jahair"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
