@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FAKETHREAT.POORFROGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        }
+      ]
+    },
+    {
+      "asset": "FAKETHREAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        }
+      ]
+    }
+  ]
+}
