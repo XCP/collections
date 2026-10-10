@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SAINTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    },
+    {
+      "asset": "SAINTPEPE.LAFAKAPROTECTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Da'Block God"
+        }
+      ]
+    }
+  ]
+}

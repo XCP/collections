@@ -4713,24 +4713,6 @@
       ]
     },
     {
-      "asset": "SAINTPEPE.LAFAKAPROTECTION",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Da'Block God"
-        }
-      ]
-    },
-    {
-      "asset": "ELPAZUZUPEPE.PURPLAFAKA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Da'Block God"
-        }
-      ]
-    },
-    {
       "asset": "KEANEBOBO",
       "attributes": [
         {
@@ -29561,45 +29543,6 @@
         {
           "trait_type": "Artist",
           "value": "Viva La Vandal"
-        }
-      ]
-    },
-    {
-      "asset": "PEPELAVANDAL.PEPELON",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Viva La Vandal"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "ShowerShoes"
-        }
-      ]
-    },
-    {
-      "asset": "PEPELEVANDAL.PEPEPHELPS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Viva La Vandal"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "ShowerShoes"
-        }
-      ]
-    },
-    {
-      "asset": "PEPELAVANDAL.FAKEYE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Viva La Vandal"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "ShowerShoes"
         }
       ]
     },
