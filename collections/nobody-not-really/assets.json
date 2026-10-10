@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CPTSDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "CTPSDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "NBNRPARIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}
