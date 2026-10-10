@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEVANDOUGH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SHEWOLF"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEVANDOUGH.LAFAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SHEWOLF"
+        }
+      ]
+    }
+  ]
+}
