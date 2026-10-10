@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEMOM.BIRTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        },
+        {
+          "trait_type": "Series",
+          "value": 26
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEMOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Isaac O"
+        },
+        {
+          "trait_type": "Series",
+          "value": 21
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

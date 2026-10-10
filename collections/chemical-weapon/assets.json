@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CHEMICALCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    },
+    {
+      "asset": "CHEMICALWORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    },
+    {
+      "asset": "CHEMICALWPH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GARCIAGARCIA"
+        }
+      ]
+    }
+  ]
+}
