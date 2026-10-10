@@ -50964,6 +50964,19 @@
           "value": "ParisianForge"
         }
       ]
+    },
+    {
+      "asset": "RARESTSETS.The_Rarest_Tote",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
     }
   ]
 }

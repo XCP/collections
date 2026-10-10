@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 8,138 assets |
-| Primary memberships | 8,138 |
+| Membership | 8,139 assets |
+| Primary memberships | 8,139 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/8,138 (0.2%)<br>Artist: 3,203/8,138 (39.4%) |
+| Traits | Art year: 17/8,139 (0.2%)<br>Artist: 3,204/8,139 (39.4%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -51,3 +51,7 @@ Added 2026-10-10 after recovering its original animated artwork from https://raw
 ## Artist attribution review (2026-10-10)
 
 Issuer-linked [original metadata](https://github.com/subterranean1/jsons) explicitly credits subterranean for: BITCORNKING, COCODILE.tears, CORNTAINER, GMOPIGEONS, GREYWHALIEN, ONLYCANS, PEPELETTER, PEPESHOOD, PIXELLIMIT, RAREPEPEPINK, TOPFLOORPEPE.legend, FAUXCORNHOLE, FUNKYWENHEN, GOGOGHOST, PEPEPAUL, POTPIGEON, THISGOAT. Each asset identity and its issuance description URL were checked individually; repository ownership alone was not used as attribution. WOJAKPROF’s [original metadata](https://arweave.net/qh0HGe2TpUyMKVOKNZeLJsU9OF5PgoD2SKiqfdR6Pno) names MemeKingArt x subterranean, now stored as separate individual credits. Existing collection homes are retained. The adapter-backed PEPESHOOD credit is preserved on refresh without introducing membership.
+
+### The Rarest Tote
+
+Added RARESTSETS.The_Rarest_Tote after verifying its numeric identity A6334554298574301439 and positive supply against xcpio-core. The issuance links [original metadata](https://raw.githubusercontent.com/subterranean1/jsons/refs/heads/main/RARESTSETS.The_Rarest_Tote), which explicitly credits subterranean x Amy DiGi and describes the NFT.NYC 2025 Scarce.City auction. The original photograph and recovered CDN card were inspected. Both artists receive separate credits. This single documented work does not establish membership for the broader RARESTSETS namespace.
