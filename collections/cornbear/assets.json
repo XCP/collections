@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CORNBEAR.makingof",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "CORNBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 313
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
