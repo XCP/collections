@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEEIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DEFSTALKR"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEEIGHT.RECEIPT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DEFSTALKR"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEEIGHT.REMIX-STEMS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DEFSTALKR"
+        }
+      ]
+    }
+  ]
+}
