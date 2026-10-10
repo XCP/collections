@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "SKULLMAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    },
+    {
+      "asset": "SKULLMAPA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    },
+    {
+      "asset": "SKULLMAPB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    },
+    {
+      "asset": "SKULLMAPC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Asgardtek"
+        }
+      ]
+    }
+  ]
+}
