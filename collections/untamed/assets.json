@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "UNTAMED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    },
+    {
+      "asset": "UNTAMED.OIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nikolina Petolas"
+        }
+      ]
+    }
+  ]
+}
