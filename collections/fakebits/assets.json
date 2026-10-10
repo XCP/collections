@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBITS.WHITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBITS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

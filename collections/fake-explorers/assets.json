@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEXPLORERS.ORANGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEXPLORERS.BLUEKONG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEXPLORERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

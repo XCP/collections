@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "DANKSWAN.BLEU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "DANKSWAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 73
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

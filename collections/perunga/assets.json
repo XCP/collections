@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PERUNGA.OG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "PERUNGA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 56
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

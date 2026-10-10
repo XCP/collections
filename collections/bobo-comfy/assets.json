@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BOBOCOMFY.PHYSICAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "BOBOCOMFY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 84
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
