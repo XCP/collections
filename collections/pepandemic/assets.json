@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPANDEMIC",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
+    },
+    {
+      "asset": "PEPANDEMIC.LAFAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        }
+      ]
+    }
+  ]
+}
