@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "GENESISCUBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        },
+        {
+          "trait_type": "Series",
+          "value": 72
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "GENESISCUBE.1of21",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        }
+      ]
+    },
+    {
+      "asset": "GENESISCUBE.PERMISSION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        }
+      ]
+    },
+    {
+      "asset": "GENESISCUBE.2of21",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GRNQRTR"
+        }
+      ]
+    }
+  ]
+}
