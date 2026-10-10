@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
         }
       ]
     },
@@ -15,6 +19,10 @@
         {
           "trait_type": "Artist",
           "value": "Mr. HODLPIG"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
         }
       ]
     },
@@ -26,12 +34,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 10
-        },
-        {
           "trait_type": "Card",
-          "value": 12
+          "value": 9
         }
       ],
       "primary": false
@@ -44,12 +48,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 8
-        },
-        {
           "trait_type": "Card",
-          "value": 22
+          "value": 8
         }
       ],
       "primary": false
@@ -62,12 +62,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 7
-        },
-        {
           "trait_type": "Card",
-          "value": 26
+          "value": 7
         }
       ],
       "primary": false
@@ -80,12 +76,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 2
-        },
-        {
           "trait_type": "Card",
-          "value": 18
+          "value": 2
         }
       ],
       "primary": false
@@ -98,12 +90,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 1
-        },
-        {
           "trait_type": "Card",
-          "value": 22
+          "value": 1
         }
       ],
       "primary": false
@@ -116,12 +104,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 14
-        },
-        {
           "trait_type": "Card",
-          "value": 14
+          "value": 11
         }
       ],
       "primary": false
@@ -134,12 +118,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 12
-        },
-        {
           "trait_type": "Card",
-          "value": 17
+          "value": 10
         }
       ],
       "primary": false
@@ -152,12 +132,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 15
-        },
-        {
           "trait_type": "Card",
-          "value": 27
+          "value": 5
         }
       ],
       "primary": false
@@ -170,12 +146,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 5
-        },
-        {
           "trait_type": "Card",
-          "value": 49
+          "value": 15
         }
       ],
       "primary": false
@@ -188,12 +160,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 4
-        },
-        {
           "trait_type": "Card",
-          "value": 34
+          "value": 4
         }
       ],
       "primary": false
@@ -206,12 +174,8 @@
           "value": "Mr. HODLPIG"
         },
         {
-          "trait_type": "Series",
-          "value": 6
-        },
-        {
           "trait_type": "Card",
-          "value": 46
+          "value": 6
         }
       ],
       "primary": false
