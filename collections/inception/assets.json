@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "INCEPTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "INCEPTION.BLeU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ]
+    }
+  ]
+}

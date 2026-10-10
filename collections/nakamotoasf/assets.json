@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "NAKAMOTOASF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "NAKAMOTOASF.GM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMOTOASF.FROGSOVERFIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMOTOASF.BTC2022",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EMBLEMATIX"
+        }
+      ]
+    }
+  ]
+}
