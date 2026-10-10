@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKETEARS.VISITFROMLAFAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        }
+      ]
+    },
+    {
+      "asset": "FAKETEARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZETRA"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
