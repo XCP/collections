@@ -103,6 +103,23 @@
       "asset": "FAKEPROPHECY"
     },
     {
+      "asset": "FAKPROPHECY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
       "asset": "FAKTELEPHONE",
       "attributes": [
         {
