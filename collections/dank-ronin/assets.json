@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "DANKRONIN.PHYSICAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "DANKRONIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 69
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

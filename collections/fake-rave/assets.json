@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKERAVE.TRIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "FAKERAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

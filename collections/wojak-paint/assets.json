@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKPAINT.MACINTOSH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKPAINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mort"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
