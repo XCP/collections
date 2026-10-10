@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CYBERCORN.DISPENSERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CYBERCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 149
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "NEXGENTUKTUK.SILVERCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "NEXGENTUKTUK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 303
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

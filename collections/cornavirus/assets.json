@@ -1,0 +1,48 @@
+{
+  "assets": [
+    {
+      "asset": "CORNAVIRUS.SPREAD",
+      "attributes": []
+    },
+    {
+      "asset": "BITCORNCARDS.CORNAVIRUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNAVIRUS.NEWSTRAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNAVIRUS.MUTATION",
+      "attributes": []
+    },
+    {
+      "asset": "CORNAVIRUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 199
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

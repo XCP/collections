@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "DALICORN.CHEAPFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "DALICORN.DISPENSER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "DALICORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 326
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CORNDALI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    }
+  ]
+}

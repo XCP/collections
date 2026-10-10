@@ -7,8 +7,8 @@
 | --- | --- |
 | Type | Canonical collection |
 | Membership | 2,110 assets |
-| Primary memberships | 1,845 |
-| Secondary or curated memberships | 265 |
+| Primary memberships | 1,840 |
+| Secondary or curated memberships | 270 |
 | Source | Collection-operated `adapter.ts` |
 | Traits | Art year: 13/2,110 (0.6%)<br>Artist: 858/2,110 (40.7%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
