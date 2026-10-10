@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPEARL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEPEARL.OIL",
+      "attributes": []
+    }
+  ]
+}

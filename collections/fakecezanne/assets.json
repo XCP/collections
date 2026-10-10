@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "asset": "FAKECEZANNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mr. P"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Stack"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKECEZANNE.ARTIST",
+      "attributes": []
+    },
+    {
+      "asset": "FAKECEZANNE.AUTOPORTRAIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
+    },
+    {
+      "asset": "FAKECEZANNE.LAMBO",
+      "attributes": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "FAKETHOUSAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
+    },
+    {
+      "asset": "FAKETHOUSAND.ORIGINAL",
+      "attributes": []
+    }
+  ]
+}

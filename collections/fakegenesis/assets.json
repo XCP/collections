@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEGENESIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEGENESIS.BTCMAGAZINE22",
+      "attributes": []
+    },
+    {
+      "asset": "FAKEGENESIS.OIL",
+      "attributes": []
+    },
+    {
+      "asset": "FAKEGENESIS.PALETTE1",
+      "attributes": []
+    },
+    {
+      "asset": "FAKEGENESIS.PALETTE2",
+      "attributes": []
+    }
+  ]
+}
