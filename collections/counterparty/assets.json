@@ -12327,33 +12327,6 @@
       ]
     },
     {
-      "asset": "UTILITYSAT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mingie"
-        }
-      ]
-    },
-    {
-      "asset": "BLOCPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mingie"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEBRATVA",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mingie"
-        }
-      ]
-    },
-    {
       "asset": "JPEGTRADER",
       "attributes": [
         {
@@ -12382,15 +12355,6 @@
     },
     {
       "asset": "FMJPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mingie"
-        }
-      ]
-    },
-    {
-      "asset": "UTILITYCARD",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -36673,9 +36637,6 @@
       "asset": "BLOCKCARD.15"
     },
     {
-      "asset": "MOONCACTUS.BURN"
-    },
-    {
       "asset": "NONFUNGERBIL.3"
     },
     {
@@ -37202,9 +37163,6 @@
       ]
     },
     {
-      "asset": "SVPEPE.SATURN"
-    },
-    {
       "asset": "BTCSTAMPART.SEVEN",
       "attributes": [
         {
@@ -37296,9 +37254,6 @@
     },
     {
       "asset": "FROGG.PURPLE"
-    },
-    {
-      "asset": "PARTYPEPES.COMMON"
     },
     {
       "asset": "A572894337927249208"
@@ -46087,9 +46042,6 @@
       "asset": "MONTANAKEK"
     },
     {
-      "asset": "MOONCACTUS"
-    },
-    {
       "asset": "MOONCALENDAR"
     },
     {
@@ -52159,28 +52111,13 @@
       "asset": "TRASHBOT"
     },
     {
-      "asset": "TRASHFIVE"
-    },
-    {
-      "asset": "TRASHFOUR"
-    },
-    {
       "asset": "TRASHNINJA"
-    },
-    {
-      "asset": "TRASHONE"
     },
     {
       "asset": "TRASHPEPE"
     },
     {
       "asset": "TRASHSHACK"
-    },
-    {
-      "asset": "TRASHTHREE"
-    },
-    {
-      "asset": "TRASHTWO"
     },
     {
       "asset": "TRENPEPE"
@@ -52580,15 +52517,6 @@
     },
     {
       "asset": "UTERPEPE"
-    },
-    {
-      "asset": "UTILITYSUV",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Mingie"
-        }
-      ]
     },
     {
       "asset": "UTILITYTOKEN"
