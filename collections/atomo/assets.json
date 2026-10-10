@@ -1,6 +1,16 @@
 {
   "assets": [
     {
+      "asset": "BTCPAPERSCAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "CHCRYPTOCAT",
       "attributes": [
         {
@@ -20,7 +30,70 @@
       ]
     },
     {
+      "asset": "DUCHURBINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "DUKEURBINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
       "asset": "FRENSINPARIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "KEROTIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "KFUCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "KFUCKYOU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "KPISSOFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "KPOO",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -146,6 +219,16 @@
       "asset": "LATOMOCO"
     },
     {
+      "asset": "LATOMOCOCO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ],
+      "primary": false
+    },
+    {
       "asset": "LATOMOCR"
     },
     {
@@ -174,6 +257,16 @@
     },
     {
       "asset": "LATOMOF"
+    },
+    {
+      "asset": "LATOMOFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ],
+      "primary": false
     },
     {
       "asset": "LATOMOFE"
@@ -312,6 +405,15 @@
     },
     {
       "asset": "LATOMONE"
+    },
+    {
+      "asset": "LATOMONFC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
     },
     {
       "asset": "LATOMONH"
@@ -509,53 +611,32 @@
       "asset": "LATOMOZR"
     },
     {
-      "asset": "SRGSSR",
+      "asset": "PEPEATOMO",
       "attributes": [
         {
           "trait_type": "Artist",
           "value": "Nicolas Sierro"
         }
-      ]
+      ],
+      "primary": false
     },
     {
-      "asset": "KEROTIC",
+      "asset": "SCANATOMO",
       "attributes": [
         {
           "trait_type": "Artist",
           "value": "Nicolas Sierro"
         }
-      ]
+      ],
+      "primary": false
     },
     {
-      "asset": "KPISSOFF",
+      "asset": "SHITCOINS.AtOMo",
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "Nicolas Sierro"
-        }
-      ]
-    },
-    {
-      "asset": "KPOO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Nicolas Sierro"
-        }
-      ]
-    },
-    {
-      "asset": "KFUCKYOU",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Nicolas Sierro"
-        }
-      ]
-    },
-    {
-      "asset": "KFUCK",
-      "attributes": [
+          "value": "Cornholio the Great"
+        },
         {
           "trait_type": "Artist",
           "value": "Nicolas Sierro"
@@ -572,7 +653,7 @@
       ]
     },
     {
-      "asset": "LATOMONFC",
+      "asset": "SRGSSR",
       "attributes": [
         {
           "trait_type": "Artist",
