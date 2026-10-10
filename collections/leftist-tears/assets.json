@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "asset": "A11114413083988935324",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "A11133403603752979672",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "A11173973008106553596",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "A11165598826854105576",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "A11188270836660976701",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "LFTEARSVI",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "STATISTEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "BTCHATEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "JOURNOTEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "FRAGILETEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "CRYNOBELECON",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "KARENTEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "MCTEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "ELPRIMOTEARS",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    }
+  ]
+}
