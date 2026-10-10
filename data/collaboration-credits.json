@@ -1336,6 +1336,32 @@
           "asset": "NAKAMOTOBTC"
         }
       ]
+    },
+    {
+      "credit": "Flepergebet & degen_x",
+      "artists": [
+        "DeGenX",
+        "Flepergebet"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "DANKWIZKEV"
+        }
+      ]
+    },
+    {
+      "credit": "degen_x and Flepergebet",
+      "artists": [
+        "DeGenX",
+        "Flepergebet"
+      ],
+      "assets": [
+        {
+          "collection": "counterparty",
+          "asset": "PEPHEARTSKEV"
+        }
+      ]
     }
   ],
   "held": [],
