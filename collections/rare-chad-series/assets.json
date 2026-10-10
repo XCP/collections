@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "CHADBUYER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "CHADBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}
