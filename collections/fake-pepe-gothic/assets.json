@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKGOTHICPEP.LAFAKAGOTHIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
+    },
+    {
+      "asset": "FAKGOTHICPEP.GOTHICWARNING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
+    },
+    {
+      "asset": "FAKGOTHICPEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
