@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "MEMESTACKS.SPRING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTACKS.SUMMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTACKS.AUTUMN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTACKS.WINTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Memeticx"
+        }
+      ]
+    }
+  ]
+}
