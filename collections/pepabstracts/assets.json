@@ -1,0 +1,436 @@
+{
+  "assets": [
+    {
+      "asset": "PEPABSTRACTS.BROKEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTS.EIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 41
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.EIGHTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.ELEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 44
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.FACES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTS.FIFTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.FIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.FOREVERSEEKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTS.FOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.FOURTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.NINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 42
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.NINETEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 51
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.ONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.SEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 40
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.SEVENTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 49
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.SIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 39
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.SIXTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.TEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.THIRTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 46
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.THREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 36
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.TRUEBELIEVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "PEPABSTRACTS.TWELVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 45
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.TWENTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 52
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.TWENTYONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 53
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPABSTRACTS.TWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 35
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEASTRACTS.NINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEASTRACTS.TEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    }
+  ]
+}

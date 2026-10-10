@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDESTROY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDESTROY.BOATACCIDENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDESTROY.CRUSHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDESTROY.VOLCANO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chaotic Crypto"
+        }
+      ]
+    }
+  ]
+}
