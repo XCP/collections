@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEROY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "eth69420"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECERTIF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "eth69420"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEQUEEN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "FALSEACE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEQUEEN.LAFAKAROYAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    },
+    {
+      "asset": "FALSEACE.LAFAKAROYAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Maya"
+        }
+      ]
+    }
+  ]
+}
