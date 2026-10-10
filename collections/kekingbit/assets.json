@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "KEKINGBIT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PEPABLE"
+        }
+      ]
+    },
+    {
+      "asset": "KEKINGBIT.SATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PEPABLE"
+        }
+      ]
+    }
+  ]
+}
