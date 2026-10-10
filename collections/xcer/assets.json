@@ -668,6 +668,32 @@
     },
     {
       "asset": "XXCER.BTCBANKNOTE"
+    },
+    {
+      "asset": "MIKESCHMIDT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        },
+        {
+          "trait_type": "Series",
+          "value": "XPSA"
+        }
+      ]
+    },
+    {
+      "asset": "XPSA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        },
+        {
+          "trait_type": "Series",
+          "value": "XPSA"
+        }
+      ]
     }
   ]
 }
