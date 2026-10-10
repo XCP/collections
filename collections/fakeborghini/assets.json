@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBORGHINI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        },
+        {
+          "trait_type": "Series",
+          "value": 32
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAKEBORGHINI.3DP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBORGHINI.ALTACCOUNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBORGHINI.FIELDSTUDY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBORGHINI.SPEC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBORGHINI.WARNING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}
