@@ -4749,24 +4749,6 @@
       ]
     },
     {
-      "asset": "SQUADGOALS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dan Anderson"
-        }
-      ]
-    },
-    {
-      "asset": "BRAGGING",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Dan Anderson"
-        }
-      ]
-    },
-    {
       "asset": "DANKFARMS.NPCFRENZ",
       "attributes": [
         {
@@ -29341,24 +29323,6 @@
         {
           "trait_type": "Artist",
           "value": "VaJe"
-        }
-      ]
-    },
-    {
-      "asset": "CRINGEPEPE.PURPYE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Viva La Vandal"
-        }
-      ]
-    },
-    {
-      "asset": "CRINGEPEPE.PURPAMOTO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Viva La Vandal"
         }
       ]
     },

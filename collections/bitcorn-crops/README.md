@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 364 assets |
-| Primary memberships | 364 |
+| Membership | 366 assets |
+| Primary memberships | 366 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 364/364 (100%)<br>Card: 364/364 (100%)<br>Series: 364/364 (100%) |
+| Traits | Artist: 366/366 (100%)<br>Card: 364/366 (99.5%)<br>Role: 2/366 (0.5%)<br>Series: 364/366 (99.5%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,7 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## CORNTEETH artist correction, 2026-10-10
 
 The [original CORNTEETH artwork](https://cdn.xcp.io/img/full/CORNTEETH) explicitly signs **mirin** in its artist footer. Correct the previous asset-title credit, Cornteeth, to that printed artist name. This is an asset-specific correction: no identity merge, personal social attribution, or authorship of other assets from the same issuer is inferred. Preserve its Bitcorn Crops series 1, card 69 membership.
+
+## Game awards
+
+The [official game rules](https://bitcorns.com/rules) explicitly identify BRAGGING as the individual winner’s award and SQUADGOALS as the cooperative winner awards. Original issuance descriptions corroborate these roles. They are part of the Bitcorn Crops game and leave the Counterparty catch-all; existing Dan Anderson credits are preserved. They are marked as game awards, without inventing numbered card positions. Reviewed 2026-10-10.

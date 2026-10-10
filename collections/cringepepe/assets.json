@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "CRINGEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
+    },
+    {
+      "asset": "CRINGEPEPE.PURPAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
+    },
+    {
+      "asset": "CRINGEPEPE.PURPYE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
+    }
+  ]
+}
