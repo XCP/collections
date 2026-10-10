@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "FAKERRARI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Corn"
+        }
+      ]
+    },
+    {
+      "asset": "FAKERRARI.PACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Corn"
+        }
+      ]
+    },
+    {
+      "asset": "FAKERRARI.PEPERIA.LOGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Michael Corn"
+        }
+      ]
+    }
+  ]
+}

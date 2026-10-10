@@ -19,6 +19,10 @@ Reviewed individual credits supplement the API's membership-only response:
 credits subterranean; [PEPEFAKERARE's artwork](https://cdn.xcp.io/img/full/PEPEFAKERARE)
 is explicitly signed BigToX, matching BIGTOX's issuer and existing canonical credit.
 These credits do not infer official Fake Rares acceptance or introduce API membership.
+TMDAUTOGRAPH is credited to ArtemTemaDa: its [issuer-linked original JSON](https://xcp.coindaddy.io/TMDAUTOGRAPH.json)
+explicitly names ArtemTemaDa and links the same Instagram handle printed on the artwork.
+This corrects an earlier SIV attribution inherited from the Counterparty fallback source;
+the issuer is not sufficient evidence of authorship. Its existing membership is unchanged.
 Kaleidoscope is an open project: when an asset already has a primary home in a
 more specific collection, the registry automatically keeps that home and marks
 the Kaleidoscope appearance secondary.
