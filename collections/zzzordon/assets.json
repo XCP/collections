@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "ZZZORDON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "ZZZORDON.TEARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EXPLOSHIVA"
+        }
+      ]
+    }
+  ]
+}
