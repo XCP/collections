@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FIFTHRIDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
+    },
+    {
+      "asset": "HODLHORSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mad.gtx"
+        }
+      ]
+    }
+  ]
+}
