@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "YEEEET.THEHIDDENFRAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "YEEEET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

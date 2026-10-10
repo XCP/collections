@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKETITLE.TITLED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
+    },
+    {
+      "asset": "FAKETITLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
