@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BITSKULL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
+    },
+    {
+      "asset": "BITSKULL.S01",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dany"
+        }
+      ]
+    }
+  ]
+}
