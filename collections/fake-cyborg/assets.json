@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FAKECYBORG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PabloRicaSSo"
+        }
+      ]
+    },
+    {
+      "asset": "FAKECYBPEPA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PabloRicaSSo"
+        }
+      ]
+    }
+  ]
+}
