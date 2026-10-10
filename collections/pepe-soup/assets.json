@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESOUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPESOUP.CRASHED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
+    }
+  ]
+}

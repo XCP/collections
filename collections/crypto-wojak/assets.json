@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CRYPTOWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CRYPTOWOJAK.PHYSICAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
+    }
+  ]
+}

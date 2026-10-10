@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "TWINWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "TWINWOJAK.PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sovanvirak"
+        }
+      ]
+    }
+  ]
+}

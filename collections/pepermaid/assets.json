@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPERMAID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERMAID.GM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
+    }
+  ]
+}
