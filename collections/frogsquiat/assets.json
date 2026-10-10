@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FROGSQUIAT.PHYSIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "FROGSQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 47
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

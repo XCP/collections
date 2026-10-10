@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "ENDLESSCAVE.A",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ]
+    },
+    {
+      "asset": "ENDLESSCAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ndhoz"
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
