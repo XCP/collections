@@ -26771,6 +26771,10 @@
         {
           "trait_type": "Artist",
           "value": "JAMEX"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Sacrificial Pancakes"
         }
       ]
     },
@@ -35949,6 +35953,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Dr Pep"
         }
       ]
     },
@@ -36052,24 +36060,6 @@
         {
           "trait_type": "Artist",
           "value": "Zoku"
-        }
-      ]
-    },
-    {
-      "asset": "DAFTPUNKS.THOMAS",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jose Burrito"
-        }
-      ]
-    },
-    {
-      "asset": "DAFTPUNKS.GUYMAN",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jose Burrito"
         }
       ]
     },

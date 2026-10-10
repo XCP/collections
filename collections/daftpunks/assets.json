@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "DAFTPUNKS.GUYMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    },
+    {
+      "asset": "DAFTPUNKS.THOMAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jose Burrito"
+        }
+      ]
+    }
+  ]
+}
