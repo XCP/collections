@@ -4804,42 +4804,6 @@
       ]
     },
     {
-      "asset": "PPEIGHT",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Max Capacity"
-        }
-      ]
-    },
-    {
-      "asset": "PPSIX",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Max Capacity"
-        }
-      ]
-    },
-    {
-      "asset": "PPFOUR",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Max Capacity"
-        }
-      ]
-    },
-    {
-      "asset": "PPTWO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Max Capacity"
-        }
-      ]
-    },
-    {
       "asset": "NAKAMOTOBTC",
       "attributes": [
         {
@@ -50068,9 +50032,6 @@
     },
     {
       "asset": "PPSHINIGAMI"
-    },
-    {
-      "asset": "PPZERO"
     },
     {
       "asset": "PRAETORPEPE"
