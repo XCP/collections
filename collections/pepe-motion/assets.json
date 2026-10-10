@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMOTION.RUSH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMOTION.BLOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMOTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 28
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

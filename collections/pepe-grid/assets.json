@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEGRID.K",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGRID.ZOKU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGRID.Z",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGRID.O",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGRID.U",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGRID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zoku"
+        },
+        {
+          "trait_type": "Series",
+          "value": 86
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
