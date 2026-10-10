@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SWALLJA.LETSGETSMOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "swallja"
+        }
+      ]
+    },
+    {
+      "asset": "COCOPLANNER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "swallja"
+        }
+      ]
+    }
+  ]
+}
