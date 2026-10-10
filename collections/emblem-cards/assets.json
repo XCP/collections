@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "EMBLEMCOMMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EMBLEMEPIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EMBLEMLEGEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    },
+    {
+      "asset": "EMBLEMRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        }
+      ]
+    }
+  ]
+}
