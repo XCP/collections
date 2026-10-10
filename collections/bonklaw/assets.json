@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BONKLAW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    },
+    {
+      "asset": "BONKLAWDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    },
+    {
+      "asset": "BONKLAWSLICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kero"
+        }
+      ]
+    }
+  ]
+}
