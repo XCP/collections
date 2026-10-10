@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "CLAYPEPEONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoClay"
+        }
+      ]
+    },
+    {
+      "asset": "CLAYPEPETWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CryptoClay"
+        }
+      ]
+    }
+  ]
+}
