@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "asset": "CORNTOSHI.PRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTOSHI.NEGATIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTOSHI.PHYSICAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTOSHI.SD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        }
+      ]
+    },
+    {
+      "asset": "CORNTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Worm"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
+    }
+  ]
+}
