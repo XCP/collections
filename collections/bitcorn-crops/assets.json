@@ -6189,6 +6189,32 @@
           "value": 364
         }
       ]
+    },
+    {
+      "asset": "BRAGGING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Game award"
+        }
+      ]
+    },
+    {
+      "asset": "SQUADGOALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Game award"
+        }
+      ]
     }
   ]
 }

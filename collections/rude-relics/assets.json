@@ -391,7 +391,13 @@
       "asset": "MUFFDIVER.SLURP"
     },
     {
-      "asset": "MUFFDIVER.XRATED"
+      "asset": "MUFFDIVER.XRATED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "El Cholo Pepe"
+        }
+      ]
     },
     {
       "asset": "OCCULT"
