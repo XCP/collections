@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETHUGLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JuanGalt"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPETHUGLIFE.INCARNATE.I",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JuanGalt"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETHUGLIFE.WINKINGTHUG.OG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JuanGalt"
+        }
+      ]
+    }
+  ]
+}
