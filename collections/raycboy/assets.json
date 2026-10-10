@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "RAYCBOY.RAREPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
+    },
+    {
+      "asset": "RAYCBOY.FAKERARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        }
+      ]
+    },
+    {
+      "asset": "RAYCBOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pinocchio"
+        },
+        {
+          "trait_type": "Series",
+          "value": 26
+        },
+        {
+          "trait_type": "Card",
+          "value": 59
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

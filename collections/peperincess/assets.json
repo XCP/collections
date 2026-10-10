@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPERINCESS.FIRSTANNIV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERINCESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "OKIDO"
+        },
+        {
+          "trait_type": "Series",
+          "value": 27
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
