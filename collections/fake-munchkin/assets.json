@@ -53,7 +53,48 @@
     },
     {
       "asset": "FAKETREASURE",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Proof of Paint"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "DOGE-STYLE"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "SteveWeave"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ZeppikEarth"
+        }
+      ]
     },
     {
       "asset": "FINVERSION",

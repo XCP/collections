@@ -1,0 +1,33 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETHEFAKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETHEFAKE.GUCHIFAKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
+    },
+    {
+      "asset": "PEPETHEFAKE.FAKAPEPETHEREAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
+    }
+  ]
+}

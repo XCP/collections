@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESHERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESHERO.FAKESPOWER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VaJe"
+        }
+      ]
+    }
+  ]
+}
