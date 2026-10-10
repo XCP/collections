@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "HISPEPENESS.LFNREJECTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
+    },
+    {
+      "asset": "HISPEPENESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

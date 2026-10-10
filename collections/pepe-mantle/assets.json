@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMANTLE.LAFAKAWARNING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMANTLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
