@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "IMITATIONS.BACON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "IMITATIONS.SIMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "IMITATIONS.MARTIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "IMITATIONS.MIRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "IMITATIONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    }
+  ]
+}

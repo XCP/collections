@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "asset": "FAKESOONMIRO.ARTISTEDITION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO.FAKESOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO.FAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO.FAKEMIRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO.SOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO.SOONMIRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "FAKESOONMIRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        },
+        {
+          "trait_type": "Series",
+          "value": 20
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
