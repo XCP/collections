@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "CLAYPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mekabu"
+        }
+      ]
+    },
+    {
+      "asset": "CLAYPEPE.BLUEPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mekabu"
+        }
+      ]
+    },
+    {
+      "asset": "CLAYPEPE.BLUEPRINT.bitcoin2022",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mekabu"
+        }
+      ]
+    }
+  ]
+}
