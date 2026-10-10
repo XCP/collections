@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PASTELPEPE.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "PASTELPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

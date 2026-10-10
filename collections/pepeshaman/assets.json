@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESHAMAN.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESHAMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPEPCASSO.PRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO.ORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO.BACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO.PURPLEPRINT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO.PURPLEORIGINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPCASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ],
+      "primary": false
+    }
+  ]
+}

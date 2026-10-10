@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "MESSIPEPE.ART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "MESSIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    }
+  ]
+}

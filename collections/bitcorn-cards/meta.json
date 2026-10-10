@@ -3,5 +3,8 @@
   "kind": "canonical",
   "description": "MightBeMike's Corn Geisha and related Bitcorn cards.",
   "art_frame": "card",
-  "founded": 2021
+  "founded": 2021,
+  "links": {
+    "website": "https://bitcorns.com"
+  }
 }

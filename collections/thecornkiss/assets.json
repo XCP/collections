@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "THECORNKISS.ART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        }
+      ]
+    },
+    {
+      "asset": "THECORNKISS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zima Blue"
+        },
+        {
+          "trait_type": "Series",
+          "value": 15
+        },
+        {
+          "trait_type": "Card",
+          "value": 310
+        }
+      ],
+      "primary": false
+    }
+  ]
+}
