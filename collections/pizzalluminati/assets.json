@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PZALLUMINATI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        },
+        {
+          "trait_type": "Series",
+          "value": 93
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "THEWATCHERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
+    }
+  ]
+}

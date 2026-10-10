@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "asset": "DANKWIZKEV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Flepergebet"
+        }
+      ]
+    },
+    {
+      "asset": "DNKWIZKEV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
+    },
+    {
+      "asset": "DNKWIZKEVXCP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DeGenX"
+        }
+      ]
+    }
+  ]
+}
