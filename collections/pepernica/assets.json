@@ -1,0 +1,301 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEREIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 25
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPEREIHTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERELEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERFIFTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERFINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERFTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERNICA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERNICAONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERNICATWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERNINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERNINTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERSEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERSIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERSVNTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERSXTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "PEPERTHTEEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTWELVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTWENTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "THEPEPERNICA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    }
+  ]
+}
