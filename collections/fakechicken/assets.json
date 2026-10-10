@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKECHICKEN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "spirits"
+        }
+      ]
+    },
+    {
+      "asset": "FAKECHICKEN.DROOLCHICKEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "animalspirits"
+        }
+      ]
+    }
+  ]
+}

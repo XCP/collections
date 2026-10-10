@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BLACKBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    },
+    {
+      "asset": "WHITEBITCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nicolas Sierro"
+        }
+      ]
+    }
+  ]
+}
