@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "MEMESTAMP.Cow",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTAMP.Genesis",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTAMP.IWANTYOU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    },
+    {
+      "asset": "MEMESTAMP.Japan",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    }
+  ]
+}
