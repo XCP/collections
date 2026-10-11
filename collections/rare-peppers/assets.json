@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "asset": "RAREPEPPERS.CODY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPPERS.ARWYN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPPERS.TRUDEEART"
+    },
+    {
+      "asset": "RAREPEPPERS.ELON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPPERS.TRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}
