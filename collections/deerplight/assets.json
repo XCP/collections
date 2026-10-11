@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DEERPLIGHT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "DEERPLIGHT.LIKEFROMSEERLIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}

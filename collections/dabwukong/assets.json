@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "DABWUKONG",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "DABWUKONG.PLAYER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}

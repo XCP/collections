@@ -12,3 +12,5 @@
 | Source | Reviewed static `assets.json` |
 | Traits | Artist: 10,044/10,044 (100%) |
 <!-- collection-facts:end -->
+
+[Official project website](https://pifu.digital/) — PiFu's site explicitly catalogs STAMPEPES and links its series. Verified 2026-10-11.

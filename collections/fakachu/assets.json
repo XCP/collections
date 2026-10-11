@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKACHU",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "FAKACHU.IRL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}

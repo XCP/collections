@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CANDEVDOSTH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "CANDEVDOSTH.BUYTHEDIP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}
