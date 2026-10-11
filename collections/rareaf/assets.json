@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "RAREAF"
+    },
+    {
+      "asset": "RAREAF.marketexplainer",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BuddhaAF"
+        }
+      ]
+    },
+    {
+      "asset": "RAREAF.TER-PARTY",
+      "primary": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "RUGSPENSERS"
+    },
+    {
+      "asset": "RUGSPENSERS.SIRMYFAMILY"
+    },
+    {
+      "asset": "RUGSPENSERS.PEPSITHEORY"
+    },
+    {
+      "asset": "RUGSPENSERS.NOTMYASSET"
+    },
+    {
+      "asset": "RUGSPENSERS.ACOMMENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
+    }
+  ]
+}

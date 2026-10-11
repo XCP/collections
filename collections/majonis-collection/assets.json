@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETATOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "PEPESCOBAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "WINNIEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    }
+  ]
+}
