@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "DANKSYSTYLE.DREAMDANKSY"
+    },
+    {
+      "asset": "DANKSYSNOW.DANKSYLOVE"
+    },
+    {
+      "asset": "DANKMEMESY.DANKSYSAVE"
+    },
+    {
+      "asset": "DANKSYSTYLE",
+      "primary": false
+    },
+    {
+      "asset": "DANKSYSNOW",
+      "primary": false
+    },
+    {
+      "asset": "DANKMEMESY",
+      "primary": false
+    }
+  ]
+}
