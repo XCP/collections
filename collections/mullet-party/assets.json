@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "MULLETPARTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bunzy"
+        }
+      ]
+    },
+    {
+      "asset": "MULLETPARTY.SMOOTHMULLET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bunzy"
+        }
+      ]
+    }
+  ]
+}

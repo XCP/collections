@@ -10511,41 +10511,6 @@
       ]
     },
     {
-      "asset": "WINNIEPEPE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Majoni"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
-    },
-    {
-      "asset": "PEPESCOBAR",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Majoni"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
-    },
-    {
-      "asset": "PEPETATOO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Majoni"
-        }
-      ]
-    },
-    {
       "asset": "PEPELTLE",
       "attributes": [
         {
@@ -10565,15 +10530,6 @@
     },
     {
       "asset": "EXCALICORN.BANNER",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Majoni"
-        }
-      ]
-    },
-    {
-      "asset": "RUGSPENSERS.ACOMMENT",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -29543,15 +29499,6 @@
         {
           "trait_type": "Artist",
           "value": "Rare Scrilla"
-        }
-      ]
-    },
-    {
-      "asset": "RAREAF.marketexplainer",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "BuddhaAF"
         }
       ]
     },
