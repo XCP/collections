@@ -31424,7 +31424,13 @@
       ]
     },
     {
-      "asset": "PECTERIA.MMXXIII"
+      "asset": "PECTERIA.MMXXIII",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LvsD"
+        }
+      ]
     },
     {
       "asset": "QUESTFREN.QUESTFREN.153",
@@ -37073,7 +37079,13 @@
       "asset": "EGYPTPEPE"
     },
     {
-      "asset": "EIGHTFOLD"
+      "asset": "EIGHTFOLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rob Mitchell"
+        }
+      ]
     },
     {
       "asset": "EIPGAMEPEP"
@@ -45682,7 +45694,13 @@
       "asset": "SAKESILVIA"
     },
     {
-      "asset": "SALTNPEPER"
+      "asset": "SALTNPEPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ih0dl"
+        }
+      ]
     },
     {
       "asset": "SAMCOINCARD"
@@ -46093,7 +46111,13 @@
       "asset": "SISENEGEKAF"
     },
     {
-      "asset": "SIXSEVEN"
+      "asset": "SIXSEVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GNART"
+        }
+      ]
     },
     {
       "asset": "SIXSEVENS"
@@ -47407,7 +47431,13 @@
       "asset": "TRUCKA"
     },
     {
-      "asset": "TRUDEEPEPE"
+      "asset": "TRUDEEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "trudeeart"
+        }
+      ]
     },
     {
       "asset": "TRUMPANDPEPE"

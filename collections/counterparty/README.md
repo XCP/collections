@@ -337,3 +337,13 @@ Each listed record matches the exact asset and names its creator in the Easyasse
 - TESTINGFW: Davesta ([metadata](https://arweave.net/8BLsgZUpYEhUXyRyQ1F5-xKfPmBW_1OjOBQjXgGqfaA))
 - KEKOHOLDER: psyfrogger ([metadata](https://arweave.net/BYwQb3Bn5MLAt0puLOctz5XYfIWJs7yvdPSVqkg5kZ4))
 - KEKOOKING: psyfrogger ([metadata](https://arweave.net/9Wg3dSC9jSgYYesXaOLZQ3-D4jbfj9yO7iVJ1mhdBTM))
+
+## Exact creator metadata, batch 498–597 (2026-10-11)
+
+These records match the exact asset. Four name the creator in the artist field; TRUDEEPEPE explicitly says "by trudeeart" both in its metadata and reviewed artwork. LvsD reuses the existing identity. Owner-only labels, project names, quoted-message authors and ambiguous aliases remain unresolved. No collection acceptance is inferred.
+
+- SALTNPEPER: ih0dl ([metadata](https://arweave.net/KDOtLvTT96mxXZroHLUHwTYEmS4UqzsBRjNHhE5umSs))
+- PECTERIA.MMXXIII: LvsD ([metadata](https://arweave.net/xF4oOv_KQ8EeLDZ03ySuC6eTTjKn-Il8e1FH8cOBlJ4))
+- SIXSEVEN: GNART ([metadata](https://arweave.net/7o9_RK_2x4sdKeMl_zTUAVVJkQytWL7WBFZy9uOxpY4))
+- EIGHTFOLD: Rob Mitchell ([metadata](https://arweave.net/MT4VHVUplQ1YmaxT_AYS0PKJkjkYxSynuUuxqoRVQZU))
+- TRUDEEPEPE: trudeeart ([metadata](https://gateway.pinata.cloud/ipfs/bafkreidngrfqxacrcfe7n64fejiyk7lpo27k3oitr545vvuz5y3srobxri))
