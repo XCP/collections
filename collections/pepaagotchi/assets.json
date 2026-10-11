@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "PEPAAGOTCHI.SUSPEPAAFLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALIENQUEEN"
+        }
+      ]
+    },
+    {
+      "asset": "PEPAAGOTCHI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Master Yang"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Master Yin"
+        }
+      ]
+    }
+  ]
+}

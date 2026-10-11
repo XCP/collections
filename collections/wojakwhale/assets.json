@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKWHALE.THAMES"
+    },
+    {
+      "asset": "WOJAKWHALE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        }
+      ]
+    }
+  ]
+}
