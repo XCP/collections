@@ -23,6 +23,9 @@ TMDAUTOGRAPH is credited to ArtemTemaDa: its [issuer-linked original JSON](https
 explicitly names ArtemTemaDa and links the same Instagram handle printed on the artwork.
 This corrects an earlier SIV attribution inherited from the Counterparty fallback source;
 the issuer is not sufficient evidence of authorship. Its existing membership is unchanged.
+CYPHERPOOHNK is credited to Remster: its [original onchain-linked JSON](https://mm6l5djejjshrab6acprjhx2del3ypoggvujsqsb5kcdrdmf6f3a.ar.io/Yzy-jSRKZHiAPgCfFJ76GRe8PcY1aJlCQeqEOI2F8XY?.json)
+names rEMSTER and links Remster's artist profile. This replaces the CHAILATTE
+credit inherited from the issuing address without changing collection membership.
 Kaleidoscope is an open project: when an asset already has a primary home in a
 more specific collection, the registry automatically keeps that home and marks
 the Kaleidoscope appearance secondary.

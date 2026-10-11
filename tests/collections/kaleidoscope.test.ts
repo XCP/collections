@@ -83,3 +83,14 @@ test("credits TMDAUTOGRAPH to its documented artist instead of its issuer", asyn
     { trait_type: "Artist", value: "ArtemTemaDa" },
   ]);
 });
+
+test("preserves the documented CYPHERPOOHNK credit across membership refreshes", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "CYPHERPOOHNK";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, fixture.items.length);
+  assert.deepEqual(assets[0].attributes, [
+    { trait_type: "Kaleidoscope ID", value: 2380 },
+    { trait_type: "Artist", value: "Remster" },
+  ]);
+});
