@@ -1,35 +1,83 @@
 {
   "assets": [
     {
-      "asset": "BAKERPGN"
+      "asset": "BAKERPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "BANGPIGEON"
+      "asset": "BANGPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BLESSEDPREY"
     },
     {
-      "asset": "BORGPIGEON"
+      "asset": "BORGPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "BOXERPGN"
+      "asset": "BOXERPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "BREADWHALE"
+      "asset": "BREADWHALE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "BUFFALOGAL",
       "primary": false
     },
     {
-      "asset": "CAESARPGN"
+      "asset": "CAESARPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "CEMHODLER"
+      "asset": "CEMHODLER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "CHIHUAHUAPGN"
+      "asset": "CHIHUAHUAPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "CHOOSEPIGEON",
@@ -41,17 +89,41 @@
       ]
     },
     {
-      "asset": "CLEOPATRAPGN"
+      "asset": "CLEOPATRAPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "COOCRUMB"
+      "asset": "COOCRUMB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "CORNPIGEON",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "CRASHPGN"
+      "asset": "CRASHPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "CROWNBOY",
@@ -63,76 +135,202 @@
       ]
     },
     {
-      "asset": "CZPIGEON"
+      "asset": "CZPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DALIPGN"
+      "asset": "DALIPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DARGERPGN"
+      "asset": "DARGERPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DAVINCIPGN"
+      "asset": "DAVINCIPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "DDAF"
     },
     {
-      "asset": "DESTROYERPGN"
+      "asset": "DESTROYERPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DISCOVERER"
+      "asset": "DISCOVERER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DJPIJO"
+      "asset": "DJPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "DRUIDPGN"
+      "asset": "DRUIDPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "ELIZPIG"
     },
     {
-      "asset": "ELONPIGEON"
+      "asset": "ELONPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
-      "asset": "ESCHERPIGEON"
+      "asset": "ESCHERPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "ETHEREUMPGN"
+      "asset": "ETHEREUMPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "EXITBIRD"
+      "asset": "EXITBIRD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "FAKEPIGEON"
+      "asset": "FAKEPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
-      "asset": "FAKERAREO"
+      "asset": "FAKERAREO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "FATPIGEON"
+      "asset": "FATPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "FIRSTPIGEON"
+      "asset": "FIRSTPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "FLIGHTCLUB"
     },
     {
-      "asset": "FLOORLOOK"
+      "asset": "FLOORLOOK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "FOMOPIJO"
+      "asset": "FOMOPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "FOPLING"
+      "asset": "FOPLING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
-      "asset": "GALLERYPGN"
+      "asset": "GALLERYPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "GAYPIGEON"
+      "asset": "GAYPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "GMOPIGEONS",
@@ -144,7 +342,13 @@
       ]
     },
     {
-      "asset": "GREYPIGEON"
+      "asset": "GREYPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "GROUNDED",
@@ -156,32 +360,80 @@
       ]
     },
     {
-      "asset": "GTAPIGEON"
+      "asset": "GTAPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "HAIRPIGEON"
+      "asset": "HAIRPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "HOKUSAIPGN"
+      "asset": "HOKUSAIPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "HORSEGM"
+      "asset": "HORSEGM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "JANITORPGN"
+      "asset": "JANITORPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "JDOGPIGEON"
+      "asset": "JDOGPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "KHUNULEIMA"
+      "asset": "KHUNULEIMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "halluciphile"
+        }
+      ]
     },
     {
       "asset": "KINGPIGEON"
     },
     {
       "asset": "LFGSWARM",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "LOVEANDDOVES",
@@ -193,34 +445,94 @@
       ]
     },
     {
-      "asset": "MADUROPIGEON"
+      "asset": "MADUROPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MAGRITTEPGN"
+      "asset": "MAGRITTEPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MARIOPIGEON"
+      "asset": "MARIOPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MAYAPGN"
+      "asset": "MAYAPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MONKPGN"
+      "asset": "MONKPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MOONFLYER"
+      "asset": "MOONFLYER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MORNINGREK"
+      "asset": "MORNINGREK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MOTOPIGEON"
+      "asset": "MOTOPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "MUNCHPGN"
+      "asset": "MUNCHPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "NAKAPIGEON"
+      "asset": "NAKAPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "NARDWUARPGN"
@@ -235,16 +547,40 @@
       ]
     },
     {
-      "asset": "NERONPGN"
+      "asset": "NERONPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "NINJAPIGEON"
+      "asset": "NINJAPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "NOLANPGN"
+      "asset": "NOLANPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "NOOTHODL"
+      "asset": "NOOTHODL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "NOTASCAMPIJO",
@@ -265,7 +601,13 @@
       ]
     },
     {
-      "asset": "ORDIMSG"
+      "asset": "ORDIMSG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "ORIGAMIPGN",
@@ -298,7 +640,13 @@
       ]
     },
     {
-      "asset": "PATHFINDER"
+      "asset": "PATHFINDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PEACEPIGEON",
@@ -328,7 +676,13 @@
       ]
     },
     {
-      "asset": "PENPENGEON"
+      "asset": "PENPENGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PEPEPIJO",
@@ -343,10 +697,22 @@
       "asset": "PEPIGEON"
     },
     {
-      "asset": "PERCHED"
+      "asset": "PERCHED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AdeKrypto"
+        }
+      ]
     },
     {
-      "asset": "PGNALIEN"
+      "asset": "PGNALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PGNALONE",
@@ -376,7 +742,13 @@
       ]
     },
     {
-      "asset": "PGNCOBBEE"
+      "asset": "PGNCOBBEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PGNFDN",
@@ -424,7 +796,13 @@
       ]
     },
     {
-      "asset": "PGNMASON"
+      "asset": "PGNMASON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AdeKrypto"
+        }
+      ]
     },
     {
       "asset": "PGNPEACE",
@@ -436,7 +814,13 @@
       ]
     },
     {
-      "asset": "PGNSACRIFICE"
+      "asset": "PGNSACRIFICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PGNSAMURAI",
@@ -448,7 +832,13 @@
       ]
     },
     {
-      "asset": "PGNSTRIKE"
+      "asset": "PGNSTRIKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PGNZOMBIA",
@@ -469,7 +859,13 @@
       ]
     },
     {
-      "asset": "PICASSOPGN"
+      "asset": "PICASSOPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PIGALLEON",
@@ -547,10 +943,22 @@
       ]
     },
     {
-      "asset": "PIGEONCLAP"
+      "asset": "PIGEONCLAP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
-      "asset": "PIGEONCORN"
+      "asset": "PIGEONCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PIGEONCULT",
@@ -640,7 +1048,13 @@
       ]
     },
     {
-      "asset": "PIGEONMASTER"
+      "asset": "PIGEONMASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "PIGEONMODEL",
@@ -670,7 +1084,13 @@
       ]
     },
     {
-      "asset": "PIGEONPOST"
+      "asset": "PIGEONPOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PIGEONPRIEST",
@@ -700,7 +1120,13 @@
       ]
     },
     {
-      "asset": "PIGEONSTEVE"
+      "asset": "PIGEONSTEVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PIGEONTERMIR",
@@ -793,7 +1219,13 @@
       ]
     },
     {
-      "asset": "PLANEPIGEON"
+      "asset": "PLANEPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "PNGPGN",
@@ -805,7 +1237,13 @@
       ]
     },
     {
-      "asset": "POCKETOAT"
+      "asset": "POCKETOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "POTPIGEON",
@@ -871,19 +1309,49 @@
       ]
     },
     {
-      "asset": "PUMPNOAT"
+      "asset": "PUMPNOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "RAGESELL"
+      "asset": "RAGESELL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "RAREDEXBIRD"
+      "asset": "RAREDEXBIRD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
-      "asset": "RAREPIGEON"
+      "asset": "RAREPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "REMBRANDTPGN"
+      "asset": "REMBRANDTPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "RESIDENTPEN",
@@ -895,10 +1363,22 @@
       ]
     },
     {
-      "asset": "ROBOTPGN"
+      "asset": "ROBOTPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "ROCKWELLPGN"
+      "asset": "ROCKWELLPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "ROSEYPGN",
@@ -910,13 +1390,25 @@
       ]
     },
     {
-      "asset": "RPIJO"
+      "asset": "RPIJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
       "asset": "SACREDBONES"
     },
     {
-      "asset": "SAMURAIPGN"
+      "asset": "SAMURAIPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "SAXPIGEON",
@@ -928,10 +1420,22 @@
       ]
     },
     {
-      "asset": "SECRETPJO"
+      "asset": "SECRETPJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "SEEKERPGN"
+      "asset": "SEEKERPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "SKYPIGEONS",
@@ -952,43 +1456,115 @@
       ]
     },
     {
-      "asset": "SOGPIGEON"
+      "asset": "SOGPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "SQUIDPIGEON"
+      "asset": "SQUIDPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "TETHEREDPGON"
+      "asset": "TETHEREDPGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THEARCHIVIST"
+      "asset": "THEARCHIVIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THECAPTAIN"
+      "asset": "THECAPTAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THECUSTODIAN"
+      "asset": "THECUSTODIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THEDECKHAND"
+      "asset": "THEDECKHAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THEGATHERER"
+      "asset": "THEGATHERER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THEINDEXER"
+      "asset": "THEINDEXER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "THENAVIGATOR"
     },
     {
-      "asset": "THESCIENTIST"
+      "asset": "THESCIENTIST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "THESYNCHRO"
+      "asset": "THESYNCHRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "TRASHRICH"
+      "asset": "TRASHRICH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "TRUMPETER",
@@ -1000,13 +1576,31 @@
       ]
     },
     {
-      "asset": "ULTRAPIGEON"
+      "asset": "ULTRAPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
-      "asset": "UPONLYJO"
+      "asset": "UPONLYJO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "VANGOGHPGN"
+      "asset": "VANGOGHPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "XCHAINPIGEON",
@@ -1036,7 +1630,13 @@
       ]
     },
     {
-      "asset": "XRPIGEON"
+      "asset": "XRPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "PIGEONMSN",
@@ -1084,10 +1684,22 @@
       ]
     },
     {
-      "asset": "BARPIGEON"
+      "asset": "BARPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
-      "asset": "PIGEONFUNN"
+      "asset": "PIGEONFUNN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     }
   ]
 }
