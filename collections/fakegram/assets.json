@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEGRAM.GAMMA"
+    },
+    {
+      "asset": "FAKEGRAM.ACETONED"
+    },
+    {
+      "asset": "FAKEGRAM",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}
