@@ -1,0 +1,42 @@
+{
+  "assets": [
+    {
+      "asset": "DANKASSO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PABLOSDANK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PABLOSRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNPABLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    }
+  ]
+}
