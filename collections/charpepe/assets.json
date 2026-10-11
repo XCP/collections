@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CHARPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KeKLs"
+        }
+      ]
+    },
+    {
+      "asset": "CHARPEPE.REVERSERARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KeKLs"
+        }
+      ]
+    }
+  ]
+}
