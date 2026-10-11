@@ -98,7 +98,13 @@
       "asset": "CORNPASTA"
     },
     {
-      "asset": "CORNPIGEON"
+      "asset": "CORNPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "CORNPOPZ"
