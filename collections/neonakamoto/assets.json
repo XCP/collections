@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "NEONAKAMOTO.NEON"
+    },
+    {
+      "asset": "NEONAKAMOTO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        }
+      ]
+    }
+  ]
+}
