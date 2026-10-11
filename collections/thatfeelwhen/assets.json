@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "THATFEELWHEN.HNFT"
+    },
+    {
+      "asset": "THATFEELWHEN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        }
+      ]
+    }
+  ]
+}

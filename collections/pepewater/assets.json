@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.TATIANA"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.THEO"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.DESULTOR"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.SHAWN"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.WINNIE"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.MINTGOLDDUST"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.PEPENARDO"
+    },
+    {
+      "asset": "PEPEWATER.FAKEBASEL2022.SCRILLA"
+    },
+    {
+      "asset": "PEPEWATER.LAFAKANOSTRA"
+    },
+    {
+      "asset": "PEPEWATER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abstract Mirror"
+        }
+      ]
+    }
+  ]
+}
