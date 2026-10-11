@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SAMOPPBLUE.RED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
+    },
+    {
+      "asset": "SAMOPPBLUE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Brocciu"
+        }
+      ]
+    }
+  ]
+}
