@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "SUCCESSDANK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Regan"
+        }
+      ]
+    },
+    {
+      "asset": "SUCCESSDANK.WOJAK"
+    },
+    {
+      "asset": "SUCCESSDANK.FAIL"
+    }
+  ]
+}

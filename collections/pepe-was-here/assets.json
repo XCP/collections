@@ -1,0 +1,58 @@
+{
+  "assets": [
+    {
+      "asset": "THELANDING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEALIEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    },
+    {
+      "asset": "THEVIRUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    },
+    {
+      "asset": "OUTOFORDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    },
+    {
+      "asset": "GREENDEAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    },
+    {
+      "asset": "FLATEARTHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CypherpunkNow"
+        }
+      ]
+    }
+  ]
+}
