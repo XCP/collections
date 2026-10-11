@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "PEPAVILLE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPAVILLE.PEPSTIVAL"
+    },
+    {
+      "asset": "PEPAVILLE.PEPESTIVAL"
+    }
+  ]
+}
