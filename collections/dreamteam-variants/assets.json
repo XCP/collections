@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "DREAMTEAM",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Prefer Wealth"
+        }
+      ]
+    },
+    {
+      "asset": "DREAMTEAM.PURPLE"
+    },
+    {
+      "asset": "DREAMTEAM.SPORTSILLUSTRATED"
+    }
+  ]
+}

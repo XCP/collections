@@ -10,7 +10,7 @@
 | Primary memberships | 403 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 159/403 (39.5%) |
+| Traits | Artist: 162/403 (40.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## Explicit collaboration credits
+
+Exact Coindaddy metadata for DABCPOWER, DABCSPACEBOW and DABCUNGSTEN explicitly names PandaGod and Kaph Resh. Both are credited separately. For example: https://xcp.coindaddy.io/DABCUNGSTEN.json . Related subassets belong to separate namespace families and are not automatically admitted to this directory.

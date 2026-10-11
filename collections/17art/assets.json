@@ -4,7 +4,13 @@
       "asset": "BANANASPEPE"
     },
     {
-      "asset": "BCRAPEPE"
+      "asset": "BCRAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "BIGIDEA"
@@ -104,7 +110,13 @@
       "asset": "CYBORGFROG"
     },
     {
-      "asset": "DANKERIDOO"
+      "asset": "DANKERIDOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "DANKFSPEAKER",
@@ -215,7 +227,13 @@
     },
     {
       "asset": "HAITIANPEPE",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "HATBIDEN"
@@ -417,7 +435,13 @@
       "asset": "PEPEBAKI"
     },
     {
-      "asset": "PEPEBLUEBEAM"
+      "asset": "PEPEBLUEBEAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPEBURGUER"
@@ -709,7 +733,13 @@
     },
     {
       "asset": "STFUPEPE",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "STUARTH"

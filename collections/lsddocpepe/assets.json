@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "LSDDOCPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
+        }
+      ]
+    },
+    {
+      "asset": "LSDDOCPEPE.BITTSBURG"
+    },
+    {
+      "asset": "LSDDOCPEPE.63"
+    }
+  ]
+}

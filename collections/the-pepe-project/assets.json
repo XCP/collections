@@ -34,7 +34,13 @@
       ]
     },
     {
-      "asset": "BITKOI"
+      "asset": "BITKOI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "BITWATTS"
@@ -91,7 +97,13 @@
       "asset": "BUSTEDJPEPE"
     },
     {
-      "asset": "CENTEOTLPEPE"
+      "asset": "CENTEOTLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "CHEQMATE"
@@ -317,7 +329,13 @@
       "asset": "GQPEPE"
     },
     {
-      "asset": "HAITIANPEPE"
+      "asset": "HAITIANPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "HALSTRADAMUS"
@@ -359,7 +377,13 @@
       "asset": "INQONTROLPEP"
     },
     {
-      "asset": "IYKYKDANK"
+      "asset": "IYKYKDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "JCKEKMALLERS"
@@ -554,7 +578,13 @@
       "asset": "NAKAFUNGIBLE"
     },
     {
-      "asset": "NAKASENDIT"
+      "asset": "NAKASENDIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "NCSWIC"
@@ -677,7 +707,13 @@
       "asset": "PEPEKWAST"
     },
     {
-      "asset": "PEPELASVEGAS"
+      "asset": "PEPELASVEGAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPELEGACY",
@@ -707,7 +743,13 @@
       "asset": "PEPEMNUCHIN"
     },
     {
-      "asset": "PEPEMOONLICK"
+      "asset": "PEPEMOONLICK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPENOTHING"
@@ -722,7 +764,13 @@
       "asset": "PEPEPOWELL"
     },
     {
-      "asset": "PEPEQUINOX"
+      "asset": "PEPEQUINOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPERAREST"
@@ -746,7 +794,13 @@
       ]
     },
     {
-      "asset": "PEPESGATE"
+      "asset": "PEPESGATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPESNOWDEN",
@@ -939,7 +993,13 @@
       "asset": "STEALTHJEFF"
     },
     {
-      "asset": "STFUPEPE"
+      "asset": "STFUPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "STRLDYKEKUIT"

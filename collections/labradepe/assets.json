@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "LABRADEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
+        }
+      ]
+    },
+    {
+      "asset": "LABRADEPE.PURPLE"
+    },
+    {
+      "asset": "LABRADEPE.3D4"
+    },
+    {
+      "asset": "LABRADEPE.3D3"
+    },
+    {
+      "asset": "LABRADEPE.3D2"
+    },
+    {
+      "asset": "LABRADEPE.threeD"
+    },
+    {
+      "asset": "LABRADEPE.lebronpe"
+    }
+  ]
+}

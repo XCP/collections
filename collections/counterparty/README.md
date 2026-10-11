@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,629 assets |
-| Primary memberships | 7,629 |
+| Membership | 7,615 assets |
+| Primary memberships | 7,615 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,629 (0.2%)<br>Artist: 3,217/7,629 (42.2%) |
+| Traits | Art year: 17/7,615 (0.2%)<br>Artist: 3,223/7,615 (42.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -168,3 +168,9 @@ Exact chain-linked Arweave metadata identifies Robness for LANDWOLF and MADONNAN
 ## DODO metadata credit
 
 The exact chain-linked [DODO JSON](https://arweave.net/tTvK2Fu9Hs8HZ1DT-c_GKBkN1VMHR0ifinrvms6AlhM) signs “J-Dog & LongBranch” and links jdogresorg. J-Dog resolves to the existing JDog artist. LongBranch remains pending verification against the existing LongBranch Bear identity rather than creating a possible duplicate. DODO remains outside the Blackbox namespace.
+
+## PandaGod and Arvik metadata review
+
+SCARFACEAPE explicitly names PandaGod in its chain-linked Coindaddy description. Exact matching Arweave records signed Arvik support individual restored credits; mismatched STEAMPENSK/STEAMPENK and GLITCHPEN/PENPEN_404 records are held. No blanket issuer attribution is applied.
+
+Matching Arvik source examples: [STEAMPENK](https://ollqtd7jckwahzlqu55wo6ku4mnfgx4bx6n3d4dubp7roskvci5a.arweave.net/ctcJj-kSrAPlcKd7Z3lU4xpTX4G_m7HwdAv_F0lVEjo), [PEPEARVIK](https://vb3jnn5vjqz3avr556efn433o7avmdjho33jre6cf4q5tcuarvla.arweave.net/qHaWt7VMM7BWPe-IVvN7d8FWDSd29piTwi8h2YqAjVY), [NAKASENDIT](https://zoq5p5pxjkv5nyjxffpliewxhoogy7xnnpqxiyjoldbqxusokata.arweave.net/y6HX9fdKq9bhNyletBLXO5xsfu1r4XRhLljDC9JOUCY). Each added credit was checked against its own exact JSON asset identifier and signature.
