@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "STEAMBOAT.WILLIE-Poster",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Cartel"
+        }
+      ]
+    },
+    {
+      "asset": "STEAMBOAT.WILLIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Cartel"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
+    }
+  ]
+}

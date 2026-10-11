@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CORNPUTER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    },
+    {
+      "asset": "CORNPUTER.CONTEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    }
+  ]
+}
