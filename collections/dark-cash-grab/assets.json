@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "DARKCASHGRAB",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
+    },
+    {
+      "asset": "DARKCASHGRAB.DARKPOOLPEPE"
+    },
+    {
+      "asset": "DARKCASHGRAB.FTX"
+    },
+    {
+      "asset": "DARKCASHGRAB.LA.FAKA.WONT.STANDBY"
+    },
+    {
+      "asset": "DARKCASHGRAB.lapurplenurple"
+    },
+    {
+      "asset": "DARKCASHGRAB.VINCENT_VAN_NOPE"
+    },
+    {
+      "asset": "LITECASHGRAB"
+    }
+  ]
+}
