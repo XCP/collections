@@ -815,7 +815,13 @@
       "asset": "PEPEREVERE"
     },
     {
-      "asset": "PEPEROGERS"
+      "asset": "PEPEROGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
       "asset": "PEPESAVEME"

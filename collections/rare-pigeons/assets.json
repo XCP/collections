@@ -256,7 +256,13 @@
       ]
     },
     {
-      "asset": "OPPGN"
+      "asset": "OPPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
       "asset": "ORDIMSG"
@@ -979,7 +985,13 @@
       "asset": "TRASHRICH"
     },
     {
-      "asset": "TRUMPETER"
+      "asset": "TRUMPETER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
       "asset": "ULTRAPIGEON"
@@ -1000,7 +1012,13 @@
       ]
     },
     {
-      "asset": "XQUISITEPGN"
+      "asset": "XQUISITEPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
       "asset": "XRAREPIGEON",
