@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BTCBANKNOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBANKNOTE.SUBASTA"
+    },
+    {
+      "asset": "BTCBANKNOTE.BITCOIN2019SF"
+    },
+    {
+      "asset": "BTCBANKNOTE.RAREAF2"
+    }
+  ]
+}
