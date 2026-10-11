@@ -268,7 +268,13 @@
       "asset": "FAKESNB"
     },
     {
-      "asset": "FALLOFWALLST"
+      "asset": "FALLOFWALLST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "FIRSTBURN"
@@ -482,7 +488,13 @@
       ]
     },
     {
-      "asset": "KEKMIRROR"
+      "asset": "KEKMIRROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "KEKRAMID",
@@ -1068,7 +1080,13 @@
       ]
     },
     {
-      "asset": "TAXDEEZNUTS"
+      "asset": "TAXDEEZNUTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "TESLAENERGY"
@@ -1077,7 +1095,13 @@
       "asset": "THANKQ"
     },
     {
-      "asset": "THECOLLECTIV"
+      "asset": "THECOLLECTIV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "THEDEALER"
@@ -1173,10 +1197,22 @@
       "asset": "TRUSTFLYNN"
     },
     {
-      "asset": "UNARMEDPEPE"
+      "asset": "UNARMEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
-      "asset": "UNNEGOTIABLE"
+      "asset": "UNNEGOTIABLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "USSFPEPE"
