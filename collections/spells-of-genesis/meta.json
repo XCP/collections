@@ -3,5 +3,8 @@
   "kind": "canonical",
   "description": "The first blockchain game cards, issued from 2015.",
   "art_frame": "card",
-  "founded": 2015
+  "founded": 2015,
+  "links": {
+    "website": "https://spellsofgenesis.com"
+  }
 }
