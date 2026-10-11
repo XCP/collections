@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEASE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Diana Scot"
+        }
+      ]
+    },
+    {
+      "asset": "A17346442692743720000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Diana Scot"
+        }
+      ]
+    }
+  ]
+}

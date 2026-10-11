@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WHERESCONDO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mathew"
+        }
+      ]
+    },
+    {
+      "asset": "WHERESCORNDO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mathew"
+        }
+      ]
+    }
+  ]
+}
