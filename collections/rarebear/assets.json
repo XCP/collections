@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "RAREBEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "RAREBEAR.POLARMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}

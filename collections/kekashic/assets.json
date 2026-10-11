@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "KEKASHIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "KEKASHIC.KEVIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}
