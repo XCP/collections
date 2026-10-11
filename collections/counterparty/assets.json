@@ -31511,9 +31511,6 @@
       "asset": "TUBGIRL.KOTAKU"
     },
     {
-      "asset": "BTCBANKNOTE.RAREAF2"
-    },
-    {
       "asset": "DIGITALROSE.1-BIT",
       "attributes": [
         {
@@ -31842,9 +31839,6 @@
     },
     {
       "asset": "FSHARP.2hj"
-    },
-    {
-      "asset": "BTCBANKNOTE.BITCOIN2019SF"
     },
     {
       "asset": "PAMBONDI.PepeisLove"
@@ -35049,15 +35043,6 @@
     },
     {
       "asset": "BTCBANANA"
-    },
-    {
-      "asset": "BTCBANKNOTE",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Gus Grillasca"
-        }
-      ]
     },
     {
       "asset": "BTCBLOCK",
