@@ -29917,7 +29917,13 @@
       "asset": "A11107705792431377760"
     },
     {
-      "asset": "A11107932192795843131"
+      "asset": "A11107932192795843131",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wizard X"
+        }
+      ]
     },
     {
       "asset": "A11108308507282498855"
@@ -43885,7 +43891,13 @@
       "asset": "PEPERIINA"
     },
     {
-      "asset": "PEPERIUMART"
+      "asset": "PEPERIUMART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "zacks.eth"
+        }
+      ]
     },
     {
       "asset": "PEPERIVER",
@@ -44932,10 +44944,22 @@
       "asset": "PRICENOTDOWN"
     },
     {
-      "asset": "PRINCESPOOP"
+      "asset": "PRINCESPOOP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yana Tark"
+        }
+      ]
     },
     {
-      "asset": "PRINCESSPOOP"
+      "asset": "PRINCESSPOOP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Yana Tark"
+        }
+      ]
     },
     {
       "asset": "PRIORITY"
