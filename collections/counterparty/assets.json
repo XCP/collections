@@ -29716,9 +29716,6 @@
       ]
     },
     {
-      "asset": "CRYPTOPUNKS.1"
-    },
-    {
       "asset": "BITBALL.3HONUSWAGNER"
     },
     {
@@ -30957,9 +30954,6 @@
       ]
     },
     {
-      "asset": "YOURBASEPEPE.DARKBASEGRAB"
-    },
-    {
       "asset": "A1216740422777602215"
     },
     {
@@ -31629,9 +31623,6 @@
       "asset": "A16000563300982065000"
     },
     {
-      "asset": "CRYPTOPUNKS.5"
-    },
-    {
       "asset": "PEPECYBER.HD"
     },
     {
@@ -31869,9 +31860,6 @@
       "asset": "A17062636427198607000"
     },
     {
-      "asset": "CRYPTOPUNKS.10"
-    },
-    {
       "asset": "VETTEDREALTY.VRX-RU-02"
     },
     {
@@ -32005,9 +31993,6 @@
     },
     {
       "asset": "VETTEDREALTY.VRX-TH-05"
-    },
-    {
-      "asset": "CRYPTOPUNKS.2"
     },
     {
       "asset": "TUBGIRL.COM"
@@ -32511,12 +32496,6 @@
       "asset": "FROGG.BLUE"
     },
     {
-      "asset": "CRYPTOPUNKS.8"
-    },
-    {
-      "asset": "CRYPTOPUNKS.7"
-    },
-    {
       "asset": "FAKEGAMERP.ragequit"
     },
     {
@@ -32533,9 +32512,6 @@
     },
     {
       "asset": "A3306414767944257000"
-    },
-    {
-      "asset": "CRYPTOPUNKS.3"
     },
     {
       "asset": "DIMZ.SANDBOX.006",
@@ -32865,9 +32841,6 @@
       "asset": "A4522512151651800103"
     },
     {
-      "asset": "CRYPTOPUNKS.11"
-    },
-    {
       "asset": "A4533439822237200000"
     },
     {
@@ -33031,9 +33004,6 @@
     },
     {
       "asset": "OOPENPEN.xn--bw8h"
-    },
-    {
-      "asset": "CRYPTOPUNKS.9"
     },
     {
       "asset": "UKSTAMPS.UFOPEPE",
@@ -33250,9 +33220,6 @@
     },
     {
       "asset": "A6089544598505577473"
-    },
-    {
-      "asset": "CRYPTOPUNKS.4"
     },
     {
       "asset": "BLOCKCARD.17"
@@ -33627,9 +33594,6 @@
       "asset": "A7377889058201316000"
     },
     {
-      "asset": "CRYPTOPUNKS.6"
-    },
-    {
       "asset": "A740328084500859458"
     },
     {
@@ -33999,9 +33963,6 @@
       ]
     },
     {
-      "asset": "CRYPTOPUNKS.12"
-    },
-    {
       "asset": "A8393883732111094800"
     },
     {
@@ -34155,9 +34116,6 @@
       "asset": "BITBALL.4LOUGEHRIG"
     },
     {
-      "asset": "CRYPTOPUNKS.0"
-    },
-    {
       "asset": "BARBIFIED.KONNIEHUQ",
       "attributes": [
         {
@@ -34216,9 +34174,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "PEPEMPERNEL.TRASHREDUX"
     },
     {
       "asset": "DROOLPARK.KENNY"
@@ -40819,7 +40774,13 @@
       "asset": "MAMMOTHPOOL"
     },
     {
-      "asset": "MANCHESTWOTR"
+      "asset": "MANCHESTWOTR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
     },
     {
       "asset": "MANDANKELA"

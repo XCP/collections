@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "YOURBASEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
+    },
+    {
+      "asset": "YOURBASEPEPE.DARKBASEGRAB"
+    }
+  ]
+}

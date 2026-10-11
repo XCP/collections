@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,539 assets |
-| Primary memberships | 7,539 |
+| Membership | 7,524 assets |
+| Primary memberships | 7,524 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,539 (0.2%)<br>Artist: 3,222/7,539 (42.7%) |
+| Traits | Art year: 17/7,524 (0.2%)<br>Artist: 3,223/7,524 (42.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -182,3 +182,7 @@ Individual chain-linked JSON signatures restore missing artist credits; no issue
 ## BIGAPPLEPEPE artist
 
 The [reviewed card preview](https://cdn.xcp.io/img/card/BIGAPPLEPEPE) visibly signs the work @shawnleary. This matches the existing Shawn Leary artist handle independently published in the official [WOJACKCHAMP metadata](https://thewojakway.com/j/WOJACKCHAMP.json). Credit this particular signed card; do not infer authorship for other works issued by the address.
+
+## MANCHESTWOTR attribution
+
+The [exact chain-linked metadata](https://f3ahbovsupish6su6w5gpsam65dnazwywkfhprwasvvinrjt2swa.arweave.net/LsBwurKj0SP6VPW6Z8gM90bQZtiyinfGwJVqhsUz1Kw) explicitly attributes MANCHESTWOTR to Indelible, matching the reviewed preview. This is a published attribution, not a claim of cryptographic verification.

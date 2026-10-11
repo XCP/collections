@@ -148,7 +148,13 @@
       "asset": "RAREPEP"
     },
     {
-      "asset": "RUBINKHNUM"
+      "asset": "RUBINKHNUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
     },
     {
       "asset": "SUPREMEGOAT",
