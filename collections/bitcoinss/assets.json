@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "BITCOINSS",
+      "primary": false
+    },
+    {
+      "asset": "BITCOINSS.Framedposter.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "BITCOINSS.TSHIRT.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

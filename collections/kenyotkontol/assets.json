@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "KENYOTKONTOL",
+      "primary": false
+    },
+    {
+      "asset": "KENYOTKONTOL.Framedposter.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "KENYOTKONTOL.TSHIRT.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}
