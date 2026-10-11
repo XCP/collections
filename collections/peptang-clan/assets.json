@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "PEPTANGCLAN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "PEPTANGCLAN.LAFAKAATTACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "PEPTANGCLAN.PEPTANG.SHAOLIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    }
+  ]
+}

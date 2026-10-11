@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "BTCBANON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBLIGHTN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBLOST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    },
+    {
+      "asset": "LOSTBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    }
+  ]
+}
