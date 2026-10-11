@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEIZARD",
+      "primary": false
+    },
+    {
+      "asset": "FAKEIZARD.PAINT"
+    },
+    {
+      "asset": "FAKEIZARD.TEXTURE"
+    },
+    {
+      "asset": "FAKEIZARD.GLASS"
+    },
+    {
+      "asset": "FAKEIZARD.DARK"
+    },
+    {
+      "asset": "FAKEIZARD.FIRE"
+    },
+    {
+      "asset": "FAKEIZARD.REALFAKE"
+    }
+  ]
+}
