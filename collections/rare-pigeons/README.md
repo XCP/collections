@@ -10,7 +10,7 @@
 | Primary memberships | 195 |
 | Secondary or curated memberships | 3 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 82/198 (41.4%) |
+| Traits | Artist: 184/198 (92.9%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,9 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## L_vs_D credits
 
 Exact chain-linked Rare Pigeons JSON for SAUNAPEPE, PNGPGN, LOVEANDDOVES and PIJOLADY publishes the attribution LvsD and the Zbyku social handle. Use the existing L_vs_D artist credit, preserving collection membership. Example: https://assets.rarepigeons.com/meta/SAUNAPEPE_1781036761.json . These published attribution fields are not claimed as cryptographically verified signatures.
+
+## Official catalog artist credits
+
+The official season, Special Editions, Pigeon Artists and COOCRUMB Cards pages explicitly pair asset names with artist handles. Missing credits were filled only where the published handle matches an established registry artist exactly and does not conflict with the current marketplace credit. Existing membership priorities and all traits remain intact. Issuer ownership and historical artists portrayed on cards are not attribution evidence. Spelling variants remain held for separate identity research.
+
+Sources: [/coocrumb-cards/](https://www.rarepigeons.com/coocrumb-cards/), [/season-3/](https://www.rarepigeons.com/season-3/), [/season-1/](https://www.rarepigeons.com/season-1/), [/special-editions/](https://www.rarepigeons.com/special-editions/), [/season-5/](https://www.rarepigeons.com/season-5/), [/pigeon-artists/](https://www.rarepigeons.com/pigeon-artists/), [/season-2/](https://www.rarepigeons.com/season-2/), [/season-6/](https://www.rarepigeons.com/season-6/), [/season-7/](https://www.rarepigeons.com/season-7/), [/season-4/](https://www.rarepigeons.com/season-4/).
