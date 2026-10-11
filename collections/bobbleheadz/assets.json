@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BOBBLEHEADZ.CODY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "BOBBLEHEADZ.MELANIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}
