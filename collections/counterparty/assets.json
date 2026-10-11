@@ -37950,7 +37950,13 @@
       "asset": "DATAWAY"
     },
     {
-      "asset": "DAVIDGOLIATH"
+      "asset": "DAVIDGOLIATH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ]
     },
     {
       "asset": "DAVIDPEPEBTC"
@@ -42025,7 +42031,13 @@
       "asset": "LOTUSMOKER"
     },
     {
-      "asset": "LOVEANDLIGHT"
+      "asset": "LOVEANDLIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ]
     },
     {
       "asset": "LOVEDEATPEPE"
@@ -48056,7 +48068,13 @@
       "asset": "TAKENAPART"
     },
     {
-      "asset": "TAKEPOWERBAK"
+      "asset": "TAKEPOWERBAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MEAR ONE"
+        }
+      ]
     },
     {
       "asset": "TAKETHEPILL"
