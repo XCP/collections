@@ -1,0 +1,9 @@
+{
+  "name": "SatoshiDice",
+  "kind": "canonical",
+  "description": "The SatoshiDice art token and its Dice Man and Las Vegas subassets.",
+  "links": {
+    "website": "https://sites.google.com/view/doggfather/satoshidice"
+  },
+  "art_frame": "card"
+}
