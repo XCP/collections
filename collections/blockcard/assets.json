@@ -1,0 +1,157 @@
+{
+  "assets": [
+    {
+      "asset": "BLOCKCARD.1",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.2",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.3",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.4",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.5",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "5"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.6",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.7",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.8",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.9",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.10",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.11",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.12",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.13",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "13"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.14",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "14"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.15",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.18",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "asset": "BLOCKCARD.19",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": "19"
+        }
+      ]
+    }
+  ]
+}
