@@ -1,7 +1,34 @@
 {
   "assets": [
     {
-      "asset": "DANKATOM",
+      "asset": "OGXCPNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "XCPNEOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "WIZARDOFXCP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "DIGITALPEPE",
       "primary": false,
       "attributes": [
         {
@@ -11,7 +38,7 @@
       ]
     },
     {
-      "asset": "DANKLIGHT",
+      "asset": "MAXADDRESSES",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -20,68 +47,7 @@
       ]
     },
     {
-      "asset": "LEAFOFPOWER",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "HIPPYPEPE",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "DANKMAGIC",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "TOKINPEPE",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "DANKBOSS",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "HIDDENPEPE",
-      "primary": false,
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Vizique"
-        }
-      ]
-    },
-    {
-      "asset": "PEPEDMT",
-      "primary": false,
+      "asset": "CODERPEPE",
       "attributes": [
         {
           "trait_type": "Artist",
