@@ -47,6 +47,36 @@
           "value": "Vizique"
         }
       ]
+    },
+    {
+      "asset": "ONEDANKONE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "ONEDANKTWO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "ONEDANKTHREE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
     }
   ]
 }
