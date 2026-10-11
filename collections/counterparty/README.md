@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,738 assets |
-| Primary memberships | 7,738 |
+| Membership | 7,694 assets |
+| Primary memberships | 7,694 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,738 (0.2%)<br>Artist: 3,212/7,738 (41.5%) |
+| Traits | Art year: 17/7,694 (0.2%)<br>Artist: 3,213/7,694 (41.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -156,3 +156,7 @@ Credits below use original current or historical exact-asset metadata and review
 Recovered chain-linked Arweave JSON by removing obsolete filename suffixes. Exact asset identities and explicit pgpsig attribution support missing CTC and BLISSFULMORG credits, with Emperor Western credited for the artwork where the record distinguishes drawing from Cody typing text. TRUMPWINS credits CTC and Emperor Western separately. The project families are documented in DeterminPepe and QueenArtCoin; existing official primary homes are preserved.
 
 Hold LFGLUTNICK and SPELLSOFGOAT identifier mismatches, ambiguous AMY DIGI CODY DOODLED, and BEACHBOBO: its metadata says BAM BAM while the current credit says Salva. No existing attribution is overwritten. LFG website branding alone is not acceptance into its directory.
+
+## PEDALWARRIOR artist: 2026-10-10
+
+Its [exact chain-linked JSON](https://arweave.net/AYu11tGi0LxJfPK1KBaHFbxYnqCQ7aRp8UfjFpMilRI) signs neilol and links @PepesAbstract. Add that explicit credit only. The wider issuer contains coherent Pepe portraits but their Easyasset JSON is empty and the referenced AbstractPepe website is offline; no collection membership or other authorship is inferred. This is unrelated to the later Abstract-chain project of a similar name.

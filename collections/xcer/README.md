@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 67 assets |
-| Primary memberships | 67 |
+| Membership | 91 assets |
+| Primary memberships | 91 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 52/67 (77.6%)<br>Series: 52/67 (77.6%) |
+| Traits | Artist: 76/91 (83.5%)<br>Series: 68/91 (74.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -37,3 +37,9 @@ Image references: https://cdn.xcp.io/img/card/XPSA and https://cdn.xcp.io/img/ca
 XADAM and VILLAR are explicitly labelled Counterparty Legend in their own images. They share the pink portrait-card design and identify their exact asset names; XADAM carries a card 1 badge. They join the XCER umbrella with a Counterparty Legends series trait, distinct from the existing orange Legends of Bitcoin cards. Existing XCER artist credits are preserved.
 
 Reviewed 2026-10-10 using xcpio-core issuance history and original media: https://i.imgur.com/kGRpyx3.png (XADAM) and https://i.imgur.com/IaoAQz8.jpg (VILLAR). The former remains reachable even though the CDN card rendition failed during review. This is not a claim that other similarly styled portraits were accepted into this series.
+
+## XCERPASS and airdrop cards: 2026-10-10
+
+Added 24 exact-identifier assets whose chain-linked Arweave metadata explicitly signs XCER and links the project website/social. Their inspected CDN artwork carries the XCER brand, and descriptions document the airdrop-card releases and related physical-card/slot tokens. Recover JSON from the bare Arweave transaction: legacy filename suffixes return 404. XCERPASS series traits are applied only where the metadata actually names it. UTXOWAR and IIIATLAS remain excluded because their media/evidence is missing. UFOATLAS and UFOATLIS are separate registrations with matching exact metadata and remain separate assets despite similar images.
+
+Primary source example: [DOUBLETOP metadata](https://kfoqtdfddpiojibsvv7z3anbsk66b737tknq2ojw46wqwfqo4jfa.arweave.net/UV0JjKMb0OSgMq1_nYGhkr3g_3-amw05NuetCxYO4ko). The project website is added to collection metadata. No marketplace or financial claims from these descriptions are adopted as registry facts.

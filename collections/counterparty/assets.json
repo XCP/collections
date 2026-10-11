@@ -31359,9 +31359,6 @@
       "asset": "MICU.BITCOINCLOCK"
     },
     {
-      "asset": "XAIRDROPCARD.MACD"
-    },
-    {
       "asset": "HANDPRINTS.airdrop",
       "attributes": [
         {
@@ -34881,9 +34878,6 @@
       "asset": "BADGERLUNCH"
     },
     {
-      "asset": "BADROBOT"
-    },
-    {
       "asset": "BAFAKACUS",
       "attributes": [
         {
@@ -35287,9 +35281,6 @@
     },
     {
       "asset": "BITCYCLE"
-    },
-    {
-      "asset": "BITDOMINANCE"
     },
     {
       "asset": "BITGANFROG"
@@ -35982,9 +35973,6 @@
       "asset": "BUCKETHATPEP"
     },
     {
-      "asset": "BUFFALOS"
-    },
-    {
       "asset": "BUGATTIPEPE"
     },
     {
@@ -36532,9 +36520,6 @@
     },
     {
       "asset": "COLDCHISEL"
-    },
-    {
-      "asset": "COLDSTORAGE"
     },
     {
       "asset": "COLLABORARE"
@@ -37287,9 +37272,6 @@
       ]
     },
     {
-      "asset": "DEATHSHEAD"
-    },
-    {
       "asset": "DEDDISPENSER"
     },
     {
@@ -37653,9 +37635,6 @@
       "asset": "DOTFUTURE"
     },
     {
-      "asset": "DOUBLETOP"
-    },
-    {
       "asset": "DOUCIT"
     },
     {
@@ -37836,9 +37815,6 @@
       ]
     },
     {
-      "asset": "ELGATO"
-    },
-    {
       "asset": "ELHODLADOR"
     },
     {
@@ -37854,13 +37830,7 @@
       "asset": "ELONAPEPE"
     },
     {
-      "asset": "ELOSHI"
-    },
-    {
       "asset": "ELPEPEBUKELE"
-    },
-    {
-      "asset": "EMERALDHILL"
     },
     {
       "asset": "EMINESCU"
@@ -39780,12 +39750,6 @@
       "asset": "HARVEYNORMAN"
     },
     {
-      "asset": "HASHPOWER"
-    },
-    {
-      "asset": "HASHWAR"
-    },
-    {
       "asset": "HATSUCOIN"
     },
     {
@@ -39877,9 +39841,6 @@
     },
     {
       "asset": "HIPAPEDROOL"
-    },
-    {
-      "asset": "HIPPIEFLOWER"
     },
     {
       "asset": "HISTORICART"
@@ -40293,9 +40254,6 @@
       "asset": "IMWITHSTUPID"
     },
     {
-      "asset": "INCLUSIONS"
-    },
-    {
       "asset": "INCOGNITOFRN"
     },
     {
@@ -40345,9 +40303,6 @@
     },
     {
       "asset": "INTROPEPE"
-    },
-    {
-      "asset": "INVCRAMER"
     },
     {
       "asset": "IPFSPEPE"
@@ -41191,9 +41146,6 @@
       "asset": "MACCA"
     },
     {
-      "asset": "MACD"
-    },
-    {
       "asset": "MADCOOKIES"
     },
     {
@@ -41312,9 +41264,6 @@
     },
     {
       "asset": "MASIA"
-    },
-    {
-      "asset": "MASTERING"
     },
     {
       "asset": "MASTERINTEL"
@@ -41774,9 +41723,6 @@
       ]
     },
     {
-      "asset": "MONSTROSITY"
-    },
-    {
       "asset": "MONTANAKEK"
     },
     {
@@ -41844,9 +41790,6 @@
     },
     {
       "asset": "MOUNTAINLION"
-    },
-    {
-      "asset": "MOUNTAINMAN"
     },
     {
       "asset": "MOUNTBATTON"
@@ -43046,7 +42989,13 @@
       "asset": "PEBALL"
     },
     {
-      "asset": "PEDALWARRIOR"
+      "asset": "PEDALWARRIOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "neilol"
+        }
+      ]
     },
     {
       "asset": "PEDEBBY"
@@ -45116,9 +45065,6 @@
       ]
     },
     {
-      "asset": "POLOTROLLBOX"
-    },
-    {
       "asset": "POLYPEPE"
     },
     {
@@ -45968,9 +45914,6 @@
       "asset": "REKTOSHI"
     },
     {
-      "asset": "REMEMBERING"
-    },
-    {
       "asset": "REMEMBERLUNA"
     },
     {
@@ -46056,9 +45999,6 @@
     },
     {
       "asset": "RITUALBLADE"
-    },
-    {
-      "asset": "RIVERDOGE"
     },
     {
       "asset": "ROADSKULL"
@@ -46442,9 +46382,6 @@
       "asset": "SEAPEDROOL"
     },
     {
-      "asset": "SEASHORE"
-    },
-    {
       "asset": "SEEDGPT"
     },
     {
@@ -46572,9 +46509,6 @@
     },
     {
       "asset": "SHIROPUN"
-    },
-    {
-      "asset": "SHITCOINLAND"
     },
     {
       "asset": "SHITCOINMAXI"
@@ -46722,9 +46656,6 @@
     },
     {
       "asset": "SMOKINGPEPE"
-    },
-    {
-      "asset": "SMOKINGWEED"
     },
     {
       "asset": "SMOLBRAINS"
@@ -47006,9 +46937,6 @@
       "asset": "STAYHOMEPEPE"
     },
     {
-      "asset": "STEAKNSHAKE"
-    },
-    {
       "asset": "STEAMPENK"
     },
     {
@@ -47028,9 +46956,6 @@
     },
     {
       "asset": "STICKEY"
-    },
-    {
-      "asset": "STOCKAMOTO"
     },
     {
       "asset": "STORMBURGUER",
@@ -47333,9 +47258,6 @@
       ]
     },
     {
-      "asset": "TESTGALLERY"
-    },
-    {
       "asset": "TESTGEN",
       "attributes": [
         {
@@ -47523,9 +47445,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "THEKISS"
     },
     {
       "asset": "THELANDING"
@@ -48107,12 +48026,6 @@
       "asset": "UCITPEPE"
     },
     {
-      "asset": "UFOATLAS"
-    },
-    {
-      "asset": "UFOATLIS"
-    },
-    {
       "asset": "UFOFILM"
     },
     {
@@ -48209,9 +48122,6 @@
       "asset": "USMILITARY"
     },
     {
-      "asset": "USUALSUSPECT"
-    },
-    {
       "asset": "UTERPEPE"
     },
     {
@@ -48222,9 +48132,6 @@
     },
     {
       "asset": "UTXOPETS"
-    },
-    {
-      "asset": "UXTOWARS"
     },
     {
       "asset": "VALENTINEPEP"
@@ -48336,9 +48243,6 @@
     },
     {
       "asset": "VPLUSONE"
-    },
-    {
-      "asset": "VPOTUS"
     },
     {
       "asset": "VQGANCLIPEPE"
@@ -48479,9 +48383,6 @@
       "asset": "WESTFIELD"
     },
     {
-      "asset": "WHALESHARK"
-    },
-    {
       "asset": "WHATFILES"
     },
     {
@@ -48567,9 +48468,6 @@
     },
     {
       "asset": "WILDTURKEY"
-    },
-    {
-      "asset": "WINDOWVIEW"
     },
     {
       "asset": "WINTERDRGN"
@@ -48701,9 +48599,6 @@
       "asset": "WOLFMAN"
     },
     {
-      "asset": "WOMANINBED"
-    },
-    {
       "asset": "WOODENHORSE"
     },
     {
@@ -48720,9 +48615,6 @@
     },
     {
       "asset": "WOWOW"
-    },
-    {
-      "asset": "WRITINGMUSIC"
     },
     {
       "asset": "WRMHOLETRIP"
@@ -48761,12 +48653,6 @@
       "asset": "XAGENCYFLIPX"
     },
     {
-      "asset": "XAIRDROPCARD"
-    },
-    {
-      "asset": "XAIRGAP"
-    },
-    {
       "asset": "XALWAYSXPEPE"
     },
     {
@@ -48780,15 +48666,6 @@
     },
     {
       "asset": "XASKMONA"
-    },
-    {
-      "asset": "XBLACKOUT"
-    },
-    {
-      "asset": "XCARDDIV"
-    },
-    {
-      "asset": "XCERPASS"
     },
     {
       "asset": "XCOCO"
@@ -48894,9 +48771,6 @@
     },
     {
       "asset": "YACHTVIBES"
-    },
-    {
-      "asset": "YADI"
     },
     {
       "asset": "YAKUZA"

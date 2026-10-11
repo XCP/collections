@@ -1,0 +1,356 @@
+{
+  "assets": [
+    {
+      "asset": "SMOKINGWEED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "WRITINGMUSIC",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "12"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "WOMANINBED",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "8"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "WINDOWVIEW",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "4"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "WHALESHARK",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "19"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "VPOTUS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "5"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "USUALSUSPECT",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "17"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "THEKISS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "2"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "SEASHORE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "20"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "RIVERDOGE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "9"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "REMEMBERING",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "6"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "MOUNTAINMAN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "10"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "INCLUSIONS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "16"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "HIPPIEFLOWER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "7"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "EMERALDHILL",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "18"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "ELGATO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "13"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "DEATHSHEAD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "15"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "COLDSTORAGE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "14"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "BUFFALOS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "3"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "BADROBOT",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "11"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "MONSTROSITY",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "Genesis"
+        },
+        {
+          "trait_type": "Card",
+          "value": "1"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jl"
+        }
+      ]
+    },
+    {
+      "asset": "TESTGALLERY"
+    }
+  ]
+}
