@@ -34605,7 +34605,13 @@
       ]
     },
     {
-      "asset": "BELIEVEBTC"
+      "asset": "BELIEVEBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "BELLATRIXCD"
@@ -36609,7 +36615,13 @@
       "asset": "DANKPENCIL"
     },
     {
-      "asset": "DANKPENPEN"
+      "asset": "DANKPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bcarver"
+        }
+      ]
     },
     {
       "asset": "DANKPEW"
@@ -41438,7 +41450,13 @@
       "asset": "MUNDIKEK"
     },
     {
-      "asset": "MUSHROOMSTMP"
+      "asset": "MUSHROOMSTMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KimbrowAF"
+        }
+      ]
     },
     {
       "asset": "MUSKAMOTO"
