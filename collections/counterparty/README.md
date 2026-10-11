@@ -10,7 +10,7 @@
 | Primary memberships | 8,004 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/8,004 (0.2%)<br>Artist: 3,190/8,004 (39.9%) |
+| Traits | Art year: 17/8,004 (0.2%)<br>Artist: 3,197/8,004 (39.9%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -123,3 +123,21 @@ Their shared issuing address is not an authorship rule. The following individual
 | KENERGYBB | Hitomi Matsui | [Sale](https://scarce.city/auctions/kenergy-orange1) |
 | TOKYOSILVER | Hitomi Matsui | [Sale](https://scarce.city/auctions/dress-up-pepe-fake-silver) |
 | OSAKAGOLD | Hitomi Matsui | [Sale](https://scarce.city/auctions/dress-up-pepe-fake-gold) |
+
+### Additional exact-asset metadata credits: 2026-10-11
+
+Current chain descriptions still point to these original metadata records, whose asset identifiers match exactly. CDN previews were reviewed. The published `pgpsig` attribution text is not a cryptographically verified signature. Existing artist spellings are retained, and no collection acceptance is inferred from a generic directory link.
+
+| Asset | Artist | Original metadata |
+| --- | --- | --- |
+| FANKYMONKEY | Boris Svirsky | [JSON](https://fankymonkey.com/assets/FANKYMONKEY.json) |
+| RUBENPANG | Ruben Pang | [JSON](https://xcp.coindaddy.io/RUBENPANG.json) |
+| GOGOKEK | GOGO FREN | [JSON](https://arweave.net/9Gk4KozptAtBrQHJb_B2zClgIc84uBEd7E-CROXqnz0) |
+| PLASTICPEPE | Burn | [JSON](https://nm6t4ynx7enknmmzw5ysp2ihlrh57wgh6lezxv5n7rlot42hrlra.ar.io/az0-Ybf5GqaxmbdxJ-kHXE_f2MfyyZvXrfxW6fNHiuI?/PLASTICPEPE.json) |
+| TILES | mellow | [JSON](https://xcp.coindaddy.io/TILES.json) |
+| MARIHORSOE | Kat Rose | [JSON](https://assets.rarepigeons.com/meta/MARIHORSOE_1774448037.json) |
+| SQUELCHSKIN | angelsintheai | [JSON](https://arweave.net/PMWkIwOYsVlR3BxRe7bFdH3nhXjwa9m21CV7l6S5Snc) |
+
+FANKYMONKEY explicitly identifies Fanky Monkey as Boris Svirsky and labels the work as his digital art. RUBENPANG identifies the artist, title, date and dimensions of The Totalitarian Sun; these also match [the artist’s own artwork page](https://www.rubenpangstudio.com/the-totalitarian-sun). This credits the depicted painting without asserting token endorsement or physical ownership rights. SQUELCHSKIN identifies its creator and describes a software skin registry token; the credit does not make other skin assets members of a collection. Full audiovisual review is separate.
+
+Held: BOOSTLEGGED names BOOTLEGGED in its JSON, OUGHTOPENPEN names OUGHTOPEN, and PLAGIARIZER currently displays an empty card template. These do not justify new attribution without further reconciliation.
