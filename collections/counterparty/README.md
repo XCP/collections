@@ -186,3 +186,15 @@ The [reviewed card preview](https://cdn.xcp.io/img/card/BIGAPPLEPEPE) visibly si
 ## MANCHESTWOTR attribution
 
 The [exact chain-linked metadata](https://f3ahbovsupish6su6w5gpsam65dnazwywkfhprwasvvinrjt2swa.arweave.net/LsBwurKj0SP6VPW6Z8gM90bQZtiyinfGwJVqhsUz1Kw) explicitly attributes MANCHESTWOTR to Indelible, matching the reviewed preview. This is a published attribution, not a claim of cryptographic verification.
+
+## thewisekhan recovered metadata credits
+
+Seven exact-asset Arweave transaction-root JSON documents identify Khan/khan and link https://twitter.com/thewisekhan. Use the existing thewisekhan artist, not a new Khan duplicate. These are published metadata attributions, not cryptographically verified signatures. Preserve all prior traits and memberships. No issuer-wide attribution extends to assets without matching evidence.
+
+- KEYGENPEPE: [metadata](https://arweave.net/GCIWDDDckxoAwptvM_3Ym2aVONNSTE-6SHTBDmBEEww)
+- RIBANURA: [metadata](https://arweave.net/ujzaM_YjZDw7NWnC9saKiM6SVhkoaGNO5SfzBX3D-pA)
+- PEPETRENCHES: [metadata](https://arweave.net/pxYrDTBRDTrXoluMpFIci8M0ZVdT21RHfs1a8kL_K08)
+- INCOGNITOKEK: [metadata](https://arweave.net/EjyXBy_qKlbVvmMaEAjttfGxXUrbIXKEyQ0vcJ7G3aA)
+- GODIVAPEPE: [metadata](https://arweave.net/GveGQ3C6LMBSKPGByhLUGCWHg0HD5SXQtxcMnyNxonM)
+- PEPECZAR: [metadata](https://arweave.net/iXRoyDyXVQAX1TABGiFwnfyTpeR0q-iSRb-D7-Flbqw)
+- PEPEITA: [metadata](https://arweave.net/eUSeAiMLs-GftwKplPLdLpcW0XoeCn3lHBxKdfRUOas)
