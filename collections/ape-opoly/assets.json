@@ -376,6 +376,19 @@
           "value": "Full board"
         }
       ]
+    },
+    {
+      "asset": "MYSTERYCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        },
+        {
+          "trait_type": "Component",
+          "value": "Mystery card front (historical)"
+        }
+      ]
     }
   ]
 }
