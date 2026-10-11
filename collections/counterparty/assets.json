@@ -30731,9 +30731,6 @@
       "asset": "SHANINBLAKE.Manifest"
     },
     {
-      "asset": "RARESTSETS.scarcecitynyc2023"
-    },
-    {
       "asset": "A1179625407175205167"
     },
     {
@@ -32021,9 +32018,6 @@
       ]
     },
     {
-      "asset": "RARESTSETS.nycnftauction"
-    },
-    {
       "asset": "A2345725284694679600"
     },
     {
@@ -33015,9 +33009,6 @@
     },
     {
       "asset": "A669902374608481398"
-    },
-    {
-      "asset": "RARESTSETS.AUCTIONWINNER"
     },
     {
       "asset": "A674349541829321676"
@@ -45226,9 +45217,6 @@
       ]
     },
     {
-      "asset": "RARESTSETS"
-    },
-    {
       "asset": "RARETECBEZOS",
       "attributes": [
         {
@@ -45254,9 +45242,6 @@
     },
     {
       "asset": "RAREWORKSHOP"
-    },
-    {
-      "asset": "RARITYHOLDER"
     },
     {
       "asset": "RATEPAYER",
@@ -49125,19 +49110,6 @@
         {
           "trait_type": "Artist",
           "value": "ParisianForge"
-        }
-      ]
-    },
-    {
-      "asset": "RARESTSETS.The_Rarest_Tote",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "subterranean"
-        },
-        {
-          "trait_type": "Artist",
-          "value": "Amy DiGi"
         }
       ]
     }
