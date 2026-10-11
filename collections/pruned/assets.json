@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PRUNED.MYORDINALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "PRUNED.MYRUNES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "PRUNED.STONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}

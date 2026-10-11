@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "TESTCARDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "TESTCARDS.THREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "TESTCARDS.TWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}

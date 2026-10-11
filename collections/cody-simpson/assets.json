@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "CODYSIMPSON",
+      "primary": false
+    },
+    {
+      "asset": "CODYSIMPSON.LFGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "CODYSIMPSON.LFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}
