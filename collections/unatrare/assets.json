@@ -97,7 +97,13 @@
       ]
     },
     {
-      "asset": "NATPRINTER"
+      "asset": "NATPRINTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "NATSTALGIA"
@@ -196,7 +202,13 @@
       "asset": "UNATCOUNCIL"
     },
     {
-      "asset": "UNATCROBATS"
+      "asset": "UNATCROBATS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "UNATCURRY"
@@ -289,7 +301,13 @@
       "asset": "WALKOFMEME"
     },
     {
-      "asset": "YOUNAT"
+      "asset": "YOUNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "PEMBLEMVAULT",

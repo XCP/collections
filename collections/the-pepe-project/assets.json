@@ -362,7 +362,13 @@
       ]
     },
     {
-      "asset": "HALSTRADAMUS"
+      "asset": "HALSTRADAMUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "HASHFORCE"

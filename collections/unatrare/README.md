@@ -29,3 +29,11 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## L_vs_D credits
 
 Exact chain-linked Rare Pigeons JSON for SAUNAPEPE, PNGPGN, LOVEANDDOVES and PIJOLADY publishes the attribution LvsD and the Zbyku social handle. Use the existing L_vs_D artist credit, preserving collection membership. Example: https://assets.rarepigeons.com/meta/SAUNAPEPE_1781036761.json . These published attribution fields are not claimed as cryptographically verified signatures.
+
+## Exact metadata artist credits
+
+These asset-specific metadata documents explicitly identify the artist. Existing memberships and other traits are preserved. For NATPRINTER and YOUNAT, descriptive text identifies Psyfrogger as the image creator and Subterranean as the minter; only the image creator receives an artist credit. No issuer-wide attribution is used.
+
+- UNATCROBATS: subterranean ([metadata](https://gateway.ar.io/8inzga_X1BL3imD1D-aBrdyl1ycRPPynxXmp3G8TuXE/UNATCROBATS.json))
+- NATPRINTER: psyfrogger ([metadata](https://gateway.ar.io/3r_HbWpyaSaSuk9Vfbgzjv-asFcCKzeW3g0UCrpKMY0/NATPRINTER.json))
+- YOUNAT: psyfrogger ([metadata](https://gateway.ar.io/9TnBmbU2jgcFiOdo2AN9vqqUgmb6Ohk72yow0xGM5kk/YOUNAT.json))
