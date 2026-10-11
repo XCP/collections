@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESWABB",
+      "primary": true,
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "B"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESHWABA",
+      "primary": true,
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "asset": "PEPESWABA",
+      "primary": true,
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "A"
+        }
+      ]
+    }
+  ]
+}
