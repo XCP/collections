@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKACCIA.FRESHBAKED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Poboy"
+        }
+      ]
+    },
+    {
+      "asset": "FAKACCIA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Poboy"
+        }
+      ]
+    }
+  ]
+}
