@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "MOVETHECOINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "MOVETHECOINS.BRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    }
+  ]
+}

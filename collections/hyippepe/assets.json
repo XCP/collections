@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "HYIPPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "HYIPPEPE.DIAMONDHANDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    }
+  ]
+}
