@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,352 assets |
-| Primary memberships | 7,352 |
+| Membership | 7,322 assets |
+| Primary memberships | 7,322 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 16/7,352 (0.2%)<br>Artist: 3,260/7,352 (44.3%) |
+| Traits | Art year: 16/7,322 (0.2%)<br>Artist: 3,274/7,322 (44.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -198,3 +198,15 @@ Seven exact-asset Arweave transaction-root JSON documents identify Khan/khan and
 - GODIVAPEPE: [metadata](https://arweave.net/GveGQ3C6LMBSKPGByhLUGCWHg0HD5SXQtxcMnyNxonM)
 - PEPECZAR: [metadata](https://arweave.net/iXRoyDyXVQAX1TABGiFwnfyTpeR0q-iSRb-D7-Flbqw)
 - PEPEITA: [metadata](https://arweave.net/eUSeAiMLs-GftwKplPLdLpcW0XoeCn3lHBxKdfRUOas)
+
+## BTC Monk and Ffmad documented credits
+
+BTC Monk credits use exact token links from artist auction listings, plus the exact BITKNIGHT Coindaddy document. BITNIGHT is not credited from its mismatched BITKNIGHT metadata URL. Ffmad credits use exact current Arweave JSON naming ffmad. No issuer-wide attribution or new collection is inferred.
+
+- BITKNIGHT — BTC Monk: [source](https://xcp.coindaddy.io/BITKNIGHT.json)
+- PEPKNIGHT — BTC Monk: [source](https://scarce.city/auctions/PEPKNIGHT)
+- BITCOINFACE — BTC Monk: [source](https://scarce.city/auctions/faces-of-bitcoin-artwork)
+- SATOSHIDRAGO — BTC Monk: [source](https://scarce.city/auctions/satoshi-dragon)
+- SATOSHITHROW — BTC Monk: [source](https://scarce.city/auctions/satoshi-throw-artwork-and-token)
+- NINETYKBTC — Ffmad: [source](https://arweave.net/HKVApg1SgIJ3syfmttaVrGn7Vvgr1a0EaOGdzqsCBlI)
+- PEPEFAIR.80K — Ffmad: [source](https://arweave.net/5grk1a9L7NGI25a9SCrvHJzz_N2PcmOmabEykF7WfZo)
