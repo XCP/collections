@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SATOSHIDICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "doggfather"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHIDICE.MAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "SATOSHIDICE.VEGAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}
