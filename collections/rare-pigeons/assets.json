@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "BLESSEDPREY"
+      "asset": "BLESSEDPREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fenris Mau"
+        }
+      ]
     },
     {
       "asset": "BORGPIGEON",
@@ -210,7 +216,13 @@
       ]
     },
     {
-      "asset": "ELIZPIG"
+      "asset": "ELIZPIG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katpeque4"
+        }
+      ]
     },
     {
       "asset": "ELONPIGEON",
@@ -285,7 +297,13 @@
       ]
     },
     {
-      "asset": "FLIGHTCLUB"
+      "asset": "FLIGHTCLUB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "oneburntoutop"
+        }
+      ]
     },
     {
       "asset": "FLOORLOOK",
@@ -423,7 +441,13 @@
       ]
     },
     {
-      "asset": "KINGPIGEON"
+      "asset": "KINGPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katpeque4"
+        }
+      ]
     },
     {
       "asset": "LFGSWARM",
@@ -628,7 +652,13 @@
       ]
     },
     {
-      "asset": "PALEFLYER"
+      "asset": "PALEFLYER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "oneburntoutop"
+        }
+      ]
     },
     {
       "asset": "PARADISEPGN",
@@ -694,7 +724,13 @@
       ]
     },
     {
-      "asset": "PEPIGEON"
+      "asset": "PEPIGEON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "oneburntoutop"
+        }
+      ]
     },
     {
       "asset": "PERCHED",
@@ -904,7 +940,13 @@
       ]
     },
     {
-      "asset": "PIGEINVATION"
+      "asset": "PIGEINVATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katpeque4"
+        }
+      ]
     },
     {
       "asset": "PIGEISHA",
@@ -970,7 +1012,13 @@
       ]
     },
     {
-      "asset": "PIGEONDIVINE"
+      "asset": "PIGEONDIVINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katpeque4"
+        }
+      ]
     },
     {
       "asset": "PIGEONEMPIRE",
@@ -1018,7 +1066,13 @@
       ]
     },
     {
-      "asset": "PIGEONISM"
+      "asset": "PIGEONISM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Katpeque4"
+        }
+      ]
     },
     {
       "asset": "PIGEONLAYERS",
@@ -1399,7 +1453,13 @@
       ]
     },
     {
-      "asset": "SACREDBONES"
+      "asset": "SACREDBONES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fenris Mau"
+        }
+      ]
     },
     {
       "asset": "SAMURAIPGN",
