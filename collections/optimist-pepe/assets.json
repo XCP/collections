@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "OPTIMISTPEPE.FAKEPEPEMUNI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Optimist"
+        }
+      ]
+    },
+    {
+      "asset": "OPTIMISTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Optimist"
+        }
+      ]
+    }
+  ]
+}
