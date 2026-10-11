@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "TRIGRAMS"
+    },
+    {
+      "asset": "TRIGRAMS.Earth"
+    },
+    {
+      "asset": "TRIGRAMS.Water"
+    },
+    {
+      "asset": "TRIGRAMS.Wind"
+    },
+    {
+      "asset": "TRIGRAMS.Thunder"
+    },
+    {
+      "asset": "TRIGRAMS.Mountain"
+    },
+    {
+      "asset": "TRIGRAMS.Fire"
+    },
+    {
+      "asset": "TRIGRAMS.Lake"
+    },
+    {
+      "asset": "TRIGRAMS.Heaven"
+    }
+  ]
+}
