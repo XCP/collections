@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "HODLLAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
+    },
+    {
+      "asset": "HODLLAGE.QR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "D00MSDRE"
+        }
+      ]
+    }
+  ]
+}
