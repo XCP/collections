@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "JACKIEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
+    },
+    {
+      "asset": "JACKIEPEPE.DOCTORK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "T. Wade"
+        }
+      ]
+    }
+  ]
+}
