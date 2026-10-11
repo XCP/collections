@@ -514,6 +514,69 @@
           "value": "HNFT Pepe"
         }
       ]
+    },
+    {
+      "asset": "PREARRANGED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dan Anderson"
+        }
+      ]
+    },
+    {
+      "asset": "FAUXBANKSY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "CORNSROASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RAHVO"
+        }
+      ]
+    },
+    {
+      "asset": "HUITLACOCHE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
+    },
+    {
+      "asset": "BUTTERKEEPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
+    },
+    {
+      "asset": "CORNATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
+    },
+    {
+      "asset": "FAUXPOPWAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TKY"
+        }
+      ]
     }
   ]
 }
