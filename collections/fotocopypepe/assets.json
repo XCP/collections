@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "FOTOCOPYPEPE",
+      "primary": false
+    },
+    {
+      "asset": "FOTOCOPYPEPE.THEMONKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

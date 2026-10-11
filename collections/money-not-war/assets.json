@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "MOWAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "MOWAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

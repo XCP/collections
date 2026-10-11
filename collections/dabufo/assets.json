@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DABUFO",
+      "primary": false
+    },
+    {
+      "asset": "DABUFO.klingon",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

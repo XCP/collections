@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "CONANPEPE",
+      "primary": false
+    },
+    {
+      "asset": "CONANPEPE.Original.xcp",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

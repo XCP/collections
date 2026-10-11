@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "KARANGSKULL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "KARANGSKULL.WOOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}
