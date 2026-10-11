@@ -101,6 +101,58 @@
           "value": "The Story of Cultural Impacts"
         }
       ]
+    },
+    {
+      "asset": "EVERDREAMSOF",
+      "primary": true,
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "Palace In The Making"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of Miscellaneous Miracles"
+        },
+        {
+          "trait_type": "Chapter",
+          "value": "0"
+        },
+        {
+          "trait_type": "Illustrator",
+          "value": "EverdreamSoft"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "EverdreamSoft"
+        }
+      ]
+    },
+    {
+      "asset": "IDEOF",
+      "primary": true,
+      "attributes": [
+        {
+          "trait_type": "Name",
+          "value": "The Lost Universe"
+        },
+        {
+          "trait_type": "Story",
+          "value": "The Story of Forgotten Ideas"
+        },
+        {
+          "trait_type": "Chapter",
+          "value": "0"
+        },
+        {
+          "trait_type": "Illustrator",
+          "value": "Laura Bevon"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Laura Bevon"
+        }
+      ]
     }
   ]
 }

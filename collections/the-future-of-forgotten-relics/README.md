@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 6 assets |
-| Primary memberships | 6 |
+| Membership | 8 assets |
+| Primary memberships | 8 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 6/6 (100%)<br>Chapter: 6/6 (100%)<br>Story: 6/6 (100%) |
+| Traits | Artist: 8/8 (100%)<br>Chapter: 8/8 (100%)<br>Illustrator: 2/8 (25%)<br>Name: 2/8 (25%)<br>Story: 8/8 (100%) |
 <!-- collection-facts:end -->
 
 Membership is the reviewed static snapshot in `assets.json`.
