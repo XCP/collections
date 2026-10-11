@@ -613,7 +613,13 @@
       ]
     },
     {
-      "asset": "LFGSWARM"
+      "asset": "LFGSWARM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bimbayo1985"
+        }
+      ]
     },
     {
       "asset": "LFGTENNIS"
