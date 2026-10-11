@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "asset": "BLACKBOX"
+    },
+    {
+      "asset": "BLACKBOX.CIP03"
+    },
+    {
+      "asset": "BLACKBOX.Misc_Donations"
+    },
+    {
+      "asset": "BLACKBOX.JDog_Fulltime_Counterparty_Job"
+    },
+    {
+      "asset": "BLACKBOX.Counterparty_General_Fund"
+    },
+    {
+      "asset": "BLACKBOX.Freewallet.Hardware.Trezor_Integration"
+    },
+    {
+      "asset": "BLACKBOX.Counterparty_Misc_Bugfixes"
+    },
+    {
+      "asset": "BLACKBOX.Freewallet.Hardware.Keepkey_Integration"
+    },
+    {
+      "asset": "BLACKBOX.P2PB2B_Listing"
+    },
+    {
+      "asset": "BLACKBOX.Freewallet.Hardware.Ledger_Integration"
+    },
+    {
+      "asset": "BLACKBOX.Xchain_Server_Hosting"
+    },
+    {
+      "asset": "BLACKBOX.2021.Probit_Listing"
+    },
+    {
+      "asset": "BLACKBOX.2021.Community_Outreach_Manager"
+    },
+    {
+      "asset": "BLACKBOX.2021.PEPECASH_Listing_A"
+    },
+    {
+      "asset": "BLACKBOX.2021.Mystery_Listing_C"
+    },
+    {
+      "asset": "BLACKBOX.2021.MYSTERY_LISTING_B"
+    },
+    {
+      "asset": "BLACKBOX.2021.Mystery_Listing_A"
+    }
+  ]
+}

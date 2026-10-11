@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## RAREBIRTHDAY collaboration
+
+The exact chain-linked [RAREBIRTHDAY JSON](https://arweave.net/I34dt3fAoPHzobjNY19aWjhbRa-h-IEwxcNotCxT6xQ) signs “i3inary & Doge-Style”. Preserve i3inary and add the existing DOGE-STYLE artist separately. The CDN preview was reviewed; this credit does not claim a full video review.

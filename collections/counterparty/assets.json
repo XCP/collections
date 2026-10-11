@@ -29866,9 +29866,6 @@
       "asset": "PURPLEFROG.TRUMPFROG"
     },
     {
-      "asset": "BLACKBOX.2021.PEPECASH_Listing_A"
-    },
-    {
       "asset": "DJDOGESTYLE.YOURSHINING"
     },
     {
@@ -29917,16 +29914,10 @@
       "asset": "CASSIA.3"
     },
     {
-      "asset": "BLACKBOX.CIP03"
-    },
-    {
       "asset": "A10982166955872272385"
     },
     {
       "asset": "TIMELINEXCP.Calendar.V1"
-    },
-    {
-      "asset": "BLACKBOX.2021.Probit_Listing"
     },
     {
       "asset": "PINKSHIRTGUY.11"
@@ -31023,9 +31014,6 @@
       "asset": "INERMIS.1"
     },
     {
-      "asset": "BLACKBOX.Xchain_Server_Hosting"
-    },
-    {
       "asset": "INERMIS.3"
     },
     {
@@ -31138,9 +31126,6 @@
     },
     {
       "asset": "A12701797108376006657"
-    },
-    {
-      "asset": "BLACKBOX.Freewallet.Hardware.Ledger_Integration"
     },
     {
       "asset": "A12747714446257115137"
@@ -31368,9 +31353,6 @@
       "asset": "FFMAD.XCP"
     },
     {
-      "asset": "BLACKBOX.2021.MYSTERY_LISTING_B"
-    },
-    {
       "asset": "TRIGRAMS.Fire"
     },
     {
@@ -31491,9 +31473,6 @@
       "asset": "WHATIS.LOVE"
     },
     {
-      "asset": "BLACKBOX.2021.Mystery_Listing_C"
-    },
-    {
       "asset": "A14473413462770014209"
     },
     {
@@ -31540,9 +31519,6 @@
     },
     {
       "asset": "BKYLE.Lyra"
-    },
-    {
-      "asset": "BLACKBOX.Misc_Donations"
     },
     {
       "asset": "CRYPTOARTDIR.SUPERB_ART"
@@ -31959,9 +31935,6 @@
       "asset": "A167794436405042949"
     },
     {
-      "asset": "BLACKBOX.JDog_Fulltime_Counterparty_Job"
-    },
-    {
       "asset": "FAKEPEPPYS.FAKEBOTTLE1"
     },
     {
@@ -32233,9 +32206,6 @@
     },
     {
       "asset": "WEEX.A305220116359788860"
-    },
-    {
-      "asset": "BLACKBOX.P2PB2B_Listing"
     },
     {
       "asset": "BOOTLEGFAKE.FAKEASF",
@@ -32676,9 +32646,6 @@
       "asset": "A2943972899610563000"
     },
     {
-      "asset": "BLACKBOX.Freewallet.Hardware.Keepkey_Integration"
-    },
-    {
       "asset": "FAKEJEEZY.youngpurpey"
     },
     {
@@ -32767,9 +32734,6 @@
           "value": "Dim Zayan"
         }
       ]
-    },
-    {
-      "asset": "BLACKBOX.Counterparty_Misc_Bugfixes"
     },
     {
       "asset": "BOOTLEGFAKE.WEMADETHIS",
@@ -33558,9 +33522,6 @@
       "asset": "PURPLEFROG.magic.space"
     },
     {
-      "asset": "BLACKBOX.Counterparty_General_Fund"
-    },
-    {
       "asset": "BITBALL.2SATCHELPAIGE"
     },
     {
@@ -33763,9 +33724,6 @@
     },
     {
       "asset": "ESCAPED.BOREDAPE528"
-    },
-    {
-      "asset": "BLACKBOX.Freewallet.Hardware.Trezor_Integration"
     },
     {
       "asset": "A6786543228637331000",
@@ -34194,9 +34152,6 @@
       "asset": "A801123581321345508"
     },
     {
-      "asset": "BLACKBOX.2021.Mystery_Listing_A"
-    },
-    {
       "asset": "XCPARTWORK.ONE",
       "attributes": [
         {
@@ -34525,9 +34480,6 @@
     },
     {
       "asset": "VETTEDREALTY.VRX-CE-01"
-    },
-    {
-      "asset": "BLACKBOX.2021.Community_Outreach_Manager"
     },
     {
       "asset": "STPLPEPEPURP.STPLSMOLPURP"
@@ -37527,7 +37479,13 @@
       "asset": "DODAHDAY"
     },
     {
-      "asset": "DODO"
+      "asset": "DODO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
     },
     {
       "asset": "DOGBONE"
