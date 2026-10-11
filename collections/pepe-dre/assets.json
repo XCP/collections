@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEDRE.PURPDRE"
+    },
+    {
+      "asset": "PEPEDRE.STILLDRE"
+    },
+    {
+      "asset": "PEPEDRE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
+    }
+  ]
+}

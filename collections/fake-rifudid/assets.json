@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "FAKERIFUDID.DANK00"
+    },
+    {
+      "asset": "FAKERIFUDID.DANK01"
+    },
+    {
+      "asset": "FAKERIFUDID",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
+    }
+  ]
+}
