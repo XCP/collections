@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPONONOKE.ACIDFOREST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    },
+    {
+      "asset": "PEPONONOKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}

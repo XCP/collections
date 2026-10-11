@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "asset": "FAKENESS.PENCIL"
+    },
+    {
+      "asset": "FAKENESS.REDEEM"
+    },
+    {
+      "asset": "FAKENESS.21ENTROPYSEAL"
+    },
+    {
+      "asset": "FAKENESS.21GLITTER"
+    },
+    {
+      "asset": "FAKENESS.03ENTROPYSEAL"
+    },
+    {
+      "asset": "FAKENESS.02ENTROPYSEAL"
+    },
+    {
+      "asset": "FAKENESS.05ENTROPYSEAL"
+    },
+    {
+      "asset": "FAKENESS.04ENTROPYSEAL"
+    },
+    {
+      "asset": "FAKENESS.05GLITTER"
+    },
+    {
+      "asset": "FAKENESS.03GLITTER"
+    },
+    {
+      "asset": "FAKENESS.04GLITTER"
+    },
+    {
+      "asset": "FAKENESS.02GLITTER"
+    },
+    {
+      "asset": "FAKENESS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "MR"
+        }
+      ]
+    }
+  ]
+}

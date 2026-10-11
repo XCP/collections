@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETORCH.GALAXYSTICKERS4"
+    },
+    {
+      "asset": "PEPETORCH.GALAXYSTICKERS2"
+    },
+    {
+      "asset": "PEPETORCH.GALAXYSTICKERS3"
+    },
+    {
+      "asset": "PEPETORCH.GALAXYSTICKERS1"
+    },
+    {
+      "asset": "PEPETORCH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}

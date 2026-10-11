@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "NOOBGRAM.PHYSICAL"
+    },
+    {
+      "asset": "NOOBGRAM.VOODOO"
+    },
+    {
+      "asset": "NOOBGRAM.BURNT"
+    },
+    {
+      "asset": "NOOBGRAM",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}

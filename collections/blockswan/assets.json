@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "BLOCKSWAN.MEMORY"
+    },
+    {
+      "asset": "BLOCKSWAN.LIGHTBOX"
+    },
+    {
+      "asset": "BLOCKSWAN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}
