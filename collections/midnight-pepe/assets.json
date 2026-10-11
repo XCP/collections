@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MIDNIGHTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Art GarPUNKel"
+        }
+      ]
+    },
+    {
+      "asset": "MIDNIGHTPEPE.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Art GarPUNKel"
+        }
+      ]
+    }
+  ]
+}
