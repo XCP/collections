@@ -1,7 +1,10 @@
 {
   "name": "XCER",
   "kind": "canonical",
-  "description": "Collectible cards from XCER (www.XCER.co), including the XXCER pepe cards, XPSA graded cards, Burned Punks and Legends of Bitcoin, issued on Counterparty mainly in 2021.",
+  "description": "Collectible cards from XCER, including XXCER Pepe cards, XPSA graded cards, Burned Punks, Legends of Bitcoin and XCERPASS airdrop cards.",
   "art_frame": "card",
-  "founded": 2021
+  "founded": 2021,
+  "links": {
+    "website": "https://xcer.co/"
+  }
 }

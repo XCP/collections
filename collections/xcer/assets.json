@@ -720,6 +720,286 @@
           "value": "Counterparty Legends"
         }
       ]
+    },
+    {
+      "asset": "HASHPOWER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "STEAKNSHAKE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "SHITCOINLAND",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XAIRGAP",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "BITDOMINANCE",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "MASTERING",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "POLOTROLLBOX",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "MACD",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "DOUBLETOP",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XAIRDROPCARD.MACD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XAIRDROPCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "UXTOWARS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "STOCKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "HASHWAR",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XBLACKOUT",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "INVCRAMER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XCARDDIV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "ELOSHI",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "UFOATLIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "UFOATLAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "NOWINNER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "YADI",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "XCERPASS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "XCERPASS"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
+    },
+    {
+      "asset": "FREESPIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "XCER"
+        }
+      ]
     }
   ]
 }
