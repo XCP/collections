@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "DEGENSHIELD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "DEGENSHIELD.TOPSECRETAIRDROP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    }
+  ]
+}
