@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAUXKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mayari_mun"
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FAUXKING.KINGSSWORD"
+    },
+    {
+      "asset": "FAUXKING.KINGSFIRE"
+    },
+    {
+      "asset": "FAUXKING.KINGSCROWN"
+    }
+  ]
+}
