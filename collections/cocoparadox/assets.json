@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "COCOPARADOX",
+      "primary": false
+    },
+    {
+      "asset": "COCOPARADOX.COCO-DILEMMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}

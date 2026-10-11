@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7 assets |
-| Primary memberships | 7 |
+| Membership | 10 assets |
+| Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 7/7 (100%) |
+| Traits | Artist: 10/10 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -28,3 +28,11 @@ Reviewed on 2026-10-09. Each of the seven listed assets has exact-identity JSON 
 Membership is an explicit reviewed list, not every ninja-themed asset from this issuer. ITTORYUNINJA has the different metadata title RARE SHINOBI and remains outside this list pending clearer series evidence. NINJAKYASSHU and RARESHINOBI show CDN placeholders and are not added. No verified collection homepage was found.
 
 These seven works move out of the Counterparty catch-all. This series attribution does not imply acceptance into any other official directory.
+
+## Additional exact-metadata members
+
+Reviewed 2026-10-11. These three exact-asset JSON documents explicitly name RARENINJAS; the artwork was reviewed and existing Hues credits retained.
+
+- [PEPEICHIZOKU](https://api.xcp.io/v2/assets/PEPEICHIZOKU) — [artwork](https://cdn.xcp.io/img/full/PEPEICHIZOKU) — [metadata](https://arweave.net/pnkimr6vbG6VT0tw20YDLOme56Lmr_SOEPHYRJVlw9k)
+- [SHURIKENPEPE](https://api.xcp.io/v2/assets/SHURIKENPEPE) — [artwork](https://cdn.xcp.io/img/full/SHURIKENPEPE) — [metadata](https://gateway.pinata.cloud/ipfs/Qmai7FVVg1nZ5vnwE1RPjKkukfvCFM2ddrjoxt6N3NERTn)
+- [TANTOPEPE](https://api.xcp.io/v2/assets/TANTOPEPE) — [artwork](https://cdn.xcp.io/img/full/TANTOPEPE) — [metadata](https://gateway.pinata.cloud/ipfs/QmfKQtosbvWb8BW5oHmCuXQWLg5PP8EyQSP7cv88J2AESQ)

@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SGTFAKERONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "SGTFAKATHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "SGTFAKERFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}

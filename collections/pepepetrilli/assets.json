@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEPETRILLI",
+      "primary": false
+    },
+    {
+      "asset": "PEPEPETRILLI.PEPEPETRILLI-FF9900",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPETRILLI.THE-SON-OF-MEMES-FF9900",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPETRILLI.THE-SON-OF-MEMES",
+      "primary": false
+    }
+  ]
+}
