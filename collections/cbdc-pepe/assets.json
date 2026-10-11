@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "CBDCPEPE.EPEPCDBC"
+    },
+    {
+      "asset": "CBDCPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m0nti"
+        }
+      ]
+    }
+  ]
+}

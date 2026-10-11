@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "THEENIGMA.DOUBT"
+    },
+    {
+      "asset": "THEENIGMA.ABSORPTION"
+    },
+    {
+      "asset": "THEENIGMA.TORMENT"
+    },
+    {
+      "asset": "THEENIGMA.CLARITY"
+    },
+    {
+      "asset": "THEENIGMA.ANQUISH"
+    },
+    {
+      "asset": "THEENIGMA.INSIGHT"
+    },
+    {
+      "asset": "THEENIGMA.CHESTCARD"
+    },
+    {
+      "asset": "THEENIGMA.MIRRORCARD"
+    },
+    {
+      "asset": "THEENIGMA",
+      "primary": false
+    }
+  ]
+}
