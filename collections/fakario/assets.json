@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKARIO.LAFAKARIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rydes"
+        }
+      ]
+    },
+    {
+      "asset": "FAKARIO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rydes"
+        }
+      ]
+    }
+  ]
+}

@@ -9,6 +9,7 @@ const REVIEWED_ARTISTS = new Map([
   ["PEPESHOOD", "subterranean"],
   ["PEPEFAKERARE", "BIGTOX"],
   ["TMDAUTOGRAPH", "ArtemTemaDa"],
+  ["CYPHERPOOHNK", "Remster"],
 ]);
 
 // Kaleidoscope is intentionally inclusive. A more specific canonical set
