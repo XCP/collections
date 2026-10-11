@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "asset": "TIMELINEXCP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Le Hues"
+        }
+      ]
+    },
+    {
+      "asset": "TIMELINEXCP.CanvasPrint.V1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
+    },
+    {
+      "asset": "TIMELINEXCP.COFFEEMUG.V1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
+    },
+    {
+      "asset": "TIMELINEXCP.MOUSEPAD.V1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
+    },
+    {
+      "asset": "TIMELINEXCP.Calendar.V1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
+    }
+  ]
+}

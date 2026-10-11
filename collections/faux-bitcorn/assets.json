@@ -291,7 +291,13 @@
       "asset": "ISTHISAGRAIL"
     },
     {
-      "asset": "KERNELISLAND"
+      "asset": "KERNELISLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "KERNELKEVIN",

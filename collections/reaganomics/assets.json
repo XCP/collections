@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "asset": "REAGANOMICS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    },
+    {
+      "asset": "REAGANOMICS.BOOTSTRAP"
+    },
+    {
+      "asset": "REAGANOMICS.HALLWAYKIDS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    }
+  ]
+}

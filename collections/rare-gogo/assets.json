@@ -25,10 +25,22 @@
       "asset": "CCGOGO"
     },
     {
-      "asset": "DANIELVISION"
+      "asset": "DANIELVISION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
     },
     {
-      "asset": "DASGOAT"
+      "asset": "DASGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "FUCKINGGOGO"

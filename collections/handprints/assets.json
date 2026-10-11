@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "HANDPRINTS"
+    },
+    {
+      "asset": "HANDPRINTS.airdrop",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    },
+    {
+      "asset": "HANDPRINTS.VOLUNTEERFORTHETEARS"
+    },
+    {
+      "asset": "HANDPRINTS.FACES"
+    }
+  ]
+}

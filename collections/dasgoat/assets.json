@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DASGOAT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    },
+    {
+      "asset": "DASGOAT.SUCCULENT"
+    }
+  ]
+}
