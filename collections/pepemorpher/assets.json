@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMORPHER",
+      "primary": false
+    },
+    {
+      "asset": "PEPEMORPHER.ONEHEAVEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        }
+      ]
+    }
+  ]
+}
