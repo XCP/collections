@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "SSCCOMMODITY.SSC006",
+      "attributes": [
+        {
+          "trait_type": "Catalog",
+          "value": "SSC006"
+        }
+      ]
+    },
+    {
+      "asset": "SSCCOMMODITY.SSC007",
+      "attributes": [
+        {
+          "trait_type": "Catalog",
+          "value": "SSC007"
+        }
+      ]
+    }
+  ]
+}
