@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "asset": "NFDBRAIN",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "NFDALIEN",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "NFDLOAFER",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "NFDSQUIRREL",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "NFDSCAMPER",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "NFDGECKO",
+      "attributes": [
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "FLYSQUIRREL",
+      "attributes": [
+        {
+          "trait_type": "Variant",
+          "value": "Counterparty Prototype"
+        }
+      ]
+    }
+  ]
+}
