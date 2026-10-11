@@ -43315,7 +43315,13 @@
       "asset": "PEPEHA"
     },
     {
-      "asset": "PEPEHAALAND"
+      "asset": "PEPEHAALAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
     },
     {
       "asset": "PEPEHAHA"
@@ -47167,7 +47173,13 @@
       "asset": "THEBEGINNING"
     },
     {
-      "asset": "THEBLACKSUN"
+      "asset": "THEBLACKSUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "THEBORNCARD"
