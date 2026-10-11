@@ -35943,7 +35943,13 @@
       "asset": "BOBOAGAIN"
     },
     {
-      "asset": "BOBOAPRSAGIN"
+      "asset": "BOBOAPRSAGIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
       "asset": "BOBOBLACK"
@@ -36189,7 +36195,13 @@
       "asset": "BTCBULLPEPE"
     },
     {
-      "asset": "BTCCITADELTU"
+      "asset": "BTCCITADELTU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
       "asset": "BTCDESTINY"
@@ -36222,7 +36234,13 @@
       "asset": "BTCGRAVE"
     },
     {
-      "asset": "BTCHMEAL"
+      "asset": "BTCHMEAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
     },
     {
       "asset": "BTCHOLDER"
@@ -37686,7 +37704,13 @@
       "asset": "DEFEATESG"
     },
     {
-      "asset": "DEFENDERS"
+      "asset": "DEFENDERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
       "asset": "DEFTEST",
@@ -39462,9 +39486,6 @@
       "asset": "FRIDAHORSE"
     },
     {
-      "asset": "FRIENDSHAPPY"
-    },
-    {
       "asset": "FRODOPEPE"
     },
     {
@@ -39610,9 +39631,6 @@
     },
     {
       "asset": "FULLBARS"
-    },
-    {
-      "asset": "FULLLOVEPEPE"
     },
     {
       "asset": "FUNCHICKEN"
@@ -40125,7 +40143,13 @@
       "asset": "GUARDIANBEAR"
     },
     {
-      "asset": "GUARDIANSATK"
+      "asset": "GUARDIANSATK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
       "asset": "GUAVAMOON"
@@ -40483,9 +40507,6 @@
     },
     {
       "asset": "HODLSTRONG"
-    },
-    {
-      "asset": "HODLTIGHT"
     },
     {
       "asset": "HODLUTION"
@@ -41254,15 +41275,6 @@
       "asset": "KENDINSKY"
     },
     {
-      "asset": "KENERGYBB"
-    },
-    {
-      "asset": "KENERGYBS"
-    },
-    {
-      "asset": "KENERGYOR"
-    },
-    {
       "asset": "KENNER"
     },
     {
@@ -41711,9 +41723,6 @@
     },
     {
       "asset": "LOVEDEATPEPE"
-    },
-    {
-      "asset": "LOVEDREAMY"
     },
     {
       "asset": "LOVEISALL"
@@ -42842,10 +42851,22 @@
       "asset": "NEMTCOIN"
     },
     {
-      "asset": "NEOHOMERPEPE"
+      "asset": "NEOHOMERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
-      "asset": "NEOMEGAMI"
+      "asset": "NEOMEGAMI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
     },
     {
       "asset": "NEONRARE"
@@ -43487,7 +43508,13 @@
       "asset": "OSAISEN"
     },
     {
-      "asset": "OSAKAGOLD"
+      "asset": "OSAKAGOLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
     },
     {
       "asset": "OSCTOKYO"
@@ -45764,7 +45791,13 @@
       "asset": "PORKPEPEFORK"
     },
     {
-      "asset": "PORTFLCITY"
+      "asset": "PORTFLCITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kenneth B Moon"
+        }
+      ]
     },
     {
       "asset": "POSEIDONMFER"
@@ -48323,7 +48356,13 @@
       "asset": "TOKITOKEN"
     },
     {
-      "asset": "TOKYOSILVER"
+      "asset": "TOKYOSILVER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
     },
     {
       "asset": "TOLKIENJOE"

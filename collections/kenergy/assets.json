@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "KENERGYOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
+    },
+    {
+      "asset": "KENERGYBS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
+    },
+    {
+      "asset": "KENERGYBB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitomi Matsui"
+        }
+      ]
+    }
+  ]
+}
