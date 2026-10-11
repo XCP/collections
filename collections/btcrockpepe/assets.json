@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "BTCROCKPEPE",
+      "primary": false
+    },
+    {
+      "asset": "BTCROCKPEPE.NAKABTCROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}

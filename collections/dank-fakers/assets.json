@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "asset": "DANKFAKER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "EUPHORICPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "YEEZYPEARL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "SEPPUKUPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PEAKYBROONE",
+      "primary": false
+    },
+    {
+      "asset": "PEAKYBROTWO",
+      "primary": false
+    },
+    {
+      "asset": "PEAKYBROTHRE",
+      "primary": false
+    }
+  ]
+}

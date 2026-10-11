@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "asset": "MULLETCOCO",
+      "primary": false
+    },
+    {
+      "asset": "MULLETCOCO.COCO-SALUTATIONS",
+      "primary": false
+    },
+    {
+      "asset": "MULLETCOCO.COCO-SALUTATION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}

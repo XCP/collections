@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "PEBLOESCOBAR",
+      "primary": false
+    },
+    {
+      "asset": "PEBLOESCOBAR.PEBLOESCOBAR-FF9900",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    }
+  ]
+}

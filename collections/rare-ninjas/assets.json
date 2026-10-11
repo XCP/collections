@@ -62,6 +62,33 @@
           "value": "Hues"
         }
       ]
+    },
+    {
+      "asset": "PEPEICHIZOKU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "SHURIKENPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "TANTOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
     }
   ]
 }

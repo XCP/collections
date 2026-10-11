@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset": "PENEPAGRIT",
+      "primary": false
+    },
+    {
+      "asset": "PENEPAGRIT.PENEPAGRIT-FF9900",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PENEPAGRIT.GRENOUILLES-FLOTTANTES-FF9900",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hues"
+        }
+      ]
+    },
+    {
+      "asset": "PENEPAGRIT.GRENOUILLES-FLOTTANTES",
+      "primary": false
+    }
+  ]
+}
