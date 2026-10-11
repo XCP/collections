@@ -1,0 +1,206 @@
+{
+  "assets": [
+    {
+      "asset": "PEPERTOY.HISTORY"
+    },
+    {
+      "asset": "PEPERTOY.PURPLEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.BATZ",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.KEKOBRA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.PEPEPOPO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.WAGMIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.PEPECORN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Baani"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.WOJAK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.VVD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BillyNFTees"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.RICASSO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BillyNFTees"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.PEPPA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SASHA CHUDO"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.GENESIS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hitchdank"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.DRSUSS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BillyNFTees"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.COCO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BillyNFTees"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.BOBO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sam M"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.RAREPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.HAIRPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.DARKPILL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.DJPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    },
+    {
+      "asset": "PEPERTOY.TRUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
+    }
+  ]
+}
