@@ -30821,9 +30821,6 @@
       "asset": "TONILANETLC.BleedForTheMission"
     },
     {
-      "asset": "SOULPEPE.SUMMER"
-    },
-    {
       "asset": "TOMBRAIDER.SIDEB",
       "attributes": [
         {
@@ -31015,9 +31012,6 @@
     },
     {
       "asset": "PEPERANSOM.xcp"
-    },
-    {
-      "asset": "SOULPEPE.PROTECTION"
     },
     {
       "asset": "PROOFOFVISIT.EXPO2020"
@@ -32022,9 +32016,6 @@
       "asset": "GOATSE.WEDDINGRING"
     },
     {
-      "asset": "SOULPEPE.BEAUTY"
-    },
-    {
       "asset": "MEATSPIN.MYSPACE"
     },
     {
@@ -32206,9 +32197,6 @@
     },
     {
       "asset": "A202402024202402024"
-    },
-    {
-      "asset": "A2026000000000002026"
     },
     {
       "asset": "XCERMINT.2PACK"
@@ -35058,7 +35046,13 @@
       "asset": "BOBOEY"
     },
     {
-      "asset": "BOBOFUD"
+      "asset": "BOBOFUD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Red_Purdy"
+        }
+      ]
     },
     {
       "asset": "BOBOHAMLINKN"
@@ -35155,9 +35149,6 @@
     },
     {
       "asset": "BORNPEPEBORN"
-    },
-    {
-      "asset": "BOSSCARD"
     },
     {
       "asset": "BOSSFROG"
@@ -36036,9 +36027,6 @@
       "asset": "COLPEPE"
     },
     {
-      "asset": "COMBOBULATED"
-    },
-    {
       "asset": "COMEDYCLUB"
     },
     {
@@ -36253,9 +36241,6 @@
     },
     {
       "asset": "CRAZYPEP"
-    },
-    {
-      "asset": "CRIMESCENEPP"
     },
     {
       "asset": "CRINGECOIN"
@@ -36906,9 +36891,6 @@
       "asset": "DEVTHORSE"
     },
     {
-      "asset": "DEXCOP"
-    },
-    {
       "asset": "DEXDJ",
       "attributes": [
         {
@@ -37006,12 +36988,6 @@
     },
     {
       "asset": "DISECTOVERSO"
-    },
-    {
-      "asset": "DISPENSERFAM"
-    },
-    {
-      "asset": "DISPOS"
     },
     {
       "asset": "DISPTRACKER"
@@ -37291,9 +37267,6 @@
     },
     {
       "asset": "EAZYOH"
-    },
-    {
-      "asset": "EEEASTERRR"
     },
     {
       "asset": "EERIEDESERT"
@@ -38076,9 +38049,6 @@
       "asset": "FEARCORN"
     },
     {
-      "asset": "FEDTROLLS"
-    },
-    {
       "asset": "FEELDANCE"
     },
     {
@@ -38325,9 +38295,6 @@
       "asset": "FOUNDFREN"
     },
     {
-      "asset": "FOURDIGITS"
-    },
-    {
       "asset": "FOURFORTIETH"
     },
     {
@@ -38452,9 +38419,6 @@
     },
     {
       "asset": "FROGPHARAOH"
-    },
-    {
-      "asset": "FROGSOUPYUM"
     },
     {
       "asset": "FROGSUNITE",
@@ -39426,9 +39390,6 @@
       "asset": "HODLONAUTKNT"
     },
     {
-      "asset": "HODLONAUTO"
-    },
-    {
       "asset": "HODLORHELL"
     },
     {
@@ -39594,9 +39555,6 @@
       "asset": "HORMONEPEPE"
     },
     {
-      "asset": "HORMUZPARTY"
-    },
-    {
       "asset": "HORSEFATHER"
     },
     {
@@ -39619,9 +39577,6 @@
     },
     {
       "asset": "HOWNOWBLUCOW"
-    },
-    {
-      "asset": "HUNGRYPARTY"
     },
     {
       "asset": "HUSTLEPEPE"
@@ -40693,9 +40648,6 @@
       ]
     },
     {
-      "asset": "MADUROPEPE"
-    },
-    {
       "asset": "MADWILLSHID"
     },
     {
@@ -40825,22 +40777,10 @@
       "asset": "MCANALOS"
     },
     {
-      "asset": "MCBITCOINERS"
-    },
-    {
-      "asset": "MCBLKCHN"
-    },
-    {
-      "asset": "MCBLOCKCHAIN"
-    },
-    {
       "asset": "MCCRAMERPEPE"
     },
     {
       "asset": "MCPEPEFEE"
-    },
-    {
-      "asset": "MCRETURN"
     },
     {
       "asset": "MDRNSPAMGELO"
@@ -41864,16 +41804,10 @@
       "asset": "NIDACOIN"
     },
     {
-      "asset": "NIFTYFIFTY"
-    },
-    {
       "asset": "NIFTYFUNDONE"
     },
     {
       "asset": "NIFTYS"
-    },
-    {
-      "asset": "NIFTYSUPREME"
     },
     {
       "asset": "NIFTYUNIVRSE"
@@ -41892,9 +41826,6 @@
           "value": "admodum"
         }
       ]
-    },
-    {
-      "asset": "NINJAFREN"
     },
     {
       "asset": "NINJAWALLET"
@@ -42011,9 +41942,6 @@
       "asset": "NOSKILLPEPE"
     },
     {
-      "asset": "NOSOUPPEPE"
-    },
-    {
       "asset": "NOSTRAPEPE",
       "attributes": [
         {
@@ -42054,9 +41982,6 @@
     },
     {
       "asset": "NOTREAL"
-    },
-    {
-      "asset": "NOTSOCOLD"
     },
     {
       "asset": "NOTWITHSCOCK"
@@ -42383,9 +42308,6 @@
       ]
     },
     {
-      "asset": "OTFS"
-    },
-    {
       "asset": "OTSU"
     },
     {
@@ -42399,9 +42321,6 @@
     },
     {
       "asset": "OUTOFTHEMUDD"
-    },
-    {
-      "asset": "OUTPEPE"
     },
     {
       "asset": "OVECHKINALEX"
@@ -42468,9 +42387,6 @@
     },
     {
       "asset": "PARTICIPATED"
-    },
-    {
-      "asset": "PARTYANIMAL"
     },
     {
       "asset": "PASGRESSCAT"
@@ -43535,7 +43451,13 @@
       "asset": "PEPENAINTEZ"
     },
     {
-      "asset": "PEPENEDATS"
+      "asset": "PEPENEDATS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Red_Purdy"
+        }
+      ]
     },
     {
       "asset": "PEPENEMSTEAK"
@@ -43608,9 +43530,6 @@
     },
     {
       "asset": "PEPEPANGU"
-    },
-    {
-      "asset": "PEPEPANIC"
     },
     {
       "asset": "PEPEPAPACHA",
@@ -43757,7 +43676,13 @@
       "asset": "PEPERICK"
     },
     {
-      "asset": "PEPERIEL"
+      "asset": "PEPERIEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Red_Purdy"
+        }
+      ]
     },
     {
       "asset": "PEPERIINA"
@@ -45749,9 +45674,6 @@
       "asset": "SATANOSHII"
     },
     {
-      "asset": "SATCANNON"
-    },
-    {
       "asset": "SATOSHES",
       "attributes": [
         {
@@ -46943,9 +46865,6 @@
       "asset": "THEEYEOFPEPE"
     },
     {
-      "asset": "THEFIVEOFUS"
-    },
-    {
       "asset": "THEFLOOD"
     },
     {
@@ -47408,9 +47327,6 @@
       "asset": "TRUMPHOUSE"
     },
     {
-      "asset": "TRUMPINATOR"
-    },
-    {
       "asset": "TRUMPISFINE"
     },
     {
@@ -47843,9 +47759,6 @@
       "asset": "WANNABUYCARD"
     },
     {
-      "asset": "WARSTOPPER"
-    },
-    {
       "asset": "WATCHITBURN"
     },
     {
@@ -48204,9 +48117,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "XCPBULL"
     },
     {
       "asset": "XCPFORK"
