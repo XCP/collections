@@ -184,7 +184,13 @@
       "primary": false
     },
     {
-      "asset": "LOVEANDDOVES"
+      "asset": "LOVEANDDOVES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
       "asset": "MADUROPIGEON"
@@ -757,7 +763,13 @@
       ]
     },
     {
-      "asset": "PIJOLADY"
+      "asset": "PIJOLADY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
       "asset": "PIXOPIJO",
@@ -772,7 +784,13 @@
       "asset": "PLANEPIGEON"
     },
     {
-      "asset": "PNGPGN"
+      "asset": "PNGPGN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
       "asset": "POCKETOAT"

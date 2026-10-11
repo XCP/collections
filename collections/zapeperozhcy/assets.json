@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "ZAPEPEROZHCY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
+    },
+    {
+      "asset": "ZAPEPEROZHCY.70x50",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
+    }
+  ]
+}

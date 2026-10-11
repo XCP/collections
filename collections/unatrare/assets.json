@@ -139,7 +139,13 @@
       "asset": "ROYALTYPEPE"
     },
     {
-      "asset": "SAUNAPEPE"
+      "asset": "SAUNAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        }
+      ]
     },
     {
       "asset": "SOFTPWAR"
