@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "asset": "MADETHISPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "MADETHISPEPE.BURNCARD"
+    },
+    {
+      "asset": "MADETHISPEPE.KINGPIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "MADETHISPEPE.REJECTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    }
+  ]
+}

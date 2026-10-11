@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDNARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDNARA.TRIBUTE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
+    }
+  ]
+}

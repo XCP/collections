@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "asset": "DJPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "MCPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEONE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "BBOYPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "RARESCRILLA.FRAMED_4ELE_SC_11_3_21",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    }
+  ]
+}
