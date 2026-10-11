@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "asset": "CCGOGO",
+      "primary": false
+    },
+    {
+      "asset": "CCGOGO.GOLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
+    },
+    {
+      "asset": "CCGOGO.GOFIGURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
+    },
+    {
+      "asset": "CCGOGO.GOCRIME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
+    }
+  ]
+}
