@@ -8,6 +8,18 @@ const fixture = JSON.parse(
   readFileSync(new URL("../fixtures/collections/kaleidoscope/page-1.json", import.meta.url), "utf8"),
 );
 
+test("retains BITSAMURAI auction credit and source traits across refreshes", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "BITSAMURAI";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, fixture.items.length);
+  assert.deepEqual(assets[0].attributes, [
+    { trait_type: "Kaleidoscope ID", value: 2380 },
+    { trait_type: "Artist", value: "BTC Monk" },
+  ]);
+  assert.ok(assets.slice(1).every(asset => !asset.attributes.some(trait => trait.trait_type === "Artist")));
+});
+
 test("uses the official API, preserves its ordinal, and normalizes named-asset casing", async () => {
   const requested = [];
   const assets = await load({

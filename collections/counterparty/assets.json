@@ -33281,7 +33281,13 @@
       "asset": "A7197698260037259000"
     },
     {
-      "asset": "PEPEFAIR.80K"
+      "asset": "PEPEFAIR.80K",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ffmad"
+        }
+      ]
     },
     {
       "asset": "A722032263534879049"
@@ -34502,7 +34508,13 @@
       "asset": "BITCOINDNS"
     },
     {
-      "asset": "BITCOINFACE"
+      "asset": "BITCOINFACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC Monk"
+        }
+      ]
     },
     {
       "asset": "BITCOINFREE"
@@ -34574,7 +34586,13 @@
       "asset": "BITKING"
     },
     {
-      "asset": "BITKNIGHT"
+      "asset": "BITKNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC Monk"
+        }
+      ]
     },
     {
       "asset": "BITLANDGAN"
@@ -41584,7 +41602,13 @@
       "asset": "NINENINE"
     },
     {
-      "asset": "NINETYKBTC"
+      "asset": "NINETYKBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ffmad"
+        }
+      ]
     },
     {
       "asset": "NINETYSIX",
@@ -43987,7 +44011,13 @@
       ]
     },
     {
-      "asset": "PEPKNIGHT"
+      "asset": "PEPKNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC Monk"
+        }
+      ]
     },
     {
       "asset": "PEPNDROOL",
@@ -45487,7 +45517,13 @@
       "asset": "SATOSHIDARK"
     },
     {
-      "asset": "SATOSHIDRAGO"
+      "asset": "SATOSHIDRAGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC Monk"
+        }
+      ]
     },
     {
       "asset": "SATOSHINCARD"
@@ -45496,7 +45532,13 @@
       "asset": "SATOSHISURFR"
     },
     {
-      "asset": "SATOSHITHROW"
+      "asset": "SATOSHITHROW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC Monk"
+        }
+      ]
     },
     {
       "asset": "SATOSHITIME"
