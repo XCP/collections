@@ -38597,7 +38597,13 @@
       ]
     },
     {
-      "asset": "GENEAPE"
+      "asset": "GENEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DAVE"
+        }
+      ]
     },
     {
       "asset": "GENERALTRUMP"
@@ -40173,10 +40179,22 @@
       "asset": "KHOSTRIDER"
     },
     {
-      "asset": "KHYILPIANO"
+      "asset": "KHYILPIANO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arngrim280"
+        }
+      ]
     },
     {
-      "asset": "KHYPIANO"
+      "asset": "KHYPIANO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arngrim280"
+        }
+      ]
     },
     {
       "asset": "KINGDROOL",
@@ -48259,7 +48277,13 @@
       "asset": "WIZXONE"
     },
     {
-      "asset": "WIZZAZARD"
+      "asset": "WIZZAZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LordAntHreX"
+        }
+      ]
     },
     {
       "asset": "WLOVEHOPE"
