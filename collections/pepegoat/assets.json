@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEGOAT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEGOAT.WIZARD_X_GOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Wizard X"
+        }
+      ]
+    }
+  ]
+}
