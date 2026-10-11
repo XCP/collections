@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "FALMIGHTYF",
+      "primary": false
+    },
+    {
+      "asset": "FALMIGHTYF.SPARTDANKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "CONQUERORARE",
+      "primary": false
+    },
+    {
+      "asset": "CONQUERORARE.HONORARY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

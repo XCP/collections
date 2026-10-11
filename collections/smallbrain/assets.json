@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "SMALLBRAIN",
+      "primary": false
+    },
+    {
+      "asset": "SMALLBRAIN.MONEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}
