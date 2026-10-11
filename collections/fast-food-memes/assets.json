@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "asset": "FFMEMEFRYDAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "niftyjutsu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "FFMEMECOLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "niftyjutsu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "FFMEMECONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "niftyjutsu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "FFMEMEBURGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "niftyjutsu"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

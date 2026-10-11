@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,570 assets |
-| Primary memberships | 7,570 |
+| Membership | 7,559 assets |
+| Primary memberships | 7,559 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,570 (0.2%)<br>Artist: 3,221/7,570 (42.5%) |
+| Traits | Art year: 17/7,559 (0.2%)<br>Artist: 3,221/7,559 (42.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
