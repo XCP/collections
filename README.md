@@ -12,7 +12,7 @@
 | Explicit collection memberships | 65,624 |
 | Primary memberships | 64,527 |
 | Secondary or curated memberships | 1,097 |
-| Memberships with traits | 34,097 |
+| Memberships with traits | 34,140 |
 
 | Membership source | Collections |
 | --- | ---: |
