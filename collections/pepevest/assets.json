@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEVEST",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEVEST.PEPEPANTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    }
+  ]
+}
