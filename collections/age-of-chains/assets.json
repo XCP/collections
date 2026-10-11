@@ -47,6 +47,19 @@
     },
     {
       "asset": "GUARDIANCARD.PFP"
+    },
+    {
+      "asset": "XANTHRAX",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "2"
+        },
+        {
+          "trait_type": "Card",
+          "value": "016"
+        }
+      ]
     }
   ]
 }
