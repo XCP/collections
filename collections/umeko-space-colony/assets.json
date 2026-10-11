@@ -1,0 +1,260 @@
+{
+  "assets": [
+    {
+      "asset": "NOSTALGICUME"
+    },
+    {
+      "asset": "PEPEERA"
+    },
+    {
+      "asset": "UMEKOPEPE"
+    },
+    {
+      "asset": "UMEKOMEME"
+    },
+    {
+      "asset": "PEPEONIGIRI"
+    },
+    {
+      "asset": "UMEKOCARTEL"
+    },
+    {
+      "asset": "UMEKOSATURN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOPOCHI",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOJUPITER",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOFISHING",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOUFO",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOMARTIAN",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOMARS",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOFRIEND",
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": "The Legendary Story of Umeko"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "PEPEOKANE"
+    },
+    {
+      "asset": "UMEKOSUMO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOBONSAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOATFUJI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOMANEKI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOKOBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "UMEKOSPRING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "UMEKONARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        },
+        {
+          "trait_type": "Series",
+          "value": "Umeko Omiyage"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "PEPEUMEKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
+    },
+    {
+      "asset": "MAGICUMEKO"
+    }
+  ]
+}
