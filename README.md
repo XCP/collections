@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 809 |
-| Canonical collections | 803 |
+| Collections | 810 |
+| Canonical collections | 804 |
 | Curated views | 6 |
-| Explicit unique assets | 64,534 |
-| Explicit collection memberships | 65,676 |
-| Primary memberships | 64,534 |
+| Explicit unique assets | 64,535 |
+| Explicit collection memberships | 65,677 |
+| Primary memberships | 64,535 |
 | Secondary or curated memberships | 1,142 |
-| Memberships with traits | 34,624 |
+| Memberships with traits | 34,635 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 806 |
+| Reviewed static `assets.json` | 807 |
 | Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Chapter, Colour, Component, Date, Edition, Element, Emoji, Eyes, Face, HP, Head, Health, ID, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Work, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Eyes, Face, HP, Head, Health, ID, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Work, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->

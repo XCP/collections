@@ -1,0 +1,150 @@
+{
+  "assets": [
+    {
+      "asset": "VETTEDREALTY.VRX-CN-01",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "CHINA"
+        },
+        {
+          "trait_type": "City",
+          "value": "SHANGHAI"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-CE-01",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "CENTRAL EUROPE"
+        },
+        {
+          "trait_type": "City",
+          "value": "MUNICH"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-CE-03",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "CENTRAL EUROPE"
+        },
+        {
+          "trait_type": "City",
+          "value": "PARIS"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-RU-01",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "RUSSIA"
+        },
+        {
+          "trait_type": "City",
+          "value": "MOSCOW"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-RU-02",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "RUSSIA"
+        },
+        {
+          "trait_type": "City",
+          "value": "SAINT PETERSBURG"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-CE-02",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "CENTRAL EUROPE"
+        },
+        {
+          "trait_type": "City",
+          "value": "LONDON"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-TH-04",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "THAILAND"
+        },
+        {
+          "trait_type": "City",
+          "value": "KOH SAMUI"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-TH-05",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "THAILAND"
+        },
+        {
+          "trait_type": "City",
+          "value": "CHIANG MAI"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-TH-02",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "THAILAND"
+        },
+        {
+          "trait_type": "City",
+          "value": "BANGKOK"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-TH-01",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "THAILAND"
+        },
+        {
+          "trait_type": "City",
+          "value": "PATTAYA"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY.VRX-TH-03",
+      "attributes": [
+        {
+          "trait_type": "Region",
+          "value": "THAILAND"
+        },
+        {
+          "trait_type": "City",
+          "value": "PHUKET"
+        }
+      ]
+    },
+    {
+      "asset": "VETTEDREALTY"
+    }
+  ]
+}
