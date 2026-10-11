@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "asset": "RARESTSETS"
+    },
+    {
+      "asset": "RARESTSETS.The_Rarest_Tote",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Amy DiGi"
+        }
+      ]
+    },
+    {
+      "asset": "RARESTSETS.nycnftauction"
+    },
+    {
+      "asset": "RARESTSETS.scarcecitynyc2023"
+    },
+    {
+      "asset": "RARESTSETS.AUCTIONWINNER"
+    },
+    {
+      "asset": "RARITYHOLDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
+    }
+  ]
+}
