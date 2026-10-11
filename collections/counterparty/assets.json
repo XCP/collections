@@ -38636,7 +38636,13 @@
       "asset": "GOATPEPE"
     },
     {
-      "asset": "GODIVAPEPE"
+      "asset": "GODIVAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "GOGOGHOST",
@@ -39467,7 +39473,13 @@
       "asset": "IMWITHSTUPID"
     },
     {
-      "asset": "INCOGNITOKEK"
+      "asset": "INCOGNITOKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "INCOGPEPE"
@@ -39921,7 +39933,13 @@
       "asset": "KEYAKIZAKA"
     },
     {
-      "asset": "KEYGENPEPE"
+      "asset": "KEYGENPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "KHABYLAME"
@@ -42661,7 +42679,13 @@
       "asset": "PEPECYNICAL"
     },
     {
-      "asset": "PEPECZAR"
+      "asset": "PEPECZAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "PEPEDARKCAT"
@@ -42982,7 +43006,13 @@
       "asset": "PEPEISLAND"
     },
     {
-      "asset": "PEPEITA"
+      "asset": "PEPEITA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "PEPEJANKUS"
@@ -43717,7 +43747,13 @@
       ]
     },
     {
-      "asset": "PEPETRENCHES"
+      "asset": "PEPETRENCHES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "PEPETRIFECTA",
@@ -45160,7 +45196,13 @@
       "asset": "RFKPEPE"
     },
     {
-      "asset": "RIBANURA"
+      "asset": "RIBANURA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thewisekhan"
+        }
+      ]
     },
     {
       "asset": "RIBBITING"
