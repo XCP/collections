@@ -251,3 +251,10 @@ Exact-asset Arweave documents credit Waldemar, WaL or WR and link the same Wrbpt
 ## DARKBLUEPEPE artist credit
 
 The [exact-asset historical Coindaddy metadata](https://xcp.coindaddy.io/DARKBLUEPEPE.json) names Zossel in its artist field and links twitter.com/Zosselk. Reuse the existing Zossel identity; this is not an issuer-wide attribution. Existing traits and membership are preserved.
+
+## Exact metadata artist credits
+
+These asset-specific metadata documents explicitly identify the artist. Existing memberships and other traits are preserved. For NATPRINTER and YOUNAT, descriptive text identifies Psyfrogger as the image creator and Subterranean as the minter; only the image creator receives an artist credit. No issuer-wide attribution is used.
+
+- TOPFLOORPEPE.template: subterranean ([metadata](https://raw.githubusercontent.com/subterranean1/jsons/main/TOPFLOORPEPE.template.json))
+- MISSINGPEPE: arwyn ([metadata](https://arweave.net/F7B7_OhDXJ8-NGJvSHvycmN0-4tDrPg78bjvSaYxOdA))

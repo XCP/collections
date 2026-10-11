@@ -27,3 +27,9 @@ the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
 
 SENATORKAREN artist credit: the artwork itself is signed “DeGenna | 2024” at bottom right (https://cdn.xcp.io/img/card/SENATORKAREN), consistent with the issuer of existing DEGENNA works COCOMONA and PEPELLA. Credit uses the existing DEGENNA artist identity.
+
+## Exact metadata artist credits
+
+These asset-specific metadata documents explicitly identify the artist. Existing memberships and other traits are preserved. For NATPRINTER and YOUNAT, descriptive text identifies Psyfrogger as the image creator and Subterranean as the minter; only the image creator receives an artist credit. No issuer-wide attribution is used.
+
+- HALSTRADAMUS: subterranean ([metadata](https://gateway.ar.io/ZWD4KLulxVB9uuUeA8eB-fRd_hhMeX-eZv4svSfhc0U/HALSTRADAMUS.json))

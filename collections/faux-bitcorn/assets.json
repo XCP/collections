@@ -465,7 +465,13 @@
       "asset": "SOUTHCORN"
     },
     {
-      "asset": "STREETCORN"
+      "asset": "STREETCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "SWEETKORN"

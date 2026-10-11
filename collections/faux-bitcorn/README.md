@@ -25,3 +25,9 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## Exact metadata artist credits
+
+These asset-specific metadata documents explicitly identify the artist. Existing memberships and other traits are preserved. For NATPRINTER and YOUNAT, descriptive text identifies Psyfrogger as the image creator and Subterranean as the minter; only the image creator receives an artist credit. No issuer-wide attribution is used.
+
+- STREETCORN: subterranean ([metadata](https://gateway.ar.io/q-eK6jYmrvfcknx_HVkVCzBfi7fpLxfRhtociCUKFJc/STREETCORN.json))

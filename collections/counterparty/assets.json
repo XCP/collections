@@ -33464,7 +33464,13 @@
       "asset": "ESPACIO.DEMO"
     },
     {
-      "asset": "TOPFLOORPEPE.template"
+      "asset": "TOPFLOORPEPE.template",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "A7894181159971287041"
@@ -40888,7 +40894,13 @@
       "asset": "MISSINGFREN"
     },
     {
-      "asset": "MISSINGPEPE"
+      "asset": "MISSINGPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
     },
     {
       "asset": "MISSMIM"

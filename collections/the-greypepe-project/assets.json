@@ -112,7 +112,13 @@
       ]
     },
     {
-      "asset": "GREYCIRCLE"
+      "asset": "GREYCIRCLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "GREYDJPEPE"
@@ -236,7 +242,13 @@
       "asset": "INVADERPEPE"
     },
     {
-      "asset": "ISTANBULGREY"
+      "asset": "ISTANBULGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "IWANTTOKEK"
@@ -263,7 +275,13 @@
       ]
     },
     {
-      "asset": "MENINGREY"
+      "asset": "MENINGREY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
     },
     {
       "asset": "NEOMORPH",
