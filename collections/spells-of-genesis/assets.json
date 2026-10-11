@@ -2073,6 +2073,35 @@
     },
     {
       "asset": "MERCHANTCARD"
+    },
+    {
+      "asset": "DADACARD",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Attack",
+          "value": 6
+        },
+        {
+          "trait_type": "Health",
+          "value": 11
+        },
+        {
+          "trait_type": "Speed",
+          "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Brolo"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Dark"
+        }
+      ]
     }
   ]
 }
