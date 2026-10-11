@@ -35768,7 +35768,17 @@
       "asset": "COKEPEPA"
     },
     {
-      "asset": "COLABCOUPLE"
+      "asset": "COLABCOUPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Mrs Dita"
+        }
+      ]
     },
     {
       "asset": "COLDCHISEL"
@@ -36311,7 +36321,17 @@
       "asset": "DANKOSMIC"
     },
     {
-      "asset": "DANKPENCIL"
+      "asset": "DANKPENCIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dankfren"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kevo-B"
+        }
+      ]
     },
     {
       "asset": "DANKPENPEN",
@@ -37595,7 +37615,13 @@
       ]
     },
     {
-      "asset": "FAKEJOY"
+      "asset": "FAKEJOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ALEXTHEKID"
+        }
+      ]
     },
     {
       "asset": "FAKEKESTRARE",
@@ -38138,7 +38164,17 @@
       "asset": "FLUNE"
     },
     {
-      "asset": "FLYE"
+      "asset": "FLYE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selectedcuts"
+        }
+      ]
     },
     {
       "asset": "FLYEASF"
