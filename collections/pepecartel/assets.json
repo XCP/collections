@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPECARTEL.Benevolent_Dictator",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Cartel"
+        }
+      ]
+    },
+    {
+      "asset": "HENCHMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Cartel"
+        }
+      ]
+    },
+    {
+      "asset": "PEPECARTEL.Henchman",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Cartel"
+        }
+      ]
+    }
+  ]
+}
