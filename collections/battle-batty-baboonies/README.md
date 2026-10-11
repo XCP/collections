@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 4 assets |
-| Primary memberships | 4 |
+| Membership | 5 assets |
+| Primary memberships | 5 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/4 (100%) |
+| Traits | Artist: 5/5 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -24,3 +24,7 @@ The catalogue references `001` and `UPGRADEARMOR001` are not resolved to verifie
 ## Kevin Ferreira attribution
 
 Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.
+
+## Illustrated parent cover
+
+Reviewed 2026-10-11. BATTY is the illustrated collection cover: the artwork prints “XCPinata’s Battle Batty Baboonies” and its [exact-asset metadata](https://arweave.net/jwDaVIra9mOtJnAmEu17L6uSTzoyyYIFdOUNPv0ANmQ) repeats that title and links the project website. Its four subassets are the existing collection members. Include the parent as primary here and remove its Counterparty fallback membership. Kevin Ferreira is credited under the established XCPinata attribution evidence. REDSTONE is not admitted by association.

@@ -298,3 +298,25 @@ These canonical Arweave metadata records match each asset exactly and name its c
 - NIMZOBIT.XCP: Nimzobit ([metadata](https://arweave.net/O-KQ6f1ZtRHHRfbydEm4RzOv5KzI_VYTvz_ITe3_Pvs))
 - FEELDANCE: Nimzobit ([metadata](https://arweave.net/aINfwBjWjuISybgAeyf3Geznr_xRqw5BlqJtl9994QQ))
 - SPONSORPEPE: Nimzobit ([metadata](https://arweave.net/NtalynE5DgxzNuubPanXsuEg7WZtDymX_ku2lBgifs0))
+
+## Exact metadata credits, reviewed 2026-10-11
+
+The following asset-specific records identify creators, rather than inferring them from issuer addresses. The Easyasset `pgpsig` artist label is checked against the description and existing identities. Owner-only labels, unresolved collaborations and ambiguous aliases are held back. Ctc and ffmad reuse CTC and Ffmad. DARKRITUAL explicitly credits PurpLeTariat for audio composition; its named AI tools do not become artist profiles. PEPEANGELIC explicitly credits BTC_Socks. The two Pepenardo works contain creation statements, including his Xnardo alias. These credits do not establish admission to any official card collection.
+
+- BITKING: Stroxpix ([metadata](https://arweave.net/EbAXQlGgzw6drkzMLBYSqp9lw-bdsquXgnDVg-s_564))
+- BITMONALISA: Stroxpix ([metadata](https://arweave.net/NGgY_NXMvMmG9I1HSlxeOHAt0epiK-XPeNMB5kIh-5I))
+- BOTTOMSIGNAL: PurpLeTariat ([metadata](https://arweave.net/ivfBdOQBFO2SKMq4Vk9EVhVtsHDmxsLrLSN9lTrWpJA))
+- DARKRITUAL: PurpLeTariat ([metadata](https://arweave.net/CPbTE-kPeFqDfZ-bhSRfxsKFcjosA-FLdTODmxJHEhM))
+- SMOLDENZA: HTX_m0nster ([metadata](https://arweave.net/isjw0qT51X6c9Wo8JMqWAZNutNdCLDHt5mv5W8k5v4Y))
+- DYSPHUNCT: reinamora ([metadata](https://arweave.net/czHIaMVfn-zybEF03zTq78ocs-s1cyhkf8Qt6khwuzw))
+- MARBLEQUARRY: reinamora ([metadata](https://arweave.net/kquANvyZM7GSXFKMr1_xb4Abrdi0lyB5WQ0i6nGJLW4))
+- LFGYODA: CTC ([metadata](https://arweave.net/EGIsdaQqBMXq2Ap4P4SDfZLKQtmdimQb-C7iANYEN_Q))
+- MISSGREENLND: CTC ([metadata](https://arweave.net/JsiKQlpY-eZojWsskIxVaSShuwgL8izQQC4QBj4ea8k))
+- MISSMIM: CTC ([metadata](https://arweave.net/pSjHrQTResIJTPqYdzYhi0jdX15gWSgpXKJNKlsokUw))
+- FAKEKESTRARE: THE PERFESSER ([metadata](https://arweave.net/yZrHYmDotDvOYTEI3Lqaf2mlG8-7Cbpw_KKCzqIxMmk))
+- CANTREACH: Ffmad ([metadata](https://arweave.net/YT_dl0isEmP7xlNj2azfADlFFXNtLTS9T2HyKyicmpw))
+- FAIRMINTER: Ffmad ([metadata](https://arweave.net/4zOjaK4D7j5UnaaOb2YmMA6pOcv6Yp9rmIzaSL94NcQ))
+- PEPEANGELIC: BTC_Socks ([metadata](https://arweave.net/AjVKFW3ih3KcXU_YsrwGHaB_HFktHHAX6gOAPT06fZY))
+- LASTMSG: LvsD ([metadata](https://arweave.net/j58beDhAEQOfx-mb0L4j7JmZTbLr4YfSvALGm5wLNtg))
+- FKPEPEURINAL: Pepenardo ([metadata](https://xcp.coindaddy.io/FKPEPEURINAL.json))
+- MADEREADY: Pepenardo ([metadata](https://xcp.coindaddy.io/MADEREADY.json))
