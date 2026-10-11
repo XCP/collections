@@ -10,7 +10,7 @@
 | Primary memberships | 195 |
 | Secondary or curated memberships | 3 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 184/198 (92.9%) |
+| Traits | Artist: 194/198 (98.0%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -35,3 +35,7 @@ Exact chain-linked Rare Pigeons JSON for SAUNAPEPE, PNGPGN, LOVEANDDOVES and PIJ
 The official season, Special Editions, Pigeon Artists and COOCRUMB Cards pages explicitly pair asset names with artist handles. Missing credits were filled only where the published handle matches an established registry artist exactly and does not conflict with the current marketplace credit. Existing membership priorities and all traits remain intact. Issuer ownership and historical artists portrayed on cards are not attribution evidence. Spelling variants remain held for separate identity research.
 
 Sources: [/coocrumb-cards/](https://www.rarepigeons.com/coocrumb-cards/), [/season-3/](https://www.rarepigeons.com/season-3/), [/season-1/](https://www.rarepigeons.com/season-1/), [/special-editions/](https://www.rarepigeons.com/special-editions/), [/season-5/](https://www.rarepigeons.com/season-5/), [/pigeon-artists/](https://www.rarepigeons.com/pigeon-artists/), [/season-2/](https://www.rarepigeons.com/season-2/), [/season-6/](https://www.rarepigeons.com/season-6/), [/season-7/](https://www.rarepigeons.com/season-7/), [/season-4/](https://www.rarepigeons.com/season-4/).
+
+### Newly identified artists
+
+Ten further explicit catalog credits establish Fenris Mau (two works), Katpeque4 (five), and oneburntoutop (three). Exact and broader name searches found no matching marketplace profiles; both capitalizations of the same Katpeque4 handle use one spelling. Attribution is limited to the named artworks. No unrelated biographical or social-profile identity is inferred. LFGCTC and Bcarver85 remain separate identity-resolution followups.
