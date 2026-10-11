@@ -34151,9 +34151,6 @@
       "asset": "BASTRACTPEPE"
     },
     {
-      "asset": "BATTY"
-    },
-    {
       "asset": "BAYMAX"
     },
     {
@@ -34529,7 +34526,13 @@
       "asset": "BITHINKER"
     },
     {
-      "asset": "BITKING"
+      "asset": "BITKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Stroxpix"
+        }
+      ]
     },
     {
       "asset": "BITKNIGHT",
@@ -34544,7 +34547,13 @@
       "asset": "BITLANDGAN"
     },
     {
-      "asset": "BITMONALISA"
+      "asset": "BITMONALISA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Stroxpix"
+        }
+      ]
     },
     {
       "asset": "BITNIGHT"
@@ -34898,7 +34907,13 @@
       "asset": "BOTM"
     },
     {
-      "asset": "BOTTOMSIGNAL"
+      "asset": "BOTTOMSIGNAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PurpLeTariat"
+        }
+      ]
     },
     {
       "asset": "BOTTOPEPE"
@@ -35324,7 +35339,13 @@
       "asset": "CANONPEPE"
     },
     {
-      "asset": "CANTREACH"
+      "asset": "CANTREACH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ffmad"
+        }
+      ]
     },
     {
       "asset": "CAPPADOGEA",
@@ -36437,7 +36458,13 @@
       "asset": "DARKPEPEGYPT"
     },
     {
-      "asset": "DARKRITUAL"
+      "asset": "DARKRITUAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PurpLeTariat"
+        }
+      ]
     },
     {
       "asset": "DARRENINDYKE"
@@ -37043,7 +37070,13 @@
       "asset": "DYNOPEPE"
     },
     {
-      "asset": "DYSPHUNCT"
+      "asset": "DYSPHUNCT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "reinamora"
+        }
+      ]
     },
     {
       "asset": "EAGLET"
@@ -37304,7 +37337,13 @@
       "asset": "FAIRGREEN"
     },
     {
-      "asset": "FAIRMINTER"
+      "asset": "FAIRMINTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ffmad"
+        }
+      ]
     },
     {
       "asset": "FAIROFFER"
@@ -37529,7 +37568,13 @@
       "asset": "FAKEJOY"
     },
     {
-      "asset": "FAKEKESTRARE"
+      "asset": "FAKEKESTRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "THE PERFESSER"
+        }
+      ]
     },
     {
       "asset": "FAKELASER"
@@ -38003,7 +38048,13 @@
       "asset": "FKCOOGIRUNE"
     },
     {
-      "asset": "FKPEPEURINAL"
+      "asset": "FKPEPEURINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     },
     {
       "asset": "FLEXSEED"
@@ -40149,7 +40200,13 @@
       "asset": "LAPISPOTION"
     },
     {
-      "asset": "LASTMSG"
+      "asset": "LASTMSG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LvsD"
+        }
+      ]
     },
     {
       "asset": "LAUGHSNNOSTA"
@@ -40212,7 +40269,13 @@
       ]
     },
     {
-      "asset": "LFGYODA"
+      "asset": "LFGYODA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFNIMMORTAL"
@@ -40461,7 +40524,13 @@
       "asset": "MADEINPARIS"
     },
     {
-      "asset": "MADEREADY"
+      "asset": "MADEREADY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     },
     {
       "asset": "MADFAPE",
@@ -40548,7 +40617,13 @@
       "asset": "MARBLEPEPE"
     },
     {
-      "asset": "MARBLEQUARRY"
+      "asset": "MARBLEQUARRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "reinamora"
+        }
+      ]
     },
     {
       "asset": "MARCINKOVA"
@@ -40891,7 +40966,13 @@
       "asset": "MISESBTCWEEK"
     },
     {
-      "asset": "MISSGREENLND"
+      "asset": "MISSGREENLND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "MISSINGCOW"
@@ -40909,7 +40990,13 @@
       ]
     },
     {
-      "asset": "MISSMIM"
+      "asset": "MISSMIM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "MISSNAKAMOTO",
@@ -42505,7 +42592,13 @@
       "asset": "PEPEANDSALT"
     },
     {
-      "asset": "PEPEANGELIC"
+      "asset": "PEPEANGELIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTC_Socks"
+        }
+      ]
     },
     {
       "asset": "PEPEARESAFU",
@@ -46081,7 +46174,13 @@
       ]
     },
     {
-      "asset": "SMOLDENZA"
+      "asset": "SMOLDENZA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HTX_m0nster"
+        }
+      ]
     },
     {
       "asset": "SMOLFAN"
