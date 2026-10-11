@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "DANKEQUATION",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ponki"
+        }
+      ]
+    },
+    {
+      "asset": "DANKNAMJUNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ponki"
+        }
+      ]
+    },
+    {
+      "asset": "NAMJUNEBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ponki"
+        }
+      ]
+    }
+  ]
+}
