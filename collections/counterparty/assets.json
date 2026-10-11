@@ -32783,7 +32783,13 @@
       "asset": "SSBLUEBEAR.BLUEMAGIC"
     },
     {
-      "asset": "NIMZOBIT.XCP"
+      "asset": "NIMZOBIT.XCP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "EMMAMARKIN.NaturesTheCure"
@@ -35996,7 +36002,13 @@
       "asset": "COWMILK"
     },
     {
-      "asset": "COWSPEPE"
+      "asset": "COWSPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DarkFluffyRabbit"
+        }
+      ]
     },
     {
       "asset": "COYOTEPEPE",
@@ -36680,7 +36692,13 @@
       "asset": "DEVFUND"
     },
     {
-      "asset": "DEVILINSIDE"
+      "asset": "DEVILINSIDE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tim Mielke"
+        }
+      ]
     },
     {
       "asset": "DEVTHORSE"
@@ -37892,7 +37910,13 @@
       "asset": "FEARCORN"
     },
     {
-      "asset": "FEELDANCE"
+      "asset": "FEELDANCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "FEELGOODMAN"
@@ -39095,7 +39119,13 @@
       "asset": "HEARTSXCP"
     },
     {
-      "asset": "HEAVYMETALOV"
+      "asset": "HEAVYMETALOV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tim Mielke"
+        }
+      ]
     },
     {
       "asset": "HEAVYROCK"
@@ -39266,7 +39296,13 @@
       "asset": "HOLIDAYPEPE"
     },
     {
-      "asset": "HOLYDENSITY"
+      "asset": "HOLYDENSITY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DarkFluffyRabbit"
+        }
+      ]
     },
     {
       "asset": "HOLYROSARY"
@@ -39464,7 +39500,13 @@
       "asset": "IDNUMEPEP"
     },
     {
-      "asset": "IDREAMOFAKES"
+      "asset": "IDREAMOFAKES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ditacrypto"
+        }
+      ]
     },
     {
       "asset": "IGOTKICKED"
@@ -42577,7 +42619,13 @@
       "asset": "PEPEBAT"
     },
     {
-      "asset": "PEPEBBOY"
+      "asset": "PEPEBBOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DaoHackerman"
+        }
+      ]
     },
     {
       "asset": "PEPEBEAKER"
@@ -43342,7 +43390,13 @@
       ]
     },
     {
-      "asset": "PEPEMORY"
+      "asset": "PEPEMORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DarkFluffyRabbit"
+        }
+      ]
     },
     {
       "asset": "PEPEMOTEL"
@@ -46198,16 +46252,40 @@
       "asset": "SOGTOMBOLAMA"
     },
     {
-      "asset": "SOLARBOBO"
+      "asset": "SOLARBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Austin Hambelton"
+        }
+      ]
     },
     {
-      "asset": "SOLARDANK"
+      "asset": "SOLARDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Austin Hambelton"
+        }
+      ]
     },
     {
-      "asset": "SOLARPARADE"
+      "asset": "SOLARPARADE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Austin Hambelton"
+        }
+      ]
     },
     {
-      "asset": "SOLARPEPE"
+      "asset": "SOLARPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Austin Hambelton"
+        }
+      ]
     },
     {
       "asset": "SOLDIERPEPE"
@@ -46276,7 +46354,13 @@
       "asset": "SPACESIRL"
     },
     {
-      "asset": "SPACETRUCKIN"
+      "asset": "SPACETRUCKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tim Mielke"
+        }
+      ]
     },
     {
       "asset": "SPAMHOMER"
@@ -46306,7 +46390,13 @@
       "asset": "SPONGEBOB"
     },
     {
-      "asset": "SPONSORPEPE"
+      "asset": "SPONSORPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "SPOOFPEPE"
@@ -46645,7 +46735,13 @@
       "asset": "TENCHUKEK"
     },
     {
-      "asset": "TENNWHISKEY"
+      "asset": "TENNWHISKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tim Mielke"
+        }
+      ]
     },
     {
       "asset": "TEOW"

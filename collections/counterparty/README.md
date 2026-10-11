@@ -277,3 +277,24 @@ These canonical Arweave metadata records match each asset exactly and name its c
 - PEPEAMI: gg Toy Company ([metadata](https://arweave.net/6VzexVYCCg2UwJ0bMh8aS_-xGu248LXdq4zNejCye-Q))
 - TRUMPSFINGER: gg Toy Company ([metadata](https://arweave.net/jJY7T21tp3Tr-HciQRd7xLLnl8aVgcMLfazzDglCxZk))
 - PEPEHUGE: vnmber ([metadata](https://arweave.net/JjilfSvcYsxYKpLZF0t8bl-4LDWgOVQeYfsYQMJtftQ))
+
+## Recovered exact metadata credits (2026-10-11)
+
+These canonical Arweave metadata records match each asset exactly and name its creator in the Easyasset artist field (`pgpsig`). Credits are asset-specific; shared issuers and similar artwork do not establish attribution or official collection admission. Existing traits and membership remain intact. FEELDANCE identifies Nimzobit as the visual artist and separately credits licensed music to Adrian Key. The existing ditacrypto spelling is reused.
+
+- SOLARBOBO: Austin Hambelton ([metadata](https://arweave.net/SEe3ypEpyz9yhZlOFISUD2YbXdOjIcdgOD4w3ahn1FE))
+- SOLARDANK: Austin Hambelton ([metadata](https://arweave.net/aN6fQ9soBX5xwmC2YDWLjtIt10hUQsAhkIKl21wC0wM))
+- SOLARPARADE: Austin Hambelton ([metadata](https://arweave.net/ejSlNGRunM1tthCVBizE_B-k4bGqCTPz9_-TBhdnkR8))
+- SOLARPEPE: Austin Hambelton ([metadata](https://arweave.net/_XsMPVIu903ylrUomVGNml3IcZp8pN8vH429S4Vg3Dw))
+- DEVILINSIDE: Tim Mielke ([metadata](https://arweave.net/tBvWF-yu6QM1Zw-ZrpWS3Oesz0SX1LI1tYcy29eVXY4))
+- HEAVYMETALOV: Tim Mielke ([metadata](https://arweave.net/BQEZiceiBjDc2pWTcCdpDWBUXg2awgApsGo3ePN3TKo))
+- SPACETRUCKIN: Tim Mielke ([metadata](https://arweave.net/yhoIt2BVWYLAelN_r6eyXC9K-vw1CQ2QNSljDHuIH8M))
+- TENNWHISKEY: Tim Mielke ([metadata](https://arweave.net/VCYe2fAHg0DGe7YJP_ucesY8YjXz5DqGRPcSxp0HuyE))
+- COWSPEPE: DarkFluffyRabbit ([metadata](https://arweave.net/CAxBR5pr2zCA7fcoGT03z3astLdxziYEANMnw5M0qW0))
+- HOLYDENSITY: DarkFluffyRabbit ([metadata](https://arweave.net/Yxpvfu3ICTkn5wLua9-_w98cXPwTpIqkLRILSI4PhZE))
+- PEPEMORY: DarkFluffyRabbit ([metadata](https://arweave.net/twCMYLlSXsV1DVyzkm47v_RBAgW4F7QfHMQHwAjZVJY))
+- PEPEBBOY: DaoHackerman ([metadata](https://arweave.net/-L1QHVIFFiutoCx2EGoGNmupqFkXDyJp5T-_OJPtASI))
+- IDREAMOFAKES: ditacrypto ([metadata](https://arweave.net/lEiWWHwVpR_0OHevnOK2exxEqzV-UhNglxlDIJvbsYk))
+- NIMZOBIT.XCP: Nimzobit ([metadata](https://arweave.net/O-KQ6f1ZtRHHRfbydEm4RzOv5KzI_VYTvz_ITe3_Pvs))
+- FEELDANCE: Nimzobit ([metadata](https://arweave.net/aINfwBjWjuISybgAeyf3Geznr_xRqw5BlqJtl9994QQ))
+- SPONSORPEPE: Nimzobit ([metadata](https://arweave.net/NtalynE5DgxzNuubPanXsuEg7WZtDymX_ku2lBgifs0))
