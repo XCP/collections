@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "asset": "THEOS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "THEOS.OG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "THEOS.AUCTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "THEOS.FAKETHEO1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "THEOS.LOT2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "THEOS.UPDATEBYCEO"
+    }
+  ]
+}

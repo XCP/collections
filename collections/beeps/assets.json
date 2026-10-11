@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BEEPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "BEEPS.2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    }
+  ]
+}

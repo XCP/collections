@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "EGGPLANTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "EGGPLANTPEPE.mullet",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    }
+  ]
+}

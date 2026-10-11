@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "BOOTLEGFAKE.WEMADETHIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "BOOTLEGFAKE.FAKEASF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    },
+    {
+      "asset": "BOOTLEGFAKE.FAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
+    }
+  ]
+}
