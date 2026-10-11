@@ -10,7 +10,7 @@
 | Primary memberships | 159 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 104/160 (65%)<br>Card: 1/160 (0.6%)<br>Series: 1/160 (0.6%) |
+| Traits | Artist: 105/160 (65.6%)<br>Card: 1/160 (0.6%)<br>Series: 1/160 (0.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -35,3 +35,7 @@ The directory mixes Counterparty, Dogeparty and cp20 links: names on other netwo
 ## Artist metadata audit: 2026-10-10
 
 Added CTC credits to 39 existing members whose chain-linked Arweave JSON exactly identifies the asset and explicitly signs it as CTC, CODYTHECAMPBELL or Cody the Campbell. These files link the same LFGcryptoart identity already used by the artist profile. Memberships are unchanged. Identifier mismatches (SHUXPEPE/SHUXSPEPE) and ambiguous CYC signatures were excluded from this pass.
+
+### BUFFALOGAL creator
+
+The collection-operated [Faux Bitcorn catalog](https://fauxbitcorn.com/) explicitly identifies BUFFALOGAL and credits Ctc. Reuse the established CTC artist identity on its primary LFG membership as well as the secondary Faux Bitcorn membership. This attribution does not change either collection membership.

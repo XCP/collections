@@ -31,7 +31,13 @@
       ]
     },
     {
-      "asset": "BUFFALOGAL"
+      "asset": "BUFFALOGAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "CHASINGPEPE"
