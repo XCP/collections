@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "GREENPEPER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "GREENPEPER.INVITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    }
+  ]
+}
