@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "DETERMINPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
+    },
+    {
+      "asset": "DETERMINPEPE.FIRSTCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
+    },
+    {
+      "asset": "DETERMINPEPE.INSTRUCTIONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
+    },
+    {
+      "asset": "DETERMINED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
+    }
+  ]
+}

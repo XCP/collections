@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,741 assets |
-| Primary memberships | 7,741 |
+| Membership | 7,738 assets |
+| Primary memberships | 7,738 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,741 (0.2%)<br>Artist: 3,199/7,741 (41.3%) |
+| Traits | Art year: 17/7,738 (0.2%)<br>Artist: 3,212/7,738 (41.5%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -150,3 +150,9 @@ Credits below use original current or historical exact-asset metadata and review
 - **KINGDROOL → M0d3d3b0**: Exact-asset historical metadata explicitly attributes M0d3D3b0 in its published pgpsig field; the artwork matches the current card. [Source](https://xcp.coindaddy.io/KINGDROOL.json).
 - **PEPEBEBE → M0d3d3b0**: The reviewed artwork has the MOD3D3B0 signature at lower left. [Source](https://cdn.xcp.io/img/card/PEPEBEBE).
 - **SEANPEPE → m0nti**: Current exact-asset JSON explicitly attributes m0nti; an earlier metadata revision agrees. [Source](https://okexrgydbzvv3lxk4utabzc6icx7n5dqiparabtgrsggagmzfbyq.turbo-gateway.com/col4mwMOa12u6uUmAOReQK_29HBDwRAGZoyMYBmZKHE?/SEANPEPE.json).
+
+## Further CTC issuer metadata: 2026-10-10
+
+Recovered chain-linked Arweave JSON by removing obsolete filename suffixes. Exact asset identities and explicit pgpsig attribution support missing CTC and BLISSFULMORG credits, with Emperor Western credited for the artwork where the record distinguishes drawing from Cody typing text. TRUMPWINS credits CTC and Emperor Western separately. The project families are documented in DeterminPepe and QueenArtCoin; existing official primary homes are preserved.
+
+Hold LFGLUTNICK and SPELLSOFGOAT identifier mismatches, ambiguous AMY DIGI CODY DOODLED, and BEACHBOBO: its metadata says BAM BAM while the current credit says Salva. No existing attribution is overwritten. LFG website branding alone is not acceptance into its directory.

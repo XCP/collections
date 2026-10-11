@@ -40,13 +40,25 @@
       "asset": "CHESSBOYS"
     },
     {
-      "asset": "CHIAROSCURO"
+      "asset": "CHIAROSCURO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "COATOFARMS"
     },
     {
-      "asset": "CODYSAYSTHNX"
+      "asset": "CODYSAYSTHNX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "CODYSIMPSON"
@@ -70,7 +82,13 @@
       ]
     },
     {
-      "asset": "CRYPTOCZAR"
+      "asset": "CRYPTOCZAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "DARKPROPHECY",
@@ -240,7 +258,13 @@
       "asset": "GENERALMEME"
     },
     {
-      "asset": "GMPEPES"
+      "asset": "GMPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "HEWHOHOLDS",
@@ -381,7 +405,13 @@
       "asset": "LFGAWAKEN"
     },
     {
-      "asset": "LFGBANANAS"
+      "asset": "LFGBANANAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFGCHEKPOINT"
@@ -448,10 +478,22 @@
       "asset": "LFGOFFICIAL"
     },
     {
-      "asset": "LFGOPEPE"
+      "asset": "LFGOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
-      "asset": "LFGORBITAL"
+      "asset": "LFGORBITAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFGPARTY",
@@ -550,7 +592,13 @@
       "asset": "LFGSPEAKER"
     },
     {
-      "asset": "LFGSUBMIT"
+      "asset": "LFGSUBMIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "LFGSWARM"
@@ -688,7 +736,13 @@
       "asset": "PEPEHOLDINGS"
     },
     {
-      "asset": "PEPEINCOMMON"
+      "asset": "PEPEINCOMMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPEISBLISS"
@@ -721,7 +775,13 @@
       ]
     },
     {
-      "asset": "PEPELUMMIS"
+      "asset": "PEPELUMMIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPEMEH",

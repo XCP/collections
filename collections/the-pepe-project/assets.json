@@ -166,7 +166,13 @@
       "asset": "DEPLORABLES"
     },
     {
-      "asset": "DETERMINPEPE"
+      "asset": "DETERMINPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "DEVOLUTION"
@@ -253,7 +259,13 @@
       "asset": "FLAGDAY"
     },
     {
-      "asset": "FREEDUROV"
+      "asset": "FREEDUROV",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "FREEROSSDAY"

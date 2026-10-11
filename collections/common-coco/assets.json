@@ -160,7 +160,13 @@
       ]
     },
     {
-      "asset": "COCODILE"
+      "asset": "COCODILE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "COCODILE.tears",

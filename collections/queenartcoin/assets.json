@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "QUEENARTCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
+    },
+    {
+      "asset": "QUEENARTCOIN.NAKAMOTOAPE"
+    }
+  ]
+}
