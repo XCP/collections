@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SHOTGUNPEPE.TSHIRT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
+    },
+    {
+      "asset": "SHOTGUNPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m."
+        }
+      ]
+    }
+  ]
+}

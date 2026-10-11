@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "RAREIBEX.RGB"
+    },
+    {
+      "asset": "RAREIBEX",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
+    }
+  ]
+}
