@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "asset": "MOURNINGMOOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
+    },
+    {
+      "asset": "MOURNINGMOOS.BEYONDBARNYARD"
+    },
+    {
+      "asset": "MOURNINGMOOS.BLISS"
+    },
+    {
+      "asset": "MOURNINGMOOS.BTC23"
+    },
+    {
+      "asset": "MOURNINGMOOS.CITYLIFE"
+    },
+    {
+      "asset": "MOURNINGMOOS.MISSINGMOOS"
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOKRAINE"
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOULTONBARN"
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOVOLUTION"
+    },
+    {
+      "asset": "MOURNINGMOOS.PAINTTHEORY"
+    },
+    {
+      "asset": "MOURNINGMOOS.PAINTTHEORY.1of1"
+    },
+    {
+      "asset": "MOURNINGMOOS.RAREMOOMOO",
+      "primary": false
+    },
+    {
+      "asset": "NFTNFTNFTNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
+    }
+  ]
+}
