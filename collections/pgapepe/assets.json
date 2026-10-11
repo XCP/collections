@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "PGAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    },
+    {
+      "asset": "PGAPEPE.OG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HNFT Pepe"
+        }
+      ]
+    }
+  ]
+}

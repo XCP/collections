@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "FRANKLINPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    },
+    {
+      "asset": "FRANKLINPEPE.BILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luis Simo"
+        }
+      ]
+    }
+  ]
+}
