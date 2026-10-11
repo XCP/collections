@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDJPEPE.ENTER_THE_PEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDJPEPE.LA_FAKA_NOSTRA_WAZ_HERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDJPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DJ QBert"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        }
+      ]
+    }
+  ]
+}
