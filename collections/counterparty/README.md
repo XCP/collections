@@ -10,7 +10,7 @@
 | Primary memberships | 7,316 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 16/7,316 (0.2%)<br>Artist: 3,274/7,316 (44.8%) |
+| Traits | Art year: 16/7,316 (0.2%)<br>Artist: 3,277/7,316 (44.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -214,3 +214,11 @@ BTC Monk credits use exact token links from artist auction listings, plus the ex
 ## PEPEHEADRISK artist credit
 
 [Exact current asset metadata](https://arweave.net/IJqJCIvnF1sxCEdcwfDLRVjk5WMHuWmgye31Xm1KXe4) names DANCETURN and links https://twitter.com/DanceTurn. Reuse the existing Danceturn artist; no attribution extends to other issuer works.
+
+## LvsD recovered metadata credits
+
+Three exact-asset Arweave transaction-root JSON documents identify LvsD and link https://twitter.com/Zbyku. No existing LvsD or Zbyku artist profile was found in the public artist search. Use the published artist name LvsD; Zbyku is the linked social handle. These are published metadata attributions, not cryptographically verified signatures. Preserve all prior traits and memberships. No issuer-wide attribution extends to assets without matching evidence.
+
+- DONTEATART: [metadata](https://arweave.net/M1wbjLaXBDK0n64SfzK7PwxKI5mevjw-SxZ-YmjO-N8)
+- FAIRSTORM: [metadata](https://arweave.net/5kEoTavtGL8OjrU5OmhpLUrhYBnwXHzwWaliq7kMdEY)
+- DREAMCODE: [metadata](https://arweave.net/_L7riYdOhh9iO5U4k1zyeq5vmTR4cfZYSllEGdAFelU)

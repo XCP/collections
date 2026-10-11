@@ -36872,7 +36872,13 @@
       "asset": "DONTATME"
     },
     {
-      "asset": "DONTEATART"
+      "asset": "DONTEATART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LvsD"
+        }
+      ]
     },
     {
       "asset": "DONTPOUT"
@@ -36929,7 +36935,13 @@
       "asset": "DREAMBAPE"
     },
     {
-      "asset": "DREAMCODE"
+      "asset": "DREAMCODE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LvsD"
+        }
+      ]
     },
     {
       "asset": "DRINKIT"
@@ -37301,7 +37313,13 @@
       "asset": "FAIRSOUND"
     },
     {
-      "asset": "FAIRSTORM"
+      "asset": "FAIRSTORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LvsD"
+        }
+      ]
     },
     {
       "asset": "FAIRTECH"
