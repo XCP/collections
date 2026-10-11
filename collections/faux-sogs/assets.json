@@ -172,7 +172,13 @@
       ]
     },
     {
-      "asset": "CARMERCHANT"
+      "asset": "CARMERCHANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TurtleLord"
+        }
+      ]
     },
     {
       "asset": "CATTAMER",
@@ -211,10 +217,26 @@
       ]
     },
     {
-      "asset": "COLLABCARD"
+      "asset": "COLLABCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rinaldo Wirz"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Herckeim"
+        }
+      ]
     },
     {
-      "asset": "CONCEPTCARD"
+      "asset": "CONCEPTCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rinaldo Wirz"
+        }
+      ]
     },
     {
       "asset": "COUNTERWRATH",
@@ -235,7 +257,13 @@
       ]
     },
     {
-      "asset": "CRYSTLMASTER"
+      "asset": "CRYSTLMASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wodan"
+        }
+      ]
     },
     {
       "asset": "CULTOFTHEV",
@@ -247,7 +275,17 @@
       ]
     },
     {
-      "asset": "DANKHUNTERS"
+      "asset": "DANKHUNTERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "AdeKrypto"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "OTIM"
+        }
+      ]
     },
     {
       "asset": "DARKSATOSHI",
@@ -391,7 +429,13 @@
       ]
     },
     {
-      "asset": "FAUXALICE"
+      "asset": "FAUXALICE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXALIENS",
@@ -460,7 +504,13 @@
       ]
     },
     {
-      "asset": "FAUXBABEL"
+      "asset": "FAUXBABEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXBASQ",
@@ -520,7 +570,13 @@
       ]
     },
     {
-      "asset": "FAUXBOROMIR"
+      "asset": "FAUXBOROMIR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXBTCADICT",
@@ -721,7 +777,13 @@
       ]
     },
     {
-      "asset": "FAUXELON"
+      "asset": "FAUXELON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXFLAMEDRG",
@@ -931,7 +993,13 @@
       ]
     },
     {
-      "asset": "FAUXKNIGHTS"
+      "asset": "FAUXKNIGHTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXLEGENDS",
@@ -1129,7 +1197,13 @@
       ]
     },
     {
-      "asset": "FAUXPUNK"
+      "asset": "FAUXPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXPUNKSTER",
@@ -1150,7 +1224,13 @@
       ]
     },
     {
-      "asset": "FAUXRAREAPE"
+      "asset": "FAUXRAREAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whatsinaname"
+        }
+      ]
     },
     {
       "asset": "FAUXROB",
@@ -1228,7 +1308,13 @@
       ]
     },
     {
-      "asset": "FAUXSQUIRTLE"
+      "asset": "FAUXSQUIRTLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "FAUXSTAMP",
@@ -1360,7 +1446,13 @@
       ]
     },
     {
-      "asset": "FAUXWIZARD"
+      "asset": "FAUXWIZARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whatsinaname"
+        }
+      ]
     },
     {
       "asset": "FAUXWORLDER",
@@ -1417,7 +1509,13 @@
       ]
     },
     {
-      "asset": "FROGBIRTH"
+      "asset": "FROGBIRTH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "c'oinking"
+        }
+      ]
     },
     {
       "asset": "GANJAFAUX",
@@ -1429,10 +1527,22 @@
       ]
     },
     {
-      "asset": "GENAUXFGLEAM"
+      "asset": "GENAUXFGLEAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
-      "asset": "GENESISQUEST"
+      "asset": "GENESISQUEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "wabi"
+        }
+      ]
     },
     {
       "asset": "GENESIX",
@@ -1507,7 +1617,17 @@
       ]
     },
     {
-      "asset": "HALCARD"
+      "asset": "HALCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "equ1l1br1um_"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "soulmonsta"
+        }
+      ]
     },
     {
       "asset": "HASHCARD",
@@ -1558,7 +1678,13 @@
       ]
     },
     {
-      "asset": "IRLFDCARD"
+      "asset": "IRLFDCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "c'oinking"
+        }
+      ]
     },
     {
       "asset": "JESUSOGS",
@@ -1570,7 +1696,17 @@
       ]
     },
     {
-      "asset": "KAORIFAUX"
+      "asset": "KAORIFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MAYL"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "KEKMINER",
@@ -1618,10 +1754,22 @@
       ]
     },
     {
-      "asset": "LUNACARD"
+      "asset": "LUNACARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Griffin"
+        }
+      ]
     },
     {
-      "asset": "MAGICIANCARD"
+      "asset": "MAGICIANCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Noosh"
+        }
+      ]
     },
     {
       "asset": "MANDELKING",
@@ -1655,7 +1803,17 @@
       ]
     },
     {
-      "asset": "MIZUKIFAUX"
+      "asset": "MIZUKIFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MAYL"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "MNSTRKNGHT",
@@ -1685,10 +1843,22 @@
       ]
     },
     {
-      "asset": "MTCORN"
+      "asset": "MTCORN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "wabi"
+        }
+      ]
     },
     {
-      "asset": "MYTHOSSOO"
+      "asset": "MYTHOSSOO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Abbate"
+        }
+      ]
     },
     {
       "asset": "NANAY",
@@ -1754,10 +1924,22 @@
       ]
     },
     {
-      "asset": "OWLCOIN"
+      "asset": "OWLCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "c'oinking"
+        }
+      ]
     },
     {
-      "asset": "PARRAIN"
+      "asset": "PARRAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "wabi"
+        }
+      ]
     },
     {
       "asset": "PARTYSOVER",
@@ -1769,7 +1951,13 @@
       ]
     },
     {
-      "asset": "PCKBRELLA"
+      "asset": "PCKBRELLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Seb Ngum"
+        }
+      ]
     },
     {
       "asset": "PEPEHILL",
@@ -1808,7 +1996,13 @@
       ]
     },
     {
-      "asset": "PHOENIXCD"
+      "asset": "PHOENIXCD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tasha"
+        }
+      ]
     },
     {
       "asset": "PRIMALFAUX",
@@ -1823,7 +2017,13 @@
       "asset": "PROOFOFSOG"
     },
     {
-      "asset": "QUANTUMUN"
+      "asset": "QUANTUMUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JR"
+        }
+      ]
     },
     {
       "asset": "RARECHARM",
@@ -1853,7 +2053,13 @@
       ]
     },
     {
-      "asset": "REINCOINATE"
+      "asset": "REINCOINATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "c'oinking"
+        }
+      ]
     },
     {
       "asset": "ROBOKEKPEPEX",
@@ -1865,7 +2071,13 @@
       ]
     },
     {
-      "asset": "RUGMANCER"
+      "asset": "RUGMANCER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zossel"
+        }
+      ]
     },
     {
       "asset": "SANTAFAUX",
@@ -1940,7 +2152,13 @@
       ]
     },
     {
-      "asset": "SHABANAMOTO"
+      "asset": "SHABANAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Danceturn"
+        }
+      ]
     },
     {
       "asset": "SHADIFAUX",
@@ -1988,7 +2206,13 @@
       ]
     },
     {
-      "asset": "SOGGENESIS"
+      "asset": "SOGGENESIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ZeroKelvin"
+        }
+      ]
     },
     {
       "asset": "SOGGYMONEY",
@@ -2000,7 +2224,13 @@
       ]
     },
     {
-      "asset": "SOGGYSTYLE"
+      "asset": "SOGGYSTYLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
       "asset": "SOGHOLDER",
@@ -2075,10 +2305,22 @@
       ]
     },
     {
-      "asset": "SOURDOGE"
+      "asset": "SOURDOGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kdh0k"
+        }
+      ]
     },
     {
-      "asset": "SPELLCASTER"
+      "asset": "SPELLCASTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "whatsinaname"
+        }
+      ]
     },
     {
       "asset": "SPRTLINFLATE",
@@ -2243,10 +2485,22 @@
       ]
     },
     {
-      "asset": "THREEBYTHREE"
+      "asset": "THREEBYTHREE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thr33som3s"
+        }
+      ]
     },
     {
-      "asset": "THREECHARMZ"
+      "asset": "THREECHARMZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "thr33som3s"
+        }
+      ]
     },
     {
       "asset": "THSCRG",
@@ -2294,10 +2548,26 @@
       ]
     },
     {
-      "asset": "TSUKASAFAUX"
+      "asset": "TSUKASAFAUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MAYL"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
     },
     {
-      "asset": "VANGOSHI"
+      "asset": "VANGOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "c'oinking"
+        }
+      ]
     },
     {
       "asset": "WALKTHEPLANK",
@@ -2327,7 +2597,13 @@
       ]
     },
     {
-      "asset": "WHITEAODH"
+      "asset": "WHITEAODH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nishseq"
+        }
+      ]
     },
     {
       "asset": "WIZARDOFSOG",
@@ -2348,7 +2624,13 @@
       ]
     },
     {
-      "asset": "YACHTCARD"
+      "asset": "YACHTCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Griffin"
+        }
+      ]
     },
     {
       "asset": "ZUGZWANG",
