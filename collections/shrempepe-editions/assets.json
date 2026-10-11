@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "SHREMPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shawn Leary"
+        }
+      ]
+    },
+    {
+      "asset": "SHREMPEPE.SIGNED"
+    }
+  ]
+}
