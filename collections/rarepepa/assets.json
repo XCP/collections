@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "RAREPEPA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Whoisit"
+        }
+      ]
+    },
+    {
+      "asset": "RAREPEPA.NFTNYC"
+    }
+  ]
+}
