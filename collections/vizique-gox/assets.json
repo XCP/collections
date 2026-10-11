@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "HOTGOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "DANKGOX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEGOX",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    }
+  ]
+}

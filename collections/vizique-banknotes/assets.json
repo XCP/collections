@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "asset": "PIZZADAYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PIZZADAYONE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PIZZADAYTWO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "PIZZADAYTHRE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    },
+    {
+      "asset": "ONEDANKNOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vizique"
+        }
+      ]
+    }
+  ]
+}
