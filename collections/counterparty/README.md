@@ -10,7 +10,7 @@
 | Primary memberships | 7,309 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 16/7,309 (0.2%)<br>Artist: 3,277/7,309 (44.8%) |
+| Traits | Art year: 16/7,309 (0.2%)<br>Artist: 3,297/7,309 (45.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -222,3 +222,28 @@ Three exact-asset Arweave transaction-root JSON documents identify LvsD and link
 - DONTEATART: [metadata](https://arweave.net/M1wbjLaXBDK0n64SfzK7PwxKI5mevjw-SxZ-YmjO-N8)
 - FAIRSTORM: [metadata](https://arweave.net/5kEoTavtGL8OjrU5OmhpLUrhYBnwXHzwWaliq7kMdEY)
 - DREAMCODE: [metadata](https://arweave.net/_L7riYdOhh9iO5U4k1zyeq5vmTR4cfZYSllEGdAFelU)
+
+## Waldemar recovered metadata credits
+
+Exact-asset Arweave documents credit Waldemar, WaL or WR and link the same Wrbpt26 social handle. The full Waldemar spelling in matching DIVINETLC, ENERGYWEAPON and MASTERINTEL metadata corroborates the aliases. Reuse the existing Waldemar artist profile. No issuer-wide attribution or suffix-only metadata matching is used; preserve prior traits and memberships.
+
+- FEELME: [metadata](https://arweave.net/R2DdGVJGM-hq25SBYw5eHtKSCU0I4VpUxGPRQ7R7v_k)
+- ROZE: [metadata](https://arweave.net/bNEymq2oSGmHQOUJiyOhtak444vs5j1ipSGcFscSQA0)
+- WHITENOISE: [metadata](https://arweave.net/nhIVJkAmd_heXavnUr19C2R89HrF9zOYmoHf6lSuNb4)
+- TLCBLOOM: [metadata](https://arweave.net/5F-GThSCeCh4_v18SQrLd-p9vET1jvRB-oqhJRwvnOc)
+- TLCIGNITE: [metadata](https://arweave.net/d_PDDbvxab4MTMdkiol0jSujBBP4Qc-84IxSvduXy3o)
+- TLCARTFARE: [metadata](https://arweave.net/4cGxPE3uep0vnuO9jAfjVqA7tg_8v2i0nhKIC2S-ahQ)
+- THEREVIVAL: [metadata](https://arweave.net/gyFqSyPC32eZlLuwoRRiAZl0UNFHLSTtKD6TP_GeyMk)
+- NUMBERSGAME: [metadata](https://arweave.net/W2np9erZZhodx86zhzGV2GlY_GyaS6T9STdSJ3fFIvg)
+- CORETHIRTY: [metadata](https://arweave.net/PCa_S7yK-PXeAD2iCI_RA0zNNZxKO059oU-62UIYHJQ)
+- WHATFILES: [metadata](https://arweave.net/XLcjMlTNlpGYC6j399D6b5OtEVF6d3Vntwiwt00T1fE)
+- SKYROCK: [metadata](https://arweave.net/pC7zgHjJNKpBQ4YA07fJR8yYloP9Igiq64TjuLeQY5k)
+- INFINITEECON: [metadata](https://arweave.net/f8VJdSvCIO3Ge8c9v6RkcpoqhHBWJxarvOvrDVoYNUI)
+- BURNWUTIWANT: [metadata](https://arweave.net/twFA_JpWmJfSdt-2FgQcc2khokx1W2ZUYrUb6p8dj48)
+- GAZAFAMINE: [metadata](https://arweave.net/hHBdntvzzj74PIT1n7qAm7mEf5qtxe-ZlIV-CzCfzX8)
+- KEKKEIGENKAI: [metadata](https://arweave.net/qG9heRRvrJ0ZvJSkbdfzV8f5tbwKqlBufYmS6NcM6h4)
+- DIVINETLC: [metadata](https://arweave.net/G3Bq69d6C5mXIaqyMr-JeyURG5ILZSr_BYs7ka3siE0)
+- EMMAMARKIN: [metadata](https://arweave.net/poWJUhIkhuGHgbnNcrrlyv-Rv3CtqgdGtdx8tPxZApM)
+- ENERGYWEAPON: [metadata](https://arweave.net/bLeQcRMX95_jqwCw82CLP3_N1a82XPa7X8u1bQ4MgVg)
+- MASTERINTEL: [metadata](https://arweave.net/0aT6UMcH9kRjdmnJDohp6PZT62ZzmK3RNxVGJRQ2ToI)
+- CHARAGMA: [metadata](https://arweave.net/d67QefiuZxpIU7kD_uPlbWwfvhKezzuvUHFnkIzFO_w)
