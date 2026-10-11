@@ -38994,7 +38994,13 @@
       ]
     },
     {
-      "asset": "FANKYMONKEY"
+      "asset": "FANKYMONKEY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boris Svirsky"
+        }
+      ]
     },
     {
       "asset": "FANTOMPEPE"
@@ -39954,7 +39960,13 @@
       ]
     },
     {
-      "asset": "GOGOKEK"
+      "asset": "GOGOKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GOGO FREN"
+        }
+      ]
     },
     {
       "asset": "GOGOLAVANDAL"
@@ -41917,7 +41929,13 @@
       "asset": "MARGOTROBBIE"
     },
     {
-      "asset": "MARIHORSOE"
+      "asset": "MARIHORSOE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        }
+      ]
     },
     {
       "asset": "MARQUIS"
@@ -45701,7 +45719,13 @@
       "asset": "PLANTPEPE"
     },
     {
-      "asset": "PLASTICPEPE"
+      "asset": "PLASTICPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Burn"
+        }
+      ]
     },
     {
       "asset": "PLEBQUEEN"
@@ -46787,7 +46811,13 @@
       "asset": "RTHURHAYES"
     },
     {
-      "asset": "RUBENPANG"
+      "asset": "RUBENPANG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ruben Pang"
+        }
+      ]
     },
     {
       "asset": "RUDERELIC"
@@ -47576,7 +47606,13 @@
       "asset": "SPOOFPEPE"
     },
     {
-      "asset": "SQUELCHSKIN"
+      "asset": "SQUELCHSKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "angelsintheai"
+        }
+      ]
     },
     {
       "asset": "SQUIGGLEKNOT"
@@ -48287,7 +48323,13 @@
       "asset": "THUMBFACE"
     },
     {
-      "asset": "TILES"
+      "asset": "TILES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mellow"
+        }
+      ]
     },
     {
       "asset": "TIMEPROOF"
