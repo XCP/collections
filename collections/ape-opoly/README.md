@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 29 assets |
-| Primary memberships | 29 |
+| Membership | 30 assets |
+| Primary memberships | 30 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 29/29 (100%)<br>Component: 29/29 (100%) |
+| Traits | Artist: 30/30 (100%)<br>Component: 30/30 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -26,3 +26,7 @@ Examples of direct metadata:
 - https://xcp.coindaddy.io/MYSTERYDECK.json identifies the Mystery card back and links to the same project page.
 
 DERIVAPE.APEOPOLYONE currently shows a CDN placeholder, but its metadata identifies part 1 and the artist's page displays that board section directly. Membership does not assert that the current downloadable components constitute a complete playable game.
+
+## Additional reviewed member (2026-10-11)
+
+Exact historical [MYSTERYCARD metadata](https://xcp.coindaddy.io/MYSTERYCARD.json) describes “Front face to Ape-opoly Mystery Cards” and links the artist’s project page. This records its documented project association; the mutable current media has changed and is not asserted to be a current playable game component.
