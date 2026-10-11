@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,673 assets |
-| Primary memberships | 7,673 |
+| Membership | 7,663 assets |
+| Primary memberships | 7,663 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,673 (0.2%)<br>Artist: 3,213/7,673 (41.9%) |
+| Traits | Art year: 17/7,663 (0.2%)<br>Artist: 3,216/7,663 (42.0%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -160,3 +160,7 @@ Hold LFGLUTNICK and SPELLSOFGOAT identifier mismatches, ambiguous AMY DIGI CODY 
 ## PEDALWARRIOR artist: 2026-10-10
 
 Its [exact chain-linked JSON](https://arweave.net/AYu11tGi0LxJfPK1KBaHFbxYnqCQ7aRp8UfjFpMilRI) signs neilol and links @PepesAbstract. Add that explicit credit only. The wider issuer contains coherent Pepe portraits but their Easyasset JSON is empty and the referenced AbstractPepe website is offline; no collection membership or other authorship is inferred. This is unrelated to the later Abstract-chain project of a similar name.
+
+## Robness and Waldemar metadata review
+
+Exact chain-linked Arweave metadata identifies Robness for LANDWOLF and MADONNANPEPE, and Waldemar for XCPREVIVAL. MADONNANPEPE explicitly says it lives outside the Pepe collection system; it remains in the Counterparty fallback. Existing Robness and PEEPS collaboration credits for RARESTPASS and NEWPEPEDESU were confirmed and preserved. Other numeric artwork from the issuer remains unattributed where metadata is missing.
