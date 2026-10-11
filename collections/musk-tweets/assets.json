@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "asset": "MUSKTWEETS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "MUSKTWEETS.ZOMBIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "MUSKTWEETS.TWITTERFILES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "MUSKTWEETS.MATRIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    },
+    {
+      "asset": "MUSKTWEETS.WHITERABBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
+    }
+  ]
+}
