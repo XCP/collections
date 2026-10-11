@@ -1,0 +1,41 @@
+{
+  "assets": [
+    {
+      "asset": "YELLPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "YELLPEPE.BTCNASHVILLE2024",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "subterranean"
+        }
+      ]
+    },
+    {
+      "asset": "YELLPEPE.BTCVEGAS2026.FOIL"
+    },
+    {
+      "asset": "YELLPEPE.BTCVEGAS2026"
+    },
+    {
+      "asset": "YELLPEPE.BTCMIAMI2023",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "YELLPEPE.YELLPEPE"
+    }
+  ]
+}
