@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MIKAPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KeKLs"
+        }
+      ]
+    },
+    {
+      "asset": "MIKAPEPE.REVERSERARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KeKLs"
+        }
+      ]
+    }
+  ]
+}
