@@ -1,0 +1,82 @@
+{
+  "assets": [
+    {
+      "asset": "PURPLEFROG",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 73
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "PURPLEFROG.supahotPURPLE"
+    },
+    {
+      "asset": "PURPLEFROG.lean"
+    },
+    {
+      "asset": "PURPLEFROG.magic.space.stonemagic"
+    },
+    {
+      "asset": "PURPLEFROG.magic.space.purple"
+    },
+    {
+      "asset": "PURPLEFROG.magic.purple"
+    },
+    {
+      "asset": "PURPLEFROG.TRUMPFROG"
+    },
+    {
+      "asset": "PURPLEFROG.PURPLEBIRD.destroyer.gallery.3"
+    },
+    {
+      "asset": "PURPLEFROG.purplebooster"
+    },
+    {
+      "asset": "PURPLEFROG.PSAT"
+    },
+    {
+      "asset": "PURPLEFROG.PFDUMPSTER"
+    },
+    {
+      "asset": "PURPLEFROG.sWaN"
+    },
+    {
+      "asset": "PURPLEFROG.collector"
+    },
+    {
+      "asset": "PURPLEFROG.putin"
+    },
+    {
+      "asset": "PURPLEFROG.magic.space"
+    },
+    {
+      "asset": "PURPLEFROG.wizard"
+    },
+    {
+      "asset": "PURPLEFROG.POWER"
+    },
+    {
+      "asset": "PURPLEFROG.magic"
+    },
+    {
+      "asset": "PURPLEFROG.space"
+    },
+    {
+      "asset": "PURPFROGCASH"
+    },
+    {
+      "asset": "PURPLETECH"
+    }
+  ]
+}
