@@ -31827,9 +31827,6 @@
       "asset": "BYMIOT.LADYSQUARE"
     },
     {
-      "asset": "DETERMINPEPE.FIRSTCARD"
-    },
-    {
       "asset": "XCARDS.BOSS"
     },
     {
@@ -34830,9 +34827,6 @@
       "asset": "CHAINWARS.FIRSTMEET"
     },
     {
-      "asset": "QUEENARTCOIN.NAKAMOTOAPE"
-    },
-    {
       "asset": "DISPTRACKER.2023"
     },
     {
@@ -35205,7 +35199,13 @@
       "asset": "BITBOYBUSTED"
     },
     {
-      "asset": "BITCAMPEPE"
+      "asset": "BITCAMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BLISSFULMORG"
+        }
+      ]
     },
     {
       "asset": "BITCHPLEASE"
@@ -36234,7 +36234,13 @@
       "asset": "CHEATTHEVOTE"
     },
     {
-      "asset": "CHEERSBOYS"
+      "asset": "CHEERSBOYS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "CHEFNAKAMOTO",
@@ -36501,7 +36507,13 @@
       ]
     },
     {
-      "asset": "CODYPEPE"
+      "asset": "CODYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "COFFEEBAR"
@@ -39396,7 +39408,13 @@
       "asset": "GNSFDS"
     },
     {
-      "asset": "GOATJAK"
+      "asset": "GOATJAK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "GOATOSHI"
@@ -42350,7 +42368,13 @@
       "asset": "NGMIPEPE"
     },
     {
-      "asset": "NGUPEPETECH"
+      "asset": "NGUPEPETECH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "NICENUMBER"
@@ -42764,7 +42788,13 @@
       "asset": "ONETRLNUSD"
     },
     {
-      "asset": "ONEWAYBOBO"
+      "asset": "ONEWAYBOBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "ONEYE",
@@ -43424,7 +43454,13 @@
       "asset": "PEPECONGLOBO"
     },
     {
-      "asset": "PEPECOSTUME"
+      "asset": "PEPECOSTUME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPECREATOR"
@@ -44150,7 +44186,13 @@
       "asset": "PEPEPUDDLE"
     },
     {
-      "asset": "PEPEPUMKIN"
+      "asset": "PEPEPUMKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPEQUAKE"
@@ -44366,7 +44408,13 @@
       "asset": "PEPESMOKES"
     },
     {
-      "asset": "PEPESMOON"
+      "asset": "PEPESMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PEPESNAIL"
@@ -45242,7 +45290,13 @@
       "asset": "PROMOTEDPEPE"
     },
     {
-      "asset": "PROOFOFTROLL"
+      "asset": "PROOFOFTROLL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PROOFOFWORKS"
@@ -45465,9 +45519,6 @@
           "value": "GabDevs"
         }
       ]
-    },
-    {
-      "asset": "QUEENARTCOIN"
     },
     {
       "asset": "QUEENOFCAT"
@@ -47933,13 +47984,25 @@
       "asset": "TRUMPNFTSITE"
     },
     {
-      "asset": "TRUMPPUMP"
+      "asset": "TRUMPPUMP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "TRUMPRARES"
     },
     {
-      "asset": "TRUMPRFKMAGA"
+      "asset": "TRUMPRFKMAGA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "TRUMPSCOTT",
@@ -48752,7 +48815,13 @@
       "asset": "XCPFTW"
     },
     {
-      "asset": "XCPISDIBESSS"
+      "asset": "XCPISDIBESSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "XCPLOTO"

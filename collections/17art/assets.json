@@ -582,7 +582,13 @@
       ]
     },
     {
-      "asset": "PROOFOFTROL"
+      "asset": "PROOFOFTROL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        }
+      ]
     },
     {
       "asset": "PROOFOFWOKE",
@@ -770,7 +776,17 @@
       "asset": "TRUMPVILLE"
     },
     {
-      "asset": "TRUMPWINS"
+      "asset": "TRUMPWINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CTC"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "TRUSTMELANIA"
