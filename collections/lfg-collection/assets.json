@@ -100,7 +100,13 @@
       ]
     },
     {
-      "asset": "DNTPEPENIC"
+      "asset": "DNTPEPENIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "DOHPEPE",

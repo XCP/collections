@@ -7,7 +7,13 @@
       "asset": "BLENDPEN"
     },
     {
-      "asset": "BLKSWANGUIN"
+      "asset": "BLKSWANGUIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "BORNTOCHILL",
@@ -43,7 +49,13 @@
       "asset": "HOMERPENPEN"
     },
     {
-      "asset": "IPENGOAT"
+      "asset": "IPENGOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "KINGOFPEN"
@@ -151,7 +163,13 @@
       ]
     },
     {
-      "asset": "PENPENDEX"
+      "asset": "PENPENDEX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PENPENDULUM"
@@ -284,7 +302,13 @@
       "asset": "SPACEPENPEN"
     },
     {
-      "asset": "STEAMPENKPEN"
+      "asset": "STEAMPENKPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "THELASTPEN",
@@ -302,7 +326,13 @@
       "asset": "TOKENOPENPEN"
     },
     {
-      "asset": "UAREPEN"
+      "asset": "UAREPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "VLADIMPEROR"

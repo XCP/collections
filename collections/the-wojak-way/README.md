@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## WOJAKUNGSTEN collaboration
+
+The [official work JSON](https://thewojakway.com/j/WOJAKUNGSTEN.json) names Kaph Resh and PandaGod together. Preserve Kaph Resh and restore the missing PandaGod credit separately.

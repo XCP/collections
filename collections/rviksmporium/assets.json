@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "RVIKSMPORIUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
+    },
+    {
+      "asset": "RVIKSMPORIUM.LOT.ZERO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
+    }
+  ]
+}

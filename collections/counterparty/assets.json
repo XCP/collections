@@ -30981,9 +30981,6 @@
       "asset": "A121849417242918581"
     },
     {
-      "asset": "LABRADEPE.3D2"
-    },
-    {
       "asset": "FRUITTREE.TANGERINE"
     },
     {
@@ -31254,9 +31251,6 @@
       ]
     },
     {
-      "asset": "LSDDOCPEPE.BITTSBURG"
-    },
-    {
       "asset": "QUESTFREN.QUESTFREN.135",
       "attributes": [
         {
@@ -31416,9 +31410,6 @@
       "asset": "RADAUDIO.ABSTRACTIONS.VOL1.01-ROOTY"
     },
     {
-      "asset": "LABRADEPE.3D3"
-    },
-    {
       "asset": "FAKETORCH.WAS_HERE"
     },
     {
@@ -31567,9 +31558,6 @@
     },
     {
       "asset": "MYHEART.Reliability.HIGH"
-    },
-    {
-      "asset": "DABCPOWER.YE"
     },
     {
       "asset": "LIGHTHOUSES.BOSHIDARK"
@@ -31914,9 +31902,6 @@
       "asset": "HEROBOY.RAFFLE"
     },
     {
-      "asset": "SQUIDBLOOD.ORGIN"
-    },
-    {
       "asset": "A1684675629381051700"
     },
     {
@@ -32035,9 +32020,6 @@
     },
     {
       "asset": "VETTEDREALTY.VRX-TH-02"
-    },
-    {
-      "asset": "DREAMTEAM.PURPLE"
     },
     {
       "asset": "UKSTAMPS.DANDARKPILL",
@@ -32296,9 +32278,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "LABRADEPE.3D4"
     },
     {
       "asset": "XERAK.HOODLRZ_PEPE_01"
@@ -32728,15 +32707,6 @@
     },
     {
       "asset": "A340205144103837117"
-    },
-    {
-      "asset": "RVIKSMPORIUM.LOT.ZERO",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Arvik"
-        }
-      ]
     },
     {
       "asset": "WEEX.A16665771309720693000"
@@ -33675,9 +33645,6 @@
       "asset": "A669902374608481398"
     },
     {
-      "asset": "LABRADEPE.lebronpe"
-    },
-    {
       "asset": "RARESTSETS.AUCTIONWINNER"
     },
     {
@@ -33726,9 +33693,6 @@
       "asset": "HELLAPAPELLA.666"
     },
     {
-      "asset": "LABRADEPE.threeD"
-    },
-    {
       "asset": "A699496417786427100"
     },
     {
@@ -33750,16 +33714,10 @@
       "asset": "A708844309230287744"
     },
     {
-      "asset": "DREAMTEAM.SPORTSILLUSTRATED"
-    },
-    {
       "asset": "VETTEDREALTY.VRX-TH-04"
     },
     {
       "asset": "A711411029354658024"
-    },
-    {
-      "asset": "LSDDOCPEPE.63"
     },
     {
       "asset": "FLAMP.YELLOW"
@@ -34468,9 +34426,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "LABRADEPE.PURPLE"
     },
     {
       "asset": "PEPEMPERNEL.TRASHREDUX"
@@ -40534,7 +40489,13 @@
       "asset": "KEKURAI"
     },
     {
-      "asset": "KEKXCP"
+      "asset": "KEKXCP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "KEKYOURSELF",
@@ -43073,7 +43034,13 @@
       "asset": "PEPEARNOLD"
     },
     {
-      "asset": "PEPEARVIK"
+      "asset": "PEPEARVIK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPEATHELM"
@@ -44033,7 +44000,13 @@
       "asset": "PEPERAINBOW"
     },
     {
-      "asset": "PEPERAINMAND"
+      "asset": "PEPERAINMAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPERASTA"
@@ -44570,7 +44543,13 @@
       "asset": "PEPIE"
     },
     {
-      "asset": "PEPINAINTEZ"
+      "asset": "PEPINAINTEZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPITA",
@@ -44621,7 +44600,13 @@
       ]
     },
     {
-      "asset": "PEPSTYLE"
+      "asset": "PEPSTYLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "PEPTANGDELUX"
@@ -45983,9 +45968,6 @@
       ]
     },
     {
-      "asset": "RVIKSMPORIUM"
-    },
-    {
       "asset": "RYDERRIPPS"
     },
     {
@@ -46145,7 +46127,13 @@
       "asset": "SCAREDDEER"
     },
     {
-      "asset": "SCARFACEAPE"
+      "asset": "SCARFACEAPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PandaGod"
+        }
+      ]
     },
     {
       "asset": "SCATTERBRAIN"
@@ -46766,7 +46754,13 @@
       "asset": "STAYHOMEPEPE"
     },
     {
-      "asset": "STEAMPENK"
+      "asset": "STEAMPENK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "STEAMPENSK"

@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "asset": "DABCPOWER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PandaGod"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Kaph Resh"
+        }
+      ]
+    },
+    {
+      "asset": "DABCPOWER.YE"
+    }
+  ]
+}
