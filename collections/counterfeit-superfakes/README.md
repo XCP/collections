@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 4 assets |
-| Primary memberships | 3 |
+| Membership | 8 assets |
+| Primary memberships | 7 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/4 (100%) |
+| Traits | Artist: 8/8 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -21,6 +21,15 @@ The article explicitly credits XCHAINPEPE to Rare Scrilla. That credit is added 
 
 ## Review limits
 
-This is a partial, evidence-backed list, not a reconstruction of the complete directory. Shared issuer, visual branding or CSF in a name does not automatically establish membership. Other Normancomics cards remain pending stronger directory evidence.
+This is a partial, evidence-backed list, not a reconstruction of the complete directory. Shared issuer, a similar frame or CSF in a name does not automatically establish membership. Explicit project titles on the founder’s own artworks are distinguished from visual resemblance. Other Normancomics cards remain pending stronger directory evidence.
 
 Historical project domains csf.wtf and counterfeitsuperfakes.wtf were unavailable during review on 2026-10-09; no working homepage is advertised. The article describes FREEMONEYS as a project currency; it is not added as an artwork here. FAKEMONEYS is a distinct token from a different issuer and is not treated as an alias based on the article's display wording.
+
+## Additional creator evidence (2026-10-11)
+
+The creator’s [project introduction](https://medium.com/@NRMN_/counterfeit-super-fake-fake-rares-are-coming-soon-to-the-bitcoin-blockchain-near-you-9871cfa7c159) describes KEKLO as a collection card and NORMANCARD as the signature season-one card. HANDSOMEPEPE and SATSVSSIMPS explicitly display the full Counterfeit Super Fakes title in their main artwork panels; both are already credited to the project founder. Their current CDN artwork was visually reviewed. These additions do not extend membership to every work mentioned in the article or issued by the same address.
+
+- [NORMANCARD](https://cdn.xcp.io/img/full/NORMANCARD)
+- [KEKLO](https://cdn.xcp.io/img/full/KEKLO)
+- [HANDSOMEPEPE](https://cdn.xcp.io/img/full/HANDSOMEPEPE)
+- [SATSVSSIMPS](https://cdn.xcp.io/img/full/SATSVSSIMPS)

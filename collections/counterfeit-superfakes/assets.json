@@ -36,6 +36,42 @@
           "value": "Rare Scrilla"
         }
       ]
+    },
+    {
+      "asset": "NORMANCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "KEKLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "HANDSOMEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
+    },
+    {
+      "asset": "SATSVSSIMPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NORMANCOMICS"
+        }
+      ]
     }
   ]
 }
