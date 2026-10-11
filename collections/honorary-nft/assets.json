@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "HONORARYNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "HONORARYNFT.PEPBOT2050",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "HONORARYNFT.JIHANWU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "PEPBOTDRAFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    }
+  ]
+}

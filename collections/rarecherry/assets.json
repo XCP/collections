@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "RARECHERRY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "RARECHERRY.FULLCHERRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    }
+  ]
+}
