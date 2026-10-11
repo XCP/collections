@@ -295,7 +295,13 @@
       "asset": "FREEROSSDAY"
     },
     {
-      "asset": "FREESAMOURAI"
+      "asset": "FREESAMOURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     },
     {
       "asset": "FREETHENIP"
