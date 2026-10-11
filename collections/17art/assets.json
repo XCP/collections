@@ -28,7 +28,13 @@
       "asset": "BITCOINGREAT"
     },
     {
-      "asset": "BITWATTS.CHOOSE_YOUR_WEAPON"
+      "asset": "BITWATTS.CHOOSE_YOUR_WEAPON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "BLESSEDPEPE"
@@ -776,7 +782,13 @@
       "asset": "THUMBSPEPE"
     },
     {
-      "asset": "TRSTSESSIONS"
+      "asset": "TRSTSESSIONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "TRUMPALLY"
@@ -819,7 +831,13 @@
       ]
     },
     {
-      "asset": "TRUSTMELANIA"
+      "asset": "TRUSTMELANIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "TRUTHDEVPEPE"
