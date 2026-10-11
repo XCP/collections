@@ -30935,7 +30935,13 @@
       "asset": "HOLYCARD.PadrePio"
     },
     {
-      "asset": "A12460021579324678296"
+      "asset": "A12460021579324678296",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "WHATIS.DIGITALSILVER"
@@ -33041,7 +33047,13 @@
       "asset": "A643148303473568458"
     },
     {
-      "asset": "SWANCHEKMATE.ALPHA"
+      "asset": "SWANCHEKMATE.ALPHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "i3inary"
+        }
+      ]
     },
     {
       "asset": "A6458346773125283000"
@@ -33548,7 +33560,13 @@
       ]
     },
     {
-      "asset": "NAKAHONEYPOT.HOLO"
+      "asset": "NAKAHONEYPOT.HOLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
     },
     {
       "asset": "MLIBTY.ANONYMOUSOFFICIAL"
@@ -35192,7 +35210,13 @@
       "asset": "BUMBUM"
     },
     {
-      "asset": "BUMBUMCHECK"
+      "asset": "BUMBUMCHECK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "BUNJEEJUMPEP"
@@ -35666,7 +35690,13 @@
       "asset": "COCOMMUNIST"
     },
     {
-      "asset": "COCOMONDRIAN"
+      "asset": "COCOMONDRIAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chipi"
+        }
+      ]
     },
     {
       "asset": "COCOMOTO"
@@ -35693,7 +35723,13 @@
       ]
     },
     {
-      "asset": "COCOSUPPORT"
+      "asset": "COCOSUPPORT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Y8R4"
+        }
+      ]
     },
     {
       "asset": "COCOSWAMP"
@@ -37058,7 +37094,13 @@
       "asset": "EATINGTEETH"
     },
     {
-      "asset": "EAZYOH"
+      "asset": "EAZYOH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "kr"
+        }
+      ]
     },
     {
       "asset": "EERIEDESERT"
@@ -37220,7 +37262,13 @@
       "asset": "ESPACIO"
     },
     {
-      "asset": "ETERNALGRIN"
+      "asset": "ETERNALGRIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Orb"
+        }
+      ]
     },
     {
       "asset": "ETHERDEATH"
@@ -37463,7 +37511,13 @@
       "asset": "FAKECOCO"
     },
     {
-      "asset": "FAKECRUSH"
+      "asset": "FAKECRUSH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Key1Art"
+        }
+      ]
     },
     {
       "asset": "FAKEDRACULA"
@@ -37535,7 +37589,13 @@
       "asset": "FAKEISLAND"
     },
     {
-      "asset": "FAKEJACKBFL"
+      "asset": "FAKEJACKBFL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BadFoxLab"
+        }
+      ]
     },
     {
       "asset": "FAKEJOY"
@@ -38498,7 +38558,13 @@
       "asset": "GDPPDF"
     },
     {
-      "asset": "GEDULD"
+      "asset": "GEDULD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LordAntHreX"
+        }
+      ]
     },
     {
       "asset": "GENEAPE"
@@ -40029,7 +40095,13 @@
       ]
     },
     {
-      "asset": "KETKET"
+      "asset": "KETKET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
     },
     {
       "asset": "KEVINCHAD",
@@ -40248,7 +40320,13 @@
       "asset": "LEISURESUIT"
     },
     {
-      "asset": "LELOUVRE"
+      "asset": "LELOUVRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "KEKIAVELLI"
+        }
+      ]
     },
     {
       "asset": "LEONBLACK"
@@ -40362,7 +40440,13 @@
       ]
     },
     {
-      "asset": "LONGLIVEKING"
+      "asset": "LONGLIVEKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Alexander Mazzei"
+        }
+      ]
     },
     {
       "asset": "LONWARRIOR"
@@ -41287,7 +41371,13 @@
       ]
     },
     {
-      "asset": "MUNDIKEK"
+      "asset": "MUNDIKEK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SatoshiDavinci"
+        }
+      ]
     },
     {
       "asset": "MUSHROOMSTMP",
@@ -42235,7 +42325,13 @@
       "asset": "ORDSEGODONZ"
     },
     {
-      "asset": "ORIGINALG"
+      "asset": "ORIGINALG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Equilibrium"
+        }
+      ]
     },
     {
       "asset": "ORNAMENTPEPE"
@@ -42823,7 +42919,13 @@
       "asset": "PEPECHOLO"
     },
     {
-      "asset": "PEPECHUU"
+      "asset": "PEPECHUU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "8BitMo"
+        }
+      ]
     },
     {
       "asset": "PEPECLOUDS"
@@ -43354,7 +43456,13 @@
       ]
     },
     {
-      "asset": "PEPELOSS"
+      "asset": "PEPELOSS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "tap"
+        }
+      ]
     },
     {
       "asset": "PEPELTHORPE"
@@ -43414,7 +43522,13 @@
       "asset": "PEPEMINATI"
     },
     {
-      "asset": "PEPEMIRAGE"
+      "asset": "PEPEMIRAGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "leo.o"
+        }
+      ]
     },
     {
       "asset": "PEPEMONALISA"
@@ -44161,7 +44275,13 @@
       "asset": "PEPEWAWAFUN"
     },
     {
-      "asset": "PEPEWAZHERE"
+      "asset": "PEPEWAZHERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Iryna"
+        }
+      ]
     },
     {
       "asset": "PEPEWEN"
@@ -44296,7 +44416,13 @@
       ]
     },
     {
-      "asset": "PEPTRON"
+      "asset": "PEPTRON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LOVEBEING"
+        }
+      ]
     },
     {
       "asset": "PEPTSUKI"
@@ -44695,7 +44821,13 @@
       ]
     },
     {
-      "asset": "POWEROFMEME"
+      "asset": "POWEROFMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mickross"
+        }
+      ]
     },
     {
       "asset": "POWEROFPEACE"
@@ -47320,7 +47452,13 @@
       "asset": "TORNBETWEEN"
     },
     {
-      "asset": "TOTERPEPE"
+      "asset": "TOTERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jivinci"
+        }
+      ]
     },
     {
       "asset": "TOUPEE"
@@ -47725,7 +47863,13 @@
       "asset": "USMILITARY"
     },
     {
-      "asset": "UTERPEPE"
+      "asset": "UTERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "m0nti"
+        }
+      ]
     },
     {
       "asset": "UTILITYTOKEN"
@@ -47785,7 +47929,13 @@
       "asset": "VINEPEPE"
     },
     {
-      "asset": "VIOLINI"
+      "asset": "VIOLINI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
       "asset": "VITOPEPE"
