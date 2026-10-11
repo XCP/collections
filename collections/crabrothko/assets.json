@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "CRABROTHKO.untitled",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mark Rothkdough"
+        }
+      ]
+    },
+    {
+      "asset": "CRABROTHKO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mark Rothkdough"
+        }
+      ]
+    }
+  ]
+}
