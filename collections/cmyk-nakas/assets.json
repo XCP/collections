@@ -1,0 +1,277 @@
+{
+  "assets": [
+    {
+      "asset": "KINGNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "asset": "ELONAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "NAKATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "NAKANEGGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "SANTANAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "NAKARAZZI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "asset": "NAKABOND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "asset": "IRONNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "BIKERNAKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "NAKAPIRATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "UFONAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "DRNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMERIKA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMOTOFU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 14
+        }
+      ]
+    },
+    {
+      "asset": "CHEFNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMOTOGAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "asset": "NAKAKANAGAWA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "NAKAVENGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "NAKAJEFFBOZO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 19
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "NAKAMOTOGOD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    }
+  ]
+}
