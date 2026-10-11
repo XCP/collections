@@ -35282,7 +35282,13 @@
       "asset": "BURNSOG"
     },
     {
-      "asset": "BURNWUTIWANT"
+      "asset": "BURNWUTIWANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "BURNXX"
@@ -35453,7 +35459,13 @@
       "asset": "CHAPLINPEPE"
     },
     {
-      "asset": "CHARAGMA"
+      "asset": "CHARAGMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "CHARLESTON"
@@ -35867,7 +35879,13 @@
       "asset": "CORECA"
     },
     {
-      "asset": "CORETHIRTY"
+      "asset": "CORETHIRTY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "CORLEONE"
@@ -36752,7 +36770,13 @@
       "asset": "DISTRACTED"
     },
     {
-      "asset": "DIVINETLC"
+      "asset": "DIVINETLC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "DJDANI"
@@ -37100,7 +37124,13 @@
       ]
     },
     {
-      "asset": "EMMAMARKIN"
+      "asset": "EMMAMARKIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "EMOOOSTYLE"
@@ -37136,7 +37166,13 @@
       "asset": "ENDOCOIN"
     },
     {
-      "asset": "ENERGYWEAPON"
+      "asset": "ENERGYWEAPON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "ENIMREPEP"
@@ -37829,7 +37865,13 @@
       "asset": "FEELGOODMAN"
     },
     {
-      "asset": "FEELME"
+      "asset": "FEELME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "FEELSBADFAM"
@@ -38408,7 +38450,13 @@
       "asset": "GAYNAKAMOTO"
     },
     {
-      "asset": "GAZAFAMINE"
+      "asset": "GAZAFAMINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "GBLOCKAUDIO"
@@ -39491,7 +39539,13 @@
       "asset": "INERMIS"
     },
     {
-      "asset": "INFINITEECON"
+      "asset": "INFINITEECON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "INFOCUSPEPE"
@@ -39804,7 +39858,13 @@
       "asset": "KEKJOINTSPH"
     },
     {
-      "asset": "KEKKEIGENKAI"
+      "asset": "KEKKEIGENKAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "KEKKEN"
@@ -40509,7 +40569,13 @@
       "asset": "MASIA"
     },
     {
-      "asset": "MASTERINTEL"
+      "asset": "MASTERINTEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "MASTERKEY"
@@ -41782,7 +41848,13 @@
       "asset": "NUKO"
     },
     {
-      "asset": "NUMBERSGAME"
+      "asset": "NUMBERSGAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "NURSHOMER"
@@ -45346,7 +45418,13 @@
       "asset": "ROYALBLUE"
     },
     {
-      "asset": "ROZE"
+      "asset": "ROZE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "RPSTWENTYTWO"
@@ -45910,7 +45988,13 @@
       "asset": "SKYCLOUDTEST"
     },
     {
-      "asset": "SKYROCK"
+      "asset": "SKYROCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "SLAVAUKRAINI"
@@ -46783,7 +46867,13 @@
       "asset": "THERAREONES"
     },
     {
-      "asset": "THEREVIVAL"
+      "asset": "THEREVIVAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "THERINGPEPE"
@@ -46885,13 +46975,31 @@
       "asset": "TKAP"
     },
     {
-      "asset": "TLCARTFARE"
+      "asset": "TLCARTFARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
-      "asset": "TLCBLOOM"
+      "asset": "TLCBLOOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
-      "asset": "TLCIGNITE"
+      "asset": "TLCIGNITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "TOASTYPEPE"
@@ -47653,7 +47761,13 @@
       "asset": "WESTFIELD"
     },
     {
-      "asset": "WHATFILES"
+      "asset": "WHATFILES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "WHATIS"
@@ -47680,7 +47794,13 @@
       ]
     },
     {
-      "asset": "WHITENOISE"
+      "asset": "WHITENOISE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "WHITERABTS"

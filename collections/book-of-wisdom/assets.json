@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "BOOKOFWISDOM"
+      "asset": "BOOKOFWISDOM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "BOOKOFWISDOM.7thSealAriseTLC"
