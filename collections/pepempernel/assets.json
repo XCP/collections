@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEMPERNEL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Herma Puma"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Indelible"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEMPERNEL.TRASHREDUX"
+    }
+  ]
+}

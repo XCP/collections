@@ -10,7 +10,7 @@
 | Primary memberships | 31 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 13/31 (41.9%) |
+| Traits | Artist: 14/31 (45.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## RUBINKHNUM attribution
+
+The [exact chain-linked metadata](https://arweave.net/SWj-Z-_D5U2U5CudDQbGHil1ACrOeEM0jb7LJdks3rI) explicitly attributes RUBINKHNUM to Indelible, matching the reviewed preview. This is a published attribution, not a claim of cryptographic verification.
