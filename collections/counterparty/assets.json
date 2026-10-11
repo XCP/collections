@@ -47176,7 +47176,13 @@
       ]
     },
     {
-      "asset": "THEBORNCARD"
+      "asset": "THEBORNCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sketch"
+        }
+      ]
     },
     {
       "asset": "THEBTCBULL"
