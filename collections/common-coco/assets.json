@@ -130,7 +130,13 @@
       ]
     },
     {
-      "asset": "COCOCONNECTA"
+      "asset": "COCOCONNECTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "COCOCOUPLE"

@@ -34,7 +34,13 @@
       "asset": "CYBORPEN"
     },
     {
-      "asset": "DIGIPENPEN"
+      "asset": "DIGIPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "FLYPENPEFLY"
@@ -133,7 +139,13 @@
       "asset": "PENJAMIN"
     },
     {
-      "asset": "PENKWAST"
+      "asset": "PENKWAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PENPE"
@@ -353,7 +365,13 @@
       "asset": "ZENPENPEN"
     },
     {
-      "asset": "ZOOPEN"
+      "asset": "ZOOPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "ZOROPENPEN"

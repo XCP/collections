@@ -682,7 +682,13 @@
       ]
     },
     {
-      "asset": "PIGEONSHIT"
+      "asset": "PIGEONSHIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PIGEONSTACK",

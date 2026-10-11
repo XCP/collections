@@ -31406,7 +31406,13 @@
       "asset": "MYHEART.Reliability.HIGH"
     },
     {
-      "asset": "LIGHTHOUSES.BOSHIDARK"
+      "asset": "LIGHTHOUSES.BOSHIDARK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "MENABO.BarbaraMcClintock"
@@ -31823,7 +31829,13 @@
       "asset": "BITCOINFORUM.NotATether"
     },
     {
-      "asset": "BTCBROSSHIRT.V1"
+      "asset": "BTCBROSSHIRT.V1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "scruffycolours"
+        }
+      ]
     },
     {
       "asset": "PEPEGLASS.PEARL",
@@ -32738,7 +32750,13 @@
       ]
     },
     {
-      "asset": "CCGOGO.GOFIGURE"
+      "asset": "CCGOGO.GOFIGURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "BARBIFIED.LADYDIANA",
@@ -32750,7 +32768,13 @@
       ]
     },
     {
-      "asset": "CCGOGO.GOLIFE"
+      "asset": "CCGOGO.GOLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "A4904805547905220000",
@@ -33809,7 +33833,13 @@
       "asset": "A8776138588823952000"
     },
     {
-      "asset": "LIGHTHOUSES.MIKALIGHT"
+      "asset": "LIGHTHOUSES.MIKALIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "A8803594158107764000",
@@ -38276,7 +38306,13 @@
       "asset": "FROGTRAVEL"
     },
     {
-      "asset": "FROGVISION"
+      "asset": "FROGVISION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "FROGWALLET"
@@ -38543,7 +38579,13 @@
       "asset": "GETOVERFEELS"
     },
     {
-      "asset": "GETWRECKED"
+      "asset": "GETWRECKED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "GFFYPAINTER"
@@ -41509,7 +41551,13 @@
       "asset": "NETCREDIT"
     },
     {
-      "asset": "NETSHADECOIN"
+      "asset": "NETSHADECOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "seelawrie"
+        }
+      ]
     },
     {
       "asset": "NEWBORNPEPE",
@@ -42313,7 +42361,13 @@
       ]
     },
     {
-      "asset": "PENMISSION"
+      "asset": "PENMISSION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PENPENAERIAL",
@@ -42328,7 +42382,13 @@
       "asset": "PENPENTAGON"
     },
     {
-      "asset": "PENSALUTEPEN"
+      "asset": "PENSALUTEPEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PEONYPEPE"
@@ -43816,7 +43876,13 @@
       "asset": "PEPETRENCHES"
     },
     {
-      "asset": "PEPETRIFECTA"
+      "asset": "PEPETRIFECTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PEPETRIGGER"
@@ -44143,7 +44209,13 @@
       "asset": "PESSI"
     },
     {
-      "asset": "PETEHEGSETH"
+      "asset": "PETEHEGSETH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "PETRIDISHPEP"
@@ -45592,7 +45664,13 @@
       "asset": "SBPX"
     },
     {
-      "asset": "SBSTARLINK"
+      "asset": "SBSTARLINK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "SCAMSAMPEPE"
@@ -46069,7 +46147,13 @@
       "asset": "SNZCOIN"
     },
     {
-      "asset": "SOFTWARPEPE"
+      "asset": "SOFTWARPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "SOGSTICKER"
@@ -46093,7 +46177,13 @@
       "asset": "SOLDIERPEPE"
     },
     {
-      "asset": "SOLIGHTNING"
+      "asset": "SOLIGHTNING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "SOLSCALER"
@@ -47143,7 +47233,13 @@
       "asset": "TRUMPERIC"
     },
     {
-      "asset": "TRUMPFAFO"
+      "asset": "TRUMPFAFO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     },
     {
       "asset": "TRUMPFLATION"
