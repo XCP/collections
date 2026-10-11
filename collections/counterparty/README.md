@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 8,011 assets |
-| Primary memberships | 8,011 |
+| Membership | 8,004 assets |
+| Primary memberships | 8,004 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/8,011 (0.2%)<br>Artist: 3,180/8,011 (39.7%) |
+| Traits | Art year: 17/8,004 (0.2%)<br>Artist: 3,190/8,004 (39.9%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -99,3 +99,27 @@ The following chain-linked metadata records identify the exact asset (or its ver
 | RAREJDVANCE | BBLEIZTZ | [JSON](https://raw.githubusercontent.com/bbleiztz/jsons/refs/heads/main/RAREVANCE.json) |
 
 Held back: GLITCHPEN names PENPEN_404 in its JSON; PROWALLY names PEPECREATURE. Both need identity reconciliation. BIGDEAL.xcp describes a multi-artist card bundle sale, so its operator signature does not establish authorship of the included artwork.
+
+### Hitomi Matsui and Kenneth B Moon: 2026-10-11
+
+Their shared issuing address is not an authorship rule. The following individual sale listings explicitly credit the artist and link the exact token; corresponding CDN artwork was reviewed. Preserve the existing Kenneth B Moon spelling. Kenergy and Love Love Pepe receive their own documented collection homes.
+
+| Asset | Artist | Evidence |
+| --- | --- | --- |
+| GUARDIANSATK | Kenneth B Moon | [Sale](https://scarce.city/sales/guardians-attack) |
+| NEOHOMERPEPE | Kenneth B Moon | [Sale](https://scarce.city/sales/NEOHOMERPEPE) |
+| DEFENDERS | Kenneth B Moon | [Sale](https://scarce.city/auctions/defenders-of-the-bitcoin-network) |
+| BTCCITADELTU | Kenneth B Moon | [Sale](https://scarce.city/auctions/bitcoin-citadel) |
+| BOBOAPRSAGIN | Kenneth B Moon | [Sale](https://scarce.city/auctions/bobo-appears-again) |
+| PORTFLCITY | Kenneth B Moon | [Sale](https://scarce.city/auctions/floating-citadel) |
+| LOVEDREAMY | Hitomi Matsui | [Sale](https://scarce.city/sales/lovedreamy-token-sale) |
+| FULLLOVEPEPE | Hitomi Matsui | [Sale](https://scarce.city/sales/fulllovepepe-token-sale) |
+| FRIENDSHAPPY | Hitomi Matsui | [Sale](https://scarce.city/sales/friends-happy-token) |
+| HODLTIGHT | Hitomi Matsui | [Sale](https://scarce.city/sales/HODLTIGHT) |
+| NEOMEGAMI | Hitomi Matsui | [Sale](https://scarce.city/auctions/statue-of-liberty-2) |
+| BTCHMEAL | Hitomi Matsui | [Sale](https://scarce.city/auctions/bitcoin-lovers-happy-meal) |
+| KENERGYOR | Hitomi Matsui | [Sale](https://scarce.city/auctions/kenergy-orange1) |
+| KENERGYBS | Hitomi Matsui | [Sale](https://scarce.city/auctions/kenergy-orange1) |
+| KENERGYBB | Hitomi Matsui | [Sale](https://scarce.city/auctions/kenergy-orange1) |
+| TOKYOSILVER | Hitomi Matsui | [Sale](https://scarce.city/auctions/dress-up-pepe-fake-silver) |
+| OSAKAGOLD | Hitomi Matsui | [Sale](https://scarce.city/auctions/dress-up-pepe-fake-gold) |
