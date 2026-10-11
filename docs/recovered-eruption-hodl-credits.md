@@ -1,0 +1,25 @@
+# Recovered creator metadata
+
+Exact asset identifiers and published creator fields support the credits below. These are metadata attributions, not cryptographically verified signatures. No blanket issuer attribution is made. The PEPEKILEAKS response instead names PEPEARESAFU and is excluded. Existing collection homes are preserved apart from the five explicitly catalogued ROTF Heroes cards.
+
+- TRUSTMELANIA: EruptioNoFlighT ([chain-linked JSON](https://dbr73l4snzu3ezdwhpxdfimfswnlj3vhrl2skfeiyjj2cybnvyza.arweave.net/GGP9r5JuabJkdjvuMqGFlZq07qeK9SUUiMJToWAtrjI))
+- TRSTSESSIONS: EruptioNoFlighT ([chain-linked JSON](https://n7n67tulcqqrhmyuhaxppi43ppfndlp3hkbnypzsshxs4gccmiza.arweave.net/b9vvzosUIROzFDgu96Obe8rRrfs6gtw_MpHvLhhCYjI))
+- JPEPELOWERY.NCSWIC: EruptioNoFlighT ([chain-linked JSON](https://dzro7a3uvvotfrj3qbiqepgzqaa5zpxcbqxmhqrru7yq7dq5ivsa.arweave.net/HmLvg3StXTLFO4BRAjzZgAHcvuIMLsPCMafxD44dRWQ))
+- STEALTHJEFF: EruptioNoFlighT ([chain-linked JSON](https://qigvql4y7aj4p6bqz7j4isti63m3hxfogwsshno7ocyu4fl6g6jq.arweave.net/gg1YL5j4E8f4MM_TxEpo9tmz3K41pSO133CxThV-N5M))
+- BITWATTS.CHOOSE_YOUR_WEAPON: EruptioNoFlighT ([chain-linked JSON](https://ezaomjmrsubzlcai37wj3qrok36qbcwhgjgwomaprgfixlmary3a.arweave.net/JkDmJZGVA5WICN_sncIuVv0AiscyTWcwD4mKi62AjjY))
+- NESSUNDORMA: EruptioNoFlighT ([chain-linked JSON](https://mrkysalhsv33ckgesdda3ekaqqimxsbab6tv3txqqwuymncourlq.arweave.net/ZFWJAWeVd7EoxJDGDZFAhBDLyCAPp13O8IWphjROpFc))
+- GREENLIGHT: EruptioNoFlighT ([chain-linked JSON](https://evtw7ff42zud2j4aknjqit67hfejis46pqwq5ck6jpndjczihz7q.arweave.net/JWdvlLzWaD0ngFNTBE_fOUiUS558LQ6JXkvaNIsoPn8))
+- CHEQMATE: EruptioNoFlighT ([chain-linked JSON](https://bmpwqjbhxv77v34zboepwjbis277jwcq4qdwr2j5aaradblawabq.arweave.net/Cx9oJCe9f_rvmQuI-yQolr_02FDkB2jpPQAiAYVgsAM))
+- PEPEMILEI: EruptioNoFlighT ([chain-linked JSON](https://c6yvndcx3jg76pndu2nd2yrt7ywzre6ximjcbnf3izdibivi2eba.arweave.net/F7FWjFfaTf89o6aaPWIz_i2Yk9dDEiC0u0ZGgKKo0QI))
+- BREITBARTPAT: EruptioNoFlighT ([chain-linked JSON](https://6xxpkgdylyvpbnlaik33dh2dkkcpypwitipcjw52nyognhxooi7a.arweave.net/9e71GHheKvC1YEK3sZ9DUoT8PsiaHiTbum4cZp7ucj4))
+- WIKIPATRIOT: EruptioNoFlighT ([chain-linked JSON](https://wczt3q2qz4i5tmepg2bfscth6xdxiyooxgb62q2gpamaklq6qwva.arweave.net/sLM9w1DPEdmwjzaCWQpn9cd0Yc65g-1DRngYBS4ehao))
+- PATRIOTTRUMP: EruptioNoFlighT ([chain-linked JSON](https://qzgeeggg2yxfmvqkyluaf5gmgfrvo7dnjwrzitdzzpvfqhysrwia.arweave.net/hkxCGMbWLlZWCsLoAvTMMWNXfG1No5RMecvqWB8SjZA))
+- PATRIOTROGER: EruptioNoFlighT ([chain-linked JSON](https://mbwlqecv4feo35q3n6xghfvw4pv3272ssslgavfwcmztp6gh3fja.arweave.net/YGy4EFXhSO32G2-uY5a24-u9f1KUlmBUthMzN_jH2VI))
+- PATRIOTFLYNN: EruptioNoFlighT ([chain-linked JSON](https://gfmwnqzk3ivcmelwe67wmtztbsyofgg6gcezod56ynkqeyy3uscq.arweave.net/MVlmwyraKiYRdie_Zk8zDLDimN4wiZcPvsNVAmMbpIU))
+- GUAVAMOON: EruptioNoFlighT ([chain-linked JSON](https://zgpgytimzbcsyq2oke7tyvvv2r5zj3ci3jftpajn7rb4y4s7trda.arweave.net/yZ5sTQzIRSxDTlE_PFa11HuU7EjaSzeBLfxDzHJfnEY))
+- JPEPELOWERY: EruptioNoFlighT ([chain-linked JSON](https://lxgdbul54huphvyuxxwq3xf265jostqv4r5n3bqlztk7ubx2hxoa.arweave.net/Xcww0X3h6PPXFL3tDdy691LpThXket2GC8zV-gb6Pdw))
+- BITWATTS: EruptioNoFlighT ([chain-linked JSON](https://lyzajkj6feaiw7bnbfkeakcmuuhlshofqi6bhsrnakq2jrswxgdq.arweave.net/XjIEqT4pAIt8LQlUQChMpQ65HcWCPBPKLQKhpMZWuYc))
+- TRUMPRALLY: EruptioNoFlighT ([chain-linked JSON](https://xiqkpbtyvspzl6sdhfm55mp47tsgurkagqznf2aoo4ek4qciw7fa.arweave.net/uiCnhnisn5X6QzlZ3rH8_ORqRUA0MtLoDncIrkBIt8o))
+- LAWANDORDER: EruptioNoFlighT ([chain-linked JSON](https://2fa5josigywoxcyacuka64l7qcvt54j5na6x5uomj4x3i6drdwdq.arweave.net/0UHUukg2LOuLABUUD3F_gKs-8T1oPX7RzE8vtHhxHYc))
+- NGHTNAKAMOTO: MrCryptHodl ([chain-linked JSON](https://d3bqswvvuyxvbfixwhfohku63mfm7ocwkupwvq3lpjjr4aqnf6ka.arweave.net/HsMJWrWmL1CVF7HK46qe2wrPuFZVH2rDa3pTHgINL5Q))
+- PEPEARESAFU: MrCryptHodl ([chain-linked JSON](https://5o4xh7nsfwcpcxr2zujtmg7jk5v2b5e3gnoxd3hhrirr5htlka4a.arweave.net/67lz_bIthPFeOs0TNhvpV2ug9JszXXHs54ojHp5rUDg))

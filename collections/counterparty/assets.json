@@ -33402,7 +33402,13 @@
       ]
     },
     {
-      "asset": "JPEPELOWERY.NCSWIC"
+      "asset": "JPEPELOWERY.NCSWIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "FAKEARWYN.HELLOSAILOR",
@@ -35269,9 +35275,6 @@
     },
     {
       "asset": "BREAKFASTT"
-    },
-    {
-      "asset": "BREITBARTPAT"
     },
     {
       "asset": "BRIBECOUPON"
@@ -39114,7 +39117,13 @@
       "asset": "GREENDEAL"
     },
     {
-      "asset": "GREENLIGHT"
+      "asset": "GREENLIGHT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "GREENPILLDTC"
@@ -39171,7 +39180,13 @@
       ]
     },
     {
-      "asset": "GUAVAMOON"
+      "asset": "GUAVAMOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "GUIDOCOIN"
@@ -41870,7 +41885,13 @@
       "asset": "NFTVANDALE"
     },
     {
-      "asset": "NGHTNAKAMOTO"
+      "asset": "NGHTNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MrCryptHodl"
+        }
+      ]
     },
     {
       "asset": "NGMICANO"
@@ -42521,15 +42542,6 @@
       "asset": "PASSONPEPE"
     },
     {
-      "asset": "PATRIOTFLYNN"
-    },
-    {
-      "asset": "PATRIOTROGER"
-    },
-    {
-      "asset": "PATRIOTTRUMP"
-    },
-    {
       "asset": "PATROLPEPE"
     },
     {
@@ -42761,7 +42773,13 @@
       "asset": "PEPEANGELIC"
     },
     {
-      "asset": "PEPEARESAFU"
+      "asset": "PEPEARESAFU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MrCryptHodl"
+        }
+      ]
     },
     {
       "asset": "PEPEARNOLD"
@@ -47997,9 +48015,6 @@
     },
     {
       "asset": "WIFPEPE"
-    },
-    {
-      "asset": "WIKIPATRIOT"
     },
     {
       "asset": "WIKIPEPE"

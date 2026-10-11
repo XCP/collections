@@ -43,7 +43,13 @@
       ]
     },
     {
-      "asset": "BITWATTS"
+      "asset": "BITWATTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "BLKSWANYE"
@@ -106,7 +112,13 @@
       ]
     },
     {
-      "asset": "CHEQMATE"
+      "asset": "CHEQMATE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "CHRONICLESQ"
@@ -398,7 +410,13 @@
       "asset": "JOINORDIE"
     },
     {
-      "asset": "JPEPELOWERY"
+      "asset": "JPEPELOWERY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "KEKACE",
@@ -482,7 +500,13 @@
       "asset": "KILLERAPP"
     },
     {
-      "asset": "LAWANDORDER"
+      "asset": "LAWANDORDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "LAZORBOY",
@@ -590,7 +614,13 @@
       "asset": "NCSWIC"
     },
     {
-      "asset": "NESSUNDORMA"
+      "asset": "NESSUNDORMA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "NIGHTGUARD"
@@ -737,7 +767,13 @@
       "asset": "PEPEMELANIA"
     },
     {
-      "asset": "PEPEMILEI"
+      "asset": "PEPEMILEI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "PEPEMNUCHIN"
@@ -990,7 +1026,13 @@
       "asset": "STACKEMHIGH"
     },
     {
-      "asset": "STEALTHJEFF"
+      "asset": "STEALTHJEFF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "STFUPEPE",
@@ -1083,7 +1125,13 @@
       "asset": "TRUMPOWER"
     },
     {
-      "asset": "TRUMPRALLY"
+      "asset": "TRUMPRALLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "EruptioNoFlighT"
+        }
+      ]
     },
     {
       "asset": "TRUMPRAREJR"
