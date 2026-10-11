@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,663 assets |
-| Primary memberships | 7,663 |
+| Membership | 7,647 assets |
+| Primary memberships | 7,647 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,663 (0.2%)<br>Artist: 3,216/7,663 (42.0%) |
+| Traits | Art year: 17/7,647 (0.2%)<br>Artist: 3,217/7,647 (42.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -164,3 +164,7 @@ Its [exact chain-linked JSON](https://arweave.net/AYu11tGi0LxJfPK1KBaHFbxYnqCQ7a
 ## Robness and Waldemar metadata review
 
 Exact chain-linked Arweave metadata identifies Robness for LANDWOLF and MADONNANPEPE, and Waldemar for XCPREVIVAL. MADONNANPEPE explicitly says it lives outside the Pepe collection system; it remains in the Counterparty fallback. Existing Robness and PEEPS collaboration credits for RARESTPASS and NEWPEPEDESU were confirmed and preserved. Other numeric artwork from the issuer remains unattributed where metadata is missing.
+
+## DODO metadata credit
+
+The exact chain-linked [DODO JSON](https://arweave.net/tTvK2Fu9Hs8HZ1DT-c_GKBkN1VMHR0ifinrvms6AlhM) signs “J-Dog & LongBranch” and links jdogresorg. J-Dog resolves to the existing JDog artist. LongBranch remains pending verification against the existing LongBranch Bear identity rather than creating a possible duplicate. DODO remains outside the Blackbox namespace.
