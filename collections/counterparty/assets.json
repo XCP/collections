@@ -30748,9 +30748,6 @@
       ]
     },
     {
-      "asset": "RASTAPEPE.Ai"
-    },
-    {
       "asset": "A11617427467724435000"
     },
     {
@@ -31463,9 +31460,6 @@
       "asset": "A15962975660261072929"
     },
     {
-      "asset": "PABLOSURYA.CITYSCAPE"
-    },
-    {
       "asset": "A16000563300982065000"
     },
     {
@@ -31569,9 +31563,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "RASTAPEPE.TRIPPY"
     },
     {
       "asset": "A16551410717382751634",
@@ -32471,9 +32462,6 @@
       ]
     },
     {
-      "asset": "PABLOSURYA.BLUESUN"
-    },
-    {
       "asset": "A404839791890380042"
     },
     {
@@ -32601,9 +32589,6 @@
     },
     {
       "asset": "CSAT.PSST"
-    },
-    {
-      "asset": "SCHRUTEBUCKS.STANLEYNICKELS"
     },
     {
       "asset": "A4727332526279217000"
@@ -33624,9 +33609,6 @@
     },
     {
       "asset": "A850425893471127542"
-    },
-    {
-      "asset": "REMIXES.420"
     },
     {
       "asset": "A853310607317391585"
@@ -39888,7 +39870,13 @@
       "asset": "KEKCHOICES"
     },
     {
-      "asset": "KEKEKTEOTL"
+      "asset": "KEKEKTEOTL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FtrSaroth"
+        }
+      ]
     },
     {
       "asset": "KEKGOD"
@@ -39936,13 +39924,25 @@
       ]
     },
     {
-      "asset": "KEKOHOLDER"
+      "asset": "KEKOHOLDER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "KEKOIN"
     },
     {
-      "asset": "KEKOOKING"
+      "asset": "KEKOOKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "KEKOPOLY"
@@ -39981,10 +39981,22 @@
       ]
     },
     {
-      "asset": "KEKTRIX"
+      "asset": "KEKTRIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "KEKURAI"
+      "asset": "KEKURAI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "KEKXCP",
@@ -40365,7 +40377,13 @@
       "asset": "LORDNSAVIOR"
     },
     {
-      "asset": "LORDOFGOATS"
+      "asset": "LORDOFGOATS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "LORDOFTIDES"
@@ -40545,7 +40563,13 @@
       "asset": "MAGNOLIAS"
     },
     {
-      "asset": "MAGPALAYA"
+      "asset": "MAGPALAYA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Remster"
+        }
+      ]
     },
     {
       "asset": "MAGRADOL"
@@ -40575,7 +40599,13 @@
       ]
     },
     {
-      "asset": "MANDANKELA"
+      "asset": "MANDANKELA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sofitzticated"
+        }
+      ]
     },
     {
       "asset": "MANGACASH"
@@ -41173,7 +41203,13 @@
       "asset": "MPGA"
     },
     {
-      "asset": "MPPS"
+      "asset": "MPPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sofitzticated"
+        }
+      ]
     },
     {
       "asset": "MREVANGELIST"
@@ -43432,7 +43468,13 @@
       "asset": "PEPEMYERS"
     },
     {
-      "asset": "PEPENAINTEZ"
+      "asset": "PEPENAINTEZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chuy"
+        }
+      ]
     },
     {
       "asset": "PEPENEDATS",
@@ -45367,9 +45409,6 @@
       "asset": "REMEMBERLUNA"
     },
     {
-      "asset": "REMIXES"
-    },
-    {
       "asset": "REREPEPE"
     },
     {
@@ -45809,9 +45848,6 @@
           "value": "Roger Fliporian"
         }
       ]
-    },
-    {
-      "asset": "SCHRUTEBUCKS"
     },
     {
       "asset": "SCONFIDENCE"
@@ -46810,7 +46846,13 @@
       "asset": "TESTIIPROD"
     },
     {
-      "asset": "TESTINGFW"
+      "asset": "TESTINGFW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Davesta"
+        }
+      ]
     },
     {
       "asset": "TESTINGIPFS"

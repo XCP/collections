@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,285 assets |
-| Primary memberships | 7,285 |
+| Membership | 7,243 assets |
+| Primary memberships | 7,243 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 16/7,285 (0.2%)<br>Artist: 3,314/7,285 (45.5%) |
+| Traits | Art year: 16/7,243 (0.2%)<br>Artist: 3,358/7,243 (46.4%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -320,3 +320,20 @@ The following asset-specific records identify creators, rather than inferring th
 - LASTMSG: LvsD ([metadata](https://arweave.net/j58beDhAEQOfx-mb0L4j7JmZTbLr4YfSvALGm5wLNtg))
 - FKPEPEURINAL: Pepenardo ([metadata](https://xcp.coindaddy.io/FKPEPEURINAL.json))
 - MADEREADY: Pepenardo ([metadata](https://xcp.coindaddy.io/MADEREADY.json))
+
+## Exact creator metadata, batch 398–497 (2026-10-11)
+
+Each listed record matches the exact asset and names its creator in the Easyasset artist field. Existing psyfrogger, Remster, ICQPEPE and Davesta identities are reused. Document authorship, owner-only labels and mismatched test metadata are held separately. TESTINGFW is credited as a test artwork without assigning it to an official card collection. RASTAPEPE.TRIPPY moves to its namespace collection with the supported credit.
+
+- KEKTRIX: psyfrogger ([metadata](https://arweave.net/J-AHK_l4DpeIVML-nblOHdIx0E-vZZwPyhS0q7cViHM))
+- KEKURAI: psyfrogger ([metadata](https://arweave.net/6R3bO8njGnRG7ysGbKibuUrRmdqr8hsR2ukig073Y04))
+- LORDOFGOATS: Remster ([metadata](https://arweave.net/7mUTxj_6e0HpPBgiL5hm3ypabUdb03589g3ksAGRty0))
+- MAGPALAYA: Remster ([metadata](https://arweave.net/Jjhn6V9BLGRlz23Uq7BSNAOTQErMIQ7TxGLKKs5JvVQ))
+- PEPENAINTEZ: Chuy ([metadata](https://arweave.net/6-HebJv64rTrbxkzs75b9D2A7i5C9MwGHKGAwfWwYpU))
+- KEKEKTEOTL: FtrSaroth ([metadata](https://arweave.net/D3JOP7xxLxAYufcRQuP5q_TZr2w9D5toFVYkIS2AH8w))
+- MANDANKELA: Sofitzticated ([metadata](https://arweave.net/buFWC9skgxprSsYmYas4__AFraynnRZ6cypYUMqGKfw))
+- MPPS: Sofitzticated ([metadata](https://arweave.net/dNeYx4gsbXeMP_K4p4_z9r8rfcgYDawcSkiIAIzsnJk))
+- RASTAPEPE.TRIPPY: ICQPEPE ([metadata](https://arweave.net/FK9WvJCU1kgghILPt2mSm7qtOgQ1tTIyL3RAQOggXXg))
+- TESTINGFW: Davesta ([metadata](https://arweave.net/8BLsgZUpYEhUXyRyQ1F5-xKfPmBW_1OjOBQjXgGqfaA))
+- KEKOHOLDER: psyfrogger ([metadata](https://arweave.net/BYwQb3Bn5MLAt0puLOctz5XYfIWJs7yvdPSVqkg5kZ4))
+- KEKOOKING: psyfrogger ([metadata](https://arweave.net/9Wg3dSC9jSgYYesXaOLZQ3-D4jbfj9yO7iVJ1mhdBTM))
