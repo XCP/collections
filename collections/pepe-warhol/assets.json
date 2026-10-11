@@ -1,0 +1,118 @@
+{
+  "assets": [
+    {
+      "asset": "FKPEPEWARHOL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 48
+        }
+      ]
+    },
+    {
+      "asset": "JONNYCASHPEP"
+    },
+    {
+      "asset": "PEPESLATER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 4
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "asset": "KELLYKAPOW",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "TWOCOREYS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "STALLONEDEUX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEARNOLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        }
+      ]
+    },
+    {
+      "asset": "JOHNLENIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "PEPESTALLONE"
+    }
+  ]
+}

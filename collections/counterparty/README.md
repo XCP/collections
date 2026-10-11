@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,319 assets |
-| Primary memberships | 7,319 |
+| Membership | 7,316 assets |
+| Primary memberships | 7,316 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 16/7,319 (0.2%)<br>Artist: 3,273/7,319 (44.7%) |
+| Traits | Art year: 16/7,316 (0.2%)<br>Artist: 3,274/7,316 (44.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -210,3 +210,7 @@ BTC Monk credits use exact token links from artist auction listings, plus the ex
 - SATOSHITHROW — BTC Monk: [source](https://scarce.city/auctions/satoshi-throw-artwork-and-token)
 - NINETYKBTC — Ffmad: [source](https://arweave.net/HKVApg1SgIJ3syfmttaVrGn7Vvgr1a0EaOGdzqsCBlI)
 - PEPEFAIR.80K — Ffmad: [source](https://arweave.net/5grk1a9L7NGI25a9SCrvHJzz_N2PcmOmabEykF7WfZo)
+
+## PEPEHEADRISK artist credit
+
+[Exact current asset metadata](https://arweave.net/IJqJCIvnF1sxCEdcwfDLRVjk5WMHuWmgye31Xm1KXe4) names DANCETURN and links https://twitter.com/DanceTurn. Reuse the existing Danceturn artist; no attribution extends to other issuer works.

@@ -39686,9 +39686,6 @@
       "asset": "JOKERGAN"
     },
     {
-      "asset": "JONNYCASHPEP"
-    },
-    {
       "asset": "JORDANS"
     },
     {
@@ -42430,9 +42427,6 @@
       ]
     },
     {
-      "asset": "PEPEARNOLD"
-    },
-    {
       "asset": "PEPEARVIK",
       "attributes": [
         {
@@ -42970,7 +42964,13 @@
       ]
     },
     {
-      "asset": "PEPEHEADRISK"
+      "asset": "PEPEHEADRISK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Danceturn"
+        }
+      ]
     },
     {
       "asset": "PEPEHOCKEY"
@@ -43646,9 +43646,6 @@
     },
     {
       "asset": "PEPESSI"
-    },
-    {
-      "asset": "PEPESTALLONE"
     },
     {
       "asset": "PEPESTAMPED"
