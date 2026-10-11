@@ -1,0 +1,10 @@
+{
+  "name": "Weex Bitcoin Art",
+  "kind": "canonical",
+  "description": "Original 2015 Bitcoin stencil artworks by Weex, linked to Counterparty tokens through image hashes. Later WEEX backup tokens are a separate collection.",
+  "founded": 2015,
+  "art_frame": "card",
+  "links": {
+    "website": "https://bitcointalk.org/index.php?topic=954740"
+  }
+}
