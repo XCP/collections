@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKTRADING",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKTRADING.WeAreAllWojak",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jonny Johnsonson"
+        }
+      ]
+    }
+  ]
+}
