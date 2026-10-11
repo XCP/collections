@@ -258,3 +258,22 @@ These asset-specific metadata documents explicitly identify the artist. Existing
 
 - TOPFLOORPEPE.template: subterranean ([metadata](https://raw.githubusercontent.com/subterranean1/jsons/main/TOPFLOORPEPE.template.json))
 - MISSINGPEPE: arwyn ([metadata](https://arweave.net/F7B7_OhDXJ8-NGJvSHvycmN0-4tDrPg78bjvSaYxOdA))
+
+## Recovered exact metadata credits (2026-10-11)
+
+These canonical Arweave metadata records match each asset exactly and name its creator in the Easyasset artist field (`pgpsig`). Credits are asset-specific; shared issuers and similar artwork do not establish attribution or official collection admission. Existing traits and membership remain intact. gg Toy Company is the consistently credited studio, also signed on the six artworks.
+
+- BLUEBICQR: qrgraphics ([metadata](https://arweave.net/URlqJ2UV8Ejsd_-eZexxShr_L8HsRVYcDZTU1mqoPXc))
+- DANKTRADE: HAMMAD ([metadata](https://arweave.net/dVQBp1S3RAPJH0F0MiIkXkbjZ4Q2WR_79RZyvg8XdYc))
+- DIGITALDREAM: Mighty33 ([metadata](https://arweave.net/bjaRmErhG5cnDB95twL4MD9rw_bSIzpsrFXvnHm9jgQ))
+- BETHEWATER: pepemanuel ([metadata](https://arweave.net/jpYwoqXtuP3mcr4iqYaxhHXgHG3tyXSO9XIZtxVew7U))
+- PEPECANN: pepemanuel ([metadata](https://arweave.net/CmPDbOYe7hrwxVPYnTK1H2DsIxqetxoUAVMW0a_qzTQ))
+- IMBACK: LINNET ([metadata](https://arweave.net/Q_keK4fLzfbR1ZP5NdzmlGhr0jxbyX1zuE3QvrTEXrY))
+- POKERFACE: Fanelli ([metadata](https://arweave.net/Pnk84YBI1G-YYlnDq2FWAL0LoQpuHEXfNGcsizaShQE))
+- BYGONETNT: gg Toy Company ([metadata](https://arweave.net/4Z_ujdZEMXk6m1-a8-WTT5ea7TPwJR9DE7O39YyE2FQ))
+- DEADMOUSE: gg Toy Company ([metadata](https://arweave.net/FscT8tFVQ4Up2eTRl1SdnJD0DF_288UfKuqm5WdGSwA))
+- DRINKIT: gg Toy Company ([metadata](https://arweave.net/S458s0BFMS9-5S-kCtd12JbtpMGprHK2wbgHOggTSYg))
+- ORANGEPILLZ: gg Toy Company ([metadata](https://arweave.net/TIDmwV-DBGTvQJSIfhqpOyLIaYgum7zdZEC_xnB_QC8))
+- PEPEAMI: gg Toy Company ([metadata](https://arweave.net/6VzexVYCCg2UwJ0bMh8aS_-xGu248LXdq4zNejCye-Q))
+- TRUMPSFINGER: gg Toy Company ([metadata](https://arweave.net/jJY7T21tp3Tr-HciQRd7xLLnl8aVgcMLfazzDglCxZk))
+- PEPEHUGE: vnmber ([metadata](https://arweave.net/JjilfSvcYsxYKpLZF0t8bl-4LDWgOVQeYfsYQMJtftQ))

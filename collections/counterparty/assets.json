@@ -34352,7 +34352,13 @@
       "asset": "BETHBITCOIN"
     },
     {
-      "asset": "BETHEWATER"
+      "asset": "BETHEWATER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pepemanuel"
+        }
+      ]
     },
     {
       "asset": "BETHEWATERR"
@@ -34685,7 +34691,13 @@
       "asset": "BLUEASKIANS"
     },
     {
-      "asset": "BLUEBICQR"
+      "asset": "BLUEBICQR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
     },
     {
       "asset": "BLUEHOMER"
@@ -35327,7 +35339,13 @@
       "asset": "BUYOFFER"
     },
     {
-      "asset": "BYGONETNT"
+      "asset": "BYGONETNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "CAFFE"
@@ -36401,7 +36419,13 @@
       ]
     },
     {
-      "asset": "DANKTRADE"
+      "asset": "DANKTRADE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "HAMMAD"
+        }
+      ]
     },
     {
       "asset": "DANKWALK"
@@ -36524,7 +36548,13 @@
       "asset": "DCSCRILLA"
     },
     {
-      "asset": "DEADMOUSE"
+      "asset": "DEADMOUSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "DEALINGSPEPE"
@@ -36737,7 +36767,13 @@
       "asset": "DIGIMEDICI"
     },
     {
-      "asset": "DIGITALDREAM"
+      "asset": "DIGITALDREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mighty33"
+        }
+      ]
     },
     {
       "asset": "DIGITALMFER",
@@ -36950,7 +36986,13 @@
       ]
     },
     {
-      "asset": "DRINKIT"
+      "asset": "DRINKIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "DRLAPEBTCCDC"
@@ -39488,7 +39530,13 @@
       "asset": "IMAGINPEPE"
     },
     {
-      "asset": "IMBACK"
+      "asset": "IMBACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "LINNET"
+        }
+      ]
     },
     {
       "asset": "IMITATAMGUS"
@@ -42097,7 +42145,13 @@
       "asset": "ORANGEHOMER"
     },
     {
-      "asset": "ORANGEPILLZ"
+      "asset": "ORANGEPILLZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "ORANGERIDER",
@@ -42475,7 +42529,13 @@
       "asset": "PEPEAMEN"
     },
     {
-      "asset": "PEPEAMI"
+      "asset": "PEPEAMI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "PEPEAMYDIGI"
@@ -42613,7 +42673,13 @@
       "asset": "PEPEBYERS"
     },
     {
-      "asset": "PEPECANN"
+      "asset": "PEPECANN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pepemanuel"
+        }
+      ]
     },
     {
       "asset": "PEPECANNIBAL"
@@ -43081,7 +43147,13 @@
       "asset": "PEPEHOMBRE"
     },
     {
-      "asset": "PEPEHUGE"
+      "asset": "PEPEHUGE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "vnmber"
+        }
+      ]
     },
     {
       "asset": "PEPEHYDRA"
@@ -44425,7 +44497,13 @@
       "asset": "POKEMONSTARS"
     },
     {
-      "asset": "POKERFACE"
+      "asset": "POKERFACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Fanelli"
+        }
+      ]
     },
     {
       "asset": "POKESWAN"
@@ -47326,7 +47404,13 @@
       ]
     },
     {
-      "asset": "TRUMPSFINGER"
+      "asset": "TRUMPSFINGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gg Toy Company"
+        }
+      ]
     },
     {
       "asset": "TRUMPSHOOTER"
