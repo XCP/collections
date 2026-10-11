@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,905 assets |
-| Primary memberships | 7,905 |
+| Membership | 7,874 assets |
+| Primary memberships | 7,874 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,905 (0.2%)<br>Artist: 3,196/7,905 (40.4%) |
+| Traits | Art year: 17/7,874 (0.2%)<br>Artist: 3,199/7,874 (40.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -141,3 +141,12 @@ Current chain descriptions still point to these original metadata records, whose
 FANKYMONKEY explicitly identifies Fanky Monkey as Boris Svirsky and labels the work as his digital art. RUBENPANG identifies the artist, title, date and dimensions of The Totalitarian Sun; these also match [the artist’s own artwork page](https://www.rubenpangstudio.com/the-totalitarian-sun). This credits the depicted painting without asserting token endorsement or physical ownership rights. SQUELCHSKIN identifies its creator and describes a software skin registry token; the credit does not make other skin assets members of a collection. Full audiovisual review is separate.
 
 Held: BOOSTLEGGED names BOOTLEGGED in its JSON, OUGHTOPENPEN names OUGHTOPEN, and PLAGIARIZER currently displays an empty card template. These do not justify new attribution without further reconciliation.
+
+### Signed artwork and exact-asset metadata review
+
+Credits below use original current or historical exact-asset metadata and reviewed artwork. Published pgpsig text is attribution evidence, not cryptographic signature verification. Existing artist spellings are retained; no blanket issuer attribution is applied. LOOKSRARE stays in Kaleidoscope.
+
+- **LOOKSRARE → M0d3d3b0**: Exact-asset metadata explicitly attributes M0d3D3b0 in its published pgpsig field. [Source](https://xcp.coindaddy.io/LOOKSRARE.json).
+- **KINGDROOL → M0d3d3b0**: Exact-asset historical metadata explicitly attributes M0d3D3b0 in its published pgpsig field; the artwork matches the current card. [Source](https://xcp.coindaddy.io/KINGDROOL.json).
+- **PEPEBEBE → M0d3d3b0**: The reviewed artwork has the MOD3D3B0 signature at lower left. [Source](https://cdn.xcp.io/img/card/PEPEBEBE).
+- **SEANPEPE → m0nti**: Current exact-asset JSON explicitly attributes m0nti; an earlier metadata revision agrees. [Source](https://okexrgydbzvv3lxk4utabzc6icx7n5dqiparabtgrsggagmzfbyq.turbo-gateway.com/col4mwMOa12u6uUmAOReQK_29HBDwRAGZoyMYBmZKHE?/SEANPEPE.json).

@@ -94,3 +94,15 @@ test("preserves the documented CYPHERPOOHNK credit across membership refreshes",
     { trait_type: "Artist", value: "Remster" },
   ]);
 });
+
+test("retains LOOKSRARE attribution without adding unrelated credits or members", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "LOOKSRARE";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, fixture.items.length);
+  assert.deepEqual(assets[0].attributes, [
+    { trait_type: "Kaleidoscope ID", value: 2380 },
+    { trait_type: "Artist", value: "M0d3d3b0" },
+  ]);
+  assert.ok(assets.slice(1).every(asset => !asset.attributes.some(trait => trait.trait_type === "Artist")));
+});

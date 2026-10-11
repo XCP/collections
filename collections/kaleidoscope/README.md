@@ -10,7 +10,7 @@
 | Primary memberships | 1,732 |
 | Secondary or curated memberships | 378 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 783/2,110 (37.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 784/2,110 (37.2%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -38,3 +38,5 @@ Read the [collection guide](../README.md),
 [contribution steps](../../CONTRIBUTING.md). This repo does not create sale
 listings. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+LOOKSRARE is credited to M0d3d3b0 from its [exact-asset original metadata](https://xcp.coindaddy.io/LOOKSRARE.json), whose published attribution field names M0d3D3b0. Its reviewed preview matches the described artwork. This is published attribution evidence, not cryptographic signature verification. Membership is unchanged.

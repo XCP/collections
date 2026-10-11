@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "PEPETODAY.GM"
+    },
+    {
+      "asset": "PEPETODAY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "M0d3d3b0"
+        }
+      ]
+    }
+  ]
+}
