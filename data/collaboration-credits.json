@@ -1860,6 +1860,37 @@
           "asset": "ROSWELLSOUP"
         }
       ]
+    },
+    {
+      "credit": "Gus gg",
+      "artist": "Gus Grillasca",
+      "reason": "Scarce City artist sale explicitly identifies Gus Grillasca (aka GusGG): https://scarce.city/auctions/btc-banknote-miami-2022 . This is explicit identity evidence, not an issuer-only inference.",
+      "assets": [
+        {
+          "collection": "mafia-wars",
+          "asset": "MALVERDE"
+        },
+        {
+          "collection": "rare-pepe",
+          "asset": "PEPESTRANGE"
+        },
+        {
+          "collection": "rare-pepe",
+          "asset": "CLASSICPEPE"
+        },
+        {
+          "collection": "rare-pepe",
+          "asset": "TERRIBLEPEPE"
+        },
+        {
+          "collection": "rare-pepe",
+          "asset": "STANDINGPEPE"
+        },
+        {
+          "collection": "rare-pepe",
+          "asset": "PEPEYOTES"
+        }
+      ]
     }
   ]
 }

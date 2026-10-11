@@ -10,7 +10,7 @@
 | Primary memberships | 8,062 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/8,062 (0.2%)<br>Artist: 3,147/8,062 (39.0%) |
+| Traits | Art year: 17/8,062 (0.2%)<br>Artist: 3,151/8,062 (39.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -55,3 +55,9 @@ Issuer-linked [original metadata](https://github.com/subterranean1/jsons) explic
 ### The Rarest Tote
 
 Added RARESTSETS.The_Rarest_Tote after verifying its numeric identity A6334554298574301439 and positive supply against xcpio-core. The issuance links [original metadata](https://raw.githubusercontent.com/subterranean1/jsons/refs/heads/main/RARESTSETS.The_Rarest_Tote), which explicitly credits subterranean x Amy DiGi and describes the NFT.NYC 2025 Scarce.City auction. The original photograph and recovered CDN card were inspected. Both artists receive separate credits. This single documented work does not establish membership for the broader RARESTSETS namespace.
+
+### ZOMBIEPPS attribution
+
+The [onchain-linked original JSON](https://blue-useful-vole-281.mypinata.cloud/ipfs/bafybeie3qaa5dzfbf3okospfx2bxyqsr4ugifgx37pfk47iva7a2hwkyi4/ZOMBIEPPS.JSON) explicitly names ZOMBIEPPS, credits Gus Grillasca, and describes the 2026 tenth-anniversary Zombie Pepes homage, matching the CDN artwork. Add the individual artist credit. The metadata directory label alone does not prove Fake Rares acceptance, so Counterparty membership remains until directory evidence supports a move.
+
+Scarce City explicitly credits Gus Grillasca and links the exact Counterparty tokens for [RATPOISON](https://scarce.city/auctions/rat-poison), [PEPECREDIT](https://scarce.city/auctions/pepe-credit), and [BTCBANKNOTE](https://scarce.city/auctions/btc-banknote-miami-2022). These credits are added without assigning a new collection. The BTCBANKNOTE sale also explicitly equates Gus Grillasca with GusGG; the reviewed alias normalizes Gus gg credits on future exports. No redemption rights are inferred from historic auction descriptions.

@@ -36273,7 +36273,13 @@
       "asset": "BTCBANANA"
     },
     {
-      "asset": "BTCBANKNOTE"
+      "asset": "BTCBANKNOTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
     },
     {
       "asset": "BTCBLOCK",
@@ -44084,7 +44090,13 @@
       "asset": "PEPECREATOR"
     },
     {
-      "asset": "PEPECREDIT"
+      "asset": "PEPECREDIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
     },
     {
       "asset": "PEPECRESSE"
@@ -46424,7 +46436,13 @@
       ]
     },
     {
-      "asset": "RATPOISON"
+      "asset": "RATPOISON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
     },
     {
       "asset": "RAXONRAXONRA"
@@ -49649,7 +49667,13 @@
       ]
     },
     {
-      "asset": "ZOMBIEPPS"
+      "asset": "ZOMBIEPPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
     },
     {
       "asset": "ZOODPEPE",
