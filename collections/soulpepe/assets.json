@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "SOULPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    },
+    {
+      "asset": "SOULPEPE.BEAUTY"
+    },
+    {
+      "asset": "SOULPEPE.PROTECTION"
+    },
+    {
+      "asset": "SOULPEPE.SUMMER"
+    }
+  ]
+}
