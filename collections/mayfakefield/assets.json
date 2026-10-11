@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MAYFAKEFIELD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    },
+    {
+      "asset": "MAYFAKEFIELD.FAKESTYLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    }
+  ]
+}

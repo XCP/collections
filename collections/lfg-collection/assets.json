@@ -261,7 +261,13 @@
       ]
     },
     {
-      "asset": "GENERALMEME"
+      "asset": "GENERALMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "GMPEPES",
@@ -631,7 +637,13 @@
       ]
     },
     {
-      "asset": "MANONFIRE"
+      "asset": "MANONFIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "MARKYMARK"
@@ -1057,7 +1069,13 @@
       ]
     },
     {
-      "asset": "XCPWARRIOR"
+      "asset": "XCPWARRIOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "XLFGSCOUTER",

@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEDUST",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEDUST.HEADPHONES"
+    },
+    {
+      "asset": "FAKEDUST.ELECTRUM"
+    }
+  ]
+}

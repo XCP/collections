@@ -1,0 +1,9 @@
+{
+  "name": "Counterparty Timeline",
+  "kind": "canonical",
+  "description": "The TIMELINEXCP parent and its illustrated registered subassets.",
+  "art_frame": "card",
+  "links": {
+    "website": "https://github.com/davestaxcp/CounterpartyTimeline2023"
+  }
+}
