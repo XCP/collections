@@ -1,454 +1,1354 @@
 {
   "assets": [
     {
-      "asset": "MSTRPEPES.64GALLONPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.ABURIALWITHPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.ANNUNCIATIONPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.APEPEWAIN"
-    },
-    {
-      "asset": "MSTRPEPES.APHROPEPAOFKEKDOS"
-    },
-    {
-      "asset": "MSTRPEPES.ASUNDAYAFTERNOONONPEPEISLAND"
-    },
-    {
-      "asset": "MSTRPEPES.AZTECKEKATLIQUESTATUE"
-    },
-    {
-      "asset": "MSTRPEPES.AZTECPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.BALLOONPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.BRONZESHIVAKEKARAJA"
-    },
-    {
-      "asset": "MSTRPEPES.BUSTOFNEFERPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.CALLINGOFMATTHEWPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.CHARIOTEEROFKEKELPHI"
-    },
-    {
-      "asset": "MSTRPEPES.COLLOSALHEADOFPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.DANKJUICECERAMICPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.DANKQINGDYNASTYJADE"
-    },
-    {
-      "asset": "MSTRPEPES.DEATHOFGENERALWOLFEPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.DEJEUNERAVECRAREPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.DESCENTOFPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.DREAMPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.DYINGGAULPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.EMPERORPEPEANDHISATTENDANTS"
-    },
-    {
-      "asset": "MSTRPEPES.EQUESTRIANSTATUEOFPEPELATA"
-    },
-    {
-      "asset": "MSTRPEPES.FARNESEKEKULES"
-    },
-    {
-      "asset": "MSTRPEPES.FELINEPEPERITUALVESSEL"
-    },
-    {
-      "asset": "MSTRPEPES.FROGHANDSTENCILS"
-    },
-    {
-      "asset": "MSTRPEPES.GOSPELILLUMINATIONSOFDANKNESS"
-    },
-    {
-      "asset": "MSTRPEPES.GUARDIANSOFKEKNARKSUNTEMPLE"
-    },
-    {
-      "asset": "MSTRPEPES.HANDYNASTYURNWITHPEPELOGO"
-    },
-    {
-      "asset": "MSTRPEPES.HONGSHANPEPEPENDANT"
-    },
-    {
-      "asset": "MSTRPEPES.INCAKEKFIGURES"
-    },
-    {
-      "asset": "MSTRPEPES.KARAHANPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.KEKBOY"
-    },
-    {
-      "asset": "MSTRPEPES.KEKENKHAMUN"
-    },
-    {
-      "asset": "MSTRPEPES.KEKEUSOFOLYMPEPIA"
-    },
-    {
-      "asset": "MSTRPEPES.KEKEZONFRIEZE"
-    },
-    {
-      "asset": "MSTRPEPES.KEKMERA"
-    },
-    {
-      "asset": "MSTRPEPES.KEKOPHAGUSOFTHESPOUSES"
-    },
-    {
-      "asset": "MSTRPEPES.KHMERBRONZEPEPETIKESHVARA"
-    },
-    {
-      "asset": "MSTRPEPES.KOREOFTHEPEPEMAYESGROUP"
-    },
-    {
-      "asset": "MSTRPEPES.LAMENTATIONOFPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.LESGENSGRENOUILLESDUMOULINDELAGALETTE"
-    },
-    {
-      "asset": "MSTRPEPES.LESTRESPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.LIBERTYLEADINGTHEPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.LUCIANPEPESELFPORTRAIT"
-    },
-    {
-      "asset": "MSTRPEPES.LYREWITHPEPESHEAD"
-    },
-    {
-      "asset": "MSTRPEPES.MANNEKEKPEPIS"
-    },
-    {
-      "asset": "MSTRPEPES.MINOANPEPESNAKEGODDESS"
-    },
-    {
-      "asset": "MSTRPEPES.MOSESPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.NAZCAPEPELINES"
-    },
-    {
-      "asset": "MSTRPEPES.NIGHTWATCHPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.NIKEOFPEPENIOS"
-    },
-    {
-      "asset": "MSTRPEPES.OATHOFTHEPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.PEPAANDTHESWAN"
-    },
-    {
-      "asset": "MSTRPEPES.PEPAJANTACAVEMURAL"
-    },
-    {
-      "asset": "MSTRPEPES.PEPASSU"
-    },
-    {
-      "asset": "MSTRPEPES.PEPATOLINEVENUS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPAULINEASVENUS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEABOVETHESEAOFFOG"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEAUBERETETALAROBEQUADRILLE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEBOOGIEWOOGIE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEBUDDHAGROTTO"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEBUDURTEMPLERELIEF"
-    },
-    {
-      "asset": "MSTRPEPES.PEPECOMPANION"
-    },
-    {
-      "asset": "MSTRPEPES.PEPECOONANDHISSONS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPECOTTAARMY"
-    },
-    {
-      "asset": "MSTRPEPES.PEPECOTTAHEADS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPECRUCIFIXION"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEDANCE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEDAVID"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEDIPTYCH"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEDURERSELFPORTRAIT"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEFINIPORTRAIT"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEFOUNTAIN"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEGATEOFHATTUSSA"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEGATEOFMYCENAE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEGOLINOANDHISSONS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEGOTHIC"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEHARVESTERVASE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEKNHATANINSCRIPTION"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEKOUROS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEMARILYN"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEOFAKKAD"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEOFWILLENDORF"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEONIEQUESTRIANSTATUE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEPORTINARIALTARPIECE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEPUNK2317"
-    },
-    {
-      "asset": "MSTRPEPES.PEPERMESANDAWOMAN"
-    },
-    {
-      "asset": "MSTRPEPES.PEPERSEUSWITHTHEHEADOFANORMIE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPERWICKKING"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESCHOPHOROS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESINTHESNOW"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESKISS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESLASTJUDGEMENT"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESMORNINGSUN"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESSWIMMINGBYWATERLILLIES"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESTAGHUNTERS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPESWINGER"
-    },
-    {
-      "asset": "MSTRPEPES.PEPETARGATECREATURE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPETATO"
-    },
-    {
-      "asset": "MSTRPEPES.PEPETELLOSDAVIDPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPETHONMARBLES"
-    },
-    {
-      "asset": "MSTRPEPES.PEPETRESCATHEDRALSTAINEDGLASS"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEUSTUSOFKEKAPORTA"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEUXTAPESTRY"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEVERA"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEWITHBANDAGEDEAR"
-    },
-    {
-      "asset": "MSTRPEPES.PEPEWITHGREENBALLOON"
-    },
-    {
-      "asset": "MSTRPEPES.PEPIACEBRONZE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPIANSPHINXOFDELPHI"
-    },
-    {
-      "asset": "MSTRPEPES.PEPIONESSDEVOURINGALION"
-    },
-    {
-      "asset": "MSTRPEPES.PEPODIUSANDKEKISTOGEITON"
-    },
-    {
-      "asset": "MSTRPEPES.PEPOLLOANDPEPAPHNE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPOLLOBELVEDERE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPOVISITHRONE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPPHUSANDPEPADNE"
-    },
-    {
-      "asset": "MSTRPEPES.PEPUINKEKAKU"
-    },
-    {
-      "asset": "MSTRPEPES.POOLWITHTWOPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.PORTRAITOFAHAIRPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.PORTRAITOFPEPECLES"
-    },
-    {
-      "asset": "MSTRPEPES.PORTRAITOFPEPEDYERANDPEPEFREUD"
-    },
-    {
-      "asset": "MSTRPEPES.RAFTOFTHEMEMES"
-    },
-    {
-      "asset": "MSTRPEPES.RAREPEPEDIRECTORIALTEMPLATETABLET"
-    },
-    {
-      "asset": "MSTRPEPES.RELIEFSCULPTURESOFPEPEPOLIS"
-    },
-    {
-      "asset": "MSTRPEPES.RIGHTCLICKANDSAVEASPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.SEATEDPEPEBUDDHAS"
-    },
-    {
-      "asset": "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE"
-    },
-    {
-      "asset": "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI"
-    },
-    {
-      "asset": "MSTRPEPES.SIXMAGICKPEPES"
-    },
-    {
-      "asset": "MSTRPEPES.STGEORGEPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.STORMONTHESEAOFPEPELEE"
-    },
-    {
-      "asset": "MSTRPEPES.SUPPERATPEPEMMAUS"
-    },
-    {
-      "asset": "MSTRPEPES.TELEVISIONPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.THEADORATIONOFTHEPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.THECRACKEDPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.THEDEATHOFASHITPOSTER"
-    },
-    {
-      "asset": "MSTRPEPES.THEEYEOFPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.THEFIGHTINGPEPERAIRE"
-    },
-    {
-      "asset": "MSTRPEPES.THEGOLDENVESSELOFTHEFROGKINHERDSMEN"
-    },
-    {
-      "asset": "MSTRPEPES.THELASTDANKSUPPER"
-    },
-    {
-      "asset": "MSTRPEPES.THEMONALISAPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.THEOLMECPEPEHEAD"
-    },
-    {
-      "asset": "MSTRPEPES.THEPEPEEMBASSADORS"
-    },
-    {
-      "asset": "MSTRPEPES.THEPEPEKRATER"
-    },
-    {
-      "asset": "MSTRPEPES.THEPEPESCREAM"
-    },
-    {
-      "asset": "MSTRPEPES.THEPHYSICALIMPOSSIBILITYOFPEPEWITHINTHEMIND"
-    },
-    {
-      "asset": "MSTRPEPES.THINKERPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.VICTORYSTELEOFNARAMPEPE"
-    },
-    {
-      "asset": "MSTRPEPES.WARRIORPEPEFIGURE"
-    },
-    {
-      "asset": "MSTRPEPES.ZEUSPEPEOFKEKEMIS"
+      "asset": "MSTRPEPES.64GALLONPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.ABURIALWITHPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.ANNUNCIATIONPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.APEPEWAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.APHROPEPAOFKEKDOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.ASUNDAYAFTERNOONONPEPEISLAND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.AZTECKEKATLIQUESTATUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.AZTECPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.BALLOONPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.BRONZESHIVAKEKARAJA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.BUSTOFNEFERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.CALLINGOFMATTHEWPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.CHARIOTEEROFKEKELPHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.COLLOSALHEADOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DANKJUICECERAMICPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DANKQINGDYNASTYJADE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DEATHOFGENERALWOLFEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DEJEUNERAVECRAREPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DESCENTOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DREAMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.DYINGGAULPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.EMPERORPEPEANDHISATTENDANTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.EQUESTRIANSTATUEOFPEPELATA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.FARNESEKEKULES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.FELINEPEPERITUALVESSEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.FROGHANDSTENCILS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.GOSPELILLUMINATIONSOFDANKNESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.GUARDIANSOFKEKNARKSUNTEMPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.HANDYNASTYURNWITHPEPELOGO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.HONGSHANPEPEPENDANT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.INCAKEKFIGURES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KARAHANPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKBOY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKENKHAMUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKEUSOFOLYMPEPIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKEZONFRIEZE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKMERA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KEKOPHAGUSOFTHESPOUSES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KHMERBRONZEPEPETIKESHVARA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.KOREOFTHEPEPEMAYESGROUP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LAMENTATIONOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LESGENSGRENOUILLESDUMOULINDELAGALETTE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LESTRESPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LIBERTYLEADINGTHEPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LUCIANPEPESELFPORTRAIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.LYREWITHPEPESHEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.MANNEKEKPEPIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.MINOANPEPESNAKEGODDESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.MOSESPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.NAZCAPEPELINES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.NIGHTWATCHPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.NIKEOFPEPENIOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.OATHOFTHEPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPAANDTHESWAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPAJANTACAVEMURAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPASSU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPATOLINEVENUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPAULINEASVENUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEABOVETHESEAOFFOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEAUBERETETALAROBEQUADRILLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEBOOGIEWOOGIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEBUDDHAGROTTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEBUDURTEMPLERELIEF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPECOMPANION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPECOONANDHISSONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPECOTTAARMY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPECOTTAHEADS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPECRUCIFIXION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEDANCE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEDAVID",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEDIPTYCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEDURERSELFPORTRAIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEFINIPORTRAIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEFOUNTAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEGATEOFHATTUSSA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEGATEOFMYCENAE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEGOLINOANDHISSONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEGOTHIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEHARVESTERVASE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEKNHATANINSCRIPTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEKOUROS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEMARILYN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEOFAKKAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEOFWILLENDORF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEONIEQUESTRIANSTATUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEPORTINARIALTARPIECE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEPUNK2317",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPERMESANDAWOMAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPERSEUSWITHTHEHEADOFANORMIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPERWICKKING",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESCHOPHOROS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESINTHESNOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESKISS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESLASTJUDGEMENT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESMORNINGSUN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESSWIMMINGBYWATERLILLIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESTAGHUNTERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPESWINGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPETARGATECREATURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPETATO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPETHONMARBLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPETRESCATHEDRALSTAINEDGLASS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEUSTUSOFKEKAPORTA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEUXTAPESTRY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEVERA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEWITHBANDAGEDEAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPEWITHGREENBALLOON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPIACEBRONZE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPIANSPHINXOFDELPHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPIONESSDEVOURINGALION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPODIUSANDKEKISTOGEITON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPOLLOANDPEPAPHNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPOLLOBELVEDERE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPOVISITHRONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPPHUSANDPEPADNE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PEPUINKEKAKU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.POOLWITHTWOPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PORTRAITOFAHAIRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PORTRAITOFPEPECLES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.PORTRAITOFPEPEDYERANDPEPEFREUD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.RAFTOFTHEMEMES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.RAREPEPEDIRECTORIALTEMPLATETABLET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.RELIEFSCULPTURESOFPEPEPOLIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.RIGHTCLICKANDSAVEASPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.SEATEDPEPEBUDDHAS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.SIXMAGICKPEPES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.STGEORGEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.STORMONTHESEAOFPEPELEE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.SUPPERATPEPEMMAUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.TELEVISIONPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEADORATIONOFTHEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THECRACKEDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEDEATHOFASHITPOSTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEEYEOFPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEFIGHTINGPEPERAIRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEGOLDENVESSELOFTHEFROGKINHERDSMEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THELASTDANKSUPPER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEMONALISAPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEOLMECPEPEHEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEPEPEEMBASSADORS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEPEPEKRATER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEPEPESCREAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THEPHYSICALIMPOSSIBILITYOFPEPEWITHINTHEMIND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.THINKERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.VICTORYSTELEOFNARAMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.WARRIORPEPEFIGURE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
+    },
+    {
+      "asset": "MSTRPEPES.ZEUSPEPEOFKEKEMIS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
     }
   ]
 }

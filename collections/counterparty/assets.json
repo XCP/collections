@@ -29677,7 +29677,13 @@
       ]
     },
     {
-      "asset": "LANDWOLF"
+      "asset": "LANDWOLF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
     },
     {
       "asset": "THREESISTERS.CENTER"
@@ -29795,9 +29801,6 @@
           "value": "Fabrique"
         }
       ]
-    },
-    {
-      "asset": "WRBPT.PEPELIBERATION"
     },
     {
       "asset": "EURONOTES.100"
@@ -30897,9 +30900,6 @@
       "asset": "RARESTSETS.scarcecitynyc2023"
     },
     {
-      "asset": "WRBPT.PEPELAXGIRL"
-    },
-    {
       "asset": "A1179625407175205167"
     },
     {
@@ -31080,9 +31080,6 @@
       ]
     },
     {
-      "asset": "WRBPT.WomensSportsPepe"
-    },
-    {
       "asset": "PEPERANSOM.xcp"
     },
     {
@@ -31144,9 +31141,6 @@
     },
     {
       "asset": "BLACKBOX.Freewallet.Hardware.Ledger_Integration"
-    },
-    {
-      "asset": "WRBPT.BlindFaithPepe"
     },
     {
       "asset": "A12747714446257115137"
@@ -31441,9 +31435,6 @@
     },
     {
       "asset": "RARESCRILLA.CME005"
-    },
-    {
-      "asset": "WRBPT.PepeLiberation"
     },
     {
       "asset": "CHAINWARS.TIGERS"
@@ -32352,9 +32343,6 @@
       "asset": "BYMIOT.MONKEY_INSPIRED"
     },
     {
-      "asset": "WRBPT.BlazySusan"
-    },
-    {
       "asset": "EURONOTES.10"
     },
     {
@@ -32623,9 +32611,6 @@
     },
     {
       "asset": "BALLOONPEPE.PEPEWITHBALLOON"
-    },
-    {
-      "asset": "WRBPT.ProsperaPepe"
     },
     {
       "asset": "WHATIS.CURIOSITY"
@@ -33042,9 +33027,6 @@
       "asset": "A416837106925141242"
     },
     {
-      "asset": "WRBPT.AlexandraLiberated"
-    },
-    {
       "asset": "A419534705651549520"
     },
     {
@@ -33328,9 +33310,6 @@
     },
     {
       "asset": "A5272229148857464064"
-    },
-    {
-      "asset": "WRBPT.BREAKKARMICLOOPEPE"
     },
     {
       "asset": "HIPPIEPEPE.2024"
@@ -34294,9 +34273,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "WRBPT.BERMUDACRYSTALPYRAMID"
     },
     {
       "asset": "NAKAHONEYPOT.HOLO"
@@ -41155,7 +41131,13 @@
       "asset": "MADMARTIGAN"
     },
     {
-      "asset": "MADONNANPEPE"
+      "asset": "MADONNANPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Robness"
+        }
+      ]
     },
     {
       "asset": "MADUROPEPE"
@@ -48644,7 +48626,13 @@
       "asset": "XCPNAKAMOTO"
     },
     {
-      "asset": "XCPREVIVAL"
+      "asset": "XCPREVIVAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Waldemar"
+        }
+      ]
     },
     {
       "asset": "XGENESIS"
