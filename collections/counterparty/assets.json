@@ -36431,7 +36431,13 @@
       "asset": "DAPEPEVERSE"
     },
     {
-      "asset": "DARKBLUEPEPE"
+      "asset": "DARKBLUEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zossel"
+        }
+      ]
     },
     {
       "asset": "DARKDANKPEPE"

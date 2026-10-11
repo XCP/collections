@@ -247,3 +247,7 @@ Exact-asset Arweave documents credit Waldemar, WaL or WR and link the same Wrbpt
 - ENERGYWEAPON: [metadata](https://arweave.net/bLeQcRMX95_jqwCw82CLP3_N1a82XPa7X8u1bQ4MgVg)
 - MASTERINTEL: [metadata](https://arweave.net/0aT6UMcH9kRjdmnJDohp6PZT62ZzmK3RNxVGJRQ2ToI)
 - CHARAGMA: [metadata](https://arweave.net/d67QefiuZxpIU7kD_uPlbWwfvhKezzuvUHFnkIzFO_w)
+
+## DARKBLUEPEPE artist credit
+
+The [exact-asset historical Coindaddy metadata](https://xcp.coindaddy.io/DARKBLUEPEPE.json) names Zossel in its artist field and links twitter.com/Zosselk. Reuse the existing Zossel identity; this is not an issuer-wide attribution. Existing traits and membership are preserved.
