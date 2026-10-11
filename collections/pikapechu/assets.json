@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "PIKAPECHU",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    },
+    {
+      "asset": "PIKAPECHU.BONUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PiFu"
+        }
+      ]
+    }
+  ]
+}
