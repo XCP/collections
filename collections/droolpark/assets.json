@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset": "DROOLPARK",
+      "primary": false
+    },
+    {
+      "asset": "DROOLPARK.RANDY",
+      "primary": false
+    },
+    {
+      "asset": "DROOLPARK.CLAYPOOL"
+    },
+    {
+      "asset": "DROOLPARK.CLYDEFROG"
+    },
+    {
+      "asset": "DROOLPARK.STAN"
+    },
+    {
+      "asset": "DROOLPARK.CARTMAN"
+    },
+    {
+      "asset": "DROOLPARK.KENNY"
+    },
+    {
+      "asset": "DROOLPARK.KYLE"
+    }
+  ]
+}
