@@ -1001,6 +1001,15 @@
           "value": "Darkfarms"
         }
       ]
+    },
+    {
+      "asset": "INSCRIBECARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darkfarms"
+        }
+      ]
     }
   ]
 }
