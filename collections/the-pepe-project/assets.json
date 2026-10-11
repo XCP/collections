@@ -893,7 +893,13 @@
       "asset": "SCAREEVENT"
     },
     {
-      "asset": "SENATORKAREN"
+      "asset": "SENATORKAREN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DEGENNA"
+        }
+      ]
     },
     {
       "asset": "SETHRICHPEPE"

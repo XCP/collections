@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "WOJAKMINER.RIDEN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qqMarro"
+        }
+      ]
+    },
+    {
+      "asset": "WOJAKMINER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qqMarro"
+        }
+      ]
+    }
+  ]
+}
