@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 7,559 assets |
-| Primary memberships | 7,559 |
+| Membership | 7,539 assets |
+| Primary memberships | 7,539 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/7,559 (0.2%)<br>Artist: 3,221/7,559 (42.6%) |
+| Traits | Art year: 17/7,539 (0.2%)<br>Artist: 3,222/7,539 (42.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -178,3 +178,7 @@ Matching Arvik source examples: [STEAMPENK](https://ollqtd7jckwahzlqu55wo6ku4mnf
 ## Davesta and Kane Mayfield metadata
 
 Individual chain-linked JSON signatures restore missing artist credits; no issuer-wide attribution is applied. Existing PEPENEAL collaboration credits and TIMELINEXCP role-specific credits remain intact. Cases with missing or mismatched JSON remain pending.
+
+## BIGAPPLEPEPE artist
+
+The [reviewed card preview](https://cdn.xcp.io/img/card/BIGAPPLEPEPE) visibly signs the work @shawnleary. This matches the existing Shawn Leary artist handle independently published in the official [WOJACKCHAMP metadata](https://thewojakway.com/j/WOJACKCHAMP.json). Credit this particular signed card; do not infer authorship for other works issued by the address.

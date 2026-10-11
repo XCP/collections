@@ -40,9 +40,6 @@
       ]
     },
     {
-      "asset": "YACHTYPEPE"
-    },
-    {
       "asset": "KILLWITHKIND"
     },
     {
@@ -31557,9 +31554,6 @@
       "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES"
     },
     {
-      "asset": "YACHTYPEPE.TWO"
-    },
-    {
       "asset": "CHARAGMA.YachtyOleary"
     },
     {
@@ -31639,9 +31633,6 @@
     },
     {
       "asset": "PEPECYBER.HD"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE9031"
     },
     {
       "asset": "TUBGIRL.KOTAKU"
@@ -31774,9 +31765,6 @@
     },
     {
       "asset": "A166224238372279500"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE5164"
     },
     {
       "asset": "BITCOINFORUM.nutildah"
@@ -31972,9 +31960,6 @@
     },
     {
       "asset": "ILUMINATRARE.120x80"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE2710"
     },
     {
       "asset": "BTCSTAMPART.FOUR",
@@ -32217,9 +32202,6 @@
       "asset": "A1916532112120180103"
     },
     {
-      "asset": "ESCAPED.BOREDAPE7017"
-    },
-    {
       "asset": "CASSIA.1"
     },
     {
@@ -32286,9 +32268,6 @@
       "asset": "THREESISTERS.LEFT"
     },
     {
-      "asset": "ESCAPED.BOREDAPE1111"
-    },
-    {
       "asset": "DANKBETTY.ARTISTPROOFSCENEONE"
     },
     {
@@ -32314,9 +32293,6 @@
     },
     {
       "asset": "THENAKAMOTOS.1-RedPutin-Keeper-CapNaka"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE2167"
     },
     {
       "asset": "A2221128732243662300",
@@ -32853,9 +32829,6 @@
       "asset": "A435883655690303628"
     },
     {
-      "asset": "PEPEMOSAIC.ONE"
-    },
-    {
       "asset": "FLAMP.GREEN"
     },
     {
@@ -32863,9 +32836,6 @@
     },
     {
       "asset": "CHAINWARS.TINEATTACK"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE1572"
     },
     {
       "asset": "A4433727347334128600"
@@ -33088,9 +33058,6 @@
     },
     {
       "asset": "NIMZOBIT.XCP"
-    },
-    {
-      "asset": "PEPEMOSAIC.NAKAMOTO"
     },
     {
       "asset": "EMMAMARKIN.NaturesTheCure"
@@ -33357,9 +33324,6 @@
       "asset": "A6211212141545190103"
     },
     {
-      "asset": "ESCAPED.BOREDAPE2808"
-    },
-    {
       "asset": "A6227912188074694000"
     },
     {
@@ -33511,9 +33475,6 @@
     },
     {
       "asset": "A674349541829321676"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE528"
     },
     {
       "asset": "A6786543228637331000",
@@ -33870,9 +33831,6 @@
       ]
     },
     {
-      "asset": "SHREMPEPE.SIGNED"
-    },
-    {
       "asset": "A7961279007182509000"
     },
     {
@@ -34146,13 +34104,7 @@
       "asset": "STARTELE.050"
     },
     {
-      "asset": "ESCAPED.BOREDAPE1779"
-    },
-    {
       "asset": "VASECTOPEPE.LAFAKA_NOT_SHOOTING_BLANKS"
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE6059"
     },
     {
       "asset": "PRUNED.STONE",
@@ -34341,9 +34293,6 @@
       "asset": "A940306458608321954"
     },
     {
-      "asset": "PEPEMOSAIC.BITCOIN"
-    },
-    {
       "asset": "A9426955368041521000",
       "attributes": [
         {
@@ -34438,9 +34387,6 @@
           "value": "S1MONS"
         }
       ]
-    },
-    {
-      "asset": "ESCAPED.BOREDAPE1717"
     },
     {
       "asset": "FAKEBAB.LAFAKA"
@@ -34797,7 +34743,13 @@
       "asset": "BFMSTABLE"
     },
     {
-      "asset": "BIGAPPLEPEPE"
+      "asset": "BIGAPPLEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shawn Leary"
+        }
+      ]
     },
     {
       "asset": "BIGART"
@@ -37588,9 +37540,6 @@
     },
     {
       "asset": "ERRAM"
-    },
-    {
-      "asset": "ESCAPED"
     },
     {
       "asset": "ESPACIO"
@@ -43617,9 +43566,6 @@
     },
     {
       "asset": "PEPEMORY"
-    },
-    {
-      "asset": "PEPEMOSAIC"
     },
     {
       "asset": "PEPEMOTEL"
