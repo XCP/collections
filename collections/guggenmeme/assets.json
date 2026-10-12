@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "asset": "GUGGENMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dankboost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 93
+        },
+        {
+          "trait_type": "Card",
+          "value": 1
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "GUGGENMEME.HOMERCHECKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "dankboost"
+        },
+        {
+          "trait_type": "Title",
+          "value": "Homer Checks"
+        }
+      ]
+    }
+  ]
+}

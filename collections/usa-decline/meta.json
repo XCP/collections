@@ -1,0 +1,9 @@
+{
+  "name": "USA Decline",
+  "kind": "canonical",
+  "description": "Counterparty political montage cards published on the USA Decline website.",
+  "art_frame": "card",
+  "links": {
+    "website": "https://usadecline.baby/"
+  }
+}
