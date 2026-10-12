@@ -45648,6 +45648,15 @@
           "value": "ParisianForge"
         }
       ]
+    },
+    {
+      "asset": "QTARDED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Sanzman"
+        }
+      ]
     }
   ]
 }
