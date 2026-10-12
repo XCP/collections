@@ -12,7 +12,7 @@
 | Explicit collection memberships | 65,844 |
 | Primary memberships | 64,553 |
 | Secondary or curated memberships | 1,291 |
-| Memberships with traits | 35,229 |
+| Memberships with traits | 35,268 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Catalog, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Episode, Eyes, Face, HP, Head, Health, ID, Illustrator, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Variant, Work, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Based on, Car, Card, Catalog, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Episode, Eyes, Face, HP, Head, Health, ID, Illustrator, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Variant, Work, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->
@@ -110,6 +110,14 @@ the parent's subassets; validation enforces both. Marketplaces keep it
 browsable and tradeable on its own but do not feature it beside ordinary
 collections. Do not use it for a set of distinct works that merely share a
 namespace.
+
+A `Based on` trait names the earlier work an asset reworks: another
+project's bootleg, neon, pixel, stamp, flip or papertoy take on a card, or
+a physical edition of it. Its value is the original's asset id and must be
+in the registry. Record it only where the relationship is explicit, such as
+a subasset named after the original (`BOOTLEGPEPE.DJPEPE`), never from
+style alone. Marketplaces link the asset to its original; the trait does
+not change either asset's collection.
 
 ### Asset membership
 

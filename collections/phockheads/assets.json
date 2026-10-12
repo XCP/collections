@@ -586,25 +586,61 @@
       "asset": "PEPEPHOCKS"
     },
     {
-      "asset": "PEPEPHOCKS.BBAEPEPE"
+      "asset": "PEPEPHOCKS.BBAEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BBAEPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.BIGGIEPEPE"
+      "asset": "PEPEPHOCKS.BIGGIEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BIGGIEPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.CLOWNPEPE"
+      "asset": "PEPEPHOCKS.CLOWNPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CLOWNPEPE"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.CRYINGPEPE"
     },
     {
-      "asset": "PEPEPHOCKS.FATHERPEPE"
+      "asset": "PEPEPHOCKS.FATHERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FATHERPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.FEELSGOODMAN"
+      "asset": "PEPEPHOCKS.FEELSGOODMAN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FEELSGOODMAN"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.FULLMETALPEP"
+      "asset": "PEPEPHOCKS.FULLMETALPEP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FULLMETALPEP"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.GADSENPEPE"
@@ -613,10 +649,22 @@
       "asset": "PEPEPHOCKS.GROYPER"
     },
     {
-      "asset": "PEPEPHOCKS.HAIRPEPE"
+      "asset": "PEPEPHOCKS.HAIRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.HOMERPEPE"
+      "asset": "PEPEPHOCKS.HOMERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.MEMEMAGIC"
@@ -625,70 +673,172 @@
       "asset": "PEPEPHOCKS.NAKAMOTO"
     },
     {
-      "asset": "PEPEPHOCKS.PEPA"
+      "asset": "PEPEPHOCKS.PEPA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPA"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPALISA"
+      "asset": "PEPEPHOCKS.PEPALISA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPALISA"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPARARE"
+      "asset": "PEPEPHOCKS.PEPARARE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPARARE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPEBOY"
+      "asset": "PEPEPHOCKS.PEPEBOY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBOY"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPECASH"
+      "asset": "PEPEPHOCKS.PEPECASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.PEPEHOODIE"
     },
     {
-      "asset": "PEPEPHOCKS.PEPEKEEPER"
+      "asset": "PEPEPHOCKS.PEPEKEEPER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEKEEPER"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.PEPELAUGH"
     },
     {
-      "asset": "PEPEPHOCKS.PEPELETTERA"
+      "asset": "PEPEPHOCKS.PEPELETTERA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPELETTERA"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPEMARLEY"
+      "asset": "PEPEPHOCKS.PEPEMARLEY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEMARLEY"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.PEPESGYM"
+      "asset": "PEPEPHOCKS.PEPESGYM",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPESGYM"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.PROPELLERBEANIE"
     },
     {
-      "asset": "PEPEPHOCKS.RAOULDUKEPEP"
+      "asset": "PEPEPHOCKS.RAOULDUKEPEP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAOULDUKEPEP"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.REEEEEEE"
     },
     {
-      "asset": "PEPEPHOCKS.RGBPEPE"
+      "asset": "PEPEPHOCKS.RGBPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RGBPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.SALTANDPEPE"
+      "asset": "PEPEPHOCKS.SALTANDPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SALTANDPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.SMELLPEPE"
+      "asset": "PEPEPHOCKS.SMELLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SMELLPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.SOCRATESPEPE"
+      "asset": "PEPEPHOCKS.SOCRATESPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SOCRATESPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.TOBIASPEPE"
+      "asset": "PEPEPHOCKS.TOBIASPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TOBIASPEPE"
+        }
+      ]
     },
     {
       "asset": "PEPEPHOCKS.TROLLFACE"
     },
     {
-      "asset": "PEPEPHOCKS.UFOPEPE"
+      "asset": "PEPEPHOCKS.UFOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEPEPHOCKS.WAGMIPEPE"
+      "asset": "PEPEPHOCKS.WAGMIPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "WAGMIPEPE"
+        }
+      ]
     },
     {
       "asset": "PHOCKANONZ"
@@ -2736,6 +2886,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Peddler"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ETHERPEPE"
         }
       ]
     },
@@ -2745,6 +2899,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Peddler"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CHAMPAGNETNT"
         }
       ]
     },
@@ -2754,6 +2912,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Peddler"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BLOCKPEPE"
         }
       ]
     },

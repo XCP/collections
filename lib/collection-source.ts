@@ -716,6 +716,36 @@ export function numericAssetIssues(repositoryRoot, collections) {
   return issues;
 }
 
+/** The trait naming the earlier work an asset is based on: a bootleg, neon,
+ * pixel, stamp, flip or papertoy take, or a physical edition. */
+export const BASED_ON_TRAIT = "Based on";
+
+/**
+ * A "Based on" value must name one registered asset other than the asset
+ * itself, so a marketplace can link to it. Recorded where a relationship is
+ * explicit (the tribute's own name embeds the original), never inferred
+ * from style.
+ */
+export function basedOnIssues(collections) {
+  const registered = new Set(collections.flatMap((collection) => (collection.assets ?? []).map((entry) => entry.asset)));
+  const issues = [];
+  for (const collection of collections) {
+    for (const entry of collection.assets ?? []) {
+      for (const attribute of entry.attributes ?? []) {
+        if (attribute.trait_type !== BASED_ON_TRAIT) continue;
+        if (typeof attribute.value !== "string" || !isCounterpartyAssetId(attribute.value)) {
+          issues.push(`${collection.slug}: ${entry.asset} "${BASED_ON_TRAIT}" must name a Counterparty asset`);
+        } else if (attribute.value === entry.asset) {
+          issues.push(`${collection.slug}: ${entry.asset} cannot be based on itself`);
+        } else if (!registered.has(attribute.value)) {
+          issues.push(`${collection.slug}: ${entry.asset} is based on ${attribute.value}, which is not in the registry`);
+        }
+      }
+    }
+  }
+  return issues;
+}
+
 const BLOCKED_CREDITS = "data/blocked-artist-credits.json";
 
 /**
@@ -774,6 +804,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
   }
   issues.push(...numericAssetIssues(repositoryRoot, collections));
   issues.push(...blockedCreditIssues(repositoryRoot, collections));
+  issues.push(...basedOnIssues(collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
   const explicitCollections = collections.filter((collection) => collection.assets !== undefined);

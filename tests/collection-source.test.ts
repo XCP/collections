@@ -12,6 +12,7 @@ import {
   materializeRepository,
   normalizeCollectionMeta,
   blockedCreditIssues,
+  basedOnIssues,
   normalizeAssets,
   numericAssetIssues,
   normalizeFeedV1,
@@ -205,6 +206,18 @@ test("meta.json accepts an optional founding year within the Counterparty era", 
       /must be an integer year from 2014 to 2100/,
     );
   }
+});
+
+test("a Based on trait must name another registered asset", () => {
+  const based = (value: unknown) => ({ asset: "BOOTLEGPEPE.DJPEPE", attributes: [{ trait_type: "Based on", value }] });
+  const collections = (entry: object) => [
+    { slug: "rare-pepe", assets: [{ asset: "DJPEPE" }] },
+    { slug: "bootleg-pepe", assets: [entry] },
+  ];
+  assert.deepEqual(basedOnIssues(collections(based("DJPEPE"))), []);
+  assert.match(basedOnIssues(collections(based("NOTLISTED")))[0], /not in the registry/);
+  assert.match(basedOnIssues(collections(based("djpepe")))[0], /must name a Counterparty asset/);
+  assert.match(basedOnIssues(collections(based("BOOTLEGPEPE.DJPEPE")))[0], /cannot be based on itself/);
 });
 
 test("variation_of marks a canonical collection as one parent's alternate versions", async (t) => {
