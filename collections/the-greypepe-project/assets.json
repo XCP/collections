@@ -129,6 +129,10 @@
         {
           "trait_type": "Artist",
           "value": "Darky"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FAKECATTELAN"
         }
       ]
     },
@@ -170,7 +174,13 @@
       "asset": "GREYSATOSHI"
     },
     {
-      "asset": "GREYSAVIOR"
+      "asset": "GREYSAVIOR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "JESUSWOJAK"
+        }
+      ]
     },
     {
       "asset": "GREYSCALE"
