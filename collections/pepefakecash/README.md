@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEFAKECASH |
 | Membership | 5 assets |
 | Primary memberships | 4 |
 | Secondary or curated memberships | 1 |

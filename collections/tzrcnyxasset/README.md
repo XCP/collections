@@ -1,5 +1,18 @@
 # TZRCNYXASSET
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Variations of TZRCNYXASSET |
+| Membership | 11 assets |
+| Primary memberships | 10 |
+| Secondary or curated memberships | 1 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 10/11 (90.9%) |
+<!-- collection-facts:end -->
+
 Include THESUB2101 through THESUB2110 and the illustrated parent. The parent remains primary in Dank Rares and appears here secondarily; the descendants are not thereby admitted to Dank Rares. Nine other descendants currently have placeholder media and remain excluded. Parent catalog: https://www.dankdirectory.io/volume-3/ .
 
 This explicit editorial grouping follows the on-chain namespace and reviewed artwork. All namespace pages were exhausted. New descendants require review. Existing creator credits are retained; no creator is inferred from an issuing address alone.

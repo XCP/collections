@@ -99,7 +99,7 @@ export function collectionFactsBlock(repositoryRoot, collection) {
     "",
     "| Field | Value |",
     "| --- | --- |",
-    `| Type | ${collection.kind === "canonical" ? "Canonical collection" : "Curated view"} |`,
+    `| Type | ${collection.variation_of ? `Variations of ${collection.variation_of}` : collection.kind === "canonical" ? "Canonical collection" : "Curated view"} |`,
     `| Membership | ${membership} |`,
     `| Primary memberships | ${primaryDisplay} |`,
     `| Secondary or curated memberships | ${secondaryDisplay} |`,

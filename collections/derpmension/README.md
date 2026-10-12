@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of DERPMENSION |
 | Membership | 13 assets |
 | Primary memberships | 11 |
 | Secondary or curated memberships | 2 |

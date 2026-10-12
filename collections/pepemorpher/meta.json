@@ -2,5 +2,6 @@
   "name": "PepeMorpher",
   "kind": "canonical",
   "description": "PepeMorpher animated artwork and its ONEHEAVEN subasset variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEMORPHER"
 }

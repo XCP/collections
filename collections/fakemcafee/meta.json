@@ -2,5 +2,6 @@
   "name": "FAKEMCAFEE",
   "kind": "canonical",
   "description": "FAKEMCAFEE, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKEMCAFEE"
 }

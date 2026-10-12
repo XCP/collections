@@ -16,6 +16,11 @@
       "maximum": 2100,
       "description": "The year the project launched. Optional; marketplaces otherwise date a collection from its oldest member's issuance, which overstates the age of a collection that adopted older assets."
     },
+    "variation_of": {
+      "type": "string",
+      "pattern": "^(?:[B-Z][A-Z]{3,11}|A[0-9]{17,20})$",
+      "description": "Marks this canonical collection as variations of one parent work: the parent and subassets registered under it (alternate art, prints, editions). Marketplaces keep it browsable but do not feature it alongside ordinary collections."
+    },
     "links": {
       "type": "object",
       "additionalProperties": false,

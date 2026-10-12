@@ -2,5 +2,6 @@
   "name": "Bear’n’Pepe",
   "kind": "canonical",
   "description": "Bear’n’Pepe, an artwork family by Remster.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "BEARNPEPE"
 }

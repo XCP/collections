@@ -2,5 +2,6 @@
   "name": "Clooneybin",
   "kind": "canonical",
   "description": "Clooneybin, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "CLOONEYBIN"
 }

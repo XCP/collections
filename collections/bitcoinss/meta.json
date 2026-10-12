@@ -2,5 +2,6 @@
   "name": "BITCOINSS",
   "kind": "canonical",
   "description": "BITCOINSS artwork and its framed-poster and T-shirt subasset variations.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "BITCOINSS"
 }

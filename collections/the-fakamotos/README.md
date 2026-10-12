@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of THEFAKAMOTOS |
 | Membership | 18 assets |
 | Primary memberships | 17 |
 | Secondary or curated memberships | 1 |

@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEWATER |
 | Membership | 10 assets |
 | Primary memberships | 9 |
 | Secondary or curated memberships | 1 |

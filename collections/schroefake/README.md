@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of SCHROEFAKE |
 | Membership | 8 assets |
 | Primary memberships | 7 |
 | Secondary or curated memberships | 1 |

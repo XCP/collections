@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of BTCTRUCKERS |
 | Membership | 2 assets |
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |

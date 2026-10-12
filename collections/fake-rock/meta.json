@@ -2,5 +2,6 @@
   "name": "Fake Rock",
   "kind": "canonical",
   "description": "Fake Rock, an artwork family by Yotet.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKEROCK"
 }

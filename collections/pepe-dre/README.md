@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEDRE |
 | Membership | 3 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 1 |

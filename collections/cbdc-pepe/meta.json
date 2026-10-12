@@ -2,5 +2,6 @@
   "name": "CBDC Pepe",
   "kind": "canonical",
   "description": "The CBDC Pepe artwork and its EPEPCDBC variant.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "CBDCPEPE"
 }

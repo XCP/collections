@@ -2,5 +2,6 @@
   "name": "Rare Pepe Lighter",
   "kind": "canonical",
   "description": "Rare Pepe Lighter and its redeemed variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "RPEPELIGHTER"
 }

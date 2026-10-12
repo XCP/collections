@@ -2,5 +2,6 @@
   "name": "BHATARAPEPE",
   "kind": "canonical",
   "description": "BHATARAPEPE artwork and its carved wood variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "BHATARAPEPE"
 }

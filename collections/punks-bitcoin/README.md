@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PUNKSBITCOIN |
 | Membership | 20 assets |
 | Primary memberships | 19 |
 | Secondary or curated memberships | 1 |

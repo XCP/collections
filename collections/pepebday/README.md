@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEBDAY |
 | Membership | 12 assets |
 | Primary memberships | 11 |
 | Secondary or curated memberships | 1 |

@@ -2,5 +2,6 @@
   "name": "PEPEGRAFF",
   "kind": "canonical",
   "description": "The PEPEGRAFF parent and four graffiti-art subassets.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEGRAFF"
 }
