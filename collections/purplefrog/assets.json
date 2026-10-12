@@ -52,10 +52,22 @@
       "asset": "PURPLEFROG.sWaN"
     },
     {
-      "asset": "PURPLEFROG.collector"
+      "asset": "PURPLEFROG.collector",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "COLLECTOR"
+        }
+      ]
     },
     {
-      "asset": "PURPLEFROG.putin"
+      "asset": "PURPLEFROG.putin",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTIN"
+        }
+      ]
     },
     {
       "asset": "PURPLEFROG.magic.space"

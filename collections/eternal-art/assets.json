@@ -25,10 +25,22 @@
       "asset": "ETERNALART.SALVATOR"
     },
     {
-      "asset": "ETERNALART.STARRYNIGHT"
+      "asset": "ETERNALART.STARRYNIGHT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "STARRYNIGHT"
+        }
+      ]
     },
     {
-      "asset": "ETERNALART.THEKISS"
+      "asset": "ETERNALART.THEKISS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "THEKISS"
+        }
+      ]
     },
     {
       "asset": "ETERNALART.THESCREAM"

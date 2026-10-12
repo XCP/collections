@@ -21,7 +21,12 @@
     },
     {
       "asset": "FAKEMEDIPEPE.BEWATERFREN",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BEWATERFREN"
+        }
+      ]
     },
     {
       "asset": "BEWATERFREN",

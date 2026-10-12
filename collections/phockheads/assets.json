@@ -15,6 +15,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FLOONEYBIN"
         }
       ]
     },
@@ -69,6 +73,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEYELLOW"
         }
       ]
     },
@@ -894,6 +902,10 @@
         {
           "trait_type": "Artist",
           "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CLOWNBANGERS"
         }
       ]
     },
@@ -939,6 +951,10 @@
         {
           "trait_type": "Artist",
           "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "KREGBANGERS"
         }
       ]
     },
@@ -957,6 +973,10 @@
         {
           "trait_type": "Artist",
           "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MIKBANGERS"
         }
       ]
     },
@@ -984,6 +1004,10 @@
         {
           "trait_type": "Artist",
           "value": "KAWABANGGA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "THREEBANGERS"
         }
       ]
     },
@@ -1618,7 +1642,13 @@
       "asset": "PHOCKHEADS.CZ"
     },
     {
-      "asset": "PHOCKHEADS.DJPEPE"
+      "asset": "PHOCKHEADS.DJPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DJPEPE"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.DORIAN"
@@ -1648,7 +1678,13 @@
       "asset": "PHOCKHEADS.JASON"
     },
     {
-      "asset": "PHOCKHEADS.JDOG"
+      "asset": "PHOCKHEADS.JDOG",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "JDOG"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.JEREMYRUBIN"
@@ -1660,13 +1696,25 @@
       "asset": "PHOCKHEADS.JOEROGAN"
     },
     {
-      "asset": "PHOCKHEADS.LORDGLEN"
+      "asset": "PHOCKHEADS.LORDGLEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LORDGLEN"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.LSDPHOCK"
     },
     {
-      "asset": "PHOCKHEADS.LUKEDASHJR"
+      "asset": "PHOCKHEADS.LUKEDASHJR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LUKEDASHJR"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.MALLERS"
@@ -1681,13 +1729,25 @@
       "asset": "PHOCKHEADS.NAYIB"
     },
     {
-      "asset": "PHOCKHEADS.NOTSOFAST"
+      "asset": "PHOCKHEADS.NOTSOFAST",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "NOTSOFAST"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.NOVOGRATZ"
     },
     {
-      "asset": "PHOCKHEADS.PETERSCHIFF"
+      "asset": "PHOCKHEADS.PETERSCHIFF",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PETERSCHIFF"
+        }
+      ]
     },
     {
       "asset": "PHOCKHEADS.PHOCK14KEK"
@@ -1890,6 +1950,10 @@
         {
           "trait_type": "Artist",
           "value": "PiFu"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "WOLFMAN"
         }
       ]
     },
@@ -1971,6 +2035,10 @@
         {
           "trait_type": "Artist",
           "value": "PiFu"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MIKEINSPACE"
         }
       ]
     },
@@ -2142,6 +2210,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NINJASUIT"
         }
       ]
     },
@@ -2205,6 +2277,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "WACKNAKAMOTO"
         }
       ]
     },
@@ -2410,7 +2486,13 @@
       "asset": "PHOCKS.NOPE"
     },
     {
-      "asset": "PHOCKS.ORANGEMAN"
+      "asset": "PHOCKS.ORANGEMAN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ORANGEMAN"
+        }
+      ]
     },
     {
       "asset": "PHOCKS.QUEEN"
@@ -2434,13 +2516,25 @@
       "asset": "PHOCKSBOX"
     },
     {
-      "asset": "PHOCKSBOX.FAKAMOTO"
+      "asset": "PHOCKSBOX.FAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKAMOTO"
+        }
+      ]
     },
     {
       "asset": "PHOCKSBOX.KING"
     },
     {
-      "asset": "PHOCKSBOX.NAKAFAKAMOTO"
+      "asset": "PHOCKSBOX.NAKAFAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "NAKAFAKAMOTO"
+        }
+      ]
     },
     {
       "asset": "PHOCKSBOX.NAKAMOTO"
@@ -2770,7 +2864,13 @@
       "asset": "ZEROPHOCKS.OGGLUE"
     },
     {
-      "asset": "ZEROPHOCKS.PEPEDRE"
+      "asset": "ZEROPHOCKS.PEPEDRE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEDRE"
+        }
+      ]
     },
     {
       "asset": "ZEROPHOCKS.PFI"
@@ -2868,6 +2968,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "GORILLAGLUE"
         }
       ]
     },
@@ -2877,6 +2981,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MOURNINGMOOS"
         }
       ]
     },

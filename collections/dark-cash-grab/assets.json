@@ -11,7 +11,13 @@
       ]
     },
     {
-      "asset": "DARKCASHGRAB.DARKPOOLPEPE"
+      "asset": "DARKCASHGRAB.DARKPOOLPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKPOOLPEPE"
+        }
+      ]
     },
     {
       "asset": "DARKCASHGRAB.FTX"
