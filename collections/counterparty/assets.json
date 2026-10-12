@@ -34088,7 +34088,13 @@
       "asset": "EXCHANGEKING"
     },
     {
-      "asset": "EXPERTPEPE"
+      "asset": "EXPERTPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "EYEATOLLAH"
@@ -34361,7 +34367,13 @@
       "asset": "FAKEHUNNID"
     },
     {
-      "asset": "FAKEINSPACE"
+      "asset": "FAKEINSPACE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "FAKEISLAND"
@@ -34766,7 +34778,13 @@
       "asset": "FGTBOUTMAIZE"
     },
     {
-      "asset": "FIATFIGHTER"
+      "asset": "FIATFIGHTER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "FIATINTOBTC"
@@ -35244,7 +35262,13 @@
       "asset": "FUTUREGOAT"
     },
     {
-      "asset": "FUTURISMPEPE"
+      "asset": "FUTURISMPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "FWANDERER"
@@ -35391,7 +35415,13 @@
       "asset": "GERMANWEED"
     },
     {
-      "asset": "GETEMGARY"
+      "asset": "GETEMGARY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "GETINLOSER"
@@ -35430,7 +35460,13 @@
       "asset": "GIGABAG"
     },
     {
-      "asset": "GIGACREATOR"
+      "asset": "GIGACREATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "GIGAFAKE"
@@ -36117,7 +36153,13 @@
       "asset": "HOLYROSARY"
     },
     {
-      "asset": "HOMEBOYSATO"
+      "asset": "HOMEBOYSATO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "HOMELANDPEPE"
@@ -36381,7 +36423,13 @@
       "asset": "IMPRESSME"
     },
     {
-      "asset": "IMSOBACK"
+      "asset": "IMSOBACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "IMTHEREFEREE"
@@ -37910,48 +37958,6 @@
       "asset": "MODERNGOOG"
     },
     {
-      "asset": "MODERNI"
-    },
-    {
-      "asset": "MODERNII"
-    },
-    {
-      "asset": "MODERNIII"
-    },
-    {
-      "asset": "MODERNIV"
-    },
-    {
-      "asset": "MODERNIX"
-    },
-    {
-      "asset": "MODERNV"
-    },
-    {
-      "asset": "MODERNVI"
-    },
-    {
-      "asset": "MODERNVII"
-    },
-    {
-      "asset": "MODERNVIII"
-    },
-    {
-      "asset": "MODERNX"
-    },
-    {
-      "asset": "MODERNXI"
-    },
-    {
-      "asset": "MODERNXII"
-    },
-    {
-      "asset": "MODERNXIII"
-    },
-    {
-      "asset": "MODERNXIV"
-    },
-    {
       "asset": "MOISTNESS"
     },
     {
@@ -38555,7 +38561,13 @@
       "asset": "NOMICOIN"
     },
     {
-      "asset": "NOMOARPUNKS"
+      "asset": "NOMOARPUNKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "NONECOIN"
@@ -39278,7 +39290,13 @@
       "asset": "PEPEAI"
     },
     {
-      "asset": "PEPEAIRSHOW"
+      "asset": "PEPEAIRSHOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DanDarkPill"
+        }
+      ]
     },
     {
       "asset": "PEPEALBA"
@@ -41441,7 +41459,13 @@
       "asset": "PPSHINIGAMI"
     },
     {
-      "asset": "PRAETORPEPE"
+      "asset": "PRAETORPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oscar D"
+        }
+      ]
     },
     {
       "asset": "PRAISECOMMON",
@@ -41654,7 +41678,13 @@
       "asset": "PUPPYMAGNET"
     },
     {
-      "asset": "PURPLEJANET"
+      "asset": "PURPLEJANET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DanDarkPill"
+        }
+      ]
     },
     {
       "asset": "PURPLFAKANOP"
@@ -42038,7 +42068,13 @@
       "asset": "RCSAPARIS"
     },
     {
-      "asset": "READYTOBUY"
+      "asset": "READYTOBUY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "REALHAMSTER"
@@ -42143,7 +42179,13 @@
       "asset": "REKTGUY"
     },
     {
-      "asset": "REKTOSHI"
+      "asset": "REKTOSHI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "REMEMBERLUNA"
@@ -42761,7 +42803,13 @@
       "asset": "SHIROPUN"
     },
     {
-      "asset": "SHITCOINMAXI"
+      "asset": "SHITCOINMAXI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "SHITCORNCARD"
@@ -43007,7 +43055,13 @@
       "asset": "SNAKETHEORY"
     },
     {
-      "asset": "SNITCHINSAM"
+      "asset": "SNITCHINSAM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "SNOOPDOGGNFT",
@@ -43019,7 +43073,13 @@
       ]
     },
     {
-      "asset": "SNOOPFROGGY"
+      "asset": "SNOOPFROGGY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "SNOOPY"
@@ -43223,7 +43283,13 @@
       "asset": "STACKHODL"
     },
     {
-      "asset": "STAMPVANDAL"
+      "asset": "STAMPVANDAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "STARGIRL"
@@ -43463,7 +43529,13 @@
       "asset": "TAET"
     },
     {
-      "asset": "TAGAMOTO"
+      "asset": "TAGAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "TAKENAPART"
@@ -43676,7 +43748,13 @@
       "asset": "THEBACKSIDE"
     },
     {
-      "asset": "THEBAKEDSONS"
+      "asset": "THEBAKEDSONS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "THEBEGIN"
@@ -43799,7 +43877,13 @@
       "asset": "THEPEPERING"
     },
     {
-      "asset": "THEPEPEWAR"
+      "asset": "THEPEPEWAR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DanDarkPill"
+        }
+      ]
     },
     {
       "asset": "THEPINETREE"
@@ -43841,7 +43925,13 @@
       "asset": "THESHIFTER"
     },
     {
-      "asset": "THESLEEPERS"
+      "asset": "THESLEEPERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DanDarkPill"
+        }
+      ]
     },
     {
       "asset": "THESONOFGAN",
@@ -44447,7 +44537,13 @@
       "asset": "UTILITYTOKEN"
     },
     {
-      "asset": "UTXOENJOYOOR"
+      "asset": "UTXOENJOYOOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "UTXOPETS"
