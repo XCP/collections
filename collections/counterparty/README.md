@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 6,821 assets |
-| Primary memberships | 6,821 |
+| Membership | 6,807 assets |
+| Primary memberships | 6,807 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 15/6,821 (0.2%)<br>Artist: 3,044/6,821 (44.6%) |
+| Traits | Art year: 15/6,807 (0.2%)<br>Artist: 3,067/6,807 (45.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -377,3 +377,31 @@ Each source matches the exact asset and identifies its creator in the artist fie
 - EAZYOH: kr ([metadata](https://arweave.net/0VUFN4_MNfkl1yC9FhK6jXiweYcQUiUbO1pliZfqm68))
 - PEPELOSS: tap ([metadata](https://arweave.net/QJTdK1pV_zzsCv8h7l2bH94c560pvqY6OYF_ZYTNtvA))
 - PEPEWAZHERE: Iryna ([metadata](https://arweave.net/JJVT4ivY6IId1f_HOwUHLs0DYB1SRVnoLDKL4NeQ4Bo))
+
+## Recovered creator credits (2026-10-12)
+
+Canonical Arweave transaction roots name the exact assets and creators below. PRAETORPEPE also describes Oscar’s first Pepe and is signed Oscar D in the artwork. Credits do not establish admission to any other collection. Mismatched asset identifiers and ambiguous LBB/LPLBB/Dan King aliases are excluded.
+
+- PURPLEJANET: DanDarkPill ([metadata](https://arweave.net/UqZiuyLO8UKI5jbWOgBvce9i4nSw_wXowbtgAAJSUnU))
+- THEPEPEWAR: DanDarkPill ([metadata](https://arweave.net/rt3xAQtaW0mvhOTrHi0n6ZhWcs4MVV8HO035o57SGAo))
+- THESLEEPERS: DanDarkPill ([metadata](https://arweave.net/kM3mahYhPLfRpcIwIrL87EyFLe6qFyKuCi5rNZlEQds))
+- PEPEAIRSHOW: DanDarkPill ([metadata](https://arweave.net/sG8xaIiX7NtbSZwGM0-OlfM4sj42-tZo0u0YV3R7Esk))
+- UTXOENJOYOOR: Viva La Vandal ([metadata](https://arweave.net/GsOYLO16Fq5-sLp8YaiW_no-mOHVFeyY2YNmVlSRkHk))
+- REKTOSHI: Viva La Vandal ([metadata](https://arweave.net/jewp4mr2wrLEne9TKR5D6UnD4Zs4didNReP4JwkfTfE))
+- SNITCHINSAM: Viva La Vandal ([metadata](https://arweave.net/EFjZNDY0rhNx6guPVDUJHBHkoGOSQUQn93x7f58D0dk))
+- GETEMGARY: Viva La Vandal ([metadata](https://arweave.net/AGGCMWjVhS3OrLG5g3AbBc8XwJnnDCGHHky1x5lGdBY))
+- IMSOBACK: Viva La Vandal ([metadata](https://arweave.net/9Su5p4LTPFCK6HKXAsGUik0r812Yv-Y2sup52LI5bxc))
+- EXPERTPEPE: Viva La Vandal ([metadata](https://arweave.net/3G-PbVCGQNSnW5ihT-4hnUDaprnks9hn8dOoj_VvnB0))
+- TAGAMOTO: Viva La Vandal ([metadata](https://arweave.net/clA6Ie9QMXhAz7jUHJ07rrma1jZ-85uhM07l0UJ4g6k))
+- GIGACREATOR: Viva La Vandal ([metadata](https://arweave.net/BE_3UnoCa-vPa9bGxhP3sXant_aIXfIN1IIieRp9dA8))
+- FIATFIGHTER: Viva La Vandal ([metadata](https://arweave.net/8E2ikvz_jbUBxhCLyURLT_FsDW17w_KVYKqa7tEI7xo))
+- FAKEINSPACE: Viva La Vandal ([metadata](https://arweave.net/s3ZtjCK2IWJ_Pt28opyVw3jUPscCsMlfsA_bkltrUKA))
+- READYTOBUY: Viva La Vandal ([metadata](https://arweave.net/SdCr_HZzMFxqDn8LuQiwxv6pdwzMm01aSOAg-Ro4430))
+- SHITCOINMAXI: Viva La Vandal ([metadata](https://arweave.net/dM8Qhh1VbIUqe0dT7f_iLUSPASK5o2ZM9yR17B6p_Lo))
+- THEBAKEDSONS: Viva La Vandal ([metadata](https://arweave.net/PkD7LU6nocwCvHQGXUt7Ni6fK9s3YRe-xfcxYXNZR98))
+- FUTURISMPEPE: Viva La Vandal ([metadata](https://arweave.net/hF_cqMBgwSCilFhPgDCTiwHhEDuyjR5SiCSljMdS-Rs))
+- HOMEBOYSATO: Viva La Vandal ([metadata](https://arweave.net/460TVxIwRpDe4zDU2qytKfc8-jJadwBkXW0UyC2VScc))
+- PRAETORPEPE: Oscar D ([metadata](https://arweave.net/EPw2T45VOewhWBixzXdbGzDtkvLRoczsTILGdcOYN6E))
+- NOMOARPUNKS: Viva La Vandal ([metadata](https://arweave.net/2R7ym655hkIsVGQMTLEBEDVVPKjJPmrQMYHk24gb31c))
+- STAMPVANDAL: Viva La Vandal ([metadata](https://arweave.net/UqRYYD_0ZMJcr6FerjGEdpFUa3iYvn-CNTNm4Bh6sKk))
+- SNOOPFROGGY: Viva La Vandal ([metadata](https://arweave.net/97ABNhWEAFxoE7C1vlgtG6YY1dbbLbUMKMrjQahaO-s))
