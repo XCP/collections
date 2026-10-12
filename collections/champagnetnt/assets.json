@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "CHAMPAGNETNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mike in Space"
+        },
+        {
+          "trait_type": "Series",
+          "value": 25
+        },
+        {
+          "trait_type": "Card",
+          "value": 38
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "CHAMPAGNETNT.SIGNED"
+    },
+    {
+      "asset": "CHAMPAGNETNT.KANDINSKY"
+    }
+  ]
+}
