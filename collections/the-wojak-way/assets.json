@@ -14,6 +14,10 @@
         {
           "trait_type": "Card",
           "value": 1
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -593,6 +597,10 @@
         {
           "trait_type": "Card",
           "value": 35
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -610,6 +618,10 @@
         {
           "trait_type": "Card",
           "value": 36
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DJPEPE"
         }
       ]
     },
@@ -695,6 +707,10 @@
         {
           "trait_type": "Card",
           "value": 41
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPERARE"
         }
       ]
     },
@@ -3338,6 +3354,10 @@
         {
           "trait_type": "Card",
           "value": 46
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CLAYPEPE"
         }
       ]
     },
@@ -3470,6 +3490,10 @@
         {
           "trait_type": "Card",
           "value": 4
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPESOUP"
         }
       ]
     },
@@ -4252,6 +4276,10 @@
         {
           "trait_type": "Card",
           "value": 50
+        },
+        {
+          "trait_type": "Based on",
+          "value": "WELCOMEPEPE"
         }
       ]
     },
@@ -4477,6 +4505,10 @@
         {
           "trait_type": "Card",
           "value": 13
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPETWODOPE"
         }
       ]
     },
@@ -5188,7 +5220,13 @@
       "asset": "YOURASSET"
     },
     {
-      "asset": "UFOWOJAK"
+      "asset": "UFOWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
+        }
+      ]
     },
     {
       "asset": "WOJAKALONE"

@@ -1,22 +1,52 @@
 {
   "assets": [
     {
-      "asset": "BANESOCK"
+      "asset": "BANESOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BANEPEPE"
+        }
+      ]
     },
     {
-      "asset": "BLKSWANSOCK"
+      "asset": "BLKSWANSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BLKSWANPEPE"
+        }
+      ]
     },
     {
-      "asset": "BOMINABLSOCK"
+      "asset": "BOMINABLSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BOMINABLPEPE"
+        }
+      ]
     },
     {
       "asset": "BOOSTEDSOCKS"
     },
     {
-      "asset": "BURNINGSOCK"
+      "asset": "BURNINGSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BURNINGPEPE"
+        }
+      ]
     },
     {
-      "asset": "CACTUSSOCK"
+      "asset": "CACTUSSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CACTUSPEPE"
+        }
+      ]
     },
     {
       "asset": "CHAUSSETTE"
@@ -31,52 +61,142 @@
       "asset": "COCKSOCK.KEYRING"
     },
     {
-      "asset": "DANKSOCK"
+      "asset": "DANKSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
+        }
+      ]
     },
     {
-      "asset": "DEBATESOCK"
+      "asset": "DEBATESOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DEBATEPEPE"
+        }
+      ]
     },
     {
-      "asset": "EGGPLANTSOCK"
+      "asset": "EGGPLANTSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "EGGPLANTPEPE"
+        }
+      ]
     },
     {
-      "asset": "ELEVATORSOCK"
+      "asset": "ELEVATORSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ELEVATORPEPE"
+        }
+      ]
     },
     {
-      "asset": "FAKERSOCK"
+      "asset": "FAKERSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKERPEPE"
+        }
+      ]
     },
     {
       "asset": "GADSENSOCK"
     },
     {
-      "asset": "GOTSOCKSHIRT"
+      "asset": "GOTSOCKSHIRT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GOTPEPESHIRT"
+        }
+      ]
     },
     {
-      "asset": "GRIMSOCK"
+      "asset": "GRIMSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GRIMPEPE"
+        }
+      ]
     },
     {
-      "asset": "HAIRSOCK"
+      "asset": "HAIRSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
-      "asset": "HOMERSOCK"
+      "asset": "HOMERSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
-      "asset": "JACKPOTSOCK"
+      "asset": "JACKPOTSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "JACKPOTPEPE"
+        }
+      ]
     },
     {
-      "asset": "JONGSOCK"
+      "asset": "JONGSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "JONGPEPE"
+        }
+      ]
     },
     {
-      "asset": "MODERNSOCK"
+      "asset": "MODERNSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     },
     {
-      "asset": "MORPHEUSSOCK"
+      "asset": "MORPHEUSSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MORPHEUSPEPE"
+        }
+      ]
     },
     {
-      "asset": "MYLITTLESOCK"
+      "asset": "MYLITTLESOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MYLITTLEPEPE"
+        }
+      ]
     },
     {
-      "asset": "NASSOCK"
+      "asset": "NASSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "NASPEPE"
+        }
+      ]
     },
     {
       "asset": "NEONSOCK"
@@ -91,19 +211,49 @@
       "asset": "OHEYSOCK"
     },
     {
-      "asset": "ONLYONESOCK"
+      "asset": "ONLYONESOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
+        }
+      ]
     },
     {
-      "asset": "ONSENSOCK"
+      "asset": "ONSENSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ONSENPEPE"
+        }
+      ]
     },
     {
-      "asset": "PASSIONSOCK"
+      "asset": "PASSIONSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PASSIONPEPE"
+        }
+      ]
     },
     {
-      "asset": "PEEKABOOSOCK"
+      "asset": "PEEKABOOSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEEKABOOPEPE"
+        }
+      ]
     },
     {
-      "asset": "PUTINSOCK"
+      "asset": "PUTINSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "RASTASOCK",
@@ -115,22 +265,46 @@
       ]
     },
     {
-      "asset": "RGBSOCK"
+      "asset": "RGBSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RGBPEPE"
+        }
+      ]
     },
     {
       "asset": "ROCKEMSOCKEM"
     },
     {
-      "asset": "SALVADORSOCK"
+      "asset": "SALVADORSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SALVADORPEPE"
+        }
+      ]
     },
     {
-      "asset": "SMALLRATSOCK"
+      "asset": "SMALLRATSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SMALLRATPEPE"
+        }
+      ]
     },
     {
       "asset": "SMUGSOCKS"
     },
     {
-      "asset": "SOCKACHU"
+      "asset": "SOCKACHU",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKACHU"
+        }
+      ]
     },
     {
       "asset": "SOCKACTIVIST",
@@ -142,10 +316,22 @@
       ]
     },
     {
-      "asset": "SOCKALISA"
+      "asset": "SOCKALISA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKALISA"
+        }
+      ]
     },
     {
-      "asset": "SOCKAMOTO"
+      "asset": "SOCKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKAMOTO"
+        }
+      ]
     },
     {
       "asset": "SOCKAMUNRA"
@@ -154,22 +340,46 @@
       "asset": "SOCKANDMORTY"
     },
     {
-      "asset": "SOCKAUCTION"
+      "asset": "SOCKAUCTION",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKAUCTION"
+        }
+      ]
     },
     {
-      "asset": "SOCKBOY"
+      "asset": "SOCKBOY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBOY"
+        }
+      ]
     },
     {
       "asset": "SOCKBREADER"
     },
     {
-      "asset": "SOCKBUCKS"
+      "asset": "SOCKBUCKS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBUCKS"
+        }
+      ]
     },
     {
       "asset": "SOCKCARD"
     },
     {
-      "asset": "SOCKCHEQUES"
+      "asset": "SOCKCHEQUES",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECHEQUES"
+        }
+      ]
     },
     {
       "asset": "SOCKCLASS"
@@ -178,19 +388,43 @@
       "asset": "SOCKDICKBUTT"
     },
     {
-      "asset": "SOCKGUN"
+      "asset": "SOCKGUN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEGUN"
+        }
+      ]
     },
     {
       "asset": "SOCKINOMICS"
     },
     {
-      "asset": "SOCKJOBS"
+      "asset": "SOCKJOBS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEJOBS"
+        }
+      ]
     },
     {
-      "asset": "SOCKJOHNS"
+      "asset": "SOCKJOHNS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEJOHNS"
+        }
+      ]
     },
     {
-      "asset": "SOCKLEPEW"
+      "asset": "SOCKLEPEW",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPELEPEW"
+        }
+      ]
     },
     {
       "asset": "SOCKLISA",
@@ -202,40 +436,106 @@
       ]
     },
     {
-      "asset": "SOCKLUMINATI"
+      "asset": "SOCKLUMINATI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKLUMINATI"
+        }
+      ]
     },
     {
-      "asset": "SOCKMILLION"
+      "asset": "SOCKMILLION",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEMILLION"
+        }
+      ]
     },
     {
-      "asset": "SOCKNATION"
+      "asset": "SOCKNATION",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPENATION"
+        }
+      ]
     },
     {
-      "asset": "SOCKONMUSK"
+      "asset": "SOCKONMUSK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEONMUSK"
+        }
+      ]
     },
     {
-      "asset": "SOCKORMAGIC"
+      "asset": "SOCKORMAGIC",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKORMAGIC"
+        }
+      ]
     },
     {
       "asset": "SOCKPAPRSIZR"
     },
     {
-      "asset": "SOCKPARTY"
+      "asset": "SOCKPARTY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPARTY"
+        }
+      ]
     },
     {
-      "asset": "SOCKPEANUTS"
+      "asset": "SOCKPEANUTS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPEANUTS"
+        }
+      ]
     },
     {
-      "asset": "SOCKPILL"
+      "asset": "SOCKPILL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPILL"
+        }
+      ]
     },
     {
-      "asset": "SOCKPIZZA"
+      "asset": "SOCKPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPIZZA"
+        }
+      ]
     },
     {
-      "asset": "SOCKPOPE"
+      "asset": "SOCKPOPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPOPE"
+        }
+      ]
     },
     {
-      "asset": "SOCKPREME"
+      "asset": "SOCKPREME",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPREME"
+        }
+      ]
     },
     {
       "asset": "SOCKPUMP"
@@ -253,16 +553,34 @@
       "asset": "SOCKSET"
     },
     {
-      "asset": "SOCKSQUIGGLE"
+      "asset": "SOCKSQUIGGLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPESQUIGGLE"
+        }
+      ]
     },
     {
-      "asset": "SOCKSTYLE"
+      "asset": "SOCKSTYLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPESTYLE"
+        }
+      ]
     },
     {
       "asset": "SOCKSY"
     },
     {
-      "asset": "SOCKTARD"
+      "asset": "SOCKTARD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETARD"
+        }
+      ]
     },
     {
       "asset": "SOCKTATE",
@@ -274,13 +592,31 @@
       ]
     },
     {
-      "asset": "SOCKTRADER"
+      "asset": "SOCKTRADER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRADER"
+        }
+      ]
     },
     {
-      "asset": "SOCKTRATION"
+      "asset": "SOCKTRATION",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRATION"
+        }
+      ]
     },
     {
-      "asset": "SOCKTSHIRT"
+      "asset": "SOCKTSHIRT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETSHIRT"
+        }
+      ]
     },
     {
       "asset": "SOCKWILDRIDE"
@@ -289,10 +625,22 @@
       "asset": "SOXCARD"
     },
     {
-      "asset": "STRIPERSOCK"
+      "asset": "STRIPERSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "STRIPERPEPE"
+        }
+      ]
     },
     {
-      "asset": "SUCKMYSOCK"
+      "asset": "SUCKMYSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SUCKMYPEPE"
+        }
+      ]
     },
     {
       "asset": "TIMETOSOCK",
@@ -304,19 +652,43 @@
       ]
     },
     {
-      "asset": "TROUTSOCK"
+      "asset": "TROUTSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TROUTPEPE"
+        }
+      ]
     },
     {
       "asset": "TRUMPSOCK"
     },
     {
-      "asset": "UFOSOCK"
+      "asset": "UFOSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
+        }
+      ]
     },
     {
-      "asset": "UNCLESOCK"
+      "asset": "UNCLESOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UNCLEPEPE"
+        }
+      ]
     },
     {
-      "asset": "WANTEDSOCK"
+      "asset": "WANTEDSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "WANTEDPEPE"
+        }
+      ]
     },
     {
       "asset": "WHAKASOCK"
@@ -325,10 +697,22 @@
       "asset": "WIFESOCK"
     },
     {
-      "asset": "WINKELSOCK"
+      "asset": "WINKELSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "WINKELPEPE"
+        }
+      ]
     },
     {
-      "asset": "ZOMBIESOCKS"
+      "asset": "ZOMBIESOCKS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ZOMBIEPEPES"
+        }
+      ]
     }
   ]
 }
