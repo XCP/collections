@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "DIRECTORYONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pepe+thirty"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "DIRECTORYONE.HOLO"
+    }
+  ]
+}
