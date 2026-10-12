@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 6,715 assets |
-| Primary memberships | 6,715 |
+| Membership | 6,716 assets |
+| Primary memberships | 6,716 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 15/6,715 (0.2%)<br>Artist: 3,066/6,715 (45.7%) |
+| Traits | Art year: 15/6,716 (0.2%)<br>Artist: 3,067/6,716 (45.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -411,3 +411,5 @@ Reviewed individual artist credits from exact-asset original metadata:
 - TRUMPISFINE: **Pav**, from the [original metadata](https://arweave.net/6bLiPnfeoyKZ5p-WpN_7t8nCcxs_FAdIQ3h4Mw78bu4) attribution field ("Pav₿").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+QTARDED is included as a standalone artwork. Its issuance history records 170 units and links the [original metadata](https://arweave.net/FA5T_1KvX8hBe2GUHG6mmv0lqHH4Ew0CLRSKNdMfqP0), which exactly identifies QTARDED and publishes the Sanzman attribution. The currently served CDN artwork was inspected and matches its title and description. The later on-chain description is COVFEFE; no new official collection membership is inferred from the card template.
