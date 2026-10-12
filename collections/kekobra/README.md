@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of KEKOBRA |
 | Membership | 7 assets |
 | Primary memberships | 6 |
 | Secondary or curated memberships | 1 |

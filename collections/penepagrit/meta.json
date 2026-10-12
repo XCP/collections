@@ -2,5 +2,6 @@
   "name": "PENEPAGRIT",
   "kind": "canonical",
   "description": "PENEPAGRIT surrealist artwork and its floating-figure and Bitcoin-orange variations.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PENEPAGRIT"
 }

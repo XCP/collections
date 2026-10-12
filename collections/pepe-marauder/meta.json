@@ -2,5 +2,6 @@
   "name": "Pepe Marauder",
   "kind": "canonical",
   "description": "Pepe Marauder, related artwork editions by Rare Scrilla.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEMARAUDER"
 }

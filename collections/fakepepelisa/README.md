@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FAKEPEPELISA |
 | Membership | 4 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 2 |

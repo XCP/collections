@@ -1,5 +1,18 @@
 # Peptang Clan
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Variations of PEPTANGCLAN |
+| Membership | 3 assets |
+| Primary memberships | 2 |
+| Secondary or curated memberships | 1 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 3/3 (100%) |
+<!-- collection-facts:end -->
+
 The illustrated PEPTANGCLAN parent and its two existing descendants form an explicit namespace family. LAFAKAATTACK visibly reworks the parent card; PEPTANG.SHAOLIN carries the Peptang Clan / 36th Chamber description and a related martial-arts cover parody. The complete root namespace query returned both descendants, with next_offset null. The parent stays primary in Fake Rares and appears here secondarily; the descendants are not represented as accepted Fake Rares cards. The dotted PEPTANG component is not assumed to be a separately issued illustrated asset. Existing Crypsi credits are retained, not inferred from the issuer. Parent exact metadata is available at https://raw.githubusercontent.com/fapep/S1/main/PEPTANGCLAN.json .
 
 ## Evidence and membership

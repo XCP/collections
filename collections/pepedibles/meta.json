@@ -2,5 +2,6 @@
   "name": "Pepedibles",
   "kind": "canonical",
   "description": "Pepedibles, a related artwork family by Darky.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEDIBLES"
 }

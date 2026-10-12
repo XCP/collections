@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of VAPORMAGIC |
 | Membership | 33 assets |
 | Primary memberships | 32 |
 | Secondary or curated memberships | 1 |

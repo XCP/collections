@@ -2,5 +2,6 @@
   "name": "Inception",
   "kind": "canonical",
   "description": "Inception, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "INCEPTION"
 }

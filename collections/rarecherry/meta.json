@@ -2,5 +2,6 @@
   "name": "RareCherry",
   "kind": "canonical",
   "description": "RARECHERRY and the FULLCHERRY artwork variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "RARECHERRY"
 }

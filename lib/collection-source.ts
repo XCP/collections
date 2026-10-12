@@ -11,7 +11,7 @@ const SUBASSET_LONGNAME = /^(?:[B-Z][A-Z]{3,11}|A\d{17,20})\.[A-Za-z0-9_@!-]+(?:
 const PROVIDER_NAME = /^[a-z0-9]+(?:[-_][a-z0-9]+)*$/;
 const KINDS = new Set(["canonical", "curated"]);
 const ART_FRAMES = new Set(["card", "square", "landscape"]);
-const META_KEYS = new Set(["name", "kind", "description", "art_frame", "founded", "links"]);
+const META_KEYS = new Set(["name", "kind", "description", "art_frame", "founded", "links", "variation_of"]);
 /** Counterparty launched in 2014; nothing was founded on it earlier. */
 const MIN_FOUNDED_YEAR = 2014;
 const MAX_FOUNDED_YEAR = 2100;
@@ -255,7 +255,25 @@ export function normalizeCollectionMeta(value, slug) {
   };
   if (meta.founded !== undefined) normalized.founded = foundedYear(meta.founded, `${slug}.founded`);
   if (meta.links !== undefined) normalized.links = normalizeLinks(meta.links, `${slug}.links`);
+  if (meta.variation_of !== undefined) {
+    if (meta.kind !== "canonical") fail(`${slug}.variation_of`, 'requires kind "canonical"');
+    if (!isCounterpartyAssetId(meta.variation_of) || meta.variation_of.includes(".")) {
+      fail(`${slug}.variation_of`, "must be a named or numeric Counterparty asset id");
+    }
+    normalized.variation_of = meta.variation_of;
+  }
   return normalized;
+}
+
+/** A variations collection is one parent work and its alternate versions:
+ * the parent itself plus subassets registered under it, nothing else. */
+function requireVariationShape(parent, assets, path) {
+  if (parent === undefined) return;
+  if (!assets.some((entry) => entry.asset === parent)) fail(path, `must list its parent ${parent}`);
+  const stray = assets.filter((entry) => entry.asset !== parent && !entry.asset.startsWith(`${parent}.`));
+  if (stray.length > 0) {
+    fail(path, `variations of ${parent} may only contain its subassets; found ${stray.map((entry) => entry.asset).join(", ")}`);
+  }
 }
 
 /** The year the project launched. An old asset can be published into a
@@ -507,6 +525,7 @@ export async function materializeCollection({
 
   if (membership?.assets !== undefined) {
     requireCanonicalPrimary(output.kind, membership.assets, `${slug}.assets`);
+    requireVariationShape(output.variation_of, membership.assets, `${slug}.assets`);
     output.assets = applyArtistCreditSplits(membership.assets, artistCreditSplits);
     if (membership.overlapPolicy === "secondary") {
       Object.defineProperty(output, SECONDARY_ON_OVERLAP, { value: true });
@@ -738,6 +757,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
       if (source.type === "static") {
         collection.assets = applyArtistCreditSplits(readCollectionAssets(repositoryRoot, slug), artistCreditSplits);
         requireCanonicalPrimary(collection.kind, collection.assets, `${slug}.assets`);
+        requireVariationShape(collection.variation_of, collection.assets, `${slug}.assets`);
       } else {
         if (source.type !== "metadata-only") externalSources += 1;
         collection.source = source.type;

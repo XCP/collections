@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FEELSBRIEF |
 | Membership | 6 assets |
 | Primary memberships | 5 |
 | Secondary or curated memberships | 1 |

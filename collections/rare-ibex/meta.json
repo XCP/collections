@@ -2,5 +2,6 @@
   "name": "Rare Ibex",
   "kind": "canonical",
   "description": "The Rare Ibex artwork and its RGB color variant.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "RAREIBEX"
 }

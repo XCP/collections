@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FAKENESS |
 | Membership | 13 assets |
 | Primary memberships | 12 |
 | Secondary or curated memberships | 1 |

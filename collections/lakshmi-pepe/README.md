@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of LAKSHMIPEPE |
 | Membership | 4 assets |
 | Primary memberships | 3 |
 | Secondary or curated memberships | 1 |

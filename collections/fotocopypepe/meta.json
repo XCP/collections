@@ -2,5 +2,6 @@
   "name": "FOTOCOPYPEPE",
   "kind": "canonical",
   "description": "FOTOCOPYPEPE artwork and its THEMONKEY subasset variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FOTOCOPYPEPE"
 }

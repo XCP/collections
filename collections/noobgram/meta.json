@@ -2,5 +2,6 @@
   "name": "Noobgram",
   "kind": "canonical",
   "description": "The Noobgram artwork and its PHYSICAL, VOODOO and BURNT variants.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "NOOBGRAM"
 }

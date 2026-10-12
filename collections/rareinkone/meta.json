@@ -2,5 +2,6 @@
   "name": "RAREINKONE",
   "kind": "canonical",
   "description": "Maya’s RAREINKONE artwork and Magenta Thursday print subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "RAREINKONE"
 }

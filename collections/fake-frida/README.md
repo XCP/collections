@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FAKEFRIDA |
 | Membership | 7 assets |
 | Primary memberships | 4 |
 | Secondary or curated memberships | 3 |

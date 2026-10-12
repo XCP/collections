@@ -2,5 +2,6 @@
   "name": "Pepe Today",
   "kind": "canonical",
   "description": "The Pepe Today artwork and its GM variant.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPETODAY"
 }

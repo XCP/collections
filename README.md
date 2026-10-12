@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 826 |
-| Canonical collections | 820 |
-| Curated views | 6 |
-| Explicit unique assets | 64,544 |
-| Explicit collection memberships | 65,697 |
-| Primary memberships | 64,544 |
-| Secondary or curated memberships | 1,153 |
-| Memberships with traits | 34,846 |
+| Collections | 982 |
+| Canonical collections | 973 |
+| Curated views | 9 |
+| Explicit unique assets | 64,553 |
+| Explicit collection memberships | 65,844 |
+| Primary memberships | 64,553 |
+| Secondary or curated memberships | 1,291 |
+| Memberships with traits | 35,229 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 823 |
+| Reviewed static `assets.json` | 979 |
 | Collection or computed adapters | 2 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Eyes, Face, HP, Head, Health, ID, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Work, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Car, Card, Catalog, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Episode, Eyes, Face, HP, Head, Health, ID, Illustrator, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Speed, Story, Tier, Title, Type, Variant, Work, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->
@@ -101,6 +101,15 @@ marketplace dates the collection from its oldest member's issuance, which
 overstates the age of a collection that adopted assets registered before it
 existed. Optional links are `website`, `x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
+
+`variation_of` names the parent of a variations collection: one work and its
+alternate versions (alternate art, prints, signed or event editions)
+registered as subassets of that parent. Such a collection lists the parent,
+usually as a secondary member of its own primary collection, and nothing but
+the parent's subassets; validation enforces both. Marketplaces keep it
+browsable and tradeable on its own but do not feature it beside ordinary
+collections. Do not use it for a set of distinct works that merely share a
+namespace.
 
 ### Asset membership
 

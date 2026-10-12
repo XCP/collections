@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FAKEBASQPEPE |
 | Membership | 5 assets |
 | Primary memberships | 3 |
 | Secondary or curated memberships | 2 |

@@ -2,5 +2,6 @@
   "name": "Peptang Clan",
   "kind": "canonical",
   "description": "Peptang Clan parent artwork and its illustrated subasset variations.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPTANGCLAN"
 }

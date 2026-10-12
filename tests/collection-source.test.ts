@@ -207,6 +207,50 @@ test("meta.json accepts an optional founding year within the Counterparty era", 
   }
 });
 
+test("variation_of marks a canonical collection as one parent's alternate versions", async (t) => {
+  assert.deepEqual(
+    normalizeCollectionMeta({ ...baseMeta, variation_of: "BEARFACTS" }, "example-set"),
+    { ...baseMeta, variation_of: "BEARFACTS" },
+  );
+  for (const variation_of of ["bearfacts", "BEARFACTS.misprint", "", 7]) {
+    assert.throws(
+      () => normalizeCollectionMeta({ ...baseMeta, variation_of }, "example-set"),
+      /must be a named or numeric Counterparty asset id/,
+    );
+  }
+  assert.throws(
+    () => normalizeCollectionMeta({ ...baseMeta, kind: "curated", variation_of: "BEARFACTS" }, "example-set"),
+    /requires kind "canonical"/,
+  );
+
+  const meta = { ...baseMeta, variation_of: "BEARFACTS" };
+  const valid = makeRepository();
+  t.after(() => rmSync(valid.root, { recursive: true, force: true }));
+  writeFileSync(join(valid.directory, "assets.json"), JSON.stringify({
+    assets: [{ asset: "BEARFACTS", primary: false }, { asset: "BEARFACTS.misprint" }],
+  }));
+  const collection = await materializeCollection({ slug: "example-set", meta, repositoryRoot: valid.root });
+  assert.equal(collection.variation_of, "BEARFACTS");
+
+  const missingParent = makeRepository();
+  t.after(() => rmSync(missingParent.root, { recursive: true, force: true }));
+  writeFileSync(join(missingParent.directory, "assets.json"), JSON.stringify({ assets: [{ asset: "BEARFACTS.misprint" }] }));
+  await assert.rejects(
+    materializeCollection({ slug: "example-set", meta, repositoryRoot: missingParent.root }),
+    /must list its parent BEARFACTS/,
+  );
+
+  const stray = makeRepository();
+  t.after(() => rmSync(stray.root, { recursive: true, force: true }));
+  writeFileSync(join(stray.directory, "assets.json"), JSON.stringify({
+    assets: [{ asset: "BEARFACTS", primary: false }, { asset: "BEARFACTS.misprint" }, { asset: "OTHERCARD" }],
+  }));
+  await assert.rejects(
+    materializeCollection({ slug: "example-set", meta, repositoryRoot: stray.root }),
+    /may only contain its subassets; found OTHERCARD/,
+  );
+});
+
 test("canonical static collections require a primary asset while curated overlaps may be all-secondary", async (t) => {
   const secondaryOnly = [{ asset: "CROSSCARD", primary: false }];
   const canonical = makeRepository();
