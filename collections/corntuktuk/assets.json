@@ -20,7 +20,12 @@
     },
     {
       "asset": "CORNTUKTUK.PIGINTUKTUK",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "CORNTUKTUK.BLUEANDCORN",

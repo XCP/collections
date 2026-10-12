@@ -10,7 +10,7 @@
 | Primary memberships | 244 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 97/244 (39.8%) |
+| Traits | Artist: 99/244 (40.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,10 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- FIRSTGM: **pitoopi**, from the [original metadata](https://api.npoint.io/0d02f95ee7cc99f2e708.json) attribution field ("@PitooPi").
+- SMARTORDINAL: **pitoopi**, from the [original metadata](https://api.npoint.io/15de4249ed9aa5f51e8f.json) attribution field ("@PitooPi").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.

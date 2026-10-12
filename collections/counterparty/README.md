@@ -10,7 +10,7 @@
 | Primary memberships | 6,715 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 15/6,715 (0.2%)<br>Artist: 3,065/6,715 (45.6%) |
+| Traits | Art year: 15/6,715 (0.2%)<br>Artist: 3,066/6,715 (45.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -405,3 +405,9 @@ Canonical Arweave transaction roots name the exact assets and creators below. PR
 - NOMOARPUNKS: Viva La Vandal ([metadata](https://arweave.net/2R7ym655hkIsVGQMTLEBEDVVPKjJPmrQMYHk24gb31c))
 - STAMPVANDAL: Viva La Vandal ([metadata](https://arweave.net/UqRYYD_0ZMJcr6FerjGEdpFUa3iYvn-CNTNm4Bh6sKk))
 - SNOOPFROGGY: Viva La Vandal ([metadata](https://arweave.net/97ABNhWEAFxoE7C1vlgtG6YY1dbbLbUMKMrjQahaO-s))
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- TRUMPISFINE: **Pav**, from the [original metadata](https://arweave.net/6bLiPnfeoyKZ5p-WpN_7t8nCcxs_FAdIQ3h4Mw78bu4) attribution field ("Pav₿").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.

@@ -10,7 +10,7 @@
 | Primary memberships | 77 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/77 (1.3%)<br>Artist: 19/77 (24.7%) |
+| Traits | Art year: 1/77 (1.3%)<br>Artist: 24/77 (31.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -37,3 +37,10 @@ These asset-specific metadata documents explicitly identify the artist. Existing
 - UNATCROBATS: subterranean ([metadata](https://gateway.ar.io/8inzga_X1BL3imD1D-aBrdyl1ycRPPynxXmp3G8TuXE/UNATCROBATS.json))
 - NATPRINTER: psyfrogger ([metadata](https://gateway.ar.io/3r_HbWpyaSaSuk9Vfbgzjv-asFcCKzeW3g0UCrpKMY0/NATPRINTER.json))
 - YOUNAT: psyfrogger ([metadata](https://gateway.ar.io/9TnBmbU2jgcFiOdo2AN9vqqUgmb6Ohk72yow0xGM5kk/YOUNAT.json))
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- UNATJESUS: **Arvik**, from the [original metadata](https://unatrare.wtf/c/UNATJESUS.json) attribution field ("Arvik").
+- UNATTYDREAD: **Arvik**, from the [original metadata](https://unatrare.wtf/c/UNATTYDREAD.json) attribution field ("Arvik").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.

@@ -55,7 +55,13 @@
       ]
     },
     {
-      "asset": "CARPETBAGGER"
+      "asset": "CARPETBAGGER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "frau"
+        }
+      ]
     },
     {
       "asset": "CASTLEDANKIA"

@@ -203,7 +203,13 @@
     },
     {
       "asset": "GAMESOFMUSK",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GabDevs"
+        }
+      ]
     },
     {
       "asset": "GAMESOFTRUMP",
