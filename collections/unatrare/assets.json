@@ -28,10 +28,22 @@
       ]
     },
     {
-      "asset": "DANKCONCERT"
+      "asset": "DANKCONCERT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "DANKOLIO"
+      "asset": "DANKOLIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "DJPEPENAT",
@@ -64,7 +76,13 @@
       "asset": "FORKWARD"
     },
     {
-      "asset": "GLOBEPEPE"
+      "asset": "GLOBEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "GODMOLECULE",
@@ -184,10 +202,22 @@
       ]
     },
     {
-      "asset": "PEPESTARCARD"
+      "asset": "PEPESTARCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
-      "asset": "PEPEYROSE"
+      "asset": "PEPEYROSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "PLEASEUNAT",
@@ -202,7 +232,13 @@
       "asset": "RAREUNATPEPE"
     },
     {
-      "asset": "ROYALTYPEPE"
+      "asset": "ROYALTYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "SAUNAPEPE",
@@ -274,7 +310,13 @@
       "asset": "UNATBROKE"
     },
     {
-      "asset": "UNATCOINS"
+      "asset": "UNATCOINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "UNATCOUNCIL",
@@ -334,7 +376,13 @@
       "asset": "UNATHUMAN"
     },
     {
-      "asset": "UNATHUNT"
+      "asset": "UNATHUNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "UNATISTHEWAY",
@@ -442,7 +490,13 @@
       ]
     },
     {
-      "asset": "UNATUBBIES"
+      "asset": "UNATUBBIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Emperor Western"
+        }
+      ]
     },
     {
       "asset": "UNATVISIBLE",
