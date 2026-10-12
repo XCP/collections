@@ -3,6 +3,7 @@
   "kind": "canonical",
   "description": "The TIMELINEXCP parent and its illustrated registered subassets.",
   "art_frame": "card",
+  "variation_of": "TIMELINEXCP",
   "links": {
     "website": "https://github.com/davestaxcp/CounterpartyTimeline2023"
   }

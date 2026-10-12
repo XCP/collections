@@ -2,5 +2,6 @@
   "name": "Fakeblache",
   "kind": "canonical",
   "description": "Fakeblache, an artwork family by H & Art Block.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKEBLACHE"
 }

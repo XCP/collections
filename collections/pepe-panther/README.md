@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEPANTHER |
 | Membership | 14 assets |
 | Primary memberships | 13 |
 | Secondary or curated memberships | 1 |

@@ -2,5 +2,6 @@
   "name": "The Don Pepe",
   "kind": "canonical",
   "description": "SNUXTONPACK’s The Don Pepe artwork and La Faka subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "THEDONPEPE"
 }
