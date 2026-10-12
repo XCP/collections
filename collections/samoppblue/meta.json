@@ -2,5 +2,6 @@
   "name": "SAMOPPBLUE",
   "kind": "canonical",
   "description": "Brocciu’s SAMOPPBLUE crown artwork and its RED Counterparty subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "SAMOPPBLUE"
 }

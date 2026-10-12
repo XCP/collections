@@ -2,5 +2,6 @@
   "name": "The Pizza Day",
   "kind": "canonical",
   "description": "The Pizza Day, an artwork family by Jona Carbi.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "THEPIZZADAY"
 }

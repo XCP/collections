@@ -2,5 +2,6 @@
   "name": "That Feel When",
   "kind": "canonical",
   "description": "The THATFEELWHEN artwork and its HNFT physical-art subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "THATFEELWHEN"
 }

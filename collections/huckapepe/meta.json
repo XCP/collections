@@ -2,5 +2,6 @@
   "name": "Huckapepe",
   "kind": "canonical",
   "description": "Huckapepe, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "HUCKAPEPE"
 }

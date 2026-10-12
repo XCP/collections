@@ -2,5 +2,6 @@
   "name": "Pepononoke",
   "kind": "canonical",
   "description": "The Pepononoke artwork and its ACIDFOREST interpretation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPONONOKE"
 }

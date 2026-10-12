@@ -2,5 +2,6 @@
   "name": "FAKESCIENCE",
   "kind": "canonical",
   "description": "FAKESCIENCE, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKESCIENCE"
 }

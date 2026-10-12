@@ -2,5 +2,6 @@
   "name": "Dashpepe",
   "kind": "canonical",
   "description": "Dashpepe, a related Counterparty artwork family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "DASHPEPE"
 }

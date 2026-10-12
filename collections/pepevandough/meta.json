@@ -2,5 +2,6 @@
   "name": "PEPEVANDOUGH",
   "kind": "canonical",
   "description": "The PEPEVANDOUGH artwork and its LAFAKA subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEVANDOUGH"
 }

@@ -2,5 +2,6 @@
   "name": "JSONPEPE",
   "kind": "canonical",
   "description": "JSONPEPE, an artwork family by RYR.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "JSONPEPE"
 }

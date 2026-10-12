@@ -2,5 +2,6 @@
   "name": "Mayfakefield",
   "kind": "canonical",
   "description": "The MAYFAKEFIELD parent and its illustrated registered subassets.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "MAYFAKEFIELD"
 }

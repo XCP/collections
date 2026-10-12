@@ -2,5 +2,6 @@
   "name": "Fakaccia",
   "kind": "canonical",
   "description": "Poboy’s FAKACCIA bread artwork and its FRESHBAKED Counterparty subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKACCIA"
 }
