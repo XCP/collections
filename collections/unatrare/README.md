@@ -10,7 +10,7 @@
 | Primary memberships | 77 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/77 (1.3%)<br>Artist: 24/77 (31.2%) |
+| Traits | Art year: 1/77 (1.3%)<br>Artist: 52/77 (67.5%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -44,3 +44,38 @@ Reviewed individual artist credits from exact-asset original metadata:
 - UNATTYDREAD: **Arvik**, from the [original metadata](https://unatrare.wtf/c/UNATTYDREAD.json) attribution field ("Arvik").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- BURNAT: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/BURNAT.json) attribution field ("psyfrogger").
+- CLAYNATPEPE: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/CLAYNATPEPE.json) attribution field ("BobbyZoo_BA").
+- CASTLEPEPE: **DjLiberty1**, from the [original metadata](https://unatrare.wtf/c/CASTLEPEPE.json) attribution field ("Dj_Liberty1").
+- DJPEPENAT: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/DJPEPENAT.json) attribution field ("psyfrogger").
+- GREYUNAT: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/GREYUNAT.json) attribution field ("BobbyZoo_BA").
+- NATSTALGIA: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/NATSTALGIA.json) attribution field ("psyfrogger").
+- NATWEATHER: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/NATWEATHER.json) attribution field ("psyfrogger").
+- NATWALLET: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/NATWALLET.json) attribution field ("psyfrogger").
+- NEVERPEPE: **DjLiberty1**, from the [original metadata](https://unatrare.wtf/c/NEVERPEPE.json) attribution field ("Dj_Liberty1").
+- THEYNATKNOW: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/THEYNATKNOW.json) attribution field ("psyfrogger").
+- PLEASEUNAT: **DjLiberty1**, from the [original metadata](https://unatrare.wtf/c/PLEASEUNAT.json) attribution field ("Dj_Liberty1").
+- TERMUNATOR: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/TERMUNATOR.json) attribution field ("psyfrogger").
+- UNATCOUNCIL: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATCOUNCIL.json) attribution field ("BobbyZoo_BA").
+- UNATBEANZ: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/UNATBEANZ.json) attribution field ("psyfrogger").
+- UNATELLO: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/UNATELLO.json) attribution field ("psyfrogger").
+- UNATDANK: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/UNATDANK.json) attribution field ("psyfrogger").
+- UNATISTHEWAY: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATISTHEWAY.json) attribution field ("BobbyZoo_BA").
+- UNATMILKPEPE: **DjLiberty1**, from the [original metadata](https://unatrare.wtf/c/UNATMILKPEPE.json) attribution field ("Dj_Liberty1").
+- UNATMEME: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATMEME.json) attribution field ("BobbyZoo_BA").
+- UNATHANOS: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/UNATHANOS.json) attribution field ("psyfrogger").
+- UNATPLASTIC: **Burn**, from the [original metadata](https://unatrare.wtf/c/UNATPLASTIC.json) attribution field ("1burntoutop").
+- UNATRADE: **DjLiberty1**, from the [original metadata](https://unatrare.wtf/c/UNATRADE.json) attribution field ("Dj_Liberty1").
+- UNATPUNK: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATPUNK.json) attribution field ("BobbyZoo_BA").
+- UNATMOTO: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATMOTO.json) attribution field ("BobbyZoo_BA").
+- UNATVISIBLE: **psyfrogger**, from the [original metadata](https://unatrare.wtf/c/UNATVISIBLE.json) attribution field ("psyfrogger").
+- WALKOFMEME: **Zed Erwan**, from the [original metadata](https://unatrare.wtf/c/WALKOFMEME.json) attribution field ("zederwan").
+- UNATZILLA: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATZILLA.json) attribution field ("BobbyZoo_BA").
+- UNATSOPHIE: **BobbyZoo**, from the [original metadata](https://unatrare.wtf/c/UNATSOPHIE.json) attribution field ("BobbyZoo_BA").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+The reviewed UNATRARE handles map to existing artist credits using corroborating original metadata and profiles: BobbyZoo_BA links to BobbyZoo's established profile, 1burntoutop to Burn, and zederwan to Zed Erwan. Dj_Liberty1 matches the attribution and handle in VIOLINI's original metadata; psyfrogger matches the existing KEKOHOLDER and KEKOOKING credits. No issuer-wide attribution or new artist alias is introduced.

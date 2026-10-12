@@ -1,13 +1,31 @@
 {
   "assets": [
     {
-      "asset": "BURNAT"
+      "asset": "BURNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "CASTLEPEPE"
+      "asset": "CASTLEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
-      "asset": "CLAYNATPEPE"
+      "asset": "CLAYNATPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "DANKCONCERT"
@@ -16,7 +34,13 @@
       "asset": "DANKOLIO"
     },
     {
-      "asset": "DJPEPENAT"
+      "asset": "DJPEPENAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "DRAWNATPEPE",
@@ -52,7 +76,13 @@
       ]
     },
     {
-      "asset": "GREYUNAT"
+      "asset": "GREYUNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "KEKMONK"
@@ -106,19 +136,43 @@
       ]
     },
     {
-      "asset": "NATSTALGIA"
+      "asset": "NATSTALGIA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "NATWALLET"
+      "asset": "NATWALLET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "NATWEATHER"
+      "asset": "NATWEATHER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "NAVYKEK"
     },
     {
-      "asset": "NEVERPEPE"
+      "asset": "NEVERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
       "asset": "PEPEATCAFE",
@@ -136,7 +190,13 @@
       "asset": "PEPEYROSE"
     },
     {
-      "asset": "PLEASEUNAT"
+      "asset": "PLEASEUNAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
       "asset": "RAREUNATPEPE"
@@ -160,10 +220,22 @@
       "asset": "SPACEBARON"
     },
     {
-      "asset": "TERMUNATOR"
+      "asset": "TERMUNATOR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "THEYNATKNOW"
+      "asset": "THEYNATKNOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "UNATAIR",
@@ -181,7 +253,13 @@
       "asset": "UNATAUTIST"
     },
     {
-      "asset": "UNATBEANZ"
+      "asset": "UNATBEANZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "UNATBOBBY",
@@ -199,7 +277,13 @@
       "asset": "UNATCOINS"
     },
     {
-      "asset": "UNATCOUNCIL"
+      "asset": "UNATCOUNCIL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "UNATCROBATS",
@@ -214,13 +298,31 @@
       "asset": "UNATCURRY"
     },
     {
-      "asset": "UNATDANK"
+      "asset": "UNATDANK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "UNATELLO"
+      "asset": "UNATELLO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "UNATHANOS"
+      "asset": "UNATHANOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
       "asset": "UNATHAYAMI"
@@ -235,7 +337,13 @@
       "asset": "UNATHUNT"
     },
     {
-      "asset": "UNATISTHEWAY"
+      "asset": "UNATISTHEWAY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "UNATJESUS",
@@ -256,28 +364,70 @@
       ]
     },
     {
-      "asset": "UNATMEME"
+      "asset": "UNATMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "UNATMESSI"
     },
     {
-      "asset": "UNATMILKPEPE"
+      "asset": "UNATMILKPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
-      "asset": "UNATMOTO"
+      "asset": "UNATMOTO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
-      "asset": "UNATPLASTIC"
+      "asset": "UNATPLASTIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Burn"
+        }
+      ]
     },
     {
-      "asset": "UNATPUNK"
+      "asset": "UNATPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
-      "asset": "UNATRADE"
+      "asset": "UNATRADE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DjLiberty1"
+        }
+      ]
     },
     {
-      "asset": "UNATSOPHIE"
+      "asset": "UNATSOPHIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "UNATTHRILLER"
@@ -295,10 +445,22 @@
       "asset": "UNATUBBIES"
     },
     {
-      "asset": "UNATVISIBLE"
+      "asset": "UNATVISIBLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "psyfrogger"
+        }
+      ]
     },
     {
-      "asset": "UNATZILLA"
+      "asset": "UNATZILLA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BobbyZoo"
+        }
+      ]
     },
     {
       "asset": "VINTAGEUNAT",
@@ -310,7 +472,13 @@
       ]
     },
     {
-      "asset": "WALKOFMEME"
+      "asset": "WALKOFMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Zed Erwan"
+        }
+      ]
     },
     {
       "asset": "YOUNAT",
