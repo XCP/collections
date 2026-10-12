@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "ETHQ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "notvitalik"
+        },
+        {
+          "trait_type": "Series",
+          "value": 52
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "ETHQ.PINKSHEET"
+    }
+  ]
+}

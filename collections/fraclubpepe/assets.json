@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "FRACLUBPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 16
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "FRACLUBPEPE.CLUBDANK"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "SATOSHIFAKE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 21
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ],
+      "primary": false
+    },
+    {
+      "asset": "SATOSHIFAKE.MISPRINT.1"
+    }
+  ]
+}
