@@ -30774,7 +30774,13 @@
       "asset": "FAKEAPETOKEN.RADIOACTIVEEP"
     },
     {
-      "asset": "FUTURX.GREAT"
+      "asset": "FUTURX.GREAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Too Ashamed"
+        }
+      ]
     },
     {
       "asset": "CHARCUTERIE.BOARD"
@@ -33299,7 +33305,13 @@
       "asset": "DEEPSEEKPEPE"
     },
     {
-      "asset": "DEEPVALUE"
+      "asset": "DEEPVALUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lambie"
+        }
+      ]
     },
     {
       "asset": "DEFEATESG"
@@ -34079,7 +34091,13 @@
       "asset": "FAIRPEPEPACT"
     },
     {
-      "asset": "FAIRPOOL"
+      "asset": "FAIRPOOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FAIRBOSS"
+        }
+      ]
     },
     {
       "asset": "FAIRROPE"
@@ -38942,7 +38960,13 @@
       ]
     },
     {
-      "asset": "PENPENTAGON"
+      "asset": "PENPENTAGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jabkman"
+        }
+      ]
     },
     {
       "asset": "PENSALUTEPEN",
@@ -39080,7 +39104,13 @@
       "asset": "PEPEAMYDIGI"
     },
     {
-      "asset": "PEPEANADOL"
+      "asset": "PEPEANADOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "falseflagcollective"
+        }
+      ]
     },
     {
       "asset": "PEPEANDAMIO"
@@ -42929,7 +42959,13 @@
       "asset": "SOULPEPEBTC"
     },
     {
-      "asset": "SOUNDTEST"
+      "asset": "SOUNDTEST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "UNSOUND"
+        }
+      ]
     },
     {
       "asset": "SOURCEPEPE"
@@ -44993,7 +45029,13 @@
       "asset": "ZEROFUXGARY"
     },
     {
-      "asset": "ZEROTAX"
+      "asset": "ZEROTAX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ROGUEPEPE"
+        }
+      ]
     },
     {
       "asset": "ZIMMERMANACE"

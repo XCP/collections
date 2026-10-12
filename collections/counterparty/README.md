@@ -10,7 +10,7 @@
 | Primary memberships | 6,716 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 15/6,716 (0.2%)<br>Artist: 3,067/6,716 (45.7%) |
+| Traits | Art year: 15/6,716 (0.2%)<br>Artist: 3,074/6,716 (45.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -413,3 +413,15 @@ Reviewed individual artist credits from exact-asset original metadata:
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
 
 QTARDED is included as a standalone artwork. Its issuance history records 170 units and links the [original metadata](https://arweave.net/FA5T_1KvX8hBe2GUHG6mmv0lqHH4Ew0CLRSKNdMfqP0), which exactly identifies QTARDED and publishes the Sanzman attribution. The currently served CDN artwork was inspected and matches its title and description. The later on-chain description is COVFEFE; no new official collection membership is inferred from the card template.
+
+Seven more credits come from the Easyasset artist field (`pgpsig`) in exact-asset original metadata. Each record identifies its asset exactly, and each served artwork was reviewed. Published attribution text is not a cryptographic signature; collection membership is unchanged.
+
+- DEEPVALUE: **Lambie**, from the [original metadata](https://arweave.net/ssMqaraHi2cuWgZHo3klQMrS7bR6wwp8NZ3An2ZIWDw) ("Lambie 🍌 X Roaring Auctions", linking twitter.com/LambieArtist). Roaring Auctions is the auction house the card depicts, not a second artist.
+- PENPENTAGON: **Jabkman**, from the [original metadata](https://arweave.net/-S4OW_z6pdMkT9GBH7oljTMsv6WVXa6gK1beW3cR9nE) ("Jabkman - JACK FROST Of The RarePenPen Agency"). RarePenPen membership still needs a catalog source.
+- SOUNDTEST: **UNSOUND**, named as both artist and owner in the [original metadata](https://arweave.net/3ounLWooksGVn5WTQe3RcpuJBc3yR-G_I_JU_8GE-Dg).
+- FAIRPOOL: **FAIRBOSS**, from the [original metadata](https://arweave.net/hGFMGvsIDBhsi7JLsyRUJ2oDTUbv-b-jei6DdyLkPo4).
+- FUTURX.GREAT: **Too Ashamed**, from the [original metadata](https://arweave.net/XbCi577TyEtsj2gQdtr0sndgQwDIg3zXfmY9CT25eFE).
+- ZEROTAX: **ROGUEPEPE**, from the [original metadata](https://arweave.net/KpJd6hIxr0oJIdvNs9qoniL3XlAs2aR4GYApWTgNBJc).
+- PEPEANADOL: **falseflagcollective**, from the [original metadata](https://arweave.net/xPbksKU8MIcdOMXyPsQTcZym8uMpPSumxm2aUeuU_Ik).
+
+Held from the same review: labels naming the depicted subject or character (BABYNAKA, DJDANI, WANGXIANG), a project rather than a person (PARTYPUNKS.0, PLAGUEHEARTH), first names or initials too thin for a profile (BIIITCOOOIN, PARTICIPATED), a book author on a redemption token (FROGMINSTER), a colour alteration of another work (QUEENARTCOIN.NAKAMOTOAPE), a thesis edition whose metadata names a different asset (ROLLANDTHESE.edition_soutenance), BUNJEEJUMPEP's "Maxwell" (linking twitter.com/maxkarlan, distinct from Maxwell Bruno), and CARNIATH's "Mr P x Stack", whose Stack is not yet tied to the existing Stack profile. CARNIATH's "FAUX SOGS" category is not FAUX SOGS admission: it is absent from that collection's official catalog.
