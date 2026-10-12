@@ -4,10 +4,22 @@
       "asset": "BOOSTLEGGED"
     },
     {
-      "asset": "BOOSTLEGGED.FAKOMER"
+      "asset": "BOOSTLEGGED.FAKOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKOMER"
+        }
+      ]
     },
     {
-      "asset": "BOOSTLEGGED.KINGFAKE"
+      "asset": "BOOSTLEGGED.KINGFAKE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "KINGFAKE"
+        }
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "asset": "SSBLUEBEAR.BLUEMAGIC"
     },
     {
-      "asset": "SSBLUEBEAR.COLLECTOR"
+      "asset": "SSBLUEBEAR.COLLECTOR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "COLLECTOR"
+        }
+      ]
     }
   ]
 }

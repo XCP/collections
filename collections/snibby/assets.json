@@ -28,7 +28,13 @@
       "asset": "SNIBBY.crabmate"
     },
     {
-      "asset": "SNIBBY.csat"
+      "asset": "SNIBBY.csat",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CSAT"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.daily.struggle"
