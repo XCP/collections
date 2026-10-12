@@ -10,7 +10,7 @@
 | Primary memberships | 77 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/77 (1.3%)<br>Artist: 52/77 (67.5%) |
+| Traits | Art year: 1/77 (1.3%)<br>Artist: 61/77 (79.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -79,3 +79,9 @@ Reviewed individual artist credits from exact-asset original metadata:
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
 
 The reviewed UNATRARE handles map to existing artist credits using corroborating original metadata and profiles: BobbyZoo_BA links to BobbyZoo's established profile, 1burntoutop to Burn, and zederwan to Zed Erwan. Dj_Liberty1 matches the attribution and handle in VIOLINI's original metadata; psyfrogger matches the existing KEKOHOLDER and KEKOOKING credits. No issuer-wide attribution or new artist alias is introduced.
+
+## Emperor Western credits
+
+Nine exact-asset UNATRARE metadata documents name EmperorWestern7 (or Emperorwestern7) in the attribution field and link twitter.com/EmperorWestern7. They are credited to the existing **Emperor Western** profile: the [GRANDFAUX metadata](https://arweave.net/PrCuvXCjYtsF5jYvQwJRUbnqeDTiyjNR846T1KVj0f8), already credited to Emperor Western, is signed EMPERORWESTERN and links the same account. The lowercase emperorwestern spelling is already an alias of that profile.
+
+DANKOLIO, DANKCONCERT, GLOBEPEPE, PEPESTARCARD, PEPEYROSE, ROYALTYPEPE, UNATCOINS, UNATHUNT and UNATUBBIES each use `https://unatrare.wtf/c/<ASSET>.json`. Membership is unchanged. RAREUNATPEPE and SOFTPWAR (JNA) remain unattributed until JNA's identity is established.
