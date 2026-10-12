@@ -614,7 +614,13 @@
       ]
     },
     {
-      "asset": "FAKEDROOL"
+      "asset": "FAKEDROOL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "FAKEFRED",
@@ -950,7 +956,13 @@
       "asset": "FAPESHIT"
     },
     {
-      "asset": "FAPESTORE"
+      "asset": "FAPESTORE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "FAPETARIST"

@@ -6,6 +6,12 @@ const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
 // Reviewed original metadata / artwork signatures; see the collection README.
 const REVIEWED_ARTISTS = new Map([
+  ["BLOCKVII", "pitoopi"],
+  ["PEPESTATION", "pitoopi"],
+  ["MINDBENDERS.METABALLS.001", "mellow"],
+  ["MINDBENDERS.METABALLS.002", "mellow"],
+  ["MINDBENDERS.METABALLS.003", "mellow"],
+  ["MINDBENDERS.SPHERE.001", "mellow"],
   ["PEPESHOOD", "subterranean"],
   ["PEPEFAKERARE", "BIGTOX"],
   ["TMDAUTOGRAPH", "ArtemTemaDa"],

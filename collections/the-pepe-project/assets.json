@@ -322,7 +322,13 @@
       "asset": "FUGGEMNOW"
     },
     {
-      "asset": "GAMESOFMUSK"
+      "asset": "GAMESOFMUSK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "GabDevs"
+        }
+      ]
     },
     {
       "asset": "GAMESOFTRUMP",
@@ -1188,7 +1194,13 @@
       "asset": "TRUMPTARDS"
     },
     {
-      "asset": "TRUMPTRAIN"
+      "asset": "TRUMPTRAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "PatriotsinProgress"
+        }
+      ]
     },
     {
       "asset": "TRUMTREASOR",

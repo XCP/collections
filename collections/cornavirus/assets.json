@@ -2,7 +2,12 @@
   "assets": [
     {
       "asset": "CORNAVIRUS.SPREAD",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "BITCORNCARDS.CORNAVIRUS",
@@ -24,7 +29,12 @@
     },
     {
       "asset": "CORNAVIRUS.MUTATION",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "CORNAVIRUS",

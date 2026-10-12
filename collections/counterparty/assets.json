@@ -44018,7 +44018,13 @@
       "asset": "TRUMPHOUSE"
     },
     {
-      "asset": "TRUMPISFINE"
+      "asset": "TRUMPISFINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pav"
+        }
+      ]
     },
     {
       "asset": "TRUMPIVANKA"

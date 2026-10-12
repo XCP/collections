@@ -10,7 +10,7 @@
 | Primary memberships | 73 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 40/73 (54.8%) |
+| Traits | Artist: 41/73 (56.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,9 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- BARNASSO: **pitoopi**, from the [original metadata](https://api.npoint.io/e0208a2894ebb9ca3312.json) attribution field ("@PitooPi").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.

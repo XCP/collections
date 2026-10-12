@@ -118,3 +118,15 @@ test("retains LOOKSRARE attribution without adding unrelated credits or members"
   ]);
   assert.ok(assets.slice(1).every(asset => !asset.attributes.some(trait => trait.trait_type === "Artist")));
 });
+
+test("retains reviewed PitooPi and mellow credits without inventing membership", async () => {
+  for (const [name, artist] of [["BLOCKVII","pitoopi"],["PEPESTATION","pitoopi"],["MINDBENDERS.METABALLS.001","mellow"],["MINDBENDERS.METABALLS.002","mellow"],["MINDBENDERS.METABALLS.003","mellow"],["MINDBENDERS.SPHERE.001","mellow"]]) {
+    const response = structuredClone(fixture);
+    response.items[0].assetName = name;
+    const assets = await load({ fetchJson: async () => response, cache: new Map() });
+    assert.equal(assets.length, fixture.items.length);
+    assert.equal(assets[0].asset, name);
+    assert.deepEqual(assets[0].attributes, [{ trait_type: "Kaleidoscope ID", value: 2380 }, { trait_type: "Artist", value: artist }]);
+    assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Artist")));
+  }
+});

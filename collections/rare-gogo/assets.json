@@ -52,7 +52,13 @@
       "asset": "GOATGOD"
     },
     {
-      "asset": "GOATLAVANDAL"
+      "asset": "GOATLAVANDAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "GOATMARKET",
@@ -106,7 +112,13 @@
       ]
     },
     {
-      "asset": "GOOOAT"
+      "asset": "GOOOAT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "RYR"
+        }
+      ]
     },
     {
       "asset": "HOODGOAT"

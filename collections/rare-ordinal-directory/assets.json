@@ -211,7 +211,13 @@
       ]
     },
     {
-      "asset": "FIRSTGM"
+      "asset": "FIRSTGM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "FUNDEDPEPE"
@@ -1171,7 +1177,13 @@
       "asset": "SIZEPEPE"
     },
     {
-      "asset": "SMARTORDINAL"
+      "asset": "SMARTORDINAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "SMOLSCRIBE",

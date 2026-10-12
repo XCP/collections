@@ -10,7 +10,7 @@
 | Primary memberships | 197 |
 | Secondary or curated memberships | 26 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 37/223 (16.6%) |
+| Traits | Artist: 38/223 (17.0%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -31,3 +31,9 @@ the change and how to verify it. If you cannot prepare a pull request,
 The on-chain description of CRITICART.Linker points to https://17art.io/inside/bibimg/linker.json. Its first-season catalog explicitly links 55 asset names, all resolved against xcpio-core. GAMESOFTRUMP, PEPEHEFNER and WORLDOFPEPE are included here as secondary memberships, preserving Rare Pepe as their primary home.
 
 The metadata asset field uses CRITICART.17ARTLINKER while its name field uses CRITICART.LINKER; this record is used as catalog evidence, not as an asset-alias assertion. Similarly named works not explicitly listed are not automatically included.
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- GAMESOFMUSK: **GabDevs**, from the [original metadata](https://uuauwswjbv5c5nfnviacm7eve5tgbfhij5ed56ygb4oq2pb4oulq.arweave.net/pQFLSskNei60raoAJnyVJ2ZglOhPSD77Bg8dDTw8dRc) attribution field ("GabDevs").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.

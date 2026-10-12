@@ -238,7 +238,13 @@
       "asset": "UNATISTHEWAY"
     },
     {
-      "asset": "UNATJESUS"
+      "asset": "UNATJESUS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "UNATLISA",
@@ -277,7 +283,13 @@
       "asset": "UNATTHRILLER"
     },
     {
-      "asset": "UNATTYDREAD"
+      "asset": "UNATTYDREAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arvik"
+        }
+      ]
     },
     {
       "asset": "UNATUBBIES"

@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "BARNASSO"
+      "asset": "BARNASSO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
     },
     {
       "asset": "BARNLISA",

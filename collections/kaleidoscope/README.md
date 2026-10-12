@@ -10,7 +10,7 @@
 | Primary memberships | 1,681 |
 | Secondary or curated memberships | 429 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 773/2,110 (36.6%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 779/2,110 (36.9%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -42,3 +42,14 @@ listings. If you cannot prepare a pull request,
 LOOKSRARE is credited to M0d3d3b0 from its [exact-asset original metadata](https://xcp.coindaddy.io/LOOKSRARE.json), whose published attribution field names M0d3D3b0. Its reviewed preview matches the described artwork. This is published attribution evidence, not cryptographic signature verification. Membership is unchanged.
 
 BITSAMURAI is credited to BTC Monk: the [artist auction listing](https://scarce.city/auctions/bitsamurai) explicitly identifies the associated BITSAMURAI token. Existing membership and other traits are retained.
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- BLOCKVII: **pitoopi**, from the [original metadata](https://api.npoint.io/10d18fc7d8c20189c557.json) attribution field ("@PitooPi").
+- PEPESTATION: **pitoopi**, from the [original metadata](https://api.npoint.io/f9119d99297d02bf1788.json) attribution field ("PitooPi").
+- MINDBENDERS.METABALLS.001: **mellow**, from the [original metadata](https://xcp.coindaddy.io/MINDBENDERS.METABALLS.001.json) attribution field ("mellow.").
+- MINDBENDERS.METABALLS.002: **mellow**, from the [original metadata](https://xcp.coindaddy.io/MINDBENDERS.METABALLS.002.json) attribution field ("mellow.").
+- MINDBENDERS.METABALLS.003: **mellow**, from the [original metadata](https://xcp.coindaddy.io/MINDBENDERS.METABALLS.003.json) attribution field ("mellow.").
+- MINDBENDERS.SPHERE.001: **mellow**, from the [original metadata](https://xcp.coindaddy.io/MINDBENDERS.SPHERE.001.json) attribution field ("mellow.").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
