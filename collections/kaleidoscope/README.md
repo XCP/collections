@@ -10,7 +10,7 @@
 | Primary memberships | 1,681 |
 | Secondary or curated memberships | 429 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 779/2,110 (36.9%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 780/2,110 (37.0%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -53,3 +53,10 @@ Reviewed individual artist credits from exact-asset original metadata:
 - MINDBENDERS.SPHERE.001: **mellow**, from the [original metadata](https://xcp.coindaddy.io/MINDBENDERS.SPHERE.001.json) attribution field ("mellow.").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- TRUMPED: **Waldemar**, from the [original metadata](https://arweave.net/6A5tJ7WXbf2jMcJd4FCYvO-uwOyaiPxT7TJUJCerNLs) attribution field ("WALLY").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+TRUMPED's WALLY label is associated with the same Wrbpt26 social handle already documented for Waldemar. The exact-asset metadata and matching established handle support this individual credit; this does not establish a general WALLY alias.

@@ -589,7 +589,13 @@
       "asset": "ORDINALCARD"
     },
     {
-      "asset": "ORDINALCASH"
+      "asset": "ORDINALCASH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DEFSTALKR"
+        }
+      ]
     },
     {
       "asset": "ORDINALCHECK",

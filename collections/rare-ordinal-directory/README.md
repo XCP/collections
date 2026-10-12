@@ -10,7 +10,7 @@
 | Primary memberships | 244 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 99/244 (40.6%) |
+| Traits | Artist: 100/244 (41.0%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -32,3 +32,10 @@ Reviewed individual artist credits from exact-asset original metadata:
 - SMARTORDINAL: **pitoopi**, from the [original metadata](https://api.npoint.io/15de4249ed9aa5f51e8f.json) attribution field ("@PitooPi").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+Reviewed individual artist credits from exact-asset original metadata:
+
+- ORDINALCASH: **DEFSTALKR**, from the [original metadata](https://arweave.net/RaXB5f8DUDpR86Efz6sBUybV4FTImmE1j-sSwiMeQ3o) attribution field ("DEFSTALKR was here").
+
+These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+ORDINALCASH's attribution is corroborated by its defstalkr.xyz link, matching DEFSTALKR's established artist website.
