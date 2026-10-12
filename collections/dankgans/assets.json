@@ -76,7 +76,13 @@
       "asset": "DGMKNY"
     },
     {
-      "asset": "DGMODERNDANK"
+      "asset": "DGMODERNDANK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNDANK"
+        }
+      ]
     },
     {
       "asset": "DGNAKAMOTO"
@@ -88,7 +94,13 @@
       "asset": "DGNFT"
     },
     {
-      "asset": "DGPIXELSALE"
+      "asset": "DGPIXELSALE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PIXELSALE"
+        }
+      ]
     },
     {
       "asset": "DGROCK"

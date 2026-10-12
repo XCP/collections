@@ -28,7 +28,13 @@
       "asset": "EASYASSET"
     },
     {
-      "asset": "RAREPEPEFLIP"
+      "asset": "RAREPEPEFLIP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "BEERS",
@@ -7431,6 +7437,10 @@
         {
           "trait_type": "Artist",
           "value": "JMarls"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FAKAMOTO"
         }
       ]
     },
@@ -13608,6 +13618,10 @@
         {
           "trait_type": "Artist",
           "value": "Wizard X"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPESOUP"
         }
       ]
     },
@@ -33045,7 +33059,13 @@
       "asset": "DANKLOFF"
     },
     {
-      "asset": "DANKLOOPS"
+      "asset": "DANKLOOPS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LOOPS"
+        }
+      ]
     },
     {
       "asset": "DANKLOVE"
@@ -33580,7 +33600,13 @@
       ]
     },
     {
-      "asset": "DJPEPEFLIP"
+      "asset": "DJPEPEFLIP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DJPEPE"
+        }
+      ]
     },
     {
       "asset": "DJTHEOG",
@@ -34297,7 +34323,13 @@
       "asset": "FAKEGRETA"
     },
     {
-      "asset": "FAKEHIRST"
+      "asset": "FAKEHIRST",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEHIRST"
+        }
+      ]
     },
     {
       "asset": "FAKEHOJOS",
