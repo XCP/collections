@@ -6,8 +6,8 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 26 assets |
-| Primary memberships | 26 |
+| Membership | 27 assets |
+| Primary memberships | 27 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
 | Traits | None |
@@ -47,3 +47,5 @@ Sources: https://api.xcp.io/v2/addresses/163BcvaXDHjgdivkDtkzXaF1uZzGcc6RU4/issu
 | HELLOTHERE | [Card](https://cdn.xcp.io/img/card/HELLOTHERE) |
 
 All listed assets previously had only Counterparty membership; that fallback relationship is removed. Sources and previews checked 2026-10-11.
+
+PEPECARTELL is included: it is a video whose frames show the SlickPepe BTC Edition layout ("Week 22", 1 of 10), which the still preview reviewed earlier did not reveal.
