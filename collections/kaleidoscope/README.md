@@ -10,7 +10,7 @@
 | Primary memberships | 1,662 |
 | Secondary or curated memberships | 448 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 34/2,110 (1.6%)<br>Artist: 767/2,110 (36.4%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 36/2,110 (1.7%)<br>Artist: 769/2,110 (36.4%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -64,3 +64,13 @@ TRUMPED's WALLY label is associated with the same Wrbpt26 social handle already 
 ## Reviewed artist chronology
 
 TRUMPED carries Art year 2023 from its March 2023 exact-work metadata attachment and subsequent supply lock; its 2022 reservation does not establish artwork use. TMDAUTOGRAPH carries 2021 from its artwork-bearing initial description, edition expansion and lock in October 2021. These reviewed traits survive API refreshes without adding membership. See the [complete artist date coverage report](../../docs/artist-date-coverage-2026-10-13.md).
+
+## JP Janssen (JPJA)
+
+Credit the existing JPJA and OLGA entries to **JP Janssen**, using his [first-person project history](https://jpjanssen.com/jpja-2014-book-nft-defi-pioneer/) and [OLGA FAQ](https://jpjanssen.com/faq-about-olga/). These are direct authorship statements, not attribution from a shared issuer. His [website](https://jpjanssen.com/), [GitHub](https://github.com/Jpja) and [social account](https://twitter.com/jp_janssen) are linked by his own site.
+
+JPJA receives Art year **2014**: its [valid June 28, 2014 description](https://api.xcp.io/v2/assets/JPJA/issuances?limit=100) explicitly links the token to eBook tips and JPJA.net, corroborating the author's book account. This dates the book project, not a later cover image or a claim of worldwide NFT priority.
+
+OLGA receives Art year **2015**, distinct from its 2014 token registration and original symbolic dedication. The artist identifies the image's August 11, 2015 on-chain encoding and publishes [reconstruction instructions](https://jpjanssen.com/how-to-extract-olgas-image-from-the-blockchain/) for transaction [627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74](https://blockstream.info/tx/627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74). Artwork recorded separately from the asset description still supports attribution. The site's book article has an inconsistent OLGA subsection date; the dedicated FAQ explicitly separates 2014 registration and 2015 image attachment.
+
+The artist's OG year is therefore supported by the 2014 book project. Membership refreshes retain both credits and dates; no new membership or derivative attribution is inferred.
