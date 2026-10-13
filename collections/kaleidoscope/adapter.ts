@@ -8,6 +8,8 @@ const CACHE_KEY = "kaleidoscope-search-v1";
 const REVIEWED_ARTISTS = new Map([
   ["JPJA", "JP Janssen"],
   ["OLGA", "JP Janssen"],
+  ["SALVATION", "JP Janssen"],
+  ["RETARDPEPE", "JP Janssen"],
   ["TRUMPED", "Waldemar"],
   ["BLOCKVII", "pitoopi"],
   ["PEPESTATION", "pitoopi"],
@@ -24,7 +26,7 @@ const REVIEWED_ARTISTS = new Map([
 ]);
 
 // Reviewed artwork activity years, not reservation years; see the artist chronology report.
-const REVIEWED_ART_YEARS = new Map([["TRUMPED", 2023], ["TMDAUTOGRAPH", 2021], ["JPJA", 2014], ["OLGA", 2015]]);
+const REVIEWED_ART_YEARS = new Map([["TRUMPED", 2023], ["TMDAUTOGRAPH", 2021], ["JPJA", 2014], ["OLGA", 2015], ["SALVATION", 2015], ["RETARDPEPE", 2017]]);
 
 // Kaleidoscope is intentionally inclusive. A more specific canonical set
 // keeps primary ownership; the resolver turns that appearance here secondary.
