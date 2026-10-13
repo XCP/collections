@@ -25,3 +25,7 @@ The explicit list contains 2 works. Existing Skife credits are retained. Parents
 This existing collection also describes variations of DANKNEMESIS. The redundant `danknemesis` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for DANKNEMESIS against its DANKNEMESIS.* subassets on side-by-side contact sheets. Included: DANKNEMESIS.I (text-pattern edit). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKNEMESIS.I](https://api.xcp.io/v2/assets/DANKNEMESIS.I/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

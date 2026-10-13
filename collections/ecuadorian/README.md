@@ -22,3 +22,7 @@ All 6 members share issuer 206595 in the reviewed chain data and retain their ex
 Counterparty memberships are removed. Kaleidoscope is an open gallery and its existing adapter automatically makes overlapping appearances secondary to these more specific families. No existing non-Counterparty membership is removed.
 
 The easyasset.art links did not provide usable JSON in the metadata audit. Those unavailable documents are not used as evidence. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ECUADORIAN.SERGIO.DANKAMOTO](https://api.xcp.io/v2/assets/ECUADORIAN.SERGIO.DANKAMOTO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

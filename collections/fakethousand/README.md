@@ -29,3 +29,7 @@ Remaining works are credited to Pepenardo, confirmed by the marketplace curator 
 This existing collection also describes variations of FAKETHOUSAND. The redundant `fakethousand-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for FAKETHOUSAND against its FAKETHOUSAND.* subassets on side-by-side contact sheets. Included: FAKETHOUSAND.ORIGINAL (photo of the physical original). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKETHOUSAND.ORIGINAL](https://api.xcp.io/v2/assets/A14503336202470137215/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

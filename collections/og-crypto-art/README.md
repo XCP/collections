@@ -18,3 +18,7 @@
 Illustrated parent and GREEN subasset depict the same crypto-art tribute painting in distinct color treatments. Parent exact JSON names Tasha: https://xcp.coindaddy.io/OGCRYPTOART.json .
 
 Exact xcpio-core identifiers, current memberships, JSON where available, and all member CDN previews were reviewed on 2026-10-10. Existing directory primary homes and artist credits are preserved. Counterparty fallback memberships are removed. Full process-video and animation playback has not been audited.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [OGCRYPTOART.GREEN](https://api.xcp.io/v2/assets/A16336843173782926888/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

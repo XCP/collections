@@ -25,3 +25,7 @@ Reviewed 2026-10-11 against complete xcpio-core namespaces, issuer-linked metada
 - [YELLPEPE.YELLPEPE](https://api.xcp.io/v2/assets/A5635949041873792402) — [media](https://cdn.xcp.io/img/full/A5635949041873792402)
 
 [Exact Nashville creator metadata](https://ardrive.net/QkJHiCWj3aLTQvJk-fMqZrg9Jjo0BlM_jHfKX4JoEy4/YELLPEPE.BTCNASHVILLE2024.json).
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [YELLPEPE.YELLPEPE](https://api.xcp.io/v2/assets/A5635949041873792402/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

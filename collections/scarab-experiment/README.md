@@ -24,3 +24,7 @@ Only SCARAB is matched to an existing registry asset. The catalogue entry with r
 ## Kevin Ferreira attribution
 
 Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.
+
+## Project year
+
+**2015** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [SCARAB](https://api.xcp.io/v2/assets/SCARAB/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

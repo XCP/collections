@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core namespaces, chain-linked metadata, and image CDN/artist-hosted previews. Exact parent namespace and paired illustrated Akira works; parent retains Fake Rares primary despite a different current issuer address.
 
 Established official primary homes and individual artist credits are preserved. Counterparty is removed wherever these specific memberships apply. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEAKIRA.WATCHTHETHRONE](https://api.xcp.io/v2/assets/A1611878718082720022/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

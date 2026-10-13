@@ -20,3 +20,7 @@ Reviewed all 47 assets from issuer 127189 using xcpio-core and CDN contact sheet
 The originals retain Fake Rares as their primary home. The two variants move from Counterparty into this collection without implying Fake Rares acceptance. Existing artist credits are preserved. Other same-issuer works and subassets without this collection label are excluded; the HODLPIG namespace asset currently has only a placeholder image. Full animation sequences remain unreviewed.
 
 PHILWILSON exact asset JSON independently identifies Mr. HODLPIG and links the artist social: https://arweave.net/0Du2y3FZlWQrWkHBUs_tO4dbnJNmfPNtV1L0pskgtl4 . Historical claims in its description are not endorsed by this membership record.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [HODLHALPEPE.FAKATOMATA](https://api.xcp.io/v2/assets/HODLHALPEPE.FAKATOMATA/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

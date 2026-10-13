@@ -2,5 +2,6 @@
   "name": "Dogter",
   "kind": "canonical",
   "description": "A three-part numbered Dogter meme sequence.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2019
 }

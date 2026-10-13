@@ -27,3 +27,7 @@ Existing directory primary homes and artist credits are preserved. Counterparty 
 This existing collection also describes variations of CORNMIO. The redundant `cornmio-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for CORNMIO against its CORNMIO.* subassets on side-by-side contact sheets. Included: CORNMIO.OMICRON (overpainted edit). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2021** — The 2021 edition and lock explicitly describe the OMICRON variation, matching the reviewed virus overlay on the Cornmio card. Anchor: [CORNMIO.OMICRON](https://api.xcp.io/v2/assets/A15303770230608763917/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

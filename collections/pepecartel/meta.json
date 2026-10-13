@@ -2,5 +2,6 @@
   "name": "PepeCartel",
   "kind": "canonical",
   "description": "The three artwork tokens explicitly categorized as PepeCartel in the project’s catalog, separate from its Frogs and Rares groups.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

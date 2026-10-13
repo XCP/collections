@@ -2,5 +2,6 @@
   "name": "TILES",
   "kind": "canonical",
   "description": "The TILES overview token and ten numbered abstract animated tiles.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2022
 }

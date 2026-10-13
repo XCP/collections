@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 21 issuer previews plus the separately resolved SAINTPEPE parent preview. Full namespace audit identifies PEPELON and FAKEYE beneath PEPELAVANDAL. Coindaddy metadata corroborates parent and PEPELON identities. Parent retains Fake Rares primary; children leave Counterparty. The separately issued PEPELEVANDAL namespace is not silently merged with this spelling. Both individual artist credits are preserved.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Five Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and printed numbered titles. Complete audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPELAVANDAL.PEPELON](https://api.xcp.io/v2/assets/PEPELAVANDAL.PEPELON/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

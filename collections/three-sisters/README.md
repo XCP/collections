@@ -23,3 +23,7 @@ The six children are ONE, TWO, THREE, LEFT, CENTER and RIGHT. The easyasset meta
 This existing collection also describes variations of THREESISTERS. The redundant `threesisters` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for THREESISTERS against its THREESISTERS.* subassets on side-by-side contact sheets. Included: THREESISTERS.LEFT, THREESISTERS.RIGHT, THREESISTERS.CENTER, THREESISTERS.THREE, THREESISTERS.TWO, THREESISTERS.ONE (individual panels of the triptych, framed and unframed). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [THREESISTERS.LEFT](https://api.xcp.io/v2/assets/A2074123517892085235/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

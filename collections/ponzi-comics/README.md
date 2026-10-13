@@ -31,3 +31,7 @@ Each included cover visibly prints the PONZI COMICS label. The reviewed covers c
 - NOMOARPUNKS: [artwork](https://cdn.xcp.io/img/full/NOMOARPUNKS)
 
 Remaining works are credited to Viva La Vandal, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [GMLFG](https://api.xcp.io/v2/assets/GMLFG/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

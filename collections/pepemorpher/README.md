@@ -19,3 +19,7 @@ The illustrated parent retains Fake Rares as primary and appears here secondaril
 
 - [PEPEMORPHER](https://api.xcp.io/v2/assets/PEPEMORPHER) — [animation](https://cdn.xcp.io/img/full/PEPEMORPHER)
 - [PEPEMORPHER.ONEHEAVEN](https://api.xcp.io/v2/assets/A1053201754087655559) — [artwork](https://cdn.xcp.io/img/full/A1053201754087655559)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEMORPHER.ONEHEAVEN](https://api.xcp.io/v2/assets/A1053201754087655559/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

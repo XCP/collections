@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The complete parent and 12-child PHOCKBANGERS namespace is already in Phockheads. Four standalone names CLOWNBANGERS, KREGBANGERS, MIKBANGERS and THREEBANGERS share exact image URLs with their correspondingly named subassets, from the same issuer. Group those artworks without merging token identities or asserting standalone versions were accepted into Phockheads. Existing Phockheads primary placements stay intact.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PHOCKBANGERS.MIKBANGERS](https://api.xcp.io/v2/assets/PHOCKBANGERS.MIKBANGERS/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

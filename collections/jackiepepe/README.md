@@ -21,3 +21,7 @@ This companion family records exact parent/subasset relationships. It does not a
 
 - [JACKIEPEPE](https://api.xcp.io/v2/assets/JACKIEPEPE) — [artwork](https://cdn.xcp.io/img/full/JACKIEPEPE)
 - [JACKIEPEPE.DOCTORK](https://api.xcp.io/v2/assets/A16410670058194856146) — [artwork](https://cdn.xcp.io/img/full/A16410670058194856146)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [JACKIEPEPE.DOCTORK](https://api.xcp.io/v2/assets/A16410670058194856146/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

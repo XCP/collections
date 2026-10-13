@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core issuance descriptions and all 49 assets from issuer 163r5G4EvnzQpp9pR77qhKaNV9jXbLWHeQ. The three titled cards explicitly read Pepe 2 Dope, Coco 2 Dope and Wojak 2 Dope, sharing the same illustrated character composition. DOPEVHS explicitly reads Pepe 2 Dope and A ZeroG Production. PHYSICAL01 is the exact PEPETWODOPE subasset and shows a collage of these characters. Surviving https://thewojakway.com/j/WOJAKTWODOPE.json names ZeroG and describes Wojak 2 Dope. Card images were compared through https://cdn.xcp.io/img/card/ using each exact asset name.
 
 Existing Fake Rares, Rare Coco and The Wojak Way homes remain primary. Those works join this family as secondary; the Counterparty children receive the specific family as primary and leave the catch-all. Existing ZeroG credits are preserved; no new credit or official acceptance is inferred from shared issuer or card styling. XCPMAG and other standalone movie posters are excluded without explicit family evidence. Reserved names with placeholder images are excluded. Full animation review remains open.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [COCOTWODOPE](https://api.xcp.io/v2/assets/COCOTWODOPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

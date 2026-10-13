@@ -29,3 +29,7 @@ The underlying Rare Pepe cards reproduced inside the book are not all admitted t
 - [RARESTSETS.scarcecitynyc2023](https://api.xcp.io/v2/assets/A11771786914431954344) — [artwork](https://cdn.xcp.io/img/full/A11771786914431954344)
 - [RARESTSETS.AUCTIONWINNER](https://api.xcp.io/v2/assets/A6708154386273614650) — [artwork](https://cdn.xcp.io/img/full/A6708154386273614650)
 - [RARITYHOLDER](https://api.xcp.io/v2/assets/RARITYHOLDER) — [artwork](https://cdn.xcp.io/img/full/RARITYHOLDER)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RARESTSETS.AUCTIONWINNER](https://api.xcp.io/v2/assets/A6708154386273614650/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

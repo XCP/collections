@@ -18,3 +18,7 @@ The PEPERTOY parent and all 20 current onchain subassets form the Pepertoy paper
 The parent keeps Fake Rares primary and 18 accepted subassets keep Fake Commons primary. HISTORY and TRUMP become primary here and leave Counterparty. This does not infer Fake Commons acceptance for either. Existing individual artist credits are preserved, including contributors other than Nimzobit. TRUMP receives a Nimzobit credit from its explicit Artist label; HISTORY remains uncredited because a family relationship alone does not prove authorship.
 
 Sources: https://api.xcp.io/v2/assets/PEPERTOY/subassets ; https://cdn.xcp.io/img/card/PEPERTOY ; https://cdn.xcp.io/img/card/PEPERTOY.HISTORY ; https://cdn.xcp.io/img/card/PEPERTOY.TRUMP . All 21 CDN images reviewed. Subasset inventory checked 2026-10-11.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPERTOY.PURPLEPEPE](https://api.xcp.io/v2/assets/PEPERTOY.PURPLEPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

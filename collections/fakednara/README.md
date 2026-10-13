@@ -19,3 +19,7 @@ Reviewed 2026-10-11. Existing specific primary collections and artist credits ar
 
 - [FAKEDNARA](https://api.xcp.io/v2/assets/FAKEDNARA) — [media](https://cdn.xcp.io/img/full/FAKEDNARA)
 - [FAKEDNARA.TRIBUTE](https://api.xcp.io/v2/assets/A17744548636443972568) — [media](https://cdn.xcp.io/img/full/A17744548636443972568)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEDNARA.TRIBUTE](https://api.xcp.io/v2/assets/FAKEDNARA.TRIBUTE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

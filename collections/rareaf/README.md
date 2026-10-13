@@ -20,3 +20,7 @@ Explicit parent/subasset namespace and CDN artwork connect the parent, marketexp
 Sources: https://api.xcp.io/v2/assets/RAREAF , https://api.xcp.io/v2/assets/RAREAF.marketexplainer , https://api.xcp.io/v2/assets/RAREAF.TER-PARTY . Original JSON URLs and issuance histories are recorded on those assets.
 
 Remaining works are credited to BuddhaAF, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RAREAF.marketexplainer](https://api.xcp.io/v2/assets/RAREAF.marketexplainer/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

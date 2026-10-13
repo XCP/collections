@@ -38,3 +38,7 @@ WINKELPEPE failed to render through the CDN at review time; its exact-asset JSON
 - `PEPEFRENZ.FLOONEY.SASHA`: https://arweave.net/r_RlHnIFeXjqkiLlT3H4pNsAolJAv7Ji-uOA7E3Vho4
 - `PEPEFRENZ.DANDARK.PEPEBOY`: https://arweave.net/yG0D672T_jJ8oeLDv14Dp7_-DG8YEoawnAs2k-a9wAU
 - `PEPEFRENZ.SECURITY.WINKEL.DANDARK.BARRY`: https://arweave.net/lEfJTKT59JPbpjM8dxR_2KsZyFMbcV5TH85PW5QbnMk
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEFRENZ.FIRSTFROG](https://api.xcp.io/v2/assets/A2478338213852360584/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 12 issuer registrations and their available artwork previews. Issuer-linked TAIKONIPEPE Coindaddy JSON explicitly names HANAFUDAPEPE. Six positive-supply cards share the black-bordered playing-card treatment and Japanese plant, moon, bird and figure motifs in the issuer preview. This is an editorial grouping supported by the explicit metadata title and the matching card designs; it does not assert all cards were accepted by Rare Pepe. Five existing Rare Pepe primary memberships remain; TAIKONIPEPE leaves Counterparty. INONAKAPEPE has different presentation and is excluded. YANAGIPEPE has no available artwork and is not confused with YANAGINIPEPE. Existing NoraMyao credits are preserved.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Three Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links original issuer-linked metadata and matching card designs. Complete audiovisual review remains open.
+
+## Project year
+
+**2017** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [MATSUNIPEPE](https://api.xcp.io/v2/assets/MATSUNIPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

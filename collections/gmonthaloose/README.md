@@ -21,3 +21,7 @@ Membership is an explicit reviewed list of the illustrated parent and its exact-
 
 - GMONTHALOOSE: [artwork](https://cdn.xcp.io/img/full/GMONTHALOOSE)
 - GMONTHALOOSE.GNONTHALOOSE: [artwork](https://cdn.xcp.io/img/full/GMONTHALOOSE.GNONTHALOOSE)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [GMONTHALOOSE.GNONTHALOOSE](https://api.xcp.io/v2/assets/A18135917151626816938/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

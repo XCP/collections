@@ -27,3 +27,7 @@ Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named ass
 - [PEPELEMPICKA.DOCTOR](https://api.xcp.io/v2/assets/A11221036684341154554) — [portfolio image](https://vizique.com/wp-content/uploads/2022/04/PEPELEMPICKA-DOCTOR.png) — [dispenser transaction](https://xchain.io/tx/2a3d1cce97fc3db55a2aacf08dcee69d2aa78aea68168f608b068b3dcb7bb54c)
 - [PEPELEMPICKA.CALMENERGY](https://api.xcp.io/v2/assets/A1897049744773745530) — [portfolio image](https://vizique.com/wp-content/uploads/2022/04/PEPELEMPICKA.-Bott.png) — [dispenser transaction](https://xchain.io/tx/8731fc35aa51a6849f9a3a96d62df3d2ecf48e08774d3304ac475c44290d137e)
 - [PEPELEMPICKA.WATCHING](https://api.xcp.io/v2/assets/A8231156948532182778) — [portfolio image](https://vizique.com/wp-content/uploads/2022/04/PEPELEMPICKA.WATCHING.png) — [dispenser transaction](https://xchain.io/tx/917ae9f8ba4dc6e6503beae3541ffb718f81df12f63e5150f46e22e3a743a888)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKLEMPICKA](https://api.xcp.io/v2/assets/DANKLEMPICKA/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

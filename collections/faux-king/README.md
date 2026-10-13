@@ -21,3 +21,7 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/FAUXKING/subasse
 - FAUXKING.KINGSSWORD: [asset record](https://api.xcp.io/v2/assets/FAUXKING.KINGSSWORD) · [artwork](https://cdn.xcp.io/img/card/FAUXKING.KINGSSWORD)
 - FAUXKING.KINGSFIRE: [asset record](https://api.xcp.io/v2/assets/FAUXKING.KINGSFIRE) · [artwork](https://cdn.xcp.io/img/card/FAUXKING.KINGSFIRE)
 - FAUXKING.KINGSCROWN: [asset record](https://api.xcp.io/v2/assets/FAUXKING.KINGSCROWN) · [artwork](https://cdn.xcp.io/img/card/FAUXKING.KINGSCROWN)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAUXKING.KINGSSWORD](https://api.xcp.io/v2/assets/A17367353585182086692/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -22,3 +22,7 @@ Both issuing-address inventories are complete and together contain exactly these
 - [Series B, PEPESWABB](https://cdn.xcp.io/img/card/PEPESWABB)
 - [Series A issuer inventory](https://api.xcp.io/v2/addresses/1JHJwaVo8MBL1YYg7TncQSFwLE3wVUy6mh/issued?limit=100)
 - [Series B issuer inventory](https://api.xcp.io/v2/addresses/1Nx1EDxjmFqokMNj62P5eyrSdRd3GFvijr/issued?limit=100)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPESWABB](https://api.xcp.io/v2/assets/PEPESWABB/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

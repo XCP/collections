@@ -2,5 +2,6 @@
   "name": "PEPEVEST",
   "kind": "canonical",
   "description": "PepeVest and its PepePants subasset artwork.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2024
 }

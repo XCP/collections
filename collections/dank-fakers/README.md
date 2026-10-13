@@ -26,3 +26,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 - [PEAKYBROONE](https://api.xcp.io/v2/assets/PEAKYBROONE) — [artwork](https://cdn.xcp.io/img/full/PEAKYBROONE)
 - [PEAKYBROTWO](https://api.xcp.io/v2/assets/PEAKYBROTWO) — [artwork](https://cdn.xcp.io/img/full/PEAKYBROTWO)
 - [PEAKYBROTHRE](https://api.xcp.io/v2/assets/PEAKYBROTHRE) — [artwork](https://cdn.xcp.io/img/full/PEAKYBROTHRE)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKFAKER](https://api.xcp.io/v2/assets/DANKFAKER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

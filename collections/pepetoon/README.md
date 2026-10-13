@@ -20,3 +20,7 @@ Canonical parent and ROPE child depict the same platform-game Pepe character in 
 Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and credits, reachable metadata and all member CDN previews. The complete issuer contact-sheet inventories covered 21 assets from issuer 151093. Membership rests on the parent/subasset relation and reviewed artwork, not issuer alone.
 
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPETOON.ROPE](https://api.xcp.io/v2/assets/PEPETOON.ROPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

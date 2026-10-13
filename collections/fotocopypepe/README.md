@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [FOTOCOPYPEPE](https://api.xcp.io/v2/assets/FOTOCOPYPEPE) — [artwork](https://cdn.xcp.io/img/full/FOTOCOPYPEPE)
 - [FOTOCOPYPEPE.THEMONKEY](https://api.xcp.io/v2/assets/A9322630272762426521) — [artwork](https://cdn.xcp.io/img/full/A9322630272762426521)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FOTOCOPYPEPE.THEMONKEY](https://api.xcp.io/v2/assets/A9322630272762426521/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

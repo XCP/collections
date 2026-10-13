@@ -2,5 +2,6 @@
   "name": "Bobbleheadz",
   "kind": "canonical",
   "description": "Illustrated bobblehead-style portraits from the BOBBLEHEADZ namespace.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2024
 }

@@ -23,3 +23,7 @@ Membership is a reviewed parent-and-subasset artwork family, checked against the
 This existing collection also describes variations of BACKOFAPE. The redundant `backofape` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for BACKOFAPE against its BACKOFAPE.* subassets on side-by-side contact sheets. Included: BACKOFAPE.7990 (duplicate edition). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BACKOFAPE.7990](https://api.xcp.io/v2/assets/A16648223930755124840/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

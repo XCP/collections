@@ -25,3 +25,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 - [THEOS.UPDATEBYCEO](https://api.xcp.io/v2/assets/A6124996595861290048) — [media](https://cdn.xcp.io/img/full/A6124996595861290048)
 
 Remaining works are credited to Theo Goodman, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [THEOS.AUCTION](https://api.xcp.io/v2/assets/A12139512044084616888/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

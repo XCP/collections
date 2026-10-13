@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, issuing addresses and parent/subasset relationships, and direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. Three bear-themed collage cards share the exact namespace, issuing address and layered editorial design. The previously untracked poachers child shows the same bear-information card framing and is credited to exdank on that combined evidence.
 
 The explicit list includes 3 artworks. Existing Dank Rares primary memberships and artist credits are retained; these works appear here secondarily. No acceptance of other family members into those directories is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BEARFACTS.misprint](https://api.xcp.io/v2/assets/A16651389080398554313/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

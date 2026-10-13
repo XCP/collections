@@ -28,3 +28,7 @@ Membership is an explicit reviewed list. Future related assets need review; no b
 - [A4632881004432185000](https://api.xcp.io/v2/assets/A4632881004432185000) — [artwork](https://cdn.xcp.io/img/full/A4632881004432185000)
 - [DARUMAAPR](https://api.xcp.io/v2/assets/DARUMAAPR) — [artwork](https://cdn.xcp.io/img/full/DARUMAAPR)
 - [HIKKOSHIDRM](https://api.xcp.io/v2/assets/HIKKOSHIDRM) — [artwork](https://cdn.xcp.io/img/full/HIKKOSHIDRM)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A4533439822237200000](https://api.xcp.io/v2/assets/A4533439822237200000/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

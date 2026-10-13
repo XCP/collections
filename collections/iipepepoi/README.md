@@ -16,3 +16,7 @@
 ## Membership evidence
 
 Reviewed 2026-10-13 by comparing CDN card art for IIPEPEPOI against its IIPEPEPOI.* subassets on side-by-side contact sheets. Included: IIPEPEPOI.2, IIPEPEPOI.3, IIPEPEPOI.4 (numbered editions). Subassets showing distinct works are left out. All members keep their primary home in the pepe-poi collection and appear here as secondary members. Existing traits are preserved.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [IIPEPEPOI.2](https://api.xcp.io/v2/assets/A14130940833335378306/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

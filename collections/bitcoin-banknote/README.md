@@ -20,3 +20,7 @@ Membership follows the [on-chain namespace](https://api.xcp.io/v2/assets/BTCBANK
 SUBASTA links to the parent metadata URL, so no child-specific metadata or artist credit is inferred from that document. Existing artist traits are retained; no additional creator credits are assigned solely from namespace or issuer. Future children require review.
 
 Remaining works are credited to Gus Grillasca, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2019** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCBANKNOTE.SUBASTA](https://api.xcp.io/v2/assets/A18262355292618926002/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

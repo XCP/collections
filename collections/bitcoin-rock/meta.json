@@ -2,5 +2,6 @@
   "name": "Bitcoin Rock",
   "kind": "canonical",
   "description": "Bitcoin Rock artwork collection.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

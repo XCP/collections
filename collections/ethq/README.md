@@ -21,3 +21,7 @@ The explicit reviewed membership list follows the exact ETHQ namespace. The pare
 
 - ETHQ: [artwork](https://cdn.xcp.io/img/full/ETHQ)
 - ETHQ.PINKSHEET: [artwork](https://cdn.xcp.io/img/full/ETHQ.PINKSHEET)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ETHQ.PINKSHEET](https://api.xcp.io/v2/assets/A2395287304852310773/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

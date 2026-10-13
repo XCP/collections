@@ -20,3 +20,7 @@ The [registered namespace](https://api.xcp.io/v2/assets/TIMELINEXCP/subassets?li
 All registered children are included. Credits rely on individual exact chain-linked JSON signatures. Some Davesta JSON uppercases registered subasset names; references were resolved only where exactly one case-insensitive registered match exists, and registry identifiers retain their actual case. Existing collaborations remain separate artist credits.
 
 The parent’s metadata explicitly distinguishes research/infographic by Davesta from token art/calligraphy by Le Hues. Its four physical-edition subassets are individually signed Davesta. The linked project repository supplies the timeline’s source data and bibliography.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TIMELINEXCP.CanvasPrint.V1](https://api.xcp.io/v2/assets/A15706099471573059549/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

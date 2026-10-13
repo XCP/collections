@@ -21,3 +21,7 @@ Membership is an explicit reviewed list of the illustrated parent and its exact-
 
 - DIRECTORYONE: [artwork](https://cdn.xcp.io/img/full/DIRECTORYONE)
 - DIRECTORYONE.HOLO: [artwork](https://cdn.xcp.io/img/full/DIRECTORYONE.HOLO)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DIRECTORYONE.HOLO](https://api.xcp.io/v2/assets/A730622152231234515/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

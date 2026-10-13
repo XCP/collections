@@ -18,3 +18,7 @@
 Reviewed 2026-10-09 against xcpio-core and every card's image on the image CDN. These five artworks visibly share the Smoljak title and a numbered sequence: SMOLJAK (1, going out for a walk), SMOJAKBATH (2, bath time), SMOLJAKLOVE (3, Smol fren), SMOLJAKEAT (4, breakfast), and SMOLJAKTV (5, television). The exact on-chain spelling of SMOJAKBATH is retained. All five share an issuing address and existing KINKINETIC credits. The explicit list is limited to this evidenced sequence; other Wojak art from the issuer is not automatically included.
 
 Images can be checked at https://cdn.xcp.io/img/card/ followed by each exact asset name. Source JSON URLs are on easyasset.art but yielded empty responses during the audit, so no claims are derived from their contents. No verified project homepage was found. Existing artist credits are retained, and these assets are removed from the Counterparty fallback. This grouping does not assert acceptance into The Wojak Way or another directory.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SMOLJAK](https://api.xcp.io/v2/assets/SMOLJAK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

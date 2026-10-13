@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [SMALLBRAIN](https://api.xcp.io/v2/assets/SMALLBRAIN) — [artwork](https://cdn.xcp.io/img/full/SMALLBRAIN)
 - [SMALLBRAIN.MONEY](https://api.xcp.io/v2/assets/A15172024252799496127) — [artwork](https://cdn.xcp.io/img/full/A15172024252799496127)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SMALLBRAIN.MONEY](https://api.xcp.io/v2/assets/A15172024252799496127/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

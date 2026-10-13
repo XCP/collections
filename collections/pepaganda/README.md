@@ -24,3 +24,7 @@ Evidence:
 - [Asset namespace](https://tokenscan.io/asset/PEPAGANDA)
 - [Reviewed artwork: PEPAGANDA.11](https://cdn.xcp.io/img/full/PEPAGANDA.11)
 - [Reviewed artwork: PEPAGANDA.14](https://cdn.xcp.io/img/full/PEPAGANDA.14)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPAGANDA.01](https://api.xcp.io/v2/assets/A4133668338979133444/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

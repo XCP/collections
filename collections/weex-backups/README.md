@@ -22,3 +22,7 @@ All registered children are included. Credits rely on individual exact chain-lin
 ## Originals versus backups
 
 The parent metadata explicitly calls these backups and lists the original fifteen tokens. The artist’s [2015 announcement](https://bitcointalk.org/index.php?topic=954740) lists fourteen exact numeric originals and their reference hashes; the linked [KETF announcement](https://www.reddit.com/r/Bitcoin/comments/2x09wb/steal_this_art_crack_its_key/) accounts for the fifteenth. All sixteen backup metadata records identify Weex. This collection is not dated 2015 and does not claim that a backup conveys the original physical work. The original token series is a separate follow-up.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WEEX.A10757775179751730000](https://api.xcp.io/v2/assets/A8872092161811741064/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

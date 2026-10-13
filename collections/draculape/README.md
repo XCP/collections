@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 39 issuer previews across Mortree and ZeppikEarth. The named Dracula ape variants share the same cape, head, expression and animated card composition, from one issuer with distinct positive, locked supplies. DRACULAPE keeps Fake Ape Club primary; DROOLACULA leaves Counterparty for this artwork family. This does not assert Drooling Ape Bus Club acceptance.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Three Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Original animation frames were additionally inspected for Good Bit Morning; complete audiovisual review of other works remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DRACULAPE](https://api.xcp.io/v2/assets/DRACULAPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

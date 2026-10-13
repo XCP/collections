@@ -22,3 +22,7 @@ Existing directory primary homes and artist credits are preserved; companion mem
 ## Artwork-year review
 
 The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BOOUUSEGG.WONDERFUL](https://api.xcp.io/v2/assets/A17102909075463187960/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

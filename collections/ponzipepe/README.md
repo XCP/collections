@@ -23,3 +23,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 - [PONZIPEPE.LSD](https://api.xcp.io/v2/assets/A652554375397580869) — [media](https://cdn.xcp.io/img/full/A652554375397580869)
 
 Remaining works are credited to Theo Goodman, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PONZIPEPE.lend](https://api.xcp.io/v2/assets/A17632272148061337690/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

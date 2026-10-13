@@ -51,3 +51,7 @@ All listed assets previously had only Counterparty membership; that fallback rel
 The rainbow-border trading cards (Pepe Verse, Pepe Nakamoto, Pepe Gump, Pepe van Dough, Sweaty Charles, Pepe Anus) are included: they come from the same issuing address and use the BTC Edition's card template (title bar, stat line ending in a Perk, quote, star rating), as HBKPEPE shows, without its logo. The four graded-slab sports parodies (Pepe Ruth, Pepe Mantle, Pepe Brady, Pepe Wagner) are included as the same issuer's third series. Reviewed 2026-10-13.
 
 PEPECARTELL is included: it is a video whose frames show the SlickPepe BTC Edition layout ("Week 22", 1 of 10), which the still preview reviewed earlier did not reveal.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A674613990700798600](https://api.xcp.io/v2/assets/A674613990700798600/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

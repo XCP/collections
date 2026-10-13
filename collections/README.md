@@ -135,7 +135,7 @@ if you cannot prepare the change yourself.
 
 ## Evidence for project and artwork dates
 
-`founded` dates the project, not its oldest registered asset. `Art year` dates the work, not the artist’s career or the token name. Leave either unknown when the evidence cannot establish it.
+`founded` dates the project, not its oldest registered asset. `Art year` dates the work, not the artist’s career or the token name. Every collection must have a supported project year or a reviewed first-use estimate, with evidence and uncertainty recorded in its README. Artists should have at least one individually dated work supporting their displayed year. Reasonable edition/context estimates are welcome; inventing a date to fill a field is not. Resolve weak cases through catalogue, artwork and edition evidence before submitting them.
 
 Review the complete valid issuance history, using the numeric asset identity for subassets. Separate registration, positive supply issuance, ownership transfer, supply locking and description changes. Adding a matching image or exact-asset JSON is a strong signal, particularly alongside a coordinated collection launch, but a later URL may merely replace a host or document artwork that already existed. The current contents of a mutable old URL do not prove those contents existed when the URL was first recorded.
 

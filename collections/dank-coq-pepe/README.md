@@ -20,3 +20,7 @@ The FREE child depicts the same crowned leafy rooster/Pepe character in a differ
 Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and credits, reachable metadata and all member CDN previews. The complete issuer contact-sheet inventories covered 55 entries from issuer 245176 and 32 entries from issuer 265163. Membership rests on the parent/subasset relation and reviewed artwork, not issuer alone.
 
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKCOQPEPE.FREE](https://api.xcp.io/v2/assets/DANKCOQPEPE.FREE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

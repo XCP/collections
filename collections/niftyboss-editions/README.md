@@ -46,3 +46,7 @@ Other holdings and creations at the address, including stamps, launchpad tokens,
 - [BOSSCARD](https://gateway.pinata.cloud/ipfs/bafkreicr6rjebcfogvser6dkyuqdm6mkg4z5vkf3e7j724vlukaqhsgpfq)
 - [TRUMPINATOR](https://ijot2g2nhrjfcbipnghlh2b7ugt7w76cu6fkm66yb5yj5tw64epq.arweave.net/Ql09G008UlEFD2mOs-g_oaf7f8KniqZ72A9wns7e4R8)
 - [NOSOUPPEPE](https://smjvvnn6grlokvs3e2wihg33gljsl3v7i2bxzn5hvqomnmzjafca.arweave.net/kxNatb40VuVWWyasg5t7MtMl7r9Gg3y3p6wcxrMpAUQ)
+
+## Project year
+
+**2025** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [A2026000000000002026](https://api.xcp.io/v2/assets/A2026000000000002026/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

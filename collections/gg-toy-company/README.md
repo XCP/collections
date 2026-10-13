@@ -28,3 +28,7 @@ The metadata's historical website, ggtoycompany.lol, now redirects to an unrelat
 - [PEPEAMI exact metadata](https://arweave.net/6VzexVYCCg2UwJ0bMh8aS_-xGu248LXdq4zNejCye-Q)
 - [TRUMPSFINGER exact metadata](https://arweave.net/jJY7T21tp3Tr-HciQRd7xLLnl8aVgcMLfazzDglCxZk)
 - [Issuer inventory](https://api.xcp.io/v2/addresses/1PEx277gcsxT2ac57jJdE7ag9NZAEjW6Xd/issued?limit=100)
+
+## Project year
+
+**2023** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [BYGONETNT](https://api.xcp.io/v2/assets/BYGONETNT/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

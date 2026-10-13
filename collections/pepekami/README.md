@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 11 issuer registrations and their available artwork previews. PEPEKAMIPSCL preview depicts the same multicolored flower Pepe and signed Certificate of Authenticity naming PEPEKAMI. Same issuer and existing artist credits corroborate the relationship. Do not infer current redemption rights. PEPEKAMI retains Fake Rares primary membership.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Four Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links original issuer-linked metadata and matching card designs. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEKAMI](https://api.xcp.io/v2/assets/PEPEKAMI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

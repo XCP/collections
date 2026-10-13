@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core exact subasset namespaces and all 121 assets from the two related issuing addresses. The complete namespace contains the parent and the children listed here. All three share the Homer/Pepe party-hat composition; La Faka adds an ownership overlay, while Purple changes the palette. Artwork was inspected through https://cdn.xcp.io/img/card/ using each exact asset longname.
 
 Existing Fake Rares primary membership is preserved for the parent, which joins this artwork family as secondary. The children receive this primary home and leave Counterparty. Existing artist credits are preserved; shared issuers do not create new artist credits. This family does not imply Fake Rares acceptance for any child. Full animation review remains open.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PHONEYSIMPSO.LAFAKA](https://api.xcp.io/v2/assets/PHONEYSIMPSO.LAFAKA/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

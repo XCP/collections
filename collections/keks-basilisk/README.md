@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all five issuer previews. Complete namespace audit confirms two positive-supply children, visually numbered I and II on their cards. Parent remains Rare Pepe primary and appears here secondarily; both children leave Counterparty. Existing Katie Charm artist credits are preserved. PEPEAMCANI and PEPEULARITY are not namespace members and are not included.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Two Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and printed numbered titles. Complete audiovisual review remains open.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KEKSBASILISK.THEWHITEHORSE](https://api.xcp.io/v2/assets/KEKSBASILISK.THEWHITEHORSE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

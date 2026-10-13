@@ -16,3 +16,7 @@
 ## Membership evidence
 
 Reviewed 2026-10-13 by comparing CDN card art for SWANCHEKMATE against its  subassets on side-by-side contact sheets. Included: SWANCHEKMATE.ALPHA (edited version). Subassets showing distinct works are left out. The parent stays primary in its existing collection; the variation moves here from the Counterparty fallback collection. Existing traits are preserved.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SWANCHEKMATE.ALPHA](https://api.xcp.io/v2/assets/SWANCHEKMATE.ALPHA/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

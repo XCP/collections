@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 10 issuer registrations and their available artwork previews. The artist catalogue at https://swallja.art/ explicitly labels City Planner ver. LETSGETSMOL and links https://tokenscan.io/asset/SWALLJA.LETSGETSMOL. It separately labels COCOPLANNER as City planner (ver. COCOPLANNER) and identifies its Rare Coco membership. These two exact editions form this registry entry. Other City Planner editions on Ethereum are outside this Counterparty registry. WOJAKPLANNER, TOOT, COCOCOW and COCOPITFALL are not included without explicit series evidence. COCOPLANNER retains Rare Coco as primary.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. One Counterparty work move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by the artist’s explicit catalogue labels and exact asset links. Complete audiovisual review remains open.
+
+## Project year
+
+**2023** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [SWALLJA.LETSGETSMOL](https://api.xcp.io/v2/assets/SWALLJA.LETSGETSMOL/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

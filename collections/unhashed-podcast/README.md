@@ -30,3 +30,7 @@ The linked Squarespace archive identifies www.unhashedpodcast.com as its origina
 - [Ep. 150 No Tendies for BTC in China](https://mauve-gold-ygt5.squarespace.com/episodes/2021/8/31/ep-150-no-tendies-for-btc-in-china) — [A11187201189552447769](https://cdn.xcp.io/img/full/A11187201189552447769)
 - [Complete issuer inventory](https://api.xcp.io/v2/addresses/1L8Eyv4MiJaKEuKEX96L1wPBQ8wCqJDjn/issued?limit=100)
 - [Podcast identity and date range](https://podcasts.apple.com/us/podcast/the-unhashed-podcast/id1439833799)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11131361629564449701](https://api.xcp.io/v2/assets/A11131361629564449701/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

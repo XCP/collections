@@ -18,3 +18,7 @@
 All three cards explicitly print Kevin Master Wizard and show related wizard-card treatments. DANKWIZKEV exact metadata calls it Master Wizard and credits Flepergebet & degen_x: https://arweave.net/cq1n65kcduwO1-gCUsHc7wl4tMxEH_mKTuzCS-r1Evg . The other two retain their existing DeGenX credits; artwork variants are not treated as token aliases.
 
 Reviewed all member CDN previews, exact xcpio-core issuer identities and current credits on 2026-10-10. All share issuer 115578, but membership is based on the printed title and depicted family, not issuer alone. Existing collaborator credits and directory primary homes are preserved; Counterparty fallback is removed and Kaleidoscope yields its primary home. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKWIZKEV](https://api.xcp.io/v2/assets/DANKWIZKEV/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

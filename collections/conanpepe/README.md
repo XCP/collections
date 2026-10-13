@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [CONANPEPE](https://api.xcp.io/v2/assets/CONANPEPE) — [artwork](https://cdn.xcp.io/img/full/CONANPEPE)
 - [CONANPEPE.Original.xcp](https://api.xcp.io/v2/assets/A14434176276684281577) — [artwork](https://cdn.xcp.io/img/full/A14434176276684281577)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CONANPEPE.Original.xcp](https://api.xcp.io/v2/assets/A14434176276684281577/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

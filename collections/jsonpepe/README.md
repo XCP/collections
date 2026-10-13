@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The sole current child explicitly names La Faka Renegade and repeats the parent portrait with a glitch treatment. Exact namespace and issuer confirm the relationship; the parent retains its Fake Rares primary home.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [JSONPEPE.LAFAKARENEGADE](https://api.xcp.io/v2/assets/JSONPEPE.LAFAKARENEGADE/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

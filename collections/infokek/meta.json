@@ -2,5 +2,6 @@
   "name": "Infokek",
   "kind": "canonical",
   "description": "The Infokek parent and its five RPA microfilm editions.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2023
 }

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. The named parent and Golden Toter child share a devotional card composition and exact same-issuer namespace.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [HOLYNAKA.GLDTOTER](https://api.xcp.io/v2/assets/HOLYNAKA.GLDTOTER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -2,5 +2,6 @@
   "name": "Pepe Cartel Rares",
   "kind": "canonical",
   "description": "Rares, a group of artworks explicitly categorized in Pepe Cartel's asset-linked metadata.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2024
 }

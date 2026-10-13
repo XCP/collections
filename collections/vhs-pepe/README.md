@@ -18,3 +18,7 @@
 Reviewed 2026-10-09 using exact xcpio-core asset identities and namespaces, and direct visual comparison of every member through the image CDN. The parent and PARTII, ALLPEPESEVE and FAKEDANKREAL children form a named VHS-cover parody family. The Slimer parent and PARTII use matching cover branding; FAKEDANKREAL repeats the same Slimer title treatments; ALLPEPESEVE is a further movie-cover parody in the explicit namespace. FAKEDANKREAL is a newly registered art-bearing sibling, supported by its exact parent namespace, same issuer and matching title design.
 
 The explicit list contains 4 members. Existing madethispepe credits are retained. The parent keeps its Fake Commons primary placement and this family is secondary for it; no directory acceptance is inferred for children. Counterparty appearances are removed. No verified project homepage was found.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [VHSPEPE.PARTII](https://api.xcp.io/v2/assets/VHSPEPE.PARTII/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

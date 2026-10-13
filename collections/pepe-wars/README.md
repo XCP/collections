@@ -21,3 +21,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 
 - [PEPEWARSONE](https://api.xcp.io/v2/assets/PEPEWARSONE) — [artwork](https://cdn.xcp.io/img/full/PEPEWARSONE) — [metadata](https://gateway.pinata.cloud/ipfs/QmaoNNcYUuT9qe6gyLg9hYwyoXE7xpdicYSRapdoJij8oT)
 - [PEPEWARSTWO](https://api.xcp.io/v2/assets/PEPEWARSTWO) — [artwork](https://cdn.xcp.io/img/full/PEPEWARSTWO) — [metadata](https://gateway.pinata.cloud/ipfs/QmQkc4ELzpU4ZY3A3V44sdfRn5meyeMd6y6dzuTm9auKBu)
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEWARSONE](https://api.xcp.io/v2/assets/PEPEWARSONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

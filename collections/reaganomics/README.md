@@ -20,3 +20,7 @@ The [registered namespace](https://api.xcp.io/v2/assets/REAGANOMICS/subassets?li
 All registered children are included. Credits rely on individual exact chain-linked JSON signatures. Some Davesta JSON uppercases registered subasset names; references were resolved only where exactly one case-insensitive registered match exists, and registry identifiers retain their actual case. Existing collaborations remain separate artist credits.
 
 Remaining works are credited to Kane Mayfield, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [REAGANOMICS.BOOTSTRAP](https://api.xcp.io/v2/assets/A7509732918313976015/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

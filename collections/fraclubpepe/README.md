@@ -21,3 +21,7 @@ The explicit reviewed membership list follows the exact FRACLUBPEPE namespace. T
 
 - FRACLUBPEPE: [artwork](https://cdn.xcp.io/img/full/FRACLUBPEPE)
 - FRACLUBPEPE.CLUBDANK: [artwork](https://cdn.xcp.io/img/full/FRACLUBPEPE.CLUBDANK)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FRACLUBPEPE.CLUBDANK](https://api.xcp.io/v2/assets/A13019639164571056990/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

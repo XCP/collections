@@ -22,3 +22,7 @@ The explicit list contains 2 art-bearing members. Existing Darky credits are ret
 Counterparty appearances are removed. Existing Fake Rares and Fake Commons primary memberships are preserved, with this family secondary for those assets. No acceptance into either directory is inferred for the remaining siblings.
 
 The easyasset.art metadata was unavailable; it is not cited as readable evidence. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ONIBLADEONE](https://api.xcp.io/v2/assets/ONIBLADEONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

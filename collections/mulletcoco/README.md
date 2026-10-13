@@ -22,3 +22,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 - [MULLETCOCO](https://api.xcp.io/v2/assets/MULLETCOCO) — [artwork](https://cdn.xcp.io/img/full/MULLETCOCO)
 - [MULLETCOCO.COCO-SALUTATIONS](https://api.xcp.io/v2/assets/A8744035260211152557) — [artwork](https://cdn.xcp.io/img/full/A8744035260211152557)
 - [MULLETCOCO.COCO-SALUTATION](https://api.xcp.io/v2/assets/A16826310107918240374) — [artwork](https://cdn.xcp.io/img/full/A16826310107918240374)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MULLETCOCO.COCO-SALUTATIONS](https://api.xcp.io/v2/assets/A8744035260211152557/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

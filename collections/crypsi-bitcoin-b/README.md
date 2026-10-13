@@ -23,3 +23,7 @@ Current chain descriptions explicitly name Bitcoin B — Anon, Lightning and Los
 - [LOSTBTC](https://api.xcp.io/v2/assets/LOSTBTC) — [artwork](https://cdn.xcp.io/img/full/LOSTBTC)
 
 The membership list is explicit. New assets require review. Existing artist credits and primary homes outside Counterparty are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCBANON](https://api.xcp.io/v2/assets/BTCBANON/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

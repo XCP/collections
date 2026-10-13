@@ -22,3 +22,7 @@ This explicit editorial grouping follows the on-chain namespace and reviewed art
 - [KENYOTKONTOL](https://api.xcp.io/v2/assets/KENYOTKONTOL) — [artwork](https://cdn.xcp.io/img/full/KENYOTKONTOL)
 - [KENYOTKONTOL.Framedposter.xcp](https://api.xcp.io/v2/assets/A13581057316892421001) — [artwork](https://cdn.xcp.io/img/full/A13581057316892421001)
 - [KENYOTKONTOL.TSHIRT.xcp](https://api.xcp.io/v2/assets/A14067837990772484019) — [artwork](https://cdn.xcp.io/img/full/A14067837990772484019)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KENYOTKONTOL.Framedposter.xcp](https://api.xcp.io/v2/assets/A13581057316892421001/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

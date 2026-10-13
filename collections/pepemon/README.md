@@ -22,3 +22,7 @@ All names were resolved to exact xcpio-core identities and all 33 original artwo
 Collaboration credits are separate Artist traits: burstMembrane and CelestialGreen; Majoni and Notgod. Existing artist credits are retained, with established profile names used for case/alias normalization. Zed and ejay resolve through the marketplace's existing merges to Zed Erwan and Rarejay.
 
 BLAZIKENPEPE membership is certain, but its artist remains unassigned here: the catalogue says Joey while the card illustration line says REMSTER. Do not equate Joey with another artist based only on its issuer. Full animation review remains open; the catalogue establishes membership independently of imagery.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MEWTOSHI](https://api.xcp.io/v2/assets/MEWTOSHI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

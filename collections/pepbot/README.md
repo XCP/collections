@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The illustrated PEPBOTCERT certificate explicitly names PHYSICAL PEPBOT and depicts the matching sculpture. It is a documentary companion to PEPBOT, which retains its Rare Pepe primary home. The certificate is not added to Rare Pepe.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2018** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPBOT](https://api.xcp.io/v2/assets/PEPBOT/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -25,3 +25,7 @@ Reviewed 2026-10-11 using exact xcpio-core asset records, metadata where availab
 | TRUDPEPETONE | [Asset record](https://api.xcp.io/v2/assets/TRUDPEPETONE) · [Exact metadata](https://gateway.pinata.cloud/ipfs/bafkreid63jgvgjhdidd36b6ep27dzctd6tijrcca5pipsu5lfgutdgol7m) | [Card](https://cdn.xcp.io/img/card/TRUDPEPETONE) |
 | TRUDPEPETRES | [Asset record](https://api.xcp.io/v2/assets/TRUDPEPETRES) · [Exact metadata](https://gateway.pinata.cloud/ipfs/bafkreibjvcbvbghasst5olmzvqsvjuejyl4gp5zqghfbtytim7yg4kp7dq) | [Card](https://cdn.xcp.io/img/card/TRUDPEPETRES) |
 | TRUDPEPETWO | [Asset record](https://api.xcp.io/v2/assets/TRUDPEPETWO) · [Exact metadata](https://gateway.pinata.cloud/ipfs/bafkreieq3x54zutpgz24g7nj2rn3ovbvnqirf2ulgi5a45wkawuu2kcmvm) | [Card](https://cdn.xcp.io/img/card/TRUDPEPETWO) |
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TRUDPEPEFOUR](https://api.xcp.io/v2/assets/TRUDPEPEFOUR/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

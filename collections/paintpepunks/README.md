@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. Four illustrated painted pixel portraits are confirmed by exact CoinDaddy JSON and artwork. Preserve the source trait labels and repeated Head values. Global namespace enumeration also found .0001 and .0004 with empty descriptions and CDN placeholders; these and the placeholder parent are excluded pending recoverable artwork.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PAINTPEPUNKS.0002](https://api.xcp.io/v2/assets/A12445384284303183158/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

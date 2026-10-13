@@ -21,3 +21,7 @@ This companion family records exact parent/subasset relationships. It does not a
 
 - [FLOONEYDOOMS.PEPE](https://api.xcp.io/v2/assets/A12314003663260620275) — [artwork](https://cdn.xcp.io/img/full/A12314003663260620275)
 - [FLOONEYDOOMS.WOJAK](https://api.xcp.io/v2/assets/A1476958007261370605) — [artwork](https://cdn.xcp.io/img/full/A1476958007261370605)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FLOONEYDOOMS.PEPE](https://api.xcp.io/v2/assets/A12314003663260620275/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

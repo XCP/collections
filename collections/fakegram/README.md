@@ -18,3 +18,7 @@ The Fakegram artwork with its GAMMA and ACETONED variants.
 Membership includes the parent and all 2 current onchain descendants, checked against the complete subasset endpoint. Every listed CDN preview was reviewed and confirms the relationship; this is a named artwork family, not an inference of acceptance into another card directory. Existing primary collection homes and individual credits are preserved. Previously uncategorized members become primary here and leave Counterparty. No artist is inferred from a shared issuer.
 
 Sources: https://api.xcp.io/v2/assets/FAKEGRAM/subassets ; https://cdn.xcp.io/img/card/FAKEGRAM . Chain inventories and CDN previews checked 2026-10-11. Full audiovisual review remains separate.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEGRAM.ACETONED](https://api.xcp.io/v2/assets/A7146808349976370068/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

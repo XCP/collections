@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 39 issuer previews across Mortree and ZeppikEarth. GUDBITMORNIN issuance history links a metadata file named GOODBITMORNING.json; GUDBITMORNST links GOODBITMORNINGST.json. Inspection of the original 106-frame GIF confirms its drawing animation resolves to the same Bitcoin-sun, mountains, lake and waterfall scene as GUDBITMORNST. Four intermediate frames and the full issuer preview establish the exact artwork relationship. Parent animation keeps Dank Rares primary, still variant leaves Counterparty.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Three Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Original animation frames were additionally inspected for Good Bit Morning; complete audiovisual review of other works remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [GUDBITMORNIN](https://api.xcp.io/v2/assets/GUDBITMORNIN/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

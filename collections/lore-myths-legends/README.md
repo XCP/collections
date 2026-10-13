@@ -22,3 +22,7 @@ Matched Counterparty entries use this collection as primary and are removed from
 ## Kevin Ferreira attribution
 
 Reviewed 2026-10-09. See the [XCPinata attribution evidence](../../docs/xcpinata-attribution.md). These catalogued works are credited to Kevin Ferreira, the artist behind XCPinata. Membership is unchanged.
+
+## Project year
+
+**2022** — The 2015 registration had zero supply and a generic Coindaddy JSON pointer. The 2022 ownership change, 200-unit reset, new Easyasset reference and lock support actual project use in 2022. Anchor: [LORE](https://api.xcp.io/v2/assets/LORE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

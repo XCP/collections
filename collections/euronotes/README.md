@@ -26,3 +26,7 @@ Membership is an explicit reviewed list. Future related assets need review; no b
 - [EURONOTES.50](https://api.xcp.io/v2/assets/A2458074559497954730) — [artwork](https://cdn.xcp.io/img/full/A2458074559497954730)
 - [EURONOTES.5](https://api.xcp.io/v2/assets/A4565616774627729982) — [artwork](https://cdn.xcp.io/img/full/A4565616774627729982)
 - [EURONOTES.200](https://api.xcp.io/v2/assets/A7872215328194294418) — [artwork](https://cdn.xcp.io/img/full/A7872215328194294418)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [EURONOTES.20](https://api.xcp.io/v2/assets/A10227211433118696251/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

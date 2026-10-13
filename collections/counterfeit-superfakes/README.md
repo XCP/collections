@@ -33,3 +33,7 @@ The creator’s [project introduction](https://medium.com/@NRMN_/counterfeit-sup
 - [KEKLO](https://cdn.xcp.io/img/full/KEKLO)
 - [HANDSOMEPEPE](https://cdn.xcp.io/img/full/HANDSOMEPEPE)
 - [SATSVSSIMPS](https://cdn.xcp.io/img/full/SATSVSSIMPS)
+
+## Project year
+
+**2022** — The project-labelled DISINFOCZARD edition supports 2022. XCHAINPEPE is an older Rare Pepe included secondarily; its 2017 artwork date does not date Counterfeit Superfakes. Anchor: [DISINFOCZARD](https://api.xcp.io/v2/assets/DISINFOCZARD/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

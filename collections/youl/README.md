@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 12 issuer registrations and their available artwork previews. Complete YOUL namespace audit identifies three positive-supply artwork children and an artless parent token. Original LASTPEPESUPPER Arweave metadata explicitly credits Youl, links youldesign.fr and twitter/youldesign, and describes its relation to the artist’s 2014 Last Bitcoin Supper canvas. Keep the two similarly titled Supper assets distinct and preserve the accepted edition’s Fake Rares primary home. The other two children leave Counterparty. The nested YOUL.YOUL spelling is the actual chain identity. The artless parent is documented, not added as a placeholder.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Three Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links original issuer-linked metadata and matching card designs. Complete audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [YOUL.YOUL.BTCPOINTILLISME](https://api.xcp.io/v2/assets/YOUL.YOUL.BTCPOINTILLISME/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

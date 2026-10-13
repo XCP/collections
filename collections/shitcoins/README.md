@@ -22,3 +22,7 @@ Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
 
 Remaining works are credited to Cornholio the Great, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SHITCOINS.AtOMo](https://api.xcp.io/v2/assets/A3288674642193173057/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -39,3 +39,7 @@ DANKSYSNOW has a historical attribution discrepancy: the WordPress directory say
 - [Dank Directory volume 1](https://dankdirectory.wordpress.com/)
 - [Volume 2](https://dankdirectory.wordpress.com/home/volume2/)
 - [Volume 3](https://dankdirectory.wordpress.com/home/volume3/)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKSYSTYLE.DREAMDANKSY](https://api.xcp.io/v2/assets/A8089408937484235515/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

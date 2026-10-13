@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, shared issuer and parent/subasset relationships, plus direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. The parent and twelve explicit subassets depict the same illustrated agent world, with character names, recruitment and suspect numbers, and repeated DANK AGENT titles.
 
 The explicit list contains 13 works. Existing Kevin Satoshi credits are retained. Parents already accepted into Dank Rares or Fake Ape Club retain their primary home there and appear here secondarily; no acceptance of variants into that directory is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKAGENT.GODEYE](https://api.xcp.io/v2/assets/A2544524841248762431/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

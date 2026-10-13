@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. The illustrated parent and LAFAKAWARNING child share the same baseball portrait composition; the child visibly modifies the original. The parent retains its official Fake Rares primary home.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEMANTLE.LAFAKAWARNING](https://api.xcp.io/v2/assets/PEPEMANTLE.LAFAKAWARNING/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -23,3 +23,7 @@ The explicit reviewed membership list follows the exact PHOCKHEADS.DJPEPE namesp
 - PHOCKHEADS.DJPEPE.SPACESCRILLA: [artwork](https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.SPACESCRILLA)
 - PHOCKHEADS.DJPEPE.DJSCRIBBLE: [artwork](https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.DJSCRIBBLE)
 - PHOCKHEADS.DJPEPE.DJKNOCKOFF: [artwork](https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.DJKNOCKOFF)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PHOCKHEADS.DJPEPE.SPACESCRILLA](https://api.xcp.io/v2/assets/A1569485645213030886/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

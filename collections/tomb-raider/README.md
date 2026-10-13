@@ -24,3 +24,7 @@ The complete [TOMBRAIDER namespace](https://api.xcp.io/v2/assets/TOMBRAIDER/suba
 This existing collection also describes variations of TOMBRAIDER. The redundant `tombraider` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for TOMBRAIDER against its TOMBRAIDER.* subassets on side-by-side contact sheets. Included: TOMBRAIDER.SIDEB (B-side edit). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TOMBRAIDER.SIDEB](https://api.xcp.io/v2/assets/A11703569400601967272/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

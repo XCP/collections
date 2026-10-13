@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 39 issuer registrations and their available artwork previews. Full namespace query identifies exactly the parent and POWER. Recovered original Arweave JSON explicitly identifies both assets, creator nogoodboypoints and the same artist social. Parent keeps Dank Rares primary; POWER leaves Counterparty.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Two Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and original Arweave metadata. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [OKTOBEPEPE.POWER](https://api.xcp.io/v2/assets/OKTOBEPEPE.POWER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

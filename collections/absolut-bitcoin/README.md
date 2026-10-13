@@ -44,3 +44,7 @@ The project's [Collect NFTs page](https://absolutbitcoin.com/collect-nfts/) expl
 The artless BTCNAVATARS parent and the distinct SATOSHICERT certificate are held outside these collections. The separate UTXHoes.art cards are not credited to George based only on this shared address.
 
 All listed assets previously had only Counterparty membership; that fallback relationship is removed. Sources and previews checked 2026-10-11.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11199959650889552618](https://api.xcp.io/v2/assets/A11199959650889552618/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, issuing addresses and parent/subasset relationships, and direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. The card parent and smug child use the same blue swan face and character design.
 
 The explicit list includes 2 artworks. Existing Dank Rares primary memberships and artist credits are retained; these works appear here secondarily. No acceptance of other family members into those directories is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BLUESWAN.smug](https://api.xcp.io/v2/assets/A3093441462466186553/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

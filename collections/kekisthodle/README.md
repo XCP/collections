@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 39 issuer registrations and their available artwork previews. Full namespace query identifies two positive-supply art children. Both recovered Arweave documents sign Kekisthodle and link twitter/aristhodle, corroborating the parent description @aristhodle parent xcp token. Exact case-sensitive on-chain names are retained despite uppercase metadata for the first edition. Both card previews explicitly title Pepe Fanjul and differ in printed stats. First edition keeps Fake Commons primary; second leaves Counterparty. The parent is a namespace token without available artwork and is documented here rather than added as an empty gallery item. THEKECHITECT is a separately named artwork and is not swept into this namespace.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Two Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and original Arweave metadata. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [KEKISTHODLE.PepeFanjul](https://api.xcp.io/v2/assets/KEKISTHODLE.PepeFanjul/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

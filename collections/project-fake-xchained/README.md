@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. The on-chain-linked archived project page explicitly identifies this as a three-card series curated by Yotet: Fakamoto, Fakomer and Fakenopoulos. Exact project metadata and matching artwork establish membership. This is the Counterparty edition, not the broader Ethereum collection.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKOMER.PROJECTFAKE](https://api.xcp.io/v2/assets/A2981896714899207004/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -25,3 +25,7 @@ The explicit list contains 2 works. Existing Skife credits are retained. Parents
 This existing collection also describes variations of KODANK. The redundant `kodank-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for KODANK against its KODANK.* subassets on side-by-side contact sheets. Included: KODANK.120ROLL (alternate box edition). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KODANK.120ROLL](https://api.xcp.io/v2/assets/A10174961655224264895/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

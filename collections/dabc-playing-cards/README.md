@@ -20,3 +20,7 @@ Reviewed 2026-10-09 using current xcpio-core records and all eighteen CDN images
 **DABC Playing Cards is a descriptive registry title**, not a claimed recovered project title. The reviewed set is eighteen artworks, not a complete 52-card deck. Unavailable EasyAsset JSON is not treated as readable evidence.
 
 The two parents keep their existing Drooling Ape Bus Club primary memberships and are secondary here. Their sixteen children leave Counterparty for this collection; this does not assert their acceptance into the Drooling Ape Bus Club directory. All existing Tizar Berandalan credits are preserved. The explicit asset list, including the two parents, is the reviewed source. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DABCKING.HEARTQUEEN](https://api.xcp.io/v2/assets/A11032271318205606082/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -25,3 +25,7 @@ Existing artist credits and directory primary homes are preserved. Kaleidoscope 
 This existing collection also describes variations of GREENCHECK. The redundant `greencheck` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for GREENCHECK against its GREENCHECK.* subassets on side-by-side contact sheets. Included: GREENCHECK.FAKELIGHTMODE (light-mode colourway). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [GREENCHECK.FAKELIGHTMODE](https://api.xcp.io/v2/assets/GREENCHECK.FAKELIGHTMODE/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

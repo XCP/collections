@@ -30,3 +30,7 @@ DERIVAPE.APEOPOLYONE currently shows a CDN placeholder, but its metadata identif
 ## Additional reviewed member (2026-10-11)
 
 Exact historical [MYSTERYCARD metadata](https://xcp.coindaddy.io/MYSTERYCARD.json) describes “Front face to Ape-opoly Mystery Cards” and links the artist’s project page. This records its documented project association; the mutable current media has changed and is not asserted to be a current playable game component.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BEATYACHEST](https://api.xcp.io/v2/assets/BEATYACHEST/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

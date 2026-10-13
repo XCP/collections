@@ -2,5 +2,6 @@
   "name": "Dank Fakers",
   "kind": "canonical",
   "description": "Artworks explicitly identified as Dank Fakers in their asset metadata.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2026
 }

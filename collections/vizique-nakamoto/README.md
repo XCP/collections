@@ -25,3 +25,7 @@ Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named ass
 - [NOTAMOTOCARD](https://api.xcp.io/v2/assets/NOTAMOTOCARD) — [portfolio image](https://vizique.com/wp-content/uploads/2022/03/NOTAMOTOCARD.png) — [dispenser transaction](https://xchain.io/tx/cdbb6059d14bbb8e4dbedb465c229d529ccc66d32fb7c1577cad2415bd978037)
 - [ISITSATOSHI](https://api.xcp.io/v2/assets/ISITSATOSHI) — [portfolio image](https://vizique.com/wp-content/uploads/2022/04/ISITSATOSHI.gif) — unlinked portfolio image, visually matched to the named asset
 - [FAKERAREFAKE](https://api.xcp.io/v2/assets/FAKERAREFAKE) — [portfolio image](https://vizique.com/wp-content/uploads/2022/03/FAKERAREFAKE.png) — [dispenser transaction](https://xchain.io/tx/bdcb8c4b96a3ac3fed6e89310d3b4346323967e54b1135d3be5bdc662981a6cf)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SATOSHIWHO](https://api.xcp.io/v2/assets/SATOSHIWHO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

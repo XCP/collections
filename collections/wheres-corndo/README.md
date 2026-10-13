@@ -16,3 +16,7 @@
 Mathew’s earlier WHERESCONDO and later WHERESCORNDO editions. Both issuance histories reference the exact same artwork gallery https://imgur.com/gallery/2XaB4Kg ; the later token subsequently changed its gallery to https://imgur.com/gallery/s2fYyvw . Chain histories: https://api.xcp.io/v2/assets/WHERESCONDO/issuances and https://api.xcp.io/v2/assets/WHERESCORNDO/issuances . The earlier artwork is still visible in the CDN.
 
 WHERESCORNDO retains Bitcorn Crops as its primary collection. WHERESCONDO has its primary home here. These are distinct tokens; no official acceptance is inferred for the earlier token. The later token’s current CDN preview was unavailable during review.
+
+## Project year
+
+**2020** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [WHERESCONDO](https://api.xcp.io/v2/assets/WHERESCONDO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

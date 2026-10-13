@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. The full SKULLMAP composition and A/B/C pieces depict the identical map split into left, center and right panels. Exact names and common issuer corroborate the artwork relationship. Easyasset metadata did not yield JSON; this grouping does not claim membership in any wider skull directory.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SKULLMAP](https://api.xcp.io/v2/assets/SKULLMAP/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -23,3 +23,7 @@ All four reviewed images explicitly print PEPZUKI above related illustrated port
 - PEPZUKI: [artwork](https://cdn.xcp.io/img/full/PEPZUKI)
 - PURPZUKI: [artwork](https://cdn.xcp.io/img/full/PURPZUKI)
 - REDZUKI: [artwork](https://cdn.xcp.io/img/full/REDZUKI)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FLEXZUKI](https://api.xcp.io/v2/assets/FLEXZUKI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

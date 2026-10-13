@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with public xcpio-core API identities, issuance history and three issuer-or-owner registrations and their available artwork previews. The two distinct registered assets display the same named Fake Viagra card composition and share the documented issuer. Issuance history identifies the earlier FAKEVIAGRA JPEG and later FAKEVIAGRAA MP4. The latter keeps its established Fake Rares primary home. This artwork-family grouping does not merge the tokens or claim official acceptance for the earlier edition. The readable original FAKEVIAGRA metadata identifies that exact asset; full MP4 review remains open.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. One Counterparty work moves to this specific artwork family. Unavailable JSON is not treated as evidence. Membership is supported by exact matching named card artwork and issuer-linked history. Complete audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [FAKEVIAGRA](https://api.xcp.io/v2/assets/FAKEVIAGRA/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

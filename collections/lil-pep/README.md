@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. Three same-issuer cards visibly signed Lil Pep depict the same character. Chain descriptions explicitly number the second and third works. This papeto trio is separate from the differently spelled Lil Pepe collection credited to NORMANCOMICS; LITTLEPEPA is a distinct work and excluded. Easyasset JSON for these family members was not recovered; membership is supported by chain identity, names and inspected artwork.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [LILPEP](https://api.xcp.io/v2/assets/LILPEP/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

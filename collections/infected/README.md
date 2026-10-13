@@ -30,3 +30,7 @@ Sources:
 - https://asuhgxeiltbx4m2mnsc4yw2f5d3egqkm7n6dfy2mno7wpvjgsvba.ar.io/BKhzXIhcw34zTGyFzFtF6PZDQUz7fDLjTGu_Z9UmlUI?/infecttwo.json
 
 Physical artwork dates and edition sizes on source pages are evidence, not Counterparty issuance facts. This snapshot does not assert ownership of a physical piece or redemption rights.
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [INFECTFIVE](https://api.xcp.io/v2/assets/INFECTFIVE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

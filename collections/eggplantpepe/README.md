@@ -19,3 +19,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 
 - [EGGPLANTPEPE](https://api.xcp.io/v2/assets/EGGPLANTPEPE) — [media](https://cdn.xcp.io/img/full/EGGPLANTPEPE)
 - [EGGPLANTPEPE.mullet](https://api.xcp.io/v2/assets/A14980718019575491054) — [media](https://cdn.xcp.io/img/full/A14980718019575491054)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [EGGPLANTPEPE.mullet](https://api.xcp.io/v2/assets/A14980718019575491054/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

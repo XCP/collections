@@ -18,3 +18,7 @@ Both cards are titled Wojak Whale and share the distinctive whale and card layou
 Membership is based on the onchain parent/subasset relationship and inspected CDN artwork. All existing specific primary collections are retained on the parent; illustrated children are primary here and removed from Counterparty. Original EasyAsset/Arweave child metadata is unavailable, so no additional artist fields are inferred.
 
 Sources: https://api.xcp.io/v2/assets/WOJAKWHALE/subassets and https://cdn.xcp.io/img/card/WOJAKWHALE .
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WOJAKWHALE.THAMES](https://api.xcp.io/v2/assets/A17860204613934240265/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

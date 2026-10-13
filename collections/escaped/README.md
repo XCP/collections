@@ -18,3 +18,7 @@
 The [complete registered namespace](https://api.xcp.io/v2/assets/ESCAPED/subassets?limit=100) and inspected CDN previews establish the parent and illustrated variants. Chain descriptions name the mosaic pieces or event editions where present. Unillustrated reservations excluded: ESCAPED.BOREDAPE3589, ESCAPED.BOREDAPE3001, ESCAPED.BOREDAPE9449.
 
 Illustrated tokens in the ESCAPED Counterparty namespace. This grouping does not establish membership in an official Bored Ape collection. Existing specific primary memberships and individual artist credits are preserved; parent credit is not automatically copied to its child. No attribution to the original Ethereum project or its artists is made.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ESCAPED.BOREDAPE1717](https://api.xcp.io/v2/assets/A9767199023176031100/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

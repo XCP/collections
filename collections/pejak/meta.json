@@ -2,5 +2,6 @@
   "name": "Pejak",
   "kind": "canonical",
   "description": "Pejak, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

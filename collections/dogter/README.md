@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against xcpio-core descriptions, exact numeric asset identities and CDN contact sheets. The three descriptions explicitly number Dogter 1/3, 2/3 and 3/3, and the three dog-on-the-phone meme panels form the corresponding sequence. Membership identifies the issued series; it does not establish authorship of underlying photographs or meme elements.
 
 Existing SaSHA-256 credits are preserved; no new authorship is inferred from issuer identity. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2019** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11135481808042737436](https://api.xcp.io/v2/assets/A11135481808042737436/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

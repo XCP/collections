@@ -2,5 +2,6 @@
   "name": "KeKingBit",
   "kind": "canonical",
   "description": "PEPABLE’s KeKingBit magazine-cover parent artwork and Satoshi subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

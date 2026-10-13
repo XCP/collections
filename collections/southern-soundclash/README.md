@@ -23,3 +23,7 @@ Evidence:
 - [SSC007 exact metadata](https://xcp.coindaddy.io/A13471912644718578542.json)
 - [Parent metadata naming Southern Soundclash Commodity](https://xcp.coindaddy.io/SSCCOMMODITY.json)
 - [Namespace inventory](https://api.xcp.io/v2/assets/SSCCOMMODITY/subassets?limit=100)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SSCCOMMODITY.SSC006](https://api.xcp.io/v2/assets/A15222638863612306382/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -26,3 +26,7 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 This existing collection also describes variations of MESOPEPTIMIA. The redundant `mesopeptimia-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for MESOPEPTIMIA against its MESOPEPTIMIA.* subassets on side-by-side contact sheets. Included: MESOPEPTIMIA.VTWO (second version). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MESOPEPTIMIA.VTWO](https://api.xcp.io/v2/assets/A3841216931613373943/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

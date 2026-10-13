@@ -53,3 +53,7 @@ The reviewed portrait cards share the printed EPSTEIN COLLECTION label and a con
 - SULAYEM: [artwork](https://cdn.xcp.io/img/full/SULAYEM)
 - TODDBLANCHE: [artwork](https://cdn.xcp.io/img/full/TODDBLANCHE)
 - ZAMPOLLI: [artwork](https://cdn.xcp.io/img/full/ZAMPOLLI)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [COVERUPKASH](https://api.xcp.io/v2/assets/COVERUPKASH/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

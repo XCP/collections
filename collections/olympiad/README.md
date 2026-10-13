@@ -38,3 +38,7 @@ Arweave stores these documents inside multipart envelopes; the inline JSON part 
 - OLYMPIAD: [exact source metadata](https://arweave.net/wRkJKspnb_s1Flo05iu45d07OOG1biqLwK983jbWXH0)
 
 All seventeen OLYMPIAD cards are credited to DanDarkPill, confirmed by the collection owner. The same issuing address issued 19 other works already credited to DanDarkPill from their own signed metadata.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [OLYMPIAD](https://api.xcp.io/v2/assets/OLYMPIAD/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

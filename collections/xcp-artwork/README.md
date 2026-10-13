@@ -27,3 +27,7 @@ The complete namespace inventory was read through next_offset null. Membership i
 - [XCPARTWORK.PEPEBAG](https://api.xcp.io/v2/assets/A16533028370029487642) — [artwork](https://cdn.xcp.io/img/full/A16533028370029487642)
 - [XCPARTWORK.TWO](https://api.xcp.io/v2/assets/A7966882852536429586) — [artwork](https://cdn.xcp.io/img/full/A7966882852536429586)
 - [XCPARTWORK.ONE](https://api.xcp.io/v2/assets/A8054187859315969083) — [artwork](https://cdn.xcp.io/img/full/A8054187859315969083)
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [XCPARTWORK.FOUR](https://api.xcp.io/v2/assets/A12602965658530606215/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

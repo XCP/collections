@@ -2,5 +2,6 @@
   "name": "BTCRN",
   "kind": "canonical",
   "description": "The BTCRN parent and illustrated coin subassets.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

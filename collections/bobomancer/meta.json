@@ -2,5 +2,6 @@
   "name": "Bobomancer",
   "kind": "canonical",
   "description": "The Bobomancer card and its Shadow Banking Bobo subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

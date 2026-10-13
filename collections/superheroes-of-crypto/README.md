@@ -30,3 +30,7 @@ Sources:
 - https://crypsi.com/wonderwoman/
 
 Physical artwork dates and edition sizes on source pages are evidence, not Counterparty issuance facts. This snapshot does not assert ownership of a physical piece or redemption rights.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCNERTWO](https://api.xcp.io/v2/assets/BTCNERTWO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

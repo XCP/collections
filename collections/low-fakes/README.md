@@ -22,3 +22,7 @@ For example, LOWFNAKAMOTO links https://easyasset.art/j/v36dpg/LOWFNAKAMOTO.json
 Number 26 remains unconfirmed: PEPELINA's metadata did not load, and its artwork alone does not establish a series number. It is excluded pending explicit evidence. Do not infer that all works from this issuer belong to Low Fakes.
 
 Fake Commons remains every member's primary collection. Existing artist credits are preserved. This curated series records a named artist project within that directory, not new directory acceptance. The general Fake Rare Directory website in the JSON is not presented as a dedicated Low Fakes website. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [LOWFNAKAMOTO](https://api.xcp.io/v2/assets/LOWFNAKAMOTO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

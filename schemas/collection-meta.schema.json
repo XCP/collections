@@ -14,7 +14,7 @@
       "type": "integer",
       "minimum": 2014,
       "maximum": 2100,
-      "description": "The year the project launched. Optional; marketplaces otherwise date a collection from its oldest member's issuance, which overstates the age of a collection that adopted older assets."
+      "description": "The supported project year, or a reviewed first-use estimate documented in the collection README. Required by repository coverage checks. Do not substitute a token reservation or an unrelated older member; consumers must not infer it from the oldest issuance."
     },
     "variation_of": {
       "type": "string",

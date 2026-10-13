@@ -27,3 +27,7 @@ Sources:
 - https://scarce.city/auctions/liberte-2015-no-5-7
 
 Physical artwork dates and edition sizes on source pages are evidence, not Counterparty issuance facts. This snapshot does not assert ownership of a physical piece or redemption rights.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [LIBEGFRFIVE](https://api.xcp.io/v2/assets/LIBEGFRFIVE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

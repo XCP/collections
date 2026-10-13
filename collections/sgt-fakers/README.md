@@ -22,3 +22,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 - [SGTFAKERONE](https://api.xcp.io/v2/assets/SGTFAKERONE) — [artwork](https://cdn.xcp.io/img/full/SGTFAKERONE) — [metadata](https://gateway.pinata.cloud/ipfs/QmPB4mf1uxXueiA9CQoQbCxdAupxc7aoHC5V9sf3wcZT1P)
 - [SGTFAKATHREE](https://api.xcp.io/v2/assets/SGTFAKATHREE) — [artwork](https://cdn.xcp.io/img/full/SGTFAKATHREE) — [metadata](https://gateway.pinata.cloud/ipfs/QmUDqJ3RN4PsHCTw5DE5xXTtZMcpyCNEtPyyY8cGsSsLDA)
 - [SGTFAKERFOUR](https://api.xcp.io/v2/assets/SGTFAKERFOUR) — [artwork](https://cdn.xcp.io/img/full/SGTFAKERFOUR) — [metadata](https://gateway.pinata.cloud/ipfs/QmTSho3GVsaJmQQyVU9zrFwakaDixtyMK8TEZSdjaaWjfe)
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SGTFAKERFOUR](https://api.xcp.io/v2/assets/SGTFAKERFOUR/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -16,3 +16,7 @@
 ## Membership evidence
 
 An artwork family established by the DARKCASHGRAB namespace and the matching labeled card variants. LITECASHGRAB uses the same card composition and explicitly labels itself lite cash grab. Full subasset enumeration and all seven previews were reviewed. The root keeps its Fake Rares primary home and existing Carsonated credit. The artless .xcp and .lousytshirt assets are excluded. The root metadata remains available at https://fakeasf.club/assets/DARKCASHGRAB/DARKCASHGRAB.json. No creator is inferred for the individual variants.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DARKCASHGRAB.LA.FAKA.WONT.STANDBY](https://api.xcp.io/v2/assets/A14946236653261258207/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

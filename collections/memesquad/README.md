@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core issuance descriptions and all 18 assets from issuer 1D9CLeDBEH9TgZh4fNLq1HRxFnX7JomwQU. The complete MEMESQUAD namespace contains the parent and numbered children .1 and .2. The three images depict the same ensemble of meme characters, with the children continuing the group adventure in skydiving and landing scenes. Card images were compared through https://cdn.xcp.io/img/card/ using each exact asset name.
 
 All three works receive Meme Squad as primary and leave the Counterparty catch-all. Existing Daisy credits are preserved; no new credit or official acceptance is inferred from shared issuer or card styling. Other works from the issuer remain in their existing collections. The 23 historical metadata URLs returned no readable JSON; membership here rests on the exact namespace and depicted characters. Full animation review remains open.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MEMESQUAD.1](https://api.xcp.io/v2/assets/MEMESQUAD.1/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

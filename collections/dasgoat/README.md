@@ -20,3 +20,7 @@ The [registered namespace](https://api.xcp.io/v2/assets/DASGOAT/subassets?limit=
 DASGOAT.XCP is included with Kane Mayfield credited. Its [original metadata](https://arweave.net/7FVZtwK_QboBFobpDjSN-HWZ7ElJc9roWIBB25muRVY) identifies DASGOAT.XCP exactly, is signed KANE MAYFIELD with twitter.com/kanemayfield, and is valid apart from a missing final closing brace. Its authored video was recovered from that record's `video` transaction and reviewed. The current easyasset link returns an empty body. Credits rely on individual exact chain-linked JSON signatures. Some Davesta JSON uppercases registered subasset names; references were resolved only where exactly one case-insensitive registered match exists, and registry identifiers retain their actual case. Existing collaborations remain separate artist credits.
 
 Remaining works are credited to Kane Mayfield, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DASGOAT.XCP](https://api.xcp.io/v2/assets/A13110922784604973344/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

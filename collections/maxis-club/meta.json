@@ -2,5 +2,6 @@
   "name": "Maxis Club",
   "kind": "canonical",
   "description": "Counterparty editions of the Maxis Club Bitcoin cartoons by Red Purdy.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

@@ -24,3 +24,7 @@ Evidence:
 - [Asset namespace](https://tokenscan.io/asset/NEONS)
 - [Reviewed artwork: NEONS.DANKPEPE](https://cdn.xcp.io/img/full/NEONS.DANKPEPE)
 - [Reviewed artwork: NEONS.FAKEASF](https://cdn.xcp.io/img/full/NEONS.FAKEASF)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [NEONS.DANKGOD](https://api.xcp.io/v2/assets/A17007118320171735045/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

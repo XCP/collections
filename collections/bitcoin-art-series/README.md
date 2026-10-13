@@ -33,3 +33,7 @@ The later MODERNXV–MODERNXXXVII registrations have empty descriptions and no v
 - MODERNIV: [exact metadata](https://arweave.net/3DIgCBiFCM4-D62M0FLlWXyauRDfF27rEiil13clAsc)
 - MODERNII: [exact metadata](https://arweave.net/h3XUM8mi0hKCOHDtmLTgk-6vlNw3H0gQawKvYti03Q0)
 - MODERNI: [exact metadata](https://arweave.net/mA3m5CJMijXzd__kDJEtIjWMCrDueK3GESrggZswfxI)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MODERNI](https://api.xcp.io/v2/assets/MODERNI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

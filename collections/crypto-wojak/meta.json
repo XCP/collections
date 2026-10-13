@@ -3,5 +3,6 @@
   "kind": "canonical",
   "description": "Crypto Wojak, a Counterparty parent asset and illustrated subasset family.",
   "art_frame": "card",
-  "variation_of": "CRYPTOWOJAK"
+  "variation_of": "CRYPTOWOJAK",
+  "founded": 2023
 }

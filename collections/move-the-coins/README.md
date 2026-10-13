@@ -26,3 +26,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 This existing collection also describes variations of MOVETHECOINS. The redundant `movethecoins` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for MOVETHECOINS against its MOVETHECOINS.* subassets on side-by-side contact sheets. Included: MOVETHECOINS.BRO (duplicate edition). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MOVETHECOINS.BRO](https://api.xcp.io/v2/assets/A8347339206262679258/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

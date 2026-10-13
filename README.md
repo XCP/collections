@@ -95,11 +95,12 @@ Useful examples:
 
 Required fields are `name`, `kind`, `description`, and `art_frame`.
 `art_frame` is `card`, `square`, or `landscape`, based on the collection's
-dominant artwork shape. `founded` is the year the project launched. Add it
-whenever a source establishes it, and always when the members were registered
-before the project used them. Without it, a marketplace dates the collection
-from its oldest member's issuance, which overstates the age of a collection
-that adopted assets registered before it existed. Optional links are `website`, `x`, and `discord`. See the
+dominant artwork shape. `founded` records the supported project year or a reviewed
+first-use estimate. Every registered collection must supply it and document the
+evidence and uncertainty in its README. Registration alone, an old parent namespace,
+or an older borrowed member must not backdate a later project. Consumers should use
+this editorial date rather than the oldest member issuance. Optional links are
+`website`, `x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
 
 `variation_of` names the parent of a variations collection: one work and its

@@ -21,3 +21,7 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/HEROBOY/subasset
 - HEROBOY.FRAME: [asset record](https://api.xcp.io/v2/assets/HEROBOY.FRAME) · [artwork](https://cdn.xcp.io/img/card/HEROBOY.FRAME)
 - HEROBOY.RAFFLE: [asset record](https://api.xcp.io/v2/assets/HEROBOY.RAFFLE) · [artwork](https://cdn.xcp.io/img/card/HEROBOY.RAFFLE)
 - HEROBOY.DEMO: [asset record](https://api.xcp.io/v2/assets/HEROBOY.DEMO) · [artwork](https://cdn.xcp.io/img/card/HEROBOY.DEMO)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HEROBOY.FRAME](https://api.xcp.io/v2/assets/A7754215087775002934/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

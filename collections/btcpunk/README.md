@@ -20,3 +20,7 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 - [BTCPUNK.4505](https://api.xcp.io/v2/assets/A7234513765793932670) — [artwork](https://cdn.xcp.io/img/full/A7234513765793932670)
 - [BTCPUNK.1571](https://api.xcp.io/v2/assets/A15610664756579074592) — [artwork](https://cdn.xcp.io/img/full/A15610664756579074592)
 - [BTCPUNK.0668](https://api.xcp.io/v2/assets/A4737418521894596305) — [artwork](https://cdn.xcp.io/img/full/A4737418521894596305)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCPUNK.4505](https://api.xcp.io/v2/assets/A7234513765793932670/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

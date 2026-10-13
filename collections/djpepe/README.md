@@ -38,3 +38,7 @@ Reviewed 2026-10-11. Existing specific primary collections are retained; the two
 - [DJPEPE.5_YEAR_BDAY_PARTY](https://api.xcp.io/v2/assets/A14070150535928374065) — [media](https://cdn.xcp.io/img/full/A14070150535928374065)
 - [DJPEPE.ORANGEPEPE](https://api.xcp.io/v2/assets/A8862439164061331419) — [media](https://cdn.xcp.io/img/full/A8862439164061331419)
 - [DJPEPE.GOLDEDITION](https://api.xcp.io/v2/assets/A1154497425931482660) — [media](https://cdn.xcp.io/img/full/A1154497425931482660)
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [DJPEPE.434102](https://api.xcp.io/v2/assets/DJPEPE.434102/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

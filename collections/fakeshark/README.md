@@ -20,3 +20,7 @@ Reviewed 2026-10-09 against indexed xcpio-core parent/longname and issuer facts,
 [Scarce City's Crypsi auction](https://scarce.city/auctions/FAKESHARK) explicitly pairs FAKESHARK with FAKESHARK.FAKEHIRST. The other four children share the namespace, issuer and art-world satire imagery. The parent remains primary in Fake Rares (series 4, card 49); it is secondary here. The five subassets are not asserted to be official Fake Rare cards.
 
 Membership is a reviewed static snapshot, not automatic admission of future children. No project website was established, so no speculative website is added.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKESHARK.EXHIBI](https://api.xcp.io/v2/assets/A2534166546899357820/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

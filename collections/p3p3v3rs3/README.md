@@ -20,3 +20,7 @@ DANKTIMES exact JSON names P3P3V3RS3; FREEEDOMCARD explicitly calls itself a P3P
 Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and credits, reachable metadata and available member CDN previews. The complete issuer contact-sheet inventories covered 18 assets from issuer 106490. Membership rests on explicit project references in metadata and artwork, not issuer alone.
 
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2023** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [A15278739962652801000](https://api.xcp.io/v2/assets/A15278739962652801000/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

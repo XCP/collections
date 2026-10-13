@@ -23,3 +23,7 @@ Existing artist credits and directory primary homes are preserved. Kaleidoscope 
 
 - BITCAKE.PIZZABIKINI: https://arweave.net/DM-GJEnkQgu8c2HUxkNkcjnqTe6TvvIEDQCQbpEd83A
 - BITCAKE: https://arweave.net/oDwmRYhnZKQArT4isAC8mfXBY7UyGp-qfv_nXk3hITE
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BITCAKE.PIZZABIKINI](https://api.xcp.io/v2/assets/A1724223699061979674/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

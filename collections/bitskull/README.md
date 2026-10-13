@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 89 issuer previews across Dany, Nicolas Sierro and animalspirits, plus the FAKECHICKEN parent preview. The exact parent/subasset namespace connects BITSKULL with BITSKULL.S01. Both have skull artwork and existing Dany credits. The parent receives this specific primary home while retaining Kaleidoscope as secondary; the child leaves Counterparty.
 
 Specific artwork families take primary precedence over Kaleidoscope, retained as secondary. Existing official primary memberships and all artist labels remain. Namespace membership does not imply shared authorship or official collection acceptance. Full audiovisual review remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [BITSKULL.S01](https://api.xcp.io/v2/assets/BITSKULL.S01/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

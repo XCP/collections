@@ -28,3 +28,7 @@ The parent has actual artwork and is included with NEON and LICENSE.
 - `MIAWALLACE`: https://arweave.net/dVURz3ILRQDnYhsL3gtm7WS0zvzr5FDbOzPkEoeHUUo
 - `MIAWALLACE.NEON`: https://arweave.net/EbXDmFcKHjO3_QyUwV_UDTyPK3qkzq4qy4pWnJ3RDQM
 - `MIAWALLACE.LICENSE`: https://arweave.net/t62SXeJyuD_bV5M5YlGUztLUH6bxghfHZKZC4IQbXjo
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MIAWALLACE.NEON](https://api.xcp.io/v2/assets/A285567184361077297/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -28,3 +28,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 This existing collection also describes variations of ULTRAFAKEMAN. The redundant `ultrafakeman-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for ULTRAFAKEMAN against its ULTRAFAKEMAN.* subassets on side-by-side contact sheets. Included: ULTRAFAKEMAN.FAKEWEF (edited version). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ULTRAFAKEMAN.FAKEWEF](https://api.xcp.io/v2/assets/A7401564555925773271/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

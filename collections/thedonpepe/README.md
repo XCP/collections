@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 46 issuer previews across LycosFreak, Luca and SNUXTONPACK. Exact namespace, full parent-and-child artwork comparison, and historical parent metadata at https://fakeasf.club/assets/THEDONPEPE/THEDONPEPE.json establish the family. Parent keeps Fake Rares primary. The typo THEDONEPEPE in the child description is not used as the identity.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Six Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and artwork. Complete audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [THEDONPEPE.FAKA](https://api.xcp.io/v2/assets/THEDONPEPE.FAKA/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

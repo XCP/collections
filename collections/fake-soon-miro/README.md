@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, issuer records and CDN contact sheets. The filename-suffixed Arweave URLs returned 404, but the transaction-root URLs recovered exact-asset JSON for every included work. These records name the asset, credit chrome void in pgpsig, and link twitter.com/chrome_void. Membership is corroborated by the explicit namespace and reviewed images. Parent and six variants explicitly combine the same Fake, Soon and Miro graphic layers in different arrangements; names and artwork corroborate the family. Parent remains primary in Fake Commons and secondary here. Children are not claimed as accepted Fake Commons directory cards.
 
 Existing artist credits and directory primary homes are preserved. Kaleidoscope gallery entries become secondary to the specific family. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKESOONMIRO.ARTISTEDITION](https://api.xcp.io/v2/assets/FAKESOONMIRO.ARTISTEDITION/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

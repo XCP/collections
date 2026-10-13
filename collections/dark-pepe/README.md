@@ -24,3 +24,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 - [BXLUST](https://api.xcp.io/v2/assets/BXLUST) — [artwork](https://cdn.xcp.io/img/full/BXLUST)
 - [BXTHELAW](https://api.xcp.io/v2/assets/BXTHELAW) — [artwork](https://cdn.xcp.io/img/full/BXTHELAW)
 - [BXTHUGPEPE](https://api.xcp.io/v2/assets/BXTHUGPEPE) — [artwork](https://cdn.xcp.io/img/full/BXTHUGPEPE)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BXFIREBURN](https://api.xcp.io/v2/assets/BXFIREBURN/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

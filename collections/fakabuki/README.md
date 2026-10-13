@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 11 issuer registrations and their available artwork previews. Same issuer, existing Melih Polat credits and matching artwork establish the pair. FAKABUKIPSCL preview depicts the painting and signed Certificate of Authenticity explicitly naming FAKABUKI. This groups the related editions; it does not claim redemption is currently available. FAKABUKI retains Fake Rares primary membership.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Four Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links original issuer-linked metadata and matching card designs. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [FAKABUKI](https://api.xcp.io/v2/assets/FAKABUKI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

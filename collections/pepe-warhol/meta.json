@@ -2,5 +2,6 @@
   "name": "Pepe Warhol",
   "kind": "canonical",
   "description": "The Pepe Warhol series of pop-art portraits, identified by its printed titles and published asset metadata.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2021
 }

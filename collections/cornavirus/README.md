@@ -27,3 +27,7 @@ Reviewed individual artist credits from exact-asset original metadata:
 - CORNAVIRUS.SPREAD: **MightBeMike**, from the [original metadata](https://arweave.net/xDa_K351XRAkjWO-Q3cs2CJt72uiMjGn_el5VJrHGno) attribution field ("mightbemike").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNAVIRUS.SPREAD](https://api.xcp.io/v2/assets/A14912085930505472348/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

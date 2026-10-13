@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The parent and its two current same-issuer children depict the leader/nuclear theme. The child namespace establishes the relationship without implying acceptance into Rare Pepe. IPFS metadata did not recover; CDN artwork inspected for all three.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2023** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [JONGPEPE.NUK](https://api.xcp.io/v2/assets/JONGPEPE.NUK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

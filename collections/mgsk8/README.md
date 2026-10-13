@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. Five consecutively lettered MGSK assets depict skateboarding studies by the same issuer. All five chain-linked URLs name MGSK8.json, corroborating the shared series identity. JSON itself was unavailable.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MGSKA](https://api.xcp.io/v2/assets/MGSKA/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

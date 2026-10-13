@@ -28,3 +28,7 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/SSBLUEBEAR/subas
 This existing collection also describes variations of SSBLUEBEAR. The redundant `ssbluebear-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for SSBLUEBEAR against its SSBLUEBEAR.* subassets on side-by-side contact sheets. Included: SSBLUEBEAR.FASTER, SSBLUEBEAR.BLUEMAGIC, SSBLUEBEAR.COLLECTOR (glitch and tiled edits). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SSBLUEBEAR.FASTER](https://api.xcp.io/v2/assets/A10227671453596409036/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

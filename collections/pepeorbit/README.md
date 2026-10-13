@@ -16,3 +16,7 @@
 ## Membership evidence
 
 Reviewed 2026-10-13 by comparing CDN card art for PEPEORBIT against its  subassets on side-by-side contact sheets. Included: PEPEORBIT.LAFAKAERROR (faded error edition). Subassets showing distinct works are left out. The parent stays primary in its existing collection; the variation moves here from the Counterparty fallback collection. Existing traits are preserved.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPEORBIT.LAFAKAERROR](https://api.xcp.io/v2/assets/PEPEORBIT.LAFAKAERROR/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

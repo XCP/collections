@@ -36,3 +36,7 @@ Several source images reproduce historical artworks. Collection membership descr
 - [A8288544732454222000](https://api.xcp.io/v2/assets/A8288544732454222000) — [artwork](https://cdn.xcp.io/img/full/A8288544732454222000) — [project metadata](https://pepecartel.ar.io/c/A8288544732454222000.json)
 - [A8819333108591470000](https://api.xcp.io/v2/assets/A8819333108591470000) — [artwork](https://cdn.xcp.io/img/full/A8819333108591470000) — [project metadata](https://pepecartel.ar.io/c/A8819333108591470000.json)
 - [A9029069523341793000](https://api.xcp.io/v2/assets/A9029069523341793000) — [artwork](https://cdn.xcp.io/img/full/A9029069523341793000) — [project metadata](https://pepecartel.ar.io/c/A9029069523341793000.json)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A3282245055347739000](https://api.xcp.io/v2/assets/A3282245055347739000/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

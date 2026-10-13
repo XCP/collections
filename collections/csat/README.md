@@ -23,3 +23,7 @@ Membership is an explicit reviewed list of the illustrated parent and its exact-
 - CSAT.2nd: [artwork](https://cdn.xcp.io/img/full/CSAT.2nd)
 - CSAT.PSST: [artwork](https://cdn.xcp.io/img/full/CSAT.PSST)
 - CSAT.cc0: [artwork](https://cdn.xcp.io/img/full/CSAT.cc0)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CSAT.cc0](https://api.xcp.io/v2/assets/A18188137632490106252/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

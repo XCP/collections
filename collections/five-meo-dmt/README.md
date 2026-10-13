@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, descriptions, live linked JSON and CDN contact sheets for every included work. Live parent JSON invites collectors to capture still frames for subassets. Variant JSON identifies Cycle 1 through Cycle 5, LSD + PEPE and still frames. Each new variant links Memeticx and names its exact asset. Names of historical artists are variant titles, not creator attributions.
 
 9 explicitly reviewed works. Preserve each artwork's existing credits rather than assigning the namespace issuer as artist. Existing directory parents remain primary there and secondary here. Counterparty memberships are removed. CDN-placeholder SVG candidates are pending media verification, not presumed to lack artwork.
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FIVEMEODMT.MONDRIAN](https://api.xcp.io/v2/assets/A11967307880570606129/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

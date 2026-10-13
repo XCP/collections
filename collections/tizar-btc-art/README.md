@@ -31,3 +31,7 @@ This explicit editorial grouping follows the on-chain namespace and reviewed art
 - [TIZARBTCART.DONPEPE](https://api.xcp.io/v2/assets/A7729231734434056253) — [artwork](https://cdn.xcp.io/img/full/A7729231734434056253)
 - [TIZARBTCART.TANKMAN](https://api.xcp.io/v2/assets/A14413880485321833515) — [artwork](https://cdn.xcp.io/img/full/A14413880485321833515)
 - [TIZARBTCART.TANKMANPRINT](https://api.xcp.io/v2/assets/A15591078930470892574) — [artwork](https://cdn.xcp.io/img/full/A15591078930470892574)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TIZARBTCART.THEFIATMONEIIPRNT](https://api.xcp.io/v2/assets/A3113065401207695362/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

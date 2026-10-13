@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { existsSync, readdirSync, statSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { join } from "node:path";
 
 const errors = [];
@@ -18,6 +18,11 @@ for (const entry of readdirSync(join(root, "collections"), { withFileTypes: true
   if (!entry.isDirectory()) continue;
   const slug = entry.name;
   const directory = join(root, "collections", slug);
+  const metaPath = join(directory, "meta.json");
+  if (existsSync(metaPath)) {
+    const meta = JSON.parse(readFileSync(metaPath, "utf8"));
+    if (!Number.isInteger(meta.founded)) errors.push(`${slug}: add an evidenced founded year and document its basis in README.md; registration alone is not a project date`);
+  }
   if (!existsSync(join(directory, "README.md"))) errors.push(`${slug}: missing collections/${slug}/README.md`);
   if (existsSync(join(directory, "adapter.ts"))) {
     const testPath = join(root, "tests", "collections", `${slug}.test.ts`);

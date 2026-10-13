@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 44 issuer previews across Maya and eth69420. The two distinct positive-supply assets share an issuer and existing eth69420 credits. PEPECERTIF visibly reproduces PEPEROY’s blue-haired, single-eye composition with a certificate, paper texture and FAKE overlay. Historical PEPECERTIF JSON explicitly names the asset and signs eth69420. PEPEROY retains Fake Commons primary; the certificate variant becomes primary here. This does not assert official Fake Commons acceptance of PEPECERTIF.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Four Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Parent namespaces were checked across the full asset index. Complete audiovisual review remains open. RARESTDECK’s historical video redirects to HTML, so no broader deck membership is inferred from it.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPECERTIF](https://api.xcp.io/v2/assets/PEPECERTIF/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

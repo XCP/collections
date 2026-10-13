@@ -22,3 +22,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 - [BTCMADMAXONE](https://api.xcp.io/v2/assets/BTCMADMAXONE) — [artwork](https://cdn.xcp.io/img/full/BTCMADMAXONE)
 - [BTCMADMAXTWO](https://api.xcp.io/v2/assets/BTCMADMAXTWO) — [artwork](https://cdn.xcp.io/img/full/BTCMADMAXTWO)
 - [FAKEPEPEGOOD](https://api.xcp.io/v2/assets/FAKEPEPEGOOD) — [artwork](https://cdn.xcp.io/img/full/FAKEPEPEGOOD)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCMADMAXONE](https://api.xcp.io/v2/assets/BTCMADMAXONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
