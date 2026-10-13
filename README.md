@@ -8,11 +8,11 @@
 | Collections | 982 |
 | Canonical collections | 973 |
 | Curated views | 9 |
-| Explicit unique assets | 64,553 |
-| Explicit collection memberships | 65,844 |
-| Primary memberships | 64,553 |
+| Explicit unique assets | 64,554 |
+| Explicit collection memberships | 65,845 |
+| Primary memberships | 64,554 |
 | Secondary or curated memberships | 1,291 |
-| Memberships with traits | 35,268 |
+| Memberships with traits | 35,966 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -95,11 +95,11 @@ Useful examples:
 
 Required fields are `name`, `kind`, `description`, and `art_frame`.
 `art_frame` is `card`, `square`, or `landscape`, based on the collection's
-dominant artwork shape. `founded` is the year the project launched; every
-collection carries one, and a new collection should too. Without it, a
-marketplace dates the collection from its oldest member's issuance, which
-overstates the age of a collection that adopted assets registered before it
-existed. Optional links are `website`, `x`, and `discord`. See the
+dominant artwork shape. `founded` is the year the project launched. Add it
+whenever a source establishes it, and always when the members were registered
+before the project used them. Without it, a marketplace dates the collection
+from its oldest member's issuance, which overstates the age of a collection
+that adopted assets registered before it existed. Optional links are `website`, `x`, and `discord`. See the
 [`meta.json` schema](schemas/collection-meta.schema.json).
 
 `variation_of` names the parent of a variations collection: one work and its
@@ -152,9 +152,21 @@ same compact identity and retain the longname for display. See the
 
 ### Traits
 
-Traits use `{ "trait_type", "value" }`, matching common NFT metadata. The
-registry defines `Artist`, `Series`, and `Card` today. Repeat `Artist` for a
-collaboration. Other traits are preserved.
+Traits use `{ "trait_type", "value" }`, matching common NFT metadata. Other
+traits are preserved as published. These have registry meaning and checks:
+
+| Trait | Value | Meaning and rules |
+| --- | --- | --- |
+| `Artist` | string | The work's creator. Repeat it, in order, for a collaboration. One artist has one spelling: values that differ only by case, spacing or punctuation fail validation. Never an address or a placeholder (see `data/blocked-artist-credits.json`). Combined labels such as "A x B" are split into individual credits by `data/collaboration-credits.json`. |
+| `Series`, `Card` | number | A catalogue position, for sets that publish one. |
+| `Art year` | integer, 2014–2100, at most one | The year the art first appeared, when the asset was registered earlier (from its first art-bearing description, corroborated by first activity). Used to date the work and its artist. |
+| `Based on` | registered asset id, at most one | The earlier work this asset reworks: another project's take on a card, or a physical edition. Record it only where the relationship is explicit (the asset's name embeds the original, or its own metadata says so) and the art confirms it. |
+
+An entry omits `attributes` when it has none and omits `primary` unless it is
+`false`; validation rejects the no-op forms in reviewed files.
+
+Subassets are listed by longname. `data/numeric-assets.json` maps every numeric
+id the registry uses; run `npm run numeric:resolve` after adding one.
 
 Do not put supply, divisibility, issuance dates, ownership, prices, listings,
 or sales in this repo. Consumers derive chain and market facts independently.

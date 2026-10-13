@@ -19,6 +19,6 @@
     "docs": "node scripts/generate-readmes.ts",
     "docs:check": "node scripts/generate-readmes.ts --check",
     "numeric:resolve": "node scripts/resolve-numeric-assets.ts",
-    "check": "npm run validate && npm run coverage && npm test && npm run export"
+    "check": "npm run validate && npm run coverage && npm test && npm run export && npm run docs:check"
   }
 }

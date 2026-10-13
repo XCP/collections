@@ -10,7 +10,7 @@
 | Primary memberships | 76 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Affiliation: 38/76 (50%)<br>Date: 38/76 (50%)<br>Pioneer: 68/76 (89.5%)<br>Rarity: 76/76 (100%)<br>Season: 76/76 (100%)<br>Type: 76/76 (100%) |
+| Traits | Affiliation: 38/76 (50%)<br>Based on: 5/76 (6.6%)<br>Date: 38/76 (50%)<br>Pioneer: 68/76 (89.5%)<br>Rarity: 76/76 (100%)<br>Season: 76/76 (100%)<br>Type: 76/76 (100%) |
 <!-- collection-facts:end -->
 
 Membership is the reviewed static snapshot in `assets.json`.

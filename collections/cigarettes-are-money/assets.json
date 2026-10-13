@@ -6,33 +6,27 @@
       "attributes": [
         {
           "trait_type": "Artist",
-          "value": "JamesMcPickle"
+          "value": "James McPickle"
         }
       ]
     },
     {
-      "asset": "YOUCANSMOKE",
-      "attributes": []
+      "asset": "YOUCANSMOKE"
     },
     {
-      "asset": "YOUCANTSMOAK",
-      "attributes": []
+      "asset": "YOUCANTSMOAK"
     },
     {
-      "asset": "YOUCANTSMOKE.FAKEMOVIE",
-      "attributes": []
+      "asset": "YOUCANTSMOKE.FAKEMOVIE"
     },
     {
-      "asset": "YOUCANTSMOKE.BLUEVAPOR",
-      "attributes": []
+      "asset": "YOUCANTSMOKE.BLUEVAPOR"
     },
     {
-      "asset": "YOUCANTSMOKE.GREENVAPOR",
-      "attributes": []
+      "asset": "YOUCANTSMOKE.GREENVAPOR"
     },
     {
-      "asset": "YOUCANTSMOKE.MCPICKLEXPURPLE",
-      "attributes": []
+      "asset": "YOUCANTSMOKE.MCPICKLEXPURPLE"
     }
   ]
 }

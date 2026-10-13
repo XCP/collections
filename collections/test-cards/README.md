@@ -1,5 +1,18 @@
 # Test Cards
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 3 assets |
+| Primary memberships | 3 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 3/3 (100%) |
+<!-- collection-facts:end -->
+
 The illustrated parent and two descendants depict television test patterns, including color bars and a parody test-card scene. These patterns are the available artwork, not CDN placeholder responses. This is a namespace-based editorial grouping, not an assertion about the artist’s intended use of the tokens.
 
 All relevant namespaces were read through next_offset null. Membership is explicit, new children require review, and existing artist credits are preserved. Subjects, parent namespaces and issuing addresses are not automatically treated as creators.

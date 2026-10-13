@@ -1,5 +1,18 @@
 # gg Toy Company
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 6 assets |
+| Primary memberships | 6 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 6/6 (100%) |
+<!-- collection-facts:end -->
+
 A curated grouping of six tracked artworks published under the gg Toy Company name. Each member's exact-asset Arweave metadata signs the work as gg Toy Company and links the same project social account. The card images also carry gg Toy Company branding. Existing artist credits and other traits are preserved.
 
 This is an explicit membership list, not automatic inclusion of everything issued by the address. The wider issuer inventory also contains TWIGFROMGG and GGCASH; those untracked assets are recorded as separate discovery leads rather than silently importing the whole address.

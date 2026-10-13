@@ -1,5 +1,18 @@
 # BTC Stamp Art
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 11 assets |
+| Primary memberships | 11 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 11/11 (100%) |
+<!-- collection-facts:end -->
+
 The illustrated parent and ten descendants form an explicit namespace family; the reviewed images feature Stamps lettering, logos and related Bitcoin imagery. This groups the artwork and does not claim that the Counterparty assets are Bitcoin Stamps protocol inscriptions. TEN has unavailable artwork and is excluded. EIGHT has a small but genuine image, which is retained without quality-altering changes.
 
 The complete namespace inventory was read through next_offset null. Membership is explicit and new children require review. Existing credits are retained; shared issuers and depicted subjects are not sufficient evidence for new attribution.

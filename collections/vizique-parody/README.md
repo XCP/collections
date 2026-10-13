@@ -1,5 +1,18 @@
 # Parody & Fun
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 4 assets |
+| Primary memberships | 3 |
+| Secondary or curated memberships | 1 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 4/4 (100%) |
+<!-- collection-facts:end -->
+
 The artist’s [portfolio](https://vizique.com/by-series-style/) groups these works under “Parody & Fun”. Reviewed 2026-10-11: exact linked dispenser transactions or direct asset links establish identity, and all artwork was compared with CDN images. KILLERPEPE is matched from its displayed artwork and title. These are artist-defined themes, not evidence of admission to a separate curated project. Other painters are inspirations, not co-creators. Existing specific primary homes and creator credits are preserved. Historical card text does not establish present utility or redemption rights.
 
 ## Reviewed members

@@ -1,5 +1,18 @@
 # Dank Fakers
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 7 assets |
+| Primary memberships | 4 |
+| Secondary or curated memberships | 3 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 4/7 (57.1%) |
+<!-- collection-facts:end -->
+
 Seven exact-asset JSON descriptions explicitly name Dank Fakers. Preserve Peakybro series primary and use secondary membership for its three cards. Do not include all Hues assets or all FAKER prefixes.
 
 Membership is an explicit reviewed list. Existing specific primary collections remain primary; members appear here secondarily where appropriate. Creator identities and existing traits are preserved. Namespace membership does not imply admission to a parent collection.

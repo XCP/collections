@@ -1,5 +1,18 @@
 # Crypto Artist Riffs
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Curated view |
+| Membership | 4 assets |
+| Primary memberships | 0 |
+| Secondary or curated memberships | 4 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 4/4 (100%) |
+<!-- collection-facts:end -->
+
 The artist’s [portfolio](https://vizique.com/by-series-style/) labels this gallery “Riffing on the popular Crypto artists of the current day”. All four images were matched to exact dispenser-linked assets and CDN artwork on 2026-10-11. Dank Rares remains primary. Vizique remains the credited artist; inspiration references do not add collaborator credits.
 
 - [DANKBOYPEPE](https://xchain.io/tx/443b2ff854af40f1beb9e3923752a5e51746e8e55f0fbfaf82bfb39dcef34330) — [portfolio artwork](https://vizique.com/wp-content/uploads/2021/12/DANKBOYPEPE.CARD-SIZE.png)

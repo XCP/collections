@@ -1,24 +1,19 @@
 {
   "assets": [
     {
-      "asset": "TRASHONE",
-      "attributes": []
+      "asset": "TRASHONE"
     },
     {
-      "asset": "TRASHTWO",
-      "attributes": []
+      "asset": "TRASHTWO"
     },
     {
-      "asset": "TRASHTHREE",
-      "attributes": []
+      "asset": "TRASHTHREE"
     },
     {
-      "asset": "TRASHFOUR",
-      "attributes": []
+      "asset": "TRASHFOUR"
     },
     {
-      "asset": "TRASHFIVE",
-      "attributes": []
+      "asset": "TRASHFIVE"
     }
   ]
 }

@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 6 assets |
-| Primary memberships | 6 |
+| Membership | 11 assets |
+| Primary memberships | 11 |
 | Secondary or curated memberships | 0 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Backdrop: 6/6 (100%)<br>Banner: 2/6 (33.3%)<br>Battle scar: 1/6 (16.7%)<br>Body: 5/6 (83.3%)<br>Build boost: 5/6 (83.3%)<br>Car: 6/6 (100%)<br>Card: 6/6 (100%)<br>Condition: 1/6 (16.7%)<br>Edition: 6/6 (100%)<br>Engine: 6/6 (100%)<br>Finish: 6/6 (100%)<br>First pull: 4/6 (66.7%)<br>Founder plate: 6/6 (100%)<br>Front: 5/6 (83.3%)<br>Glow: 5/6 (83.3%)<br>Inside: 5/6 (83.3%)<br>Last race: 6/6 (100%)<br>Lights: 5/6 (83.3%)<br>Nitro: 1/6 (16.7%)<br>Odometer: 6/6 (100%)<br>Paint: 6/6 (100%)<br>Podium: 1/6 (16.7%)<br>Power: 6/6 (100%)<br>Rear: 5/6 (83.3%)<br>Record: 6/6 (100%)<br>Roof: 5/6 (83.3%)<br>Season part: 4/6 (66.7%)<br>Series: 6/6 (100%)<br>Stance: 5/6 (83.3%)<br>Standing: 6/6 (100%)<br>Tint: 5/6 (83.3%)<br>Tires: 6/6 (100%)<br>Victory Lap: 1/6 (16.7%)<br>VIN: 6/6 (100%)<br>VTEC: 5/6 (83.3%)<br>Wear: 6/6 (100%)<br>Weight reduction: 6/6 (100%)<br>Wheels: 1/6 (16.7%) |
+| Traits | Car: 11/11 (100%)<br>Card: 11/11 (100%)<br>Series: 11/11 (100%)<br>Tier: 11/11 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from the garage's own public mint API

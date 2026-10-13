@@ -1,5 +1,18 @@
 # LFGRANDPEPE
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 2 assets |
+| Primary memberships | 2 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 2/2 (100%) |
+<!-- collection-facts:end -->
+
 Explicit namespace and reviewed illustrated parent/children. Preserve existing specific primary homes; add them secondarily. Suffix-only JSON identifiers are corroborative, not exact full-name matches.
 
 Membership is an explicit reviewed list. Existing specific primary collections remain primary; members appear here secondarily where appropriate. Creator identities and existing traits are preserved. Namespace membership does not imply admission to a parent collection.

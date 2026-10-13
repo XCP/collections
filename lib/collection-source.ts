@@ -86,6 +86,10 @@ export function isCounterpartyAssetId(value) {
 // as a person. Leave the trait off until the artist is known.
 const BITCOIN_ADDRESS = /^(?:[13][1-9A-HJ-NP-Za-km-z]{25,34}|bc1[02-9ac-hj-np-z]{11,87})$/i;
 
+/** The year a work's art first appeared, where it differs from its issuance. */
+export const ART_YEAR_TRAIT = "Art year";
+const SINGLE_VALUE_TRAITS = [ART_YEAR_TRAIT, "Based on"];
+
 function normalizedAttribute(value, path) {
   const attribute = objectAt(value, path);
   exactKeys(attribute, ATTRIBUTE_KEYS, path);
@@ -99,6 +103,9 @@ function normalizedAttribute(value, path) {
   if (typeof attribute.value === "string") nonemptyString(attribute.value, `${path}.value`, 1_000);
   if (traitType.toLowerCase() === "artist" && typeof attribute.value === "string" && BITCOIN_ADDRESS.test(attribute.value.trim())) {
     fail(`${path}.value`, "must name the artist, not a Bitcoin address");
+  }
+  if (traitType === ART_YEAR_TRAIT && (!Number.isInteger(attribute.value) || attribute.value < MIN_FOUNDED_YEAR || attribute.value > MAX_FOUNDED_YEAR)) {
+    fail(`${path}.value`, `Art year must be an integer year from ${MIN_FOUNDED_YEAR} to ${MAX_FOUNDED_YEAR}`);
   }
   return { trait_type: traitType, value: attribute.value };
 }
@@ -136,6 +143,11 @@ export function normalizeAssets(value, path = "assets") {
       normalized.attributes = entry.attributes.map((attribute, attributeIndex) =>
         normalizedAttribute(attribute, `${entryPath}.attributes[${attributeIndex}]`),
       );
+      for (const single of SINGLE_VALUE_TRAITS) {
+        if (normalized.attributes.filter((attribute) => attribute.trait_type === single).length > 1) {
+          fail(`${entryPath}.attributes`, `may carry at most one ${single}`);
+        }
+      }
       const seenAttributes = new Set();
       for (let attributeIndex = 0; attributeIndex < normalized.attributes.length; attributeIndex += 1) {
         const attribute = normalized.attributes[attributeIndex];
@@ -299,6 +311,14 @@ export function readCollectionAssets(repositoryRoot, slug) {
   if (!existsSync(path)) return undefined;
   const document = objectAt(parseJsonFile(path, `${slug}/assets.json`), `${slug}/assets.json`);
   exactKeys(document, ASSETS_FILE_KEYS, `${slug}/assets.json`);
+  // Reviewed files carry no no-op fields: an omitted primary is primary, and an
+  // entry without traits omits attributes. Feeds from adapters stay lenient.
+  if (Array.isArray(document.assets)) {
+    document.assets.forEach((entry, index) => {
+      if (entry?.primary === true) fail(`${slug}/assets.json.assets[${index}].primary`, "omit primary: true; only primary: false is meaningful");
+      if (Array.isArray(entry?.attributes) && entry.attributes.length === 0) fail(`${slug}/assets.json.assets[${index}].attributes`, "omit an empty attributes array");
+    });
+  }
   return normalizeAssets(document.assets, `${slug}/assets.json.assets`);
 }
 
@@ -746,6 +766,32 @@ export function basedOnIssues(collections) {
   return issues;
 }
 
+/** Comparable spelling of an artist name: case, spacing and punctuation removed. */
+const artistKey = (name) => name.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+
+/**
+ * One artist, one spelling. Two Artist values that differ only by case,
+ * spacing or punctuation ("nathan sonic" / "nathansonic") would become two
+ * artist pages; use the established spelling everywhere.
+ */
+export function artistSpellingIssues(collections) {
+  const spellings = new Map();
+  for (const collection of collections) {
+    for (const entry of collection.assets ?? []) {
+      for (const attribute of entry.attributes ?? []) {
+        if (attribute.trait_type !== "Artist" || typeof attribute.value !== "string") continue;
+        const key = artistKey(attribute.value);
+        if (!key) continue;
+        const seen = spellings.get(key) ?? new Map();
+        if (!seen.has(attribute.value)) seen.set(attribute.value, `${collection.slug}: ${entry.asset}`);
+        spellings.set(key, seen);
+      }
+    }
+  }
+  return [...spellings.values()].filter((seen) => seen.size > 1).map((seen) =>
+    `Artist spellings ${[...seen.entries()].map(([name, where]) => `"${name}" (${where})`).join(" and ")} name one artist; use one spelling`);
+}
+
 const BLOCKED_CREDITS = "data/blocked-artist-credits.json";
 
 /**
@@ -805,6 +851,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
   issues.push(...numericAssetIssues(repositoryRoot, collections));
   issues.push(...blockedCreditIssues(repositoryRoot, collections));
   issues.push(...basedOnIssues(collections));
+  issues.push(...artistSpellingIssues(collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
   const explicitCollections = collections.filter((collection) => collection.assets !== undefined);

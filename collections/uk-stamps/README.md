@@ -1,5 +1,18 @@
 # UK Stamps
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 10 assets |
+| Primary memberships | 10 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 10/10 (100%)<br>Based on: 8/10 (80%) |
+<!-- collection-facts:end -->
+
 All ten descendants have reviewed artwork in a consistent British postage-stamp design. This is a Counterparty artwork family, not a claim of membership in the Bitcoin Stamps protocol. The blank UKSTAMPS namespace parent has no reviewed artwork and is excluded.
 
 The complete namespace was read through next_offset null. Membership is explicit; new children require review. Existing individual artist credits are preserved; no credit is assigned solely from a shared issuer, a depicted person or collection membership.

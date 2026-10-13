@@ -1,5 +1,18 @@
 # Sgt Fakers
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 3 assets |
+| Primary memberships | 3 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 3/3 (100%) |
+<!-- collection-facts:end -->
+
 Explicit numbered SGTFAKER titles and Sgt. Pepper uniform portraits. Known issuer inventory has no second card; do not invent missing member. ONE metadata explicitly mentions Sgt.Pepper; THREE metadata confirms SGTFAKERTHREE spelling.
 
 Membership is an explicit reviewed list. Existing specific primary collections remain primary; members appear here secondarily where appropriate. Creator identities and existing traits are preserved. Namespace membership does not imply admission to a parent collection.

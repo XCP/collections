@@ -10,7 +10,7 @@
 | Primary memberships | 3 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 3/4 (75%) |
+| Traits | Artist: 4/4 (100%) |
 <!-- collection-facts:end -->
 
 Exact personal namespace, illustrated parent and three illustrated descendants. Parent/REJECTION share exact composition but remain separate tokens. BURNCARD is untracked and must remain uncredited absent explicit authorship. Parent Fake Commons primary retained; placeholder xcp child excluded.

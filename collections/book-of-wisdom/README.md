@@ -10,7 +10,7 @@
 | Primary memberships | 26 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/26 (3.8%) |
+| Traits | Artist: 24/26 (92.3%) |
 <!-- collection-facts:end -->
 
 ## Waldemar recovered metadata credits

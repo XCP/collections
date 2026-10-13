@@ -10,7 +10,7 @@
 | Primary memberships | 3 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 3/3 (100%)<br>Card: 3/3 (100%)<br>Series: 3/3 (100%) |
+| Traits | Art year: 2/3 (66.7%)<br>Artist: 3/3 (100%)<br>Card: 3/3 (100%)<br>Series: 3/3 (100%) |
 <!-- collection-facts:end -->
 
 The numbered series explicitly identified as Majoni’s Collection in its original metadata.

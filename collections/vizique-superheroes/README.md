@@ -1,5 +1,18 @@
 # Super Heroes and Villain
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Curated view |
+| Membership | 5 assets |
+| Primary memberships | 0 |
+| Secondary or curated memberships | 5 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 5/5 (100%) |
+<!-- collection-facts:end -->
+
 The artist’s [portfolio](https://vizique.com/by-series-style/) groups these works under “Super Heroes and Villain”. Reviewed 2026-10-11: exact linked dispenser transactions or direct asset links establish identity, and all artwork was compared with CDN images. KILLERPEPE is matched from its displayed artwork and title. These are artist-defined themes, not evidence of admission to a separate curated project. Other painters are inspirations, not co-creators. Existing specific primary homes and creator credits are preserved. Historical card text does not establish present utility or redemption rights.
 
 ## Reviewed members

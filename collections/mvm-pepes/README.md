@@ -1,5 +1,18 @@
 # MVM Pepes
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 7 assets |
+| Primary memberships | 7 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Title: 7/7 (100%) |
+<!-- collection-facts:end -->
+
 An editorial name for seven gold-framed Pepe portraits, each explicitly prefixed MVM in its issuance description: Unamused Pepe, Your Friend Pepe, Pepe for President, Rage Pepe, Woke Pepe, Rarest of Pepes and Feels Good Pepe. The matching gold portrait frame corroborates the naming evidence; the issuing address alone does not establish membership.
 
 The complete issuer inventory contains these seven assets. The MVM abbreviation is retained without inventing an expansion, artist identity or website. The group is not asserted to belong to an official Rare Pepe series. No artist is inferred from the underlying Pepe character. Original descriptive titles are retained as Title traits.

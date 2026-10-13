@@ -1,5 +1,18 @@
 # Great Reset Master
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 3 assets |
+| Primary memberships | 3 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Series: 3/3 (100%) |
+<!-- collection-facts:end -->
+
 Three cards explicitly display the shared Great Reset Master title, Prof Pepe Schwab character and Series A/B edition labels. PEPESHWABA and PEPESWABA are Series A variants from the same issuing address; PEPESWABB explicitly bears Series B. Membership is supported by those printed series labels and asset naming, not by a shared visual style alone.
 
 Both issuing-address inventories are complete and together contain exactly these three assets. The creator is unresolved; no artist is inferred from the addresses or depicted person. The printed edition limits are not imported as chain supply.

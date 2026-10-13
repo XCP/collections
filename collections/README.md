@@ -59,7 +59,16 @@ Mixed collections should use the closest dominant shape.
 ```
 
 Use `"primary": false` when an asset appears here but has its canonical home
-in another collection.
+in another collection. Omit `attributes` when an entry has none.
+
+Beyond `Artist`, `Series`, and `Card`, two traits carry registry meaning:
+`Art year` (an integer) dates art that first appeared after the asset was
+registered, and `Based on` names the registered asset an entry reworks. See
+[Traits](../README.md#traits) for the rules; credit an artist only from
+explicit evidence, never from the issuing address alone.
+
+A collection whose `meta.json` sets `"variation_of": "PARENT"` groups one work
+with its subasset variations: it lists `PARENT` and only `PARENT.*` assets.
 
 Also add a short `README.md` telling contributors what belongs in the
 collection and how to verify changes. Optional `icon.png`, `icon.jpg`,
@@ -70,6 +79,8 @@ collection and how to verify changes. Optional `icon.png`, `icon.jpg`,
 - Wrong name, description, or link: edit `meta.json`.
 - Missing or extra asset: edit `assets.json`.
 - Wrong artist, series, card, or other trait: edit that asset's `attributes`.
+  Say where the credit comes from (the card's own plate, the description, an
+  artist's post); a matching issuer is a lead, not evidence.
 - Asset belongs here but has a primary home elsewhere: add `"primary": false`.
 - Wrong supply, divisibility, issuer, owner, or issuance date: do not copy the
   correction here. Those are chain facts, not collection metadata.

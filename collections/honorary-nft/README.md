@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/4 (100%) |
+| Traits | Artist: 4/4 (100%)<br>Based on: 1/4 (25%) |
 <!-- collection-facts:end -->
 
 Complete parent namespace has two illustrated children. The parent visibly says honorary NFT. PEPBOTDRAFT is included as a related draft: its historical metadata points to the same HONORARYNFT.PEPBOT2050 document and identical animated artwork. The tokens remain distinct; the mismatched metadata asset field is not treated as an alias. Existing credits are preserved.

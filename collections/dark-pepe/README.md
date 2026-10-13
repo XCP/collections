@@ -1,5 +1,18 @@
 # Dark Pepe
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 5 assets |
+| Primary memberships | 5 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 5/5 (100%) |
+<!-- collection-facts:end -->
+
 Five black-and-white character cards share explicitly printed Dark Pepe branding. BXPEMANBALLS and BXAJVALIANT excluded despite prefix.
 
 All members below have reviewed artwork. Existing creator credits and traits are preserved. Namespace membership does not establish admission to an existing parent collection. Physical artwork photographs do not establish token redemption rights. New children require explicit review.

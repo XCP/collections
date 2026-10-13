@@ -12,6 +12,7 @@ import {
   materializeRepository,
   normalizeCollectionMeta,
   blockedCreditIssues,
+  artistSpellingIssues,
   basedOnIssues,
   normalizeAssets,
   numericAssetIssues,
@@ -571,4 +572,41 @@ test("Counterparty fallback preserves project traits and rejects a curated-only 
     { slug: "counterparty", kind: "canonical", assets: [{ asset: "SHARED" }] },
     { slug: "gallery", kind: "curated", assets: [{ asset: "SHARED" }] },
   ]), /canonical home/);
+});
+
+test("one artist has one spelling across the registry", () => {
+  const credit = (asset, value) => ({ asset, attributes: [{ trait_type: "Artist", value }] });
+  const issues = artistSpellingIssues([
+    { slug: "one", assets: [credit("AAA", "Crypto Ali"), credit("BBB", "Rare Scrilla")] },
+    { slug: "two", assets: [credit("CCC", "CryptoAli"), credit("DDD", "Rare Scrilla")] },
+  ]);
+  assert.equal(issues.length, 1);
+  assert.match(issues[0], /"Crypto Ali" \(one: AAA\) and "CryptoAli" \(two: CCC\)/);
+});
+
+test("Art year is one integer year and Based on appears at most once", () => {
+  const entry = (attributes) => [{ asset: "RAREPEPE", attributes }];
+  assert.deepEqual(normalizeAssets(entry([{ trait_type: "Art year", value: 2021 }]))[0].attributes, [{ trait_type: "Art year", value: 2021 }]);
+  for (const value of ["2021", 2021.5, 1999, 3000]) {
+    assert.throws(() => normalizeAssets(entry([{ trait_type: "Art year", value }])), CollectionValidationError);
+  }
+  for (const trait_type of ["Art year", "Based on"]) {
+    const value = trait_type === "Art year" ? 2021 : "PEPECASH";
+    assert.throws(
+      () => normalizeAssets(entry([{ trait_type, value }, { trait_type, value }])),
+      (error) => error instanceof CollectionValidationError && /at most one/.test(error.message),
+    );
+  }
+});
+
+test("reviewed assets.json omits primary: true and empty attributes", (t) => {
+  for (const [assets, message] of [
+    [[{ asset: "RAREPEPE", primary: true }], /omit primary: true/],
+    [[{ asset: "RAREPEPE", attributes: [] }], /omit an empty attributes array/],
+  ]) {
+    const { root, directory } = makeRepository();
+    t.after(() => rmSync(root, { recursive: true, force: true }));
+    writeFileSync(join(directory, "assets.json"), JSON.stringify({ assets }));
+    assert.throws(() => readCollectionAssets(root, "example-set"), (error) => error instanceof CollectionValidationError && message.test(error.message));
+  }
 });

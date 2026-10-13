@@ -1,5 +1,18 @@
 # Kongs
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 4 assets |
+| Primary memberships | 4 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 4/4 (100%)<br>Based on: 1/4 (25%) |
+<!-- collection-facts:end -->
+
 The three KONGS descendants and DJHERO.KONG display a coherent poster series with printed Kevin Kong, Crochet Pepe Kong, Hair Kong and DJ Pepe Kong titles. Exact DJHERO.KONG metadata corroborates its cross-namespace inclusion. The KONGS parent has no artwork; the standalone DJHERO figure is not admitted solely because it is the cross-namespace parent. HAIRPEPE2 metadata uses the older-looking name KONGS.HAIRPEPE; membership rests on the actual chain namespace and reviewed poster, not a claim of exact JSON-name matching.
 
 All relevant namespaces were read through next_offset null. Membership is explicit, new children require review, and existing artist credits are preserved. Subjects, parent namespaces and issuing addresses are not automatically treated as creators.
