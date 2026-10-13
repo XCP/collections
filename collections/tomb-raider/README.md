@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of TOMBRAIDER |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -17,3 +17,10 @@ The complete [TOMBRAIDER namespace](https://api.xcp.io/v2/assets/TOMBRAIDER/suba
 
 - [TOMBRAIDER.SIDEB](https://api.xcp.io/v2/assets/A11703569400601967272) — [artwork](https://cdn.xcp.io/img/full/A11703569400601967272)
 - [TOMBRAIDER](https://api.xcp.io/v2/assets/TOMBRAIDER) — [artwork](https://cdn.xcp.io/img/full/TOMBRAIDER)
+
+
+## Variation relationship
+
+This existing collection also describes variations of TOMBRAIDER. The redundant `tombraider` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for TOMBRAIDER against its TOMBRAIDER.* subassets on side-by-side contact sheets. Included: TOMBRAIDER.SIDEB (B-side edit). Subassets showing distinct works are left out.  Existing traits are preserved.

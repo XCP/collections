@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FRISBEEGRAB |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -19,3 +19,10 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 
 - [FRISBEEGRAB](https://api.xcp.io/v2/assets/FRISBEEGRAB) — [artwork](https://cdn.xcp.io/img/full/FRISBEEGRAB)
 - [FRISBEEGRAB.FLOONEYBIN](https://api.xcp.io/v2/assets/A16416951787367934532) — [artwork](https://cdn.xcp.io/img/full/A16416951787367934532)
+
+
+## Variation relationship
+
+This existing collection also describes variations of FRISBEEGRAB. The redundant `frisbeegrab-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for FRISBEEGRAB against its FRISBEEGRAB.* subassets on side-by-side contact sheets. Included: FRISBEEGRAB.FLOONEYBIN (remixed card). Subassets showing distinct works are left out.  Existing traits are preserved.

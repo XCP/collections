@@ -2,5 +2,6 @@
   "name": "Mooncactus",
   "kind": "canonical",
   "description": "Mooncactus, a related Counterparty artwork series.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "MOONCACTUS"
 }

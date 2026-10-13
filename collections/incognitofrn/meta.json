@@ -2,5 +2,6 @@
   "name": "Incognito Frn",
   "kind": "canonical",
   "description": "Incognito Frn and its Skull Disguise variant.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "INCOGNITOFRN"
 }

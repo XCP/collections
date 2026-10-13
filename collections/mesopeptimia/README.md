@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of MESOPEPTIMIA |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -19,3 +19,10 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 
 - [MESOPEPTIMIA](https://api.xcp.io/v2/assets/MESOPEPTIMIA) — [artwork](https://cdn.xcp.io/img/full/MESOPEPTIMIA)
 - [MESOPEPTIMIA.VTWO](https://api.xcp.io/v2/assets/A3841216931613373943) — [artwork](https://cdn.xcp.io/img/full/A3841216931613373943)
+
+
+## Variation relationship
+
+This existing collection also describes variations of MESOPEPTIMIA. The redundant `mesopeptimia-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for MESOPEPTIMIA against its MESOPEPTIMIA.* subassets on side-by-side contact sheets. Included: MESOPEPTIMIA.VTWO (second version). Subassets showing distinct works are left out.  Existing traits are preserved.

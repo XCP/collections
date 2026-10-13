@@ -774,6 +774,22 @@ export function basedOnIssues(collections, { requireRegistered = true } = {}) {
   return issues;
 }
 
+
+/** A variation grouping must not duplicate an existing same-named asset set. */
+export function duplicateVariationIssues(collections) {
+  const groups = new Map();
+  const issues = [];
+  for (const c of collections) {
+    if (!c.assets?.length) continue;
+    const name = c.name.toLowerCase().replace(/[^a-z0-9]/g, "");
+    const key = JSON.stringify([name, c.assets.map(a => a.asset).sort()]);
+    const prior = groups.get(key);
+    if (prior && (prior.variation_of || c.variation_of)) issues.push(c.slug + ": duplicates the same-named variation membership of " + prior.slug);
+    else groups.set(key, c);
+  }
+  return issues;
+}
+
 /** Comparable spelling of an artist name: case, spacing and punctuation removed. */
 const artistKey = (name) => name.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
 
@@ -862,6 +878,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
   // references against the complete snapshot during export.
   issues.push(...basedOnIssues(collections, { requireRegistered: externalSources === 0 }));
   issues.push(...artistSpellingIssues(collections));
+  issues.push(...duplicateVariationIssues(collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
   const explicitCollections = collections.filter((collection) => collection.assets !== undefined);
@@ -905,6 +922,8 @@ export async function materializeRepository({
   if (issues.length > 0) throw new CollectionValidationError(issues);
   issues.push(...basedOnIssues(collections, { requireRegistered: selection.complete }));
   if (issues.length > 0) throw new CollectionValidationError(issues);
+  const duplicateIssues = duplicateVariationIssues(collections);
+  if (duplicateIssues.length) throw new CollectionValidationError(duplicateIssues);
   applyCounterpartyFallback(collections);
   applySecondaryOnOverlap(collections);
   const counts = validateMemberships(collections, {

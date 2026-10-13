@@ -2,5 +2,6 @@
   "name": "Fake Warhol",
   "kind": "canonical",
   "description": "Wizard X’s Fake Warhol parent artwork and X subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FAKEWARHOL"
 }

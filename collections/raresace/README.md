@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of RARESACE |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -18,3 +18,10 @@
 Reviewed 2026-10-10 using xcpio-core exact subasset namespaces and all 13 assets from issuer 1BoJBCkejvdyiwdnFgBRLLaMu9EMxx7EUh. The exact namespace query found only the GEM child. Both depict the same Medusa-like Pepe face and surrounding emblems painted on denim, with different presentation and lighting. The exact parent/subasset namespace confirms the family. Artwork was inspected through https://cdn.xcp.io/img/card/ using each exact asset longname.
 
 All included works receive their family as primary and leave Counterparty. Existing artist credits are preserved. The empty Easyasset responses are not cited as readable metadata evidence. Full animation review remains open.
+
+
+## Variation relationship
+
+This existing collection also describes variations of RARESACE. The redundant `raresace-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for RARESACE against its RARESACE.* subassets on side-by-side contact sheets. Included: RARESACE.GEM (second photo of the physical jeans). Subassets showing distinct works are left out.  Existing traits are preserved.
