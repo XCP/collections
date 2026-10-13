@@ -1,0 +1,106 @@
+{
+  "assets": [
+    {
+      "asset": "GENET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2015
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Weird n’ Wild Creatures"
+        }
+      ]
+    },
+    {
+      "asset": "GRAYWOLF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2015
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Weird n’ Wild Creatures"
+        }
+      ]
+    },
+    {
+      "asset": "LOCHNESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2015
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Weird n’ Wild Creatures"
+        }
+      ]
+    },
+    {
+      "asset": "WILDDOG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2015
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Weird n’ Wild Creatures"
+        }
+      ]
+    },
+    {
+      "asset": "WOLVERINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Weird n’ Wild Creatures"
+        }
+      ]
+    },
+    {
+      "asset": "CHURCHHILL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JP Janssen"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        },
+        {
+          "trait_type": "Source artwork",
+          "value": "Historical Winston Churchill photograph"
+        }
+      ]
+    }
+  ]
+}
