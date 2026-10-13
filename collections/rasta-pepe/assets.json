@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "RASTAPEPE.Ai"
+      "asset": "RASTAPEPE.Ai",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        }
+      ]
     }
   ]
 }

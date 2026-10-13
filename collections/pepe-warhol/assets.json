@@ -112,7 +112,13 @@
       ]
     },
     {
-      "asset": "PEPESTALLONE"
+      "asset": "PEPESTALLONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        }
+      ]
     }
   ]
 }

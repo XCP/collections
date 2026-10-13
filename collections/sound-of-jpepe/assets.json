@@ -37,7 +37,13 @@
       ]
     },
     {
-      "asset": "SOJPEPEI"
+      "asset": "SOJPEPEI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CRYPTOPHOBIA"
+        }
+      ]
     }
   ]
 }
