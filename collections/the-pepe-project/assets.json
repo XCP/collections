@@ -431,7 +431,13 @@
       "asset": "JOHNFPEPEDY"
     },
     {
-      "asset": "JOINORDIE"
+      "asset": "JOINORDIE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "JPEPELOWERY",
@@ -535,6 +541,10 @@
         {
           "trait_type": "Artist",
           "value": "EruptioNoFlighT"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -689,7 +699,13 @@
       "asset": "PAINCOMING"
     },
     {
-      "asset": "PANICINDC"
+      "asset": "PANICINDC",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "PASSIONPEPE"
@@ -704,7 +720,13 @@
       ]
     },
     {
-      "asset": "PEPEAMMOUS"
+      "asset": "PEPEAMMOUS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2026
+        }
+      ]
     },
     {
       "asset": "PEPEBAILEY"

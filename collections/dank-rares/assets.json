@@ -31122,6 +31122,10 @@
         {
           "trait_type": "Card",
           "value": 21
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -31309,6 +31313,10 @@
         {
           "trait_type": "Card",
           "value": 11
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
