@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. The parent and WONDERFUL subasset are illustrated egg cards sharing the on-chain namespace and issuer. Exact WONDERFUL metadata names the Wonderful Egg and describes it as a Moonga card. Existing Herckeim credits are preserved; publisher metadata EverdreamSoft/Ismael is not treated as an artist replacement. This grouping does not assert official Spells of Genesis directory acceptance.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Artwork-year review
+
+The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.

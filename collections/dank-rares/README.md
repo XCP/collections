@@ -10,7 +10,7 @@
 | Primary memberships | 1,971 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 2/1,971 (0.1%)<br>Artist: 1,950/1,971 (98.9%)<br>Based on: 39/1,971 (2.0%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
+| Traits | Art year: 1/1,971 (0.1%)<br>Artist: 1,950/1,971 (98.9%)<br>Based on: 39/1,971 (2.0%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,7 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## RAREBIRTHDAY collaboration
 
 The exact chain-linked [RAREBIRTHDAY JSON](https://arweave.net/I34dt3fAoPHzobjNY19aWjhbRa-h-IEwxcNotCxT6xQ) signs “i3inary & Doge-Style”. Preserve i3inary and add the existing DOGE-STYLE artist separately. The CDN preview was reviewed; this credit does not claim a full video review.
+
+## Artwork-year review
+
+The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.

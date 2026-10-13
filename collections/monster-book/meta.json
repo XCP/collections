@@ -1,7 +1,10 @@
 {
   "name": "Monster Book",
   "kind": "canonical",
-  "description": "Monster Book, a card game at monsterbook.io (Rinaldo Wirz; unique cards by Herckeim), 2022–23.",
+  "description": "Monster Book is a Counterparty card collection launched in 2023, featuring watercolor monsters by Rinaldo Wirz and unique cards by Herckeim.",
   "art_frame": "card",
-  "founded": 2022
+  "founded": 2023,
+  "links": {
+    "website": "https://monsterbook.io/"
+  }
 }

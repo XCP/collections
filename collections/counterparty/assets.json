@@ -1,13 +1,7 @@
 {
   "assets": [
     {
-      "asset": "TEST",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
+      "asset": "TEST"
     },
     {
       "asset": "HORIEMONCARD"
@@ -37,13 +31,7 @@
       ]
     },
     {
-      "asset": "BEERS",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
+      "asset": "BEERS"
     },
     {
       "asset": "KILLWITHKIND"
@@ -5468,10 +5456,6 @@
         {
           "trait_type": "Artist",
           "value": "Guzman"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2021
         }
       ]
     },
@@ -15928,10 +15912,6 @@
         {
           "trait_type": "Artist",
           "value": "Chaotic Crypto"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2024
         }
       ]
     },
@@ -15977,10 +15957,6 @@
         {
           "trait_type": "Artist",
           "value": "Chaotic Crypto"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2024
         }
       ]
     },
@@ -18617,10 +18593,6 @@
         {
           "trait_type": "Artist",
           "value": "GMONEY"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2024
         }
       ]
     },
@@ -19008,10 +18980,6 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
         }
       ]
     },
@@ -19039,10 +19007,6 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
         }
       ]
     },
@@ -19061,10 +19025,6 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
         }
       ]
     },
@@ -21247,10 +21207,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2022
         }
       ]
     },
@@ -21575,10 +21531,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2026
         }
       ]
     },
@@ -21687,10 +21639,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2026
         }
       ]
     },
@@ -21772,10 +21720,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2026
         }
       ]
     },
@@ -21794,10 +21738,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2026
         }
       ]
     },
@@ -21870,10 +21810,6 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2026
         }
       ]
     },
@@ -34935,13 +34871,7 @@
       ]
     },
     {
-      "asset": "FAUXMAS",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2024
-        }
-      ]
+      "asset": "FAUXMAS"
     },
     {
       "asset": "FAUXMOM",
@@ -36093,10 +36023,6 @@
         {
           "trait_type": "Artist",
           "value": "MightBeMike"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2023
         }
       ]
     },
@@ -38321,10 +38247,6 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
-        },
-        {
-          "trait_type": "Art year",
-          "value": 2024
         }
       ]
     },
@@ -40235,13 +40157,7 @@
       "asset": "PEPEDARKCAT"
     },
     {
-      "asset": "PEPEDARUMA",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2024
-        }
-      ]
+      "asset": "PEPEDARUMA"
     },
     {
       "asset": "PEPEDAS",
@@ -41162,13 +41078,7 @@
       "asset": "PEPEROTATE"
     },
     {
-      "asset": "PEPERRINE",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2022
-        }
-      ]
+      "asset": "PEPERRINE"
     },
     {
       "asset": "PEPERTICLE",
@@ -42902,13 +42812,7 @@
       ]
     },
     {
-      "asset": "REDHOTPEPERS",
-      "attributes": [
-        {
-          "trait_type": "Art year",
-          "value": 2021
-        }
-      ]
+      "asset": "REDHOTPEPERS"
     },
     {
       "asset": "REDMONDAY"
