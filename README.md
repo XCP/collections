@@ -12,7 +12,7 @@
 | Explicit collection memberships | 66,116 |
 | Primary memberships | 64,561 |
 | Secondary or curated memberships | 1,555 |
-| Memberships with traits | 36,095 |
+| Memberships with traits | 36,097 |
 
 | Membership source | Collections |
 | --- | ---: |
@@ -159,7 +159,7 @@ traits are preserved as published. These have registry meaning and checks:
 | --- | --- | --- |
 | `Artist` | string | The work's creator. Repeat it, in order, for a collaboration. One artist has one spelling: values that differ only by case, spacing or punctuation fail validation. Never an address or a placeholder (see `data/blocked-artist-credits.json`). Combined labels such as "A x B" are split into individual credits by `data/collaboration-credits.json`. |
 | `Series`, `Card` | number | A catalogue position, for sets that publish one. |
-| `Art year` | integer, 2014–2100, at most one | The year the art first appeared, when the asset was registered earlier (from its first art-bearing description, corroborated by first activity). Used to date the work and its artist. |
+| `Art year` | integer, 2014–2100, at most one | The evidenced year the artwork appeared, distinct from asset registration. Use dated artwork/catalogue evidence or corroborated artwork-bearing issuance history; the first metadata URL alone is not sufficient. Used to date the work and its artist. |
 | `Based on` | registered asset id, at most one | The earlier work this asset reworks: another project's take on a card, or a physical edition. Record it only where the relationship is explicit (the asset's name embeds the original, or its own metadata says so) and the art confirms it. |
 
 An entry omits `attributes` when it has none and omits `primary` unless it is

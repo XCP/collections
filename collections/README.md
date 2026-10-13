@@ -132,3 +132,11 @@ entry that needs attention.
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for review expectations or
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml)
 if you cannot prepare the change yourself.
+
+## Evidence for project and artwork dates
+
+`founded` dates the project, not its oldest registered asset. `Art year` dates the work, not the artist’s career or the token name. Leave either unknown when the evidence cannot establish it.
+
+Review the complete valid issuance history, using the numeric asset identity for subassets. Separate registration, positive supply issuance, ownership transfer, supply locking and description changes. Adding a matching image or exact-asset JSON is a strong signal, particularly alongside a coordinated collection launch, but a later URL may merely replace a host or document artwork that already existed. The current contents of a mutable old URL do not prove those contents existed when the URL was first recorded.
+
+For directory-hosted works, especially early Rare Pepes, use contemporary catalogues, announcements, identifiable artwork and trading evidence. A blank description is not evidence that the work did not exist. A transfer or trade alone does not identify which artwork was associated with the token. Check contemporaneous related works without treating their dates as proof for every member. Record source links, event dates, supporting and conflicting evidence, and uncertainty in the collection README. Do not mass-convert registration dates or first-media-link dates into artwork years.

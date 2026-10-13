@@ -2,5 +2,6 @@
   "name": "KOKO",
   "kind": "canonical",
   "description": "KOKO artwork collection.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

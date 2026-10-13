@@ -2,5 +2,6 @@
   "name": "PUPS",
   "kind": "canonical",
   "description": "PUPS artwork collection.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

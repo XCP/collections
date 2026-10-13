@@ -17,6 +17,10 @@
         {
           "trait_type": "Artist",
           "value": "Wheeler"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -27,6 +31,10 @@
         {
           "trait_type": "Artist",
           "value": "Wheeler"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -37,6 +45,10 @@
         {
           "trait_type": "Artist",
           "value": "Wheeler"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -47,6 +59,10 @@
         {
           "trait_type": "Artist",
           "value": "Wheeler"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     }
