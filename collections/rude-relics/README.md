@@ -10,7 +10,7 @@
 | Primary memberships | 119 |
 | Secondary or curated memberships | 2 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 45/121 (37.2%)<br>Based on: 1/121 (0.8%) |
+| Traits | Art year: 21/121 (17.4%)<br>Artist: 45/121 (37.2%)<br>Based on: 1/121 (0.8%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,7 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## MUFFDIVER.XRATED artist credit
 
 The [issuer-linked original metadata](https://ruderelics.io/efKzE.json) identifies the exact asset and names El Cholo Pepe. Restore this missing credit; retain the existing Rude Relics membership. Reviewed 2026-10-10 against chain description and artwork.
+
+## Later artwork on earlier tokens
+
+The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.

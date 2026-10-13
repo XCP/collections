@@ -289,7 +289,13 @@
       "asset": "RARESHAD"
     },
     {
-      "asset": "ROBCOIN"
+      "asset": "ROBCOIN",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "RSYC",

@@ -175,7 +175,13 @@
       "asset": "COCKFIGHTS"
     },
     {
-      "asset": "COLOMBO"
+      "asset": "COLOMBO",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2018
+        }
+      ]
     },
     {
       "asset": "CONSIGLIERE"
@@ -904,7 +910,13 @@
       "asset": "SIMONADEBISI"
     },
     {
-      "asset": "SOLDIER"
+      "asset": "SOLDIER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2018
+        }
+      ]
     },
     {
       "asset": "SPINDOCTOR",

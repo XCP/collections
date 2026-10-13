@@ -110,30 +110,30 @@ Additional sources: [CORNSEC creator commit](https://github.com/terhnt/terhnt.gi
 
 ## Founded-year screen
 
-The returned sample order is not guaranteed to identify the earliest member. Different member and project years are normal for curated directories and reused parent tokens. A null media result means no recognized media pointer in that history, not that the art did not exist. Entries marked follow-up need primary launch evidence; their existing founded value is left unchanged. No founded year is populated from the minimum token timestamp.
+The returned sample order is not guaranteed to identify the earliest member. Different member and project years are normal for curated directories and reused parent tokens. A null media result means no recognized media pointer in that history, not that the art did not exist. All 46 initially flagged entries now have an individual disposition below. Estimates are retained where the project context and issuance pattern reasonably support them; they are not represented as exact independently verified launch dates. No founded year is populated from the minimum token timestamp.
 
 | Collection | Existing founded | Screen outcome | Sample assets |
 | --- | --- | --- | --- |
-| 17art | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | GAMESOFTRUMP, WORLDOFPEPE, PEPEHEFNER |
-| age-of-chains | 2016 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | MYRIADCARD, QORACARD, RUNEWIZARD |
-| age-of-rust | 2017 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | ROGUEMECH, FGTNWASTELND, THEBOUNTY |
+| 17art | 2022 | Retain 2022: publisher identifies 17ART.IO 2022–2024. The three 2017 Rare Pepes are explicitly secondary catalogue inclusions, not launch anchors. [Evidence](https://17art.io/). | GAMESOFTRUMP, WORLDOFPEPE, PEPEHEFNER |
+| age-of-chains | 2016 | Retain 2016: creator announcement and contemporaneous replies offered Woodcoin Guardian in November 2016. The sampled 2017 cards are later releases. [Evidence](https://bitcointalk.org/index.php?topic=1692890.0). | MYRIADCARD, QORACARD, RUNEWIZARD |
+| age-of-rust | 2017 | Retain 2017: ROGUEMECH and FGTNWASTELND have art-bearing 2017 issuance. A later THEBOUNTY image does not postpone the project. [Evidence](https://api.xcp.io/v2/assets/ROGUEMECH/issuances?limit=100). | ROGUEMECH, FGTNWASTELND, THEBOUNTY |
 | alchemist2926 | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RARETEXAN.ALCHEMIST2926-1, RARETEXAN.ALCHEMIST2926-2, RARETEXAN.ALCHEMIST2926-4 |
-| artolin | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | PEPETSHIRT, PEPEYOTES, FINEARTPEPE |
-| assetic | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | TWERK, RAREASS, PEPASS |
+| artolin | 2018 | Retain 2018 estimate: the Artolin-linked FINEARTPEPE has a 2018 explanatory description before its 2019 JSON. Older related Pepe works do not date this later catalogue. Exact public launch day remains unestablished. [Evidence](https://api.xcp.io/v2/assets/FINEARTPEPE/issuances?limit=100). | PEPETSHIRT, PEPEYOTES, FINEARTPEPE |
+| assetic | 2023 | Retain 2023: RAREASS and PEPASS adopt ASS media identifiers in June 2023, alongside the reused TWERK token. The 2015 mutable placeholder is not project evidence. Remove the now-unrelated website. [Evidence](https://api.xcp.io/v2/assets/RAREASS/issuances?limit=100). | TWERK, RAREASS, PEPASS |
 | atomo | 2018 | Sample histories consistent; no discrepancy found. Launch not independently certified. | LATOMOAL, LATOMOAR, LATOMOB |
 | avime | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A17066957622315622000, A9745158396122567000, A2662775467385637400 |
-| barnyard-club | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | WETAGAIN, CRYPTOCORNS, CORNTAGION |
+| barnyard-club | 2022 | Retain 2022 estimate: CRYPTOCORNS receives its image and supply lock in October 2022; other sampled works join in 2023. An older WETAGAIN game-effect token does not backdate the art catalogue. [Evidence](https://api.xcp.io/v2/assets/CRYPTOCORNS/issuances?limit=100). | WETAGAIN, CRYPTOCORNS, CORNTAGION |
 | based-intellectuals | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A5610982233139943000, A18330636243375071000, A1256522037748135400 |
 | bassmint | 2022 | Keep 2022: project site documents Genesis vinyl in August 2022; existing tracks may predate the collection. | MUSICART, FAKESHERO.FAKESPOWER, MANTRAPEPE |
-| battle-batty-baboonies | 2025 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | BATTY, BATTY.BLINDBOX, BATTY.001 |
-| bitcoin-coaster | 2021 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | ORANGECORN, HATHAT, COASTERGUY |
+| battle-batty-baboonies | 2025 | Retain 2025: illustrated BATTY parent and blind-box release precede the numbered 2026 children; publisher-linked metadata names the project. [Evidence](https://arweave.net/jwDaVIra9mOtJnAmEu17L6uSTzoyyYIFdOUNPv0ANmQ). | BATTY, BATTY.BLINDBOX, BATTY.001 |
+| bitcoin-coaster | 2021 | Retain 2021: ORANGECORN is issued with publisher-hosted media and locked December 21, 2021; HATHAT follows that December. COASTERGUY is a later card. [Evidence](https://api.xcp.io/v2/assets/ORANGECORN/issuances?limit=100). | ORANGECORN, HATHAT, COASTERGUY |
 | bitcoin-stamps | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A7337447728884561000, A6360128538192758000, A3121984346241143000 |
-| bitcoin-war-bonds | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | A13666694206942069420, WARBONDS, ENDFIAT |
+| bitcoin-war-bonds | 2022 | Retain 2022: WARBONDS media and lock appear in 2022; later inscriptions and numbered issues do not restart the collection. [Evidence](https://api.xcp.io/v2/assets/WARBONDS/issuances?limit=100). | A13666694206942069420, WARBONDS, ENDFIAT |
 | bitcorn-cards | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CORNGEISHA, CORNGEISHA.SKETCH, CORNARTIST.FAKE |
-| bitcorn-crops | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | CORNHOLIO, CORNTUKTUK, HELIPAD |
+| bitcorn-crops | 2018 | Retain 2018: publisher documents farms and harvest participation from 2018, corroborating the original card cohort despite missing description images on some cards. [Evidence](https://bitcorns.com/). | CORNHOLIO, CORNTUKTUK, HELIPAD |
 | bitgirls | 2016 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CHIKARINVIX, DJASANYANVIX, MIZUKIVIX |
 | bitquest | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BITQUEST.2, BITQUEST.1, BITQUEST.3 |
-| blackbox | 2021 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | BLACKBOX, BLACKBOX.2021.Mystery_Listing_A, BLACKBOX.2021.MYSTERY_LISTING_B |
+| blackbox | 2021 | Retain 2021: project metadata explicitly says established in 2021 and illustrated children date to 2021. The parent JSON URL existed in 2015 but is mutable. [Evidence](https://xcp.coindaddy.io/BLACKBOX.json). | BLACKBOX, BLACKBOX.2021.Mystery_Listing_A, BLACKBOX.2021.MYSTERY_LISTING_B |
 | blockcard | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BLOCKCARD.1, BLOCKCARD.2, BLOCKCARD.3 |
 | blockchain-og | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BLOCKCHAINOG.Blockchain4aGangsta, BLOCKCHAINOG.RHYME1, BLOCKCHAINOG.RHYME2 |
 | blue-bear | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BLUEBEAR, BLUEBEAR.magic, BLUEBEAR.vapor |
@@ -148,16 +148,16 @@ The returned sample order is not guaranteed to identify the earliest member. Dif
 | coraline | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CORALINE.JAMESHALLIDAY, CORALINE.KEISERPEPE, CORALINE.PEPETHEFROG |
 | corruptionaires | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CORRUPTJEFF, CORRUPTMARK, CORRUPTCZ |
 | counterparty | 2014 | Protocol catch-all; 2014 is not a shared artwork date. | TEST, BEARHUG, TATIANACOIN |
-| counterparty-bitbowl | 2014 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | FORTYNINERS, SEAHAWKS, BRONCOS |
-| crystalscraft | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | GDCNOVADEMO, SILLYCHAIN, SOGLOTUS |
+| counterparty-bitbowl | 2014 | Retain 2014: creator's August 2014 sale announcement names the team tokens and their contemporary use; 2023 reductions do not create the original project. [Evidence](https://bitcointalk.org/index.php?topic=735356.0). | FORTYNINERS, SEAHAWKS, BRONCOS |
+| crystalscraft | 2018 | Retain 2018: GDCNOVADEMO explicitly identifies the GDC 2018 demo, with SILLYCHAIN art description and lock in March 2018. Media absence on those descriptions is not evidence of a later project. [Evidence](https://api.xcp.io/v2/assets/GDCNOVADEMO/issuances?limit=100). | GDCNOVADEMO, SILLYCHAIN, SOGLOTUS |
 | cubism-nakamoto | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CUBINAKAMOTO, CUBINAKACASH, CUBINAKAREDO |
 | dank-feathers | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DANKFEATHERS, DANKFEATHERS.ONE, DANKFEATHERS.EIGHT |
 | dank-rares | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | KEKLUMINATI, DANKAUCTION, DANKHACK |
 | darkfarms | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MRRIBIT, OLDHOMERPEPE, LAUNDROPEPE |
 | david-goliath | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A11121933663551267915, A11139877173220437651, A11103103220012747506 |
-| derp-van-gogh | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | DERPVANGOGH, DERPVANGOGH.TREE, DERPVANGOGH.MT1 |
-| determinpepe | 2024 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | DETERMINED, DETERMINPEPE, DETERMINPEPE.FIRSTCARD |
-| diecast | 2017 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | BFORDMORSXVI, BFORDRKMCXVI, BPOLOSOMCXVI |
+| derp-van-gogh | 2022 | Retain 2022 for the child series: TREE and MT1 carry art at their 2022 creation. The 2021 parent belongs primarily to Drooling Ape Bus Club and is secondary here. [Evidence](https://api.xcp.io/v2/assets/DERPVANGOGH.TREE). | DERPVANGOGH, DERPVANGOGH.TREE, DERPVANGOGH.MT1 |
+| determinpepe | 2024 | Retain 2024: illustrated DETERMINPEPE and FIRSTCARD originate together in 2024. Old DETERMINED is a companion, not a 2015 project launch. [Evidence](https://api.xcp.io/v2/assets/DETERMINPEPE/issuances?limit=100). | DETERMINED, DETERMINPEPE, DETERMINPEPE.FIRSTCARD |
+| diecast | 2017 | Retain 2017: publisher's dated Takara campaign distributed actual Diecast cards in February 2017; missing on-chain image links do not imply later artwork. [Evidence](https://medium.com/book-of-orbs/takara-diecast-token-giveaway-campaign-details-14e5ffe6922d). | BFORDMORSXVI, BFORDRKMCXVI, BPOLOSOMCXVI |
 | diffuse-pepe | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DIFFUSEPEPE, DIFFUSEPEPE.1, DIFFUSEPEPE.2 |
 | dinosaurios-element-beasts | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | EARTHBEAST, FIREBEAST, METALBEAST |
 | dj-pepe-badger | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DJPEPEBADGER, DJPEPEBADGER.BTCDONTCARE, DJPEPEBADGER.MANERE-TRANQUILLITAS |
@@ -166,15 +166,15 @@ The returned sample order is not guaranteed to identify the earliest member. Dif
 | egyptianartifacts | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | EGYROSE, EGYNEFE, EGYTUTA |
 | eternal-art | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | ETERNALART.SALVATOR, ETERNALART.LASTSUPPER, ETERNALART.MONALISA |
 | evolving-pepe | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | EVOLVINGPEPE.Kicking-Tail, EVOLVINGPEPE.First-Spark, EVOLVINGPEPE.Dreaming-Cell |
-| fake-ape-club | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | XANGRYFRIES, KINGAPE, INSTAAPEGRL |
+| fake-ape-club | 2022 | Retain 2022 estimate: KINGAPE and INSTAAPEGRL have coordinated January 2022 art-bearing creation and locks. XANGRYFRIES is an earlier included work, insufficient to backdate the curated project. [Evidence](https://api.xcp.io/v2/assets/KINGAPE/issuances?limit=100). | XANGRYFRIES, KINGAPE, INSTAAPEGRL |
 | fake-commons | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | NOTAFAKERARE, KEKOWSKI, HPIC |
 | fake-ransom | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | FAKERANSOM, FAKERANSOM.sacrifice, FAKERANSOM.specialdelivery |
-| fake-rares | 2021 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | FAKEASF, FREEDOMKEK, YOURBASEPEPE |
+| fake-rares | 2021 | Retain 2021: FAKEASF's project-specific creation and media are September 2021; contemporary FAKAMOTO sale explains inclusion of older unreleased cards. [Evidence](https://scarce.city/auctions/FAKAMOTO-1). | FAKEASF, FREEDOMKEK, YOURBASEPEPE |
 | faux-bitcorn | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SOUTHCORN, CORNPIGEON, CORNATION |
-| faux-sogs | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | BITGEMZ, ERMAGHERDCD, LAMBOCORN |
-| footballcoin | 2017 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | XFCPALMORATA, XFCPCARVAJAL, XFCPCASEMIRO |
-| force-of-will | 2016 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | FWCFCRABBITC, FWCFCDREAMSC, FWCFCRETELLC |
-| gameicon | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | GDCNOVADEMO, INDRIK, BABAYUGA |
+| faux-sogs | 2022 | Retain 2022: FAUXTOSHI's named artwork, media and lock in July 2022 align with FAUXSOGS registration. Older included tokens do not date the directory; BITGEMZ art use is 2023. [Evidence](https://api.xcp.io/v2/assets/FAUXTOSHI/issuances?limit=100). | BITGEMZ, ERMAGHERDCD, LAMBOCORN |
+| footballcoin | 2017 | Retain 2017: coordinated named player tokens and the publisher's historical account of the original Counterparty game agree. Later migration to another chain does not change this set. [Evidence](https://www.footballcoin.io/everything-you-need-to-know-before-entering-the-footballcoin-game/). | XFCPALMORATA, XFCPCARVAJAL, XFCPCASEMIRO |
+| force-of-will | 2016 | Retain 2016: December 2016 publisher update explicitly reports card drawings and trading already underway. [Evidence](https://medium.com/book-of-orbs/project-orb-update-dec-13-2016-f6925e4da9b5). | FWCFCRABBITC, FWCFCDREAMSC, FWCFCRETELLC |
+| gameicon | 2018 | Retain 2018 estimate: GDC 2018 demo and the contemporaneous named INDRIK/BABAYUGA cohort support the existing year. A shared demo also in CrystalsCraft does not create a second older origin. [Evidence](https://api.xcp.io/v2/assets/GDCNOVADEMO/issuances?limit=100). | GDCNOVADEMO, INDRIK, BABAYUGA |
 | genesis-flips | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | GENESISFLIPS.PHUNCHKINS, GENESISFLIPS.FAKEAPES, GENESISFLIPS.C1S1 |
 | hanseikai | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | HWFASHION, KAMATTE, KOEDAME |
 | hnftfest | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | HNFTFEST, HNFTMMXI, HNFTMMXII |
@@ -182,49 +182,49 @@ The returned sample order is not guaranteed to identify the earliest member. Dif
 | homerpunks | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A7957585031266907000, A7751074030723430000, A4883084586990725000 |
 | hondacivic-garage | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | HONDACIVIC.S1.0003, HONDACIVIC.S1.0004, HONDACIVIC.S1.0001 |
 | journey-paint | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | JOURNEYPAINT.COWOFTHEDAY.03, JOURNEYPAINT.COWOFTHEDAY.04, JOURNEYPAINT.TENNISOFTHEDAY.00 |
-| kaleidoscope | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | MODRNMUSTARD, INVISIBLPEPE, CORNTUKTUK.PIGINTUKTUK |
+| kaleidoscope | 2018 | Retain 2018: the original KALEIDOSCOPE token carries metadata at creation and is locked in 2018. Its open catalogue includes both older and newer works; neither extreme dates the project. [Evidence](https://api.xcp.io/v2/assets/KALEIDOSCOPE/issuances?limit=100). | MODRNMUSTARD, INVISIBLPEPE, CORNTUKTUK.PIGINTUKTUK |
 | kenergy | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | KENERGYBS, KENERGYOR, KENERGYBB |
 | kevins | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | KEVINS.NEO, KEVINS.NOKIA, KEVINS.BART |
 | koko | 2021 | Complete family history reviewed in PR 418; 2021 art use, with ATOMO a 2022 exception. | KOKO, KOKO.CAT, KOKO.NATURE |
 | koko-variants | 2021 | Complete family history reviewed in PR 418; subset does not create a separate early launch. | KOKO, KOKO.CAT, KOKO.NATURE |
 | kvlt-of-kek | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | KVLTOFKEK, KVLTOFKEK.1x1, KVLTOFKEK.3x3 |
 | kyc | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DIMZ.KYC, DIMZ.KYC.100, DIMZ.KYC.50 |
-| lfg-collection | 2025 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | LFGSWARM, FAKPROPHECY, FAKEPROPHECY |
+| lfg-collection | 2025 | Retain 2025 estimate: FAKPROPHECY is illustrated and locked in December 2025. The blank FAKEPROPHECY reservation is a distinct token; LFGSWARM is a later 2026 work. [Evidence](https://api.xcp.io/v2/assets/FAKPROPHECY/issuances?limit=100). | LFGSWARM, FAKPROPHECY, FAKEPROPHECY |
 | lil-pepe | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | LILPEPEONE, LILPEPETWO, LILPEPEFOUR |
 | litocoin | 2018 | Sample histories consistent; no discrepancy found. Launch not independently certified. | LITOCOIN, LITOCOIN.VINCAS_KUDIRKA_5_EUR, LITOCOIN.JONAS_BASANAVICIUS_5_EUR |
 | love-love-pepe | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | FULLLOVEPEPE, HODLTIGHT, LOVEDREAMY |
-| mafia-wars | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | SOLDIER, COLOMBO, NOTRAREPEPE |
+| mafia-wars | 2018 | Retain 2018: project-specific MAFIACASH is issued and locked April 2018; SOLDIER and COLOMBO move to mafiawars.io metadata that month, after 2015 reservations. [Evidence](https://api.xcp.io/v2/assets/MAFIACASH/issuances?limit=100). | SOLDIER, COLOMBO, NOTRAREPEPE |
 | magatama | 2016 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MAGATAMARD, MAGATAMARDFR, MAGATAMARDFV |
 | maskamoto | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MASKAMOTO.01, MASKAMOTO.02, MASKAMOTO.03 |
-| memorychain | 2017 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | THEDAODEAD, XEMURAI, THEFINTECH |
+| memorychain | 2017 | Retain 2017: founder Koji Higashi dates organizing Memorychain to March 2017; later media changes do not replace that history. [Evidence](https://medium.com/@coin_and_peace/history-of-vintage-nfts-in-japan-the-almost-forgotten-part-of-nft-history-5f15ce50a828). | THEDAODEAD, XEMURAI, THEFINTECH |
 | mfers | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MFERS, MFERS.MPNKR, MFERS.SNOOP |
 | minifigs | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MINIFIGS.BLOBBY, MINIFIGS.PEPEFRENS |
 | moaa | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | CUPCAKES, MOVIETICKETS, SAUCE |
 | modern-rare | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MODERNRARE.SPONGEBOB, MODERNRARE.VAPOR, MODERNRARE.TERRACOTTA |
-| modern-relics | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | COLLECTOR, LUCIFER, GREED |
+| modern-relics | 2023 | Retain 2023: publisher's February 2023 launch announcement and monthly winning-art announcements explicitly distinguish new art from 2015 token names. Individual art years now follow the actual winner announcements. [Evidence](https://modernrelics.io/news/). | COLLECTOR, LUCIFER, GREED |
 | monster-book | 2022 | Correct to 2023; primary evidence above. | GRAILRARE, FOUNDERCARD, THESLAYER |
 | moppy-go | 2017 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MOPPYA, MOPPYB, MOPPYC |
 | mstrpepes | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MSTRPEPES.VICTORYSTELEOFNARAMPEPE, MSTRPEPES.PEPEOFAKKAD, MSTRPEPES.KARAHANPEPE |
 | mtm-series | 2016 | Keep 2016: original music-access project predates the 2022 image additions. Image absence is not music absence. | MTMALBUM, MTMPRODUCER, MTMSONG |
 | new-liberty-standard | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BACKADAM, DAVIDCHAUM, HFINNEY |
 | night-become-butterflies | 2016 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BIJOU, MOONVIOLET, LIONHEART |
-| nilicoins | 2014 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | ICOKE, NILI, IAPPLE |
+| nilicoins | 2014 | Retain 2014: creator's September 2014 announcement explicitly introduces the art-coin project; it was not merely an unused name reservation. [Evidence](https://bitcointalk.org/index.php?topic=782161.0). | ICOKE, NILI, IAPPLE |
 | no-dip-for-pepe | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPERITOS, PEPESODA, PEPESOFT |
 | noogs | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | NOOGS, NOOGS.1, NOOGS.2 |
-| npcs | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | NPCS.AnpcitaFemfreq, NPCS.CNNPC1, NPCS.NPC00473777 |
+| npcs | 2018 | Retain 2018: coordinated October 2018 named character subassets and supply locks support the existing year. Missing media pointers do not negate those project-specific descriptions. [Evidence](https://api.xcp.io/v2/assets/NPCS.AnpcitaFemfreq). | NPCS.AnpcitaFemfreq, NPCS.CNNPC1, NPCS.NPC00473777 |
 | oasis-mining | 2017 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPEEYES, ETHTATTOO, MONABAACHAN |
 | og-san | 2025 | Sample histories consistent; no discrepancy found. Launch not independently certified. | OGSAN.JAKESHANNON, OGSAN.ADAM, OGSAN.HEROYUTA |
 | otherworld | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | OTHERWORLD.GameOfSouls, OTHERWORLD.EarthEaters, OTHERWORLD.TheLastPassage |
 | peekaboo | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEEKABOO.LOONEYBINLADEN, PEEKABOO.SATOSHI, PEEKABOO.DJPEPE |
 | penisium | 2017 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPEDROP, DICKBUTTS, PENISIMOON |
-| pepe-flags | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | PEPEFLAGAZ, PEPEFLAGCA, PEPEFLAGFL |
+| pepe-flags | 2022 | Retain 2022: original February 2022 descriptions explicitly identify illustrated state-flag subjects, followed by supply and ownership activity; not generic reserved names. [Evidence](https://api.xcp.io/v2/assets/PEPEFLAGAZ/issuances?limit=100). | PEPEFLAGAZ, PEPEFLAGCA, PEPEFLAGFL |
 | pepe-flyers | 2022 | Correct to 2023; primary evidence above. | PEPEFLYERS, PEPEFLYERS.V1.1, PEPEFLYERS.V1.6 |
 | pepe-model-p | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A2681552342852833300, A6329591964629042000, A9879378393227570000 |
 | pepe-pals | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPEPALS, SATOSHIPAL, PEPEPALS.FOUNDERS |
 | pepe-panther | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPEPANTHER, PEPEPANTHER.GREEN, PEPEPANTHER.BLUE |
 | pepe-poi | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | XXIIPEPEPOI, XXIPEPEPOI, XXIPEPEPOI.3 |
 | pepe-stamps | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPESTAMPS, PEPESTAMPS.1, PEPESTAMPS.5 |
-| pepe-vote | 2018 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | COURAGEFROG, DANGERPEPE, QANON |
+| pepe-vote | 2018 | Retain 2018 estimate: project-era QANON has metadata, edition expansion and lock in January–February 2018. Older included COURAGEFROG and DANGERPEPE do not establish an earlier collection. [Evidence](https://api.xcp.io/v2/assets/QANON/issuances?limit=100). | COURAGEFROG, DANGERPEPE, QANON |
 | pepedickbutt | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPEDICKBUTT.1, PEPEDICKBUTT.3, PEPEDICKBUTT.10 |
 | phockheads | 2022 | Correct to 2021; primary evidence above. | PHOCKHEADS, PHOCKHEADS.1, PHOCKHEADS.3 |
 | phunchkins | 2021 | Correct to 2022; primary evidence above. | PEPEDOM, FAKEMONSTER, BLUNTMONSTER |
@@ -239,35 +239,35 @@ The returned sample order is not guaranteed to identify the earliest member. Dif
 | pups | 2021 | Complete family history reviewed in PR 418; 2015 reservation reused for 2021 illustrated family. | PUPS, PUPS.CHONK, PUPS.SHEPHERD |
 | pups-variants | 2021 | Complete family history reviewed in PR 418; same parent chronology as PUPS. | PUPS, PUPS.SHEPHERD |
 | queenartcoin | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | QUEENARTCOIN, QUEENARTCOIN.NAKAMOTOAPE |
-| quest-frens | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | QUESTFRENS, QUESTFREN.1, QUESTFREN.2 |
+| quest-frens | 2022 | Retain 2022: numbered illustrated QUESTFREN children date to 2022; the parent mint token has a different role and does not require its own artwork URL. [Evidence](https://frenzone.net/questfrens/data/1.json). | QUESTFRENS, QUESTFREN.1, QUESTFREN.2 |
 | rare | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RARE, RARE.PEPE, RARE.PEPE.8 |
 | rare-bobo | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A808011111111111111, A4505491114736373000, A808022222222222222 |
 | rare-coco | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RARECOCO, MEMECOINCARD, COCOGREEN |
 | rare-dream | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RAREDREAM.1, RAREDREAM.2, RAREDREAM.3 |
 | rare-gogo | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RAREPEP, RAREGOGO, OLGOAT |
 | rare-lands | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MACHUPEPECHU, CNSTRCTNPEPE, KEKOWSKILAND |
-| rare-ordinal-directory | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | WINGSPEPE, DANKAFRARES, CHANCHU |
-| rare-pepe | 2016 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | PEPEONECOIN, GUARDSPEPE, FSMPEPE |
+| rare-ordinal-directory | 2023 | Retain 2023: curator's February 2023 submission guide explicitly names the new directory and Ordinals requirements. Existing 2017 cards are included works, not the directory's launch. [Evidence](https://subterranean.medium.com/creating-and-storing-an-image-and-a-json-file-for-your-rare-ordinal-the-right-way-2293687a412f). | WINGSPEPE, DANKAFRARES, CHANCHU |
+| rare-pepe | 2016 | Retain 2016: publisher's December 2016 wallet update already supports Rare Pepe. Directory-based images need not have been attached to individual descriptions. [Evidence](https://medium.com/book-of-orbs/project-orb-update-dec-13-2016-f6925e4da9b5). | PEPEONECOIN, GUARDSPEPE, FSMPEPE |
 | rare-pigeons | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | BREADWHALE, EXITBIRD, NAKAPIGEON |
-| rare-shadilay | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | ROBCOIN, HAIRSHADILAY, RARESHAD |
+| rare-shadilay | 2022 | Retain 2022: HAIRSHADILAY and RARESHAD have 2022 media and named project identity. ROBCOIN is an older included token whose current media appears in 2023, not a 2014 collection origin. [Evidence](https://api.xcp.io/v2/assets/RARESHAD/issuances?limit=100). | ROBCOIN, HAIRSHADILAY, RARESHAD |
 | rare-vision | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RAREVISION, RAREVISION.MIGOSH, RAREVISION.MURPH |
 | rarefootball | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | EUSEBIO, VANBASTEN, BENZEMA |
 | rarepenpen | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PENPENGEON, RAREPENPEN, PENPENRARE |
-| rarepepecoins | 2019 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | HIPPIEPEPE, PECTERIA, ILUMINATRARE |
+| rarepepecoins | 2019 | Retain 2019: PUREPEYE explicitly describes the physical silver coin in March 2019; older referenced Pepe designs do not date this physical-coin collection. [Evidence](https://api.xcp.io/v2/assets/PUREPEYE/issuances?limit=100). | HIPPIEPEPE, PECTERIA, ILUMINATRARE |
 | raresocks | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SOCKSCAMCASH, PASSIONSOCK, SOCKORMAGIC |
-| retroxcp | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | RETROHAIR, DROOLBATTLE.SPACEAPE, KONGCOUNTRY |
+| retroxcp | 2022 | Retain 2022 estimate: coordinated 2022 retro-game artworks support the directory year. The included 2021 RETROHAIR work does not establish a 2021 directory. [Evidence](https://retro-xcp.art/). | RETROHAIR, DROOLBATTLE.SPACEAPE, KONGCOUNTRY |
 | rpepe-series | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RPEPEI, RPEPEII, RPEPEIII |
-| rude-relics | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | DIARRHEA, FUCKED, MENAGEATROIS |
+| rude-relics | 2023 | Retain 2023: publisher's February 2023 launch and subsequent winning-art announcements explicitly describe new artwork on old token names. Individual art years now follow actual winner announcements. [Evidence](https://ruderelics.io/news/). | DIARRHEA, FUCKED, MENAGEATROIS |
 | sarutobi-island | 2016 | Sample histories consistent; no discrepancy found. Launch not independently certified. | NINJASUIT, MANDELDUCKCD, SARUTOBIPEPE |
 | satoshicard-10-years | 2025 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SATOSHITEN, SACREATORBLK, ELSATOSHI |
 | scannable-nfts | 2022 | Keep 2022: official embedded catalogue publishes the sampled cards on January 5, 2022 despite 2021 token histories. | QRPEPE, QRHENDRIX, QROUTOFHELL |
 | sharp-cards | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | YEARCLOSE, BREADTWO, FLATMARKET |
-| skara | 2017 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | CLUBARISE, HELMARISE, JORINCOVER |
+| skara | 2017 | Retain 2017: original November 2017 descriptions already identify SKARA game assets across the named cohort. Later ownership transfers and locks do not date their first use. [Evidence](https://api.xcp.io/v2/assets/CLUBARISE/issuances?limit=100). | CLUBARISE, HELMARISE, JORINCOVER |
 | slowfastfun | 2025 | Sample histories consistent; no discrepancy found. Launch not independently certified. | REDOX, GRAV, VYNL |
 | snibby | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SNIBBY, SNIBBY.no.soup.for.you, SNIBBY.magic |
 | sound-money | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DJPEPE.SOUNDMONEYLP01, DJPEPE.SOUNDMONEYLP02, DJPEPE.SOUNDMONEYLP03 |
 | spamgelo | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | DANKSPAMGELO, SPAMAMOTO, IAMSPAMGELO |
-| spells-of-genesis | 2015 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | DIVINEKNIGHT, VISCULABEETL, VISCULALADYB |
+| spells-of-genesis | 2015 | Retain 2015: publisher distinguishes the original 2015 blockchain card collection from the 2017 mobile-game launch. Sampled 2017 cards are later members. [Evidence](https://spellsofgenesis.com/). | DIVINEKNIGHT, VISCULABEETL, VISCULALADYB |
 | spooky-pepes | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SPOOKYPEPES.WEREFANK, SPOOKYPEPES.FAKENSTEIN, SPOOKYPEPES.NOSFAKERATU |
 | springfield-pepes | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | FLAMINGMOE, SIDESHOWPEPE, WHOSHOTBURNS |
 | squid-ape-game | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | SQUIDAPEGAME, SQUIDAPEGAME.GAMEMASTER, SQUIDAPEGAME.PLAYER001SR |
@@ -276,30 +276,89 @@ The returned sample order is not guaranteed to identify the earliest member. Dif
 | stampunks | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A999999999999999991, A876876876876876871, A7773777377737773777 |
 | testgallery | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | MONSTROSITY, THEKISS, BUFFALOS |
 | the-counterpart | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | GIFT, GLASS, IRON |
-| the-fakamotos | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | THEFAKAMOTOS, THEFAKAMOTOS.56, THEFAKAMOTOS.288 |
+| the-fakamotos | 2023 | Retain 2023 for the numbered child series: illustrated children were issued in March 2023; the 2022 Fake Rares parent is only a secondary related inclusion. [Evidence](https://api.xcp.io/v2/assets/THEFAKAMOTOS.56). | THEFAKAMOTOS, THEFAKAMOTOS.56, THEFAKAMOTOS.288 |
 | the-future-of-forgotten-relics | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | IDEOF, BITCRYSTAL, CARDAMP |
 | the-greypepe-project | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | STALKERGREY, TRISOLARIS, PEPEANUNNAKI |
-| the-pepe-project | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | NAKASENDIT, PEPERAREST, COVPEPE |
+| the-pepe-project | 2022 | Retain 2022 estimate: the thematic directory and its original project-name registration date from the later project era; older Rare Pepe inclusions do not justify 2017. No stronger contradictory launch evidence found. [Evidence](http://pepeproject.com/). | NAKASENDIT, PEPERAREST, COVPEPE |
 | the-pixel-gods | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A14599715268784402000, A18386080924651407000, A12034202815016155000 |
 | the-wojak-way | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | RAREWOJAK, WOJACKBLOCK, WOJABSTRAKT |
 | thug-life-notes | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | THUGLIFENOTE.HAL, THUGLIFENOTE.GOX, THUGLIFENOTE.JIHAN |
 | topini | 2024 | Sample histories consistent; no discrepancy found. Launch not independently certified. | TOPINI.DUMP, TOPINI.OMAMA, TOPINI.POURIN |
 | umeko-space-colony | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | UMEKOUFO, UMEKOSPRING, UMEKOMARS |
-| unatrare | 2026 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | PEPEYROSE, GIFTGOATS, PEMBLEMVAULT |
+| unatrare | 2026 | Retain 2026: project-hosted GIFTGOATS metadata, edition increase and lock in May 2026 corroborate the current directory. Earlier art included in the directory retains its own history. [Evidence](https://api.xcp.io/v2/assets/GIFTGOATS/issuances?limit=100). | PEPEYROSE, GIFTGOATS, PEMBLEMVAULT |
 | utxo-bots | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A9944877460932889000, A14544102098572384000, A16268440286464205000 |
 | vadam-kadmon | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | VADAMKADMON.THE_BITCOIN_RELIGION_GENESIS, VADAMKADMON.The_Bitcoin_Religion_GENESIS_vid, VADAMKADMON.THE_BITCOIN_RELIGION_III |
-| vapor-magic | 2022 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | VAPORMAGIC, VAPORMAGIC.NAKAMOTO, VAPORMAGIC.METAL |
+| vapor-magic | 2022 | Retain 2022 for the edition series: illustrated NAKAMOTO and METAL children are from 2022. The original Rare Pepe parent is secondary and does not date the later editions. [Evidence](https://api.xcp.io/v2/assets/VAPORMAGIC.NAKAMOTO). | VAPORMAGIC, VAPORMAGIC.NAKAMOTO, VAPORMAGIC.METAL |
 | viva-las-stamps | 2023 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A12236109058931544000, A10835789004916134063, A14571539890130820786 |
 | waak | 2026 | Sample histories consistent; no discrepancy found. Launch not independently certified. | WAAK.MCAFFEE, WAAK.LOONEY, WAAK.HAIRPEPE |
 | weex-bitcoin-art | 2015 | Sample histories consistent; no discrepancy found. Launch not independently certified. | A1672758370327094000, A347162147702845600 |
 | wrbpt | 2025 | Sample histories consistent; no discrepancy found. Launch not independently certified. | WRBPT.BlindFaithPepe, WRBPT.PepeLiberation, WRBPT.PEPELIBERATION |
-| xcer | 2021 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | VILLAR, XADAM, XSATOSHIX |
-| xcp-superstars | 2023 | Follow-up: sample dates differ or no on-chain media; requires project launch evidence, not automatic backdating. | ROWDYPEPE, MOUNTYMIKE, TORNATHAN |
+| xcer | 2021 | Retain 2021 estimate: project-card images are attached in February–March 2021 after late-2020 reservations. Later cards are normal expansion. Remove the now-unrelated website. [Evidence](https://api.xcp.io/v2/assets/XADAM/issuances?limit=100). | VILLAR, XADAM, XSATOSHIX |
+| xcp-superstars | 2023 | Retain 2023: original July 2023 descriptions explicitly number the XCP SUPERSTARS series, with coordinated issuance and locks; URL detection missed this textual art evidence. [Evidence](https://api.xcp.io/v2/assets/ROWDYPEPE/issuances?limit=100). | ROWDYPEPE, MOUNTYMIKE, TORNATHAN |
 | xcpinata | 2021 | Sample histories consistent; no discrepancy found. Launch not independently certified. | COOKIES, CALENDAR, BROWNIE |
 | xcpinata-miscellaneous-works | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | PEPETO, PINEAPPLEEGG, RATTY |
 | xcpinata-red-collection | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | REDGLASSES, REDPAPER, REDBLADE |
 | zetra-coa | 2022 | Sample histories consistent; no discrepancy found. Launch not independently certified. | ZETRA.BTCSTENCIL.300.COA, ZETRA.BTCSTENCIL.299.COA, ZETRA.BTCSTENCIL.297.COA |
 
-Supporting retained-date sources: [Bassmint publisher](https://www.bassmint.wtf/), [MTM Series publisher](https://www.mtmseries.io/). Scannable catalogue publication dates must be distinguished from token registration. The collection-screen follow-ups remain open; this report does not label those verified.
+Supporting retained-date sources: [Bassmint publisher](https://www.bassmint.wtf/), [MTM Series publisher](https://www.mtmseries.io/). Scannable catalogue publication dates must be distinguished from token registration. The 46 collection-screen follow-ups are resolved under the agreed heuristic standard. This completes this defined date-review queue, not a claim to have proven the creation date of every artwork in the registry.
 
 Canonical recovery example: [SUPERAREPEPE original metadata](https://arweave.net/FU7Bn-Zp_Dv3CwixYr8_l1bHcDYkNsrQ_X5A2A8SUQQ) resolves at the transaction root even though the original asset JSON subpath returned 404. Its description mentions 2016, but that may refer to the token rather than this rendition. Retain the 2023 later-use estimate rather than accepting an uncorroborated OG claim.
+
+## Completed follow-up pass
+
+All 46 flagged collection cases now have explicit retain/correct dispositions rather than a generic pending label. No further founded-year changes were warranted by this pass. The 84 pre-existing Art year review decisions remain intact.
+
+48 additional artwork-year overrides prevent old token registrations from dating later art. For the 42 scheduled relics, the publisher’s actual winner announcement confirms the year; a proposed schedule alone was not used. Dates apply only to the named parent editions, not automatically to their subassets. The other six use later artwork/edition or project-metadata transitions.
+
+| Collection | Asset | Art year | Evidence |
+| --- | --- | --- | --- |
+| modern-relics | COLLECTOR | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1270.html) |
+| modern-relics | FAIRY | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1279.html) |
+| modern-relics | GREED | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1284.html) |
+| modern-relics | PSYCHO | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1292.html) |
+| modern-relics | VIPER | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1297.html) |
+| modern-relics | GOAT | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1305.html) |
+| modern-relics | COBRA | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1319.html) |
+| modern-relics | CRAB | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1326.html) |
+| modern-relics | MERMAID | 2023 | [Source](https://modernrelics.io/index.html%3Fp=1334.html) |
+| modern-relics | GODS | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1339.html) |
+| modern-relics | GARGOYLE | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1344.html) |
+| modern-relics | WASP | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1350.html) |
+| modern-relics | FURY | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1355.html) |
+| modern-relics | LUCIFER | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1361.html) |
+| modern-relics | LORD | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1367.html) |
+| modern-relics | EYES | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1374.html) |
+| modern-relics | GHOUL | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1379.html) |
+| modern-relics | DEMON | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1386.html) |
+| modern-relics | INSOMNIA | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1391.html) |
+| modern-relics | SUMO | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1396.html) |
+| modern-relics | BARBARIAN | 2024 | [Source](https://modernrelics.io/index.html%3Fp=1407.html) |
+| rude-relics | HARDCORE | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1216.html) |
+| rude-relics | HERPES | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1229.html) |
+| rude-relics | FUCKED | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1235.html) |
+| rude-relics | HEROIN | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1241.html) |
+| rude-relics | TORTURE | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1246.html) |
+| rude-relics | MUFFDIVER | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1254.html) |
+| rude-relics | DIARRHEA | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1267.html) |
+| rude-relics | HUMILIATE | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1272.html) |
+| rude-relics | TOKE | 2023 | [Source](https://ruderelics.io/index.html%3Fp=1278.html) |
+| rude-relics | SHART | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1283.html) |
+| rude-relics | MENAGEATROIS | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1288.html) |
+| rude-relics | PINKTACO | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1293.html) |
+| rude-relics | DRUGGIE | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1298.html) |
+| rude-relics | MISTRESS | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1307.html) |
+| rude-relics | SLUTTY | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1312.html) |
+| rude-relics | BARF | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1318.html) |
+| rude-relics | CRACK | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1323.html) |
+| rude-relics | KINKY | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1329.html) |
+| rude-relics | TEABAGGER | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1334.html) |
+| rude-relics | OCCULT | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1339.html) |
+| rude-relics | WASTED | 2024 | [Source](https://ruderelics.io/index.html%3Fp=1347.html) |
+| faux-sogs | BITGEMZ | 2023 | [Source](https://api.xcp.io/v2/assets/BITGEMZ/issuances?limit=100) |
+| barnyard-club | WETAGAIN | 2023 | [Source](https://api.xcp.io/v2/assets/WETAGAIN/issuances?limit=100) |
+| barnyard-club | CORNTAGION | 2023 | [Source](https://api.xcp.io/v2/assets/CORNTAGION/issuances?limit=100) |
+| rare-shadilay | ROBCOIN | 2023 | [Source](https://api.xcp.io/v2/assets/ROBCOIN/issuances?limit=100) |
+| mafia-wars | SOLDIER | 2018 | [Source](https://api.xcp.io/v2/assets/SOLDIER/issuances?limit=100) |
+| mafia-wars | COLOMBO | 2018 | [Source](https://api.xcp.io/v2/assets/COLOMBO/issuances?limit=100) |
+
+Assetic and XCER website fields were removed after the linked domains served unrelated gambling content on review. Historical metadata links remain evidence of their former use; the current pages are not endorsed as project websites.
