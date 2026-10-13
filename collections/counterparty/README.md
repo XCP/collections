@@ -10,7 +10,7 @@
 | Primary memberships | 6,716 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 15/6,716 (0.2%)<br>Artist: 3,074/6,716 (45.8%) |
+| Traits | Art year: 42/6,716 (0.6%)<br>Artist: 3,075/6,716 (45.8%)<br>Based on: 9/6,716 (0.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -425,3 +425,5 @@ Seven more credits come from the Easyasset artist field (`pgpsig`) in exact-asse
 - PEPEANADOL: **falseflagcollective**, from the [original metadata](https://arweave.net/xPbksKU8MIcdOMXyPsQTcZym8uMpPSumxm2aUeuU_Ik).
 
 Held from the same review: labels naming the depicted subject or character (BABYNAKA, DJDANI, WANGXIANG), a project rather than a person (PARTYPUNKS.0, PLAGUEHEARTH), first names or initials too thin for a profile (BIIITCOOOIN, PARTICIPATED), a book author on a redemption token (FROGMINSTER), a colour alteration of another work (QUEENARTCOIN.NAKAMOTOAPE), a thesis edition whose metadata names a different asset (ROLLANDTHESE.edition_soutenance), BUNJEEJUMPEP's "Maxwell" (linking twitter.com/maxkarlan, distinct from Maxwell Bruno), and CARNIATH's "Mr P x Stack", whose Stack is not yet tied to the existing Stack profile. CARNIATH's "FAUX SOGS" category is not FAUX SOGS admission: it is absent from that collection's official catalog.
+
+UNNAMEABLE: **DanDarkPill**, named as owner in its [exact-asset metadata](https://arweave.net/jdR_dR__GCDrRZfX7KdP4bfeTC-hp9VyVlIhAaxD7bQ) (a multipart envelope; the filename path 404s).

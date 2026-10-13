@@ -10,7 +10,7 @@
 | Primary memberships | 17 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/17 (5.9%)<br>Title: 17/17 (100%) |
+| Traits | Artist: 17/17 (100%)<br>Title: 17/17 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -36,3 +36,5 @@ Arweave stores these documents inside multipart envelopes; the inline JSON part 
 - OLYMPIADIII: [exact source metadata](https://arweave.net/W1qs6P2sPsr1BhbX5ycRGiCcHCq_TeNDUcwRMw1MOlU)
 - OLYMPIADII: [exact source metadata](https://arweave.net/PCtxhRVGESYMZLvLI5K-7AH6r-6kzxfQQ1FDhVHZYs4)
 - OLYMPIAD: [exact source metadata](https://arweave.net/wRkJKspnb_s1Flo05iu45d07OOG1biqLwK983jbWXH0)
+
+All seventeen OLYMPIAD cards are credited to DanDarkPill, confirmed by the collection owner. The same issuing address issued 19 other works already credited to DanDarkPill from their own signed metadata.

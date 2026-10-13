@@ -44436,7 +44436,13 @@
       "asset": "UNMASKED"
     },
     {
-      "asset": "UNNAMEABLE"
+      "asset": "UNNAMEABLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "DanDarkPill"
+        }
+      ]
     },
     {
       "asset": "UNPI"
