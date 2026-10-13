@@ -143,3 +143,18 @@ test("retains the documented TRUMPED artist without inventing membership", async
     assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Artist")));
   }
 });
+
+test("keeps JP Janssen's book and separately recorded image credits on refresh", async () => {
+  for (const [name, year] of [["JPJA", 2014], ["OLGA", 2015]]) {
+    const response = structuredClone(fixture);
+    response.items[0].assetName = name;
+    const assets = await load({ fetchJson: async () => response, cache: new Map() });
+    assert.equal(assets.length, fixture.items.length);
+    assert.deepEqual(assets[0].attributes, [
+      { trait_type: "Kaleidoscope ID", value: 2380 },
+      { trait_type: "Art year", value: year },
+      { trait_type: "Artist", value: "JP Janssen" },
+    ]);
+    assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Artist")));
+  }
+});
