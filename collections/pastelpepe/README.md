@@ -1,4 +1,4 @@
-# Pastel Pepe
+# Pastel Pepe variations
 
 <!-- collection-facts:start -->
 ## Registry facts

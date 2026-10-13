@@ -1,4 +1,4 @@
-# FIATVULTURE
+# FIATVULTURE variations
 
 <!-- collection-facts:start -->
 ## Registry facts

@@ -1,4 +1,4 @@
-# FUTURETRASH
+# Future Trash variations
 
 <!-- collection-facts:start -->
 ## Registry facts
