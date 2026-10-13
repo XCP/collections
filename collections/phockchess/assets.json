@@ -1,0 +1,12 @@
+{
+  "assets": [
+    {
+      "asset": "PHOCKCHESS",
+      "primary": false
+    },
+    {
+      "asset": "PHOCKCHESS.PLAY",
+      "primary": false
+    }
+  ]
+}

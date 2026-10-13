@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "TENORIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
+    },
+    {
+      "asset": "TENORIPEPE.ROUGH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kappepe"
+        }
+      ]
+    }
+  ]
+}

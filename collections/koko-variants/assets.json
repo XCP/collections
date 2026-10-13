@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "asset": "KOKO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.NATURE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.KITTEN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.ATOMO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    },
+    {
+      "asset": "KOKO.CAT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    }
+  ]
+}

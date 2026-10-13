@@ -1,0 +1,12 @@
+{
+  "assets": [
+    {
+      "asset": "PEPWAVE",
+      "primary": false
+    },
+    {
+      "asset": "PEPWAVE.SPEED",
+      "primary": false
+    }
+  ]
+}

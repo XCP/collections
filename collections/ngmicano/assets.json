@@ -1,0 +1,12 @@
+{
+  "assets": [
+    {
+      "asset": "NGMICANO",
+      "primary": false
+    },
+    {
+      "asset": "NGMICANO.NGMICANO",
+      "primary": false
+    }
+  ]
+}

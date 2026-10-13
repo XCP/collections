@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "REALFAKEK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CRYPTOPHOBIA"
+        }
+      ]
+    },
+    {
+      "asset": "REALFAKEK.SWEEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CRYPTOPHOBIA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEWETRUST",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ]
+    },
+    {
+      "asset": "PEPEWETRUST.LIMITED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Ditz"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEXWIFE",
+      "primary": false
+    },
+    {
+      "asset": "PEPEXWIFE.ONWOOD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

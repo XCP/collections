@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "FLYECAP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Flyers"
+        }
+      ]
+    },
+    {
+      "asset": "FLYECAP.V1.BLACK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepe Flyers"
+        }
+      ]
+    }
+  ]
+}

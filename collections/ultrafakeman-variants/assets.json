@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "ULTRAFAKEMAN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    },
+    {
+      "asset": "ULTRAFAKEMAN.FAKEWEF",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Tizar Berandalan"
+        }
+      ]
+    }
+  ]
+}

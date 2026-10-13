@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "STAMPSY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    },
+    {
+      "asset": "STAMPSY.BalloonGirl",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "TWOSVENPHOCK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
+    },
+    {
+      "asset": "TWOSVENPHOCK.ALANWILSON",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BoysClubx"
+        }
+      ]
+    }
+  ]
+}

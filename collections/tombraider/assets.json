@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "TOMBRAIDER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
+    },
+    {
+      "asset": "TOMBRAIDER.SIDEB",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CMYK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "PANTHERFAKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    },
+    {
+      "asset": "PANTHERFAKE.HI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        }
+      ]
+    }
+  ]
+}

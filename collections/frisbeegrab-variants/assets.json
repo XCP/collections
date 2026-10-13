@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "FRISBEEGRAB",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "FRISBEEGRAB.FLOONEYBIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FLOONEYBIN"
+        }
+      ]
+    }
+  ]
+}

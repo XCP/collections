@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset": "THREESISTERS",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.LEFT",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.RIGHT",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.CENTER",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.THREE",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.TWO",
+      "primary": false
+    },
+    {
+      "asset": "THREESISTERS.ONE",
+      "primary": false
+    }
+  ]
+}

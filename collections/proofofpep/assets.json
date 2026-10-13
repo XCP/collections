@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "PROOFOFPEP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 26
+        },
+        {
+          "trait_type": "Card",
+          "value": 20
+        }
+      ]
+    },
+    {
+      "asset": "PROOFOFPEP.MIAMI.PINK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Darky"
+        },
+        {
+          "trait_type": "Series",
+          "value": 27
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    }
+  ]
+}

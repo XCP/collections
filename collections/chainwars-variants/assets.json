@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "CHAINWARS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
+        }
+      ]
+    },
+    {
+      "asset": "CHAINWARS.THEWORM",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
+    }
+  ]
+}
