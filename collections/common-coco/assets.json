@@ -33,6 +33,10 @@
         {
           "trait_type": "Artist",
           "value": "DeGenX"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

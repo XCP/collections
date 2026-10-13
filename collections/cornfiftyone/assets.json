@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2019
         }
       ],
       "primary": false

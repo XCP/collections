@@ -100,6 +100,10 @@
         {
           "trait_type": "Artist",
           "value": "whats in a name"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -252,7 +256,13 @@
     },
     {
       "asset": "CONTRABOBO",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "DANKEQDANK",

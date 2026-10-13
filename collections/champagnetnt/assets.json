@@ -14,6 +14,10 @@
         {
           "trait_type": "Card",
           "value": 38
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2017
         }
       ],
       "primary": false

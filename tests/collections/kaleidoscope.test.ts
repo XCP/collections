@@ -92,6 +92,7 @@ test("credits TMDAUTOGRAPH to its documented artist instead of its issuer", asyn
   assert.equal(assets.length, fixture.items.length);
   assert.deepEqual(assets[0].attributes, [
     { trait_type: "Kaleidoscope ID", value: 2380 },
+    { trait_type: "Art year", value: 2021 },
     { trait_type: "Artist", value: "ArtemTemaDa" },
   ]);
 });
@@ -138,7 +139,7 @@ test("retains the documented TRUMPED artist without inventing membership", async
     const assets = await load({ fetchJson: async () => response, cache: new Map() });
     assert.equal(assets.length, fixture.items.length);
     assert.equal(assets[0].asset, name);
-    assert.deepEqual(assets[0].attributes, [{ trait_type: "Kaleidoscope ID", value: 2380 }, { trait_type: "Artist", value: artist }]);
+    assert.deepEqual(assets[0].attributes, [{ trait_type: "Kaleidoscope ID", value: 2380 }, { trait_type: "Art year", value: 2023 }, { trait_type: "Artist", value: artist }]);
     assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Artist")));
   }
 });

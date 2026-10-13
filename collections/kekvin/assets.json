@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "DaWe1"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

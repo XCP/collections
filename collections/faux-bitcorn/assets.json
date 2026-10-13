@@ -130,6 +130,10 @@
         {
           "trait_type": "Artist",
           "value": "CORRECT"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -299,6 +303,10 @@
         {
           "trait_type": "Artist",
           "value": "OK_SA"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -359,6 +367,10 @@
         {
           "trait_type": "Artist",
           "value": "Palmer"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },

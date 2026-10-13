@@ -10,7 +10,7 @@
 | Primary memberships | 21 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 21/21 (100%) |
+| Traits | Art year: 1/21 (4.8%)<br>Artist: 21/21 (100%) |
 <!-- collection-facts:end -->
 
 The project's [Collect NFTs page](https://bitcoinavatars.com/collect-nfts/) explicitly links Counterparty dispensers at address 1Lr9VAEtiLYmbudE1DzoRkgjdDJzpDKXZK. Bitcoinavatars identifies Glowleaf as George Saoulidis. His [own project retrospective](https://georgesaoulidis.com/a-look-back-at-my-2021-projects/) confirms both projects. Each listed CDN artwork was visually matched to the corresponding image in the project's official gallery. This is work-specific provenance, not blanket issuer attribution.

@@ -128,6 +128,10 @@
         {
           "trait_type": "Artist",
           "value": "Matthew Zipkin"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

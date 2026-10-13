@@ -150,6 +150,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Cartel"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

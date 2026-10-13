@@ -91,7 +91,9 @@ Sources:
 | PEPEONE | [Artist-consigned release](https://scarce.city/auctions/Series-4-Hip-Hop-1) | [2 valid 2016 event(s)](https://api.xcp.io/v2/assets/PEPEONE/issuances?limit=100) |
 | BBOYPEPE | [Artist-consigned release](https://scarce.city/auctions/Series-4-Hip-Hop-1) | [2 valid 2016 event(s)](https://api.xcp.io/v2/assets/BBOYPEPE/issuances?limit=100) |
 
-## Remaining scope
+## Remaining scope at the first batch
+
+Superseded by the [complete artist date coverage pass](artist-date-coverage-2026-10-13.md), which provides a documented date or estimate for every artist in the snapshot.
 
 This is not a completed audit of artist chronology. The collection review did not establish the debut of every artist. After this batch, the expected directory coverage is 49 dated artists and 1,127 undated artists. Remaining work includes checking the earliest candidate works of the other artists, improving dates currently driven only by later works, and separating evidence of an original artwork from later editions or reuses. No dates are fabricated to fill this gap.
 

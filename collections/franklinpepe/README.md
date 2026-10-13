@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 Exact FRANKLINPEPE parent and BILL subasset, depicting Franklin as portrait and related banknote artwork. Both currently Counterparty; preserve Luis Simo credits.

@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 The SAMOPPBLUE parent artwork and SAMOPPBLUE.RED subasset by Brocciu. xcpio-core confirms the parent/subasset relationship. CDN artwork previews show the same crown motif on a blue field, green on the parent and red on the subasset.

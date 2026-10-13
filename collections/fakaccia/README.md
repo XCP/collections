@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 The FAKACCIA parent artwork and FAKACCIA.FRESHBAKED subasset by Poboy. xcpio-core confirms the parent/subasset relationship; CDN previews show the same Pepe-shaped bread, with FRESHBAKED framed as a card and signed Poboy.

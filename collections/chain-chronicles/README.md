@@ -10,7 +10,7 @@
 | Primary memberships | 20 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 16/20 (80%)<br>ID: 18/20 (90%)<br>Month: 18/20 (90%)<br>Year: 18/20 (90%) |
+| Traits | Art year: 11/20 (55%)<br>Artist: 16/20 (80%)<br>ID: 18/20 (90%)<br>Month: 18/20 (90%)<br>Year: 18/20 (90%) |
 <!-- collection-facts:end -->
 
 Membership is the reviewed static snapshot in `assets.json`.

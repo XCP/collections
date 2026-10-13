@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 19 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 21/21 (100%) |
+| Traits | Art year: 2/21 (9.5%)<br>Artist: 21/21 (100%) |
 <!-- collection-facts:end -->
 
 The PEPERTOY parent and all 20 current onchain subassets form the Pepertoy papercraft family. The printable templates explicitly identify the project and template author Nimzobit. HISTORY depicts the templates together as a project retrospective.

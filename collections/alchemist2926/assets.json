@@ -51,6 +51,10 @@
         {
           "trait_type": "Artist",
           "value": "Rare Texan"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     }

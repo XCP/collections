@@ -10,7 +10,7 @@
 | Primary memberships | 27 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 27/27 (100%) |
+| Traits | Art year: 1/27 (3.7%)<br>Artist: 27/27 (100%) |
 <!-- collection-facts:end -->
 
 An editorial grouping of the creator’s collectible-card editions; this is not a claim that a complete official directory has been recovered. All 27 previews were reviewed, and every admitted asset has exact-identifier metadata linking to NIFTYBOSS1. BOSSCARD calls itself “My very first card”; NIFTYSUPREME is “NIFTYBOSS CARD 2”, and SATCANNON describes Nifty’s cannon. This combines that metadata evidence with the consistent card format rather than inferring authorship from an address alone.

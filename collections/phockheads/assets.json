@@ -329,6 +329,10 @@
         {
           "trait_type": "Artist",
           "value": "jahair"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -455,6 +459,10 @@
         {
           "trait_type": "Artist",
           "value": "BoysClubx"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -977,6 +985,10 @@
         {
           "trait_type": "Based on",
           "value": "MIKBANGERS"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -1071,6 +1083,10 @@
         {
           "trait_type": "Artist",
           "value": "OKIDO"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -1428,6 +1444,10 @@
         {
           "trait_type": "Artist",
           "value": "Ndhoz"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

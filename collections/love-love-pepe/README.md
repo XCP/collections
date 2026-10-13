@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/4 (100%) |
+| Traits | Art year: 1/4 (25%)<br>Artist: 4/4 (100%) |
 <!-- collection-facts:end -->
 
 The HODLTIGHT physical listing names Love ラブ PEPE and describes one work in a four-part felt set. Its digital sale calls it the Love love pepe series. The four matching felt cards share the same issuer and May 3, 2022 issuance batch; their individual Scarce City sales identify each exact token and artist. Four larger cards are included; visually related miniatures and other felt works are not inferred as members.

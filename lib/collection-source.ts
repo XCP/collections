@@ -86,7 +86,7 @@ export function isCounterpartyAssetId(value) {
 // as a person. Leave the trait off until the artist is known.
 const BITCOIN_ADDRESS = /^(?:[13][1-9A-HJ-NP-Za-km-z]{25,34}|bc1[02-9ac-hj-np-z]{11,87})$/i;
 
-/** The year a work's art first appeared, where it differs from its issuance. */
+/** The evidenced artwork year or reviewed first-use estimate, independent of registration. */
 export const ART_YEAR_TRAIT = "Art year";
 const SINGLE_VALUE_TRAITS = [ART_YEAR_TRAIT, "Based on"];
 

@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "DCOT"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

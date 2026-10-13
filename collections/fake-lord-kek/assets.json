@@ -15,6 +15,10 @@
         {
           "trait_type": "Artist",
           "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -28,6 +32,10 @@
         {
           "trait_type": "Artist",
           "value": "Deep Honey"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

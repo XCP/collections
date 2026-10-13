@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "ALIENQUEEN"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -20,6 +24,10 @@
         {
           "trait_type": "Artist",
           "value": "Master Yin"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     }

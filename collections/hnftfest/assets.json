@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "Maria Garcia"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -15,6 +19,10 @@
         {
           "trait_type": "Artist",
           "value": "Adriana Lopez"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -24,6 +32,10 @@
         {
           "trait_type": "Artist",
           "value": "Barbara Tosti"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -33,6 +45,10 @@
         {
           "trait_type": "Artist",
           "value": "Caro Degiorgio"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -42,6 +58,10 @@
         {
           "trait_type": "Artist",
           "value": "ilan katin"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -51,6 +71,10 @@
         {
           "trait_type": "Artist",
           "value": "Lorena Pinasco"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -78,6 +102,10 @@
         {
           "trait_type": "Artist",
           "value": "SPHYNX"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -87,6 +115,10 @@
         {
           "trait_type": "Artist",
           "value": "Jonathan D-arte"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     }

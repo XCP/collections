@@ -177,6 +177,10 @@
         {
           "trait_type": "Artist",
           "value": "pumpoom"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -186,6 +190,10 @@
         {
           "trait_type": "Artist",
           "value": "obutenop"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -426,6 +434,10 @@
         {
           "trait_type": "Artist",
           "value": "tamale2"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

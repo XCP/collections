@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 2/2 (100%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 The parent and child show the same purple pixel-art game theme; the child is explicitly headed Pepaagotchi and Sus Pepaafly. Preserve Master Yang and Master Yin on the parent and ALIENQUEEN on the child. This issuer/owner address includes multiple artists, so it must not be used to assign all works to one artist.

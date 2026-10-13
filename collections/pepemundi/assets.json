@@ -16,6 +16,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepenardo"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

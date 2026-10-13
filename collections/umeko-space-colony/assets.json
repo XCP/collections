@@ -333,6 +333,10 @@
         {
           "trait_type": "Artist",
           "value": "Umeko"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     }

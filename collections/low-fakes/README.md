@@ -10,7 +10,7 @@
 | Primary memberships | 0 |
 | Secondary or curated memberships | 49 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 49/49 (100%)<br>Card: 49/49 (100%) |
+| Traits | Art year: 1/49 (2.0%)<br>Artist: 49/49 (100%)<br>Card: 49/49 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence

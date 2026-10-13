@@ -10,7 +10,7 @@
 | Primary memberships | 6 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Art year: 1/7 (14.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

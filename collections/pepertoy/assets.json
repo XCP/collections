@@ -66,6 +66,10 @@
         {
           "trait_type": "Artist",
           "value": "Baani"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -176,6 +180,10 @@
         {
           "trait_type": "Artist",
           "value": "Nimzobit"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "Mingie"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -24,6 +28,10 @@
         {
           "trait_type": "Artist",
           "value": "Mr Ruffian"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
@@ -75,6 +83,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

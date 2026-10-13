@@ -39,6 +39,10 @@
         {
           "trait_type": "Artist",
           "value": "Arvik"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -273,6 +277,10 @@
         {
           "trait_type": "Artist",
           "value": "Sanzman"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -332,7 +340,13 @@
     },
     {
       "asset": "GAMESOFTRUMP",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2017
+        }
+      ]
     },
     {
       "asset": "GAYASSASSIN"

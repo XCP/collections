@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 3/3 (100%) |
+| Traits | Art year: 2/3 (66.7%)<br>Artist: 3/3 (100%) |
 <!-- collection-facts:end -->
 
 The PEPEONE parent artwork and its artist-specific Counterparty subassets.

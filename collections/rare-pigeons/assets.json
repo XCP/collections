@@ -24,6 +24,10 @@
         {
           "trait_type": "Artist",
           "value": "Fenris Mau"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -91,6 +95,10 @@
         {
           "trait_type": "Artist",
           "value": "SAMAKAVO"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -302,6 +310,10 @@
         {
           "trait_type": "Artist",
           "value": "oneburntoutop"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },

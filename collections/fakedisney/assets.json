@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "H & Art Block"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

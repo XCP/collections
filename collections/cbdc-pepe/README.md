@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/2 (50%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 The CBDC Pepe artwork and its EPEPCDBC variant.
