@@ -2,7 +2,12 @@
   "assets": [
     {
       "asset": "BATTLECORN.EARLYBATTLES",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "BATTLECORN.BOOST",

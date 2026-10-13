@@ -38,7 +38,12 @@
     },
     {
       "asset": "CORNTUKTUK.hardCIDER",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "CORNTUKTUK.WATERCOLOR",

@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "PEPERTOY.HISTORY"
+      "asset": "PEPERTOY.HISTORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nimzobit"
+        }
+      ]
     },
     {
       "asset": "PEPERTOY.PURPLEPEPE",

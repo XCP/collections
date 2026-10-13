@@ -16,7 +16,13 @@
       "asset": "MOURNINGMOOS.BLISS"
     },
     {
-      "asset": "MOURNINGMOOS.BTC23"
+      "asset": "MOURNINGMOOS.BTC23",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
       "asset": "MOURNINGMOOS.CITYLIFE"
@@ -34,10 +40,22 @@
       "asset": "MOURNINGMOOS.MOOVOLUTION"
     },
     {
-      "asset": "MOURNINGMOOS.PAINTTHEORY"
+      "asset": "MOURNINGMOOS.PAINTTHEORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.PAINTTHEORY.1of1"
+      "asset": "MOURNINGMOOS.PAINTTHEORY.1of1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
       "asset": "MOURNINGMOOS.RAREMOOMOO",

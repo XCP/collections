@@ -1,22 +1,58 @@
 {
   "assets": [
     {
-      "asset": "NOSTALGICUME"
+      "asset": "NOSTALGICUME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
-      "asset": "PEPEERA"
+      "asset": "PEPEERA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
-      "asset": "UMEKOPEPE"
+      "asset": "UMEKOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
-      "asset": "UMEKOMEME"
+      "asset": "UMEKOMEME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
-      "asset": "PEPEONIGIRI"
+      "asset": "PEPEONIGIRI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
-      "asset": "UMEKOCARTEL"
+      "asset": "UMEKOCARTEL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
       "asset": "UMEKOSATURN",
@@ -28,6 +64,10 @@
         {
           "trait_type": "Card",
           "value": 6
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -41,6 +81,10 @@
         {
           "trait_type": "Card",
           "value": 5
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -54,6 +98,10 @@
         {
           "trait_type": "Card",
           "value": 4
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -67,6 +115,10 @@
         {
           "trait_type": "Card",
           "value": 7
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -80,6 +132,10 @@
         {
           "trait_type": "Card",
           "value": 0
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -93,6 +149,10 @@
         {
           "trait_type": "Card",
           "value": 2
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -106,6 +166,10 @@
         {
           "trait_type": "Card",
           "value": 1
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
@@ -119,11 +183,21 @@
         {
           "trait_type": "Card",
           "value": 3
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
         }
       ]
     },
     {
-      "asset": "PEPEOKANE"
+      "asset": "PEPEOKANE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     },
     {
       "asset": "UMEKOSUMO",
@@ -254,7 +328,13 @@
       ]
     },
     {
-      "asset": "MAGICUMEKO"
+      "asset": "MAGICUMEKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Umeko"
+        }
+      ]
     }
   ]
 }

@@ -11,7 +11,13 @@
       ]
     },
     {
-      "asset": "MADETHISPEPE.BURNCARD"
+      "asset": "MADETHISPEPE.BURNCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "madethispepe"
+        }
+      ]
     },
     {
       "asset": "MADETHISPEPE.KINGPIN",
