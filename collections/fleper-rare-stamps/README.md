@@ -18,3 +18,7 @@
 Flepergebet's own Bitcoin catalogue links the named collection: https://linktr.ee/flepergebet_dispensers (historical collection link https://stamped.ninja/collection/fleper_rare_stamps). The current catalogue at https://stampchain.io/collection/fleper_rare_stamps supplies collection ID 0E5C5B38871676B986F5C444558DC74F and exactly 20 stamps on one page. The displayed 42,655 is total editions, not member count. All 20 identifiers match xcpio-core and their CDN artwork was visually inspected on 2026-10-10.
 
 The collection becomes primary while Bitcoin Stamps remains secondary through the marketplace's stamp membership reconciliation. No artist credit is inferred from Stampchain creator display names, which vary across entries; individual stamp authorship remains a separate review. Full animation sequences have not been audited.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A1690696969069069069](https://api.xcp.io/v2/assets/A1690696969069069069/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

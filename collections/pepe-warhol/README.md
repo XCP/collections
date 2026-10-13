@@ -20,3 +20,7 @@ Nine reviewed portraits visibly carry Pepe Warhol titles: FKPEPEWARHOL, JONNYCAS
 PEPESTALLONE's current JSON identifies STALLONEDEUX instead, so it is not used to assign a PEPESTALLONE artist credit. Its membership follows the printed series title and the original's explicit mention in matching series metadata. JONNYCASHPEP remains uncredited pending exact authorship evidence. Existing specific primary memberships and all editorial traits are retained. This is a reviewed snapshot, not automatic issuer membership.
 
 Remaining works are credited to Lord Jamie V. Shill, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPESTALLONE](https://api.xcp.io/v2/assets/PEPESTALLONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

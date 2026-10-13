@@ -21,3 +21,7 @@ This companion family records exact parent/subasset relationships. It does not a
 
 - [WOJAKTRADING](https://api.xcp.io/v2/assets/WOJAKTRADING) — [artwork](https://cdn.xcp.io/img/full/WOJAKTRADING)
 - [WOJAKTRADING.WeAreAllWojak](https://api.xcp.io/v2/assets/A15905045510101298942) — [artwork](https://cdn.xcp.io/img/full/A15905045510101298942)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WOJAKTRADING.WeAreAllWojak](https://api.xcp.io/v2/assets/WOJAKTRADING.WeAreAllWojak/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

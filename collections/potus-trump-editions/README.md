@@ -22,3 +22,7 @@ The explicit list contains 10 works. Existing GMONEY credits are preserved; no c
 ## Parent artwork
 
 POTUSTRUMP is included secondarily as the related parent artwork. Its primary home remains the-pepe-project. Reviewed 2026-10-10 against the explicit namespace and CDN artwork; existing parent artist credits are preserved independently of its children.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [POTUSTRUMP.FIRSTLADYGOLD](https://api.xcp.io/v2/assets/POTUSTRUMP.FIRSTLADYGOLD/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

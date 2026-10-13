@@ -2,5 +2,6 @@
   "name": "Petty Cache",
   "kind": "canonical",
   "description": "Petty Cache, a group of tokenized artwork reproductions explicitly categorized in the PepeCartel catalog.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

@@ -18,3 +18,7 @@ The YESCHAD portrait and its CITYWALLS, DOLLCHAD and BLOTTER variants.
 The complete onchain subasset inventory contains 3 descendants. All listed CDN previews were reviewed and establish a coherent parent-and-variant artwork family. Existing official primary homes remain primary; those parents appear here as secondary. Former Counterparty members leave the fallback collection. Kaleidoscope yields primary status to the specific artwork family. No blanket artist attribution is inferred from the issuer.
 
 Sources: https://api.xcp.io/v2/assets/YESCHAD/subassets ; https://cdn.xcp.io/img/card/YESCHAD . Checked 2026-10-11. Preview review does not cover full audiovisual content.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [YESCHAD.DOLLCHAD](https://api.xcp.io/v2/assets/A10771036290402561207/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

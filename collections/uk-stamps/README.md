@@ -29,3 +29,7 @@ The complete namespace was read through next_offset null. Membership is explicit
 - [UKSTAMPS.FAKAMOTO](https://api.xcp.io/v2/assets/A2154435591613173652) — [artwork](https://cdn.xcp.io/img/full/A2154435591613173652)
 - [UKSTAMPS.DANDARKPILL](https://api.xcp.io/v2/assets/A17341302237749269642) — [artwork](https://cdn.xcp.io/img/full/A17341302237749269642)
 - [UKSTAMPS.SECURITY](https://api.xcp.io/v2/assets/A10298548350627598431) — [artwork](https://cdn.xcp.io/img/full/A10298548350627598431)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [UKSTAMPS.ONLYONEPEPE](https://api.xcp.io/v2/assets/A10457588180887605204/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

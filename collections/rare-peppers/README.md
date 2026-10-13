@@ -26,3 +26,7 @@ The complete namespace was read through next_offset null. Membership is explicit
 - [RAREPEPPERS.TRUMP](https://api.xcp.io/v2/assets/A10057294543309975910) — [artwork](https://cdn.xcp.io/img/full/A10057294543309975910)
 
 Remaining works are credited to S1MONS, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RAREPEPPERS.CODY](https://api.xcp.io/v2/assets/A15280646235269415508/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

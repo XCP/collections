@@ -21,3 +21,7 @@ The parent DAFTPUNKS has an empty description and CDN placeholder, so it is excl
 
 - DAFTPUNKS.GUYMAN: https://arweave.net/i0bKdTQXRZo3hOBvzldEvnoQXy1Tar-PgCh53R5pVUw
 - DAFTPUNKS.THOMAS: https://arweave.net/DGRcgImXMUTed65x4MSGwYxIn6n_bGWGsKWvc5lGKUI
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DAFTPUNKS.GUYMAN](https://api.xcp.io/v2/assets/A15201804103272928272/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

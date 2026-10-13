@@ -18,3 +18,7 @@ The illustrated PURPLEFROG parent retains its Dank Rares primary membership and 
 The complete PURPLEFROG namespace has 18 descendants, including nested descendants. All 19 namespace images were reviewed. PURPFROGCASH and PURPLETECH share the chain-linked xcp.dankinfo.art/purplefrog media directory and explicit Purple Cash/Purple Technology card branding, so they are included as companions. No issuer-wide artist credit or official Rare Pepe admission is inferred.
 
 Membership was checked against the [current subasset namespace](https://api.xcp.io/v2/assets/PURPLEFROG/subassets?limit=100) and asset-specific issuance descriptions. Existing editorial traits and specific primary homes are preserved. This is a static reviewed snapshot; future assets require review.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PURPLEFROG.wizard](https://api.xcp.io/v2/assets/A10448419053649728967/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

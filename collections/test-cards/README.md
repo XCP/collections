@@ -22,3 +22,7 @@ All relevant namespaces were read through next_offset null. Membership is explic
 - [TESTCARDS](https://api.xcp.io/v2/assets/TESTCARDS) — [artwork](https://cdn.xcp.io/img/full/TESTCARDS)
 - [TESTCARDS.THREE](https://api.xcp.io/v2/assets/A1975709480749396598) — [artwork](https://cdn.xcp.io/img/full/A1975709480749396598)
 - [TESTCARDS.TWO](https://api.xcp.io/v2/assets/A14004318569462514286) — [artwork](https://cdn.xcp.io/img/full/A14004318569462514286)
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TESTCARDS.THREE](https://api.xcp.io/v2/assets/A1975709480749396598/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

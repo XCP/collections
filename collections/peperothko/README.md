@@ -25,3 +25,7 @@ Artist credits, distinct asset identities and established official primary homes
 This existing collection also describes variations of PEPEROTHKO. The redundant `peperothko-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for PEPEROTHKO against its PEPEROTHKO.* subassets on side-by-side contact sheets. Included: PEPEROTHKO.LUCA (duplicate edition). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the first supported artwork/JSON reference following an existing edition. This is a first-documented bound; the artwork may have existed earlier. Anchor: [PEPEROTHKO.LUCA](https://api.xcp.io/v2/assets/A2899202576787426242/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

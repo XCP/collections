@@ -19,3 +19,7 @@ Reviewed 2026-10-11 against the complete [namespace inventory](https://api.xcp.i
 
 - PABLOSURYA.BLUESUN: [record](https://api.xcp.io/v2/assets/PABLOSURYA.BLUESUN) · [artwork](https://cdn.xcp.io/img/card/PABLOSURYA.BLUESUN)
 - PABLOSURYA.CITYSCAPE: [record](https://api.xcp.io/v2/assets/PABLOSURYA.CITYSCAPE) · [artwork](https://cdn.xcp.io/img/card/PABLOSURYA.CITYSCAPE)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PABLOSURYA.CITYSCAPE](https://api.xcp.io/v2/assets/A15976113272806629376/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

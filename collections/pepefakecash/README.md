@@ -22,3 +22,7 @@ Reviewed 2026-10-11. Existing specific primary collections and established credi
 - [PEPEFAKECASH.DJPEPE](https://api.xcp.io/v2/assets/A8190503241941481100) — [media](https://cdn.xcp.io/img/full/A8190503241941481100)
 - [PEPEFAKECASH.FAKAMOTO](https://api.xcp.io/v2/assets/A8427775773784926372) — [media](https://cdn.xcp.io/img/full/A8427775773784926372)
 - [PEPEFAKECASH.NAKAMOTO](https://api.xcp.io/v2/assets/A1341031478122186373) — [media](https://cdn.xcp.io/img/full/A1341031478122186373)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEFAKECASH.SBF](https://api.xcp.io/v2/assets/A3120138438021529548/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

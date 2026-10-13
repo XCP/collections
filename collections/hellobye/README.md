@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 130 issuer previews across Mike in Space-related addresses, Wizard X, and PUR/FWD. Exact namespace and title establish two illustrated variants. Parent retains Fake Rares primary. Both individual artist credits retain the previously reviewed PUR, FWD order. Similar FAKEEGG art alone is not treated as an explicit member.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Twenty-two Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and artwork. Complete audiovisual review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HELLOBYE.GREEN](https://api.xcp.io/v2/assets/HELLOBYE.GREEN/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

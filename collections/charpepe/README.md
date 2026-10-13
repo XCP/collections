@@ -21,3 +21,7 @@ Membership is based on the project evidence described above. It does not admit t
 
 - [CHARPEPE](https://api.xcp.io/v2/assets/CHARPEPE) — [artwork](https://cdn.xcp.io/img/full/CHARPEPE)
 - [CHARPEPE.REVERSERARE](https://api.xcp.io/v2/assets/A10945010132274675594) — [artwork](https://cdn.xcp.io/img/full/A10945010132274675594)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CHARPEPE.REVERSERARE](https://api.xcp.io/v2/assets/CHARPEPE.REVERSERARE/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

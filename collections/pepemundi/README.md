@@ -22,3 +22,7 @@ Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
 
 Remaining works are credited to Pepenardo, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPEMUNDI.LAFAKASMESSAGE](https://api.xcp.io/v2/assets/PEPEMUNDI.LAFAKASMESSAGE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -20,3 +20,7 @@ Membership includes the parent and all 1 current onchain descendants, checked ag
 Sources: https://api.xcp.io/v2/assets/PEPONONOKE/subassets ; https://cdn.xcp.io/img/card/PEPONONOKE . Chain inventories and CDN previews checked 2026-10-11. Full audiovisual review remains separate.
 
 ACIDFOREST receives its explicit FWD visual-artist credit from https://xcp.coindaddy.io/PEPONONOKE.ACIDFOREST.json, which identifies numeric asset A2780463150003683905. That source separately credits audio to aka-tony (https://soundcloud.com/aka_tony).
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPONONOKE.ACIDFOREST](https://api.xcp.io/v2/assets/PEPONONOKE.ACIDFOREST/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

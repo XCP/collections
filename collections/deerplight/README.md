@@ -19,3 +19,7 @@ Reviewed 2026-10-11. Existing specific primary collections and established credi
 
 - [DEERPLIGHT](https://api.xcp.io/v2/assets/DEERPLIGHT) — [media](https://cdn.xcp.io/img/full/DEERPLIGHT)
 - [DEERPLIGHT.LIKEFROMSEERLIGHT](https://api.xcp.io/v2/assets/A6234058053872914700) — [media](https://cdn.xcp.io/img/full/A6234058053872914700)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DEERPLIGHT.LIKEFROMSEERLIGHT](https://api.xcp.io/v2/assets/A6234058053872914700/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

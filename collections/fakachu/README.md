@@ -19,3 +19,7 @@ Reviewed 2026-10-11. Existing specific primary collections and established credi
 
 - [FAKACHU](https://api.xcp.io/v2/assets/FAKACHU) — [media](https://cdn.xcp.io/img/full/FAKACHU)
 - [FAKACHU.IRL](https://api.xcp.io/v2/assets/A5255868141364994990) — [media](https://cdn.xcp.io/img/full/A5255868141364994990)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKACHU.IRL](https://api.xcp.io/v2/assets/A5255868141364994990/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core exact subasset namespaces and all 16 assets from issuer 1CxoHnrubpbKgiDgBue6hENBSy2tGSSNPj. The complete namespace contains the parent and the children listed here. The parent and its only subasset share the same distinctive face-and-kissing-Pepes composition. Exact namespace membership establishes their relation. The similarly named KISSPEPE is a different composition and is excluded. Current Easyasset JSON is empty and is not cited as readable evidence. Artwork was inspected through https://cdn.xcp.io/img/card/ using each exact asset longname.
 
 FAKEKISS retains its Fake Commons primary membership and joins its artwork family as secondary. All other included works receive their family as primary and leave Counterparty. Existing Luna credits are preserved. This does not imply official directory acceptance for any variants. Full animation review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEKISS.NY](https://api.xcp.io/v2/assets/FAKEKISS.NY/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

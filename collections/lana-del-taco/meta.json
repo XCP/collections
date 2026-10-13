@@ -2,5 +2,6 @@
   "name": "Lana Del Taco",
   "kind": "canonical",
   "description": "The LANADELTACO card and its THREETACOS subasset artwork.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

@@ -22,3 +22,7 @@ The illustrated PEPTANGCLAN parent and its two existing descendants form an expl
 - [PEPTANGCLAN.PEPTANG.SHAOLIN](https://api.xcp.io/v2/assets/A16669010079390057561) — [artwork](https://cdn.xcp.io/img/full/A16669010079390057561)
 
 The membership list is explicit. New assets require review. Existing artist credits and primary homes outside Counterparty are preserved.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPTANGCLAN.LAFAKAATTACK](https://api.xcp.io/v2/assets/PEPTANGCLAN.LAFAKAATTACK/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

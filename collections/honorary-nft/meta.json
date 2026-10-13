@@ -2,5 +2,6 @@
   "name": "Honorary NFT",
   "kind": "canonical",
   "description": "The HONORARYNFT parent, its two illustrated subassets, and the PepBot draft.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2023
 }

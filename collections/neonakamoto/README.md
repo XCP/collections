@@ -16,3 +16,7 @@
 NEONAKAMOTO and NEONAKAMOTO.NEON depict the same neon Dorian Nakamoto portrait, presented as a card and a wall-mounted light respectively. xcpio-core confirms the parent/subasset relation. The parent keeps Fake Commons primary and its existing ditacrypto credit; NEON becomes primary here and loses Counterparty. NEON remains uncredited because original Arweave metadata is unavailable. No artist or physical redemption claim is inferred from the image.
 
 NEONAKAMOTO.xcp is a namespace registration without CDN artwork and is excluded. Sources: https://api.xcp.io/v2/assets/NEONAKAMOTO/subassets ; https://cdn.xcp.io/img/card/NEONAKAMOTO ; https://cdn.xcp.io/img/card/NEONAKAMOTO.NEON .
+
+## Project year
+
+**2023** — Estimated from the first supported artwork/JSON reference following an existing edition. This is a first-documented bound; the artwork may have existed earlier. Anchor: [NEONAKAMOTO.NEON](https://api.xcp.io/v2/assets/A7490211824005674411/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core issuance descriptions and all 27 assets from issuer 12qXkAEwwz4h6283zRFu5pPG2Q6g3Z3uLP. Issuer descriptions explicitly name Don Fauci for DONFAUCI, TONYJABFAUCI and DONPEPEFAUCI; DONFAUCIKDR says Kiss the Ring and its card reads Don Fauci. The black-framed cards and green Pepe variant depict the same named character. Card images were compared through https://cdn.xcp.io/img/card/ using each exact asset name.
 
 Existing Mafia Wars primary homes remain primary; those works join these families as secondary. Counterparty works receive a family home and leave the catch-all. The open Kaleidoscope gallery yields primary to the specific family while retaining a secondary relationship. Existing artist credits are preserved, and no new credit is inferred solely from issuer. No additional Mafia Wars acceptance is inferred from card styling. Current and historical descriptions contain no JSON source; full motion review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [DONFAUCI](https://api.xcp.io/v2/assets/DONFAUCI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

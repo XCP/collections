@@ -20,3 +20,7 @@ Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces an
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
 
 The illustrated STAMP subasset depicts the same Corn Kitties scene at stamp resolution.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNKITTIES.STAMP](https://api.xcp.io/v2/assets/A7078024883637599232/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

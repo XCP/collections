@@ -36,3 +36,7 @@ Membership and Card numbers are transcribed from the full illustrated checklist 
 - Card 19: [NAKAJEFFBOZO](https://api.xcp.io/v2/assets/NAKAJEFFBOZO) — [artwork](https://cdn.xcp.io/img/full/NAKAJEFFBOZO)
 - Card 20: [NAKAMAN](https://api.xcp.io/v2/assets/NAKAMAN) — [artwork](https://cdn.xcp.io/img/full/NAKAMAN)
 - Card 21: [NAKAMOTOGOD](https://api.xcp.io/v2/assets/NAKAMOTOGOD) — [artwork](https://cdn.xcp.io/img/full/NAKAMOTOGOD)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KINGNAKAMOTO](https://api.xcp.io/v2/assets/KINGNAKAMOTO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -24,3 +24,7 @@ The complete namespace inventory was read through next_offset null. Membership i
 - [MUSKTWEETS.TWITTERFILES](https://api.xcp.io/v2/assets/A9304375472957399521) — [artwork](https://cdn.xcp.io/img/full/A9304375472957399521)
 - [MUSKTWEETS.MATRIX](https://api.xcp.io/v2/assets/A13821005391249225874) — [artwork](https://cdn.xcp.io/img/full/A13821005391249225874)
 - [MUSKTWEETS.WHITERABBIT](https://api.xcp.io/v2/assets/A5861195690831900322) — [artwork](https://cdn.xcp.io/img/full/A5861195690831900322)
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [MUSKTWEETS.MATRIX](https://api.xcp.io/v2/assets/MUSKTWEETS.MATRIX/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. Parent and sole current child share issuer 377847 and depict Jan van Eyck / Vincent van Gogh portrait adaptations. The parent has exact-asset Wojak Way JSON and retains that primary home. The bare VVANWOJAK asset has no recovered artwork and is excluded.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [JANVANWOJAK.VINCENTVANWOJAK](https://api.xcp.io/v2/assets/A3431440312598385949/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

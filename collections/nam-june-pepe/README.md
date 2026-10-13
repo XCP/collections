@@ -30,3 +30,7 @@ The parent NAMJUNEPEPE remains in Fake Rares and is not included here. This coll
 ## Parent artwork
 
 NAMJUNEPEPE is included secondarily as the related parent artwork. Its primary home remains fake-rares. Reviewed 2026-10-10 against the explicit namespace and CDN artwork; existing parent artist credits are preserved independently of its children.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [NAMJUNEPEPE.1963_ZEN_FOR_FAKES](https://api.xcp.io/v2/assets/NAMJUNEPEPE.1963_ZEN_FOR_FAKES/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

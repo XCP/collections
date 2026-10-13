@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, issuance records and CDN contact sheets. Live exact-asset JSON names the children Fake Puzzle - Fake Rare Series 1 and 2 and links separate jigsawplanet interactive puzzles; the parent JSON is PEPE JIGSAW PUZZLE. The parent retains its Fake Rares primary membership; the children are not thereby claimed as accepted directory cards.
 
 3 assets. Existing artist credits are preserved; namespace ownership is not used to add new authorship claims. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEPUZZLE.FAKERARESI](https://api.xcp.io/v2/assets/FAKEPUZZLE.FAKERARESI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

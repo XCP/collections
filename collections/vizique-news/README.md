@@ -24,3 +24,7 @@ Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named ass
 - [DAILYFROG](https://api.xcp.io/v2/assets/DAILYFROG) — [portfolio image](https://vizique.com/wp-content/uploads/2022/01/DAILYFROG.gif) — [dispenser transaction](https://xchain.io/tx/86e87a3afc2b5b42863cd74438022960b6f308e9d50d2714d100f4df06820561)
 - [HUNTEDPEPE](https://api.xcp.io/v2/assets/HUNTEDPEPE) — [portfolio image](https://vizique.com/wp-content/uploads/2022/04/HUNTEDPEPE.gif) — [dispenser transaction](https://xchain.io/tx/ca07d7eefcf53b74538f45d22d2f51a8a1db3ecbee10f924eda2bd3003ec40b3)
 - [TRUELEGEND](https://api.xcp.io/v2/assets/TRUELEGEND) — [portfolio image](https://vizique.com/wp-content/uploads/2022/01/TRUELEGEND.gif) — unlinked portfolio image, visually matched to the named asset
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HUNTEDPEPE](https://api.xcp.io/v2/assets/HUNTEDPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -22,3 +22,7 @@ The explicit reviewed membership list follows the exact CHAMPAGNETNT namespace. 
 - CHAMPAGNETNT: [artwork](https://cdn.xcp.io/img/full/CHAMPAGNETNT)
 - CHAMPAGNETNT.SIGNED: [artwork](https://cdn.xcp.io/img/full/CHAMPAGNETNT.SIGNED)
 - CHAMPAGNETNT.KANDINSKY: [artwork](https://cdn.xcp.io/img/full/CHAMPAGNETNT.KANDINSKY)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CHAMPAGNETNT.SIGNED](https://api.xcp.io/v2/assets/A12660074761932760832/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

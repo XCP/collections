@@ -27,3 +27,7 @@ AP describes an artist proof but displays a placeholder; PRINTNEG has an empty d
 - CORNTOSHI.NEGATIVE: https://arweave.net/IWMF6ndZx7oS8urZITjW_NJJMtMXC2QyyHKEylXabUA
 - CORNTOSHI.PHYSICAL: https://arweave.net/AnwCSCELCZHfQWA8INspHKUERJrYw94TwUz6qL5rHd8
 - CORNTOSHI: https://arweave.net/wqjTtDZViQk9txmphfCM7w8nbxni4N6Py5jjmYjI_-Q
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNTOSHI.PRINT](https://api.xcp.io/v2/assets/A17104623112257322509/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -22,3 +22,7 @@ Reviewed 2026-10-09 against the [artist's artwork page](https://crypsi.com/no2x/
 Names ending ONE, TWO, THREE and similar suffixes identify editions within this artwork family; they are not a shared collection across unrelated artworks. The image review confirms the title match, including variations between physical editions. Token identifiers are retained separately.
 
 The artist page describes the physical work and is not authoritative for on-chain issuance dates or token supply. This membership does not assert physical ownership or redemption rights. A cached image is useful membership evidence even where the description now points to an empty metadata file.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [NOTWOXONE](https://api.xcp.io/v2/assets/NOTWOXONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

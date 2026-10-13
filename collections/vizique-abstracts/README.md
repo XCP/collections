@@ -29,3 +29,7 @@ Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named ass
 - [PEPEMODERN](https://api.xcp.io/v2/assets/PEPEMODERN) — [portfolio image](https://vizique.com/wp-content/uploads/2021/12/DANKPEPEMODERN.png) — [dispenser transaction](https://xchain.io/tx/b2f77253e4698bd1f98dfd8f775b4086613614bf4e9e1940ba6f2a82277c4a13)
 - [SHADEOFGREEN](https://api.xcp.io/v2/assets/SHADEOFGREEN) — [portfolio image](https://vizique.com/wp-content/uploads/2022/05/SHADEOFGREEN.png) — [dispenser transaction](https://xchain.io/tx/57b2192ab4e416f1dece72c2d9eb55fe695f9666d9852db9aa98aa504424a15d)
 - [COLORSOFPEPE](https://api.xcp.io/v2/assets/COLORSOFPEPE) — [portfolio image](https://vizique.com/wp-content/uploads/2022/05/COLORSOFPEPE-2.png) — [dispenser transaction](https://xchain.io/tx/d17accbe7ef2eb0d1a7cfe09d042eff84594f82b7948be637d5b922434d16d82)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CUBIPEPE](https://api.xcp.io/v2/assets/CUBIPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

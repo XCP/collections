@@ -20,3 +20,7 @@ Reviewed 2026-10-09. Each of these 384 assets has a current xcpio-core issuance 
 All 384 CDN artworks were reviewed on contact sheets. Existing Pepe Cartel artist credits are preserved. These members leave the Counterparty catch-all and are not being admitted to Rare Pepes or any unrelated directory. Numeric identities remain exact strings. The source has additional categories outside this reviewed group; shared hosting alone is not membership evidence.
 
 No working collection homepage was established, so per-asset evidence links remain here rather than inventing a homepage.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A124958065677468260](https://api.xcp.io/v2/assets/A124958065677468260/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

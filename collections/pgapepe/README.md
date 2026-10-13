@@ -21,3 +21,7 @@ Reviewed 2026-10-11 against Counterparty namespace records and the associated ar
 
 - [PGAPEPE](https://api.xcp.io/v2/assets/PGAPEPE) — [artwork](https://cdn.xcp.io/img/full/PGAPEPE)
 - [PGAPEPE.OG](https://api.xcp.io/v2/assets/A3353453242613396764) — [artwork](https://cdn.xcp.io/img/full/A3353453242613396764)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PGAPEPE.OG](https://api.xcp.io/v2/assets/A3353453242613396764/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

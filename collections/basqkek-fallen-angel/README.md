@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core issuance descriptions and all 20 assets from issuer 1Cq3EQgH3NEvyZ8x9MorfGdTm4oBFZLmM8. Both cards use the same winged composition and name the Fallen Angel in their captions. Surviving https://thewojakway.com/j/WOJAKANGEL.json explicitly credits BasqKek and identifies the Fallen Angel source artwork. This groups the artist’s two variations, not all works inspired by the historical painting. Card images were compared through https://cdn.xcp.io/img/card/ using each exact asset name.
 
 WOJAKANGEL retains The Wojak Way as its primary home. WOJAKANGEL joins this family as secondary; FALLENANGEL receives this family as primary and leaves the Counterparty catch-all. Existing BasqKek credits are preserved; no new credit or official acceptance is inferred from shared issuer or card styling. Other artist works, the burned zero-supply factory asset and placeholder-only reserved names are excluded. The historical painter referenced in the description is not added as a new Counterparty artist credit. Full animation review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WOJAKANGEL](https://api.xcp.io/v2/assets/WOJAKANGEL/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

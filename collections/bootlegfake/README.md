@@ -20,3 +20,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 - [BOOTLEGFAKE.WEMADETHIS](https://api.xcp.io/v2/assets/A3370435076640854323) — [media](https://cdn.xcp.io/img/full/A3370435076640854323)
 - [BOOTLEGFAKE.FAKEASF](https://api.xcp.io/v2/assets/A17867467172946601081) — [media](https://cdn.xcp.io/img/full/A17867467172946601081)
 - [BOOTLEGFAKE.FAKAMOTO](https://api.xcp.io/v2/assets/A17267645527971272455) — [media](https://cdn.xcp.io/img/full/A17267645527971272455)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BOOTLEGFAKE.WEMADETHIS](https://api.xcp.io/v2/assets/A3370435076640854323/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

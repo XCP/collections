@@ -19,3 +19,7 @@ Reviewed 2026-10-11 against the complete [namespace inventory](https://api.xcp.i
 
 - RASTAPEPE.TRIPPY: [record](https://api.xcp.io/v2/assets/RASTAPEPE.TRIPPY) · [artwork](https://cdn.xcp.io/img/card/RASTAPEPE.TRIPPY)
 - RASTAPEPE.Ai: [record](https://api.xcp.io/v2/assets/RASTAPEPE.Ai) · [artwork](https://cdn.xcp.io/img/card/RASTAPEPE.Ai)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RASTAPEPE.TRIPPY](https://api.xcp.io/v2/assets/A16535021554029439830/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

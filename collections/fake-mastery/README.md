@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. Global namespace enumeration confirms all five subassets. Exact JSON identifies NEURAL as subasset #1 and SYSTEM as #2. The linked JSON for ___ explicitly names the Neural public iteration (1.1); ASSET explicitly names subasset #3 and links MASTERYINFO, which is included as the documentary companion. PEPECASH_V2 is an illustrated same-namespace work with creator-signed metadata. NEURAL and PEPECASH_V2 were absent from marketplace memberships and are newly added. Metadata shorthand is not treated as an asset alias.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEMASTERY.NEURAL](https://api.xcp.io/v2/assets/FAKEMASTERY.NEURAL/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

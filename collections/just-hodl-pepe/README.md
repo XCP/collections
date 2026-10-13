@@ -18,3 +18,7 @@ The JUSTHODLPEPE parent artwork and HODLPIG subasset by BasqKek and Mr. HODLPIG.
 The xcpio-core asset records establish the explicit parent/subasset relationship. CDN previews were inspected. Existing individual artist credits are preserved. The parent retains its Fake Rares primary membership; the subasset has its primary home here. This does not claim Fake Rares acceptance of the subasset. Full audiovisual review remains separate.
 
 Sources: https://api.xcp.io/v2/assets/A9018055851083100716 , https://api.xcp.io/v2/assets/JUSTHODLPEPE
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [JUSTHODLPEPE.HODLPIG](https://api.xcp.io/v2/assets/JUSTHODLPEPE.HODLPIG/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

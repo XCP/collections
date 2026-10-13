@@ -26,3 +26,7 @@ All retain Hues credits. This reviewed family becomes primary and removes all th
 - CPTSDPEPE: https://arweave.net/S0KfkFBsfv8nJkjy_hlIPs03Xu-U2_hJ-vUyYAV3E9g
 - CTPSDPEPE: https://arweave.net/isDxZ76QOPl8OVd3fspgCFHy6ZcbINJoOLd3g2AEwg8
 - NBNRPARIS: https://arweave.net/q2mHRgJHjP3Lp_nPEB_Iw5kyRPV3ESIUVqL7HMeGxEA
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CPTSDPEPE](https://api.xcp.io/v2/assets/CPTSDPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

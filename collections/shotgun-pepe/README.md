@@ -20,3 +20,7 @@ The complete onchain subasset inventory contains 1 descendants. All listed CDN p
 Sources: https://api.xcp.io/v2/assets/SHOTGUNPEPE/subassets ; https://cdn.xcp.io/img/card/SHOTGUNPEPE . Checked 2026-10-11. Preview review does not cover full audiovisual content.
 
 The shirt’s exact-asset JSON explicitly credits mellow: https://xcp.coindaddy.io/SHOTGUNPEPE.TSHIRT.json . Historic physical delivery terms do not establish current redemption rights.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SHOTGUNPEPE.TSHIRT](https://api.xcp.io/v2/assets/A6153047978266458296/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

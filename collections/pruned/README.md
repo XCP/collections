@@ -22,3 +22,7 @@ All relevant namespaces were read through next_offset null. Membership is explic
 - [PRUNED.MYORDINALS](https://api.xcp.io/v2/assets/A17748439558814528523) — [artwork](https://cdn.xcp.io/img/full/A17748439558814528523)
 - [PRUNED.MYRUNES](https://api.xcp.io/v2/assets/A17675582893264980140) — [artwork](https://cdn.xcp.io/img/full/A17675582893264980140)
 - [PRUNED.STONE](https://api.xcp.io/v2/assets/A8841795416660796132) — [artwork](https://cdn.xcp.io/img/full/A8841795416660796132)
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PRUNED.MYORDINALS](https://api.xcp.io/v2/assets/A17748439558814528523/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

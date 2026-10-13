@@ -20,3 +20,7 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 - [JUANTASTIC](https://api.xcp.io/v2/assets/JUANTASTIC) — [artwork](https://cdn.xcp.io/img/full/JUANTASTIC)
 - [KRAZYKEVIN](https://api.xcp.io/v2/assets/KRAZYKEVIN) — [artwork](https://cdn.xcp.io/img/full/KRAZYKEVIN)
 - [WHITEYWOJAK](https://api.xcp.io/v2/assets/WHITEYWOJAK) — [artwork](https://cdn.xcp.io/img/full/WHITEYWOJAK)
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [JUANTASTIC](https://api.xcp.io/v2/assets/JUANTASTIC/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

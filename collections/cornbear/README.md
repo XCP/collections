@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The same-issuer makingof child explicitly describes the CornBear process drawing, corroborated by CDN artwork. Its metadata asset field uppercases the subasset suffix; chain identity and URL are recorded without aliasing. Parent retains Bitcorn Crops primary.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNBEAR.makingof](https://api.xcp.io/v2/assets/A3999924858674702136/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -25,3 +25,7 @@ All included works receive their family as primary and leave Counterparty. Exist
 This existing collection also describes variations of RARESACE. The redundant `raresace-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for RARESACE against its RARESACE.* subassets on side-by-side contact sheets. Included: RARESACE.GEM (second photo of the physical jeans). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RARESACE.GEM](https://api.xcp.io/v2/assets/RARESACE.GEM/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. The illustrated parent and four same-issuer namespace children visibly title themselves Pilled Wojak and its named variants. Exact chain longnames and artwork establish this family. Easyasset metadata did not yield JSON. No membership in the Wojak Way directory is inferred.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PILLEDWOJAK.FREEDOM](https://api.xcp.io/v2/assets/PILLEDWOJAK.FREEDOM/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

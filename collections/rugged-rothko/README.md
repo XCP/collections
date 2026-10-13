@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, shared issuer and parent/subasset relationships, plus direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. The parent branded floor artwork and four children use the same floor, Rothko-style rug and product graphics. Five placeholder-only children are excluded.
 
 The explicit list contains 5 works. Existing Skife credits are retained. Parents already accepted into Fake Rares or Dank Rares retain their primary home there and appear here secondarily; no acceptance of variants into that directory is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RUGGEDROTHKO.643349001](https://api.xcp.io/v2/assets/A9628199116016970815/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

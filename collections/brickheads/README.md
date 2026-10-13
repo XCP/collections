@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 36 previews across the two issuers. Three positive-supply tokens from one issuer share the BRICKHEAD/BRCKHEAD identifier and the same brick-bodied graffiti character with cap and spray can. The existing Fake Commons primary for BRCKHEADPEPE is retained; BRICKHEADS and BRICKHEADSB become primary here. Matching visual character, distinct names and existing artist credits support this family. This is not an assertion of Fake Commons acceptance for the other two.
 
 Existing artist credits and official primary homes are preserved. Four previously Counterparty members become primary in these families. Unavailable easyasset.art metadata is not treated as evidence. Full audiovisual review remains open.
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BRICKHEADS](https://api.xcp.io/v2/assets/BRICKHEADS/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

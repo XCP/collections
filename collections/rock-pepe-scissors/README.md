@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using xcpio-core issuance descriptions and all seven assets from issuer 158wBjBt2jmD4m7gSUAoUo4krGmGg2dvp7. The exact namespace contains the parent and one DESTROYED child. The child preserves the recognizable card composition with a destruction overlay; its issuance description explicitly says YOUR FAKE RARE HAS BEEN DESTROYED. The parent historic JSON remains readable at https://raw.githubusercontent.com/fapep/S1/main/ROCKPEPESCSR.json . Card images were compared through https://cdn.xcp.io/img/card/ using each exact asset name.
 
 The parent retains its official Fake Rares primary membership and joins this family as secondary. The child receives its family home and leaves Counterparty; no official Fake Rares acceptance is inferred for it. Existing M.BTC credits are preserved. Parent and child artwork, exact namespace, issuance description and historical JSON support this relationship. Other similarly styled cards from the issuer are not included.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [ROCKPEPESCSR.DESTROYED](https://api.xcp.io/v2/assets/ROCKPEPESCSR.DESTROYED/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

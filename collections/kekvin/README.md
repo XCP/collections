@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. Illustrated parent and all seven illustrated same-issuer subassets share the exact KEKVIN namespace. Artwork shows the character and related utility-card companions. KEKVINNFA is a placeholder and excluded. This is separate from similarly named Kevin projects.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [KEKVIN.PUNK](https://api.xcp.io/v2/assets/KEKVIN.PUNK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

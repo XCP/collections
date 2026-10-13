@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against xcpio-core and the image CDN. THEWORLDPEPE explicitly describes itself as card No. 1 in the Tarot Pepe series and credits Motopikl. STAROFPEPE and WHEELOFKEK independently name Tarot Pepe and Motopikl in their on-chain descriptions. The three images depict matching pixel-art World, Star, and Wheel tarot cards.
 
 This list contains the three verified works; it does not claim a complete tarot deck. All 18 current assets from the two issuing addresses were visually compared. Other Pepe cards and pixel apes are excluded without explicit series evidence. Existing Motopikl credits are retained and Counterparty fallback memberships removed.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [THEWORLDPEPE](https://api.xcp.io/v2/assets/THEWORLDPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

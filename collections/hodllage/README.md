@@ -21,3 +21,7 @@ This companion family records exact parent/subasset relationships. It does not a
 
 - [HODLLAGE](https://api.xcp.io/v2/assets/HODLLAGE) — [artwork](https://cdn.xcp.io/img/full/HODLLAGE)
 - [HODLLAGE.QR](https://api.xcp.io/v2/assets/A5361167404246027272) — [artwork](https://cdn.xcp.io/img/full/A5361167404246027272)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HODLLAGE.QR](https://api.xcp.io/v2/assets/A5361167404246027272/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

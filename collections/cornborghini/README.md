@@ -16,3 +16,7 @@
 ## Membership evidence
 
 Reviewed 2026-10-13 by comparing CDN card art for CORNBORGHINI against its CORNBORGHINI.* subassets on side-by-side contact sheets. Included: CORNBORGHINI.COSBY (duplicate edition). Subassets showing distinct works are left out. All members keep their primary home in the faux-bitcorn collection and appear here as secondary members. Existing traits are preserved.
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNBORGHINI.COSBY](https://api.xcp.io/v2/assets/A4835197468138727575/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

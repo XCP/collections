@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, shared issuer and parent/subasset relationships, plus direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. The parent and FAKAINDACITY child show related city compositions with the same central Pepe character and layered painted treatment.
 
 The explicit list contains 2 works. Existing ZETRA credits are retained. Parents already accepted into Fake Rares retain their primary home there and appear here secondarily; no acceptance of variants into that directory is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEINDACITY.FAKAINDACITY](https://api.xcp.io/v2/assets/PEPEINDACITY.FAKAINDACITY/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

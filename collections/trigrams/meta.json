@@ -2,5 +2,6 @@
   "name": "Trigrams",
   "kind": "canonical",
   "description": "The eight symbols in the TRIGRAMS Counterparty namespace, together with the illustrated parent asset.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2022
 }

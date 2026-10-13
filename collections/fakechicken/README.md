@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 89 issuer previews across Dany, Nicolas Sierro and animalspirits, plus the FAKECHICKEN parent preview. Exact namespace relation and shared FAKECHICKEN card identity connect the parent and child. Parent and child have different issuers and existing artist labels (spirits and animalspirits), which are preserved without assuming an alias. Parent keeps Dank Rares primary; DROOLCHICKEN leaves Counterparty for this family.
 
 Specific artwork families take primary precedence over Kaleidoscope, retained as secondary. Existing official primary memberships and all artist labels remain. Namespace membership does not imply shared authorship or official collection acceptance. Full audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [FAKECHICKEN.DROOLCHICKEN](https://api.xcp.io/v2/assets/FAKECHICKEN.DROOLCHICKEN/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

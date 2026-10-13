@@ -16,3 +16,7 @@
 ## Membership evidence
 
 Reviewed 2026-10-13 by comparing CDN card art for SECURITYPEPE against its  subassets on side-by-side contact sheets. Included: SECURITYPEPE.FAKERARE (retitled edition). Subassets showing distinct works are left out. The parent stays primary in its existing collection; the variation moves here from the Counterparty fallback collection. Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the first supported artwork/JSON reference following an existing edition. This is a first-documented bound; the artwork may have existed earlier. Anchor: [SECURITYPEPE.FAKERARE](https://api.xcp.io/v2/assets/A5482935454177101648/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

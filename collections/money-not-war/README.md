@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [MOWAK](https://api.xcp.io/v2/assets/MOWAK) — [artwork](https://cdn.xcp.io/img/full/MOWAK)
 - [MOWAR](https://api.xcp.io/v2/assets/MOWAR) — [artwork](https://cdn.xcp.io/img/full/MOWAR)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MOWAK](https://api.xcp.io/v2/assets/MOWAK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

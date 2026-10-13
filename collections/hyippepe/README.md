@@ -19,3 +19,7 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 
 - [HYIPPEPE](https://api.xcp.io/v2/assets/HYIPPEPE) — [media](https://cdn.xcp.io/img/full/HYIPPEPE)
 - [HYIPPEPE.DIAMONDHANDS](https://api.xcp.io/v2/assets/A10553228605055872424) — [media](https://cdn.xcp.io/img/full/A10553228605055872424)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HYIPPEPE.DIAMONDHANDS](https://api.xcp.io/v2/assets/A10553228605055872424/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

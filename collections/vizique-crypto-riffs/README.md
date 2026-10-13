@@ -19,3 +19,7 @@ The artist’s [portfolio](https://vizique.com/by-series-style/) labels this gal
 - [COLDYPEPE](https://xchain.io/tx/188a656a94cf7ef75962f3d56a249a9e27034073c12e0d6db31c1ae182cac805) — [portfolio artwork](https://vizique.com/wp-content/uploads/2021/12/COLDYPEPE.png)
 - [DANKANGEL](https://xchain.io/tx/aed9079f6be60c932125faae9433aff8462a1a6d5919f9711f7dde1a8a6ad5ef) — [portfolio artwork](https://vizique.com/wp-content/uploads/2022/01/DANKANGEL.png)
 - [FILTERPEPE](https://xchain.io/tx/9059b2582331f827f6ffea38f95352b3ec3839e47cd800e1218f0ef343d7a5d7) — [portfolio artwork](https://vizique.com/wp-content/uploads/2022/01/Filterism-Pepe.gif)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKBOYPEPE](https://api.xcp.io/v2/assets/DANKBOYPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

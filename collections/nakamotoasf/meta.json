@@ -2,5 +2,6 @@
   "name": "NakamotoASF",
   "kind": "canonical",
   "description": "NakamotoASF, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

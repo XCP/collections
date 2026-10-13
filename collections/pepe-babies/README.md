@@ -18,3 +18,7 @@
 Tasha explicitly names all four members as her Pepe babies series in DROOLINGPARK, KIDHAIRPEPE and LILDJPEPEWIN exact JSON, at https://xcp.coindaddy.io/DROOLINGPARK.json and https://xcp.coindaddy.io/KIDHAIRPEPE.json .
 
 Exact xcpio-core identifiers, current memberships, JSON where available, and all member CDN previews were reviewed on 2026-10-10. Existing directory primary homes and artist credits are preserved. Counterparty fallback memberships are removed. Full process-video and animation playback has not been audited.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DROOLINGPARK](https://api.xcp.io/v2/assets/DROOLINGPARK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

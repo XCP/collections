@@ -22,3 +22,7 @@ The explicit list contains 5 art-bearing members. Existing Theo Goodman credits 
 Counterparty appearances are removed. Existing Fake Commons primary memberships remain primary, with this collection secondary for those assets. No acceptance into that directory is inferred for siblings.
 
 The UGLYLINES and THEOGSHOW parent assets show CDN placeholders and are excluded. No working project homepage was established. Unavailable easyasset.art metadata is not cited as readable evidence.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEBUFFET.CHOPSTICKS](https://api.xcp.io/v2/assets/A10717156706350424774/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -20,3 +20,7 @@ The exact chain-linked HOTPPSUMMER metadata explicitly names PPZERO, PPONE, PPTW
 PPZERO has a different issuer from the other numbered works, but its own metadata credits CRIME BREAKFAST: https://arweave.net/EWUqjzlFP0n6TWPomFXk1C82Jf4KotO489cguXPKPMA . Repeated exact artwork metadata explicitly equates CRIME BREAKFAST and Max Capacity. All twelve CDN artwork previews were visually reviewed on 2026-10-10. Full animation sequences have not been audited.
 
 This is the documented numbered Counterparty family, not every PP-named work by the artist or the separately described Ethereum pixel-portrait series. The display title disambiguates the artist; no unsupported expansion of PP is asserted. Existing Fake Commons primary homes are preserved. Counterparty fallback memberships are removed. The historical fakepp.com and crimebreakfast.org websites are currently unreachable, so no working collection website is asserted.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PPZERO](https://api.xcp.io/v2/assets/PPZERO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

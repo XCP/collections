@@ -20,3 +20,7 @@ The complete onchain subasset inventory contains 10 descendants. All listed CDN 
 Sources: https://api.xcp.io/v2/assets/TILES/subassets ; https://cdn.xcp.io/img/card/TILES . Checked 2026-10-11. Preview review does not cover full audiovisual content.
 
 The parent metadata explicitly says “TILES by mellow.” The ten sequential descendants are the matching abstract tile editions, and the first three individual metadata records also point to the same artist page. Sources: https://xcp.coindaddy.io/TILES.json ; https://xcp.coindaddy.io/TILES.001.json ; https://xcp.coindaddy.io/TILES.002.json ; https://xcp.coindaddy.io/TILES.003.json .
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TILES.008](https://api.xcp.io/v2/assets/A197495670702955908/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

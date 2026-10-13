@@ -18,3 +18,7 @@
 The 27 legacy assets were incorrectly stored under Phunchkins. Their exact set matches the [TokenScan Fake Munchkin project](https://tokenscan.io/explorer/project/fake-munchkin?start=0&length=5000). Chain-linked [FAKETREASURE JSON](https://xcp.coindaddy.io/FAKETREASURE.json) explicitly names the FakeMunchkin community launch and website; [FINVERSION JSON](https://xcp.coindaddy.io/FINVERSION.json) independently names the gallery. These are separate from the archived Phunchkins Series 0–4 catalogue.
 
 Reviewed 2026-10-10. Existing artist credits and secondary memberships are retained. TokenScan currently returns this same set for its Phunchkins endpoint; that alias must not be used to overwrite the distinct Phunchkins catalogue. The archived Fake Munchkin website shell was recovered, but its Wix gallery data was unavailable. FAKETREASURE lists additional contributor handles; canonical identity reconciliation remains pending.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [COUNTRFAKE](https://api.xcp.io/v2/assets/COUNTRFAKE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

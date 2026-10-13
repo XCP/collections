@@ -18,3 +18,7 @@
 The [registered SQUIDBLOOD namespace](https://api.xcp.io/v2/assets/SQUIDBLOOD/subassets?limit=100) was enumerated completely and each admitted CDN preview inspected. The parent and illustrated variants form this family; existing official collection membership remains primary and parent membership here is secondary when appropriate. Subassets are not automatically admitted to the parent's official directory.
 
 All registered children have reviewed artwork and are included. Exact chain-linked Coindaddy or Arweave metadata supports the family relationship. Artist credits are preserved only where individually supported, not inherited from an issuing address or parent.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SQUIDBLOOD.ORGIN](https://api.xcp.io/v2/assets/A16837753302335123239/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

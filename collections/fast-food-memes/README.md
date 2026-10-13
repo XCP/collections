@@ -18,3 +18,7 @@
 Current chain-linked Arweave JSON matches each exact asset, explicitly names niftyjutsu, and numbers the cards 1–4. The same collection name is printed on the inspected artwork. Representative source: https://arweave.net/hCkA8GqqBsvLKdmis4JO_YLdnCY_szdjx8CYV4BtNn4 . FFMEMECOUPON remains held because its JSON names a different token, FASTFOODMEMECOUPON. The creator Linktree is a profile link, not a collection-specific website.
 
 Collection membership removes the generic Counterparty fallback. Existing specific collection homes and individual artist credits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FFMEMEFRYDAY](https://api.xcp.io/v2/assets/FFMEMEFRYDAY/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

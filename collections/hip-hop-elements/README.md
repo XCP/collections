@@ -24,3 +24,7 @@ Reviewed 2026-10-11. Existing specific primary collections and artist credits ar
 - [PEPEONE](https://api.xcp.io/v2/assets/PEPEONE) — [media](https://cdn.xcp.io/img/full/PEPEONE)
 - [BBOYPEPE](https://api.xcp.io/v2/assets/BBOYPEPE) — [media](https://cdn.xcp.io/img/full/BBOYPEPE)
 - [RARESCRILLA.FRAMED_4ELE_SC_11_3_21](https://api.xcp.io/v2/assets/A962964899596699886) — [media](https://cdn.xcp.io/img/full/A962964899596699886)
+
+## Project year
+
+**2016** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEONE](https://api.xcp.io/v2/assets/PEPEONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

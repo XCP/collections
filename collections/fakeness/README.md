@@ -20,3 +20,7 @@ Membership includes the parent and all 12 current onchain descendants, checked a
 Sources: https://api.xcp.io/v2/assets/FAKENESS/subassets ; https://cdn.xcp.io/img/card/FAKENESS . Chain inventories and CDN previews checked 2026-10-11. Full audiovisual review remains separate.
 
 The parent retains both existing FWD and MR credits; https://xcp.coindaddy.io/FAKENESS.json explicitly distinguishes art/postproduction by FWD and illustration by MR. Those credits are not automatically propagated to the physical artifacts.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKENESS.21ENTROPYSEAL](https://api.xcp.io/v2/assets/A16596817692694250759/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

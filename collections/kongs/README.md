@@ -23,3 +23,7 @@ All relevant namespaces were read through next_offset null. Membership is explic
 - [KONGS.CROCHETPEPE](https://api.xcp.io/v2/assets/A16325029239411136542) — [artwork](https://cdn.xcp.io/img/full/A16325029239411136542)
 - [KONGS.HAIRPEPE2](https://api.xcp.io/v2/assets/A5680829146757601231) — [artwork](https://cdn.xcp.io/img/full/A5680829146757601231)
 - [DJHERO.KONG](https://api.xcp.io/v2/assets/A10233502561692447527) — [artwork](https://cdn.xcp.io/img/full/A10233502561692447527)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KONGS.KEVIN](https://api.xcp.io/v2/assets/A10176808806184472185/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -20,3 +20,7 @@ Both issuance histories reference easyasset.art/j/36a4g8/COOMER.json at block 72
 Kaleidoscope remains a secondary membership for previously included cards. Counterparty fallback membership is removed where applicable.
 
 Sources: https://api.xcp.io/v2/assets/COOMER/issuances and https://cdn.xcp.io/img/card/COOMER ; https://api.xcp.io/v2/assets/DERCOOMER/issuances and https://cdn.xcp.io/img/card/DERCOOMER
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [COOMER](https://api.xcp.io/v2/assets/COOMER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

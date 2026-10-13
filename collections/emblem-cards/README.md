@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces and parent/subasset CDN contact sheets. Four same-issuer Emblem logo cards form the explicitly labelled Common, Rare, Epic and Legendary set. Each uses the matching EMBLEM prefix and emblem.finance metadata location; current endpoints for these four return HTML, so the inspected artwork and exact identities support the set.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [EMBLEMCOMMON](https://api.xcp.io/v2/assets/EMBLEMCOMMON/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

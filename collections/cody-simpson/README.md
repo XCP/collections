@@ -22,3 +22,7 @@ All relevant namespaces were read through next_offset null. Membership is explic
 - [CODYSIMPSON](https://api.xcp.io/v2/assets/CODYSIMPSON) — [artwork](https://cdn.xcp.io/img/full/CODYSIMPSON)
 - [CODYSIMPSON.LFGO](https://api.xcp.io/v2/assets/A11552577818843828980) — [artwork](https://cdn.xcp.io/img/full/A11552577818843828980)
 - [CODYSIMPSON.LFG](https://api.xcp.io/v2/assets/A1312717424151639693) — [artwork](https://cdn.xcp.io/img/full/A1312717424151639693)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CODYSIMPSON.LFGO](https://api.xcp.io/v2/assets/A11552577818843828980/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

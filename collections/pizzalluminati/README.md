@@ -18,3 +18,7 @@
 Both cards explicitly print Pizzalluminati; the shared series title is visible on their artwork. PZALLUMINATI remains primarily in Dank Rares. This does not assert directory acceptance for THEWATCHERS.
 
 Reviewed all member CDN previews, exact xcpio-core issuer identities and current credits on 2026-10-10. All share issuer 115578, but membership is based on the printed title and depicted family, not issuer alone. Existing collaborator credits and directory primary homes are preserved; Counterparty fallback is removed and Kaleidoscope yields its primary home. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PZALLUMINATI](https://api.xcp.io/v2/assets/PZALLUMINATI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

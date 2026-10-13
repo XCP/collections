@@ -22,3 +22,7 @@ This companion family records exact parent/subasset relationships. It does not a
 - [CRYPTOPEPES](https://api.xcp.io/v2/assets/CRYPTOPEPES) — [artwork](https://cdn.xcp.io/img/full/CRYPTOPEPES)
 - [CRYPTOPEPES.PEPEPUNK_0000](https://api.xcp.io/v2/assets/A3887388113365029119) — [artwork](https://cdn.xcp.io/img/full/A3887388113365029119)
 - [CRYPTOPEPES.PEPEPUNK_0001](https://api.xcp.io/v2/assets/A6609484045077493203) — [artwork](https://cdn.xcp.io/img/full/A6609484045077493203)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CRYPTOPEPES.PEPEPUNK_0000](https://api.xcp.io/v2/assets/A3887388113365029119/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

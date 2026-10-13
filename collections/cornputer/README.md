@@ -19,3 +19,7 @@ Reviewed 2026-10-11. Exact CORNPUTER parent and CONTEST subasset. The contest ar
 
 - [CORNPUTER](https://api.xcp.io/v2/assets/CORNPUTER) — [artwork](https://cdn.xcp.io/img/full/CORNPUTER)
 - [CORNPUTER.CONTEST](https://api.xcp.io/v2/assets/A10555586339902129656) — [artwork](https://cdn.xcp.io/img/full/A10555586339902129656)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNPUTER.CONTEST](https://api.xcp.io/v2/assets/A10555586339902129656/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

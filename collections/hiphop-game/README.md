@@ -24,3 +24,7 @@ Evidence:
 - [Asset namespace](https://tokenscan.io/asset/HIPHOPGAME)
 - [Reviewed artwork: HIPHOPGAME.FATAHK](https://cdn.xcp.io/img/full/HIPHOPGAME.FATAHK)
 - [Reviewed artwork: HIPHOPGAME.MANDELLAESKIA](https://cdn.xcp.io/img/full/HIPHOPGAME.MANDELLAESKIA)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HIPHOPGAME.ARDAMUS](https://api.xcp.io/v2/assets/A6593141062306215603/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

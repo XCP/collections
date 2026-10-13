@@ -20,3 +20,7 @@ Reviewed 2026-10-10 using exact xcpio-core asset identities and CDN contact shee
 7 explicitly reviewed works. Counterparty fallback is removed. Existing specific collection homes remain; Kaleidoscope gallery membership becomes secondary when appropriate.
 
 Remaining works are credited to MightBeMike, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FARMAUCTION.BALLER](https://api.xcp.io/v2/assets/A11699158097469342783/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

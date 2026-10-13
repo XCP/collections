@@ -22,3 +22,7 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/NONFUNGERBIL/sub
 - NONFUNGERBIL.3: [asset record](https://api.xcp.io/v2/assets/NONFUNGERBIL.3) · [artwork](https://cdn.xcp.io/img/card/NONFUNGERBIL.3)
 - NONFUNGERBIL.2: [asset record](https://api.xcp.io/v2/assets/NONFUNGERBIL.2) · [artwork](https://cdn.xcp.io/img/card/NONFUNGERBIL.2)
 - NONFUNGERBIL.1: [asset record](https://api.xcp.io/v2/assets/NONFUNGERBIL.1) · [artwork](https://cdn.xcp.io/img/card/NONFUNGERBIL.1)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [NONFUNGERBIL.4](https://api.xcp.io/v2/assets/A9350164123359471407/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

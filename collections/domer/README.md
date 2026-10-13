@@ -25,3 +25,7 @@ The explicit list includes 4 artworks. Existing Dank Rares primary memberships a
 This existing collection also describes variations of DOMER. The redundant `domer-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for DOMER against its DOMER.* subassets on side-by-side contact sheets. Included: DOMER.IQ, DOMER.IQ.DART, DOMER.RIDE (edits of the same card). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DOMER.IQ.DART](https://api.xcp.io/v2/assets/A292727655442216521/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

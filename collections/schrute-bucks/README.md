@@ -19,3 +19,7 @@ Reviewed 2026-10-11 against the complete [namespace inventory](https://api.xcp.i
 
 - SCHRUTEBUCKS: [record](https://api.xcp.io/v2/assets/SCHRUTEBUCKS) · [artwork](https://cdn.xcp.io/img/card/SCHRUTEBUCKS)
 - SCHRUTEBUCKS.STANLEYNICKELS: [record](https://api.xcp.io/v2/assets/SCHRUTEBUCKS.STANLEYNICKELS) · [artwork](https://cdn.xcp.io/img/card/SCHRUTEBUCKS.STANLEYNICKELS)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SCHRUTEBUCKS.STANLEYNICKELS](https://api.xcp.io/v2/assets/A4722519816644844941/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@ Membership contains the eleven VETTEDREALTY subassets and illustrated parent, ch
 Examples: [parent metadata](https://vettedrealty.com/assets/VETTEDREALTY.json), [Shanghai node](https://vettedrealty.com/assets/VRX-CN-01.json), and [Saint Petersburg node](https://vettedrealty.com/assets/VRX-RU-02.json). The metadata uses the short suffix in its asset field for children, rather than their full Counterparty longnames. Membership relies on the exact on-chain namespace and corresponding issuer-linked document and card, not a general rule accepting suffix-only metadata. No personal creator is named, so no artist is inferred.
 
 The website is taken from the project metadata. Its current homepage describes a newer VRX service; no claim about present node utility or license rights is made here.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [VETTEDREALTY.VRX-CN-01](https://api.xcp.io/v2/assets/A7862930562859587360/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

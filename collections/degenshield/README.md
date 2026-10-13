@@ -17,3 +17,7 @@ The complete reviewed Counterparty namespace contains one illustrated child of t
 
 - [DEGENSHIELD](https://api.xcp.io/v2/assets/DEGENSHIELD) — [artwork](https://cdn.xcp.io/img/full/DEGENSHIELD)
 - [DEGENSHIELD.TOPSECRETAIRDROP](https://api.xcp.io/v2/assets/A17495308477649818459) — [artwork](https://cdn.xcp.io/img/full/A17495308477649818459)
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [DEGENSHIELD.TOPSECRETAIRDROP](https://api.xcp.io/v2/assets/DEGENSHIELD.TOPSECRETAIRDROP/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

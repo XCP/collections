@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain descriptions and CDN artwork contact sheets. Both same-issuer illustrated cards explicitly title themselves Rare Horse Agency, with the distinct subtitles The Fifth Rider - Signal Bearer and Pepe the Hodler - Hard Money Rider. Membership is supported by the printed series title, not horse imagery alone.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FIFTHRIDER](https://api.xcp.io/v2/assets/FIFTHRIDER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

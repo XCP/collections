@@ -21,3 +21,7 @@ Several source images reproduce historical artworks. Collection membership descr
 
 - [STEAMBOAT.WILLIE-Poster](https://api.xcp.io/v2/assets/A7714239489730745931) — [artwork](https://cdn.xcp.io/img/full/A7714239489730745931) — [project metadata](https://pepecartel.ar.io/c/STEAMBOAT.WILLIE-Poster.json)
 - [STEAMBOAT.WILLIE](https://api.xcp.io/v2/assets/A8391038367042602072) — [artwork](https://cdn.xcp.io/img/full/A8391038367042602072) — [project metadata](https://pepecartel.ar.io/c/STEAMBOAT.WILLIE.json)
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [STEAMBOAT.WILLIE-Poster](https://api.xcp.io/v2/assets/A7714239489730745931/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

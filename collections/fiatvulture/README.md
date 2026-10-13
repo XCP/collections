@@ -22,3 +22,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 - [FIATVULTURE](https://api.xcp.io/v2/assets/FIATVULTURE) — [artwork](https://cdn.xcp.io/img/full/FIATVULTURE)
 - [FIATVULTURE.SUBASSET](https://api.xcp.io/v2/assets/A11943703200662403911) — [artwork](https://cdn.xcp.io/img/full/A11943703200662403911)
 - [VULTUREXGIRL](https://api.xcp.io/v2/assets/VULTUREXGIRL) — [artwork](https://cdn.xcp.io/img/full/VULTUREXGIRL)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FIATVULTURE.SUBASSET](https://api.xcp.io/v2/assets/A11943703200662403911/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

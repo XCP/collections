@@ -21,3 +21,7 @@ The explicit reviewed membership list follows the exact TSET namespace. The pare
 
 - TSET: [artwork](https://cdn.xcp.io/img/full/TSET)
 - TSET.MAS: [artwork](https://cdn.xcp.io/img/full/TSET.MAS)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TSET.MAS](https://api.xcp.io/v2/assets/A7127222442641042693/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

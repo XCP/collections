@@ -18,3 +18,7 @@ The parent and child show the same purple pixel-art game theme; the child is exp
 Membership is based on the onchain parent/subasset relationship and inspected CDN artwork. All existing specific primary collections are retained on the parent; illustrated children are primary here and removed from Counterparty. Original EasyAsset/Arweave child metadata is unavailable, so no additional artist fields are inferred.
 
 Sources: https://api.xcp.io/v2/assets/PEPAAGOTCHI/subassets and https://cdn.xcp.io/img/card/PEPAAGOTCHI .
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPAAGOTCHI.SUSPEPAAFLY](https://api.xcp.io/v2/assets/PEPAAGOTCHI.SUSPEPAAFLY/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

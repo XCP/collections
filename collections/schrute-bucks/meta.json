@@ -2,5 +2,6 @@
   "name": "Schrute Bucks",
   "kind": "canonical",
   "description": "The SCHRUTEBUCKS banknote and its Stanley Nickels subasset, referencing The Office.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2021
 }

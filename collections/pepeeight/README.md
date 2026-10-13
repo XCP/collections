@@ -20,3 +20,7 @@ The parent exact JSON describes PEPE808 music produced by DEFSTALKR. The exact R
 Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and credits, reachable metadata and all member CDN previews. The complete issuer contact-sheet inventories covered 12 assets from issuer 302410 and 24 assets from issuer 313624. Membership rests on the documented series identities, reviewed artwork and explicit parent/subasset references, not issuer alone.
 
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEEIGHT.RECEIPT](https://api.xcp.io/v2/assets/PEPEEIGHT.RECEIPT/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

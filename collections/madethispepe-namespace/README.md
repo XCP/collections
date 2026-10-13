@@ -21,3 +21,7 @@ Reviewed 2026-10-11. Existing specific primary collections and artist credits ar
 - [MADETHISPEPE.BURNCARD](https://api.xcp.io/v2/assets/A8611199039118421558) — [media](https://cdn.xcp.io/img/full/A8611199039118421558)
 - [MADETHISPEPE.KINGPIN](https://api.xcp.io/v2/assets/A17739512188482146615) — [media](https://cdn.xcp.io/img/full/A17739512188482146615)
 - [MADETHISPEPE.REJECTION](https://api.xcp.io/v2/assets/A352341835948719760) — [media](https://cdn.xcp.io/img/full/A352341835948719760)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MADETHISPEPE.KINGPIN](https://api.xcp.io/v2/assets/MADETHISPEPE.KINGPIN/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

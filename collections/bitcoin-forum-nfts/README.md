@@ -22,3 +22,7 @@ Exact-asset metadata recovered at the canonical Arweave transaction roots confir
 - BITCOINFORUM.nutildah: [metadata](https://arweave.net/oCdNbu5Ih7zf8fRTUAbggJAJGKcIfz81-7QwDiB_QN8)
 
 The avatars depict participating members and can change with their forum profiles. Their handles and PGP keys are not artist credits; minting by nutildah does not establish authorship of each avatar. The unillustrated BITCOINFORUM parent is excluded. BCTALK and NUTILDAH editions are not included merely because they share an issuer. Future members require review.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BITCOINFORUM.NotATether](https://api.xcp.io/v2/assets/A17478947777010660300/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

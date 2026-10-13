@@ -2,5 +2,6 @@
   "name": "Bluefarms",
   "kind": "canonical",
   "description": "The Bluefarms character card and its gallery, Lean, Bluebird and Rare Power subassets.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

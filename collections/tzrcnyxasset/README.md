@@ -30,3 +30,7 @@ This explicit editorial grouping follows the on-chain namespace and reviewed art
 - [TZRCNYXASSET.THESUB2102](https://api.xcp.io/v2/assets/A3166058156610770302) — [artwork](https://cdn.xcp.io/img/full/A3166058156610770302)
 - [TZRCNYXASSET.THESUB2101](https://api.xcp.io/v2/assets/A2445175723516581540) — [artwork](https://cdn.xcp.io/img/full/A2445175723516581540)
 - [TZRCNYXASSET.THESUB2104](https://api.xcp.io/v2/assets/A13478566292450070386) — [artwork](https://cdn.xcp.io/img/full/A13478566292450070386)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TZRCNYXASSET.THESUB2108](https://api.xcp.io/v2/assets/A15548988330492316574/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

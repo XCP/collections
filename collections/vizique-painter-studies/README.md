@@ -27,3 +27,7 @@ DANKROTHKO.STILL is included as the explicit subasset still-image variation of t
 - [DOUBLESECRET](https://api.xcp.io/v2/assets/DOUBLESECRET) — [artwork](https://vizique.com/wp-content/uploads/2022/04/DOUBLESECRET.gif) — [identity source](https://xchain.io/tx/40a860aef456fae164b3d3cec410f093eb341c8110743855e67d09eeee35a4bd)
 - [PEPELAUTREC](https://api.xcp.io/v2/assets/PEPELAUTREC) — [artwork](https://vizique.com/wp-content/uploads/2022/04/PEPELAUTREC.png) — [identity source](https://xchain.io/tx/c08ca88d6e9e7adc1452be4f33f5ff99e3d12f5641b1534b57059281605f4dbf)
 - [DANKROTHKO.STILL](https://api.xcp.io/v2/assets/A4202973511682610134) — [artwork](https://cdn.xcp.io/img/full/A4202973511682610134) — [identity source](https://api.xcp.io/v2/assets/A4202973511682610134)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKMIRO](https://api.xcp.io/v2/assets/DANKMIRO/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

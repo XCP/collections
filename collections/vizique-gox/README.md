@@ -22,3 +22,7 @@ Existing Vizique credits and official primary memberships are preserved. Full au
 ## Additional reviewed member (2026-10-11)
 
 Added the explicit FAKEGOX.FULLBOW subasset variation after namespace and Gox Humility Card artwork comparison. This addition does not assert that it was the unidentified fourth token of the historical dispenser.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HOTGOX](https://api.xcp.io/v2/assets/HOTGOX/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

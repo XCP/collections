@@ -16,3 +16,7 @@
 ## Artist portfolio evidence
 
 Reviewed 2026-10-10: https://vizique.com/by-series-style/ explicitly groups these artworks under “Monsters & Magic series”. Artist-hosted images were compared side by side with CDN previews, using previously saved xcpio-core issuer records and fresh marketplace membership checks. Preserve official primary homes and existing Vizique credits; Counterparty-only works move to this specific series. These are artist-defined series, not extensions of an official directory by visual resemblance. Full animation review remains open.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HORNSPEPE](https://api.xcp.io/v2/assets/HORNSPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

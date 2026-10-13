@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. Seven sequential RENRARE titles share Renaissance portrait treatments. The sole BOTCHED subasset reworks the second portrait. Preserve all seven Fake Rares/Fake Commons primary placements; do not claim directory acceptance for the child. Recovered exact JSON for ONE/TWO/THREE/FOUR and CDN artwork support the sequence.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RENRARETWO.BOTCHED](https://api.xcp.io/v2/assets/RENRARETWO.BOTCHED/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

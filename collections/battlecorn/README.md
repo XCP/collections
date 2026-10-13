@@ -20,3 +20,7 @@ Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer namespaces an
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
 
 BITCORNCARDS.BATTLECORN is the related card edition, identified by its exact longname and matching Battlecorn design; the empty BITCORNCARDS parent is excluded.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BATTLECORN.EARLYBATTLES](https://api.xcp.io/v2/assets/A14366079837805935379/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

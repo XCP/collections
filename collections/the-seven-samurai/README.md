@@ -20,3 +20,7 @@ Reviewed 2026-10-09. The issuance-linked [SAMURAIONE metadata](https://raw.githu
 The seven paintings retain their existing Fake Commons primary membership (series 53, cards 1–7); this artist-defined collection adds secondary membership. The collector reward leaves Counterparty and receives this collection as its primary home, retaining Amy DiGi and adding a separate subterranean credit. Issuance-linked JSON is evidence, not a cryptographic signature verification.
 
 No project-specific homepage was established, so no website is invented. The explicit asset list is the reviewed source.
+
+## Project year
+
+**2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SAMURAIFIVE](https://api.xcp.io/v2/assets/SAMURAIFIVE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -20,3 +20,7 @@ The complete onchain subasset inventory contains 3 descendants. All listed CDN p
 Sources: https://api.xcp.io/v2/assets/MIKAPOSTERS/subassets ; https://cdn.xcp.io/img/card/MIKAPOSTERS.BOSHIWAVE . Checked 2026-10-11. Preview review does not cover full audiovisual content.
 
 The namespace parent has no artwork or current marketplace membership and is excluded. The three descendants themselves are reviewed posters: BOSHIWAVE, GRANDPRIX and NYEBOSHIBASH.2023.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [MIKAPOSTERS.NYEBOSHIBASH.2023](https://api.xcp.io/v2/assets/A12465902462629611217/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

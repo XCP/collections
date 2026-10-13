@@ -27,3 +27,7 @@ The complete issuer inventory contains these seven assets. The MVM abbreviation 
 - [MVM Rarest of Pepes](https://api.xcp.io/v2/assets/A11155307517406100104/issuances?limit=100) — [artwork](https://cdn.xcp.io/img/full/A11155307517406100104)
 - [MVM Feels Good Pepe](https://api.xcp.io/v2/assets/A11136200084871068033/issuances?limit=100) — [artwork](https://cdn.xcp.io/img/full/A11136200084871068033)
 - [Complete issuer inventory](https://api.xcp.io/v2/addresses/1A3fSVwhCTjoJMsveHxCBZigWsBAgXaWyE/issued?limit=100)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11187275854160989390](https://api.xcp.io/v2/assets/A11187275854160989390/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

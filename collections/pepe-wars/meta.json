@@ -2,5 +2,6 @@
   "name": "Pepe Wars",
   "kind": "canonical",
   "description": "Two numbered character cards bearing the Pepe Wars title.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2025
 }

@@ -23,3 +23,7 @@ All relevant namespaces were read through next_offset null. Membership is explic
 - [WOJAKNFT.2](https://api.xcp.io/v2/assets/A9793099629294328077) — [artwork](https://cdn.xcp.io/img/full/A9793099629294328077)
 
 Remaining works are credited to S1MONS, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WOJAKNFT.2](https://api.xcp.io/v2/assets/A9793099629294328077/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

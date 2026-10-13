@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, same-issuer issuance descriptions, their referenced metadata, and CDN contact sheets. The three same-issuer on-chain assets point directly to JSON describing PEPE KONG and linking the same artist-operated game page. CDN artwork corroborates the named project and its cartridge/gameplay variants. JSON asset fields read PEPEKONGGOLD, PEPEGAMEI and PEPEKONGIII respectively; exact xcpio-core lookup found none of those alternative names. Preserve the actual on-chain identifiers and do not create aliases or invent replacement tokens.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed. Kaleidoscope yields primary placement to the specific family.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEKONGI](https://api.xcp.io/v2/assets/PEPEKONGI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

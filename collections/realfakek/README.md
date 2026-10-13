@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 using exact xcpio-core identities, issuer inventories, chain-linked JSON and CDN artwork contact sheets. The parent and all three current subassets share issuer 179210 and matching historical photograph adaptations about market crashes and inflation. Named SWEEPEPE and the SWEEPEPE child share the exact chain-linked metadata URL and image. Keep these distinct identities, not aliases. Easyasset JSON is currently unusable; membership evidence is the namespace, exact media/source relationship and visible artwork.
 
 Existing directory primary homes and artist credits are preserved; companion membership does not claim acceptance into the parent directory. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [REALFAKEK.PROTOTRASH](https://api.xcp.io/v2/assets/REALFAKEK.PROTOTRASH/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

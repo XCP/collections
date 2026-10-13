@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 23 issuer previews. Both artworks explicitly print the shared Fake Cyborg title, respectively Pepe and Pepa, with matching title typography and cyberpunk card treatment. xcpio-core confirms both exact named assets were issued by the same address with positive supply. FAKECYBTHUG has no artwork or description and is not included. This is an independently identified artist series, not a claim of acceptance into Fake Rares.
 
 Both works move from Counterparty to this family, retaining existing PabloRicaSSo artist credits. Nineteen historical metadata URLs returned no usable JSON; membership is based on the printed artwork title and issuer identities, not unavailable metadata.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKECYBORG](https://api.xcp.io/v2/assets/FAKECYBORG/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core exact identities, issuance history, all 35 issuer previews and the additional PEPEVANDOUGH parent preview. The exact PEPEVANDOUGH namespace connects the parent and LAFAKA child; their artwork shows the same framed illustration, with LAFAKA graffiti on the child. Different issuers and existing artist credits are preserved; namespace membership does not imply the same artist.
 
 Existing Fake Rares primary memberships and all artist credits are preserved. The previously Counterparty child becomes primary here, and loses its Counterparty relationship. This does not assign official Fake Rares acceptance to a child. Exact source metadata includes https://xcp.coindaddy.io/PEPETAROTSIX.json ; most easyasset.art metadata was empty and is not used as evidence. Full animation/audio review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEVANDOUGH.LAFAKA](https://api.xcp.io/v2/assets/PEPEVANDOUGH.LAFAKA/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, issuance records and CDN contact sheets. The parent icon and JohnCarvalho@BitcoinErrorLog child screenshot share the explicit namespace and blocked-account theme. The separate uppercase JOHNCARVALHO child has empty metadata and a CDN placeholder and is excluded. The person shown is a subject, not an artist credit.
 
 2 assets. Existing artist credits are preserved; namespace ownership is not used to add new authorship claims. Counterparty fallback memberships are removed.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [IGOTBLOCKED.JohnCarvalho@BitcoinErrorLog](https://api.xcp.io/v2/assets/IGOTBLOCKED.JohnCarvalho%40BitcoinErrorLog/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

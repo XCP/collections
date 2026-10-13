@@ -21,3 +21,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 
 - [BTCROCKPEPE](https://api.xcp.io/v2/assets/BTCROCKPEPE) — [artwork](https://cdn.xcp.io/img/full/BTCROCKPEPE)
 - [BTCROCKPEPE.NAKABTCROCK](https://api.xcp.io/v2/assets/A14301847069266244411) — [artwork](https://cdn.xcp.io/img/full/A14301847069266244411)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCROCKPEPE.NAKABTCROCK](https://api.xcp.io/v2/assets/A14301847069266244411/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

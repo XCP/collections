@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against xcpio-core exact identities and the complete subasset namespace, and the [parent CDN artwork](https://cdn.xcp.io/img/card/GONEPHISHIN) and [child CDN artwork](https://cdn.xcp.io/img/card/GONEPHISHIN.BIGPHISH). GONEPHISHIN depicts Pepe fishing, and its only subasset GONEPHISHIN.BIGPHISH depicts the fish. Exact namespace membership establishes the parent/child connection, corroborated by the CDN artwork.
 
 The parent retains its official directory primary membership; this artwork family is secondary for that parent and primary for its child. The child leaves Counterparty. Existing MIKEYCORTEZ artist credits are preserved. This does not imply official directory acceptance for the child. Easyasset JSON responses are currently empty; the BIGPHISH IPFS metadata gateway is rate-limited. Neither is cited as readable metadata evidence. Full animation review remains open.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [GONEPHISHIN.BIGPHISH](https://api.xcp.io/v2/assets/GONEPHISHIN.BIGPHISH/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

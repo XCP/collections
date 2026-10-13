@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against exact xcpio-core identities, shared issuer and parent/subasset relationships, plus direct visual comparison of every member through https://cdn.xcp.io/img/card/ followed by its exact asset name. The parent and VISITFROMLAFAKA child use the same close-up face composition, with a related color treatment.
 
 The explicit list contains 2 works. Existing ZETRA credits are retained. Parents already accepted into Fake Rares retain their primary home there and appear here secondarily; no acceptance of variants into that directory is inferred. Counterparty fallback memberships are removed. No verified project homepage was found.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [FAKETEARS.VISITFROMLAFAKA](https://api.xcp.io/v2/assets/FAKETEARS.VISITFROMLAFAKA/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

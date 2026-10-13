@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all 35 Lun Kazuki issuer previews. Issuer inventory identifies 24 numbered PEPEWALK/PEPWALK characters, I through XXIV, each with supply 21. The two PESTICKER artworks explicitly print PEPEWALK STICKER PACK and depict the same characters in two groups of twelve. Issuer previews, numbered asset names, matching imagery and existing Lun Kazuki credits support this named series. Twenty-five established Fake Commons memberships remain primary and gain Pepewalk secondary; PEPWALKXXIII leaves Counterparty and receives Pepewalk primary. No Fake Commons acceptance is inferred for the missing character.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. One Counterparty work moves to this series. Unavailable JSON is not treated as evidence. Full animation review remains open; series membership is independently explicit in numbering and printed sticker-pack titles.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEWALKI](https://api.xcp.io/v2/assets/PEPEWALKI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

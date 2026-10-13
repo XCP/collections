@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and 11 issuer registrations and their available artwork previews. Complete PEPEAHSOKA namespace query confirms parent and PAINTING child. Issuer-linked Arweave original Q7ONOOOLN1dUHWZRzin6tjbShCA3BGAElR60nwoGof4 explicitly credits Artwork: East Three and Music: DJ Q-bert. Its AHSOKAPEPE display label does not replace the registered identity. Matching orange-and-green Ahsoka Pepe painting is visible on both. Preserve DJ QBert credits and add East Three; parent remains primarily Fake Rares.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Four Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links original issuer-linked metadata and matching card designs. Complete audiovisual review remains open.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEAHSOKA.PAINTING](https://api.xcp.io/v2/assets/PEPEAHSOKA.PAINTING/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

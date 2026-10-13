@@ -25,3 +25,7 @@ Existing directory primary homes and artist credits are preserved; companion mem
 This existing collection also describes variations of DEVTHPROPA. The redundant `devthpropa-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for DEVTHPROPA against its DEVTHPROPA.* subassets on side-by-side contact sheets. Included: DEVTHPROPA.DISTRESSED (distressed edit). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [DEVTHPROPA.DISTRESSED](https://api.xcp.io/v2/assets/DEVTHPROPA.DISTRESSED/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

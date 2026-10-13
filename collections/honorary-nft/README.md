@@ -21,3 +21,7 @@ Reviewed 2026-10-11 against complete xcpio-core namespaces, issuer-linked metada
 - [HONORARYNFT.PEPBOT2050](https://api.xcp.io/v2/assets/A3099033085511837893) — [media](https://cdn.xcp.io/img/full/A3099033085511837893)
 - [HONORARYNFT.JIHANWU](https://api.xcp.io/v2/assets/A8637966678843273860) — [media](https://cdn.xcp.io/img/full/A8637966678843273860)
 - [PEPBOTDRAFT](https://api.xcp.io/v2/assets/PEPBOTDRAFT) — [media](https://cdn.xcp.io/img/full/PEPBOTDRAFT)
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HONORARYNFT.PEPBOT2050](https://api.xcp.io/v2/assets/A3099033085511837893/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

@@ -25,3 +25,7 @@ Existing artist credits are preserved. These additions remove Counterparty fallb
 This existing collection also describes variations of DANKSET. The redundant `dankset-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for DANKSET against its DANKSET.* subassets on side-by-side contact sheets. Included: DANKSET.ALPHA (colourway). Subassets showing distinct works are left out.  Existing traits are preserved.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DANKSET.ALPHA](https://api.xcp.io/v2/assets/A15525121507589712439/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

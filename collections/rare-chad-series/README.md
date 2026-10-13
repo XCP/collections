@@ -18,3 +18,7 @@
 Reviewed 2026-10-10. Both artworks explicitly print “rare chad series” in their footer: CHADBUYER is 1/3 and CHADBITCOIN is 2/3. The third card is not yet identified and is not invented. Reviewed against the exact xcpio-core identities and [CHADBUYER artwork](https://xcp.dankinfo.art/danks2/CHADBUYER.png) and [CHADBITCOIN artwork](https://xcp.dankinfo.art/danks2/CHADBITCOIN.png), with CDN previews corroborating the labels. A CHAD-prefix inventory and all 146 assets at the three reviewed issuing addresses were compared. The related imagery supports the explicit series label, rather than substituting for one.
 
 Existing Dank Rares primary memberships are retained, with this family secondary for those works. Former Counterparty members use this family as primary and leave the catch-all. Existing artist credits are preserved; issuing address alone does not create new credits.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CHADBUYER](https://api.xcp.io/v2/assets/CHADBUYER/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

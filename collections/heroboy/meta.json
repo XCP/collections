@@ -2,5 +2,6 @@
   "name": "Hero of Bitcoin",
   "kind": "canonical",
   "description": "The HEROBOY Genesis Game Boy, frame, demo and raffle collectibles.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "founded": 2023
 }

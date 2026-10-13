@@ -22,3 +22,7 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/COUNTERPUNK/suba
 - COUNTERPUNK.002: [asset record](https://api.xcp.io/v2/assets/COUNTERPUNK.002) · [artwork](https://cdn.xcp.io/img/card/COUNTERPUNK.002)
 - COUNTERPUNK.001: [asset record](https://api.xcp.io/v2/assets/COUNTERPUNK.001) · [artwork](https://cdn.xcp.io/img/card/COUNTERPUNK.001)
 - COUNTERPUNK.457: [asset record](https://api.xcp.io/v2/assets/COUNTERPUNK.457) · [artwork](https://cdn.xcp.io/img/card/COUNTERPUNK.457)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [COUNTERPUNK.004](https://api.xcp.io/v2/assets/A8699880411563928855/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

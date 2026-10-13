@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [KARANGSKULL](https://api.xcp.io/v2/assets/KARANGSKULL) — [artwork](https://cdn.xcp.io/img/full/KARANGSKULL)
 - [KARANGSKULL.WOOD](https://api.xcp.io/v2/assets/A17434416802780782435) — [artwork](https://cdn.xcp.io/img/full/A17434416802780782435)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KARANGSKULL.WOOD](https://api.xcp.io/v2/assets/A17434416802780782435/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

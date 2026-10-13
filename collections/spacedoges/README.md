@@ -24,3 +24,7 @@ Reviewed 2026-10-11 using exact xcpio-core asset records, metadata where availab
 | DESHAWN | [Asset record](https://api.xcp.io/v2/assets/DESHAWN) — SpaceDoges 29 | [Card](https://cdn.xcp.io/img/card/DESHAWN) |
 | MARQUIS | [Asset record](https://api.xcp.io/v2/assets/MARQUIS) — SpaceDoges 31 | [Card](https://cdn.xcp.io/img/card/MARQUIS) |
 | TREVON | [Asset record](https://api.xcp.io/v2/assets/TREVON) — SpaceDoges 33 | [Card](https://cdn.xcp.io/img/card/TREVON) |
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DARNELL](https://api.xcp.io/v2/assets/DARNELL/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

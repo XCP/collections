@@ -27,3 +27,7 @@ The project website https://usadecline.baby/ explicitly links TRUMPGULFWAR, TRUM
 - NARCISSIST: [artwork](https://cdn.xcp.io/img/full/NARCISSIST)
 - USCENSORSHIP: [artwork](https://cdn.xcp.io/img/full/USCENSORSHIP)
 - TRUMPNFTSITE: [artwork](https://cdn.xcp.io/img/full/TRUMPNFTSITE)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TRUMPGULFWAR](https://api.xcp.io/v2/assets/TRUMPGULFWAR/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

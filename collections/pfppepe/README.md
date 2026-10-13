@@ -26,3 +26,7 @@ Evidence:
 - [Reviewed artwork: PFPPEPE.18](https://cdn.xcp.io/img/full/PFPPEPE.18)
 
 Existing per-card artist credits are preserved as recorded. Attribution has not been re-audited: in particular, PFPPEPE.18 has an apparent signature/credit discrepancy requiring a separate review.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PFPPEPE.1](https://api.xcp.io/v2/assets/A6220716434129120087/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

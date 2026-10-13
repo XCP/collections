@@ -24,3 +24,7 @@ Evidence:
 - [Asset namespace](https://tokenscan.io/asset/PEPEGIRLZ)
 - [Reviewed artwork: PEPEGIRLZ.12](https://cdn.xcp.io/img/full/PEPEGIRLZ.12)
 - [Reviewed artwork: PEPEGIRLZ.5](https://cdn.xcp.io/img/full/PEPEGIRLZ.5)
+
+## Project year
+
+**2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEGIRLZ.1](https://api.xcp.io/v2/assets/A14810740155184182882/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

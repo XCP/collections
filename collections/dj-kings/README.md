@@ -20,3 +20,7 @@ Reviewed 2026-10-09 against [Vizique's By Series & Style catalogue](https://vizi
 All reviewed assets share issuer 18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2 in xcpio-core and already have Vizique credits. Their artist attributes are preserved, and the same assets leave the Counterparty catch-all. The explicit asset list is the reviewed membership source.
 
 The catalogue's historical dispenser commentary is not a claim about current sale availability. No directory-style artwork is admitted to Rare Pepes or Fake Rares merely from its appearance.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [KINGOFHIPHOP](https://api.xcp.io/v2/assets/KINGOFHIPHOP/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

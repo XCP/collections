@@ -2,5 +2,6 @@
   "name": "Le Fake",
   "kind": "canonical",
   "description": "Le Fake, a Counterparty parent asset and illustrated subasset family.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

@@ -36,3 +36,7 @@ Reviewed 2026-10-11. These three exact-asset JSON documents explicitly name RARE
 - [PEPEICHIZOKU](https://api.xcp.io/v2/assets/PEPEICHIZOKU) — [artwork](https://cdn.xcp.io/img/full/PEPEICHIZOKU) — [metadata](https://arweave.net/pnkimr6vbG6VT0tw20YDLOme56Lmr_SOEPHYRJVlw9k)
 - [SHURIKENPEPE](https://api.xcp.io/v2/assets/SHURIKENPEPE) — [artwork](https://cdn.xcp.io/img/full/SHURIKENPEPE) — [metadata](https://gateway.pinata.cloud/ipfs/Qmai7FVVg1nZ5vnwE1RPjKkukfvCFM2ddrjoxt6N3NERTn)
 - [TANTOPEPE](https://api.xcp.io/v2/assets/TANTOPEPE) — [artwork](https://cdn.xcp.io/img/full/TANTOPEPE) — [metadata](https://gateway.pinata.cloud/ipfs/QmfKQtosbvWb8BW5oHmCuXQWLg5PP8EyQSP7cv88J2AESQ)
+
+## Project year
+
+**2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [OSOISHINOBI](https://api.xcp.io/v2/assets/OSOISHINOBI/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

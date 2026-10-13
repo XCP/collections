@@ -2,5 +2,6 @@
   "name": "EURONOTES",
   "kind": "canonical",
   "description": "Seven Pepe banknote artworks in the EURONOTES namespace, each marked FAKE.",
-  "art_frame": "landscape"
+  "art_frame": "landscape",
+  "founded": 2022
 }

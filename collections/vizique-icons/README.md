@@ -26,3 +26,7 @@ The artist’s [portfolio](https://vizique.com/by-series-style/) groups these wo
 - [DANKESTWIDOW](https://api.xcp.io/v2/assets/DANKESTWIDOW) — [artwork](https://vizique.com/wp-content/uploads/2022/03/DANKESTWIDOW.png) — [identity source](https://xchain.io/tx/4b335ae5b43c6bdfcd829a00f520ce70c5d4ec2b53bfb3a1edd985a2ec8c4115)
 - [PEPEBUYBTC](https://api.xcp.io/v2/assets/PEPEBUYBTC) — [artwork](https://vizique.com/wp-content/uploads/2022/01/PepeRick.png) — [identity source](https://xchain.io/tx/2dc389961f1ef4f0e5dc3f7078c35a90bf9c45e1e189410b6c3c26c1067def32)
 - [PACMANPEPE](https://api.xcp.io/v2/assets/PACMANPEPE) — [artwork](https://vizique.com/wp-content/uploads/2022/03/PACMANPEPE.png) — [identity source](https://xchain.io/tx/25c995733bcc3227c9b8e3c981794bc950339f186d3ed2950e681a386289c93f)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DEEPPEPE](https://api.xcp.io/v2/assets/DEEPPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

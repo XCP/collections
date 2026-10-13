@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core identities, issuance history and all five issuer previews. Complete ISAESNULT namespace has the parent and one positive-supply child. On-chain descriptions explicitly identify Isabelle Esnult and the bronze Bitcoin et Fortuna sculpture; previews show the artist token and sculpture photograph. Both leave Counterparty. This is the documented namespace, not an inferred catalogue of all the artist’s work.
 
 Artist credits, distinct asset identities and established official primary homes are preserved. Four Counterparty works move to these specific families. Unavailable JSON is not treated as evidence. Membership is supported by explicit namespace links and printed numbered titles. Complete audiovisual review remains open.
+
+## Project year
+
+**2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [ISAESNULT.BTCFORTUNA](https://api.xcp.io/v2/assets/ISAESNULT.BTCFORTUNA/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

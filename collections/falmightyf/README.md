@@ -21,3 +21,7 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [FALMIGHTYF](https://api.xcp.io/v2/assets/FALMIGHTYF) — [artwork](https://cdn.xcp.io/img/full/FALMIGHTYF)
 - [FALMIGHTYF.SPARTDANKS](https://api.xcp.io/v2/assets/A16624309214999017004) — [artwork](https://cdn.xcp.io/img/full/A16624309214999017004)
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FALMIGHTYF.SPARTDANKS](https://api.xcp.io/v2/assets/A16624309214999017004/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

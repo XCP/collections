@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 with xcpio-core exact identities, issuance history, 68 issuer previews and available historical metadata. Exact parent/subasset names and the related card compositions establish this family. Child identities are confirmed in https://xcp.coindaddy.io/A16494392544056585026.json and https://xcp.coindaddy.io/A14383858330846144195.json. Parent and GUCHIFAKE keep their existing Fake Rares primary membership; the FAKAPEPETHEREAL child becomes primary here. This does not imply Fake Rares acceptance of that child.
 
 Artist credits and established primary collections are preserved. The formerly Counterparty works become primary here and lose the catch-all relationship. No empty namespace registrations are included. Full animation/audio review remains open.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPETHEFAKE.GUCHIFAKE](https://api.xcp.io/v2/assets/PEPETHEFAKE.GUCHIFAKE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

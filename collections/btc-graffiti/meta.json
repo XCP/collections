@@ -2,5 +2,6 @@
   "name": "BTC Graffiti",
   "kind": "canonical",
   "description": "BTC Graffiti, a related artwork family by ZETRA.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "founded": 2022
 }

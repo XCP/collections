@@ -18,3 +18,7 @@
 Reviewed 2026-10-10 against all 11 assets issued by 1AtZr6L6W4PWAkZMzUKbPbvEq4YFWVuUzT in xcpio-core, exact namespace queries and CDN images at https://cdn.xcp.io/img/card/ using exact asset longnames. The parent depicts the same horned clay character shown on the Patacarte genesis card. Both included cards explicitly display PATAMOULA, and their exact longnames belong to its namespace. PATAMOULA.PATACARTE.1 reuses the genesis source JSON and artwork but has zero supply; it remains excluded as an unissued precursor. The three included assets have positive supply.
 
 Existing CryptoClay credits and official primary homes are preserved. Counterparty fallback memberships are removed for included assets. Easyasset JSON currently returns empty responses and is not cited as readable evidence. Unrelated work from the issuer is not included merely because it uses clay figures. Full animation review remains open.
+
+## Project year
+
+**2022** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PATAMOULA.patacarte.genesis](https://api.xcp.io/v2/assets/PATAMOULA.patacarte.genesis/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

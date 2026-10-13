@@ -22,3 +22,7 @@ The artist’s [portfolio](https://vizique.com/by-series-style/) groups these wo
 - [BITSUPERPEPE](https://api.xcp.io/v2/assets/BITSUPERPEPE) — [artwork](https://vizique.com/wp-content/uploads/2022/03/Superheroes-Series-SUPERPEPE.png) — [identity source](https://xchain.io/tx/2734ade1f555f70748a13040ef9351e1c40891b7afa7aaf5aa45dd0dbebe8259)
 - [DANQUAPEPE](https://api.xcp.io/v2/assets/DANQUAPEPE) — [artwork](https://vizique.com/wp-content/uploads/2021/12/DANQ-ANIMA.gif) — [identity source](https://xchain.io/tx/1ade6bc8a8f83a90fda3349de526a96570da9af6948cac8cbfe3d627871f1879)
 - [RIDDLERPEPE](https://api.xcp.io/v2/assets/RIDDLERPEPE) — [artwork](https://vizique.com/wp-content/uploads/2022/02/RIDDLERPEPE.png) — [identity source](https://xchain.io/tx/df36d9481a324a1560e641aa11d7eb2c1289e950c84a5a30df8b9fb820a99d6d)
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [WONPEPE](https://api.xcp.io/v2/assets/WONPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

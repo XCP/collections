@@ -25,3 +25,7 @@ Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named ass
 - [STACKERPEPE](https://api.xcp.io/v2/assets/STACKERPEPE) — [portfolio image](https://vizique.com/wp-content/uploads/2021/12/STACKERPEPEA.gif) — [dispenser transaction](https://xchain.io/tx/0914c76b9a4e1232de8adbd1cbce5875ad63af7749df433eac5d10d29b8dda7c)
 
 DANKDEGEN receives the previously missing Vizique credit from the artist’s own portfolio and exact dispenser-linked artwork.
+
+## Project year
+
+**2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [STACKERPEPE](https://api.xcp.io/v2/assets/STACKERPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

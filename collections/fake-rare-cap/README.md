@@ -20,3 +20,7 @@ Membership includes the parent and all 19 current onchain descendants, checked a
 Sources: https://api.xcp.io/v2/assets/FAKERARECAP/subassets ; https://cdn.xcp.io/img/card/FAKERARECAP . Chain inventories and CDN previews checked 2026-10-11. Full audiovisual review remains separate.
 
 Original parent metadata: https://xcp.coindaddy.io/FAKERARECAP.json. It names the cap product and anticipated March 2022 delivery.
+
+## Project year
+
+**2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKERARECAP.ORANGE](https://api.xcp.io/v2/assets/A8196622095190664421/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
