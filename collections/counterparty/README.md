@@ -10,7 +10,7 @@
 | Primary memberships | 6,715 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 42/6,715 (0.6%)<br>Artist: 3,074/6,715 (45.8%)<br>Based on: 9/6,715 (0.1%) |
+| Traits | Art year: 42/6,715 (0.6%)<br>Artist: 3,366/6,715 (50.1%)<br>Based on: 9/6,715 (0.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -427,3 +427,7 @@ Seven more credits come from the Easyasset artist field (`pgpsig`) in exact-asse
 Held from the same review: labels naming the depicted subject or character (BABYNAKA, DJDANI, WANGXIANG), a project rather than a person (PARTYPUNKS.0, PLAGUEHEARTH), first names or initials too thin for a profile (BIIITCOOOIN, PARTICIPATED), a book author on a redemption token (FROGMINSTER), a colour alteration of another work (QUEENARTCOIN.NAKAMOTOAPE), a thesis edition whose metadata names a different asset (ROLLANDTHESE.edition_soutenance), BUNJEEJUMPEP's "Maxwell" (linking twitter.com/maxkarlan, distinct from Maxwell Bruno), and CARNIATH's "Mr P x Stack", whose Stack is not yet tied to the existing Stack profile. CARNIATH's "FAUX SOGS" category is not FAUX SOGS admission: it is absent from that collection's official catalog.
 
 UNNAMEABLE: **DanDarkPill**, named as owner in its [exact-asset metadata](https://arweave.net/jdR_dR__GCDrRZfX7KdP4bfeTC-hp9VyVlIhAaxD7bQ) (a multipart envelope; the filename path 404s).
+
+## Curator-confirmed issuer credits (2026-10-13)
+
+251 works are credited to the artist who accounts for at least 90% (and at least three) of the credited works from the same issuing address. Their own metadata carries no signature; the marketplace curator confirmed these attributions. Spelling variants resolve to the canonical artist (LvsD is L_vs_D).
