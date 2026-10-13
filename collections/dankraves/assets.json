@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "DANKRAVES",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 24
+        }
+      ]
+    },
+    {
+      "asset": "DANKRAVES.ELITE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}

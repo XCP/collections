@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEPIDOU",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Series",
+          "value": 27
+        },
+        {
+          "trait_type": "Card",
+          "value": 22
+        }
+      ]
+    },
+    {
+      "asset": "PEPEPIDOU.STAMPidou",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BBLEIZTZ"
+        }
+      ]
+    }
+  ]
+}

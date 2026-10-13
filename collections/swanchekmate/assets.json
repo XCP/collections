@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SWANCHEKMATE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Boost"
+        },
+        {
+          "trait_type": "Series",
+          "value": 78
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "SWANCHEKMATE.ALPHA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "i3inary"
+        }
+      ]
+    }
+  ]
+}

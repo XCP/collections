@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "QRCHAPLIN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
+    },
+    {
+      "asset": "QRCHAPLIN.TAKETWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "qrgraphics"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "BOGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    },
+    {
+      "asset": "BOGS.BOGS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "nathan sonic"
+        }
+      ]
+    }
+  ]
+}

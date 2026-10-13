@@ -1,0 +1,29 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPEPA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mrs. Micon"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "Doctor Phoenix"
+        },
+        {
+          "trait_type": "Series",
+          "value": 2
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPA.NFTNYC"
+    }
+  ]
+}

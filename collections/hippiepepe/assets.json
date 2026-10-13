@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "HIPPIEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "L_vs_D"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 33
+        }
+      ]
+    },
+    {
+      "asset": "HIPPIEPEPE.2024"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "LILYPAD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vincent Van Dough"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "asset": "LILYPAD.BLUE"
+    }
+  ]
+}

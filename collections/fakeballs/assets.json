@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEBALLS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "FAKEBALLS.LAFAKAPRODUCTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        }
+      ]
+    }
+  ]
+}

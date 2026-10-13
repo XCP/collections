@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "RUNDMP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 34
+        }
+      ]
+    },
+    {
+      "asset": "RUNDMP.REMIX"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "PEPPEMINT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gmarz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 26
+        },
+        {
+          "trait_type": "Card",
+          "value": 54
+        }
+      ]
+    },
+    {
+      "asset": "PEPPEMINT.PHYSICAL"
+    }
+  ]
+}

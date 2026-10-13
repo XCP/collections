@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEHODLPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BTCblaze"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 27
+        }
+      ]
+    },
+    {
+      "asset": "PEPEHODLPEPE.PURPLEHZ"
+    }
+  ]
+}

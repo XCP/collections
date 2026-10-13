@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "GENAUXFGLEAM",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Psycopyro"
+        }
+      ]
+    },
+    {
+      "asset": "GENAUXFGLEAM.ANIMATED"
+    }
+  ]
+}

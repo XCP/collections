@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "CANHEAD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "CANHEAD.MULLET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}

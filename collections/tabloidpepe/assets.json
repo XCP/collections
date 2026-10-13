@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "TABLOIDPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "TABLOIDPEPE.LAFAKANEWS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        }
+      ]
+    }
+  ]
+}

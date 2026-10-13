@@ -1,0 +1,23 @@
+{
+  "assets": [
+    {
+      "asset": "MALVERDE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    },
+    {
+      "asset": "MALVERDE.RAREAF2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    }
+  ]
+}

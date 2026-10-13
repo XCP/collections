@@ -1,0 +1,29 @@
+{
+  "assets": [
+    {
+      "asset": "MODERNDANK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gtdank"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
+    },
+    {
+      "asset": "MODERNDANK.HOLO"
+    }
+  ]
+}

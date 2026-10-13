@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "SECURITYPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Oliver Morris"
+        },
+        {
+          "trait_type": "Series",
+          "value": 7
+        },
+        {
+          "trait_type": "Card",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "asset": "SECURITYPEPE.FAKERARE"
+    }
+  ]
+}

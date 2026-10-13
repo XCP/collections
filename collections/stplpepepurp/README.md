@@ -1,0 +1,18 @@
+# STPLPEPEPURP
+
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Variations of STPLPEPEPURP |
+| Membership | 2 assets |
+| Primary memberships | 2 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
+## Membership evidence
+
+Reviewed 2026-10-13 by comparing CDN card art for STPLPEPEPURP against its  subassets on side-by-side contact sheets. Included: STPLPEPEPURP.STPLSMOLPURP (smaller version). Subassets showing distinct works are left out. The parent and its variation move here from the Counterparty fallback collection. Existing traits are preserved.

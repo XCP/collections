@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "TROJANFAKE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 13
+        },
+        {
+          "trait_type": "Card",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "asset": "TROJANFAKE.800X1120"
+    }
+  ]
+}

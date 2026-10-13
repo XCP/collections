@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "POLKADOTPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr. Greedy"
+        },
+        {
+          "trait_type": "Series",
+          "value": 12
+        },
+        {
+          "trait_type": "Card",
+          "value": 43
+        }
+      ]
+    },
+    {
+      "asset": "POLKADOTPEPE.CERAMIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dr. Greedy"
+        }
+      ]
+    }
+  ]
+}

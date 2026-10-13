@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "asset": "FAKETORCH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "asset": "FAKETORCH.WAS_HERE"
+    }
+  ]
+}

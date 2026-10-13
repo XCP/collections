@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "PEPESUNCATCH",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Series",
+          "value": 8
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "PEPESUNCATCH.1"
+    },
+    {
+      "asset": "PEPESUNCATCH.2"
+    }
+  ]
+}

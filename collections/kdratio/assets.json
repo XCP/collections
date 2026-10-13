@@ -1,0 +1,22 @@
+{
+  "assets": [
+    {
+      "asset": "KDRATIO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "KDRATIO.REAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    }
+  ]
+}
