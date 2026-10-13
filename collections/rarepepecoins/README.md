@@ -25,3 +25,7 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## Artwork-year review
+
+The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.

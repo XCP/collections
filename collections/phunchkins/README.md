@@ -57,3 +57,9 @@ The archived collection-operated card pages were reviewed on 2026-10-10 for expl
 | SATOSHISHOW | Bifaresh | [Archived card page](https://web.archive.org/web/20230926020912/https://phunchkins.com/satoshishow/) |
 
 PHUNCHJAM has only the unambiguous contributor identities added here. Its Jona Corbi, DOGE and CRIPSY spellings, Pimpernel Jones on several collaborations, and Pirate Barry on HIFEASPHUNCH remain identity-reconciliation follow-ups. These unresolved labels do not replace or combine independently established artist profiles. A licensed music sample is not treated as proof that its musician collaborated on the card.
+
+## Launch-year evidence
+
+PEPEDOM was blank when registered in December 2021; its image and lock are January 17, 2022. The named Series 1 premiere pack auction was February 15–17, 2022. Other sampled members were illustrated in 2022. The 2021 registration does not date the Phunchkins release.
+
+[Source](https://scarce.city/auctions/PHUNCHKINS-S1). See the [chronology review](../../docs/chronology-review-2026-10-13.md) for scope and limitations.
