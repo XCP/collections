@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "BARF"
+      "asset": "BARF",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "BARF.PEPE",
@@ -13,13 +19,25 @@
       ]
     },
     {
-      "asset": "CRACK"
+      "asset": "CRACK",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "CRACK.STARS"
     },
     {
-      "asset": "DIARRHEA"
+      "asset": "DIARRHEA",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "DIARRHEA.HAIKU",
@@ -61,7 +79,13 @@
       ]
     },
     {
-      "asset": "DRUGGIE"
+      "asset": "DRUGGIE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "DRUGGIE.GIRL",
@@ -79,7 +103,13 @@
       "asset": "DRUGGIE.PEPE"
     },
     {
-      "asset": "FUCKED"
+      "asset": "FUCKED",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "FUCKED.Bride"
@@ -109,7 +139,13 @@
       "asset": "FUCKED.WELL"
     },
     {
-      "asset": "HARDCORE"
+      "asset": "HARDCORE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "HARDCORE.90sRavePepe"
@@ -185,7 +221,13 @@
       "asset": "HARDCORE.TOTHECORE"
     },
     {
-      "asset": "HEROIN"
+      "asset": "HEROIN",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "HEROIN.ADDICTPEPE",
@@ -230,7 +272,13 @@
       ]
     },
     {
-      "asset": "HERPES"
+      "asset": "HERPES",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "HERPES.BOO"
@@ -269,7 +317,13 @@
       "asset": "HERPES.VICTIMS"
     },
     {
-      "asset": "HUMILIATE"
+      "asset": "HUMILIATE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "HUMILIATE.HUMILIATERR"
@@ -296,7 +350,13 @@
       "asset": "HUMILIATE.SADO"
     },
     {
-      "asset": "KINKY"
+      "asset": "KINKY",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "KINKY.CREAM",
@@ -317,7 +377,13 @@
       ]
     },
     {
-      "asset": "MENAGEATROIS"
+      "asset": "MENAGEATROIS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "MENAGEATROIS.BLISS"
@@ -332,7 +398,13 @@
       ]
     },
     {
-      "asset": "MISTRESS"
+      "asset": "MISTRESS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "MISTRESS.Dominatrix"
@@ -347,7 +419,13 @@
       ]
     },
     {
-      "asset": "MUFFDIVER"
+      "asset": "MUFFDIVER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "MUFFDIVER.Aquadivers"
@@ -404,7 +482,13 @@
       ]
     },
     {
-      "asset": "OCCULT"
+      "asset": "OCCULT",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "OCCULT.AMULET"
@@ -425,7 +509,13 @@
       "asset": "OCCULT.OFPEPE"
     },
     {
-      "asset": "PINKTACO"
+      "asset": "PINKTACO",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "PINKTACO.ANYTHING"
@@ -452,7 +542,13 @@
       "primary": false
     },
     {
-      "asset": "SHART"
+      "asset": "SHART",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "SHART.ART"
@@ -470,7 +566,13 @@
       "asset": "SHART.WEDDING"
     },
     {
-      "asset": "SLUTTY"
+      "asset": "SLUTTY",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "SLUTTY.BITCOINSLUT"
@@ -479,7 +581,13 @@
       "asset": "SLUTTY.HELLO"
     },
     {
-      "asset": "TEABAGGER"
+      "asset": "TEABAGGER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "TEABAGGER.MISUNDERSTANDING"
@@ -488,7 +596,13 @@
       "asset": "TEABAGGER.TRUMP"
     },
     {
-      "asset": "TOKE"
+      "asset": "TOKE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "TOKE.BADARSE"
@@ -554,7 +668,13 @@
       ]
     },
     {
-      "asset": "TORTURE"
+      "asset": "TORTURE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "TORTURE.Game",
@@ -617,7 +737,13 @@
       "asset": "TORTURE.TICKLE"
     },
     {
-      "asset": "WASTED"
+      "asset": "WASTED",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "WASTED.BERNIE"

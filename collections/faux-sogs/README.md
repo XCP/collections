@@ -10,7 +10,7 @@
 | Primary memberships | 297 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 287/297 (96.6%) |
+| Traits | Art year: 1/297 (0.3%)<br>Artist: 287/297 (96.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -35,3 +35,7 @@ Existing canonical artist names are retained, including previously merged aliase
 A second pass records explicit catalog artist names for 43 more cards. These are artist handles as published, not inferred real-world identities or credits inherited from an issuer. The [PHOENIXCD metadata](https://xcp.coindaddy.io/PHOENIXCD.json) explicitly credits Tasha. COLLABCARD and CONCEPTCARD name Rinaldo Wirz; HALCARD and DANKHUNTERS have separate catalog-named collaborators. TSUKASAFAUX, MIZUKIFAUX and KAORIFAUX visibly print both MAYL and PSYCOPYRO; each receives both individual credits. REINCOINATE also confirms c'oinking in its [issuer-linked JSON](https://raw.githubusercontent.com/realcoinking/realcoinking.github.io/refs/heads/main/reincoinate.json).
 
 Ten cards remain unattributed here pending stronger identity evidence: the TK and GlenNFT groups, ETHERYUMCARD's slash-separated name, and the apparent spelling variants on DRAGONSFREED and HEARTSONFIRE. No blanket alias merges are implied.
+
+## Later artwork on earlier tokens
+
+The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.

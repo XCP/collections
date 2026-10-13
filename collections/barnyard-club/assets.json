@@ -99,6 +99,10 @@
         {
           "trait_type": "Artist",
           "value": "D00MSDRE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -444,6 +448,10 @@
         {
           "trait_type": "Artist",
           "value": "Worm"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

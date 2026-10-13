@@ -10,7 +10,7 @@
 | Primary memberships | 73 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 41/73 (56.2%) |
+| Traits | Art year: 2/73 (2.7%)<br>Artist: 41/73 (56.2%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -31,3 +31,7 @@ Reviewed individual artist credits from exact-asset original metadata:
 - BARNASSO: **pitoopi**, from the [original metadata](https://api.npoint.io/e0208a2894ebb9ca3312.json) attribution field ("@PitooPi").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+## Later artwork on earlier tokens
+
+The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.

@@ -60,6 +60,10 @@
         {
           "trait_type": "Artist",
           "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

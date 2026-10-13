@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "BARBARIAN"
+      "asset": "BARBARIAN",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "BARBARIAN.BLACK"
@@ -16,7 +22,13 @@
       ]
     },
     {
-      "asset": "COBRA"
+      "asset": "COBRA",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "COBRA.ALMANAC2024"
@@ -86,7 +98,13 @@
       ]
     },
     {
-      "asset": "COLLECTOR"
+      "asset": "COLLECTOR",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "COLLECTOR.areyoumissingsomething"
@@ -191,7 +209,13 @@
       "asset": "COLLECTOR.TheCollector"
     },
     {
-      "asset": "CRAB"
+      "asset": "CRAB",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "CRAB.BAND",
@@ -233,7 +257,13 @@
       "asset": "CRAB.xcp"
     },
     {
-      "asset": "DEMON"
+      "asset": "DEMON",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "DEMON.FEARLESS",
@@ -251,7 +281,13 @@
       "asset": "DEMON.scream"
     },
     {
-      "asset": "EYES"
+      "asset": "EYES",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "EYES.HYPNOTIZE"
@@ -269,7 +305,13 @@
       ]
     },
     {
-      "asset": "FAIRY"
+      "asset": "FAIRY",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "FAIRY.ANDPEPE"
@@ -311,7 +353,13 @@
       ]
     },
     {
-      "asset": "FURY"
+      "asset": "FURY",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "FURY.NF",
@@ -335,7 +383,13 @@
       "asset": "FURY.TEMPEST"
     },
     {
-      "asset": "GARGOYLE"
+      "asset": "GARGOYLE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "GARGOYLE.AWAKENS"
@@ -374,7 +428,13 @@
       ]
     },
     {
-      "asset": "GHOUL"
+      "asset": "GHOUL",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "GHOUL.ATTACK"
@@ -398,7 +458,13 @@
       ]
     },
     {
-      "asset": "GOAT"
+      "asset": "GOAT",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "GOAT.COWPEPE"
@@ -458,7 +524,13 @@
       ]
     },
     {
-      "asset": "GODS"
+      "asset": "GODS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "GODS.LOVESYALL",
@@ -485,7 +557,13 @@
       ]
     },
     {
-      "asset": "GREED"
+      "asset": "GREED",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "GREED.GREEDMACDUCK",
@@ -530,7 +608,13 @@
       "asset": "GREED.WANT"
     },
     {
-      "asset": "INSOMNIA"
+      "asset": "INSOMNIA",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "INSOMNIA.CANTSLEEP"
@@ -554,7 +638,13 @@
       ]
     },
     {
-      "asset": "LORD"
+      "asset": "LORD",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "LORD.NAKAMOTO"
@@ -572,7 +662,13 @@
       ]
     },
     {
-      "asset": "LUCIFER"
+      "asset": "LUCIFER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "LUCIFER.LUCIFUN",
@@ -587,7 +683,13 @@
       "asset": "LUCIFER.WHOISGENSLER"
     },
     {
-      "asset": "MERMAID"
+      "asset": "MERMAID",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "MERMAID.BIKINIBOTTOM",
@@ -617,7 +719,13 @@
       "asset": "MERMAID.FROG_PRINCE"
     },
     {
-      "asset": "PSYCHO"
+      "asset": "PSYCHO",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "PSYCHO.CYBERPUNK",
@@ -672,7 +780,13 @@
       "asset": "RELICSUBMIT"
     },
     {
-      "asset": "SUMO"
+      "asset": "SUMO",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "SUMO.BABY",
@@ -696,7 +810,13 @@
       "asset": "SUMO.FACEOFF"
     },
     {
-      "asset": "VIPER"
+      "asset": "VIPER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "VIPER.BRO",
@@ -759,7 +879,13 @@
       "asset": "VIPER.VYPER"
     },
     {
-      "asset": "WASP"
+      "asset": "WASP",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "WASP.WASPHEAD"
