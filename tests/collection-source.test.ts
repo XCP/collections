@@ -645,3 +645,11 @@ test("a project claiming fallback art is told to remove the fallback entry", () 
     (error) => error instanceof CollectionValidationError && /two primary memberships: one and two/.test(error.message),
   );
 });
+
+test('Based on defers absent adapter targets but still rejects invalid and self references', () => {
+  const entries = value => [{slug:'example',assets:[{asset:'BOOTLEGPEPE',attributes:[{trait_type:'Based on',value}]}]}];
+  assert.deepEqual(basedOnIssues(entries('PUTIN'), {requireRegistered:false}), []);
+  assert.match(basedOnIssues(entries('PUTIN'))[0], /not in the registry/);
+  assert.match(basedOnIssues(entries('invalid'), {requireRegistered:false})[0], /must name/);
+  assert.match(basedOnIssues(entries('BOOTLEGPEPE'), {requireRegistered:false})[0], /itself/);
+});
