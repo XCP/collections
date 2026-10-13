@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEBLUEEYES",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "asset": "PEPEBLUEEYES.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NFTMANC"
+        }
+      ]
+    }
+  ]
+}

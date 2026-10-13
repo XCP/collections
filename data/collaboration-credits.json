@@ -1500,11 +1500,11 @@
           "asset": "BINPURP"
         },
         {
-          "collection": "counterparty",
+          "collection": "kdratio",
           "asset": "KDRATIO.REAL"
         },
         {
-          "collection": "counterparty",
+          "collection": "kdratio",
           "asset": "KDRATIO"
         },
         {

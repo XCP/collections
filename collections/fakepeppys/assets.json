@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEPEPPYS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "TESTIIPROD"
+        },
+        {
+          "trait_type": "Series",
+          "value": 9
+        },
+        {
+          "trait_type": "Card",
+          "value": 26
+        }
+      ]
+    },
+    {
+      "asset": "FAKEPEPPYS.FAKEBOTTLE1"
+    }
+  ]
+}

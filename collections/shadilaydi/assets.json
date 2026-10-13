@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "SHADILAYDI",
+      "primary": false
+    },
+    {
+      "asset": "SHADILAYDI.PICT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hilman"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "STPLHOMERPEP",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "purplehat.eth"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "STPLHOMERPEP.STPLHOMERALT"
+    }
+  ]
+}

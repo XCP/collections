@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "WAGMIPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "asset": "WAGMIPEPE.LA_FAKA_CONTROLA"
+    }
+  ]
+}

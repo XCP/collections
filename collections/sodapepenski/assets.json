@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "SODAPEPENSKI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Bryan Micon"
+        },
+        {
+          "trait_type": "Series",
+          "value": 27
+        },
+        {
+          "trait_type": "Card",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "asset": "SODAPEPENSKI.SIGNED"
+    }
+  ]
+}

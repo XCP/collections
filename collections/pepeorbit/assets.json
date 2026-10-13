@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEORBIT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "burstMembrane"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "asset": "PEPEORBIT.LAFAKAERROR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "burstMembrane"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "BIGDEAL",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pitoopi"
+        }
+      ]
+    },
+    {
+      "asset": "BIGDEAL.xcp"
+    }
+  ]
+}

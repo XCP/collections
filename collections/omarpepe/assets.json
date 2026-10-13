@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "OMARPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nay and Ry"
+        },
+        {
+          "trait_type": "Series",
+          "value": 1
+        },
+        {
+          "trait_type": "Card",
+          "value": 23
+        }
+      ]
+    },
+    {
+      "asset": "OMARPEPE.DONTSCARE"
+    }
+  ]
+}

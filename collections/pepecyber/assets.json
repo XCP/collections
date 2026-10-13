@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "PEPECYBER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dangiuz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 5
+        },
+        {
+          "trait_type": "Card",
+          "value": 37
+        }
+      ]
+    },
+    {
+      "asset": "PEPECYBER.HD"
+    }
+  ]
+}

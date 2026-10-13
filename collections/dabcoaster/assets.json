@@ -1,0 +1,17 @@
+{
+  "assets": [
+    {
+      "asset": "DABCOASTER",
+      "primary": false
+    },
+    {
+      "asset": "DABCOASTER.ETHERIUM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "FWD"
+        }
+      ]
+    }
+  ]
+}

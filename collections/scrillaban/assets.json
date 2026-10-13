@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset": "SCRILLABAN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 15
+        }
+      ]
+    },
+    {
+      "asset": "SCRILLABAN.BANCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mr spree"
+        }
+      ]
+    }
+  ]
+}

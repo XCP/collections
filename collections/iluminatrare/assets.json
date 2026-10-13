@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "ILUMINATRARE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Series",
+          "value": 34
+        },
+        {
+          "trait_type": "Card",
+          "value": 17
+        }
+      ]
+    },
+    {
+      "asset": "ILUMINATRARE.120x80"
+    }
+  ]
+}

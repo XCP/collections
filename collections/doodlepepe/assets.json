@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "asset": "DOODLEPEPE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Vexx"
+        },
+        {
+          "trait_type": "Series",
+          "value": 11
+        },
+        {
+          "trait_type": "Card",
+          "value": 47
+        }
+      ]
+    },
+    {
+      "asset": "DOODLEPEPE.MIAMI"
+    }
+  ]
+}
