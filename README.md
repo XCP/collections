@@ -8,16 +8,16 @@
 | Collections | 1,156 |
 | Canonical collections | 1,147 |
 | Curated views | 9 |
-| Explicit unique assets | 64,554 |
-| Explicit collection memberships | 66,252 |
-| Primary memberships | 64,554 |
+| Explicit unique assets | 64,561 |
+| Explicit collection memberships | 66,259 |
+| Primary memberships | 64,561 |
 | Secondary or curated memberships | 1,698 |
-| Memberships with traits | 36,183 |
+| Memberships with traits | 36,190 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 1,153 |
-| Collection or computed adapters | 2 |
+| Reviewed static `assets.json` | 1,152 |
+| Collection or computed adapters | 3 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
 | Available aggregators | 3 |
