@@ -2,7 +2,13 @@
   "assets": [
     {
       "asset": "PUPS",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "PUPS.SHEPHERD",
@@ -11,6 +17,10 @@
         {
           "trait_type": "Artist",
           "value": "Wheeler"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     }
