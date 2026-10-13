@@ -754,7 +754,7 @@ export const BASED_ON_TRAIT = "Based on";
  * explicit (the tribute's own name embeds the original), never inferred
  * from style.
  */
-export function basedOnIssues(collections) {
+export function basedOnIssues(collections, { requireRegistered = true } = {}) {
   const registered = new Set(collections.flatMap((collection) => (collection.assets ?? []).map((entry) => entry.asset)));
   const issues = [];
   for (const collection of collections) {
@@ -765,7 +765,7 @@ export function basedOnIssues(collections) {
           issues.push(`${collection.slug}: ${entry.asset} "${BASED_ON_TRAIT}" must name a Counterparty asset`);
         } else if (attribute.value === entry.asset) {
           issues.push(`${collection.slug}: ${entry.asset} cannot be based on itself`);
-        } else if (!registered.has(attribute.value)) {
+        } else if (requireRegistered && !registered.has(attribute.value)) {
           issues.push(`${collection.slug}: ${entry.asset} is based on ${attribute.value}, which is not in the registry`);
         }
       }
@@ -858,7 +858,9 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
   }
   issues.push(...numericAssetIssues(repositoryRoot, collections));
   issues.push(...blockedCreditIssues(repositoryRoot, collections));
-  issues.push(...basedOnIssues(collections));
+  // Adapter membership is unavailable to this network-free pass. Resolve cross-source
+  // references against the complete snapshot during export.
+  issues.push(...basedOnIssues(collections, { requireRegistered: externalSources === 0 }));
   issues.push(...artistSpellingIssues(collections));
   if (issues.length > 0) throw new CollectionValidationError(issues);
 
@@ -900,6 +902,8 @@ export async function materializeRepository({
       else issues.push(`${slug}: ${error.message}`);
     }
   }
+  if (issues.length > 0) throw new CollectionValidationError(issues);
+  issues.push(...basedOnIssues(collections, { requireRegistered: selection.complete }));
   if (issues.length > 0) throw new CollectionValidationError(issues);
   applyCounterpartyFallback(collections);
   applySecondaryOnOverlap(collections);
