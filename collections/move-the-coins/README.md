@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of MOVETHECOINS |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -19,3 +19,10 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 
 - [MOVETHECOINS](https://api.xcp.io/v2/assets/MOVETHECOINS) — [media](https://cdn.xcp.io/img/full/MOVETHECOINS)
 - [MOVETHECOINS.BRO](https://api.xcp.io/v2/assets/A8347339206262679258) — [media](https://cdn.xcp.io/img/full/A8347339206262679258)
+
+
+## Variation relationship
+
+This existing collection also describes variations of MOVETHECOINS. The redundant `movethecoins` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for MOVETHECOINS against its MOVETHECOINS.* subassets on side-by-side contact sheets. Included: MOVETHECOINS.BRO (duplicate edition). Subassets showing distinct works are left out.  Existing traits are preserved.

@@ -2,5 +2,6 @@
   "name": "Three Sisters",
   "kind": "canonical",
   "description": "Three portraits in the THREESISTERS namespace, their framed presentations, and the illustrated triptych parent.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "THREESISTERS"
 }

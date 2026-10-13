@@ -2,5 +2,6 @@
   "name": "Fed Up Pepe",
   "kind": "canonical",
   "description": "Fed Up Pepe, an artwork family by Frames.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "FEDUPPEPE"
 }

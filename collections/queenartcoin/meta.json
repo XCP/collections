@@ -3,5 +3,6 @@
   "kind": "canonical",
   "description": "The QUEENARTCOIN artwork and its NAKAMOTOAPE subasset variation.",
   "art_frame": "card",
-  "founded": 2024
+  "founded": 2024,
+  "variation_of": "QUEENARTCOIN"
 }

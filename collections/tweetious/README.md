@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of TWEETIOUS |
 | Membership | 3 assets |
 | Primary memberships | 3 |
 | Secondary or curated memberships | 0 |
@@ -20,3 +20,10 @@ Reviewed 2026-10-11 against the complete [on-chain namespace](https://api.xcp.io
 - TWEETIOUS: [asset record](https://api.xcp.io/v2/assets/TWEETIOUS) · [artwork](https://cdn.xcp.io/img/card/TWEETIOUS)
 - TWEETIOUS.XCP: [asset record](https://api.xcp.io/v2/assets/TWEETIOUS.XCP) · [artwork](https://cdn.xcp.io/img/card/TWEETIOUS.XCP)
 - TWEETIOUS.xcp: [asset record](https://api.xcp.io/v2/assets/TWEETIOUS.xcp) · [artwork](https://cdn.xcp.io/img/card/TWEETIOUS.xcp)
+
+
+## Variation relationship
+
+This existing collection also describes variations of TWEETIOUS. The redundant `tweetious-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for TWEETIOUS against its TWEETIOUS.* subassets on side-by-side contact sheets. Included: TWEETIOUS.XCP, TWEETIOUS.xcp (duplicate editions). Subassets showing distinct works are left out.  Existing traits are preserved.

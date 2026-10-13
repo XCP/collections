@@ -2,5 +2,6 @@
   "name": "MESOPEPTIMIA",
   "kind": "canonical",
   "description": "MESOPEPTIMIA artwork and its VTWO variation.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "MESOPEPTIMIA"
 }

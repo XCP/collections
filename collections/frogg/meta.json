@@ -2,5 +2,6 @@
   "name": "FROGG",
   "kind": "canonical",
   "description": "The FROGG parent artwork and its nine colored frog-silhouette subasset editions.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "variation_of": "FROGG"
 }

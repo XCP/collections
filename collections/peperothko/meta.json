@@ -2,5 +2,6 @@
   "name": "PEPEROTHKO",
   "kind": "canonical",
   "description": "Luca’s PEPEROTHKO artwork and its LUCA subasset.",
-  "art_frame": "card"
+  "art_frame": "card",
+  "variation_of": "PEPEROTHKO"
 }

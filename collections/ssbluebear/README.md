@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of SSBLUEBEAR |
 | Membership | 4 assets |
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
@@ -21,3 +21,10 @@ The complete [namespace inventory](https://api.xcp.io/v2/assets/SSBLUEBEAR/subas
 - SSBLUEBEAR.FASTER: [asset record](https://api.xcp.io/v2/assets/SSBLUEBEAR.FASTER) · [artwork](https://cdn.xcp.io/img/card/SSBLUEBEAR.FASTER)
 - SSBLUEBEAR.BLUEMAGIC: [asset record](https://api.xcp.io/v2/assets/SSBLUEBEAR.BLUEMAGIC) · [artwork](https://cdn.xcp.io/img/card/SSBLUEBEAR.BLUEMAGIC)
 - SSBLUEBEAR.COLLECTOR: [asset record](https://api.xcp.io/v2/assets/SSBLUEBEAR.COLLECTOR) · [artwork](https://cdn.xcp.io/img/card/SSBLUEBEAR.COLLECTOR)
+
+
+## Variation relationship
+
+This existing collection also describes variations of SSBLUEBEAR. The redundant `ssbluebear-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for SSBLUEBEAR against its SSBLUEBEAR.* subassets on side-by-side contact sheets. Included: SSBLUEBEAR.FASTER, SSBLUEBEAR.BLUEMAGIC, SSBLUEBEAR.COLLECTOR (glitch and tiled edits). Subassets showing distinct works are left out.  Existing traits are preserved.

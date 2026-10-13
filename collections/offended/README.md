@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of OFFENDED |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -22,3 +22,10 @@ Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
 
 Remaining works are credited to Ditz, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
+
+
+## Variation relationship
+
+This existing collection also describes variations of OFFENDED. The redundant `offended-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for OFFENDED against its OFFENDED.* subassets on side-by-side contact sheets. Included: OFFENDED.MIKA (edited version). Subassets showing distinct works are left out.  Existing traits are preserved.

@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of ULTRAFAKEMAN |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -21,3 +21,10 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [ULTRAFAKEMAN](https://api.xcp.io/v2/assets/ULTRAFAKEMAN) — [artwork](https://cdn.xcp.io/img/full/ULTRAFAKEMAN)
 - [ULTRAFAKEMAN.FAKEWEF](https://api.xcp.io/v2/assets/A7401564555925773271) — [artwork](https://cdn.xcp.io/img/full/A7401564555925773271)
+
+
+## Variation relationship
+
+This existing collection also describes variations of ULTRAFAKEMAN. The redundant `ultrafakeman-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for ULTRAFAKEMAN against its ULTRAFAKEMAN.* subassets on side-by-side contact sheets. Included: ULTRAFAKEMAN.FAKEWEF (edited version). Subassets showing distinct works are left out.  Existing traits are preserved.

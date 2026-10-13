@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of PEPEXWIFE |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -21,3 +21,10 @@ All members below have reviewed artwork. Existing creator credits and traits are
 
 - [PEPEXWIFE](https://api.xcp.io/v2/assets/PEPEXWIFE) — [artwork](https://cdn.xcp.io/img/full/PEPEXWIFE)
 - [PEPEXWIFE.ONWOOD](https://api.xcp.io/v2/assets/A1353580399383168643) — [artwork](https://cdn.xcp.io/img/full/A1353580399383168643)
+
+
+## Variation relationship
+
+This existing collection also describes variations of PEPEXWIFE. The redundant `pepexwife-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for PEPEXWIFE against its PEPEXWIFE.* subassets on side-by-side contact sheets. Included: PEPEXWIFE.ONWOOD (painting on wood). Subassets showing distinct works are left out.  Existing traits are preserved.

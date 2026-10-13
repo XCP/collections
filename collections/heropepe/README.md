@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of HEROPEPE |
 | Membership | 3 assets |
 | Primary memberships | 3 |
 | Secondary or curated memberships | 0 |
@@ -20,3 +20,10 @@ Reviewed 2026-10-11 against the complete [on-chain namespace](https://api.xcp.io
 - HEROPEPE: [asset record](https://api.xcp.io/v2/assets/HEROPEPE) · [artwork](https://cdn.xcp.io/img/card/HEROPEPE)
 - HEROPEPE.FOCUSED: [asset record](https://api.xcp.io/v2/assets/HEROPEPE.FOCUSED) · [artwork](https://cdn.xcp.io/img/card/HEROPEPE.FOCUSED)
 - HEROPEPE.CHILLED: [asset record](https://api.xcp.io/v2/assets/HEROPEPE.CHILLED) · [artwork](https://cdn.xcp.io/img/card/HEROPEPE.CHILLED)
+
+
+## Variation relationship
+
+This existing collection also describes variations of HEROPEPE. The redundant `heropepe-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for HEROPEPE against its HEROPEPE.* subassets on side-by-side contact sheets. Included: HEROPEPE.FOCUSED, HEROPEPE.CHILLED (expression variants of the same scene). Subassets showing distinct works are left out.  Existing traits are preserved.

@@ -2,5 +2,6 @@
   "name": "Tweetious",
   "kind": "canonical",
   "description": "The illustrated TWEETIOUS parent and its two case-distinct XCP subassets.",
-  "art_frame": "square"
+  "art_frame": "square",
+  "variation_of": "TWEETIOUS"
 }

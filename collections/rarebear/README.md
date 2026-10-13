@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of RAREBEAR |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -19,3 +19,10 @@ Reviewed 2026-10-11 against indexed explorer facts, complete namespace inventori
 
 - [RAREBEAR](https://api.xcp.io/v2/assets/RAREBEAR) — [artwork](https://cdn.xcp.io/img/full/RAREBEAR)
 - [RAREBEAR.POLARMEME](https://api.xcp.io/v2/assets/A14297009826693129354) — [artwork](https://cdn.xcp.io/img/full/A14297009826693129354)
+
+
+## Variation relationship
+
+This existing collection also describes variations of RAREBEAR. The redundant `rarebear-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
+
+Reviewed 2026-10-13 by comparing CDN card art for RAREBEAR against its RAREBEAR.* subassets on side-by-side contact sheets. Included: RAREBEAR.POLARMEME (edited version). Subassets showing distinct works are left out.  Existing traits are preserved.
