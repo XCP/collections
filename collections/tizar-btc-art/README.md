@@ -1,5 +1,18 @@
 # Tizar BTC Art
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 12 assets |
+| Primary memberships | 12 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 12/12 (100%)<br>Based on: 2/12 (16.7%) |
+<!-- collection-facts:end -->
+
 All twelve illustrated descendants are included. The unillustrated parent is excluded. THEFIATMONEIIFRM and TANKMAN are oversized originals whose repaired previews expose the printed credit Art by Tizar Berandalan & Choni Bdg, 2021. Both receive separate Choni BDG credits, consistent with their already-credited print variants. Duplicate-looking images remain distinct issued assets. Card frames are not evidence of admission to any other collection.
 
 This explicit editorial grouping follows the on-chain namespace and reviewed artwork. All namespace pages were exhausted. New descendants require review. Existing creator credits are retained; no creator is inferred from an issuing address alone.

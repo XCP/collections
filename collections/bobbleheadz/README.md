@@ -1,5 +1,18 @@
 # Bobbleheadz
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 2 assets |
+| Primary memberships | 2 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 2/2 (100%) |
+<!-- collection-facts:end -->
+
 CODY and MELANIE have reviewed artwork. The blank parent and nine other children have no available artwork and are excluded pending recovery.
 
 All relevant namespaces were read through next_offset null. Membership is explicit, new children require review, and existing artist credits are preserved. Subjects, parent namespaces and issuing addresses are not automatically treated as creators.

@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 5/5 (100%) |
+| Traits | Artist: 5/5 (100%)<br>Based on: 2/5 (40%) |
 <!-- collection-facts:end -->
 
 The exact namespace has four illustrated character variants; the parent animation was reviewed across 12 sampled frames out of 94. Group as artwork family, not admission of children to Fake Rares.

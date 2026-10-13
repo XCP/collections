@@ -18,7 +18,9 @@ with the exact collection, assets, requested correction, and verification link.
 6. Run the checks below and open a pull request.
 
 For a metadata correction, edit only `meta.json`. For a membership or trait
-correction, edit only `assets.json`. Sale listings belong in marketplace
+correction, edit `assets.json`; a combined collaboration label is split in
+`data/collaboration-credits.json` instead, and a rejected credit is listed in
+`data/blocked-artist-credits.json`. Sale listings belong in marketplace
 applications and do not require a change here.
 
 Read [`collections/README.md`](collections/README.md) for the exact shapes.
@@ -73,7 +75,11 @@ node .github/validate.ts
 node .github/check-source-coverage.ts
 node .github/run-tests.ts
 node scripts/export.ts
+node scripts/generate-readmes.ts --check
 ```
+
+`npm run check` runs all five. Collection README facts blocks are generated:
+after changing membership or traits, run `npm run docs` and commit the result.
 
 The first three commands are deterministic and run in pull-request CI. Export
 materializes the conventional sources and writes ignored

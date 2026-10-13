@@ -1,12 +1,10 @@
 {
   "assets": [
     {
-      "asset": "CARDASF",
-      "attributes": []
+      "asset": "CARDASF"
     },
     {
-      "asset": "CARDASF.COUPON",
-      "attributes": []
+      "asset": "CARDASF.COUPON"
     }
   ]
 }

@@ -1,5 +1,18 @@
 # Unhashed Podcast
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 5 assets |
+| Primary memberships | 5 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Episode: 5/5 (100%) |
+<!-- collection-facts:end -->
+
 Five Counterparty assets feature covers for Unhashed Podcast episodes 132, 142, 147, 149 and 150. Each card's title, episode number, photograph/collage, branding and layout match the corresponding cover in the podcast's surviving Squarespace archive. The onchain asset descriptions independently identify the episode titles, sometimes in shortened form.
 
 This collection groups the identified cover-art assets. Matching the covers establishes what the assets depict; it does not establish that the podcast hosts issued the tokens. No host, sponsor, issuer or podcast publisher is credited as the visual artist without further evidence.

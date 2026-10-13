@@ -189,11 +189,14 @@ export async function runGenerateReadmes(argv = process.argv.slice(2)) {
   const repositoryRoot = resolve(defaultRoot);
   const { collections, counts } = await materializeRepository({ repositoryRoot });
   const changes = [];
+  // Line endings are a checkout setting (core.autocrlf), not content; a
+  // Windows working copy must not report every README as stale.
+  const same = (a: string, b: string) => a.replace(/\r\n/g, "\n") === b.replace(/\r\n/g, "\n");
   for (const collection of collections) {
     const path = join(repositoryRoot, "collections", collection.slug, "README.md");
     const current = readFileSync(path, "utf8");
     const rendered = renderCollectionReadme(repositoryRoot, collection, current);
-    if (rendered !== current) {
+    if (!same(rendered, current)) {
       changes.push(path);
       if (!check) writeFileSync(path, rendered, "utf8");
     }
@@ -202,7 +205,7 @@ export async function runGenerateReadmes(argv = process.argv.slice(2)) {
   const rootPath = join(repositoryRoot, "README.md");
   const rootCurrent = readFileSync(rootPath, "utf8");
   const rootRendered = renderRootReadme(repositoryRoot, collections, counts, rootCurrent);
-  if (rootRendered !== rootCurrent) {
+  if (!same(rootRendered, rootCurrent)) {
     changes.push(rootPath);
     if (!check) writeFileSync(rootPath, rootRendered, "utf8");
   }

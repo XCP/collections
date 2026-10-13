@@ -1,5 +1,18 @@
 # Lempicka-inspired Pepes
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 8 assets |
+| Primary memberships | 8 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 8/8 (100%) |
+<!-- collection-facts:end -->
+
 Vizique groups these works under “Inspired by Tamara De Lempicka” on [the artist’s portfolio](https://vizique.com/by-series-style/). Membership follows the actual named gallery, not adjacent images elsewhere on the page. This is an artist-defined series or theme; it does not imply admission to another curated collection. References to other painters describe inspiration, not co-authorship.
 
 Reviewed 2026-10-11. Transaction links on the portfolio resolve to the named assets through Counterparty dispenser records. Unlinked works were matched by their published artwork and asset identity. All portfolio images were compared with CDN artwork. Existing specific primary collection homes are retained, with this group secondary where appropriate.

@@ -1,5 +1,18 @@
 # Postcards to Satoshi
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 9 assets |
+| Primary memberships | 9 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
 Postcards to Satoshi is an editorial descriptive name, not a claimed official project title. These nine works share a recipient printed as ナカモト・サトシ様 (Satoshi Nakamoto), a fictional blockchain address, the sender だるま (Daruma), Pepe postage, bilingual seasonal messages and a green frame. March 2023 announces a move; April explicitly follows a month after moving. The remaining reviewed cards are May through October 2023 and December 2024. This printed continuity supports grouping across the two issuing addresses. Daruma is a printed sender/persona, not sufficient evidence of the visual artist. The unrelated pixel PEPEDARUMA and blank A3167935191096085000 are excluded. No artist or website is inferred.
 
 Membership is an explicit reviewed list. Future related assets need review; no blanket issuer attribution is applied.

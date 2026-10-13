@@ -1,5 +1,18 @@
 # XCP Artwork
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 8 assets |
+| Primary memberships | 8 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 8/8 (100%) |
+<!-- collection-facts:end -->
+
 The parent and all seven descendants are grouped by their deliberately shared XCPARTWORK namespace. The works include surreal portraits, Pepe variations and sculptural motifs. This is a bounded namespace family, not a collection encompassing all Counterparty artwork or every work by S1MONS.
 
 The complete namespace inventory was read through next_offset null. Membership is explicit and new children require review. Existing credits are retained; shared issuers and depicted subjects are not sufficient evidence for new attribution.

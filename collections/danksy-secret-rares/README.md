@@ -1,5 +1,18 @@
 # Danksy Secret Rares
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 6 assets |
+| Primary memberships | 3 |
+| Secondary or curated memberships | 3 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
 This is an editorial grouping of three explicitly labeled Secret Rare subasset variants. The name combines the Danksy names and Secret Rare labels in their own issuance descriptions; it is not a claim that a separately published official catalog uses this exact collection title.
 
 The issuance histories explicitly document these migrations:

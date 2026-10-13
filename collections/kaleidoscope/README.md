@@ -10,7 +10,7 @@
 | Primary memberships | 1,681 |
 | Secondary or curated memberships | 429 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 780/2,110 (37.0%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 780/2,110 (37.0%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.

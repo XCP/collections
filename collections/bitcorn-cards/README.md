@@ -10,7 +10,7 @@
 | Primary memberships | 11 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 12/12 (100%)<br>Card: 1/12 (8.3%)<br>Series: 1/12 (8.3%) |
+| Traits | Artist: 12/12 (100%)<br>Based on: 1/12 (8.3%)<br>Card: 1/12 (8.3%)<br>Series: 1/12 (8.3%) |
 <!-- collection-facts:end -->
 
 ## Parent artwork

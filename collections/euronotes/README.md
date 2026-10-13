@@ -1,5 +1,18 @@
 # EURONOTES
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 7 assets |
+| Primary memberships | 7 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | None |
+<!-- collection-facts:end -->
+
 An explicit seven-member subasset series: denominations 5, 10, 20, 50, 100, 200 and 500. Each image combines its corresponding euro banknote, a red FAKE stamp and Pepe. Membership is supported by the shared namespace and exact reviewed imagery. The parent EURONOTES is excluded: its description is only ownership rights and supplies no artwork. Banknote signatures are not credited as creators of these adaptations. No artist, official bank affiliation or website is inferred.
 
 Membership is an explicit reviewed list. Future related assets need review; no blanket issuer attribution is applied.

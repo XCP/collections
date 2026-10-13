@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 16 assets |
-| Primary memberships | 16 |
+| Membership | 17 assets |
+| Primary memberships | 17 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Card: 1/17 (5.9%)<br>Series: 1/17 (5.9%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

@@ -1,5 +1,18 @@
 # Musk Tweets
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 5 assets |
+| Primary memberships | 5 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 5/5 (100%) |
+<!-- collection-facts:end -->
+
 The illustrated parent and all four descendants share the MUSKTWEETS namespace, space-themed compositions and tweet excerpts. Elon Musk is the depicted subject and quoted account; no creator credit is inferred from that role. Existing S1MONS credits are preserved.
 
 The complete namespace inventory was read through next_offset null. Membership is explicit and new children require review. Existing credits are retained; shared issuers and depicted subjects are not sufficient evidence for new attribution.

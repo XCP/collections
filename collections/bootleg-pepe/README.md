@@ -10,5 +10,5 @@
 | Primary memberships | 201 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 201/201 (100%) |
+| Traits | Artist: 201/201 (100%)<br>Based on: 201/201 (100%) |
 <!-- collection-facts:end -->

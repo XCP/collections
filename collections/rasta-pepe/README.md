@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/2 (50%) |
+| Traits | Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 Both children show the named Rasta Pepe character. The unillustrated parent is excluded. Only TRIPPY has exact ICQPEPE creator evidence; this is not extended to Ai.

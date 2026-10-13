@@ -104,7 +104,6 @@
     },
     {
       "asset": "EVERDREAMSOF",
-      "primary": true,
       "attributes": [
         {
           "trait_type": "Name",
@@ -130,7 +129,6 @@
     },
     {
       "asset": "IDEOF",
-      "primary": true,
       "attributes": [
         {
           "trait_type": "Name",

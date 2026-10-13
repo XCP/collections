@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Based on: 1/4 (25%) |
 <!-- collection-facts:end -->
 
 The illustrated parent and all three subassets depict the same blue bear glitch artwork. They form a bounded namespace family; no artist is inferred.
