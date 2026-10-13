@@ -10,7 +10,7 @@
 | Primary memberships | 6,629 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 27/6,629 (0.4%)<br>Artist: 3,350/6,629 (50.5%)<br>Based on: 9/6,629 (0.1%) |
+| Traits | Art year: 42/6,629 (0.6%)<br>Artist: 3,350/6,629 (50.5%)<br>Based on: 9/6,629 (0.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -431,7 +431,3 @@ UNNAMEABLE: **DanDarkPill**, named as owner in its [exact-asset metadata](https:
 ## Curator-confirmed issuer credits (2026-10-13)
 
 251 works are credited to the artist who accounts for at least 90% (and at least three) of the credited works from the same issuing address. Their own metadata carries no signature; the marketplace curator confirmed these attributions. Spelling variants resolve to the canonical artist (LvsD is L_vs_D).
-
-## Artwork-year review
-
-The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.

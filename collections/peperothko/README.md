@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -25,7 +25,3 @@ Artist credits, distinct asset identities and established official primary homes
 This existing collection also describes variations of PEPEROTHKO. The redundant `peperothko-variants` grouping contained exactly these same assets and traits; its relationship is retained here with existing primary memberships unchanged.
 
 Reviewed 2026-10-13 by comparing CDN card art for PEPEROTHKO against its PEPEROTHKO.* subassets on side-by-side contact sheets. Included: PEPEROTHKO.LUCA (duplicate edition). Subassets showing distinct works are left out.  Existing traits are preserved.
-
-## Artwork-year review
-
-The [2026-10-13 evidence review](../../docs/chronology-review-2026-10-13.md) records the date decisions for this collection’s affected works. Missing Art year means the artwork date is unresolved; it does not turn the token registration date into an artwork date. Artist credits and membership are unchanged.

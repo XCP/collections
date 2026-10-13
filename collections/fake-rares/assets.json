@@ -324,6 +324,10 @@
         {
           "trait_type": "Card",
           "value": 19
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -341,6 +345,10 @@
         {
           "trait_type": "Card",
           "value": 20
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
