@@ -65,7 +65,12 @@
     },
     {
       "asset": "KOKO",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     }
   ]
 }

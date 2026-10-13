@@ -31,7 +31,13 @@
       "asset": "PEPEYES"
     },
     {
-      "asset": "PUREPEYE"
+      "asset": "PUREPEYE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "TWENTYTWENTY"

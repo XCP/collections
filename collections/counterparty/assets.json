@@ -27280,6 +27280,10 @@
         {
           "trait_type": "Artist",
           "value": "Dr Pep"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -27289,6 +27293,10 @@
         {
           "trait_type": "Artist",
           "value": "Kat Rose"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -27652,6 +27660,10 @@
         {
           "trait_type": "Artist",
           "value": "Robness"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -28926,7 +28938,13 @@
       "asset": "FAKEANTHEM.WILLIEWAZE"
     },
     {
-      "asset": "NAKAMOTOPEPE.NAKAMOTOPEPE"
+      "asset": "NAKAMOTOPEPE.NAKAMOTOPEPE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "BKYLE.Lyra"
@@ -31117,7 +31135,13 @@
       ]
     },
     {
-      "asset": "BELLATRIXCD"
+      "asset": "BELLATRIXCD",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "BELLCURVE"
@@ -33002,7 +33026,13 @@
       ]
     },
     {
-      "asset": "DANKBRRR"
+      "asset": "DANKBRRR",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "DANKBRRRR"
@@ -33738,7 +33768,13 @@
       "asset": "DRAGONBALLS"
     },
     {
-      "asset": "DRAGONS"
+      "asset": "DRAGONS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "DRAGONSWAGER"
@@ -34665,7 +34701,13 @@
       "asset": "FAUXGALAXY"
     },
     {
-      "asset": "FAUXMAS"
+      "asset": "FAUXMAS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "FAUXMOM"
@@ -35661,6 +35703,10 @@
         {
           "trait_type": "Artist",
           "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -36127,7 +36173,13 @@
       ]
     },
     {
-      "asset": "HOLYROSARY"
+      "asset": "HOLYROSARY",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "HOMEBOYSATO",
@@ -36565,7 +36617,13 @@
       ]
     },
     {
-      "asset": "JKROWLING"
+      "asset": "JKROWLING",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "JOEMATO"
@@ -37165,6 +37223,10 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -37537,6 +37599,10 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -37757,6 +37823,10 @@
         {
           "trait_type": "Artist",
           "value": "ICQPEPE"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2024
         }
       ]
     },
@@ -38025,7 +38095,13 @@
       "asset": "MSTRNODE"
     },
     {
-      "asset": "MTGMAGIC"
+      "asset": "MTGMAGIC",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2025
+        }
+      ]
     },
     {
       "asset": "MTRUNE"
@@ -38595,7 +38671,13 @@
       "asset": "NURSHOMER"
     },
     {
-      "asset": "NUTCORN"
+      "asset": "NUTCORN",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "NUTILDAHV"
@@ -39132,7 +39214,13 @@
       "asset": "PEPEAFRAME"
     },
     {
-      "asset": "PEPEAI"
+      "asset": "PEPEAI",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "PEPEAIRSHOW",
@@ -39440,6 +39528,10 @@
         {
           "trait_type": "Artist",
           "value": "Gus Grillasca"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },
@@ -39477,7 +39569,13 @@
       "asset": "PEPEDARKCAT"
     },
     {
-      "asset": "PEPEDARUMA"
+      "asset": "PEPEDARUMA",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2024
+        }
+      ]
     },
     {
       "asset": "PEPEDAS",
@@ -40362,7 +40460,13 @@
       "asset": "PEPEROTATE"
     },
     {
-      "asset": "PEPERRINE"
+      "asset": "PEPERRINE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "PEPERTICLE",
@@ -41061,7 +41165,13 @@
       "asset": "PINKPEPEROSE"
     },
     {
-      "asset": "PINKPLATES"
+      "asset": "PINKPLATES",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "PINKSUNGLASS"
@@ -41163,7 +41273,13 @@
       "asset": "PODOLAPU"
     },
     {
-      "asset": "POKEMONPEPE"
+      "asset": "POKEMONPEPE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "POKEMONSTARS"
@@ -41967,7 +42083,13 @@
       ]
     },
     {
-      "asset": "REDHOTPEPERS"
+      "asset": "REDHOTPEPERS",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "REDMONDAY"
@@ -42488,6 +42610,10 @@
         {
           "trait_type": "Artist",
           "value": "m0nti"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },
@@ -44373,7 +44499,13 @@
       "asset": "VARDY"
     },
     {
-      "asset": "VCPITCHPEPE"
+      "asset": "VCPITCHPEPE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
     },
     {
       "asset": "VERAX"
@@ -44448,7 +44580,13 @@
       "asset": "VOICECHAIN"
     },
     {
-      "asset": "VOORHEESPEPE"
+      "asset": "VOORHEESPEPE",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "VORTEXPEPE",
@@ -45255,7 +45393,13 @@
       "asset": "A9842399784350634000"
     },
     {
-      "asset": "BAAD"
+      "asset": "BAAD",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     },
     {
       "asset": "BACKOFSTAMP",

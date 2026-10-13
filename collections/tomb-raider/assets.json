@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "TOMBRAIDER"
+      "asset": "TOMBRAIDER",
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2023
+        }
+      ]
     }
   ]
 }

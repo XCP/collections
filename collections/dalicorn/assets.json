@@ -42,6 +42,10 @@
         {
           "trait_type": "Artist",
           "value": "MightBeMike"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2025
         }
       ]
     }
