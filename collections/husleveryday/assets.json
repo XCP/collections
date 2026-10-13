@@ -14,6 +14,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe de medici"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     }

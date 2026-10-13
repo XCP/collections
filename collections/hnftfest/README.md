@@ -10,7 +10,7 @@
 | Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 10/10 (100%) |
+| Traits | Art year: 8/10 (80%)<br>Artist: 10/10 (100%) |
 <!-- collection-facts:end -->
 
 The ten exact-asset issuance-linked metadata documents explicitly describe the same ten-collectible event series, organized by DADA.art for the inaugural Historic NFT Festival in Barcelona in 2022. Nine describe the Takara treasure hunt; HNFTFEST describes the attendee paper wallet. The [official festival website](https://hnft.community/) corroborates the event and organizer.

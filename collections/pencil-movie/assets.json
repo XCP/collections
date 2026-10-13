@@ -51,6 +51,10 @@
         {
           "trait_type": "Artist",
           "value": "Kevin Satoshi"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

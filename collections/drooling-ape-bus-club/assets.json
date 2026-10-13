@@ -549,6 +549,10 @@
         {
           "trait_type": "Artist",
           "value": "HIGGLIT"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -702,6 +706,10 @@
         {
           "trait_type": "Artist",
           "value": "Rarejay"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -741,6 +749,10 @@
         {
           "trait_type": "Artist",
           "value": "Remster"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },
@@ -750,6 +762,10 @@
         {
           "trait_type": "Artist",
           "value": "PiFu"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

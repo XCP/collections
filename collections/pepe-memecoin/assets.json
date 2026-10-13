@@ -36,6 +36,10 @@
         {
           "trait_type": "Artist",
           "value": "Zuriel"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2026
         }
       ]
     },

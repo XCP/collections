@@ -21,6 +21,9 @@ const REVIEWED_ARTISTS = new Map([
   ["BITSAMURAI", "BTC Monk"],
 ]);
 
+// Reviewed artwork activity years, not reservation years; see the artist chronology report.
+const REVIEWED_ART_YEARS = new Map([["TRUMPED", 2023], ["TMDAUTOGRAPH", 2021]]);
+
 // Kaleidoscope is intentionally inclusive. A more specific canonical set
 // keeps primary ownership; the resolver turns that appearance here secondary.
 export const overlapPolicy = "secondary";
@@ -125,6 +128,7 @@ export async function load({ fetchJson, cache }) {
       asset,
       attributes: [
         { trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId },
+        ...(REVIEWED_ART_YEARS.has(asset) ? [{ trait_type: "Art year", value: REVIEWED_ART_YEARS.get(asset) }] : []),
         ...(REVIEWED_ARTISTS.has(asset) ? [{ trait_type: "Artist", value: REVIEWED_ARTISTS.get(asset) }] : []),
       ],
     };

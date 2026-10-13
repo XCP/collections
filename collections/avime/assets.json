@@ -14937,6 +14937,10 @@
         {
           "trait_type": "Artist",
           "value": "DerpHerpenstein"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     },

@@ -39,6 +39,10 @@
         {
           "trait_type": "Artist",
           "value": "mad.gtx"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

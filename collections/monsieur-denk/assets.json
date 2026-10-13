@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "svp"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ],
       "primary": false

@@ -10,7 +10,7 @@
 | Primary memberships | 65 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 65/65 (100%) |
+| Traits | Art year: 1/65 (1.5%)<br>Artist: 65/65 (100%) |
 <!-- collection-facts:end -->
 
 ## Launch-year evidence

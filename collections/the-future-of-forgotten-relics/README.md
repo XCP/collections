@@ -10,7 +10,7 @@
 | Primary memberships | 8 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 8/8 (100%)<br>Chapter: 8/8 (100%)<br>Illustrator: 2/8 (25%)<br>Name: 2/8 (25%)<br>Story: 8/8 (100%) |
+| Traits | Art year: 4/8 (50%)<br>Artist: 8/8 (100%)<br>Chapter: 8/8 (100%)<br>Illustrator: 2/8 (25%)<br>Name: 2/8 (25%)<br>Story: 8/8 (100%) |
 <!-- collection-facts:end -->
 
 Membership is the reviewed static snapshot in `assets.json`.

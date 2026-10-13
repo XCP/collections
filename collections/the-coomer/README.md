@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 2/2 (100%) |
 <!-- collection-facts:end -->
 
 klhUnd’s two Counterparty editions of The Coomer artwork.

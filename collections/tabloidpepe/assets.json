@@ -24,6 +24,10 @@
         {
           "trait_type": "Artist",
           "value": "NFTMANC"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     }

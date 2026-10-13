@@ -10,7 +10,7 @@
 | Primary memberships | 6 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/6 (33.3%) |
+| Traits | Art year: 1/6 (16.7%)<br>Artist: 2/6 (33.3%) |
 <!-- collection-facts:end -->
 
 This project grouping includes the illustrated RARESTSETS parent, its four reviewed subassets, and the companion RARITYHOLDER artwork. The complete parent namespace was checked against xcpio-core; membership is explicit, not an automatic rule for future children. These entries include book ownership and auction memorabilia as well as artwork. The shared namespace, explicit printed project branding, exact project sources and reviewed media establish their relationship.

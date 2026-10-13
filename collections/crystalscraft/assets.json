@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "pbock"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
         }
       ]
     },
@@ -15,6 +19,10 @@
         {
           "trait_type": "Artist",
           "value": "Pharaoh"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
         }
       ]
     },
@@ -42,6 +50,10 @@
         {
           "trait_type": "Artist",
           "value": "Joe Chiappetta"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
         }
       ]
     },
@@ -288,6 +300,10 @@
         {
           "trait_type": "Artist",
           "value": "Hirosu"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2018
         }
       ]
     },

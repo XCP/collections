@@ -10,7 +10,7 @@
 | Primary memberships | 6 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 7/7 (100%) |
+| Traits | Art year: 1/7 (14.3%)<br>Artist: 7/7 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence

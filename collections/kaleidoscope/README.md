@@ -10,7 +10,7 @@
 | Primary memberships | 1,662 |
 | Secondary or curated memberships | 448 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 11/2,110 (0.5%)<br>Artist: 767/2,110 (36.4%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 34/2,110 (1.6%)<br>Artist: 767/2,110 (36.4%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -60,3 +60,7 @@ Reviewed individual artist credits from exact-asset original metadata:
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
 TRUMPED's WALLY label is associated with the same Wrbpt26 social handle already documented for Waldemar. The exact-asset metadata and matching established handle support this individual credit; this does not establish a general WALLY alias.
+
+## Reviewed artist chronology
+
+TRUMPED carries Art year 2023 from its March 2023 exact-work metadata attachment and subsequent supply lock; its 2022 reservation does not establish artwork use. TMDAUTOGRAPH carries 2021 from its artwork-bearing initial description, edition expansion and lock in October 2021. These reviewed traits survive API refreshes without adding membership. See the [complete artist date coverage report](../../docs/artist-date-coverage-2026-10-13.md).

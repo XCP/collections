@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 4 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 5/5 (100%) |
+| Traits | Art year: 1/5 (20%)<br>Artist: 5/5 (100%) |
 <!-- collection-facts:end -->
 
 Creator catalog and Scarce City enumerate the four original cards; framed token names and depicts the same four works. Preserve four Rare Pepe primaries.

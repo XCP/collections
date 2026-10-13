@@ -20,7 +20,13 @@
     },
     {
       "asset": "SARUTOBIPEPE",
-      "primary": false
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Art year",
+          "value": 2016
+        }
+      ]
     }
   ]
 }

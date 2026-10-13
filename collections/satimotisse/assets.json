@@ -24,6 +24,10 @@
         {
           "trait_type": "Artist",
           "value": "Filthy Trikks"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2023
         }
       ]
     }

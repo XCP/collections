@@ -10,7 +10,7 @@
 | Primary memberships | 12 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/13 (7.7%) |
+| Traits | Art year: 1/13 (7.7%)<br>Artist: 1/13 (7.7%) |
 <!-- collection-facts:end -->
 
 The Fakeness artwork, original pencil drawing, physical redemption token, glitter editions and entropy seals.

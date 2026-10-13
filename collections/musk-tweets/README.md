@@ -10,7 +10,7 @@
 | Primary memberships | 5 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 5/5 (100%) |
+| Traits | Art year: 1/5 (20%)<br>Artist: 5/5 (100%) |
 <!-- collection-facts:end -->
 
 The illustrated parent and all four descendants share the MUSKTWEETS namespace, space-themed compositions and tweet excerpts. Elon Musk is the depicted subject and quoted account; no creator credit is inferred from that role. Existing S1MONS credits are preserved.

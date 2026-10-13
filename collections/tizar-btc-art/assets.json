@@ -62,6 +62,10 @@
         {
           "trait_type": "Artist",
           "value": "Choni BDG"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
         }
       ]
     },

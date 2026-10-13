@@ -47,6 +47,10 @@
         {
           "trait_type": "Artist",
           "value": "MR"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     }

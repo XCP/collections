@@ -16,6 +16,10 @@
         {
           "trait_type": "Artist",
           "value": "bluefarms"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },

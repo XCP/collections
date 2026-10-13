@@ -10,7 +10,7 @@
 | Primary memberships | 3 |
 | Secondary or curated memberships | 3 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Art year: 1/6 (16.7%) |
 <!-- collection-facts:end -->
 
 This is an editorial grouping of three explicitly labeled Secret Rare subasset variants. The name combines the Danksy names and Secret Rare labels in their own issuance descriptions; it is not a claim that a separately published official catalog uses this exact collection title.

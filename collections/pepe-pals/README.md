@@ -10,7 +10,7 @@
 | Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 9/10 (90%) |
+| Traits | Art year: 1/10 (10%)<br>Artist: 9/10 (90%) |
 <!-- collection-facts:end -->
 
 ## Kevin Ferreira attribution

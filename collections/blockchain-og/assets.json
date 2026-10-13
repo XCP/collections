@@ -42,6 +42,10 @@
         {
           "trait_type": "Artist",
           "value": "Rito Rhymes"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
         }
       ]
     },
