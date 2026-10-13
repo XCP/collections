@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "asset": "FROGG",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.LIME",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.PURPLE",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.YELLOW",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.BROWN",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.TEAL",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.ORANGE",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.RED",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.BLUE",
+      "primary": false
+    },
+    {
+      "asset": "FROGG.GREEN",
+      "primary": false
+    }
+  ]
+}

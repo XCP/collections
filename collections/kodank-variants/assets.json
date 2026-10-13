@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "KODANK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "KODANK.120ROLL",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}

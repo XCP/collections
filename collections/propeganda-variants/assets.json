@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "PROPEGANDA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    },
+    {
+      "asset": "PROPEGANDA.DISTRESSED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    }
+  ]
+}

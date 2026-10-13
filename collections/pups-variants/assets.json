@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "asset": "PUPS",
+      "primary": false
+    },
+    {
+      "asset": "PUPS.SHEPHERD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Wheeler"
+        }
+      ]
+    }
+  ]
+}

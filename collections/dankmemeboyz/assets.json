@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "DANKMEMEBOYZ",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 3
+        },
+        {
+          "trait_type": "Card",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "asset": "DANKMEMEBOYZ.PARTY",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Mumbling Bearded Freak"
+        },
+        {
+          "trait_type": "Series",
+          "value": 42
+        },
+        {
+          "trait_type": "Card",
+          "value": 13
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "JOHNNYDOLLAR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR.Bill",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Johnny Dollar"
+        }
+      ]
+    }
+  ]
+}

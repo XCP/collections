@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "asset": "FAKEETOSHI",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEETOSHI.KEK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    },
+    {
+      "asset": "FAKEETOSHI.PRINT",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "H & Art Block"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "UNIPEPECORN",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    },
+    {
+      "asset": "UNIPEPECORN.CYMRU",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Arwyn"
+        }
+      ]
+    }
+  ]
+}

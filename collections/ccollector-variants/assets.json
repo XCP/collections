@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "asset": "CCOLLECTOR",
+      "primary": false
+    },
+    {
+      "asset": "CCOLLECTOR.BTC",
+      "primary": false
+    },
+    {
+      "asset": "CCOLLECTOR.XCP",
+      "primary": false
+    },
+    {
+      "asset": "CCOLLECTOR.BTCXCP",
+      "primary": false
+    }
+  ]
+}

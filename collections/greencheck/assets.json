@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "GREENCHECK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    },
+    {
+      "asset": "GREENCHECK.FAKELIGHTMODE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Chrome Void"
+        }
+      ]
+    }
+  ]
+}

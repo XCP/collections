@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "asset": "TURBULENCES",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        },
+        {
+          "trait_type": "Series",
+          "value": 10
+        },
+        {
+          "trait_type": "Card",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "asset": "TURBULENCES.2",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "mule"
+        },
+        {
+          "trait_type": "Series",
+          "value": 14
+        },
+        {
+          "trait_type": "Card",
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

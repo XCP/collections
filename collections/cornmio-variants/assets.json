@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "CORNMIO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    },
+    {
+      "asset": "CORNMIO.OMICRON",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
+    }
+  ]
+}

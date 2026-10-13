@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "DANKNEMESIS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    },
+    {
+      "asset": "DANKNEMESIS.I",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Skife"
+        }
+      ]
+    }
+  ]
+}

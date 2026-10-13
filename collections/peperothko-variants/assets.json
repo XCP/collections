@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "asset": "PEPEROTHKO",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2021
+        }
+      ]
+    },
+    {
+      "asset": "PEPEROTHKO.LUCA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Luca"
+        }
+      ]
+    }
+  ]
+}

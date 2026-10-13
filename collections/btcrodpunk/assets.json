@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "BTCRODPUNK",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    },
+    {
+      "asset": "BTCRODPUNK.HOOD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Rarejay"
+        }
+      ]
+    }
+  ]
+}

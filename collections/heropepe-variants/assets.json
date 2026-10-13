@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "HEROPEPE",
+      "primary": false
+    },
+    {
+      "asset": "HEROPEPE.FOCUSED",
+      "primary": false
+    },
+    {
+      "asset": "HEROPEPE.CHILLED",
+      "primary": false
+    }
+  ]
+}

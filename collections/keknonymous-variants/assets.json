@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "KEKNONYMOUS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    },
+    {
+      "asset": "KEKNONYMOUS.DISTRESSED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    }
+  ]
+}

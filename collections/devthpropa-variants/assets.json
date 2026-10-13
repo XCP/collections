@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "asset": "DEVTHPROPA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    },
+    {
+      "asset": "DEVTHPROPA.DISTRESSED",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Soul Power"
+        }
+      ]
+    }
+  ]
+}

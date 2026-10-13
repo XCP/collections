@@ -1,0 +1,16 @@
+{
+  "assets": [
+    {
+      "asset": "TWEETIOUS",
+      "primary": false
+    },
+    {
+      "asset": "TWEETIOUS.XCP",
+      "primary": false
+    },
+    {
+      "asset": "TWEETIOUS.xcp",
+      "primary": false
+    }
+  ]
+}

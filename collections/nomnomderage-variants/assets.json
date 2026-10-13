@@ -1,0 +1,34 @@
+{
+  "assets": [
+    {
+      "asset": "NOMNOMDERAGE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NomNomDay"
+        }
+      ]
+    },
+    {
+      "asset": "NOMNOMDERAGE.FULLCOLOR",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NomNomDay"
+        }
+      ]
+    },
+    {
+      "asset": "NOMNOMDERAGE.GOLD",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "NomNomDay"
+        }
+      ]
+    }
+  ]
+}

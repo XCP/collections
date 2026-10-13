@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "asset": "BTCBANKNOTE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBANKNOTE.SUBASTA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBANKNOTE.BITCOIN2019SF",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    },
+    {
+      "asset": "BTCBANKNOTE.RAREAF2",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Gus Grillasca"
+        }
+      ]
+    }
+  ]
+}
