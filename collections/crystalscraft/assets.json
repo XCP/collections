@@ -1,70 +1,196 @@
 {
   "assets": [
     {
-      "asset": "A5776470735071006000"
+      "asset": "A5776470735071006000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pbock"
+        }
+      ]
     },
     {
-      "asset": "BCYJEANS"
+      "asset": "BCYJEANS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     },
     {
-      "asset": "BITCRYSTALGD"
+      "asset": "BITCRYSTALGD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "BITSUPREME"
+      "asset": "BITSUPREME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        }
+      ]
     },
     {
-      "asset": "BTCFRENEMIES"
+      "asset": "BTCFRENEMIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "BUDDHAOFCOIN"
+      "asset": "BUDDHAOFCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pbock"
+        }
+      ]
     },
     {
-      "asset": "CAPTCRYSTALS"
+      "asset": "CAPTCRYSTALS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOARTATM"
+      "asset": "CRYPTOARTATM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOCOUPLE"
+      "asset": "CRYPTOCOUPLE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOCRUISE"
+      "asset": "CRYPTOCRUISE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOFOOT"
+      "asset": "CRYPTOFOOT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOHELMET"
+      "asset": "CRYPTOHELMET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOKIDDIE"
+      "asset": "CRYPTOKIDDIE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYPTOLOVE"
+      "asset": "CRYPTOLOVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "CRYSTLDRAGON"
+      "asset": "CRYSTLDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "FINDSHABAN"
+      "asset": "FINDSHABAN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     },
     {
       "asset": "GDCNOVADEMO"
     },
     {
-      "asset": "HODLCOINS"
+      "asset": "HODLCOINS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     },
     {
-      "asset": "HODLXCP"
+      "asset": "HODLXCP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     },
     {
-      "asset": "MCHAMMERCARD"
+      "asset": "MCHAMMERCARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     },
     {
-      "asset": "MOUNTAINHOME"
+      "asset": "MOUNTAINHOME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "pbock"
+        }
+      ]
     },
     {
-      "asset": "NEVERSURRNDR"
+      "asset": "NEVERSURRNDR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
       "asset": "NICEWINGLIZ",
@@ -76,34 +202,94 @@
       ]
     },
     {
-      "asset": "NOCRYPTOPUNK"
+      "asset": "NOCRYPTOPUNK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "PAYPLAYGRND"
+      "asset": "PAYPLAYGRND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "PINOCCHIOBTC"
+      "asset": "PINOCCHIOBTC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "PIXEOSPOWER"
+      "asset": "PIXEOSPOWER",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "PUTRIDDRAGON"
+      "asset": "PUTRIDDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "RARECEXONE"
+      "asset": "RARECEXONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "ICQPEPE"
+        }
+      ]
     },
     {
-      "asset": "RARESILLY"
+      "asset": "RARESILLY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "SILLYCHAIN"
+      "asset": "SILLYCHAIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "SILLYDADCOIN"
+      "asset": "SILLYDADCOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "SOGKO"
+      "asset": "SOGKO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Hirosu"
+        }
+      ]
     },
     {
       "asset": "SOGLOTUS",
@@ -115,10 +301,22 @@
       ]
     },
     {
-      "asset": "STABLECOIN"
+      "asset": "STABLECOIN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Joe Chiappetta"
+        }
+      ]
     },
     {
-      "asset": "YOURNAME"
+      "asset": "YOURNAME",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pharaoh"
+        }
+      ]
     }
   ]
 }
