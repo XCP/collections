@@ -1,4 +1,4 @@
-# PUPS
+# PUPS variations
 
 <!-- collection-facts:start -->
 ## Registry facts

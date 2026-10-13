@@ -1,4 +1,4 @@
-# CORNTOSHI
+# Corntoshi variations
 
 <!-- collection-facts:start -->
 ## Registry facts

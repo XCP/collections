@@ -1,4 +1,4 @@
-# KOKO
+# KOKO variations
 
 <!-- collection-facts:start -->
 ## Registry facts

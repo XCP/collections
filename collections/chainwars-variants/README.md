@@ -1,4 +1,4 @@
-# CHAINWARS
+# Chainwars variations
 
 <!-- collection-facts:start -->
 ## Registry facts

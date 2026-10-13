@@ -1,4 +1,4 @@
-# UNIPEPECORN
+# UNIPEPECORN variations
 
 <!-- collection-facts:start -->
 ## Registry facts

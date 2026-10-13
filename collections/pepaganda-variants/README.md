@@ -1,4 +1,4 @@
-# PEPAGANDA
+# PEPAGANDA variations
 
 <!-- collection-facts:start -->
 ## Registry facts

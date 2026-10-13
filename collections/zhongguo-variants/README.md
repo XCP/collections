@@ -1,4 +1,4 @@
-# ZHONGGUO
+# Zhongguo variations
 
 <!-- collection-facts:start -->
 ## Registry facts

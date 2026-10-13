@@ -1,4 +1,4 @@
-# PEPEMOSAIC
+# Pepe Mosaic variations
 
 <!-- collection-facts:start -->
 ## Registry facts

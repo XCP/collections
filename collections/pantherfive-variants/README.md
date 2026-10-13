@@ -1,4 +1,4 @@
-# PANTHERFIVE
+# Pantherfive variations
 
 <!-- collection-facts:start -->
 ## Registry facts

@@ -1,4 +1,4 @@
-# SATIMOTISSE
+# Satimotisse variations
 
 <!-- collection-facts:start -->
 ## Registry facts

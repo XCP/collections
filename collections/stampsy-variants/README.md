@@ -1,4 +1,4 @@
-# STAMPSY
+# Stampsy variations
 
 <!-- collection-facts:start -->
 ## Registry facts

@@ -1,4 +1,4 @@
-# PINKSHIRTGUY
+# Pink Shirt Guy variations
 
 <!-- collection-facts:start -->
 ## Registry facts
