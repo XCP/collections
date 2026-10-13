@@ -59,7 +59,8 @@ Mixed collections should use the closest dominant shape.
 ```
 
 Use `"primary": false` when an asset appears here but has its canonical home
-in another collection. Omit `attributes` when an entry has none.
+in another project. If an asset is in `counterparty/assets.json`, the fallback
+for unclaimed art, remove it there instead; `npm run check` names each one. Omit `attributes` when an entry has none.
 
 Beyond `Artist`, `Series`, and `Card`, two traits carry registry meaning:
 `Art year` (an integer) dates art that first appeared after the asset was

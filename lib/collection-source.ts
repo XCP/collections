@@ -616,7 +616,12 @@ export function validateMemberships(collections, { requirePrimaryForSecondary = 
       }
       if (isPrimary) {
         const existing = primaries.get(entry.asset);
-        if (existing) {
+        if (existing === "counterparty" || (existing && collection.slug === "counterparty")) {
+          // The fallback holds art no project has claimed; a project claiming
+          // it is the normal case, so point at the fallback, not the newcomer.
+          const project = existing === "counterparty" ? collection.slug : existing;
+          issues.push(`${entry.asset} is now listed by ${project}; remove it from collections/counterparty/assets.json, the fallback for unclaimed art`);
+        } else if (existing) {
           issues.push(
             `${entry.asset} has two primary memberships: ${existing} and ${collection.slug}; mark the newcomer { "primary": false }`,
           );
