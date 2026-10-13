@@ -6,8 +6,8 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 27 assets |
-| Primary memberships | 27 |
+| Membership | 37 assets |
+| Primary memberships | 37 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
 | Traits | None |
@@ -47,5 +47,7 @@ Sources: https://api.xcp.io/v2/addresses/163BcvaXDHjgdivkDtkzXaF1uZzGcc6RU4/issu
 | HELLOTHERE | [Card](https://cdn.xcp.io/img/card/HELLOTHERE) |
 
 All listed assets previously had only Counterparty membership; that fallback relationship is removed. Sources and previews checked 2026-10-11.
+
+The rainbow-border trading cards (Pepe Verse, Pepe Nakamoto, Pepe Gump, Pepe van Dough, Sweaty Charles, Pepe Anus) are included: they come from the same issuing address and use the BTC Edition's card template (title bar, stat line ending in a Perk, quote, star rating), as HBKPEPE shows, without its logo. The four graded-slab sports parodies (Pepe Ruth, Pepe Mantle, Pepe Brady, Pepe Wagner) are included as the same issuer's third series. Reviewed 2026-10-13.
 
 PEPECARTELL is included: it is a video whose frames show the SlickPepe BTC Edition layout ("Week 22", 1 of 10), which the still preview reviewed earlier did not reveal.
