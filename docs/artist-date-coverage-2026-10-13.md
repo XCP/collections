@@ -28,7 +28,8 @@ For the cases labelled first-documented-media-estimate, the date is a conservati
 | original-work-description-estimate | 1 | INVISIBLHAND’s distinctive artwork description accompanies its 2018 one-unit edition. Current catalogue identifies the same work; date remains an estimate. |
 | named-game-card-edition | 13 | Original issuance explicitly identifies the SoG/Spells of Genesis card. Current membership confirms the named card; much later Arweave migrations are not treated as new artwork. |
 | contemporary-artist-announcement | 1 | Nili Lerner’s contemporary 2014 Art-Coins announcement corroborates explicit Art-Coin descriptions and positive supply. |
-| first-documented-media-estimate | 32 | Published artwork pointer identifies this tracked work after an existing edition. This is a conservative first-documented-art estimate: the work may predate attachment, and this does not prove it was newly created that year. |
+| edition-and-metadata-backfill-estimate | 29 | Original positive edition and contemporaneous supply lock in 2021; later metadata updates are not assumed to date creation. See the follow-up review below. |
+| first-documented-media-estimate | 3 | Published artwork pointer identifies this tracked work after an existing edition. This is a conservative first-documented-art estimate: the work may predate attachment, and this does not prove it was newly created that year. |
 | dated-artwork-reference-zero-supply | 1 | COLABCOUPLE has a dated 2024 IPFS artwork reference but zero supply in the returned history. This dates documented artwork activity, not a released or traded edition. |
 
 ## Source context
@@ -96,14 +97,14 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Alpaca Later | 2024 | DUCKLIPSPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DUCKLIPSPEPE/issuances?limit=100) |
 | Alpha Centauri Kid | 2022 | FAKETANIC | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKETANIC/issuances?limit=100) |
 | Alth0tas | 2022 | MEWFER.420MEWFER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A10347092939308676766/issuances?limit=100) |
-| Amarin | 2022 | KINGOFPEACE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/KINGOFPEACE/issuances?limit=100) |
+| Amarin | 2021 | KINGOFPEACE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/KINGOFPEACE/issuances?limit=100) |
 | AMEERA | 2022 | MONROEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/MONROEPEPE/issuances?limit=100) |
 | AmishBTC | 2021 | CANDYBITCORN | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CANDYBITCORN/issuances?limit=100) · [context](https://bitcorns.com/) |
 | Amy DiGi | 2024 | DUKEHELLPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DUKEHELLPEPE/issuances?limit=100) |
 | Andrea Chiampo | 2022 | PEPEREOBONUS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEREOBONUS/issuances?limit=100) |
 | Andreas Preis | 2023 | PADREPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PADREPEPE/issuances?limit=100) |
 | AndreU | 2022 | PARTYSOVER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PARTYSOVER/issuances?limit=100) |
-| AndrewMaslov | 2022 | SHINYPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/SHINYPEPE/issuances?limit=100) |
+| AndrewMaslov | 2021 | SHINYPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/SHINYPEPE/issuances?limit=100) |
 | angelsintheai | 2026 | SQUELCHSKIN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/SQUELCHSKIN/issuances?limit=100) |
 | animalspirits | 2021 | FAKECHICKEN.DROOLCHICKEN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A9144402072688995134/issuances?limit=100) |
 | AnimaToey | 2022 | GOBORONIN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/GOBORONIN/issuances?limit=100) |
@@ -113,7 +114,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Apocalypse | 2024 | GOODVIBEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/GOODVIBEPEPE/issuances?limit=100) |
 | APT4D | 2022 | BLEUBEANZ | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BLEUBEANZ/issuances?limit=100) |
 | aquatic | 2022 | DANKWATER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKWATER/issuances?limit=100) |
-| Arash Negahban | 2022 | FAKAGANG | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/FAKAGANG/issuances?limit=100) |
+| Arash Negahban | 2021 | FAKAGANG | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/FAKAGANG/issuances?limit=100) |
 | Aravan | 2022 | PEPETIO | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPETIO/issuances?limit=100) |
 | ARCHAIN NAIR | 2022 | VLADPEPETIN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/VLADPEPETIN/issuances?limit=100) |
 | arctefact | 2022 | SMOLSTENKARD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/SMOLSTENKARD/issuances?limit=100) |
@@ -241,7 +242,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Chuy | 2026 | PEPENAINTEZ | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPENAINTEZ/issuances?limit=100) |
 | ciobo | 2017 | PEPEBERLUSCA | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/PEPEBERLUSCA/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
 | Claire Silver | 2022 | INDIVIDIOSA | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/INDIVIDIOSA/issuances?limit=100) |
-| Cliff | 2022 | FAKAPIZZA | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/FAKAPIZZA/issuances?limit=100) |
+| Cliff | 2021 | FAKAPIZZA | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/FAKAPIZZA/issuances?limit=100) |
 | CLIPDAD | 2022 | PEPEKRUEGERZ | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEKRUEGERZ/issuances?limit=100) |
 | CMYK | 2021 | CMYK.BITCOINASICMINER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A6206210557433570930/issuances?limit=100) |
 | Coasters | 2021 | FAKEDEMISE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEDEMISE/issuances?limit=100) |
@@ -309,7 +310,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Dante | 2022 | CORNDOBE | existing-art-year | [history](https://api.xcp.io/v2/assets/CORNDOBE/issuances?limit=100) |
 | Dantheman | 2021 | DANKCHEECE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKCHEECE/issuances?limit=100) |
 | Dany | 2022 | BITSKULL.S01 | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A17523648274642173412/issuances?limit=100) |
-| DaoHackerman | 2022 | PEPEBBOY | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEBBOY/issuances?limit=100) |
+| DaoHackerman | 2021 | PEPEBBOY | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEBBOY/issuances?limit=100) |
 | dark0 | 2023 | DRAWMEFRENCH | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DRAWMEFRENCH/issuances?limit=100) |
 | Darkfarms | 2021 | FAKEONEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEONEPEPE/issuances?limit=100) |
 | DarkFluffyRabbit | 2021 | FAKEONEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEONEPEPE/issuances?limit=100) |
@@ -340,8 +341,8 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | DesktopCommando | 2021 | IGOTBLOCKED.JohnCarvalho@BitcoinErrorLog | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A11631298605063212121/issuances?limit=100) |
 | desultor | 2022 | BIGTIMEWOW | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BIGTIMEWOW/issuances?limit=100) |
 | Deth Reaper | 2023 | GMGMPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/GMGMPEPE/issuances?limit=100) |
-| DG Alex Kovalenko | 2022 | PEPEFLY | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEFLY/issuances?limit=100) |
-| Dhanya Ajith | 2022 | GROWINGPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/GROWINGPEPE/issuances?limit=100) |
+| DG Alex Kovalenko | 2021 | PEPEFLY | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEFLY/issuances?limit=100) |
+| Dhanya Ajith | 2021 | GROWINGPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/GROWINGPEPE/issuances?limit=100) |
 | Diana Scot | 2022 | A17346442692743720000 | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A17346442692743720000/issuances?limit=100) |
 | Digital Ape | 2022 | DGAPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DGAPEPE/issuances?limit=100) |
 | diid | 2025 | CLIPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CLIPEPE/issuances?limit=100) |
@@ -357,7 +358,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Django Bits | 2016 | CHERPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CHERPEPE/issuances?limit=100) |
 | DjLiberty1 | 2022 | DARELIKEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DARELIKEPEPE/issuances?limit=100) |
 | dlom | 2018 | CORNFREEDOM | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CORNFREEDOM/issuances?limit=100) · [context](https://bitcorns.com/) |
-| DM Designs | 2022 | TIMEMEMORIES | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/TIMEMEMORIES/issuances?limit=100) |
+| DM Designs | 2021 | TIMEMEMORIES | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/TIMEMEMORIES/issuances?limit=100) |
 | Dmitri Cherniak | 2022 | FAKEAUTOPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEAUTOPEPE/issuances?limit=100) |
 | Doctor Phoenix | 2021 | FAKEPEPA | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEPEPA/issuances?limit=100) |
 | DOGE-STYLE | 2021 | DANKACHU | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKACHU/issuances?limit=100) |
@@ -410,7 +411,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | extremelydumb | 2022 | VENGEFULGOD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/VENGEFULGOD/issuances?limit=100) |
 | Ezra Ounce | 2023 | PEPELFG | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPELFG/issuances?limit=100) |
 | Fabrique | 2021 | COLOREDSANDS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/COLOREDSANDS/issuances?limit=100) |
-| Fahfahs | 2022 | PEPEJOURNEY | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEJOURNEY/issuances?limit=100) |
+| Fahfahs | 2021 | PEPEJOURNEY | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEJOURNEY/issuances?limit=100) |
 | FAIRBOSS | 2024 | FAIRPOOL | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAIRPOOL/issuances?limit=100) |
 | Fake Annie | 2021 | BASEDGODPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BASEDGODPEPE/issuances?limit=100) |
 | FakeAzul | 2022 | FROGLIFE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FROGLIFE/issuances?limit=100) |
@@ -487,9 +488,9 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Griffin | 2022 | LUNACARD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/LUNACARD/issuances?limit=100) |
 | GRNQRTR | 2022 | FAKFREN.WHOISIT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A10100619798314671970/issuances?limit=100) |
 | gtdank | 2021 | MODERNDANK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/MODERNDANK/issuances?limit=100) |
-| GuGGGar | 2022 | HIDDENME | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/HIDDENME/issuances?limit=100) |
+| GuGGGar | 2021 | HIDDENME | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/HIDDENME/issuances?limit=100) |
 | Gus gg | 2016 | CLASSICPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/CLASSICPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
-| Guylygon | 2022 | FAKEITEM | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/FAKEITEM/issuances?limit=100) |
+| Guylygon | 2021 | FAKEITEM | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/FAKEITEM/issuances?limit=100) |
 | Guzman | 2017 | DOGEVSPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/DOGEVSPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
 | Gwen | 2021 | SUNSETPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/SUNSETPEPE/issuances?limit=100) |
 | Gypsyladiez | 2021 | CORNHARRISON | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CORNHARRISON/issuances?limit=100) · [context](https://bitcorns.com/) |
@@ -504,7 +505,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Harsha | 2022 | KEKATAR | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/KEKATAR/issuances?limit=100) |
 | Harvey Vogelmann | 2022 | MIKAPORTRAIT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/MIKAPORTRAIT/issuances?limit=100) |
 | Hcarpach | 2016 | DAOPEPEHACK | existing-art-year | [history](https://api.xcp.io/v2/assets/DAOPEPEHACK/issuances?limit=100) |
-| Helena Mizu | 2022 | TOBYPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/TOBYPEPE/issuances?limit=100) |
+| Helena Mizu | 2021 | TOBYPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/TOBYPEPE/issuances?limit=100) |
 | Herckeim | 2015 | BOOUUSEGG | existing-art-year | [history](https://api.xcp.io/v2/assets/BOOUUSEGG/issuances?limit=100) |
 | Herma Puma | 2022 | PEPEMPERNEL | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEMPERNEL/issuances?limit=100) |
 | Hesher | 2022 | FAKELUV | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKELUV/issuances?limit=100) |
@@ -528,8 +529,8 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | ilan katin | 2022 | HNFTMMXV | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/HNFTMMXV/issuances?limit=100) |
 | iliminskiy | 2022 | PEPETHEGIANT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPETHEGIANT/issuances?limit=100) |
 | Ill Bill | 2021 | SCRILLBILL | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/SCRILLBILL/issuances?limit=100) |
-| Ilya Kazakov | 2022 | PEPESAN | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPESAN/issuances?limit=100) |
-| Ilya Shkipin | 2022 | THEREWILLBE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/THEREWILLBE/issuances?limit=100) |
+| Ilya Kazakov | 2021 | PEPESAN | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPESAN/issuances?limit=100) |
+| Ilya Shkipin | 2021 | THEREWILLBE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/THEREWILLBE/issuances?limit=100) |
 | IlyaShapko | 2022 | PEPERUN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPERUN/issuances?limit=100) |
 | INA VARE | 2022 | OTHERSIDEPOX | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/OTHERSIDEPOX/issuances?limit=100) |
 | Indelible | 2017 | BAGHOLDRPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/BAGHOLDRPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
@@ -619,7 +620,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | KimbrowAF | 2021 | DERPYAPEONE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DERPYAPEONE/issuances?limit=100) |
 | KimK51 | 2022 | BOSSPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BOSSPEPE/issuances?limit=100) |
 | KINKINETIC | 2022 | BANKMAN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BANKMAN/issuances?limit=100) |
-| Kiradiron | 2022 | KIRADIRONPEP | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/KIRADIRONPEP/issuances?limit=100) |
+| Kiradiron | 2021 | KIRADIRONPEP | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/KIRADIRONPEP/issuances?limit=100) |
 | klhUnd | 2022 | COOMER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/COOMER/issuances?limit=100) |
 | kobayashi | 2021 | BANANADANK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BANANADANK/issuances?limit=100) |
 | Kowals | 2022 | FAKEBOWIE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEBOWIE/issuances?limit=100) |
@@ -674,7 +675,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | M0d3d3b0 | 2021 | FAKERARFESTO | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKERARFESTO/issuances?limit=100) |
 | m0nti | 2023 | CBDCPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CBDCPEPE/issuances?limit=100) |
 | m3thod23 | 2021 | BAFAKACUS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BAFAKACUS/issuances?limit=100) |
-| MAB | 2022 | PEPEBIT | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEBIT/issuances?limit=100) |
+| MAB | 2021 | PEPEBIT | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEBIT/issuances?limit=100) |
 | mad.gtx | 2022 | BROPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BROPEPE/issuances?limit=100) |
 | madethispepe | 2022 | VHSPEPE.PARTII | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A13100647960476828089/issuances?limit=100) |
 | Magnecorn | 2018 | CORNLEGEND | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CORNLEGEND/issuances?limit=100) · [context](https://bitcorns.com/) |
@@ -819,7 +820,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | nishseq | 2022 | WHITEAODH | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/WHITEAODH/issuances?limit=100) |
 | NNIA | 2022 | FAKECATTELAN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKECATTELAN/issuances?limit=100) |
 | Nogoodboypoints | 2022 | OKTOBEPEPE.POWER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A7837452999301624128/issuances?limit=100) |
-| Noinah | 2022 | PEPEDONTCRY | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEDONTCRY/issuances?limit=100) |
+| Noinah | 2021 | PEPEDONTCRY | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEDONTCRY/issuances?limit=100) |
 | NomNomDay | 2022 | HOLYNAKA.GLDTOTER | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A12833097604154248005/issuances?limit=100) |
 | NOONE | 2022 | ERASERPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/ERASERPEPE/issuances?limit=100) |
 | Noosh | 2022 | MAGICIANCARD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/MAGICIANCARD/issuances?limit=100) |
@@ -827,8 +828,8 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | NORMANCOMICS | 2022 | DEGENSHIELD.TOPSECRETAIRDROP | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A17495308477649818459/issuances?limit=100) |
 | Notgod | 2022 | PEPEBONE | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/PEPEBONE/issuances?limit=100) · [context](https://pepemon.net/) |
 | notvitalik | 2022 | ETHQ | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/ETHQ/issuances?limit=100) |
-| Nova | 2022 | GODSOFPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/GODSOFPEPE/issuances?limit=100) |
-| NunoCosta_PT | 2022 | VITRALPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/VITRALPEPE/issuances?limit=100) |
+| Nova | 2021 | GODSOFPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/GODSOFPEPE/issuances?limit=100) |
+| NunoCosta_PT | 2021 | VITRALPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/VITRALPEPE/issuances?limit=100) |
 | Nusi Neptune | 2024 | CCTWOMAR | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CCTWOMAR/issuances?limit=100) |
 | Nymz | 2016 | BINARYPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/BINARYPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
 | obutenop | 2022 | MALEVICHQR | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/MALEVICHQR/issuances?limit=100) · [context](https://scannablenfts.com/) |
@@ -869,7 +870,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Paper Ape | 2023 | COCOROLLA | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/COCOROLLA/issuances?limit=100) |
 | papeto | 2021 | CAPPADOGEA | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CAPPADOGEA/issuances?limit=100) |
 | ParisianForge | 2018 | DELUXEPEPEHD | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/DELUXEPEPEHD/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
-| Pashchepa | 2022 | SALADPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/SALADPEPE/issuances?limit=100) |
+| Pashchepa | 2021 | SALADPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/SALADPEPE/issuances?limit=100) |
 | PatriotsinProgress | 2022 | PILLEDWOJAK.FREEDOM | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A10156355421458267472/issuances?limit=100) |
 | Pav | 2023 | BLACKSWANTTT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BLACKSWANTTT/issuances?limit=100) |
 | pbock | 2018 | A5776470735071006000 | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/A5776470735071006000/issuances?limit=100) · [context](https://crystalsuite.com/crystal_collection) |
@@ -1020,7 +1021,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | SaSHA-256 | 2019 | A11115274475316243847 | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A11115274475316243847/issuances?limit=100) |
 | SatoshiDavinci | 2023 | MUNDIKEK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/MUNDIKEK/issuances?limit=100) |
 | sattvicsats | 2022 | JAKANDWOKO | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/JAKANDWOKO/issuances?limit=100) |
-| Saybua | 2022 | PEPRINCE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPRINCE/issuances?limit=100) |
+| Saybua | 2021 | PEPRINCE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPRINCE/issuances?limit=100) |
 | SBVRT | 2022 | JABBATHEDANK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/JABBATHEDANK/issuances?limit=100) |
 | Scorch | 2021 | FUTUREPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FUTUREPEPE/issuances?limit=100) |
 | Scorch Beats | 2023 | ELEVVTED | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/ELEVVTED/issuances?limit=100) |
@@ -1044,14 +1045,14 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Shannon Code | 2021 | PEPEBILLIONS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEBILLIONS/issuances?limit=100) |
 | Shawn Leary | 2016 | BIGGIEPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/BIGGIEPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
 | SHEWOLF | 2021 | PEPETAROTSIX | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPETAROTSIX/issuances?limit=100) |
-| Shibuya | 2022 | PEPEWCDO | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPEWCDO/issuances?limit=100) |
+| Shibuya | 2021 | PEPEWCDO | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPEWCDO/issuances?limit=100) |
 | Shingo | 2017 | BTCBALOON | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BTCBALOON/issuances?limit=100) |
 | shorty | 2021 | DANKLEGS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKLEGS/issuances?limit=100) |
 | ShowerShoes | 2021 | PEPELAVANDAL.PEPELON | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A10449508466874237015/issuances?limit=100) |
 | Si Simple | 2022 | PEPEVICIOUS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEVICIOUS/issuances?limit=100) |
 | Sick Lost Goodie | 2022 | PANDEMONIUM | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PANDEMONIUM/issuances?limit=100) |
 | SilK | 2021 | DANKEYKONG | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKEYKONG/issuances?limit=100) |
-| silo | 2022 | PEPECHAOS | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/PEPECHAOS/issuances?limit=100) |
+| silo | 2021 | PEPECHAOS | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/PEPECHAOS/issuances?limit=100) |
 | Simsa | 2022 | CHARCOALS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CHARCOALS/issuances?limit=100) |
 | Sir Barry Gibb | 2021 | PEPEISDED.STORY | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A13569916660990510222/issuances?limit=100) |
 | Sir Memesworthy Dankleton III | 2023 | BEPEPEFAKE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BEPEPEFAKE/issuances?limit=100) |
@@ -1066,7 +1067,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | soulmonsta | 2022 | HALCARD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/HALCARD/issuances?limit=100) |
 | Sovanvirak | 2022 | TWINWOJAK.PEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A10359425656558087696/issuances?limit=100) |
 | SoyRbto | 2016 | JAKETHEPEPE | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/JAKETHEPEPE/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
-| Spellamin | 2022 | TRIPPINPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/TRIPPINPEPE/issuances?limit=100) |
+| Spellamin | 2021 | TRIPPINPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/TRIPPINPEPE/issuances?limit=100) |
 | SPHYNX | 2022 | HNFTMMXI | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/HNFTMMXI/issuances?limit=100) |
 | spirits | 2021 | BORNDANK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BORNDANK/issuances?limit=100) |
 | Stack | 2021 | FAKECEZANNE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKECEZANNE/issuances?limit=100) |
@@ -1079,7 +1080,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | StreetCyberArt | 2023 | JANETTROLLEN | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/JANETTROLLEN/issuances?limit=100) |
 | Stroxpix | 2025 | BITKING | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BITKING/issuances?limit=100) |
 | STVDIO NOUVEAU | 2022 | FAKONSTRUKT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKONSTRUKT/issuances?limit=100) |
-| stwwts | 2022 | DEEPOPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/DEEPOPEPE/issuances?limit=100) |
+| stwwts | 2021 | DEEPOPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/DEEPOPEPE/issuances?limit=100) |
 | subterranean | 2023 | COCOSBFF | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/COCOSBFF/issuances?limit=100) |
 | Sulfie | 2023 | GEOBFFS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/GEOBFFS/issuances?limit=100) |
 | SuperTrip64 | 2022 | WAGMIWORLD | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/WAGMIWORLD/issuances?limit=100) |
@@ -1098,7 +1099,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Terhnt | 2019 | CORNADO | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CORNADO/issuances?limit=100) · [context](https://bitcorns.com/) |
 | TESTIIPROD | 2022 | BLANKWOJAK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BLANKWOJAK/issuances?limit=100) |
 | teymthebeast | 2021 | A12077105071572441000 | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A12077105071572441000/issuances?limit=100) |
-| The Art District'86 | 2022 | FAKEANATOMY | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/FAKEANATOMY/issuances?limit=100) |
+| The Art District'86 | 2021 | FAKEANATOMY | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/FAKEANATOMY/issuances?limit=100) |
 | The Cornfather | 2018 | CORNCOMBINE | catalogue-edition-estimate | [history](https://api.xcp.io/v2/assets/CORNCOMBINE/issuances?limit=100) · [context](https://bitcorns.com/) |
 | The Genius | 2021 | BTCATHPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BTCATHPEPE/issuances?limit=100) |
 | The Park | 2021 | FAKESTREETS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKESTREETS/issuances?limit=100) |
@@ -1116,7 +1117,7 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Tj0 | 2022 | PEBLEU | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEBLEU/issuances?limit=100) |
 | TKY | 2017 | BANANAICO | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BANANAICO/issuances?limit=100) |
 | TLeavs | 2022 | BAMBINOPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/BAMBINOPEPE/issuances?limit=100) |
-| ToeyMari | 2022 | COPPEPE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/COPPEPE/issuances?limit=100) |
+| ToeyMari | 2021 | COPPEPE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/COPPEPE/issuances?limit=100) |
 | TokerVillage | 2023 | TWOTW | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/TWOTW/issuances?limit=100) |
 | tom | 2022 | FAKEBULLA | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/FAKEBULLA/issuances?limit=100) |
 | Tom Ventre | 2023 | SOGSHOCKW | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/SOGSHOCKW/issuances?limit=100) |
@@ -1130,11 +1131,11 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | totesmcgotes | 2022 | WETDREAMS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/WETDREAMS/issuances?limit=100) |
 | Tots Valeza | 2019 | SOGHARELORD | named-game-card-edition | [history](https://api.xcp.io/v2/assets/SOGHARELORD/issuances?limit=100) · [context](https://spellsofgenesis.com) |
 | Trendstream | 2016 | PEPECAMO | rare-pepe-published-series | [history](https://api.xcp.io/v2/assets/PEPECAMO/issuances?limit=100) · [context](https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project) |
-| Tristan | 2022 | KOAKOAK | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/KOAKOAK/issuances?limit=100) |
+| Tristan | 2021 | KOAKOAK | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/KOAKOAK/issuances?limit=100) |
 | TRITHEMIUSPEPE | 2024 | TRITHEMIUS | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/TRITHEMIUS/issuances?limit=100) |
 | Troy Roennfeldt | 2022 | DANKBLANK | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKBLANK/issuances?limit=100) |
 | trudeeart | 2026 | TRUDEEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/TRUDEEPEPE/issuances?limit=100) |
-| Trystan | 2022 | CRYPTOFORCE | first-documented-media-estimate | [history](https://api.xcp.io/v2/assets/CRYPTOFORCE/issuances?limit=100) |
+| Trystan | 2021 | CRYPTOFORCE | edition-and-metadata-backfill-estimate | [history](https://api.xcp.io/v2/assets/CRYPTOFORCE/issuances?limit=100) |
 | tt | 2021 | PEPEDOODLE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/PEPEDOODLE/issuances?limit=100) |
 | TurtleLord | 2022 | CARMERCHANT | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/CARMERCHANT/issuances?limit=100) |
 | twisted | 2021 | DANKMEMESY | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKMEMESY/issuances?limit=100) |
@@ -1226,3 +1227,43 @@ Each history link identifies the exact Counterparty work used. Basis labels abov
 | Zossel | 2022 | DARKBLUEPEPE | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DARKBLUEPEPE/issuances?limit=100) |
 | Zuriel | 2026 | PEPEMEMECOIN.S1N4 | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/A15944938783297153635/issuances?limit=100) |
 | zzirnoneirzz | 2021 | DANKLOBBY | media-and-edition-activity | [history](https://api.xcp.io/v2/assets/DANKLOBBY/issuances?limit=100) |
+
+## Follow-up: edition evidence and later metadata
+
+Reconsidered all 32 first-documented-media estimates. Correct 29 work anchors from 2022 to 2021 as edition-based estimates. Each has positive original supply and a contemporaneous supply lock in 2021. The named works are in the reviewed catalogue, with later media identifying the artwork. Concentrated 2022 attachment dates suggest backfilling, not 29 independent debuts; this remains an inference, not proof of the exact original image or publication day. Issuing-ownership transfers are not evidence of collector distribution. The 90-day screening threshold is not a historical dating rule.
+
+Fake Commons currently has a 2022 collection founding year. These estimates concern its individual works, which may precede directory admission; they do not revise the collection launch. No artist identity is inferred from an issuing address.
+
+Retain LISASTILL (Shafiqah Bay) at 2022 and GEDULD (LordAntHreX) at 2023: edition and attachment are already in the same year. Retain FLOONEYBIN.FLOONEYTUNES (LoveableTee) at 2023 as a first-documented estimate: its 70-unit August 2022 mint lacks a recorded lock, and the October 2023 media attachment is not corroborated here by the same coordinated update pattern. This does not prove the work was created in 2023; a 2022 release source would justify revision.
+
+| Artist | Work | Edition / lock | First media | Revised year |
+| --- | --- | --- | --- | ---: |
+| Arash Negahban | [FAKAGANG](https://api.xcp.io/v2/assets/FAKAGANG/issuances?limit=100) | 2021-12-16 / 2021-12-16 | 2022-04-20 | 2021 |
+| ToeyMari | [COPPEPE](https://api.xcp.io/v2/assets/COPPEPE/issuances?limit=100) | 2021-10-10 / 2021-10-15 | 2022-02-11 | 2021 |
+| Trystan | [CRYPTOFORCE](https://api.xcp.io/v2/assets/CRYPTOFORCE/issuances?limit=100) | 2021-10-23 / 2021-10-23 | 2022-02-20 | 2021 |
+| Amarin | [KINGOFPEACE](https://api.xcp.io/v2/assets/KINGOFPEACE/issuances?limit=100) | 2021-12-09 / 2021-12-09 | 2022-04-20 | 2021 |
+| AndrewMaslov | [SHINYPEPE](https://api.xcp.io/v2/assets/SHINYPEPE/issuances?limit=100) | 2021-12-13 / 2021-12-14 | 2022-04-21 | 2021 |
+| Cliff | [FAKAPIZZA](https://api.xcp.io/v2/assets/FAKAPIZZA/issuances?limit=100) | 2021-11-12 / 2021-11-12 | 2022-02-21 | 2021 |
+| DaoHackerman | [PEPEBBOY](https://api.xcp.io/v2/assets/PEPEBBOY/issuances?limit=100) | 2021-12-18 / 2021-12-19 | 2022-04-20 | 2021 |
+| DG Alex Kovalenko | [PEPEFLY](https://api.xcp.io/v2/assets/PEPEFLY/issuances?limit=100) | 2021-12-15 / 2021-12-15 | 2022-04-25 | 2021 |
+| Dhanya Ajith | [GROWINGPEPE](https://api.xcp.io/v2/assets/GROWINGPEPE/issuances?limit=100) | 2021-12-28 / 2021-12-29 | 2022-04-20 | 2021 |
+| DM Designs | [TIMEMEMORIES](https://api.xcp.io/v2/assets/TIMEMEMORIES/issuances?limit=100) | 2021-12-19 / 2021-12-19 | 2022-04-25 | 2021 |
+| Fahfahs | [PEPEJOURNEY](https://api.xcp.io/v2/assets/PEPEJOURNEY/issuances?limit=100) | 2021-12-09 / 2021-12-09 | 2022-06-10 | 2021 |
+| GuGGGar | [HIDDENME](https://api.xcp.io/v2/assets/HIDDENME/issuances?limit=100) | 2021-12-18 / 2021-12-19 | 2022-04-20 | 2021 |
+| Guylygon | [FAKEITEM](https://api.xcp.io/v2/assets/FAKEITEM/issuances?limit=100) | 2021-12-01 / 2021-12-01 | 2022-04-28 | 2021 |
+| Helena Mizu | [TOBYPEPE](https://api.xcp.io/v2/assets/TOBYPEPE/issuances?limit=100) | 2021-12-29 / 2021-12-29 | 2022-03-30 | 2021 |
+| Ilya Kazakov | [PEPESAN](https://api.xcp.io/v2/assets/PEPESAN/issuances?limit=100) | 2021-11-11 / 2021-11-11 | 2022-04-25 | 2021 |
+| Ilya Shkipin | [THEREWILLBE](https://api.xcp.io/v2/assets/THEREWILLBE/issuances?limit=100) | 2021-11-08 / 2021-11-08 | 2022-02-21 | 2021 |
+| Kiradiron | [KIRADIRONPEP](https://api.xcp.io/v2/assets/KIRADIRONPEP/issuances?limit=100) | 2021-12-19 / 2021-12-19 | 2022-04-25 | 2021 |
+| MAB | [PEPEBIT](https://api.xcp.io/v2/assets/PEPEBIT/issuances?limit=100) | 2021-12-23 / 2021-12-23 | 2022-04-20 | 2021 |
+| Noinah | [PEPEDONTCRY](https://api.xcp.io/v2/assets/PEPEDONTCRY/issuances?limit=100) | 2021-10-24 / 2021-10-24 | 2022-02-20 | 2021 |
+| Nova | [GODSOFPEPE](https://api.xcp.io/v2/assets/GODSOFPEPE/issuances?limit=100) | 2021-10-18 / 2021-10-18 | 2022-02-20 | 2021 |
+| NunoCosta_PT | [VITRALPEPE](https://api.xcp.io/v2/assets/VITRALPEPE/issuances?limit=100) | 2021-12-15 / 2021-12-15 | 2022-04-21 | 2021 |
+| Pashchepa | [SALADPEPE](https://api.xcp.io/v2/assets/SALADPEPE/issuances?limit=100) | 2021-12-26 / 2021-12-26 | 2022-04-20 | 2021 |
+| Saybua | [PEPRINCE](https://api.xcp.io/v2/assets/PEPRINCE/issuances?limit=100) | 2021-10-20 / 2021-10-20 | 2022-02-20 | 2021 |
+| silo | [PEPECHAOS](https://api.xcp.io/v2/assets/PEPECHAOS/issuances?limit=100) | 2021-11-29 / 2021-12-07 | 2022-04-20 | 2021 |
+| Shibuya | [PEPEWCDO](https://api.xcp.io/v2/assets/PEPEWCDO/issuances?limit=100) | 2021-12-26 / 2021-12-26 | 2022-04-20 | 2021 |
+| Spellamin | [TRIPPINPEPE](https://api.xcp.io/v2/assets/TRIPPINPEPE/issuances?limit=100) | 2021-12-03 / 2021-12-03 | 2022-04-20 | 2021 |
+| stwwts | [DEEPOPEPE](https://api.xcp.io/v2/assets/DEEPOPEPE/issuances?limit=100) | 2021-12-06 / 2021-12-06 | 2022-04-25 | 2021 |
+| The Art District'86 | [FAKEANATOMY](https://api.xcp.io/v2/assets/FAKEANATOMY/issuances?limit=100) | 2021-12-02 / 2021-12-02 | 2022-04-25 | 2021 |
+| Tristan | [KOAKOAK](https://api.xcp.io/v2/assets/KOAKOAK/issuances?limit=100) | 2021-11-20 / 2021-11-20 | 2022-04-20 | 2021 |
