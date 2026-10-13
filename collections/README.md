@@ -69,6 +69,8 @@ explicit evidence, never from the issuing address alone.
 
 A collection whose `meta.json` sets `"variation_of": "PARENT"` groups one work
 with its subasset variations: it lists `PARENT` and only `PARENT.*` assets.
+When the works keep their primary home in a project collection, list them all
+with `"primary": false`.
 
 Also add a short `README.md` telling contributors what belongs in the
 collection and how to verify changes. Optional `icon.png`, `icon.jpg`,

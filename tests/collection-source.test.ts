@@ -294,6 +294,27 @@ test("canonical static collections require a primary asset while curated overlap
   assert.deepEqual(curated.assets, secondaryOnly);
 });
 
+test("only a variations collection may list every entry as secondary", async (t) => {
+  const secondaryOnly = [{ asset: "BEARFACTS", primary: false }, { asset: "BEARFACTS.misprint", primary: false }];
+  const variations = makeRepository();
+  t.after(() => rmSync(variations.root, { recursive: true, force: true }));
+  writeFileSync(join(variations.directory, "assets.json"), JSON.stringify({ assets: secondaryOnly }));
+  const collection = await materializeCollection({
+    slug: "example-set",
+    meta: { ...baseMeta, variation_of: "BEARFACTS" },
+    repositoryRoot: variations.root,
+  });
+  assert.deepEqual(collection.assets, secondaryOnly);
+
+  const ordinary = makeRepository();
+  t.after(() => rmSync(ordinary.root, { recursive: true, force: true }));
+  writeFileSync(join(ordinary.directory, "assets.json"), JSON.stringify({ assets: secondaryOnly }));
+  await assert.rejects(
+    materializeCollection({ slug: "example-set", meta: baseMeta, repositoryRoot: ordinary.root }),
+    /at least one unflagged primary asset/,
+  );
+});
+
 test("an open collection adapter demotes only its conflicting memberships", async (t) => {
   const { root, directory } = makeRepository();
   t.after(() => rmSync(root, { recursive: true, force: true }));

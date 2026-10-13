@@ -166,8 +166,11 @@ export function normalizeAssets(value, path = "assets") {
   return assets;
 }
 
-function requireCanonicalPrimary(kind, assets, path) {
-  if (kind === "canonical" && !assets.some((entry) => entry.primary !== false)) {
+/** A canonical collection needs a primary home for at least one asset. A
+ * variations collection is exempt: when the works keep their primary home in
+ * a project collection, every entry may be secondary. */
+function requireCanonicalPrimary(kind, assets, path, variationOf) {
+  if (kind === "canonical" && variationOf === undefined && !assets.some((entry) => entry.primary !== false)) {
     fail(path, "a canonical collection must contain at least one unflagged primary asset");
   }
 }
@@ -544,7 +547,7 @@ export async function materializeCollection({
   }
 
   if (membership?.assets !== undefined) {
-    requireCanonicalPrimary(output.kind, membership.assets, `${slug}.assets`);
+    requireCanonicalPrimary(output.kind, membership.assets, `${slug}.assets`, output.variation_of);
     requireVariationShape(output.variation_of, membership.assets, `${slug}.assets`);
     output.assets = applyArtistCreditSplits(membership.assets, artistCreditSplits);
     if (membership.overlapPolicy === "secondary") {
@@ -832,7 +835,7 @@ export async function validateRepositoryMetadata({ repositoryRoot = process.cwd(
       const source = resolveCollectionSource(repositoryRoot, slug);
       if (source.type === "static") {
         collection.assets = applyArtistCreditSplits(readCollectionAssets(repositoryRoot, slug), artistCreditSplits);
-        requireCanonicalPrimary(collection.kind, collection.assets, `${slug}.assets`);
+        requireCanonicalPrimary(collection.kind, collection.assets, `${slug}.assets`, collection.variation_of);
         requireVariationShape(collection.variation_of, collection.assets, `${slug}.assets`);
       } else {
         if (source.type !== "metadata-only") externalSources += 1;
