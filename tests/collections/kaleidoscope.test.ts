@@ -145,7 +145,7 @@ test("retains the documented TRUMPED artist without inventing membership", async
 });
 
 test("keeps JP Janssen's book and separately recorded image credits on refresh", async () => {
-  for (const [name, year] of [["JPJA", 2014], ["OLGA", 2015]]) {
+  for (const [name, year] of [["JPJA", 2014], ["OLGA", 2015], ["SALVATION", 2015], ["RETARDPEPE", 2017]]) {
     const response = structuredClone(fixture);
     response.items[0].assetName = name;
     const assets = await load({ fetchJson: async () => response, cache: new Map() });

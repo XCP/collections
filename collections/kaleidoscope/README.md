@@ -10,7 +10,7 @@
 | Primary memberships | 1,656 |
 | Secondary or curated memberships | 454 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 36/2,110 (1.7%)<br>Artist: 769/2,110 (36.4%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 38/2,110 (1.8%)<br>Artist: 771/2,110 (36.5%)<br>Based on: 2/2,110 (0.1%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -74,3 +74,12 @@ JPJA receives Art year **2014**: its [valid June 28, 2014 description](https://a
 OLGA receives Art year **2015**, distinct from its 2014 token registration and original symbolic dedication. The artist identifies the image's August 11, 2015 on-chain encoding and publishes [reconstruction instructions](https://jpjanssen.com/how-to-extract-olgas-image-from-the-blockchain/) for transaction [627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74](https://blockstream.info/tx/627ae48d6b4cffb2ea734be1016dedef4cee3f8ffefaea5602dd58c696de6b74). Artwork recorded separately from the asset description still supports attribution. The site's book article has an inconsistent OLGA subsection date; the dedicated FAQ explicitly separates 2014 registration and 2015 image attachment.
 
 The artist's OG year is therefore supported by the 2014 book project. Membership refreshes retain both credits and dates; no new membership or derivative attribution is inferred.
+
+## SALVATION and RETARDPEPE
+
+Credit both existing entries to **JP Janssen**. His [SALVATION account](https://jpjanssen.com/salvation/) and [asset shop](https://jpjanssen.com/shop/) explicitly claim these formerly anonymous projects. His [Vintage Tokens evidence archive](https://www.dropbox.com/s/c97ytaq95c6or0k/JP_VINTAGE_TOKENS.zip?dl=0), linked from [his preservation article](https://jpjanssen.com/back-up-your-bitcoin-nfts/), includes separate authorship notes, original media and forum screenshots. Attribution is to the token project and creative assembly, not authorship of a pre-existing religious icon or the Pepe character.
+
+- **SALVATION: Art year 2015** dates the original participatory joke, supported by the August 4 issuance of seven tokens with its explicit salvation description and the [August 2015 Reddit announcement](https://www.reddit.com/r/counterparty_xcp/comments/3fywf3/salvation_was_revealed_to_me_jdog_and_derose_got/). This was actual project use, not a reserved name. The public-domain religious icon was added in **2017**, as JP explicitly explains; the 2015 project date must not be described as the image attachment date.
+- **RETARDPEPE: Art year 2017** dates the original named, issued and locked 100-card project on June 4, corroborated by the archive's June 2017 forum records and creator account. The current animated GIF combines three earlier rejected submissions and was assembled in **2021**. The archive's animated GIF MD5 begins AF7330FC3, matching the value in the July 2021 description (which labels it MP5). This is not an official Rare Pepe Directory entry: the creator explicitly documents rejection. Existing Kaleidoscope membership remains unchanged.
+
+The [SALVATION issuance history](https://api.xcp.io/v2/assets/SALVATION/issuances?limit=100) and [RETARDPEPE issuance history](https://api.xcp.io/v2/assets/RETARDPEPE/issuances?limit=100) corroborate the project dates; they are not the sole basis for authorship.
