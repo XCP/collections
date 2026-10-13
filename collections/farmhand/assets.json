@@ -21,7 +21,12 @@
     },
     {
       "asset": "FARMHAND.DROPPINGS",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Roger Fliporian"
+        }
+      ]
     }
   ]
 }

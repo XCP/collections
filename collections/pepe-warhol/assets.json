@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "JONNYCASHPEP"
+      "asset": "JONNYCASHPEP",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lord Jamie V. Shill"
+        }
+      ]
     },
     {
       "asset": "PEPESLATER",

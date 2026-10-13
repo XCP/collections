@@ -1,16 +1,40 @@
 {
   "assets": [
     {
-      "asset": "RUGSPENSERS"
+      "asset": "RUGSPENSERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "RUGSPENSERS.SIRMYFAMILY"
+      "asset": "RUGSPENSERS.SIRMYFAMILY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "RUGSPENSERS.PEPSITHEORY"
+      "asset": "RUGSPENSERS.PEPSITHEORY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
-      "asset": "RUGSPENSERS.NOTMYASSET"
+      "asset": "RUGSPENSERS.NOTMYASSET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Majoni"
+        }
+      ]
     },
     {
       "asset": "RUGSPENSERS.ACOMMENT",

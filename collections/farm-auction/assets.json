@@ -29,7 +29,12 @@
     },
     {
       "asset": "FARMAUCTION.FAKE",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
       "asset": "FARMAUCTION.FAUX",

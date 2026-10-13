@@ -10,7 +10,7 @@
 | Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/10 (20%) |
+| Traits | Artist: 10/10 (100%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -29,3 +29,5 @@ Each included cover visibly prints the PONZI COMICS label. The reviewed covers c
 - TALEOFVIVA: [artwork](https://cdn.xcp.io/img/full/TALEOFVIVA)
 - TELEGRAMZ: [artwork](https://cdn.xcp.io/img/full/TELEGRAMZ)
 - NOMOARPUNKS: [artwork](https://cdn.xcp.io/img/full/NOMOARPUNKS)
+
+Remaining works are credited to Viva La Vandal, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.

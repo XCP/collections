@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "LOONEYJOE"
+      "asset": "LOONEYJOE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "LOONEYJOE.LOL",

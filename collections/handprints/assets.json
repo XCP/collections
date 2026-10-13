@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "HANDPRINTS"
+      "asset": "HANDPRINTS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
       "asset": "HANDPRINTS.airdrop",
@@ -13,10 +19,22 @@
       ]
     },
     {
-      "asset": "HANDPRINTS.VOLUNTEERFORTHETEARS"
+      "asset": "HANDPRINTS.VOLUNTEERFORTHETEARS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     },
     {
-      "asset": "HANDPRINTS.FACES"
+      "asset": "HANDPRINTS.FACES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Kane Mayfield"
+        }
+      ]
     }
   ]
 }

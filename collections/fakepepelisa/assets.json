@@ -12,7 +12,12 @@
     },
     {
       "asset": "FAKEPEPELISA.DYORZURICH22",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     },
     {
       "asset": "FAKEPEPELISA.GENESISOF",

@@ -20,7 +20,13 @@
       ]
     },
     {
-      "asset": "PONZIPEPE.lend"
+      "asset": "PONZIPEPE.lend",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
     },
     {
       "asset": "PONZIPEPE.LSD",

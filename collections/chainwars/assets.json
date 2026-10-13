@@ -14,25 +14,67 @@
       ]
     },
     {
-      "asset": "CHAINWARS.FIRSTMEET"
+      "asset": "CHAINWARS.FIRSTMEET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.DEFENSE"
+      "asset": "CHAINWARS.DEFENSE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.VOTINGBLOCKS"
+      "asset": "CHAINWARS.VOTINGBLOCKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.THEWORM"
+      "asset": "CHAINWARS.THEWORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.TIGERS"
+      "asset": "CHAINWARS.TIGERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.TINEATTACK"
+      "asset": "CHAINWARS.TINEATTACK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     },
     {
-      "asset": "CHAINWARS.NAGASIB"
+      "asset": "CHAINWARS.NAGASIB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "MightBeMike"
+        }
+      ]
     }
   ]
 }

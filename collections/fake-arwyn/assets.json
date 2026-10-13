@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "FAKEARWYN"
+      "asset": "FAKEARWYN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "FAKEARWYN.SUPERMARIOWYN",
@@ -85,7 +91,13 @@
       ]
     },
     {
-      "asset": "FAKEARWYN.GRINCH"
+      "asset": "FAKEARWYN.GRINCH",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "FAKEARWYN.DJARWYN",
@@ -115,7 +127,13 @@
       ]
     },
     {
-      "asset": "FAKEARWYN.MULTIPASS"
+      "asset": "FAKEARWYN.MULTIPASS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "FAKEARWYN.ACTIONARWYN",
@@ -127,7 +145,13 @@
       ]
     },
     {
-      "asset": "FAKEARWYN.PULPFICTION"
+      "asset": "FAKEARWYN.PULPFICTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     }
   ]
 }

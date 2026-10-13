@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "RAREAF"
+      "asset": "RAREAF",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "BuddhaAF"
+        }
+      ]
     },
     {
       "asset": "RAREAF.marketexplainer",

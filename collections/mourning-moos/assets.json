@@ -10,10 +10,22 @@
       ]
     },
     {
-      "asset": "MOURNINGMOOS.BEYONDBARNYARD"
+      "asset": "MOURNINGMOOS.BEYONDBARNYARD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.BLISS"
+      "asset": "MOURNINGMOOS.BLISS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
       "asset": "MOURNINGMOOS.BTC23",
@@ -25,19 +37,49 @@
       ]
     },
     {
-      "asset": "MOURNINGMOOS.CITYLIFE"
+      "asset": "MOURNINGMOOS.CITYLIFE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.MISSINGMOOS"
+      "asset": "MOURNINGMOOS.MISSINGMOOS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.MOOKRAINE"
+      "asset": "MOURNINGMOOS.MOOKRAINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.MOOULTONBARN"
+      "asset": "MOURNINGMOOS.MOOULTONBARN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
-      "asset": "MOURNINGMOOS.MOOVOLUTION"
+      "asset": "MOURNINGMOOS.MOOVOLUTION",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Carsonated"
+        }
+      ]
     },
     {
       "asset": "MOURNINGMOOS.PAINTTHEORY",
