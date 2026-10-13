@@ -37,8 +37,13 @@ An asset entry uses a Counterparty identifier and optional OpenSea-style traits:
 }
 ```
 
-If an asset's primary home is another canonical collection, include it with
-`"primary": false` instead of creating a second primary membership.
+Art no project has claimed sits in `collections/counterparty/`, the fallback.
+When your collection lists one of those assets, remove it from the fallback in
+the same pull request. If an asset's primary home is another project, include
+it with `"primary": false` instead of creating a second primary membership.
+
+Working with an AI assistant? Point it at [`AGENTS.md`](AGENTS.md), which has
+a step-by-step recipe for adding or correcting one collection.
 
 ## Source conventions
 

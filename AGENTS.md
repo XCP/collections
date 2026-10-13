@@ -7,6 +7,40 @@ market activity, wallet behavior, or marketplace policy.
 Before changing an adapter, read `docs/adapters.md` and the README in its
 collection or aggregator folder.
 
+## Add or correct one collection
+
+Most tasks here are one person, often working with an AI assistant, adding
+their project or fixing one collection. Keep the change to that collection.
+
+1. **Find the folder.** Search `collections/*/meta.json` for the project's
+   name. If it exists, edit it; otherwise create `collections/<slug>/` with a
+   stable kebab-case slug.
+2. **`meta.json`.** Name, `kind: "canonical"`, a short factual description,
+   `art_frame` (`card`, `square` or `landscape`), and `links` the project
+   publishes. Add `founded` only when the launch year is known.
+3. **`assets.json`.** List every asset the project names as its own, from its
+   own catalog, site or announcement. Use Counterparty asset names; list a
+   subasset by its longname; a numeric asset (`A…`) also needs an entry in
+   `data/numeric-assets.json` (`npm run numeric:resolve`). Confirm each asset
+   exists on [xcp.io](https://xcp.io).
+4. **Assets already in the registry.** `grep` each asset across
+   `collections/*/assets.json`. If it sits in `collections/counterparty/`
+   (the fallback for art no project has claimed), remove it there. If another
+   project already lists it, keep that home and add yours with
+   `"primary": false`, or explain in the pull request why it should move.
+5. **Traits.** Add only what the project publishes: `Artist` (repeat it for a
+   collaboration; reuse an artist's existing spelling), `Series`, `Card`.
+   Leave a trait out rather than guess. An issuing address alone does not
+   show who the artist is.
+6. **`README.md`.** A heading with the collection name and a few lines on what
+   belongs and where the list comes from.
+7. **Check and open the pull request.** Run `npm run docs`, then
+   `npm run check`, and fix what it reports. In the pull request, link the
+   source of the asset list and of any artist credits.
+
+Do not edit other collections, retag assets in bulk, or rename existing
+artists or collections in the same pull request; open a separate change.
+
 ## Adapter task recipe
 
 1. Source precedence is `collections/<slug>/assets.json`, then that folder's
@@ -24,25 +58,6 @@ collection or aggregator folder.
    live endpoint in unit tests.
 8. Never execute contributed adapter code with `pull_request_target`, write
    permissions, persisted Git credentials, or repository secrets.
-## Curation standard
-
-Membership and credits are editorial claims, so each needs explicit evidence.
-Record the evidence in the pull request description.
-
-- Credit an `Artist` from the work itself (a signature or plate on the card,
-  its description or JSON metadata), the project's own catalog, or the
-  artist's public claim. An issuing address alone is never enough: one issuer
-  can register many artists' work. Use the existing spelling of a known artist.
-- Admit an asset to a collection from the project's catalog, its name series,
-  or its stated membership, never from visual similarity alone. Unclaimed art
-  stays in the Counterparty fallback.
-- Set `Art year` only when the art demonstrably appeared later than the
-  asset's registration (its first art-bearing description, confirmed by first
-  activity). Set `founded` the same way for a project.
-- Set `Based on` only when the relationship is explicit (the name embeds the
-  original or the metadata says so) and the art confirms it.
-- `variation_of` collections hold one parent asset and its subassets only.
-
 ## Checks
 
 Run with Node.js 22:

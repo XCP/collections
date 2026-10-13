@@ -631,3 +631,17 @@ test("reviewed assets.json omits primary: true and empty attributes", (t) => {
     assert.throws(() => readCollectionAssets(root, "example-set"), (error) => error instanceof CollectionValidationError && message.test(error.message));
   }
 });
+
+test("a project claiming fallback art is told to remove the fallback entry", () => {
+  for (const order of [["counterparty", "a-project"], ["a-project", "counterparty"]]) {
+    const collections = order.map((slug) => ({ slug, kind: "canonical", assets: [{ asset: "PEPEBOY" }] }));
+    assert.throws(
+      () => validateMemberships(collections),
+      (error) => error instanceof CollectionValidationError && /PEPEBOY is now listed by a-project; remove it from collections\/counterparty\/assets\.json/.test(error.message),
+    );
+  }
+  assert.throws(
+    () => validateMemberships(["one", "two"].map((slug) => ({ slug, kind: "canonical", assets: [{ asset: "PEPEBOY" }] }))),
+    (error) => error instanceof CollectionValidationError && /two primary memberships: one and two/.test(error.message),
+  );
+});
