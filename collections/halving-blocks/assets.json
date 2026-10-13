@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "asset": "VADAMKADMON.210000",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
+    },
+    {
+      "asset": "VADAMKADMON.THE_GENESIS_CUBE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
+    }
+  ]
+}

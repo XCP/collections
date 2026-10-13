@@ -1,7 +1,10 @@
 {
-  "name": "Vadam Kadmon",
+  "name": "VADAMKADMON",
   "kind": "canonical",
-  "description": "Bitcoin-religion themed cards, 2022.",
+  "description": "The VADAMKADMON namespace: The Bitcoin Religion, Halving Blocks, four game cards and standalone works. This is an overview, not one uniform art series.",
   "art_frame": "card",
-  "founded": 2022
+  "founded": 2022,
+  "links": {
+    "website": "https://scarce.city/creators/adam-kadmon"
+  }
 }

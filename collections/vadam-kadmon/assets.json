@@ -1,25 +1,61 @@
 {
   "assets": [
     {
-      "asset": "VADAMKADMON.210000"
+      "asset": "VADAMKADMON.210000",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
       "asset": "VADAMKADMON.ALIEN_TECH"
     },
     {
-      "asset": "VADAMKADMON.BR_WHITEPAPER"
+      "asset": "VADAMKADMON.BR_WHITEPAPER",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.BRIV_POA"
+      "asset": "VADAMKADMON.BRIV_POA",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.BTC_ATM"
+      "asset": "VADAMKADMON.BTC_ATM",
+      "primary": false
     },
     {
-      "asset": "VADAMKADMON.BTC_FAUCET"
+      "asset": "VADAMKADMON.BTC_FAUCET",
+      "primary": false
     },
     {
-      "asset": "VADAMKADMON.P.E.P.E"
+      "asset": "VADAMKADMON.P.E.P.E",
+      "primary": false
     },
     {
       "asset": "VADAMKADMON.PEPEKING"
@@ -28,28 +64,106 @@
       "asset": "VADAMKADMON.SUPER_MARIO"
     },
     {
-      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_GENESIS"
+      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_GENESIS",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.The_Bitcoin_Religion_GENESIS_vid"
+      "asset": "VADAMKADMON.The_Bitcoin_Religion_GENESIS_vid",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_I"
+      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_I",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_III"
+      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_III",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_IV"
+      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_IV",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_V"
+      "asset": "VADAMKADMON.THE_BITCOIN_RELIGION_V",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.THE_GENESIS_CUBE"
+      "asset": "VADAMKADMON.THE_GENESIS_CUBE",
+      "primary": false,
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Adam Kadmon"
+        },
+        {
+          "trait_type": "Art year",
+          "value": 2022
+        }
+      ]
     },
     {
-      "asset": "VADAMKADMON.TWO_PIZZAS"
+      "asset": "VADAMKADMON.TWO_PIZZAS",
+      "primary": false
     }
   ]
 }
