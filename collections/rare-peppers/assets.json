@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "RAREPEPPERS.TRUDEEART"
+      "asset": "RAREPEPPERS.TRUDEEART",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "RAREPEPPERS.ELON",

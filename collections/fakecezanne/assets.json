@@ -16,7 +16,12 @@
     },
     {
       "asset": "FAKECEZANNE.ARTIST",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     },
     {
       "asset": "FAKECEZANNE.AUTOPORTRAIT",
@@ -29,7 +34,12 @@
     },
     {
       "asset": "FAKECEZANNE.LAMBO",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Pepenardo"
+        }
+      ]
     }
   ]
 }

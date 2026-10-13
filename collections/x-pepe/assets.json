@@ -1,91 +1,265 @@
 {
   "assets": [
     {
-      "asset": "XPEPEXLAMBO"
+      "asset": "XPEPEXLAMBO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPESPIDERB"
+      "asset": "XPEPESPIDERB",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEBATCAVE"
+      "asset": "XPEPEBATCAVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEXJACUZZ"
+      "asset": "XPEPEXJACUZZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEPYRO"
+      "asset": "XPEPEPYRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEICEPEPE"
+      "asset": "XPEPEICEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEBEAST"
+      "asset": "XPEPEBEAST",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPELADYDEA"
+      "asset": "XPEPELADYDEA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEDOMINO"
+      "asset": "XPEPEDOMINO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEJEANGRE"
+      "asset": "XPEPEJEANGRE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEWORLD"
+      "asset": "XPEPEWORLD",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEPROFESS"
+      "asset": "XPEPEPROFESS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPESCARLET"
+      "asset": "XPEPESCARLET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPESTORM"
+      "asset": "XPEPESTORM",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPELASERS"
+      "asset": "XPEPELASERS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEWOLVERI"
+      "asset": "XPEPEWOLVERI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPESABRETO"
+      "asset": "XPEPESABRETO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEPUNISHE"
+      "asset": "XPEPEPUNISHE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPESENTINE"
+      "asset": "XPEPESENTINE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEXJET"
+      "asset": "XPEPEXJET",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEROGUE"
+      "asset": "XPEPEROGUE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEMYSTIQU"
+      "asset": "XPEPEMYSTIQU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEGAMBIT"
+      "asset": "XPEPEGAMBIT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEEMMAFRO"
+      "asset": "XPEPEEMMAFRO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPENIGHTCR"
+      "asset": "XPEPENIGHTCR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEMAGNETO"
+      "asset": "XPEPEMAGNETO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPEJUGGERN"
+      "asset": "XPEPEJUGGERN",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPECOLOSSU"
+      "asset": "XPEPECOLOSSU",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
-      "asset": "XPEPECYCLOPS"
+      "asset": "XPEPECYCLOPS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "CLIPDAD"
+        }
+      ]
     },
     {
       "asset": "THEDARKPEPE",

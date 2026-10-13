@@ -1,5 +1,18 @@
 # Fake Arwyn
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 17 assets |
+| Primary memberships | 17 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 17/17 (100%) |
+<!-- collection-facts:end -->
+
 The illustrated parent and sixteen descendants share the explicit FAKEARWYN namespace and recurring character. Several artworks print the Fake Arwyn title. Arwyn is a depicted subject/project label, not an automatic creator attribution. Four existing Kaleidoscope appearances are retained secondarily under the open gallery’s policy. NEON, DJ and FANCYARWYN have unavailable artwork and are excluded.
 
 The complete namespace inventory was read through next_offset null. Membership is explicit and new children require review. Existing credits are retained; shared issuers and depicted subjects are not sufficient evidence for new attribution.
@@ -23,3 +36,5 @@ The complete namespace inventory was read through next_offset null. Membership i
 - [FAKEARWYN.MULTIPASS](https://api.xcp.io/v2/assets/A9953192399366550176) — [artwork](https://cdn.xcp.io/img/full/A9953192399366550176)
 - [FAKEARWYN.ACTIONARWYN](https://api.xcp.io/v2/assets/A3897729896772053675) — [artwork](https://cdn.xcp.io/img/full/A3897729896772053675)
 - [FAKEARWYN.PULPFICTION](https://api.xcp.io/v2/assets/A12266746859739380303) — [artwork](https://cdn.xcp.io/img/full/A12266746859739380303)
+
+Remaining works are credited to S1MONS, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.

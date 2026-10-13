@@ -2,7 +2,12 @@
   "assets": [
     {
       "asset": "SHITCOINS",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SHITCOINS.AtOMo",
@@ -20,11 +25,21 @@
     },
     {
       "asset": "SHITCOINS.CORN",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SHITCOINS.ETH2.0",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SHITCOINS.Ordinals",
@@ -38,7 +53,12 @@
     },
     {
       "asset": "SHITCOINS.RUNES",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Cornholio the Great"
+        }
+      ]
     },
     {
       "asset": "SHITCOINS.SAUCE",

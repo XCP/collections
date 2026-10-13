@@ -47,7 +47,13 @@
       ]
     },
     {
-      "asset": "THEOS.UPDATEBYCEO"
+      "asset": "THEOS.UPDATEBYCEO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Theo Goodman"
+        }
+      ]
     }
   ]
 }

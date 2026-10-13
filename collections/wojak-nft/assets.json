@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "WOJAKNFT"
+      "asset": "WOJAKNFT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "WOJAKNFT.2",

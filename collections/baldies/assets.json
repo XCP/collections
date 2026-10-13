@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "BALDIES"
+      "asset": "BALDIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BALDIES.DONALDJTRUMP",
@@ -67,10 +73,22 @@
       ]
     },
     {
-      "asset": "BALDIES.RUGGED"
+      "asset": "BALDIES.RUGGED",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
-      "asset": "BALDIES.FLOCK"
+      "asset": "BALDIES.FLOCK",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BALDIES.CZ",

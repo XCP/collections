@@ -2,7 +2,12 @@
   "assets": [
     {
       "asset": "THIRTYFIRST",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
     },
     {
       "asset": "THIRTYFIRST.AMAABP",
@@ -42,11 +47,21 @@
     },
     {
       "asset": "THIRTYFIRST.MONKE",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
     },
     {
       "asset": "THIRTYFIRST.NETUSET",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
     },
     {
       "asset": "THIRTYFIRST.NHIU",
@@ -68,7 +83,12 @@
     },
     {
       "asset": "THIRTYFIRST.SMILEY",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "JDog"
+        }
+      ]
     },
     {
       "asset": "THIRTYFIRST.ThisMightActuallySellGuys",

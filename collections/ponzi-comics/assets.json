@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "GMLFG"
+      "asset": "GMLFG",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "IHATENFTZ",
@@ -13,25 +19,67 @@
       ]
     },
     {
-      "asset": "MIATKEOVR"
+      "asset": "MIATKEOVR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "NOROYALTIES"
+      "asset": "NOROYALTIES",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "SATOSHISURFR"
+      "asset": "SATOSHISURFR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "SCHIFFSHOW"
+      "asset": "SCHIFFSHOW",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "SCSUCKS"
+      "asset": "SCSUCKS",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "TALEOFVIVA"
+      "asset": "TALEOFVIVA",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
-      "asset": "TELEGRAMZ"
+      "asset": "TELEGRAMZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Viva La Vandal"
+        }
+      ]
     },
     {
       "asset": "NOMOARPUNKS",

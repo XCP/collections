@@ -10,10 +10,22 @@
       ]
     },
     {
-      "asset": "BARBIFIED.JAMESBLUNT"
+      "asset": "BARBIFIED.JAMESBLUNT",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
-      "asset": "BARBIFIED.KILLARY"
+      "asset": "BARBIFIED.KILLARY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BARBIFIED.KONNIEHUQ",
@@ -43,7 +55,13 @@
       ]
     },
     {
-      "asset": "BARBIFIED.TRASHY"
+      "asset": "BARBIFIED.TRASHY",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BARBIFIED.QUEEN",
@@ -55,7 +73,13 @@
       ]
     },
     {
-      "asset": "BARBIFIED.GADDAFI"
+      "asset": "BARBIFIED.GADDAFI",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "S1MONS"
+        }
+      ]
     },
     {
       "asset": "BARBIFIED.FREDDIE",

@@ -1,5 +1,18 @@
 # Barbified
 
+<!-- collection-facts:start -->
+## Registry facts
+
+| Field | Value |
+| --- | --- |
+| Type | Canonical collection |
+| Membership | 11 assets |
+| Primary memberships | 11 |
+| Secondary or curated memberships | 0 |
+| Source | Reviewed static `assets.json` |
+| Traits | Artist: 11/11 (100%) |
+<!-- collection-facts:end -->
+
 All eleven reviewed descendants visibly carry the BARBIFIED title and related portrait-card layout. The namespace parent has no reviewed image and is excluded. Four cards also remain in Kaleidoscope. Under the open gallery’s documented policy, this specific family becomes primary and Kaleidoscope becomes secondary. Depicted people are subjects, not automatically credited artists.
 
 The complete namespace was read through next_offset null. Membership is explicit; new children require review. Existing individual artist credits are preserved; no credit is assigned solely from a shared issuer, a depicted person or collection membership.
@@ -17,3 +30,5 @@ The complete namespace was read through next_offset null. Membership is explicit
 - [BARBIFIED.GADDAFI](https://api.xcp.io/v2/assets/A6999659935513139388) — [artwork](https://cdn.xcp.io/img/full/A6999659935513139388)
 - [BARBIFIED.FREDDIE](https://api.xcp.io/v2/assets/A18350334194356439474) — [artwork](https://cdn.xcp.io/img/full/A18350334194356439474)
 - [BARBIFIED.EUBANK](https://api.xcp.io/v2/assets/A13861450273766484819) — [artwork](https://cdn.xcp.io/img/full/A13861450273766484819)
+
+Remaining works are credited to S1MONS, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.

@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 2 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 3/4 (75%) |
+| Traits | Artist: 4/4 (100%)<br>Based on: 1/4 (25%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -20,3 +20,5 @@ The two illustrated subassets develop the parent meditation composition in black
 Reviewed 2026-10-10 against exact xcpio-core identities, current memberships and credits, reachable metadata and all member CDN previews. The complete issuer contact-sheet inventories covered 71 entries from issuers 152316, 281528 and 308877, plus the separately queried FAKEVIBES parent. Membership rests on the parent/subasset relation and directly related compositions, not issuer alone.
 
 Existing directory primary homes and artist credits are preserved. Counterparty fallback is removed; Kaleidoscope remains secondary where applicable. Membership does not imply acceptance into the parent artwork's directory. Full animation sequences remain unreviewed.
+
+Remaining works are credited to kr, confirmed by the marketplace curator on 2026-10-12; they share the issuing address of the works already credited from their own metadata.
