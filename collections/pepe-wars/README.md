@@ -25,3 +25,7 @@ Membership is an explicit reviewed list. Existing specific primary collections r
 ## Project year
 
 **2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEWARSONE](https://api.xcp.io/v2/assets/PEPEWARSONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Numbered works share the printed PEPEWARS project title and logo. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

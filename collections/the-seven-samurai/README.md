@@ -24,3 +24,7 @@ No project-specific homepage was established, so no website is invented. The exp
 ## Project year
 
 **2025** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [SAMURAIFIVE](https://api.xcp.io/v2/assets/SAMURAIFIVE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Set** — Exact metadata names the seven-work collection and a reward for collecting all seven, establishing an intended set. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

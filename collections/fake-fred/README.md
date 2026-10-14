@@ -20,3 +20,7 @@
 ## Project year
 
 **2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [FAKEPARTY.FAKEMEMORIES1](https://api.xcp.io/v2/assets/FAKEPARTY.FAKEMEMORIES1/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Exact-asset metadata explicitly identifies the Fake Fred series and recurring character. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

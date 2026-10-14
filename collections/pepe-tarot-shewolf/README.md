@@ -22,3 +22,7 @@ Existing Fake Rares primary memberships and all artist credits are preserved. Th
 ## Project year
 
 **2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [PEPETAROTSIX](https://api.xcp.io/v2/assets/PEPETAROTSIX/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Set** — Printed arcana and related compositions establish a tarot set, with the documented companion retained; completeness of a full tarot deck is not implied. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

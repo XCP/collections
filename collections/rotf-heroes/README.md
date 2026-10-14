@@ -18,3 +18,7 @@ The [artist’s gallery](https://riseofthefrogs.com/nftartgallery) identifies th
 ## Project year
 
 **2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PATRIOTTRUMP](https://api.xcp.io/v2/assets/PATRIOTTRUMP/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — The artist gallery explicitly calls these five works the 2019 Original ROTF Heroes Series. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

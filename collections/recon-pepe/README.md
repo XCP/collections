@@ -24,3 +24,7 @@ Existing directory primary homes and artist credits are preserved. Counterparty 
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RECONPEPE](https://api.xcp.io/v2/assets/RECONPEPE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Eight numbered mechanical Pepe works form the evidenced RECON sequence through VIII. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

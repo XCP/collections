@@ -29,3 +29,7 @@ Reviewed 2026-10-11 using exact xcpio-core asset records, metadata where availab
 ## Project year
 
 **2026** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TRUDPEPEFOUR](https://api.xcp.io/v2/assets/TRUDPEPEFOUR/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Exact-asset metadata explicitly describes a numbered Pepe series; this does not claim all 99 planned works are present. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

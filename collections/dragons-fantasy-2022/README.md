@@ -53,3 +53,7 @@ Reviewed and approved on 2026-10-09. All 30 entries have stored CDN media. This 
 | [WARDRAGON](https://tokenscan.io/asset/WARDRAGON) | https://easyasset.art/j/9kork9/WARDR.json |
 | [WIZARDRAGON](https://tokenscan.io/asset/WIZARDRAGON) | https://easyasset.art/j/g64ibo/WIZAR.json |
 | [WOWTROLL](https://tokenscan.io/asset/WOWTROLL) | https://easyasset.art/j/x4mthb/WOWTR.json |
+
+## Editorial classification
+
+**Curation** — This is explicitly an editorial fantasy-art grouping reconstructed from related imagery and issuance context, without a confirmed original project title. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

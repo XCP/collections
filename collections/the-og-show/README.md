@@ -26,3 +26,7 @@ The UGLYLINES and THEOGSHOW parent assets show CDN placeholders and are excluded
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [THEOGSHOW.DEC2022RICHORREKT](https://api.xcp.io/v2/assets/A10257155009488038190/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Dated event posters explicitly carry The OG Show branding; this is a poster series, not a single artwork. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

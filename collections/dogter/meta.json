@@ -3,5 +3,6 @@
   "kind": "canonical",
   "description": "A three-part numbered Dogter meme sequence.",
   "art_frame": "square",
-  "founded": 2019
+  "founded": 2019,
+  "editorial_type": "set"
 }

@@ -24,3 +24,7 @@ The two parents keep their existing Drooling Ape Bus Club primary memberships an
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [DABCKING.HEARTQUEEN](https://api.xcp.io/v2/assets/A11032271318205606082/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Set** — The eighteen coordinated suit-and-rank artworks form a playing-card set. The registry title is descriptive; this is not a complete 52-card deck or admission of its children to DABC. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.
