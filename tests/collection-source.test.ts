@@ -653,3 +653,13 @@ test('Based on defers absent adapter targets but still rejects invalid and self 
   assert.match(basedOnIssues(entries('invalid'), {requireRegistered:false})[0], /must name/);
   assert.match(basedOnIssues(entries('BOOTLEGPEPE'), {requireRegistered:false})[0], /itself/);
 });
+
+test("project date precision preserves months and rejects invented or conflicting dates", () => {
+  for (const founded_date of ["2016-09", "2016-02-29", "2016-12-27"]) {
+    assert.equal(normalizeCollectionMeta({ ...baseMeta, founded: 2016, founded_date }, "example-set").founded_date, founded_date);
+  }
+  for (const founded_date of ["2015-09", "2016-13", "2016-02-30", "2016-04-31", "2016-1", "2016-01-01T00:00:00Z", null]) {
+    assert.throws(() => normalizeCollectionMeta({ ...baseMeta, founded: 2016, founded_date }, "example-set"));
+  }
+  assert.throws(() => normalizeCollectionMeta({ ...baseMeta, founded_date: "2016-09" }, "example-set"));
+});

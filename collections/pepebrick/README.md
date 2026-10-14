@@ -22,3 +22,7 @@ Existing directory primary homes and artist credits are preserved; companion mem
 ## Project year
 
 **2016** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEBRICK](https://api.xcp.io/v2/assets/PEPEBRICK/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Project date precision
+
+December 27, 2016: reviewed first-use estimate from the first valid positive PEPEBRICK issuance (101 units), which already links res.indiesquare.me/json/PEPEBRICK.json. [Issuance history](https://api.xcp.io/v2/assets/PEPEBRICK/issuances?limit=100). The mutable JSON reference is evidence of media use, not an immutable hash of the current artwork. Series 10/Card 16 corroborates that this follows the Rare Pepe project.

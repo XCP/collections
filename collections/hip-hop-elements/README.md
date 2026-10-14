@@ -28,3 +28,9 @@ Reviewed 2026-10-11. Existing specific primary collections and artist credits ar
 ## Project year
 
 **2016** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEONE](https://api.xcp.io/v2/assets/PEPEONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Project date precision
+
+October 2016: the [artist-consigned sale](https://scarce.city/auctions/Series-4-Hip-Hop-1) explicitly dates the creation of the four Series 4 originals. No exact day is asserted.
+
+The [davestaxcp Counterparty timeline](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.md) independently places RAREPEPE on September 9, 2016 and DJPEPE on October 13, 2016. Its dates describe specific token events, so this review retains month precision for the broader collections rather than copying those days as project launch dates.

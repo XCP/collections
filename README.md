@@ -276,3 +276,7 @@ For a collection organized around subassets, review the parent for inclusion as 
 If the parent already has an established primary collection, preserve that membership and add the parent to the subasset collection with `"primary": false`. Preserve the parent's own artist credits and traits; do not copy the children's attribution onto it. A parent without another primary home may be primary in the family after review.
 
 This is an editorial default, not automatic membership by prefix. Exclude empty namespace holders, placeholders without artwork, unrelated reused parents, and umbrella assets that do not belong to the specific series. Record the evidence or exception in the collection README. A child's acceptance into an official directory does not establish acceptance of its parent, and vice versa.
+
+### Optional project date precision
+
+Alongside the required `founded` year, `founded_date` may supply `YYYY-MM` or `YYYY-MM-DD`. It must be a valid calendar date matching the year. Use only the precision supported by cited evidence in the collection README; a reviewed first-use estimate must be described as such. Asset registration alone is not launch evidence. Do not invent January 1, a day within a known month, or a timestamp to fill missing precision. Consumers may use this field for within-year ordering while retaining year-only labels. Collections without it retain their documented year; their relative position within that year remains unspecified.

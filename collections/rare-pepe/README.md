@@ -25,3 +25,9 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+## Project date precision
+
+September 2016: the first Counterparty Rare Pepe cards, documented in [A Brief History of Rare Pepe](https://www.rightclicksave.com/article/a-brief-history-of-rare-pepe). Month precision is intentional.
+
+The [davestaxcp Counterparty timeline](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.md) independently places RAREPEPE on September 9, 2016 and DJPEPE on October 13, 2016. Its dates describe specific token events, so this review retains month precision for the broader collections rather than copying those days as project launch dates.

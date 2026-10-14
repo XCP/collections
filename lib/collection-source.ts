@@ -11,7 +11,7 @@ const SUBASSET_LONGNAME = /^(?:[B-Z][A-Z]{3,11}|A\d{17,20})\.[A-Za-z0-9_@!-]+(?:
 const PROVIDER_NAME = /^[a-z0-9]+(?:[-_][a-z0-9]+)*$/;
 const KINDS = new Set(["canonical", "curated"]);
 const ART_FRAMES = new Set(["card", "square", "landscape"]);
-const META_KEYS = new Set(["name", "kind", "description", "art_frame", "founded", "links", "variation_of"]);
+const META_KEYS = new Set(["name", "kind", "description", "art_frame", "founded", "founded_date", "links", "variation_of"]);
 /** Counterparty launched in 2014; nothing was founded on it earlier. */
 const MIN_FOUNDED_YEAR = 2014;
 const MAX_FOUNDED_YEAR = 2100;
@@ -269,6 +269,15 @@ export function normalizeCollectionMeta(value, slug) {
     art_frame: meta.art_frame,
   };
   if (meta.founded !== undefined) normalized.founded = foundedYear(meta.founded, `${slug}.founded`);
+  if (meta.founded_date !== undefined) {
+    const date = meta.founded_date;
+    if (typeof date !== "string" || !/^\d{4}-(0[1-9]|1[0-2])(?:-(0[1-9]|[12]\d|3[01]))?$/.test(date)
+      || Number(date.slice(0, 4)) !== normalized.founded
+      || (date.length === 10 && new Date(date + "T00:00:00Z").toISOString().slice(0, 10) !== date)) {
+      fail(slug + ".founded_date", "must be a valid YYYY-MM or YYYY-MM-DD matching founded");
+    }
+    normalized.founded_date = date;
+  }
   if (meta.links !== undefined) normalized.links = normalizeLinks(meta.links, `${slug}.links`);
   if (meta.variation_of !== undefined) {
     if (meta.kind !== "canonical") fail(`${slug}.variation_of`, 'requires kind "canonical"');
