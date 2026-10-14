@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of BTCBANKNOTE |
 | Membership | 4 assets |
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
@@ -24,3 +24,9 @@ Remaining works are credited to Gus Grillasca, confirmed by the marketplace cura
 ## Project year
 
 **2019** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BTCBANKNOTE.SUBASTA](https://api.xcp.io/v2/assets/A18262355292618926002/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Duplicate consolidation, 2026-10-13
+
+The former btcbanknote entry contained exactly the same 4 assets. Its variation classification and evidence now live here; all existing primary homes and artist credits are retained.
+
+Reviewed 2026-10-13 by comparing CDN card art for BTCBANKNOTE against its BTCBANKNOTE.* subassets on side-by-side contact sheets. Included: BTCBANKNOTE.SUBASTA, BTCBANKNOTE.BITCOIN2019SF, BTCBANKNOTE.RAREAF2 (editions of the same banknote). Subassets showing distinct works are left out. Existing traits are preserved.

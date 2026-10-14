@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of CLOWNTECH |
 | Membership | 2 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
@@ -24,3 +24,9 @@ Their current descriptions are empty following later updates; that does not eras
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CLOWNTECH.rare](https://api.xcp.io/v2/assets/A5411517270656575571/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Duplicate consolidation, 2026-10-13
+
+The former clowntech entry contained exactly the same 2 assets. Its variation classification and evidence now live here; all existing primary homes and artist credits are retained.
+
+Reviewed 2026-10-13 by comparing CDN card art for CLOWNTECH against its CLOWNTECH.* subassets on side-by-side contact sheets. Included: CLOWNTECH.rare (duplicate edition). Subassets showing distinct works are left out. Existing traits are preserved.

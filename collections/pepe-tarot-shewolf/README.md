@@ -1,4 +1,4 @@
-# Pepe Tarot (SHEWOLF)
+# SHEWOLF’s Pepe Tarot
 
 <!-- collection-facts:start -->
 ## Registry facts

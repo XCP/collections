@@ -1,0 +1,199 @@
+{
+  "assets": [
+    {
+      "asset": "PACBANKSTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Banks"
+        }
+      ]
+    },
+    {
+      "asset": "PBNKFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Banks"
+        }
+      ]
+    },
+    {
+      "asset": "PBNKONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Banks"
+        }
+      ]
+    },
+    {
+      "asset": "PBNKSIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Banks"
+        }
+      ]
+    },
+    {
+      "asset": "PBNKTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Banks"
+        }
+      ]
+    },
+    {
+      "asset": "PACDARKTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Dark Markets"
+        }
+      ]
+    },
+    {
+      "asset": "PDRKFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Dark Markets"
+        }
+      ]
+    },
+    {
+      "asset": "PDRKFOUR",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Dark Markets"
+        }
+      ]
+    },
+    {
+      "asset": "PDRKONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Dark Markets"
+        }
+      ]
+    },
+    {
+      "asset": "PDRKTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Dark Markets"
+        }
+      ]
+    },
+    {
+      "asset": "PACFIATTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Fiat Currencies"
+        }
+      ]
+    },
+    {
+      "asset": "PCURFIVE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Fiat Currencies"
+        }
+      ]
+    },
+    {
+      "asset": "PCURONE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Fiat Currencies"
+        }
+      ]
+    },
+    {
+      "asset": "PCURSIX",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Fiat Currencies"
+        }
+      ]
+    },
+    {
+      "asset": "PCURTWO",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Crypsi"
+        },
+        {
+          "trait_type": "Theme",
+          "value": "Fiat Currencies"
+        }
+      ]
+    }
+  ]
+}

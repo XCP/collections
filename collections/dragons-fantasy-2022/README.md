@@ -1,4 +1,4 @@
-# Dragons & Fantasy (2022)
+# Dragons & Fantasy
 
 <!-- collection-facts:start -->
 ## Registry facts
