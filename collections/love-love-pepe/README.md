@@ -21,4 +21,5 @@ All member previews reviewed and exact token identities verified. These assets l
 
 ## Editorial classification
 
-**Set** — The creator sales describe a four-part felt set and identify each matching token. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.
+Presented as a standalone collection, without a Set badge. Coordinated artwork
+alone does not establish that this is a subset of a larger collection.
