@@ -1,4 +1,4 @@
-# Psychedelic Cards (Cam)
+# Psychedelic Cards
 
 <!-- collection-facts:start -->
 ## Registry facts

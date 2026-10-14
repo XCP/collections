@@ -1,6 +1,10 @@
 {
   "assets": [
-    { "asset": "CLOWNTECH" },
-    { "asset": "CLOWNTECH.rare" }
+    {
+      "asset": "CLOWNTECH"
+    },
+    {
+      "asset": "CLOWNTECH.rare"
+    }
   ]
 }

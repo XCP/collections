@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 1,115 |
-| Canonical collections | 1,106 |
+| Collections | 1,108 |
+| Canonical collections | 1,099 |
 | Curated views | 9 |
 | Explicit unique assets | 64,569 |
-| Explicit collection memberships | 66,144 |
+| Explicit collection memberships | 66,129 |
 | Primary memberships | 64,569 |
-| Secondary or curated memberships | 1,575 |
-| Memberships with traits | 36,173 |
+| Secondary or curated memberships | 1,560 |
+| Memberships with traits | 36,160 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 1,111 |
+| Reviewed static `assets.json` | 1,104 |
 | Collection or computed adapters | 3 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -24,7 +24,7 @@
 
 Explicit membership counts exclude collections resolved later from chain facts, including Bitcoin Stamps and Pre-Ethereum.
 
-Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Based on, Car, Card, Catalog, Chapter, City, Colour, Component, Date, Edition, Element, Emoji, Episode, Eyes, Face, HP, Head, Health, ID, Illustrator, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Source artwork, Speed, Story, Tier, Title, Type, Variant, Work, Year.
+Trait types: ATK, Affiliation, Art year, Artist, Attack, Background, Based on, Car, Card, Catalog, Chapter, City, Colour, Component, Date, Design, Edition, Element, Emoji, Episode, Eyes, Face, HP, Head, Health, ID, Illustrator, Kaleidoscope ID, Month, Mouth, Name, Number, Pioneer, Rarity, Region, Role, SPD, Season, Series, Source artwork, Speed, Story, Theme, Tier, Title, Type, Variant, Work, Year.
 
 Available aggregators: [orbital](aggregators/orbital/), [pepe-wtf](aggregators/pepe-wtf/), [tokenscan](aggregators/tokenscan/).
 <!-- registry-facts:end -->

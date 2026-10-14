@@ -1,4 +1,4 @@
-# ClayPepe (Mekabu)
+# Mekabu’s ClayPepe
 
 <!-- collection-facts:start -->
 ## Registry facts

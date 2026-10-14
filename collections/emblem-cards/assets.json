@@ -6,6 +6,14 @@
         {
           "trait_type": "Artist",
           "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
         }
       ]
     },
@@ -15,6 +23,14 @@
         {
           "trait_type": "Artist",
           "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
         }
       ]
     },
@@ -24,6 +40,14 @@
         {
           "trait_type": "Artist",
           "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
         }
       ]
     },
@@ -33,6 +57,82 @@
         {
           "trait_type": "Artist",
           "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Logo"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTCOMMON",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Vault Test"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTEPIC",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Vault Test"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTLEGEND",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Vault Test"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        }
+      ]
+    },
+    {
+      "asset": "EVTESTRARE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Shannon Code"
+        },
+        {
+          "trait_type": "Design",
+          "value": "Vault Test"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
         }
       ]
     }

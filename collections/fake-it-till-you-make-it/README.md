@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Canonical collection |
+| Type | Variations of FAKEITMAKEIT |
 | Membership | 4 assets |
 | Primary memberships | 4 |
 | Secondary or curated memberships | 0 |
@@ -22,3 +22,9 @@ FAKEKISS retains its Fake Commons primary membership and joins its artwork famil
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FAKEITMAKEIT.fakeit](https://api.xcp.io/v2/assets/FAKEITMAKEIT.fakeit/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Duplicate consolidation, 2026-10-13
+
+The former fakeitmakeit entry contained exactly the same 4 assets. Its variation classification and evidence now live here; all existing primary homes and artist credits are retained.
+
+Reviewed 2026-10-13 by comparing CDN card art for FAKEITMAKEIT against its FAKEITMAKEIT.* subassets on side-by-side contact sheets. Included: FAKEITMAKEIT.fakeit, FAKEITMAKEIT.makeit, FAKEITMAKEIT.fakeitmakeit (still frames of the animated card). Subassets showing distinct works are left out. Existing traits are preserved.
