@@ -34,3 +34,7 @@ Reviewed 2026-10-11. Existing specific primary collections and artist credits ar
 October 2016: the [artist-consigned sale](https://scarce.city/auctions/Series-4-Hip-Hop-1) explicitly dates the creation of the four Series 4 originals. No exact day is asserted.
 
 The [davestaxcp Counterparty timeline](https://github.com/davestaxcp/CounterpartyTimeline2023/blob/main/TokenTimelineEntries.md) independently places RAREPEPE on September 9, 2016 and DJPEPE on October 13, 2016. Its dates describe specific token events, so this review retains month precision for the broader collections rather than copying those days as project launch dates.
+
+## Editorial classification
+
+Public label: **set**. This describes the documented grouping above, independently of primary membership and registry kind. It does not grant membership in any parent directory.

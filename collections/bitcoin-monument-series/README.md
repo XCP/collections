@@ -24,3 +24,7 @@ Existing directory primary homes and artist credits are preserved. Counterparty 
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [ONECUBIT](https://api.xcp.io/v2/assets/ONECUBIT/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+Public label: **series**. This describes the documented grouping above, independently of primary membership and registry kind. It does not grant membership in any parent directory.

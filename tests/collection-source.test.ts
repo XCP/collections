@@ -663,3 +663,11 @@ test("project date precision preserves months and rejects invented or conflictin
   }
   assert.throws(() => normalizeCollectionMeta({ ...baseMeta, founded_date: "2016-09" }, "example-set"));
 });
+
+test("editorial types preserve meaning independently of membership kind", () => {
+  for (const kind of ["canonical", "curated"]) for (const editorial_type of ["set", "series", "curation"]) {
+    assert.equal(normalizeCollectionMeta({ ...baseMeta, kind, editorial_type }, "example-set").editorial_type, editorial_type);
+  }
+  for (const editorial_type of ["subset", "", null]) assert.throws(() => normalizeCollectionMeta({ ...baseMeta, editorial_type }, "example-set"));
+  assert.throws(() => normalizeCollectionMeta({ ...baseMeta, editorial_type: "set", variation_of: "BOXSET" }, "example-set"));
+});
