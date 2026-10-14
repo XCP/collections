@@ -26,3 +26,7 @@ Both issuing-address inventories are complete and together contain exactly these
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPESWABB](https://api.xcp.io/v2/assets/PEPESWABB/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Printed Great Reset Master titles and Series A/B labels establish the grouping. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

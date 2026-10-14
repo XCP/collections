@@ -22,3 +22,7 @@ Existing SaSHA-256 credits are preserved; no new authorship is inferred from iss
 ## Project year
 
 **2019** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11135481808042737436](https://api.xcp.io/v2/assets/A11135481808042737436/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Set** — Descriptions explicitly number the three corresponding narrative panels 1/3, 2/3 and 3/3. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

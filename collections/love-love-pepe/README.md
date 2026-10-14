@@ -18,3 +18,7 @@ The HODLTIGHT physical listing names Love ラブ PEPE and describes one work in 
 Sources: https://scarce.city/auctions/hodltight-physical ; https://scarce.city/sales/HODLTIGHT ; https://scarce.city/sales/fulllovepepe-token-sale ; https://scarce.city/sales/friends-happy-token ; https://scarce.city/sales/lovedreamy-token-sale.
 
 All member previews reviewed and exact token identities verified. These assets leave Counterparty and become primary here. Historic physical-sale terms do not establish current redemption rights.
+
+## Editorial classification
+
+**Set** — The creator sales describe a four-part felt set and identify each matching token. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

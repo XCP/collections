@@ -20,3 +20,7 @@ The seven numbered children each show one geometric piece; the parent shows the 
 ## Project year
 
 **2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [TANGRAMSTAMP.seven](https://api.xcp.io/v2/assets/A7179580002868496032/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Set** — Seven numbered geometric pieces form the assembled design pictured by the parent. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.

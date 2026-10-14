@@ -22,3 +22,7 @@ The explicit list has 6 works. Existing Luis Simo credits are retained. Existing
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CHROMIEACID](https://api.xcp.io/v2/assets/CHROMIEACID/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Editorial classification
+
+**Series** — Six works carry the printed Chromie Card title; membership is broader than a name-prefix match. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.
