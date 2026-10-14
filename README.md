@@ -280,3 +280,7 @@ This is an editorial default, not automatic membership by prefix. Exclude empty 
 ### Optional project date precision
 
 Alongside the required `founded` year, `founded_date` may supply `YYYY-MM` or `YYYY-MM-DD`. It must be a valid calendar date matching the year. Use only the precision supported by cited evidence in the collection README; a reviewed first-use estimate must be described as such. Asset registration alone is not launch evidence. Do not invent January 1, a day within a known month, or a timestamp to fill missing precision. Consumers may use this field for within-year ordering while retaining year-only labels. Collections without it retain their documented year; their relative position within that year remains unspecified.
+
+### Editorial labels
+
+Optional `editorial_type` describes the intent of a grouping: `set` for works intended together, `series` for a named artistic sequence or body of work, and `curation` for a retrospective selection. Follow creator/catalogue evidence and document it in the collection README. Omit for ordinary collections or uncertain cases. This is independent of `kind`, primary membership, and collection overlap: never derive it from those fields. `variation_of` already identifies variations of one work and cannot be combined with `editorial_type`. A shared subasset namespace alone does not establish a series. Labels do not imply acceptance into a parent directory.

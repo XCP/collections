@@ -70,6 +70,14 @@
       "type": "string",
       "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])(?:-(0[1-9]|[12][0-9]|3[01]))?$",
       "description": "Optional evidenced project date, YYYY-MM or YYYY-MM-DD, matching founded. Preserve source precision; never manufacture a day or copy asset registration automatically. Document evidence and estimates in README."
+    },
+    "editorial_type": {
+      "enum": [
+        "set",
+        "series",
+        "curation"
+      ],
+      "description": "Optional public editorial classification, independent of kind and primary membership. Set: works intended together. Series: named artistic sequence/body. Curation: retrospective selection. Document evidence in README. Omit for ordinary collections; variation_of already identifies variations."
     }
   }
 }

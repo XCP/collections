@@ -53,3 +53,7 @@ The displayed 2016 year is a reviewed first-use estimate for the earliest cards,
 | VPLUSONE | 2017-09-08 | [Issuances](https://api.xcp.io/v2/assets/VPLUSONE/issuances?limit=100) · [Media](https://cdn.xcp.io/img/full/VPLUSONE) |
 
 Reviewed 2026-10-13 using xcpio-core issuance histories and 286 visually screened candidates. This is a selected set, not an exhaustive inventory of early IndieSquare cards.
+
+## Editorial classification
+
+Public label: **curation**. This describes the documented grouping above, independently of primary membership and registry kind. It does not grant membership in any parent directory.
