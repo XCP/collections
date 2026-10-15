@@ -167,7 +167,13 @@
       ]
     },
     {
-      "asset": "GREYNAKAMOTO"
+      "asset": "GREYNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYPEPEPSA"
@@ -359,6 +365,10 @@
         {
           "trait_type": "Artist",
           "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPESOUP"
         }
       ]
     },

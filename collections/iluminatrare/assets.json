@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "ILUMINATRARE.120x80"
+      "asset": "ILUMINATRARE.120x80",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ILUMINATRARE"
+        }
+      ]
     }
   ]
 }

@@ -4,7 +4,13 @@
       "asset": "STPLNAKAMOTO"
     },
     {
-      "asset": "STPLNAKAMOTO.STPLNAKARNBW"
+      "asset": "STPLNAKAMOTO.STPLNAKARNBW",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "STPLNAKAMOTO"
+        }
+      ]
     }
   ]
 }
