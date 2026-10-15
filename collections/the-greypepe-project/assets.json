@@ -177,7 +177,13 @@
       ]
     },
     {
-      "asset": "GREYSATOSHI"
+      "asset": "GREYSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "GREYSAVIOR",

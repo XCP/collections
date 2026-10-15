@@ -6829,6 +6829,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ZEROWINGPEPE"
         }
       ]
     },
@@ -7691,6 +7695,10 @@
         {
           "trait_type": "Artist",
           "value": "Jona Carbi"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -8315,6 +8323,10 @@
         {
           "trait_type": "Artist",
           "value": "KeKLs"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -15475,6 +15487,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BACHELORPEPE"
         }
       ]
     },
@@ -16638,6 +16654,10 @@
         {
           "trait_type": "Artist",
           "value": "Cornholio the Great"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -22026,6 +22046,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -22035,6 +22059,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -22124,6 +22152,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -33908,7 +33940,13 @@
       "asset": "DANKFRACTAL"
     },
     {
-      "asset": "DANKGOGO"
+      "asset": "DANKGOGO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
+        }
+      ]
     },
     {
       "asset": "DANKINVITE"

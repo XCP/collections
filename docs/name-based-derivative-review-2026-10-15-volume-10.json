@@ -1,0 +1,1010 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "SATOSHICARD",
+      "candidates": [
+        "SATOSHISWORD.DORIANSBLADE2",
+        "GHOSTSATOSHI",
+        "NOSATOSHIBUT",
+        "GREYSATOSHI",
+        "SATOSHIJAK",
+        "THUGLIFENOTE.NOTSATOSHI",
+        "THUGLIFENOTE.NOTSATOSHIREV",
+        "UTXHOESART.SARAHSATOSHI",
+        "SATOSHIWHO",
+        "ISITSATOSHI",
+        "XSATOSHIX"
+      ]
+    },
+    {
+      "original": "DANKPEPE",
+      "candidates": [
+        "CHAINSAWDANK",
+        "COOLDANK",
+        "DANKAF",
+        "DANKANDREAS",
+        "DANKBIT",
+        "DANKBRIBE",
+        "DANKBRRR",
+        "DANKBRRRR",
+        "DANKBUNYIP",
+        "DANKCAMO",
+        "DANKCASHGAN",
+        "DANKCASTRO",
+        "DANKDOLLAR",
+        "DANKESTLLC",
+        "DANKFAMGAN",
+        "DANKFRACTAL",
+        "DANKGOGO",
+        "DANKINVITE",
+        "DANKKANYE"
+      ]
+    },
+    {
+      "original": "TRUMPRARE",
+      "candidates": [
+        "TRUMPMOTO",
+        "DONTBUYTRUMP",
+        "SMUGTRUMP",
+        "TRUMPFUN",
+        "MEMETICTRUMP",
+        "TRUMPSFINGER",
+        "HODLTRUMPS",
+        "HODLTRUMPS.ARTISTE",
+        "HODLTRUMPS.BASKETBALL",
+        "HODLTRUMPS.BATHTIME",
+        "HODLTRUMPS.BRONZEMEDAL",
+        "HODLTRUMPS.BROOM",
+        "HODLTRUMPS.BURGER",
+        "HODLTRUMPS.CANDYCANE",
+        "HODLTRUMPS.CHATROOM",
+        "HODLTRUMPS.CLOUDNINE",
+        "HODLTRUMPS.CLYDE",
+        "HODLTRUMPS.COLISEUM",
+        "HODLTRUMPS.COLLECTOR"
+      ]
+    },
+    {
+      "original": "MODERNPEPE",
+      "candidates": [
+        "PEPEMODERN",
+        "MODERNCUBE",
+        "MODERNSMOL",
+        "MODERNSWAN",
+        "NAKAMODERN",
+        "MODERNAPES",
+        "MODERNMIKA",
+        "MODERNDORIAN",
+        "MODERNMODERN",
+        "MODERNLXIX",
+        "MODERNSPONGE",
+        "MODERNBLACK",
+        "MODERNGRAINS",
+        "MODERNFEEL",
+        "MODERNPRINT"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "DJPEPEBADGER.NAKABABA-PEGZ-EDITION",
+        "DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER",
+        "DJPEPEBADGER.RAREBADGER",
+        "DJPEPEBADGER.THE-RED-SMOWL-BADGER",
+        "DJPEPE.REDACTED",
+        "DJPEPE.GODCANDLE_MIX_SUMMER_2023",
+        "DJPEPE.INSCRIPTION",
+        "DJPEPE.XMAS2022",
+        "DJPEPE.MEXICO",
+        "DJPEPE.TWENTYFIRSTANNIVERSARY",
+        "DJPEPE.ANIMATED",
+        "DJPEPE.INTERVIEW",
+        "DJPEPE.HESTHEDJ",
+        "DJPEPE.ORANGEPEPE_2",
+        "DJPEPE.5_YEAR_BDAY_PARTY",
+        "DJPEPE.ORANGEPEPE"
+      ]
+    },
+    {
+      "original": "PEPELEPEW",
+      "candidates": []
+    },
+    {
+      "original": "SALVADORPEPE",
+      "candidates": [
+        "FAKESALVADOR",
+        "MONAS.SALVADOR",
+        "SOGSALVADOR"
+      ]
+    },
+    {
+      "original": "BLAINEPEPE",
+      "candidates": [
+        "BLUBLAINE",
+        "WOJAKBLAINE"
+      ]
+    },
+    {
+      "original": "ZEROWINGPEPE",
+      "candidates": [
+        "ZEROWINGFAKA"
+      ]
+    },
+    {
+      "original": "BACHELORPEPE",
+      "candidates": [
+        "BACHELORDI"
+      ]
+    },
+    {
+      "original": "PEPEWEST",
+      "candidates": [
+        "WILDWESTPEPE",
+        "BANKWEST"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "SATOSHICARD",
+      "asset": "SATOSHISWORD.DORIANSBLADE2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "SATOSHILITE",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "GHOSTSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "NOSATOSHIBUT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "GREYSATOSHI",
+      "status": "accepted",
+      "attributed_original": "SATOSHICARD",
+      "reason": "Original hood, hands and luminous cube composition retained with alien face (GREYSATOSHI) or Wojak redraw (SATOSHIJAK)."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "SATOSHIJAK",
+      "status": "accepted",
+      "attributed_original": "SATOSHICARD",
+      "reason": "Original hood, hands and luminous cube composition retained with alien face (GREYSATOSHI) or Wojak redraw (SATOSHIJAK)."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "THUGLIFENOTE.NOTSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "THUGLIFENOTE.NOTSATOSHIREV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "UTXHOESART.SARAHSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "SATOSHIWHO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "ISITSATOSHI",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "WAAK.SATOSHI",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "XXCER.XSATOSHIX",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "XSATOSHIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "CHAINSAWDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "COOLDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKAF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKANDREAS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKBIT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKBRIBE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKBRRR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKBRRRR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKBUNYIP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKCAMO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKCASHGAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKCASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKDOLLAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKESTLLC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFAMGAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFRACTAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKGOGO",
+      "status": "accepted",
+      "attributed_original": "DANKPEPE",
+      "reason": "Goat replacement retains pixel sunglasses, cannabis backdrop, joint, same yellow lower panel, dankest caption and rarity67 adaptation."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKINVITE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKKANYE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPMOTO",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "DONTBUYTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "SMUGTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPFUN",
+      "status": "accepted",
+      "attributed_original": "TRUMPRARE",
+      "reason": "Redraws blonde Trump Pepe over blue ground and brick-wall panel, retaining four-line wall/deals caption structure and certified footer."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "MEMETICTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPSFINGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.ARTISTE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.BASKETBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.BATHTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.BRONZEMEDAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.BROOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.BURGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.CANDYCANE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.CHATROOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.CLOUDNINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.CLYDE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.COLISEUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "HODLTRUMPS.COLLECTOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "PEPEMODERN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNCUBE",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNSMOL",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNSWAN",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "NAKAMODERN",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNAPES",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNTEMPLT",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "PREMODERN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNMIKA",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNORANGE",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNDORIAN",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNMODERN",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNLXIX",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNSPONGE",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNBLACK",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNGRAINS",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNNOJAK",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNFEEL",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "MODERNPEPE",
+      "asset": "MODERNPRINT",
+      "status": "accepted",
+      "attributed_original": "MODERNPEPE",
+      "reason": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPEBADGER.NAKABABA-PEGZ-EDITION",
+      "status": "accepted",
+      "attributed_original": "DJPEPEBADGER.NAKABABA",
+      "reason": "Reuses the specific badger head, mover-of-Bitcoin caption and rarity99.420 of NAKABABA, adding a cap and colorful palette."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPEBADGER.RAREBADGER",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPEBADGER.THE-RED-SMOWL-BADGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.REDACTED",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.COLDPLAY_CONCERT",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.GODCANDLE_MIX_SUMMER_2023",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.INSCRIPTION",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.XMAS2022",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.MEXICO",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.TWENTYFIRSTANNIVERSARY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.ANIMATED",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.INTERVIEW",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.HESTHEDJ",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.ORANGEPEPE_2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.PUT_SUM_RESPEKT_ON_MY_NAME",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.434102",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.5_YEAR_BDAY_PARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DJPEPE",
+      "asset": "DJPEPE.ORANGEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELEPEW",
+      "asset": "LEPEWPEPE",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "SALVADORPEPE",
+      "asset": "FAKESALVADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SALVADORPEPE",
+      "asset": "MONAS.SALVADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SALVADORPEPE",
+      "asset": "SOGSALVADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BLAINEPEPE",
+      "asset": "BLUBLAINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BLAINEPEPE",
+      "asset": "WOJAKBLAINE",
+      "status": "accepted",
+      "attributed_original": "BLAINEPEPE",
+      "reason": "Recreates third eye, Pepe emerging from mouth and exact I GOT BILLS I GOTTA PAY lettering with Wojak face."
+    },
+    {
+      "original": "ZEROWINGPEPE",
+      "asset": "ZEROWINGFAKA",
+      "status": "accepted",
+      "attributed_original": "ZEROWINGPEPE",
+      "reason": "Repaints the distinctive green face, high black hair and flowing purple cloak from the card."
+    },
+    {
+      "original": "BACHELORPEPE",
+      "asset": "BACHELORDI",
+      "status": "accepted",
+      "attributed_original": "BACHELORPEPE",
+      "reason": "Recreates mortarboard portrait, university building, cursive title and two-panel graduation card with an Ordinal character."
+    },
+    {
+      "original": "PEPEWEST",
+      "asset": "WILDWESTPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWEST",
+      "asset": "BANKWEST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "GREYSATOSHI",
+      "original": "SATOSHICARD",
+      "collection": "the-greypepe-project",
+      "image": "https://cdn.xcp.io/img/full/GREYSATOSHI?image=1",
+      "evidence": "Original hood, hands and luminous cube composition retained with alien face (GREYSATOSHI) or Wojak redraw (SATOSHIJAK)."
+    },
+    {
+      "asset": "SATOSHIJAK",
+      "original": "SATOSHICARD",
+      "collection": "the-wojak-way",
+      "image": "https://cdn.xcp.io/img/full/SATOSHIJAK?image=1",
+      "evidence": "Original hood, hands and luminous cube composition retained with alien face (GREYSATOSHI) or Wojak redraw (SATOSHIJAK)."
+    },
+    {
+      "asset": "ISITSATOSHI",
+      "original": "RAREPEPE",
+      "collection": "vizique-nakamoto",
+      "image": "https://cdn.xcp.io/img/full/ISITSATOSHI?image=1",
+      "evidence": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "asset": "DANKGOGO",
+      "original": "DANKPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DANKGOGO?image=1",
+      "evidence": "Goat replacement retains pixel sunglasses, cannabis backdrop, joint, same yellow lower panel, dankest caption and rarity67 adaptation."
+    },
+    {
+      "asset": "TRUMPMOTO",
+      "original": "RAREPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/TRUMPMOTO?image=1",
+      "evidence": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "asset": "TRUMPFUN",
+      "original": "TRUMPRARE",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/TRUMPFUN?image=1",
+      "evidence": "Redraws blonde Trump Pepe over blue ground and brick-wall panel, retaining four-line wall/deals caption structure and certified footer."
+    },
+    {
+      "asset": "MODERNCUBE",
+      "original": "MODERNPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/MODERNCUBE?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNSMOL",
+      "original": "MODERNPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/MODERNSMOL?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNSWAN",
+      "original": "MODERNPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/MODERNSWAN?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "NAKAMODERN",
+      "original": "RAREPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/NAKAMODERN?image=1",
+      "evidence": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "asset": "MODERNAPES",
+      "original": "MODERNPEPE",
+      "collection": "fake-ape-club",
+      "image": "https://cdn.xcp.io/img/full/MODERNAPES?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNMIKA",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNMIKA?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNDORIAN",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNDORIAN?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNMODERN",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNMODERN?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNLXIX",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNLXIX?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNSPONGE",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNSPONGE?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNBLACK",
+      "original": "MODERNPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MODERNBLACK?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNFEEL",
+      "original": "MODERNPEPE",
+      "collection": "modernfeel",
+      "image": "https://cdn.xcp.io/img/full/MODERNFEEL?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "MODERNPRINT",
+      "original": "MODERNPEPE",
+      "collection": "modern-print",
+      "image": "https://cdn.xcp.io/img/full/MODERNPRINT?image=1",
+      "evidence": "Preserves the distinctive unequal band widths and textured stripe arrangement through recoloring, rotation, overlay, cube mapping or framed transformation."
+    },
+    {
+      "asset": "DJPEPEBADGER.NAKABABA-PEGZ-EDITION",
+      "original": "DJPEPEBADGER.NAKABABA",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.NAKABABA-PEGZ-EDITION?image=1",
+      "evidence": "Reuses the specific badger head, mover-of-Bitcoin caption and rarity99.420 of NAKABABA, adding a cap and colorful palette."
+    },
+    {
+      "asset": "DJPEPEBADGER.RAREBADGER",
+      "original": "RAREPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.RAREBADGER?image=1",
+      "evidence": "Recreates Nakamoto portrait/card structure, matrix ground, creator caption and rarity97, with alternate face or species."
+    },
+    {
+      "asset": "DJPEPE.REDACTED",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.REDACTED?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.INSCRIPTION",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.INSCRIPTION?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.XMAS2022",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.XMAS2022?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.MEXICO",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.MEXICO?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.ANIMATED",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.ANIMATED?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.INTERVIEW",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.INTERVIEW?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "DJPEPE.HESTHEDJ",
+      "original": "DJPEPE",
+      "collection": "djpepe",
+      "image": "https://cdn.xcp.io/img/full/DJPEPE.HESTHEDJ?image=1",
+      "evidence": "Original white-capped DJ figure and turntables are reused or redrawn: redaction, direct inscription/animation, Santa beard, Mexican recoloring, interview scene or cutout collage."
+    },
+    {
+      "asset": "WOJAKBLAINE",
+      "original": "BLAINEPEPE",
+      "collection": "the-wojak-way",
+      "image": "https://cdn.xcp.io/img/full/WOJAKBLAINE?image=1",
+      "evidence": "Recreates third eye, Pepe emerging from mouth and exact I GOT BILLS I GOTTA PAY lettering with Wojak face."
+    },
+    {
+      "asset": "ZEROWINGFAKA",
+      "original": "ZEROWINGPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/ZEROWINGFAKA?image=1",
+      "evidence": "Repaints the distinctive green face, high black hair and flowing purple cloak from the card."
+    },
+    {
+      "asset": "BACHELORDI",
+      "original": "BACHELORPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/BACHELORDI?image=1",
+      "evidence": "Recreates mortarboard portrait, university building, cursive title and two-panel graduation card with an Ordinal character."
+    },
+    {
+      "asset": "MODERNGRAINS",
+      "original": "MODERNPEPE",
+      "collection": "kaleidoscope",
+      "image": "https://cdn.xcp.io/img/full/MODERNGRAINS?image=1",
+      "evidence": "Preserves green/brown/cream/orange/pink stripe sequence and unequal widths, replacing canvas texture with grainy noise."
+    }
+  ],
+  "unapplied": []
+}
