@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-15",
+  "method": "Seven first-frame original-to-many sheets viewed. Four animation sheets viewed for five animations at four spaced positions (all three WHERISMYFREN frames). Longer animations not exhaustively reviewed. Exact-source visual comparisons; shared subject/style/name alone insufficient.",
+  "reviewed": [
+    {
+      "original": "MATSURIPEPE",
+      "volume_usd": 25326.755157399097,
+      "buyers": 29,
+      "candidates": [
+        "OMATSURI"
+      ]
+    },
+    {
+      "original": "PEPEHAWKING",
+      "volume_usd": 24948.440261339816,
+      "buyers": 27,
+      "candidates": [
+        "BLUHAWKING"
+      ]
+    },
+    {
+      "original": "INDIANAPEPE",
+      "volume_usd": 24832.67020369879,
+      "buyers": 28,
+      "candidates": [
+        "INDIANAFROGS"
+      ]
+    },
+    {
+      "original": "CYBERPEP",
+      "volume_usd": 24824.691690925418,
+      "buyers": 30,
+      "candidates": [
+        "CYBERPEPEEEE",
+        "CYBERPEPEPRD"
+      ]
+    },
+    {
+      "original": "KEKISTAN",
+      "volume_usd": 24174.582016709035,
+      "buyers": 378,
+      "candidates": [
+        "KEKISTANFLAG",
+        "KEKISTANI",
+        "KEKISTANPASS"
+      ]
+    },
+    {
+      "original": "TAKOPEPE",
+      "volume_usd": 23947.88022762901,
+      "buyers": 29,
+      "candidates": [
+        "OGSAN.YUTAKOJIIS",
+        "TAKOYAKIX"
+      ]
+    },
+    {
+      "original": "ERISPEPE",
+      "volume_usd": 23529.818654231076,
+      "buyers": 24,
+      "candidates": [
+        "ELEGANTERIS",
+        "MFERISHPEPE",
+        "PENPERISE",
+        "SOGVENERIS",
+        "THEGALLERIST",
+        "WHERISMYFREN",
+        "XFCPIPERISIC"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "OMATSURI",
+      "pages": 22,
+      "sampled_frames": [
+        0,
+        7,
+        14,
+        21
+      ]
+    },
+    {
+      "asset": "CYBERPEPEPRD",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "CYBERPEPEEEE",
+      "pages": 23,
+      "sampled_frames": [
+        0,
+        7,
+        15,
+        22
+      ]
+    },
+    {
+      "asset": "KEKISTAN",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "WHERISMYFREN",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MATSURIPEPE",
+      "asset": "OMATSURI",
+      "status": "rejected",
+      "reason": "ASCII-art festival animation and Japanese text, not source kimono figure/lantern scene.",
+      "evidence_sheet": "sheets/group-MATSURIPEPE-0.png"
+    },
+    {
+      "original": "PEPEHAWKING",
+      "asset": "BLUHAWKING",
+      "status": "rejected",
+      "reason": "Blue-tinted young Hawking photo portrait, not source illustrated wheelchair Pepe in space.",
+      "evidence_sheet": "sheets/group-PEPEHAWKING-0.png"
+    },
+    {
+      "original": "INDIANAPEPE",
+      "asset": "INDIANAFROGS",
+      "status": "rejected",
+      "reason": "Different Indiana Jones drawing with map background and frog face; no source orange poster composition or whip-holding pose reused.",
+      "evidence_sheet": "sheets/group-INDIANAPEPE-0.png"
+    },
+    {
+      "original": "CYBERPEP",
+      "asset": "CYBERPEPEEEE",
+      "status": "rejected",
+      "reason": "Animated 3D frog in neon apparatus, not source armored cybernetic portrait.",
+      "evidence_sheet": "sheets/group-CYBERPEP-0.png"
+    },
+    {
+      "original": "CYBERPEP",
+      "asset": "CYBERPEPEPRD",
+      "status": "rejected",
+      "reason": "Animated female character in purple environment, no source portrait reuse.",
+      "evidence_sheet": "sheets/group-CYBERPEP-0.png"
+    },
+    {
+      "original": "KEKISTAN",
+      "asset": "KEKISTANFLAG",
+      "status": "rejected",
+      "reason": "Standalone flag, not source theater/crowd collage.",
+      "evidence_sheet": "sheets/group-KEKISTAN-0.png"
+    },
+    {
+      "original": "KEKISTAN",
+      "asset": "KEKISTANI",
+      "status": "rejected",
+      "reason": "Made-in-Kekistan text photograph, not source collage.",
+      "evidence_sheet": "sheets/group-KEKISTAN-0.png"
+    },
+    {
+      "original": "KEKISTAN",
+      "asset": "KEKISTANPASS",
+      "status": "rejected",
+      "reason": "Identity-pass device with purple Pepe portrait, no source scene reuse.",
+      "evidence_sheet": "sheets/group-KEKISTAN-0.png"
+    },
+    {
+      "original": "TAKOPEPE",
+      "asset": "OGSAN.YUTAKOJIIS",
+      "status": "rejected",
+      "reason": "Two wallet-developer portraits, substring match only.",
+      "evidence_sheet": "sheets/group-TAKOPEPE-0.png"
+    },
+    {
+      "original": "TAKOPEPE",
+      "asset": "TAKOYAKIX",
+      "status": "rejected",
+      "reason": "Octopus food-cart scene, not source underwater red tentacle wrapping green frog.",
+      "evidence_sheet": "sheets/group-TAKOPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "ELEGANTERIS",
+      "status": "rejected",
+      "reason": "Standing woman with apple beside river/castle in bright painting; different pose and composition from seated woman/Pepe beside pond.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "MFERISHPEPE",
+      "status": "rejected",
+      "reason": "Seated Mfer-style Pepe card with text, no source painting reuse.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "PENPERISE",
+      "status": "rejected",
+      "reason": "Penguin portrait with banner, no source composition.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "SOGVENERIS",
+      "status": "rejected",
+      "reason": "SoG merchant stall card, no source artwork reuse.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "THEGALLERIST",
+      "status": "rejected",
+      "reason": "Frog seated in colorful gallery, unrelated scene.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "WHERISMYFREN",
+      "status": "rejected",
+      "reason": "Two friends before abstract colorful window; all three frames different from source pond painting.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    },
+    {
+      "original": "ERISPEPE",
+      "asset": "XFCPIPERISIC",
+      "status": "rejected",
+      "reason": "Football player portrait card, substring match only.",
+      "evidence_sheet": "sheets/group-ERISPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 0,
+    "rejected": 17
+  }
+}
