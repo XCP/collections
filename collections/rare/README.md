@@ -10,7 +10,7 @@
 | Primary memberships | 302 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/302 (0.3%)<br>Artist: 302/302 (100%)<br>Based on: 1/302 (0.3%)<br>Edition: 300/302 (99.3%) |
+| Traits | Art year: 1/302 (0.3%)<br>Artist: 302/302 (100%)<br>Based on: 301/302 (99.7%)<br>Edition: 300/302 (99.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
