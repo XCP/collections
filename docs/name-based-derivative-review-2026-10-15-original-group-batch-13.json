@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame group sheets and two animation sheets viewed. Two animations sampled four spaced frames, not exhaustive playback. Enlarged LEGOPEPE, PEPELEGOS, LEGOMOTO and RAREPEPE viewed for source distinction.",
+  "reviewed": [
+    {
+      "original": "SOGSAYLOR",
+      "candidates": [
+        "MFERS.SAYLOR",
+        "MSAYLORPEPE",
+        "PHOCKHEADS.SAYLOR",
+        "SAYLORMAN"
+      ]
+    },
+    {
+      "original": "LEGOBITCORN",
+      "candidates": [
+        "LEGOMOTO",
+        "PEPELEGOS",
+        "COUPLEGOX",
+        "EVILPEPELEGO",
+        "FAKEAPELEGO",
+        "LEGOPEPE",
+        "LEGOSHADILAY",
+        "LEGOTHICORN",
+        "PEPELEGOMAN",
+        "PIGEONLEGOS",
+        "PLEGO",
+        "QRLEGO",
+        "RARELEGO"
+      ]
+    },
+    {
+      "original": "CORNKABUKI",
+      "candidates": [
+        "FAKABUKI",
+        "CORNGEISHA.KABUKI",
+        "KABUKIPEPE"
+      ]
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "candidates": [
+        "PEPESQUIGGLE",
+        "PHOCKNFTS.CHROMIESQUIGGLE",
+        "SQUIGGLEKNOT",
+        "SQUIGGLEPEPE.PURPLE",
+        "SQUIGGLEPEPE.WuTs_My_CaGr"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "LEGOTHICORN",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.CHROMIESQUIGGLE",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "SOGSAYLOR",
+      "asset": "MFERS.SAYLOR",
+      "status": "rejected",
+      "reason": "Shared Saylor identity, but no reuse of the seated room scene, open-hand pose or composition.",
+      "evidence_sheet": "sheets/group-SOGSAYLOR-0.png"
+    },
+    {
+      "original": "SOGSAYLOR",
+      "asset": "MSAYLORPEPE",
+      "status": "rejected",
+      "reason": "Shared Saylor identity, but no reuse of the seated room scene, open-hand pose or composition.",
+      "evidence_sheet": "sheets/group-SOGSAYLOR-0.png"
+    },
+    {
+      "original": "SOGSAYLOR",
+      "asset": "PHOCKHEADS.SAYLOR",
+      "status": "rejected",
+      "reason": "Shared Saylor identity, but no reuse of the seated room scene, open-hand pose or composition.",
+      "evidence_sheet": "sheets/group-SOGSAYLOR-0.png"
+    },
+    {
+      "original": "SOGSAYLOR",
+      "asset": "SAYLORMAN",
+      "status": "rejected",
+      "reason": "Shared Saylor identity, but no reuse of the seated room scene, open-hand pose or composition.",
+      "evidence_sheet": "sheets/group-SOGSAYLOR-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "LEGOMOTO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "PEPELEGOS",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "COUPLEGOX",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "EVILPEPELEGO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "FAKEAPELEGO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "LEGOPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "LEGOSHADILAY",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "LEGOTHICORN",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "PEPELEGOMAN",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "PIGEONLEGOS",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "PLEGO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "QRLEGO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "LEGOBITCORN",
+      "asset": "RARELEGO",
+      "status": "rejected",
+      "reason": "No reuse of the corn-suit minifigure, cornfield setting or detailed card composition. Lego medium alone is insufficient.",
+      "evidence_sheet": "sheets/group-LEGOBITCORN-0.png"
+    },
+    {
+      "original": "CORNKABUKI",
+      "asset": "FAKABUKI",
+      "status": "rejected",
+      "reason": "No reuse of the sweeping yellow mane, tilted corn head and patterned robe composition. Shared kabuki theme or stripes alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKABUKI-0.png"
+    },
+    {
+      "original": "CORNKABUKI",
+      "asset": "CORNGEISHA.KABUKI",
+      "status": "rejected",
+      "reason": "No reuse of the sweeping yellow mane, tilted corn head and patterned robe composition. Shared kabuki theme or stripes alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKABUKI-0.png"
+    },
+    {
+      "original": "CORNKABUKI",
+      "asset": "KABUKIPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the sweeping yellow mane, tilted corn head and patterned robe composition. Shared kabuki theme or stripes alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKABUKI-0.png"
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "asset": "PEPESQUIGGLE",
+      "status": "rejected",
+      "reason": "No reuse of the repeating green organic all-over pattern and yellow corn details; candidates have separate chromie-style tubes, knot or pixel line.",
+      "evidence_sheet": "sheets/group-CORNSQUIGGLE-0.png"
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "asset": "PHOCKNFTS.CHROMIESQUIGGLE",
+      "status": "rejected",
+      "reason": "No reuse of the repeating green organic all-over pattern and yellow corn details; candidates have separate chromie-style tubes, knot or pixel line.",
+      "evidence_sheet": "sheets/group-CORNSQUIGGLE-0.png"
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "asset": "SQUIGGLEKNOT",
+      "status": "rejected",
+      "reason": "No reuse of the repeating green organic all-over pattern and yellow corn details; candidates have separate chromie-style tubes, knot or pixel line.",
+      "evidence_sheet": "sheets/group-CORNSQUIGGLE-0.png"
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "asset": "SQUIGGLEPEPE.PURPLE",
+      "status": "rejected",
+      "reason": "No reuse of the repeating green organic all-over pattern and yellow corn details; candidates have separate chromie-style tubes, knot or pixel line.",
+      "evidence_sheet": "sheets/group-CORNSQUIGGLE-0.png"
+    },
+    {
+      "original": "CORNSQUIGGLE",
+      "asset": "SQUIGGLEPEPE.WuTs_My_CaGr",
+      "status": "rejected",
+      "reason": "No reuse of the repeating green organic all-over pattern and yellow corn details; candidates have separate chromie-style tubes, knot or pixel line.",
+      "evidence_sheet": "sheets/group-CORNSQUIGGLE-0.png"
+    },
+    {
+      "original": "LEGOPEPE",
+      "asset": "LEGOMOTO",
+      "status": "rejected",
+      "reason": "Enlargement shows the Nakamoto portrait, not LEGOPEPE flat right-facing frog kit. Shared construction medium and packaging do not establish this specific source."
+    },
+    {
+      "original": "LEGOPEPE",
+      "asset": "PEPELEGOS",
+      "status": "rejected",
+      "reason": "Enlargement shows front-facing smiling frog on orange studs, not LEGOPEPE right-facing cropped frog on white. Shared brick rendering alone is insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "LEGOMOTO",
+      "status": "accepted",
+      "reason": "Enlarged brick portrait recreates Nakamoto gray swept hair, glasses, left-facing three-quarter green face, long nose and red downturned mouth. Name corroborates specific portrait. RAREPEPE media-bearing description is September 2016; LEGOMOTO chain-linked media is March 2023."
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "LEGOPEPE",
+      "asset": "LEGOMOTO",
+      "status": "rejected",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-volume-84b.json",
+      "reason": "Enlargement shows the Nakamoto portrait, not LEGOPEPE flat right-facing frog kit. Shared construction medium and packaging do not establish this specific source."
+    },
+    {
+      "original": "LEGOPEPE",
+      "asset": "PEPELEGOS",
+      "status": "rejected",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-volume-84b.json",
+      "reason": "Enlargement shows front-facing smiling frog on orange studs, not LEGOPEPE right-facing cropped frog on white. Shared brick rendering alone is insufficient."
+    }
+  ],
+  "documentary_evidence": [
+    {
+      "asset": "LEGOPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "feee2d3c39808002c9a60010587f1c2ebad6a882c36a6e88718711d263e38c74",
+            "block_index": 459711,
+            "block_time": 1490928071,
+            "source": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "issuer": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "http://rarepepes.club/legopepe.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "c8a5aa9a5fcdaf8c8f3a681b6fe5e572e448cc45ba48dcb9c8598e89740f0e47",
+            "block_index": 448692,
+            "block_time": 1484690188,
+            "source": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "issuer": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "45819ef0eba0e77ee25825e3eaa63026fe91f8915d3ac219021d92b383cbc8ab",
+            "block_index": 448691,
+            "block_time": 1484689802,
+            "source": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "issuer": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "transfer": 0,
+            "quantity_normalized": "400",
+            "description": "",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "1c07a082b0a3958661456d08e32a5a38bb657bdc6693011a5cffdc11e4d8a3fe",
+            "block_index": 447366,
+            "block_time": 1483979761,
+            "source": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "issuer": "12PZBJ3q1VRhtiMwfguf33M8fdbvaZe85v",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "LEGOMOTO",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "ce985b46aa454d5dcd7b9aa6629b4a7be4fec2b204585d9a8a939fa83f73f37f",
+            "block_index": 783084,
+            "block_time": 1680127805,
+            "source": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "issuer": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/6shp4s/LEGOM.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "54bdbd61bc517091350167b063d2459ab1f5c34a719025490c7e1aaeb70563fb",
+            "block_index": 783083,
+            "block_time": 1680127613,
+            "source": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "issuer": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/dprotz/LEGOM.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "ea101d9ba29fbbb88c74c7c7c0a271103be0e02f9ff10192b0f558b8fe252b49",
+            "block_index": 783081,
+            "block_time": 1680126940,
+            "source": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "issuer": "1DxRM9jXnLQMpKjQficmjG2ywzKNjniRAV",
+            "transfer": 0,
+            "quantity_normalized": "21",
+            "description": "https://easyasset.art/j/dprotz/LEGOM.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "PEPELEGOS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "df8342664eb5e6c813274782bdae48454a5f08253d870f1b5d233e687a198b72",
+            "block_index": 724289,
+            "block_time": 1645433879,
+            "source": "1L1EBBB468hK4NKLMC8XqbbskPXc7U9EUD",
+            "issuer": "1L1EBBB468hK4NKLMC8XqbbskPXc7U9EUD",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "Dank Pepe Lego  ",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "abf4706c3aae3135009cec6f0e525d1f71ab392e4b2b0d162638fa0194015b53",
+            "block_index": 724288,
+            "block_time": 1645433415,
+            "source": "1L1EBBB468hK4NKLMC8XqbbskPXc7U9EUD",
+            "issuer": "1L1EBBB468hK4NKLMC8XqbbskPXc7U9EUD",
+            "transfer": 0,
+            "quantity_normalized": "111",
+            "description": "Dank Pepe Lego  ",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "RAREPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "de3fe82a85ca1d84a0331e6a74a9ad6e65d40883415536622b6ac71c23f8a9d0",
+            "block_index": 429001,
+            "block_time": 1473437140,
+            "source": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "issuer": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "http://myrarepepe.com/json/rarepepe.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "f5c5940aeb4f98733c756e0da353c2f40256957eb5fbbd25be40cb50103373c8",
+            "block_index": 428997,
+            "block_time": 1473435862,
+            "source": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "issuer": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "See myrarepepe.com for more info. ",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "64a2565a635a423373412465d8a83d4ec8f6dd21e6a06668449f91773ebf4840",
+            "block_index": 428920,
+            "block_time": 1473386421,
+            "source": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "issuer": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "See myrarepepe.com for more info. ",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "249ca34586012b858a2a329a4314425a8aaa90456892f2b194857f7bd1f5e8cd",
+            "block_index": 428920,
+            "block_time": 1473386421,
+            "source": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "issuer": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "Nakamoto rare pepe card - ",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4c9d2979685dc172864a5c00811f44034e7966bc6555dcc272531c4bdd304405",
+            "block_index": 428919,
+            "block_time": 1473385602,
+            "source": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "issuer": "1GQhaWqejcGJ4GhQar7SjcCfadxvf5DNBD",
+            "transfer": 0,
+            "quantity_normalized": "300",
+            "description": "The most rare pepe that has ever existed",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 28,
+    "accepted": 1,
+    "rejected": 27
+  }
+}
