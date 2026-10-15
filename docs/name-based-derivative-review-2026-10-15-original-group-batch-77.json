@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and one animation sheet visually inspected. MALEVICHQR sampled at four spaced positions, not exhaustive playback. Rejections specific to listed originals.",
+  "reviewed": [
+    {
+      "original": "DIAMONDSPEPE",
+      "volume_usd": 20354.239457583324,
+      "buyers": 33,
+      "candidates": [
+        "PEPEPIDOU.ASSOFDIAMONDS"
+      ]
+    },
+    {
+      "original": "PEPEVICH",
+      "volume_usd": 20325.141954313665,
+      "buyers": 34,
+      "candidates": [
+        "FAKELEVICH",
+        "FAKEMALEVICH",
+        "MALEVICHQR",
+        "PEPOVICH"
+      ]
+    },
+    {
+      "original": "PEPEELITE",
+      "volume_usd": 20036.90899170421,
+      "buyers": 50,
+      "candidates": [
+        "CHARGEELITE",
+        "ELITEGET"
+      ]
+    },
+    {
+      "original": "PEPELARGE",
+      "volume_usd": 19999.99531107053,
+      "buyers": 49,
+      "candidates": [
+        "PEPEDELARGE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MALEVICHQR",
+      "pages": 122,
+      "sampled_frames": [
+        0,
+        40,
+        81,
+        121
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "DIAMONDSPEPE",
+      "asset": "PEPEPIDOU.ASSOFDIAMONDS",
+      "status": "rejected",
+      "reason": "Two pale buttocks-like symbols on pink card, not source king holding apple on stained parchment. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-DIAMONDSPEPE-0.png"
+    },
+    {
+      "original": "PEPEVICH",
+      "asset": "FAKELEVICH",
+      "status": "rejected",
+      "reason": "Green and red abstract squares, not source Being John Pepevich movie-poster collage. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEVICH-0.png"
+    },
+    {
+      "original": "PEPEVICH",
+      "asset": "FAKEMALEVICH",
+      "status": "rejected",
+      "reason": "Green square print/catalog image, not source movie-poster collage. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEVICH-0.png"
+    },
+    {
+      "original": "PEPEVICH",
+      "asset": "MALEVICHQR",
+      "status": "rejected",
+      "reason": "Animated black-square/noise/QR imagery, not source movie-poster collage. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEVICH-0.png"
+    },
+    {
+      "original": "PEPEVICH",
+      "asset": "PEPOVICH",
+      "status": "rejected",
+      "reason": "Pixel crowned emperor with crowd and speech bubble, not repeated frog faces forming source head silhouette. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEVICH-0.png"
+    },
+    {
+      "original": "PEPEELITE",
+      "asset": "CHARGEELITE",
+      "status": "rejected",
+      "reason": "Fantasy rider battle scene, not source suited multiarmed crypto trader. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEELITE-0.png"
+    },
+    {
+      "original": "PEPEELITE",
+      "asset": "ELITEGET",
+      "status": "rejected",
+      "reason": "Repeated golden frog figures, not source suited trader with coins and cash. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPEELITE-0.png"
+    },
+    {
+      "original": "PEPELARGE",
+      "asset": "PEPEDELARGE",
+      "status": "rejected",
+      "reason": "Painted bowler-hatted frog with eyelash and full smiling face, not source cropped single-eye graphic with vertical title. Name fragments or shared frog motif do not establish distinctive source-card reuse.",
+      "evidence_sheet": "sheets/group-PEPELARGE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 8,
+    "accepted": 0,
+    "rejected": 8
+  }
+}
