@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets, one GIF sample sheet and one video sample sheet inspected. Two GIFs at four spaced frames; UGETNOTHING valid MP4 (58.89 seconds, 18849085 bytes), not missing media, sampled at four timestamps. Neither GIF nor video playback exhaustive.",
+  "reviewed": [
+    {
+      "original": "THINPEPE",
+      "volume_usd": 19143.94654741288,
+      "buyers": 32,
+      "candidates": [
+        "BITHINKER",
+        "DERPTHINKER",
+        "DGTHINKER",
+        "FAKETHINK",
+        "GETNOTHING",
+        "IKNOWNOTHING",
+        "MSTRPEPES.THEPHYSICALIMPOSSIBILITYOFPEPEWITHINTHEMIND",
+        "PEPENOTHING",
+        "PEPETHETHING",
+        "PINKTACO.ANYTHING",
+        "QUEENWITHIN",
+        "RARETHINKER",
+        "SOMETHING",
+        "SOOTHINGPUNK",
+        "SURETHINGALT",
+        "THETHINKER",
+        "THINKEREVOLV",
+        "THINKNPEPE",
+        "THINKOUTLOUD",
+        "UGETNOTHING"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DGTHINKER",
+      "pages": 98,
+      "sampled_frames": [
+        0,
+        32,
+        65,
+        97
+      ]
+    },
+    {
+      "asset": "PEPETHETHING",
+      "pages": 82,
+      "sampled_frames": [
+        0,
+        27,
+        54,
+        81
+      ]
+    }
+  ],
+  "video_samples": [
+    {
+      "asset": "UGETNOTHING",
+      "duration": 58.89,
+      "sampled_seconds": [
+        0,
+        19.596666666666668,
+        39.193333333333335,
+        58.79
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "THINPEPE",
+      "asset": "BITHINKER",
+      "status": "rejected",
+      "reason": "Golden seated thinker sculpture. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "DERPTHINKER",
+      "status": "rejected",
+      "reason": "Gray seated thinker with banana nearby. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "DGTHINKER",
+      "status": "rejected",
+      "reason": "Animated brown frog-like sculpture. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "FAKETHINK",
+      "status": "rejected",
+      "reason": "Green distorted frog illustration. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "GETNOTHING",
+      "status": "rejected",
+      "reason": "Compliance scroll and pointing cartoon. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "IKNOWNOTHING",
+      "status": "rejected",
+      "reason": "Flag with crypto-artist text. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "MSTRPEPES.THEPHYSICALIMPOSSIBILITYOFPEPEWITHINTHEMIND",
+      "status": "rejected",
+      "reason": "Frog suspended in glass tank. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "PEPENOTHING",
+      "status": "rejected",
+      "reason": "Dark monster with Nothing sign. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "PEPETHETHING",
+      "status": "rejected",
+      "reason": "Animated transforming green creature. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "PINKTACO.ANYTHING",
+      "status": "rejected",
+      "reason": "Taco slogan graphic. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "QUEENWITHIN",
+      "status": "rejected",
+      "reason": "Woman with elaborate feather headdress. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "RARETHINKER",
+      "status": "rejected",
+      "reason": "Green abstract thinker print. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "SOMETHING",
+      "status": "rejected",
+      "reason": "Surreal whale/airborne colorful scene. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "SOOTHINGPUNK",
+      "status": "rejected",
+      "reason": "Pixel punk portrait. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "SURETHINGALT",
+      "status": "rejected",
+      "reason": "Cartoon crypto performance-art scene. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "THETHINKER",
+      "status": "rejected",
+      "reason": "Bronze seated thinker sculpture. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "THINKEREVOLV",
+      "status": "rejected",
+      "reason": "Frog-like seated thinker statue. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "THINKNPEPE",
+      "status": "rejected",
+      "reason": "Painted human thinking portrait. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "THINKOUTLOUD",
+      "status": "rejected",
+      "reason": "Head exploding with red paint. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-0.png"
+    },
+    {
+      "original": "THINPEPE",
+      "asset": "UGETNOTHING",
+      "status": "rejected",
+      "reason": "Get Nothing video montage with rug, hands, banknotes and green character. No distinctive reuse of THINPEPE black-and-white film-poster couple/dog composition and cocktail typography. Shared thin/thing/think name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-THINPEPE-video.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 20,
+    "accepted": 0,
+    "rejected": 20
+  }
+}
