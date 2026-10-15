@@ -1,0 +1,92 @@
+{
+  "reviewed_at": "2026-10-15",
+  "screened": 297,
+  "method": "Visual screening of all current member CDN images, then side-by-side comparison of specific candidates with 26 Spells of Genesis originals. A shared border, fantasy subject or collection name alone is not accepted.",
+  "accepted": [
+    {
+      "asset": "FAUXTOSHI",
+      "original": "SATOSHICARD",
+      "evidence": "Creator of the Blockchain title/text and hooded figure replaced with a brick-shaped figure.",
+      "image": "https://cdn.xcp.io/img/full/FAUXTOSHI",
+      "original_image": "https://cdn.xcp.io/img/full/SATOSHICARD"
+    },
+    {
+      "asset": "VANGOSHI",
+      "original": "SATOSHICARD",
+      "evidence": "Same hooded creator pose and Bitcoin medallion, repainted in swirling brushwork.",
+      "image": "https://cdn.xcp.io/img/full/VANGOSHI",
+      "original_image": "https://cdn.xcp.io/img/full/SATOSHICARD"
+    },
+    {
+      "asset": "SATOSHECARD",
+      "original": "SATOSHICARD",
+      "evidence": "Original card frame, title and text retained while the central figure is removed.",
+      "image": "https://cdn.xcp.io/img/full/SATOSHECARD",
+      "original_image": "https://cdn.xcp.io/img/full/SATOSHICARD"
+    },
+    {
+      "asset": "SATOSHABAN",
+      "original": "SATOSHICARD",
+      "evidence": "Original hooded creator composition and title reworked with different floating symbols.",
+      "image": "https://cdn.xcp.io/img/full/SATOSHABAN",
+      "original_image": "https://cdn.xcp.io/img/full/SATOSHICARD"
+    },
+    {
+      "asset": "GNOMERETURNS",
+      "original": "GNOMECARD",
+      "evidence": "First Delivery title and original delivery scene retained with edits.",
+      "image": "https://cdn.xcp.io/img/full/GNOMERETURNS",
+      "original_image": "https://cdn.xcp.io/img/full/GNOMECARD"
+    },
+    {
+      "asset": "IRLFDCARD",
+      "original": "FDCARD",
+      "evidence": "Healing formula composition and recognizable face edited into the blinking formula.",
+      "image": "https://cdn.xcp.io/img/full/IRLFDCARD",
+      "original_image": "https://cdn.xcp.io/img/full/FDCARD"
+    },
+    {
+      "asset": "ORDCARD",
+      "original": "FDCARD",
+      "evidence": "Healing formula original scene retained with edited face and title.",
+      "image": "https://cdn.xcp.io/img/full/ORDCARD",
+      "original_image": "https://cdn.xcp.io/img/full/FDCARD"
+    },
+    {
+      "asset": "BITRAILSCD",
+      "original": "BLOCKTRAILCD",
+      "evidence": "Blocktrail Enchanter train and story reworked as Bitrails Enchanter / Thomas.",
+      "image": "https://cdn.xcp.io/img/full/BITRAILSCD",
+      "original_image": "https://cdn.xcp.io/img/full/BLOCKTRAILCD"
+    },
+    {
+      "asset": "BEARRATCD",
+      "original": "BEARWHALECD",
+      "evidence": "Bearwhale composition and cavern story reworked as a bear-rat.",
+      "image": "https://cdn.xcp.io/img/full/BEARRATCD",
+      "original_image": "https://cdn.xcp.io/img/full/BEARWHALECD"
+    },
+    {
+      "asset": "SATOSHISHITE",
+      "original": "SATOSHILITE",
+      "evidence": "Satoshi Lite the Imitator title and description parodied as Satoshi Shite.",
+      "image": "https://cdn.xcp.io/img/full/SATOSHISHITE",
+      "original_image": "https://cdn.xcp.io/img/full/SATOSHILITE"
+    },
+    {
+      "asset": "SHIBCOINCARD",
+      "original": "DOGECOINCARD",
+      "evidence": "Coins for Doge scene and title reworked as Coins for Shib.",
+      "image": "https://cdn.xcp.io/img/full/SHIBCOINCARD",
+      "original_image": "https://cdn.xcp.io/img/full/DOGECOINCARD"
+    },
+    {
+      "asset": "SEROFETHER",
+      "original": "ETHEREUMCARD",
+      "evidence": "Sir of the Ether title and sword-bearing figure redrawn as Ser of the Ether.",
+      "image": "https://cdn.xcp.io/img/full/SEROFETHER",
+      "original_image": "https://cdn.xcp.io/img/full/ETHEREUMCARD"
+    }
+  ],
+  "status": "Initial confirmed pairs only; remaining candidate-to-original comparisons are not exhausted."
+}

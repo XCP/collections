@@ -387,6 +387,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -495,6 +499,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -801,6 +809,10 @@
         {
           "trait_type": "Artist",
           "value": "admodum"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -2010,6 +2022,10 @@
         {
           "trait_type": "Artist",
           "value": "NORMANCOMICS"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -2298,6 +2314,10 @@
         {
           "trait_type": "Artist",
           "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -4228,6 +4248,10 @@
         {
           "trait_type": "Artist",
           "value": "Dantheman"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -5172,6 +5196,10 @@
         {
           "trait_type": "Artist",
           "value": "frau"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -6687,6 +6715,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -7833,6 +7865,10 @@
         {
           "trait_type": "Artist",
           "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -11373,6 +11409,10 @@
         {
           "trait_type": "Artist",
           "value": "Oni Giri"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -11409,6 +11449,10 @@
         {
           "trait_type": "Artist",
           "value": "PAIN"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -17029,6 +17073,10 @@
         {
           "trait_type": "Artist",
           "value": "DaWe1"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -18479,6 +18527,10 @@
         {
           "trait_type": "Artist",
           "value": "Flepergebet"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -21442,6 +21494,10 @@
         {
           "trait_type": "Artist",
           "value": "MrReier"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -31980,7 +32036,13 @@
       "asset": "BLCKHOLEPEPE"
     },
     {
-      "asset": "BLEUNAKAMOTO"
+      "asset": "BLEUNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "BLINKINGPEPE"
@@ -33103,7 +33165,13 @@
       ]
     },
     {
-      "asset": "COCOMOTO"
+      "asset": "COCOMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "COCONAKAMOTO"
@@ -33905,7 +33973,13 @@
       "asset": "DARKMAGA"
     },
     {
-      "asset": "DARKNAKAMOTO"
+      "asset": "DARKNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "DARKPEPEGYPT"
@@ -35355,7 +35429,13 @@
       ]
     },
     {
-      "asset": "FAKERARENAKA"
+      "asset": "FAKERARENAKA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "FAKERARESUME"
@@ -35593,10 +35673,22 @@
       ]
     },
     {
-      "asset": "FAWKESAMOTO"
+      "asset": "FAWKESAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
-      "asset": "FAWKESMOTO"
+      "asset": "FAWKESMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "FAYELLOW"
@@ -36155,6 +36247,10 @@
         {
           "trait_type": "Artist",
           "value": "niftyjutsu"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -36325,7 +36421,13 @@
       "asset": "GATEOFGLASS"
     },
     {
-      "asset": "GAYNAKAMOTO"
+      "asset": "GAYNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "GAZAFAMINE",
@@ -39183,6 +39285,10 @@
         {
           "trait_type": "Artist",
           "value": "T. Wade"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -39350,7 +39456,13 @@
       "asset": "NAKAFREEDOM"
     },
     {
-      "asset": "NAKAMANTLE"
+      "asset": "NAKAMANTLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "NAKAMARIO",
@@ -39358,6 +39470,10 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -39373,6 +39489,10 @@
         {
           "trait_type": "Artist",
           "value": "CMYK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -39416,7 +39536,13 @@
       "asset": "NAKAMOTOXCP"
     },
     {
-      "asset": "NAKAMTO"
+      "asset": "NAKAMTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "NAKAMULLEN",
@@ -39424,6 +39550,10 @@
         {
           "trait_type": "Artist",
           "value": "admodum"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
