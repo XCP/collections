@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and three animation sheets visually inspected. Ten animations sampled at four spaced positions; all three frames included for six Santa-hat variants. Longer animations not exhaustive. Existing closer-original leads for COCOHOMERED, DIAMONDANK.THEHOMER, FAKEDOSHOMER and GUGGENMEME.HOMERCHECKS remain separate; these decisions only concern PEPEHOMER.",
+  "reviewed": [
+    {
+      "original": "PEPEHOMER",
+      "volume_usd": 19304.14483663943,
+      "buyers": 30,
+      "candidates": [
+        "COCOHOMERED",
+        "COMMONHOMER",
+        "DIAMONDANK.THEHOMER",
+        "DONHOMER",
+        "FAKEDOSHOMER",
+        "GUGGENMEME.HOMERCHECKS",
+        "HOMERALIEN",
+        "HOMERAPE",
+        "HOMERCARTER",
+        "HOMERCRIMBO",
+        "HOMERDROOL",
+        "HOMERSAURUS",
+        "HOMERSNOW",
+        "HOMERSTAMP",
+        "HOMERSTAMPS",
+        "HOMERWINTER",
+        "HOMERXMAS",
+        "HOMERZOMBIE",
+        "OLDHOMERFLIP",
+        "OLDHOMERPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "HOMERALIEN",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "DIAMONDANK.THEHOMER",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "FAKEDOSHOMER",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "COMMONHOMER",
+      "pages": 88,
+      "sampled_frames": [
+        0,
+        29,
+        58,
+        87
+      ]
+    },
+    {
+      "asset": "HOMERSNOW",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HOMERCRIMBO",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HOMERDROOL",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "HOMERZOMBIE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HOMERXMAS",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HOMERWINTER",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEHOMER",
+      "asset": "COCOHOMERED",
+      "status": "rejected",
+      "reason": "Full-body Homer-like figure holding doughnut by hedge. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "COMMONHOMER",
+      "status": "rejected",
+      "reason": "Seated green Homer in living room with art on wall. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "DIAMONDANK.THEHOMER",
+      "status": "rejected",
+      "reason": "Green Homer raising diamonds with round wide eyes. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "DONHOMER",
+      "status": "rejected",
+      "reason": "Yellow gangster Homer in white hat. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "FAKEDOSHOMER",
+      "status": "rejected",
+      "reason": "Pixel profile in yellow/blue text field. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "GUGGENMEME.HOMERCHECKS",
+      "status": "rejected",
+      "reason": "Grid of small yellow card-like panels. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERALIEN",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat cyan profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERAPE",
+      "status": "rejected",
+      "reason": "Yellow ape-faced drooling Homer close-up. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERCARTER",
+      "status": "rejected",
+      "reason": "Basketball dunk scene. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERCRIMBO",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat brown profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERDROOL",
+      "status": "rejected",
+      "reason": "Yellow ape-faced drooling Homer over doughnuts. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERSAURUS",
+      "status": "rejected",
+      "reason": "Green dinosaur Homer in game card. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERSNOW",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat gold profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERSTAMP",
+      "status": "rejected",
+      "reason": "Pixel cap-wearing green profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERSTAMPS",
+      "status": "rejected",
+      "reason": "Grid of colored pixel Homer variants. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERWINTER",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat pale profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERXMAS",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat yellow profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "HOMERZOMBIE",
+      "status": "rejected",
+      "reason": "Pixel Santa-hat green profile. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "OLDHOMERFLIP",
+      "status": "rejected",
+      "reason": "Inverted older frog raising fist. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-0.png"
+    },
+    {
+      "original": "PEPEHOMER",
+      "asset": "OLDHOMERPEPE",
+      "status": "rejected",
+      "reason": "Older frog raising fist with flying saucer and caption. No distinctive reuse of PEPEHOMER green drooling portrait with half-closed Pepe eyes, tilted head and cyan background. Shared Homer anatomy/clothing alone insufficient. Other Homer-family relationships are separate.",
+      "evidence_sheet": "sheets/group-PEPEHOMER-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 20,
+    "accepted": 0,
+    "rejected": 20
+  }
+}
