@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame original-to-many sheets and two animation sheets viewed; three animations sampled at four spaced positions, not exhaustive. HELOPEPE and HELOBOSHI enlarged and on-chain issuance histories checked.",
+  "reviewed": [
+    {
+      "original": "HELOPEPE",
+      "volume_usd": 25587.893753481607,
+      "buyers": 28,
+      "candidates": [
+        "FORTHELOLS",
+        "HELOBOSHI",
+        "IMWITHELON",
+        "RARETECHELON",
+        "THELOONEY",
+        "THELORDJAMIE",
+        "THELORDSHILL",
+        "VIPER.THELOVER"
+      ]
+    },
+    {
+      "original": "KICKPEPE",
+      "volume_usd": 25690.154865421267,
+      "buyers": 41,
+      "candidates": [
+        "BOSHIKICKS",
+        "DERPSIDEKICK",
+        "IGOTKICKED",
+        "KICKINGHORSE",
+        "YUKICHIKICKS"
+      ]
+    },
+    {
+      "original": "PEPEPOOR",
+      "volume_usd": 25195.731021083528,
+      "buyers": 40,
+      "candidates": [
+        "FAKETHREAT.POORFROGS",
+        "POORANON",
+        "POORCOWS",
+        "POOREOS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "HELOBOSHI",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "asset": "RARETECHELON",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "DERPSIDEKICK",
+      "pages": 64,
+      "sampled_frames": [
+        0,
+        21,
+        42,
+        63
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "HELOPEPE",
+      "asset": "FORTHELOLS",
+      "status": "rejected",
+      "reason": "Busy red-background trash-bin collage; no specific source character/card reuse.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "HELOBOSHI",
+      "status": "accepted",
+      "reason": "Enlarged pair confirms reuse of the waving bow-wearing character silhouette, three flowers, yellow title/rules panels, heart stat and Hello title; remodels flowers with faces and party caption to poverty. Source catalog and Oct2016 descriptive issuance precede candidate2023; distinctive remix establishes relation, not shared Hello Kitty subject alone.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "IMWITHELON",
+      "status": "rejected",
+      "reason": "Wanted poster photo of man, unrelated composition.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "RARETECHELON",
+      "status": "rejected",
+      "reason": "Elon/world-map/space collage on yellow stat card; sampled frames do not reuse source artwork.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "THELOONEY",
+      "status": "rejected",
+      "reason": "Suit-wearing frog portrait with glasses, no source reuse.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "THELORDJAMIE",
+      "status": "rejected",
+      "reason": "Pipe-smoking frog portrait, no source reuse.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "THELORDSHILL",
+      "status": "rejected",
+      "reason": "Bespectacled frog holding art, no source reuse.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "HELOPEPE",
+      "asset": "VIPER.THELOVER",
+      "status": "rejected",
+      "reason": "Snake and roses, substring match only.",
+      "evidence_sheet": "sheets/group-HELOPEPE-0.png"
+    },
+    {
+      "original": "KICKPEPE",
+      "asset": "BOSHIKICKS",
+      "status": "rejected",
+      "reason": "Sneaker/basketball design, no martial arts source reuse.",
+      "evidence_sheet": "sheets/group-KICKPEPE-0.png"
+    },
+    {
+      "original": "KICKPEPE",
+      "asset": "DERPSIDEKICK",
+      "status": "rejected",
+      "reason": "Robin-like cartoon portrait and slap animation, not photographic martial-arts kick montage.",
+      "evidence_sheet": "sheets/group-KICKPEPE-0.png"
+    },
+    {
+      "original": "KICKPEPE",
+      "asset": "IGOTKICKED",
+      "status": "rejected",
+      "reason": "Text art about being kicked out of own project, no source reuse.",
+      "evidence_sheet": "sheets/group-KICKPEPE-0.png"
+    },
+    {
+      "original": "KICKPEPE",
+      "asset": "KICKINGHORSE",
+      "status": "rejected",
+      "reason": "Black horse silhouette, no source reuse.",
+      "evidence_sheet": "sheets/group-KICKPEPE-0.png"
+    },
+    {
+      "original": "KICKPEPE",
+      "asset": "YUKICHIKICKS",
+      "status": "rejected",
+      "reason": "Hooded cartoon giving thumbs-up with Japanese text, no source reuse.",
+      "evidence_sheet": "sheets/group-KICKPEPE-0.png"
+    },
+    {
+      "original": "PEPEPOOR",
+      "asset": "FAKETHREAT.POORFROGS",
+      "status": "rejected",
+      "reason": "Ransom-style text note, no source beggar drawing.",
+      "evidence_sheet": "sheets/group-PEPEPOOR-0.png"
+    },
+    {
+      "original": "PEPEPOOR",
+      "asset": "POORANON",
+      "status": "rejected",
+      "reason": "Masked figure with floating coins, different composition.",
+      "evidence_sheet": "sheets/group-PEPEPOOR-0.png"
+    },
+    {
+      "original": "PEPEPOOR",
+      "asset": "POORCOWS",
+      "status": "rejected",
+      "reason": "Pastoral cow painting and dense text, no source reuse.",
+      "evidence_sheet": "sheets/group-PEPEPOOR-0.png"
+    },
+    {
+      "original": "PEPEPOOR",
+      "asset": "POOREOS",
+      "status": "rejected",
+      "reason": "Green cookie box parody, no source reuse.",
+      "evidence_sheet": "sheets/group-PEPEPOOR-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 1,
+    "rejected": 16
+  },
+  "sources": [
+    "https://cdn.xcp.io/img/full/HELOPEPE",
+    "https://cdn.xcp.io/img/full/HELOBOSHI",
+    "https://api.xcp.io/v2/assets/HELOPEPE/issuances?limit=100",
+    "https://api.xcp.io/v2/assets/HELOBOSHI/issuances?limit=100"
+  ]
+}
