@@ -1,0 +1,669 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "GRIMPEPE",
+      "candidates": [
+        "GRIMREEFER",
+        "THEGRIMWOJAK",
+        "DANKGRIMM",
+        "GRIMREAPEPE",
+        "PEPEGRIMOIRE",
+        "GRIMCOCO",
+        "GRIMREPSKULL",
+        "GRIMFAPE",
+        "FWSDLGRIMMKC",
+        "GRIMACECOIN",
+        "GRIMSHADI",
+        "PEPEGRIMES",
+        "GRIMER",
+        "GRIMJAK"
+      ]
+    },
+    {
+      "original": "NOFUCKSPUTIN",
+      "candidates": [
+        "NEONS.NOFUCKSPUTINPEPE"
+      ]
+    },
+    {
+      "original": "HARDPEPEFORK",
+      "candidates": [
+        "HARDFORKPZ",
+        "EHARDFORK"
+      ]
+    },
+    {
+      "original": "COBAINPEPE",
+      "candidates": [
+        "COCOBAIN",
+        "TWOSVENPHOCK.KURTCOBAIN",
+        "ZEROPHOCKS.COBAIN"
+      ]
+    },
+    {
+      "original": "MONALISAPEPE",
+      "candidates": [
+        "MONALISADANK",
+        "BITMONALISA",
+        "PEPEMONALISA",
+        "ETERNALART.MONALISA",
+        "MONALISAAPE",
+        "REALMONALISA",
+        "FAKEMONALISA",
+        "MONALISAPEPE.PIXELMIND",
+        "MSTRPEPES.THEMONALISAPEPE",
+        "PHOCKS.MONALISA",
+        "MONALISAJAK"
+      ]
+    },
+    {
+      "original": "UNLUCKYPEPE",
+      "candidates": [
+        "UNLUCKYP"
+      ]
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "candidates": [
+        "DABCSARUTOBI",
+        "SARUTOBIDABC",
+        "ISLSARUTOBI",
+        "SARUTOBIAPE",
+        "SARUTOBIISL",
+        "SARUTOBIGIF",
+        "OGSAN.SARUTOBI",
+        "QRSARUTOBI",
+        "SARUTOBICARD"
+      ]
+    },
+    {
+      "original": "PUTINPEPE",
+      "candidates": [
+        "SWANVPUTIN",
+        "SLASHPUTIN",
+        "BLUEBEAR.PUTIN",
+        "RASPUTIN",
+        "PEPEWARPUTIN",
+        "PUTINLILPONY",
+        "PUTINOPEN",
+        "RAREPUTIN",
+        "PUTINDERP",
+        "WEBIIIPUTIN",
+        "FKEPUTINPEPE",
+        "WOJAKSPUTIN",
+        "DANKSERPUTIN",
+        "PUTINFAMILY",
+        "NOFAKESPUTIN",
+        "WOJAKPUTIN",
+        "NAZIPUTIN",
+        "VLADOLFPUTIN",
+        "NEONS.NOFUCKSPUTINPEPE",
+        "REDPUTIN",
+        "SPAMPUTIN",
+        "PUTIN",
+        "GNATPUTIN",
+        "POPCORNPUTIN",
+        "PUTINPOPCORN"
+      ]
+    },
+    {
+      "original": "CHINAPEPE",
+      "candidates": [
+        "CHINADANK",
+        "CHINAKEVIN",
+        "CHINASWAN",
+        "CHINABALLOON",
+        "CHINANEWYEAR"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMREEFER",
+      "status": "accepted",
+      "attributed_original": "GRIMPEPE",
+      "reason": "Reuses the hooded face and scythe composition with the same dark bordered card; replaces the face and lower caption with smoking references."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "THEGRIMWOJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "DANKGRIMM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMREAPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "PEPEGRIMOIRE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMCOCO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMREPSKULL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMFAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "FWSDLGRIMMKC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMACECOIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMSHADI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "PEPEGRIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRIMPEPE",
+      "asset": "GRIMJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "NOFUCKSPUTIN",
+      "asset": "NEONS.NOFUCKSPUTINPEPE",
+      "status": "accepted",
+      "attributed_original": "NOFUCKSPUTIN",
+      "reason": "Neon redraw of the same leaning portrait, hand pose, title and number-three caption."
+    },
+    {
+      "original": "HARDPEPEFORK",
+      "asset": "HARDFORKPZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HARDPEPEFORK",
+      "asset": "EHARDFORK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "COBAINPEPE",
+      "asset": "COCOBAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "COBAINPEPE",
+      "asset": "TWOSVENPHOCK.KURTCOBAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "COBAINPEPE",
+      "asset": "ZEROPHOCKS.COBAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "MONALISADANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "BITMONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "PEPEMONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "ETERNALART.MONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "MONALISAAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "REALMONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "FAKEMONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "MONALISAPEPE.PIXELMIND",
+      "status": "accepted",
+      "attributed_original": "MONALISAPEPE",
+      "reason": "Direct pixel treatment of the original painter, Mona Lisa easel, title and accident/mistake text."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "MSTRPEPES.THEMONALISAPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "PHOCKS.MONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONALISAPEPE",
+      "asset": "MONALISAJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UNLUCKYPEPE",
+      "asset": "UNLUCKYP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "DABCSARUTOBI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBIDABC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "ISLSARUTOBI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBIAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBIX",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBIISL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBIGIF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "OGSAN.SARUTOBI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "QRSARUTOBI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SARUTOBIPEPE",
+      "asset": "SARUTOBICARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "DANKPUTIN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "SWANVPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "YOGURTPUTIN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "SLASHPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "BLUEBEAR.PUTIN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "MOOSEPUTIN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "RASPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PEPEWARPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTINLILPONY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTINOPEN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "RAREPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTINDERP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "WEBIIIPUTIN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "FUCKSPUTIN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "FKEPUTINPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "WOJAKSPUTIN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "DANKSERPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTINFAMILY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "NOFAKESPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "WOJAKPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "NAZIPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "VLADOLFPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "NEONS.NOFUCKSPUTINPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "ORDINALPUTIN",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "REDPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "SPAMPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "GNATPUTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "POPCORNPUTIN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "PUTINPEPE",
+      "asset": "PUTINPOPCORN",
+      "status": "accepted",
+      "attributed_original": "PUTINPEPE",
+      "reason": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "original": "CHINAPEPE",
+      "asset": "CHINADANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CHINAPEPE",
+      "asset": "CHINAKEVIN",
+      "status": "accepted",
+      "attributed_original": "CHINAPEPE",
+      "reason": "Exact composition with the red flag field, blond hair, hands and grin; replaces the face with Kevin and the Bitcoin flag emblem."
+    },
+    {
+      "original": "CHINAPEPE",
+      "asset": "CHINASWAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CHINAPEPE",
+      "asset": "CHINABALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CHINAPEPE",
+      "asset": "CHINANEWYEAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "GRIMREEFER",
+      "original": "GRIMPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/GRIMREEFER?image=1",
+      "evidence": "Reuses the hooded face and scythe composition with the same dark bordered card; replaces the face and lower caption with smoking references."
+    },
+    {
+      "asset": "NEONS.NOFUCKSPUTINPEPE",
+      "original": "NOFUCKSPUTIN",
+      "collection": "neons",
+      "image": "https://cdn.xcp.io/img/full/NEONS.NOFUCKSPUTINPEPE?image=1",
+      "evidence": "Neon redraw of the same leaning portrait, hand pose, title and number-three caption."
+    },
+    {
+      "asset": "MONALISAPEPE.PIXELMIND",
+      "original": "MONALISAPEPE",
+      "collection": "monalisapepe",
+      "image": "https://cdn.xcp.io/img/full/MONALISAPEPE.PIXELMIND?image=1",
+      "evidence": "Direct pixel treatment of the original painter, Mona Lisa easel, title and accident/mistake text."
+    },
+    {
+      "asset": "BLUEBEAR.PUTIN",
+      "original": "PUTINPEPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.PUTIN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "PUTINOPEN",
+      "original": "PUTINPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/PUTINOPEN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "WEBIIIPUTIN",
+      "original": "PUTINPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/WEBIIIPUTIN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "WOJAKSPUTIN",
+      "original": "PUTINPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/WOJAKSPUTIN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "POPCORNPUTIN",
+      "original": "PUTINPEPE",
+      "collection": "the-pepe-project",
+      "image": "https://cdn.xcp.io/img/full/POPCORNPUTIN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "PUTINPOPCORN",
+      "original": "PUTINPEPE",
+      "collection": "the-pepe-project",
+      "image": "https://cdn.xcp.io/img/full/PUTINPOPCORN?image=1",
+      "evidence": "Reuses the original flag-backed portrait/card composition and numbered-series caption; face replacement, recoloring or redraw."
+    },
+    {
+      "asset": "CHINAKEVIN",
+      "original": "CHINAPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/CHINAKEVIN?image=1",
+      "evidence": "Exact composition with the red flag field, blond hair, hands and grin; replaces the face with Kevin and the Bitcoin flag emblem."
+    }
+  ],
+  "unapplied": []
+}

@@ -956,7 +956,13 @@
       "asset": "PIZZAGATE"
     },
     {
-      "asset": "POPCORNPUTIN"
+      "asset": "POPCORNPUTIN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "POTUSTRUMP"
@@ -977,7 +983,13 @@
       "asset": "PUREBLOODPEP"
     },
     {
-      "asset": "PUTINPOPCORN"
+      "asset": "PUTINPOPCORN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "QANON"

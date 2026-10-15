@@ -20905,6 +20905,10 @@
         {
           "trait_type": "Artist",
           "value": "Kevin Satoshi"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
         }
       ]
     },
@@ -33055,7 +33059,13 @@
       ]
     },
     {
-      "asset": "CHINAKEVIN"
+      "asset": "CHINAKEVIN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHINAPEPE"
+        }
+      ]
     },
     {
       "asset": "CHINASWAN",
@@ -43431,7 +43441,13 @@
       ]
     },
     {
-      "asset": "PUTINOPEN"
+      "asset": "PUTINOPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "PVTPEPE"
