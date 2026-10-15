@@ -1,0 +1,548 @@
+{
+  "date": "2026-10-15",
+  "method": "Five first-frame group sheets and four animation sheets viewed; ten animations sampled four spaced frames(allwhen<=4),not exhaustive playback. Enlarged source/derivative for security followup.",
+  "reviewed": [
+    {
+      "original": "PEPEJOKER",
+      "candidates": [
+        "DABCJOKER",
+        "DABCJOKER.CLUBSACE",
+        "DABCJOKER.CLUBSJACK",
+        "DABCJOKER.CLUBSKING",
+        "DABCJOKER.CLUBSQUEEN",
+        "DABCJOKER.SPADESACE",
+        "DABCJOKER.SPADESJACK",
+        "DABCJOKER.SPADESKING",
+        "DABCJOKER.SPADESQUEEN",
+        "DABCKING.BLACKJOKER",
+        "DANKJOKER",
+        "DGJOKER",
+        "DIMZ.KYC.JOKER.10",
+        "DIMZ.KYC.JOKER.100",
+        "DIMZ.KYC.JOKER.20",
+        "DIMZ.KYC.JOKER.5",
+        "DIMZ.KYC.JOKER.50",
+        "JOKERAPE",
+        "JOKERBOBO",
+        "JOKERGAN",
+        "JOKERN",
+        "JOKERPUN",
+        "MFERJOKER",
+        "PEPEJOKERS",
+        "PEPJOKER",
+        "PHOCKVILLAIN.JOKER",
+        "RAREJOKER",
+        "SAMEPEPE.JOKERUINED",
+        "WOJOKER"
+      ]
+    },
+    {
+      "original": "PEPEDRACULA",
+      "candidates": [
+        "DRACULAPE",
+        "DRACULAPEPE",
+        "PHOCKHORROR.DRACULA"
+      ]
+    },
+    {
+      "original": "NINJAPEPE",
+      "candidates": [
+        "COINNINJA",
+        "FAKENINJA",
+        "ICPNINJA",
+        "ITTORYUNINJA",
+        "NINJAFREN",
+        "NINJANON",
+        "NINJAPIGEON",
+        "NINJASTAMP",
+        "NINJASUIT",
+        "NINJAWALLET",
+        "RARENINJA",
+        "SMOLNINJA",
+        "TRASHNINJA"
+      ]
+    },
+    {
+      "original": "CORNMCAFEE",
+      "candidates": [
+        "CARDMCAFEE",
+        "FAKEMCAFEE.PALETTE",
+        "JOHNMCAFEES",
+        "MCAFEEPEEN",
+        "PHOCKHEADS.MCAFEE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MFERJOKER",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "JOKERBOBO",
+      "pages": 7,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "asset": "PEPJOKER",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SAMEPEPE.JOKERUINED",
+      "pages": 11,
+      "sampled_frames": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    {
+      "asset": "DRACULAPE",
+      "pages": 31,
+      "sampled_frames": [
+        0,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "asset": "FAKENINJA",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "SMOLNINJA",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    },
+    {
+      "asset": "TRASHNINJA",
+      "pages": 54,
+      "sampled_frames": [
+        0,
+        18,
+        35,
+        53
+      ]
+    },
+    {
+      "asset": "NINJASUIT",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "CARDMCAFEE",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.CLUBSACE",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.CLUBSJACK",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.CLUBSKING",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.CLUBSQUEEN",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.SPADESACE",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.SPADESJACK",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.SPADESKING",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCJOKER.SPADESQUEEN",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DABCKING.BLACKJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DANKJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DGJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DIMZ.KYC.JOKER.10",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DIMZ.KYC.JOKER.100",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DIMZ.KYC.JOKER.20",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DIMZ.KYC.JOKER.5",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "DIMZ.KYC.JOKER.50",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "JOKERAPE",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "JOKERBOBO",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-0.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "JOKERGAN",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "JOKERN",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "JOKERPUN",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "MFERJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "PEPEJOKERS",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "PEPJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "PHOCKVILLAIN.JOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "RAREJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "SAMEPEPE.JOKERUINED",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEJOKER",
+      "asset": "WOJOKER",
+      "status": "rejected",
+      "reason": "Source is a standing jester playing card with RAREPEPE pennant; candidates use different playing-card figures or external Batman Joker depictions, not distinctive source reuse.",
+      "evidence_sheet": "sheets/group-PEPEJOKER-19.png"
+    },
+    {
+      "original": "PEPEDRACULA",
+      "asset": "DRACULAPE",
+      "status": "rejected",
+      "reason": "Source white-haired fantasy swordsman/forest differs from Bela Lugosi, ape and pixel vampire portraits.",
+      "evidence_sheet": "sheets/group-PEPEDRACULA-0.png"
+    },
+    {
+      "original": "PEPEDRACULA",
+      "asset": "DRACULAPEPE",
+      "status": "rejected",
+      "reason": "Source white-haired fantasy swordsman/forest differs from Bela Lugosi, ape and pixel vampire portraits.",
+      "evidence_sheet": "sheets/group-PEPEDRACULA-0.png"
+    },
+    {
+      "original": "PEPEDRACULA",
+      "asset": "PHOCKHORROR.DRACULA",
+      "status": "rejected",
+      "reason": "Source white-haired fantasy swordsman/forest differs from Bela Lugosi, ape and pixel vampire portraits.",
+      "evidence_sheet": "sheets/group-PEPEDRACULA-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "COINNINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "FAKENINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "ICPNINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "ITTORYUNINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJAFREN",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJANON",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJAPIGEON",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJASTAMP",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJASUIT",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJAWALLET",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "RARENINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "SMOLNINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "TRASHNINJA",
+      "status": "rejected",
+      "reason": "Source crouching black-clad ninja/tree composition is not reused by the other ninja, turtle, samurai or game scenes.",
+      "evidence_sheet": "sheets/group-NINJAPEPE-0.png"
+    },
+    {
+      "original": "CORNMCAFEE",
+      "asset": "CARDMCAFEE",
+      "status": "rejected",
+      "reason": "No reuse of the photo of McAfee lighting a corn/cigarette. Other portraits and McAfee references are distinct; JOHNMCAFEES has closer SECURITYPEPE source separately confirmed.",
+      "evidence_sheet": "sheets/group-CORNMCAFEE-0.png"
+    },
+    {
+      "original": "CORNMCAFEE",
+      "asset": "FAKEMCAFEE.PALETTE",
+      "status": "rejected",
+      "reason": "No reuse of the photo of McAfee lighting a corn/cigarette. Other portraits and McAfee references are distinct; JOHNMCAFEES has closer SECURITYPEPE source separately confirmed.",
+      "evidence_sheet": "sheets/group-CORNMCAFEE-0.png"
+    },
+    {
+      "original": "CORNMCAFEE",
+      "asset": "JOHNMCAFEES",
+      "status": "rejected",
+      "reason": "No reuse of the photo of McAfee lighting a corn/cigarette. Other portraits and McAfee references are distinct; JOHNMCAFEES has closer SECURITYPEPE source separately confirmed.",
+      "evidence_sheet": "sheets/group-CORNMCAFEE-0.png"
+    },
+    {
+      "original": "CORNMCAFEE",
+      "asset": "MCAFEEPEEN",
+      "status": "rejected",
+      "reason": "No reuse of the photo of McAfee lighting a corn/cigarette. Other portraits and McAfee references are distinct; JOHNMCAFEES has closer SECURITYPEPE source separately confirmed.",
+      "evidence_sheet": "sheets/group-CORNMCAFEE-0.png"
+    },
+    {
+      "original": "CORNMCAFEE",
+      "asset": "PHOCKHEADS.MCAFEE",
+      "status": "rejected",
+      "reason": "No reuse of the photo of McAfee lighting a corn/cigarette. Other portraits and McAfee references are distinct; JOHNMCAFEES has closer SECURITYPEPE source separately confirmed.",
+      "evidence_sheet": "sheets/group-CORNMCAFEE-0.png"
+    },
+    {
+      "original": "SECURITYPEPE",
+      "asset": "JOHNMCAFEES",
+      "status": "accepted",
+      "reason": "Enlarged artwork reuses McPEPE Total Protection software box, attack1/defence999 stats, SECURITYPEPE title, patented protection sentence and annual-renewal wording. Integrated redesign is central, not incidental inset.",
+      "evidence": [
+        "https://cdn.xcp.io/img/full/SECURITYPEPE",
+        "https://cdn.xcp.io/img/full/JOHNMCAFEES"
+      ],
+      "chronology": "SECURITYPEPE Rare Pepe catalog and2016 issuance precede JOHNMCAFEES2026 issuance/media description.",
+      "issuance_evidence": [
+        "https://api.xcp.io/v2/assets/SECURITYPEPE/issuances?limit=100",
+        "https://api.xcp.io/v2/assets/JOHNMCAFEES/issuances?limit=100"
+      ],
+      "local_evidence": "security-evidence.json"
+    }
+  ],
+  "summary": {
+    "comparisons": 51,
+    "accepted": 1,
+    "rejected": 50
+  }
+}
