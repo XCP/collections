@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame grouped sheets and three shared animation sheets viewed against both originals. Nine unique animations sampled at four spaced positions, not exhaustive playback. Rejections are specific to these originals and inspected material.",
+  "reviewed": [
+    {
+      "original": "RETROPEPE",
+      "volume_usd": 10676.964137555422,
+      "buyers": 26,
+      "candidates": [
+        "FROSRETROUVL",
+        "KARATERETRO",
+        "NORETRONET",
+        "RETROART",
+        "RETROCORN",
+        "RETROCTOPUS",
+        "RETROFARMER",
+        "RETROFEEL",
+        "RETROFICTION",
+        "RETROHAIR.SUPERSHINE",
+        "RETROKEKKEN",
+        "RETROKEKS",
+        "RETROKIRBPEP",
+        "RETROPEPMAN",
+        "RETROSTART",
+        "RETROTETRIS"
+      ]
+    },
+    {
+      "original": "PEPERETRO",
+      "volume_usd": 3749.7567956083326,
+      "buyers": 23,
+      "candidates": [
+        "FROSRETROUVL",
+        "KARATERETRO",
+        "NORETRONET",
+        "RETROART",
+        "RETROCORN",
+        "RETROCTOPUS",
+        "RETROFARMER",
+        "RETROFEEL",
+        "RETROFICTION",
+        "RETROHAIR.SUPERSHINE",
+        "RETROKEKKEN",
+        "RETROKEKS",
+        "RETROKIRBPEP",
+        "RETROPEPMAN",
+        "RETROSTART",
+        "RETROTETRIS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "NORETRONET",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "PEPERETRO",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    },
+    {
+      "asset": "RETROCTOPUS",
+      "pages": 195,
+      "sampled_frames": [
+        0,
+        65,
+        129,
+        194
+      ]
+    },
+    {
+      "asset": "KARATERETRO",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "RETROPEPMAN",
+      "pages": 501,
+      "sampled_frames": [
+        0,
+        167,
+        333,
+        500
+      ]
+    },
+    {
+      "asset": "RETROKIRBPEP",
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    {
+      "asset": "RETROSTART",
+      "pages": 336,
+      "sampled_frames": [
+        0,
+        112,
+        223,
+        335
+      ]
+    },
+    {
+      "asset": "RETROFEEL",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    },
+    {
+      "asset": "RETROTETRIS",
+      "pages": 94,
+      "sampled_frames": [
+        0,
+        31,
+        62,
+        93
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RETROPEPE",
+      "asset": "FROSRETROUVL",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "KARATERETRO",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "NORETRONET",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROART",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROCORN",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROCTOPUS",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROFARMER",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROFEEL",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROFICTION",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROHAIR.SUPERSHINE",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROKEKKEN",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROKEKS",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROKIRBPEP",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROPEPMAN",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROSTART",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROTETRIS",
+      "status": "rejected",
+      "reason": "No reuse of the two green figures on a tie-dye background or the RetroPepe from the 60s and 70s card layout/text. Retro styling, games and name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROPEPE-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "FROSRETROUVL",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "KARATERETRO",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "NORETRONET",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROART",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROCORN",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROCTOPUS",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROFARMER",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROFEEL",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROFICTION",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROHAIR.SUPERSHINE",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROKEKKEN",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROKEKS",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROKIRBPEP",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROPEPMAN",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROSTART",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    },
+    {
+      "original": "PEPERETRO",
+      "asset": "RETROTETRIS",
+      "status": "rejected",
+      "reason": "No reuse of the Retro Pepe neon title over a CRT television with changing montage and static. Other retro/game-themed artworks differ in the inspected frames.",
+      "evidence_sheet": "sheets/group-PEPERETRO-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 32,
+    "accepted": 0,
+    "rejected": 32
+  }
+}
