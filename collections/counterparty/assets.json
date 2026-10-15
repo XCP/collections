@@ -6291,6 +6291,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DALIPEPE"
         }
       ]
     },
@@ -35662,7 +35666,13 @@
       "asset": "FAKENOPOFLIP"
     },
     {
-      "asset": "FAKENOTYOTET"
+      "asset": "FAKENOTYOTET",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHONGPEPE"
+        }
+      ]
     },
     {
       "asset": "FAKEPEPEBUTT"
