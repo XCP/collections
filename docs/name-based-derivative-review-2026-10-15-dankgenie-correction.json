@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-15",
+  "source": "Direct attribution from Dan: This is a match; screenshot labels GENIEPEPE and DANKGENIE.",
+  "decisions": [
+    {
+      "original": "GENIEPEPE",
+      "asset": "DANKGENIE",
+      "status": "accepted",
+      "reason": "Dan explicitly confirmed DANKGENIE is a derivative of GENIEPEPE in a side-by-side screenshot. User editorial attribution supersedes the initial visual rejection.",
+      "previous_status": "rejected",
+      "source": "Direct user attribution, 2026-10-15"
+    }
+  ],
+  "supersedes": {
+    "evidence_file": "name-based-derivative-review-2026-10-15-volume-83b.json",
+    "original": "GENIEPEPE",
+    "asset": "DANKGENIE",
+    "previous_status": "rejected"
+  },
+  "policy": "User-supplied derivative attributions are authoritative editorial evidence and do not require independent rechecking."
+}
