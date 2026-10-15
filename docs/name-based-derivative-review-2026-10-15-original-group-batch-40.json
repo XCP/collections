@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame grouped sheets and three animation sheets viewed. Seven animations sampled at four spaced positions; all unique frames of HODLTRUMPS.SPRAYCAN (2) and PEPESPRAYCAP (4). Longer animations not exhaustively reviewed. Rejections are specific to these originals and inspected material.",
+  "reviewed": [
+    {
+      "original": "PEPETACO",
+      "volume_usd": 11447.1021793259,
+      "buyers": 33,
+      "candidates": [
+        "DATACOLLECT",
+        "LANADELTACO",
+        "LANADELTACO.THREETACOS",
+        "MDRN.FAKEYOUROWNTACO",
+        "METACORN",
+        "METACORNPEPE",
+        "PINKTACO",
+        "PINKTACO.ANYTHING",
+        "PINKTACO.SLURP_SLURP",
+        "PINKTACO.VEGAN",
+        "SHART.TACO",
+        "TACOPEPESTOR",
+        "TENTACOOL",
+        "TRUMPTACO"
+      ]
+    },
+    {
+      "original": "PEPECONCERT",
+      "volume_usd": 10025.170681762773,
+      "buyers": 11,
+      "candidates": [
+        "CONCERTSHAD",
+        "DANKCONCERT",
+        "DJPEPE.COLDPLAY_CONCERT"
+      ]
+    },
+    {
+      "original": "NOBUSHIPEPE",
+      "volume_usd": 5487.285232450894,
+      "buyers": 6,
+      "candidates": [
+        "FAKENOBUSHI",
+        "NOBUSHINUNES"
+      ]
+    },
+    {
+      "original": "PEPESPRAY",
+      "volume_usd": 4513.186241751702,
+      "buyers": 27,
+      "candidates": [
+        "HODLTRUMPS.SPRAYCAN",
+        "PEPESPRAYCAP",
+        "PEPESPRAYER",
+        "SPRAY"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PINKTACO",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    },
+    {
+      "asset": "DATACOLLECT",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "PINKTACO.SLURP_SLURP",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "PEPECONCERT",
+      "pages": 49,
+      "sampled_frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "asset": "CONCERTSHAD",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    },
+    {
+      "asset": "HODLTRUMPS.SPRAYCAN",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "PEPESPRAYCAP",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPETACO",
+      "asset": "DATACOLLECT",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "LANADELTACO",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "LANADELTACO.THREETACOS",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "MDRN.FAKEYOUROWNTACO",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "METACORN",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "METACORNPEPE",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "PINKTACO",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "PINKTACO.ANYTHING",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "PINKTACO.SLURP_SLURP",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "PINKTACO.VEGAN",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "SHART.TACO",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "TACOPEPESTOR",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "TENTACOOL",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPETACO",
+      "asset": "TRUMPTACO",
+      "status": "rejected",
+      "reason": "Different compositions from the split-panel cantina card with multiple Pepes filling a taco and restaurant scene. Taco subjects and substring hits do not establish reuse.",
+      "evidence_sheet": "sheets/group-PEPETACO-0.png"
+    },
+    {
+      "original": "PEPECONCERT",
+      "asset": "CONCERTSHAD",
+      "status": "rejected",
+      "reason": "No reuse of the projected Pepe face, silhouetted audience, Rock & Pepe All Night divider and opening-curtain panel in the inspected frames. Other concert scenes differ.",
+      "evidence_sheet": "sheets/group-PEPECONCERT-0.png"
+    },
+    {
+      "original": "PEPECONCERT",
+      "asset": "DANKCONCERT",
+      "status": "rejected",
+      "reason": "No reuse of the projected Pepe face, silhouetted audience, Rock & Pepe All Night divider and opening-curtain panel in the inspected frames. Other concert scenes differ.",
+      "evidence_sheet": "sheets/group-PEPECONCERT-0.png"
+    },
+    {
+      "original": "PEPECONCERT",
+      "asset": "DJPEPE.COLDPLAY_CONCERT",
+      "status": "rejected",
+      "reason": "No reuse of the projected Pepe face, silhouetted audience, Rock & Pepe All Night divider and opening-curtain panel in the inspected frames. Other concert scenes differ.",
+      "evidence_sheet": "sheets/group-PEPECONCERT-0.png"
+    },
+    {
+      "original": "NOBUSHIPEPE",
+      "asset": "FAKENOBUSHI",
+      "status": "rejected",
+      "reason": "Different seated/armored figures and framing, not the grey-green upward sword pose. Shared Nobushi name or samurai subject is insufficient.",
+      "evidence_sheet": "sheets/group-NOBUSHIPEPE-0.png"
+    },
+    {
+      "original": "NOBUSHIPEPE",
+      "asset": "NOBUSHINUNES",
+      "status": "rejected",
+      "reason": "Different seated/armored figures and framing, not the grey-green upward sword pose. Shared Nobushi name or samurai subject is insufficient.",
+      "evidence_sheet": "sheets/group-NOBUSHIPEPE-0.png"
+    },
+    {
+      "original": "PEPESPRAY",
+      "asset": "HODLTRUMPS.SPRAYCAN",
+      "status": "rejected",
+      "reason": "No reuse of the green hand holding a red can at a concrete graffiti wall. Candidates show an isolated can, anthropomorphic cap, prayer illustration or colorful spray character.",
+      "evidence_sheet": "sheets/group-PEPESPRAY-0.png"
+    },
+    {
+      "original": "PEPESPRAY",
+      "asset": "PEPESPRAYCAP",
+      "status": "rejected",
+      "reason": "No reuse of the green hand holding a red can at a concrete graffiti wall. Candidates show an isolated can, anthropomorphic cap, prayer illustration or colorful spray character.",
+      "evidence_sheet": "sheets/group-PEPESPRAY-0.png"
+    },
+    {
+      "original": "PEPESPRAY",
+      "asset": "PEPESPRAYER",
+      "status": "rejected",
+      "reason": "No reuse of the green hand holding a red can at a concrete graffiti wall. Candidates show an isolated can, anthropomorphic cap, prayer illustration or colorful spray character.",
+      "evidence_sheet": "sheets/group-PEPESPRAY-0.png"
+    },
+    {
+      "original": "PEPESPRAY",
+      "asset": "SPRAY",
+      "status": "rejected",
+      "reason": "No reuse of the green hand holding a red can at a concrete graffiti wall. Candidates show an isolated can, anthropomorphic cap, prayer illustration or colorful spray character.",
+      "evidence_sheet": "sheets/group-PEPESPRAY-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 23,
+    "accepted": 0,
+    "rejected": 23
+  }
+}
