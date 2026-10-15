@@ -1224,7 +1224,13 @@
       "asset": "TRUMPKENNEDY"
     },
     {
-      "asset": "TRUMPOWER"
+      "asset": "TRUMPOWER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GAMESOFTRUMP"
+        }
+      ]
     },
     {
       "asset": "TRUMPRALLY",
