@@ -34,7 +34,13 @@
       "asset": "PURPLEFROG.magic.purple"
     },
     {
-      "asset": "PURPLEFROG.TRUMPFROG"
+      "asset": "PURPLEFROG.TRUMPFROG",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "PURPLEFROG.PURPLEBIRD.destroyer.gallery.3"
