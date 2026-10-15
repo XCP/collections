@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-15",
+  "method": "Two group sheets and two animation sheets viewed; four animations sampled four spaced frames. CORNBASQ/SPAMBASQIAT and PUZZLEPEPE/COCOPUZZLE enlarged images viewed. Sliding-board match authoritative user attribution; direction checked using media-bearing descriptions.",
+  "reviewed": [
+    {
+      "original": "RARELORDKEK",
+      "candidates": [
+        "FAKELORDKEK.PURP",
+        "FAKELORDKEK.SACRIFICE",
+        "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads"
+      ]
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "candidates": [
+        "COCOPUZZLE",
+        "FAKEPUZZLE.FAKERARES2",
+        "FAKEPUZZLE.FAKERARESI",
+        "PEPEPUZZLE",
+        "PEPUZZLE",
+        "SHADPUZZLE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKELORDKEK.SACRIFICE",
+      "pages": 150,
+      "sampled_frames": [
+        0,
+        50,
+        99,
+        149
+      ]
+    },
+    {
+      "asset": "PUZZLEPEPE",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    },
+    {
+      "asset": "PEPUZZLE",
+      "pages": 101,
+      "sampled_frames": [
+        0,
+        33,
+        67,
+        100
+      ]
+    },
+    {
+      "asset": "SHADPUZZLE",
+      "pages": 102,
+      "sampled_frames": [
+        0,
+        34,
+        67,
+        101
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RARELORDKEK",
+      "asset": "FAKELORDKEK.PURP",
+      "status": "rejected",
+      "reason": "Seated throne figures do not reuse the flat Egyptian profile portrait. Closer FAKELORDKEK parent is a separate lead.",
+      "evidence_sheet": "sheets/group-RARELORDKEK-0.png"
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "FAKELORDKEK.SACRIFICE",
+      "status": "rejected",
+      "reason": "Seated throne figures do not reuse the flat Egyptian profile portrait. Closer FAKELORDKEK parent is a separate lead.",
+      "evidence_sheet": "sheets/group-RARELORDKEK-0.png"
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads",
+      "status": "rejected",
+      "reason": "Seated throne figures do not reuse the flat Egyptian profile portrait. Closer FAKELORDKEK parent is a separate lead.",
+      "evidence_sheet": "sheets/group-RARELORDKEK-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "COCOPUZZLE",
+      "status": "ambiguous",
+      "reason": "Hand-drawn jigsaw character holding a Pepe piece is suggestive, but enlarged images show different pose, anatomy and piece layout; direct source versus shared puzzle idea remains uncertain.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "FAKEPUZZLE.FAKERARES2",
+      "status": "rejected",
+      "reason": "Sliding tile boards or generic puzzle icons/Tetris scene do not reuse the hand-drawn jigsaw Pepe giving an OK gesture.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "FAKEPUZZLE.FAKERARESI",
+      "status": "rejected",
+      "reason": "Sliding tile boards or generic puzzle icons/Tetris scene do not reuse the hand-drawn jigsaw Pepe giving an OK gesture.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "PEPEPUZZLE",
+      "status": "rejected",
+      "reason": "Sliding tile boards or generic puzzle icons/Tetris scene do not reuse the hand-drawn jigsaw Pepe giving an OK gesture.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "PEPUZZLE",
+      "status": "rejected",
+      "reason": "Sliding tile boards or generic puzzle icons/Tetris scene do not reuse the hand-drawn jigsaw Pepe giving an OK gesture.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "PUZZLEPEPE",
+      "asset": "SHADPUZZLE",
+      "status": "rejected",
+      "reason": "Sliding tile boards or generic puzzle icons/Tetris scene do not reuse the hand-drawn jigsaw Pepe giving an OK gesture.",
+      "evidence_sheet": "sheets/group-PUZZLEPEPE-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "SPAMBASQIAT",
+      "status": "rejected",
+      "reason": "Full-size images show different central drawings and fields; shared artist Mandarinemarie, crown and red/white/black strokes do not establish direct reworking.",
+      "local_evidence": "basq-evidence.json"
+    },
+    {
+      "original": "PEPUZZLE",
+      "asset": "SHADPUZZLE",
+      "status": "accepted",
+      "source": "User identified the match in this conversation; existing visual samples show matching wood sliding-puzzle board/layout and animation treatment.",
+      "direction_evidence": "PEPUZZLE JSON description at block737033 (May2022); SHADPUZZLE JSON description at creation block747836 (August2022).",
+      "evidence_urls": [
+        "https://api.xcp.io/v2/assets/PEPUZZLE/issuances?limit=100",
+        "https://api.xcp.io/v2/assets/SHADPUZZLE/issuances?limit=100"
+      ],
+      "local_evidence": "sliding-puzzle-evidence.json"
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "CORNBASQ",
+      "asset": "SPAMBASQIAT",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-9.json",
+      "status": "rejected"
+    }
+  ],
+  "summary": {
+    "comparisons": 11,
+    "accepted": 1,
+    "rejected": 9,
+    "ambiguous": 1
+  }
+}

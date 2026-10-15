@@ -773,7 +773,13 @@
       "asset": "SHADNOSAURUS"
     },
     {
-      "asset": "SHADPUZZLE"
+      "asset": "SHADPUZZLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPUZZLE"
+        }
+      ]
     },
     {
       "asset": "SHADRARE"
