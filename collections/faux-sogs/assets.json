@@ -1106,6 +1106,10 @@
         {
           "trait_type": "Artist",
           "value": "Pinocchio"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MINERCARD"
         }
       ]
     },
@@ -1778,6 +1782,10 @@
         {
           "trait_type": "Artist",
           "value": "crypto hunks"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MINERCARD"
         }
       ]
     },

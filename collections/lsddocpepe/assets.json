@@ -14,7 +14,13 @@
       "asset": "LSDDOCPEPE.BITTSBURG"
     },
     {
-      "asset": "LSDDOCPEPE.63"
+      "asset": "LSDDOCPEPE.63",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LSDDOCPEPE"
+        }
+      ]
     }
   ]
 }
