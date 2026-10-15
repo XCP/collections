@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-15",
+  "method": "Four original-to-many first-frame sheets and three animation sheets inspected. Eight animations including two originals sampled at four spaced positions; all three MASTEROFAPE and all four ONLYPUMP frames included. Longer animations not exhaustively reviewed. Decisions are source-specific.",
+  "reviewed": [
+    {
+      "original": "MASTEROFPEPE",
+      "volume_usd": 22833.87841233907,
+      "buyers": 78,
+      "candidates": [
+        "MASTEROFAPE",
+        "MASTEROFKEKO"
+      ]
+    },
+    {
+      "original": "JUDYPEPE",
+      "volume_usd": 23141.253815933957,
+      "buyers": 41,
+      "candidates": [
+        "OGSAN.HEROJUDY",
+        "OGSAN.HOLOJUDY"
+      ]
+    },
+    {
+      "original": "FRATPEPE",
+      "volume_usd": 23020.886733297608,
+      "buyers": 173,
+      "candidates": [
+        "XFCPFRATOTTI"
+      ]
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "volume_usd": 4951.152656775858,
+      "buyers": 150,
+      "candidates": [
+        "BITCOINPUMP",
+        "FWCFCPUMPKIC",
+        "GASPUMPPEPE",
+        "OILPUMP",
+        "ONLYPUMP",
+        "PUMPACTION",
+        "PUMPDUMP",
+        "PUMPEPE",
+        "PUMPGOD",
+        "PUMPIT",
+        "PUMPNOAT",
+        "PUMPTHEFAC",
+        "SOCKPUMP",
+        "TRUMPPUMP",
+        "VTLKPUMP",
+        "VTLKPUMPBLEU",
+        "WAMPUMPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MASTEROFAPE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "MASTEROFPEPE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "PUMPACTION",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "ONLYPUMP",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "RAREPEPEPUMP",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "OILPUMP",
+      "pages": 49,
+      "sampled_frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "asset": "PUMPGOD",
+      "pages": 265,
+      "sampled_frames": [
+        0,
+        88,
+        176,
+        264
+      ]
+    },
+    {
+      "asset": "PUMPEPE",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MASTEROFPEPE",
+      "asset": "MASTEROFAPE",
+      "status": "rejected",
+      "reason": "Top-hatted frog manipulating ape puppet, not rotating pale frog bust. No distinctive source artwork reuse. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-MASTEROFPEPE-0.png"
+    },
+    {
+      "original": "MASTEROFPEPE",
+      "asset": "MASTEROFKEKO",
+      "status": "rejected",
+      "reason": "Frog craftsman at workbench, not source sculpture. No distinctive source artwork reuse. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-MASTEROFPEPE-0.png"
+    },
+    {
+      "original": "JUDYPEPE",
+      "asset": "OGSAN.HEROJUDY",
+      "status": "rejected",
+      "reason": "Curly-haired human Judy Mam portrait, not bunny-eared police frog. No distinctive source artwork reuse. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-JUDYPEPE-0.png"
+    },
+    {
+      "original": "JUDYPEPE",
+      "asset": "OGSAN.HOLOJUDY",
+      "status": "rejected",
+      "reason": "Curly-haired human Judy Mam portrait, not bunny-eared police frog. No distinctive source artwork reuse. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-JUDYPEPE-0.png"
+    },
+    {
+      "original": "FRATPEPE",
+      "asset": "XFCPFRATOTTI",
+      "status": "rejected",
+      "reason": "Francesco Totti football card, unrelated substring. No distinctive source artwork reuse. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-FRATPEPE-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "BITCOINPUMP",
+      "status": "rejected",
+      "reason": "Gold/black ornamental muscular figure; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "FWCFCPUMPKIC",
+      "status": "rejected",
+      "reason": "Fantasy mechanical Pumpkin Carriage card; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "GASPUMPPEPE",
+      "status": "rejected",
+      "reason": "Frog beside gas dispenser; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "OILPUMP",
+      "status": "rejected",
+      "reason": "Oil pumpjack scene; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "ONLYPUMP",
+      "status": "rejected",
+      "reason": "Gym frog with dumbbell; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPACTION",
+      "status": "rejected",
+      "reason": "Pump-action shotgun animation; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPDUMP",
+      "status": "rejected",
+      "reason": "Abstract colored paint; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPEPE",
+      "status": "rejected",
+      "reason": "Rocket and moon/PepeCash sequence; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPGOD",
+      "status": "rejected",
+      "reason": "Frog inflation/pumping collage with car and gas pump; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPIT",
+      "status": "rejected",
+      "reason": "Green-masked suited caller; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPNOAT",
+      "status": "rejected",
+      "reason": "Bird weightlifter with oat milk; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "PUMPTHEFAC",
+      "status": "rejected",
+      "reason": "Framed muscular ape in space; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "SOCKPUMP",
+      "status": "rejected",
+      "reason": "Sock puppet and anime price-chart collage; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "TRUMPPUMP",
+      "status": "rejected",
+      "reason": "Trump on toilet; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "VTLKPUMP",
+      "status": "rejected",
+      "reason": "Two standing figures outdoors; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "VTLKPUMPBLEU",
+      "status": "rejected",
+      "reason": "Blue variant of two standing figures; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    },
+    {
+      "original": "RAREPEPEPUMP",
+      "asset": "WAMPUMPEPE",
+      "status": "rejected",
+      "reason": "Beaded frog design and French text; no specific reuse of Sylvester-like cat with meme face and hand pump in orange oval card. Names or shared themes alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPEPUMP-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 22,
+    "accepted": 0,
+    "rejected": 22
+  }
+}
