@@ -304,7 +304,13 @@
       ]
     },
     {
-      "asset": "ETOLE"
+      "asset": "ETOLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ELOTE"
+        }
+      ]
     },
     {
       "asset": "FARMGOTHIC",
@@ -430,7 +436,13 @@
       ]
     },
     {
-      "asset": "ISTHISAGRAIL"
+      "asset": "ISTHISAGRAIL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMIE"
+        }
+      ]
     },
     {
       "asset": "KERNELISLAND",
@@ -658,6 +670,10 @@
         {
           "trait_type": "Artist",
           "value": "BLISSFULMORG"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CORNBUDDHA"
         }
       ]
     },
