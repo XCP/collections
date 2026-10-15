@@ -42733,7 +42733,13 @@
       "asset": "PEPETOURIST"
     },
     {
-      "asset": "PEPETRASHED"
+      "asset": "PEPETRASHED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRASH"
+        }
+      ]
     },
     {
       "asset": "PEPETREASRE",
