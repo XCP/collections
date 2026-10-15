@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "SECURITYPEPE.FAKERARE"
+      "asset": "SECURITYPEPE.FAKERARE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SECURITYPEPE"
+        }
+      ]
     }
   ]
 }

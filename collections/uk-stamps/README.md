@@ -10,7 +10,7 @@
 | Primary memberships | 10 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 10/10 (100%)<br>Based on: 8/10 (80%) |
+| Traits | Artist: 10/10 (100%)<br>Based on: 9/10 (90%) |
 <!-- collection-facts:end -->
 
 All ten descendants have reviewed artwork in a consistent British postage-stamp design. This is a Counterparty artwork family, not a claim of membership in the Bitcoin Stamps protocol. The blank UKSTAMPS namespace parent has no reviewed artwork and is excluded.

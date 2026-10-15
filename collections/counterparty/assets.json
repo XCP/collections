@@ -29632,6 +29632,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -40015,6 +40019,10 @@
         {
           "trait_type": "Artist",
           "value": "MrCryptHodl"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -47358,7 +47366,13 @@
       ]
     },
     {
-      "asset": "WOKENAKAMOTO"
+      "asset": "WOKENAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "WOKINABOX"

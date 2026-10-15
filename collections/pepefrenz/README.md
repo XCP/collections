@@ -10,7 +10,7 @@
 | Primary memberships | 13 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 13/13 (100%)<br>Based on: 5/13 (38.5%) |
+| Traits | Artist: 13/13 (100%)<br>Based on: 7/13 (53.8%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
