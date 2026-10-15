@@ -34,7 +34,13 @@
       ]
     },
     {
-      "asset": "COVPENPEN"
+      "asset": "COVPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "COVPEPERARE"
+        }
+      ]
     },
     {
       "asset": "CYBORPEN"
