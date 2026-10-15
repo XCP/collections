@@ -1401,7 +1401,13 @@
       ]
     },
     {
-      "asset": "NAKAMOTOAPE"
+      "asset": "NAKAMOTOAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "NAPEOLEON"
