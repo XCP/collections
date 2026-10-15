@@ -317,7 +317,13 @@
       ]
     },
     {
-      "asset": "KIMJONGORD"
+      "asset": "KIMJONGORD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "KYOKUPEPE"
