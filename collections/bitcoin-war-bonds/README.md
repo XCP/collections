@@ -10,7 +10,7 @@
 | Primary memberships | 11 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Based on: 1/12 (8.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
