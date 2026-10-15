@@ -13,7 +13,13 @@
       "asset": "SNIBBY.bonjour"
     },
     {
-      "asset": "SNIBBY.checkcrab"
+      "asset": "SNIBBY.checkcrab",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHECKPEPE"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.connoiseur"

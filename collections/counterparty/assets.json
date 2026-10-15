@@ -38292,7 +38292,13 @@
       "asset": "KEKIRODEVTH"
     },
     {
-      "asset": "KEKJOINTSPH"
+      "asset": "KEKJOINTSPH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEJOINTSPH"
+        }
+      ]
     },
     {
       "asset": "KEKKEIGENKAI",
