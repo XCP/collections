@@ -1,0 +1,424 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets, two animation sheets and two Buddha enlargements viewed. Five animations sampled four spaced positions, both BUDDHAAPE frames viewed; not exhaustive for longer animations. Exact replicated corn-faced figure and tree establish derivation, supported by older Bitcorn source and later candidate linked media.",
+  "reviewed": [
+    {
+      "original": "CORNGEISHA",
+      "volume_usd": 211.4699425,
+      "buyers": 5,
+      "candidates": [
+        "GOREGEISHA",
+        "PEPAGEISHA",
+        "PIGEISHA"
+      ]
+    },
+    {
+      "original": "CORNBUDDHA",
+      "volume_usd": 52.2520185,
+      "buyers": 5,
+      "candidates": [
+        "BUDDHAAPE",
+        "BUDDHAOFCOIN",
+        "BUDDHAPEPES",
+        "MSTRPEPES.PEPEBUDDHAGROTTO",
+        "MSTRPEPES.SEATEDPEPEBUDDHAS",
+        "PEPEBUDDHAC",
+        "TRIPLEBUDDHA"
+      ]
+    },
+    {
+      "original": "PEPEPUFF",
+      "volume_usd": 21811.11614198041,
+      "buyers": 53,
+      "candidates": [
+        "BUTTERPUFF",
+        "COTTONPUFF",
+        "JIGGLYPUFF",
+        "PEPPLYPUFF",
+        "PUFFDRAGON",
+        "PUFFMAN",
+        "PUFFNSTUFF",
+        "PUFFPUFFPASS",
+        "PUNCHPUFF.0428c4001d0",
+        "PUNCHPUFF.046f7f381c0",
+        "PUNCHPUFF.0471be001d0",
+        "PUNCHPUFF.047513381c0",
+        "PUNCHPUFF.0493e40a1c0",
+        "PUNCHPUFF.04a7bc201c0",
+        "PUNCHPUFF.04c38c001d0",
+        "PUNCHPUFF.04e5b3431c0",
+        "PUNCHPUFF.04f4a3051c0",
+        "PUNCHPUFF.04fd68011c0"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BUDDHAAPE",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "asset": "CORNBUDDHA",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "PUFFMAN",
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    {
+      "asset": "PEPPLYPUFF",
+      "pages": 51,
+      "sampled_frames": [
+        0,
+        17,
+        33,
+        50
+      ]
+    },
+    {
+      "asset": "PUFFPUFFPASS",
+      "pages": 180,
+      "sampled_frames": [
+        0,
+        60,
+        119,
+        179
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNGEISHA",
+      "asset": "GOREGEISHA",
+      "status": "rejected",
+      "reason": "Different geisha drawings, poses and backgrounds; no corn-cob figure reuse.",
+      "evidence_sheet": "sheets/group-CORNGEISHA-0.png"
+    },
+    {
+      "original": "CORNGEISHA",
+      "asset": "PEPAGEISHA",
+      "status": "rejected",
+      "reason": "Different geisha drawings, poses and backgrounds; no corn-cob figure reuse.",
+      "evidence_sheet": "sheets/group-CORNGEISHA-0.png"
+    },
+    {
+      "original": "CORNGEISHA",
+      "asset": "PIGEISHA",
+      "status": "rejected",
+      "reason": "Different geisha drawings, poses and backgrounds; no corn-cob figure reuse.",
+      "evidence_sheet": "sheets/group-CORNGEISHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "BUDDHAAPE",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "BUDDHAOFCOIN",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "BUDDHAPEPES",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "MSTRPEPES.PEPEBUDDHAGROTTO",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "MSTRPEPES.SEATEDPEPEBUDDHAS",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "PEPEBUDDHAC",
+      "status": "rejected",
+      "reason": "Different Buddha figures and scenes; no source corn-faced figure/tree reuse.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "TRIPLEBUDDHA",
+      "status": "accepted",
+      "reason": "Triplicates exact seated corn-faced Buddha and reuses tree/foliage and scene with color distortion.",
+      "evidence_sheet": "sheets/group-CORNBUDDHA-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "BUTTERPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "COTTONPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "JIGGLYPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PEPPLYPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUFFDRAGON",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUFFMAN",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUFFNSTUFF",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUFFPUFFPASS",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.0428c4001d0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.046f7f381c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.0471be001d0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.047513381c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.0493e40a1c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.04a7bc201c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.04c38c001d0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.04e5b3431c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.04f4a3051c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    },
+    {
+      "original": "PEPEPUFF",
+      "asset": "PUNCHPUFF.04fd68011c0",
+      "status": "rejected",
+      "reason": "No reuse of the three Powerpuff Pepe characters, poses or card text; shared puff name fragment is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPUFF-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "CORNBUDDHA",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "9bb9632d77a92ab628604c22c56c1f2d2f23023f7f3fcdf340a6139a37ad9505",
+            "block_index": 551740,
+            "block_time": 1543351675,
+            "source": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "325e4841d6c0adce16a7d211d330fd368010e3c6386c3906e8462f5559fc241b",
+            "asset_events": "transfer change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "31fa61b91ead2e28eaa098b39d2b12b57cf94bfb22d3776e40288981e3cd67f9",
+            "block_index": 542733,
+            "block_time": 1537731543,
+            "source": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "issuer": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "8a442255414f05957b9e7ffa2d01112ceae382f6b9639fe624d818fd9f7c318c",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9241df7fc0a289ffdcc8194c74bf90773536091e783d6990d2f427d73d800cbd",
+            "block_index": 542496,
+            "block_time": 1537594445,
+            "source": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "issuer": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "transfer": 0,
+            "quantity_normalized": "27",
+            "description": "8a442255414f05957b9e7ffa2d01112ceae382f6b9639fe624d818fd9f7c318c",
+            "asset_events": "change_description reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "608ebdd8da8d1ec564b6392d160255ff08f945d357a25f6da7a1bbbd1a106f5e",
+            "block_index": 542496,
+            "block_time": 1537594445,
+            "source": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "issuer": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "325e4841d6c0adce16a7d211d330fd368010e3c6386c3906e8462f5559fc241b",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "2e95b3e1add038718d874b83d12356c19fb607d3d0ac54f6617664a410e8703f",
+            "block_index": 542018,
+            "block_time": 1537319173,
+            "source": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "issuer": "1BcCB8AarTdo3KYBokLawMzUE7LPdAZB1p",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "8a442255414f05957b9e7ffa2d01112ceae382f6b9639fe624d818fd9f7c318c",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "TRIPLEBUDDHA",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "9812a718b49f4d889b85b4bb766e6f98f637cc33a91110699a48d719c7430cd4",
+            "block_index": 704955,
+            "block_time": 1634206246,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/XM1YrKC.jpg;TRIPLEBUDDHA",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e84ddd90f4337e4ed06c25f3ecc0e053776c69847ea0cc708921ef1c10abed95",
+            "block_index": 591589,
+            "block_time": 1566678686,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "711a39ace370fad9f91a68207d5b79ced4e01187",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3020d88b90e818c060ea268c474a32111be79321c4324bb8ad73f74a06734dc8",
+            "block_index": 591588,
+            "block_time": 1566677634,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "27",
+            "description": "711a39ace370fad9f91a68207d5b79ced4e01187",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 28,
+    "accepted": 1,
+    "rejected": 27
+  }
+}

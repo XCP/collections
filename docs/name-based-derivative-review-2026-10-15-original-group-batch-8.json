@@ -1,0 +1,364 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame group sheets and four animation sheets viewed; eight animations sampled four spaced frames, not exhaustive playback. Two dark images enlarged with normalized contrast for inspection only; originals unchanged.",
+  "reviewed": [
+    {
+      "original": "MONDRIANCORN",
+      "candidates": [
+        "COCOMONDRIAN",
+        "DIAMONDRIAN",
+        "FIVEMEODMT.MONDRIAN",
+        "MONDRIANAPE",
+        "MONDRIANFAKE",
+        "PEPMONDRIAN",
+        "QRMONDRIAN",
+        "SHADINACCI.MONDRIAN"
+      ]
+    },
+    {
+      "original": "SOGSALVADOR",
+      "candidates": [
+        "FAKESALVADOR",
+        "MONAS.SALVADOR",
+        "SALVADORPEPE"
+      ]
+    },
+    {
+      "original": "SOGHALVING",
+      "candidates": [
+        "CARDHALVING",
+        "HALVING",
+        "PEPEHALVING"
+      ]
+    },
+    {
+      "original": "PEPELAMBO",
+      "candidates": [
+        "BRNYRDLAMBO",
+        "CSHGRBORANGE.FLAMBOONEYBIN",
+        "FAKECEZANNE.LAMBO",
+        "FARMERSLAMBO",
+        "LAMBOCLASSIC",
+        "LAMBOCRASH",
+        "LAMBODROOL",
+        "LAMBOFAKE.PURPLE",
+        "LAMBOFAKE.TEST",
+        "LAMBOGARAGE",
+        "LAMBOHORSE",
+        "LAMBORDINAL",
+        "MOONLAMBO",
+        "PEPESLAMBO",
+        "SONOFALAMBO",
+        "WENSMOWLAMBO",
+        "XPEPEXLAMBO"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "SALVADORPEPE",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "MONAS.SALVADOR",
+      "pages": 56,
+      "sampled_frames": [
+        0,
+        18,
+        37,
+        55
+      ]
+    },
+    {
+      "asset": "CARDHALVING",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "LAMBOCRASH",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "CSHGRBORANGE.FLAMBOONEYBIN",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "SONOFALAMBO",
+      "pages": 99,
+      "sampled_frames": [
+        0,
+        33,
+        65,
+        98
+      ]
+    },
+    {
+      "asset": "LAMBOFAKE.TEST",
+      "pages": 100,
+      "sampled_frames": [
+        0,
+        33,
+        66,
+        99
+      ]
+    },
+    {
+      "asset": "WENSMOWLAMBO",
+      "pages": 66,
+      "sampled_frames": [
+        0,
+        22,
+        43,
+        65
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MONDRIANCORN",
+      "asset": "COCOMONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "DIAMONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "FIVEMEODMT.MONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "MONDRIANAPE",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "MONDRIANFAKE",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "PEPMONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "QRMONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "MONDRIANCORN",
+      "asset": "SHADINACCI.MONDRIAN",
+      "status": "rejected",
+      "reason": "Shared Mondrian vocabulary but different grids/figures and arrangements; no distinctive reuse of the yellow/orange corn-like central blocks. FIVEMEODMT.MONDRIAN enlarged with contrast shows repeated small faces, not source grid.",
+      "evidence_sheet": "sheets/group-MONDRIANCORN-0.png"
+    },
+    {
+      "original": "SOGSALVADOR",
+      "asset": "FAKESALVADOR",
+      "status": "rejected",
+      "reason": "Dali-inspired images/Salvator portrait do not reuse the two figures and shop scene in Salva The Proud.",
+      "evidence_sheet": "sheets/group-SOGSALVADOR-0.png"
+    },
+    {
+      "original": "SOGSALVADOR",
+      "asset": "MONAS.SALVADOR",
+      "status": "rejected",
+      "reason": "Dali-inspired images/Salvator portrait do not reuse the two figures and shop scene in Salva The Proud.",
+      "evidence_sheet": "sheets/group-SOGSALVADOR-0.png"
+    },
+    {
+      "original": "SOGSALVADOR",
+      "asset": "SALVADORPEPE",
+      "status": "rejected",
+      "reason": "Dali-inspired images/Salvator portrait do not reuse the two figures and shop scene in Salva The Proud.",
+      "evidence_sheet": "sheets/group-SOGSALVADOR-0.png"
+    },
+    {
+      "original": "SOGHALVING",
+      "asset": "CARDHALVING",
+      "status": "rejected",
+      "reason": "Bitcoin halving imagery does not reuse the stone bridge and figures from Hard Fork.",
+      "evidence_sheet": "sheets/group-SOGHALVING-0.png"
+    },
+    {
+      "original": "SOGHALVING",
+      "asset": "HALVING",
+      "status": "rejected",
+      "reason": "Bitcoin halving imagery does not reuse the stone bridge and figures from Hard Fork.",
+      "evidence_sheet": "sheets/group-SOGHALVING-0.png"
+    },
+    {
+      "original": "SOGHALVING",
+      "asset": "PEPEHALVING",
+      "status": "rejected",
+      "reason": "Bitcoin halving imagery does not reuse the stone bridge and figures from Hard Fork.",
+      "evidence_sheet": "sheets/group-SOGHALVING-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "BRNYRDLAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "CSHGRBORANGE.FLAMBOONEYBIN",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "FAKECEZANNE.LAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "FARMERSLAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOCLASSIC",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOCRASH",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBODROOL",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOFAKE.PURPLE",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOFAKE.TEST",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOGARAGE",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOHORSE",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBORDINAL",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "MOONLAMBO",
+      "status": "ambiguous",
+      "reason": "CDN returns a very dark 48x48 PNG. Enlarged contrast view remains too indistinct for a reliable visual decision; seek better source media.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "PEPESLAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "SONOFALAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "WENSMOWLAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "XPEPEXLAMBO",
+      "status": "rejected",
+      "reason": "Different car, tractor, portrait or scene; no distinctive reuse of the suited sunglasses Pepe, orange car and seated figure composition.",
+      "evidence_sheet": "sheets/group-PEPELAMBO-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 31,
+    "rejected": 30,
+    "ambiguous": 1,
+    "accepted": 0
+  }
+}

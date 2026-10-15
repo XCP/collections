@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and two animation sheets inspected. Seven GIFs sampled at four spaced frames, not exhaustive playback. Specific-source comparisons only; shared external subjects insufficient.",
+  "reviewed": [
+    {
+      "original": "STONEPEPE",
+      "volume_usd": 17716.74264949838,
+      "buyers": 15,
+      "candidates": [
+        "BIGSTONE",
+        "FAKESTONES",
+        "KEKSTONE",
+        "MUFFDIVER.MUFFSTONE",
+        "PHOCKHB.BARNEYFLINTSTONE",
+        "PHOCKHB.FREDFLINSTONE",
+        "REDSTONE",
+        "ROBOTTESTONE",
+        "SMOLSTONES",
+        "STONEDRAGON",
+        "STONEDWOJAK",
+        "STONERWOJAK",
+        "STONEWALLINN",
+        "TVSTONEPEPE",
+        "XFCPJOSTONES"
+      ]
+    },
+    {
+      "original": "PEPEZEUS",
+      "volume_usd": 17704.974264385382,
+      "buyers": 44,
+      "candidates": [
+        "KEKZEUS",
+        "MSTRPEPES.ZEUSPEPEOFKEKEMIS",
+        "WONDERZEUS"
+      ]
+    },
+    {
+      "original": "BEACHPEPE",
+      "volume_usd": 17662.050331517898,
+      "buyers": 38,
+      "candidates": [
+        "PEPABEACHPH"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PHOCKHB.FREDFLINSTONE",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "PHOCKHB.BARNEYFLINTSTONE",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "FAKESTONES",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "KEKSTONE",
+      "pages": 188,
+      "sampled_frames": [
+        0,
+        62,
+        125,
+        187
+      ]
+    },
+    {
+      "asset": "STONEWALLINN",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "STONERWOJAK",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "SMOLSTONES",
+      "pages": 210,
+      "sampled_frames": [
+        0,
+        70,
+        139,
+        209
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "STONEPEPE",
+      "asset": "BIGSTONE",
+      "status": "rejected",
+      "reason": "Halving photograph; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "FAKESTONES",
+      "status": "rejected",
+      "reason": "Rolling Stones lips/tongue animation over landscape; shared music reference not source frog-head artwork; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "KEKSTONE",
+      "status": "rejected",
+      "reason": "Carved stone frog relief and geometric animation; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "MUFFDIVER.MUFFSTONE",
+      "status": "rejected",
+      "reason": "Stone photograph and humorous legend; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "PHOCKHB.BARNEYFLINTSTONE",
+      "status": "rejected",
+      "reason": "Pixel Flintstones character; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "PHOCKHB.FREDFLINSTONE",
+      "status": "rejected",
+      "reason": "Pixel Flintstones character; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "REDSTONE",
+      "status": "rejected",
+      "reason": "Pixel red icon; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "ROBOTTESTONE",
+      "status": "rejected",
+      "reason": "Website tutorial text screenshot; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "SMOLSTONES",
+      "status": "rejected",
+      "reason": "Night surveillance footage of monument; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "STONEDRAGON",
+      "status": "rejected",
+      "reason": "Fantasy dragon scene; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "STONEDWOJAK",
+      "status": "rejected",
+      "reason": "Smoking frog and Wojak in forest; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "STONERWOJAK",
+      "status": "rejected",
+      "reason": "Cannabis leaf character in drawn card; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "STONEWALLINN",
+      "status": "rejected",
+      "reason": "Animated doorway photograph; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "TVSTONEPEPE",
+      "status": "rejected",
+      "reason": "Physical object marked TV stone Pepe; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "XFCPJOSTONES",
+      "status": "rejected",
+      "reason": "Football player portrait; no source decorative frog head or PEPE WAS A ROLLING STONE composition.",
+      "evidence_sheet": "sheets/group-STONEPEPE-0.png"
+    },
+    {
+      "original": "PEPEZEUS",
+      "asset": "KEKZEUS",
+      "status": "rejected",
+      "reason": "Standing muscular figure with lightning; no source seated golden throne composition.",
+      "evidence_sheet": "sheets/group-PEPEZEUS-0.png"
+    },
+    {
+      "original": "PEPEZEUS",
+      "asset": "MSTRPEPES.ZEUSPEPEOFKEKEMIS",
+      "status": "rejected",
+      "reason": "Standing classical statue; no source seated golden throne composition.",
+      "evidence_sheet": "sheets/group-PEPEZEUS-0.png"
+    },
+    {
+      "original": "PEPEZEUS",
+      "asset": "WONDERZEUS",
+      "status": "rejected",
+      "reason": "Flying lightning-wielding frog figure; no source seated golden throne composition.",
+      "evidence_sheet": "sheets/group-PEPEZEUS-0.png"
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "PEPABEACHPH",
+      "status": "rejected",
+      "reason": "Framed close-up swimsuit torso; no source beach scene, standing frog, ball or sunset card composition.",
+      "evidence_sheet": "sheets/group-BEACHPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 19,
+    "accepted": 0,
+    "rejected": 19
+  }
+}

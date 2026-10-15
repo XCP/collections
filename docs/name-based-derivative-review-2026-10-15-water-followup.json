@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-15",
+  "method": "User flagged relationship; full CDN images and still-live original chain-linked March artwork compared. Direction established from historical media descriptions, not registration alone.",
+  "decisions": [
+    {
+      "asset": "DANKWATER",
+      "original": "DANKWATA",
+      "status": "accepted",
+      "reason": "Same present image URL and image as DANKWATA; March DANKWATA description already links the same distinctive translucent head/water artwork before August DANKWATER release."
+    },
+    {
+      "asset": "FAKEWATER",
+      "original": "DANKWATA",
+      "status": "accepted",
+      "reason": "Same distinctive head/water artwork with frame; March DANKWATA image establishes earlier art use before August FAKEWATER media description."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://api.xcp.io/v2/assets/DANKWATA/issuances",
+      "asset": "DANKWATA",
+      "issuances": [
+        {
+          "tx_hash": "dc08e5aa40ac4479f6ac87cd5fb7ec11af2c63d14d3f6917b15643c3dade62ef",
+          "block_index": 751240,
+          "block_time": 1661521268,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/hymsTsr.jpg",
+          "asset_events": "lock_quantity",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "3a235d65878f80260a22b7a90cd37243f5c53d615197dfff49041e529bd96bc8",
+          "block_index": 751240,
+          "block_time": 1661521268,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/hymsTsr.jpg",
+          "asset_events": "change_description",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "6b14624a4a84b275f613b1ae9f1b2539b2f6b60cdcad57f1dfbbb541b2fcd123",
+          "block_index": 726487,
+          "block_time": 1646783152,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/kOLAnoI.jpg",
+          "asset_events": "lock_quantity",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "ad4430f29e9d7de559f9ee3c7e6b70c6595f9a4f6d421e06f3245409d831bb54",
+          "block_index": 726482,
+          "block_time": 1646778298,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "90",
+          "description": "imgur.com/kOLAnoI.jpg",
+          "asset_events": "creation",
+          "status": "valid"
+        }
+      ]
+    },
+    {
+      "url": "https://api.xcp.io/v2/assets/DANKWATER/issuances",
+      "asset": "DANKWATER",
+      "issuances": [
+        {
+          "tx_hash": "8781dfae97a4164c0843e33fbf64e1604823d897afb0ef3f30b3d68254f5a765",
+          "block_index": 909898,
+          "block_time": 1755116430,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 1,
+          "quantity_normalized": "0",
+          "description": "imgur.com/hymsTsr.jpg",
+          "asset_events": "transfer",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "3ffc2753985f01557aabf1ce1d8f0befc590673974f420b4d823c738ca9ae14e",
+          "block_index": 752426,
+          "block_time": 1662221705,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1Hxnug9kpjXwMmqU5Mg4iYbR6rkyuBXvmU",
+          "transfer": 1,
+          "quantity_normalized": "0",
+          "description": "imgur.com/hymsTsr.jpg",
+          "asset_events": "transfer",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "9c4f99761ef8adbcb2a2708e76579a2ca2d1f1bb90c9eaa47aa9cdfdc5d28745",
+          "block_index": 751242,
+          "block_time": 1661522789,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/hymsTsr.jpg",
+          "asset_events": "change_description",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "03f6041cbfd04e866543568d92326895934147763ba3bb2c503a6d1c9fc24bf5",
+          "block_index": 751240,
+          "block_time": 1661521268,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "",
+          "asset_events": "lock_quantity",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "6c687ea5282065b4df640164c02eb0adfc958cc1511f288154c4349247448a6b",
+          "block_index": 751237,
+          "block_time": 1661519435,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "21",
+          "description": "",
+          "asset_events": "creation",
+          "status": "valid"
+        }
+      ]
+    },
+    {
+      "url": "https://api.xcp.io/v2/assets/FAKEWATER/issuances",
+      "asset": "FAKEWATER",
+      "issuances": [
+        {
+          "tx_hash": "248a79d6d9941310999d4fdaacad2e0d6931148e08ad46c4503db45522620bfa",
+          "block_index": 752339,
+          "block_time": 1662161564,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "https://easyasset.art/j/bvvhgo/FAKEW.json",
+          "asset_events": "change_description",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "49fc0d36f64702138a09c25e37b660d9bd0c517cf38105ad092e97eb6b9b1334",
+          "block_index": 751892,
+          "block_time": 1661886301,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/o90wYa6.jpg",
+          "asset_events": "lock_quantity",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "d79d9fa50bc8f897b73b9db845744ac03f47bd06959b9789fa85460b938c6217",
+          "block_index": 751892,
+          "block_time": 1661886301,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "imgur.com/o90wYa6.jpg",
+          "asset_events": "change_description",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "6b42e6916217b384a501b2d3112bb57d66fc181b62614502f64ea270e98aa6c5",
+          "block_index": 751240,
+          "block_time": 1661521268,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "0",
+          "description": "",
+          "asset_events": "lock_quantity",
+          "status": "valid"
+        },
+        {
+          "tx_hash": "c8ee950c93bd3201792456ebeaa08474a3316c90b9793def10c620ec0dfd7465",
+          "block_index": 751237,
+          "block_time": 1661519435,
+          "source": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "issuer": "1GoCcYoAaAb6WGqXciYkLHs5gB8vZqo5n7",
+          "transfer": 0,
+          "quantity_normalized": "90",
+          "description": "",
+          "asset_events": "creation",
+          "status": "valid"
+        }
+      ]
+    }
+  ],
+  "historical_image": "https://i.imgur.com/kOLAnoI.jpg",
+  "current_shared_image": "https://i.imgur.com/hymsTsr.jpg",
+  "fakewater_historical_image": "https://i.imgur.com/o90wYa6.jpg",
+  "evidence": "sheets/water-detail.png plus full historical kOLAnoI image; all three CDN images static.",
+  "scope": "Only Based on relationships changed; artist credits and collection membership unchanged."
+}

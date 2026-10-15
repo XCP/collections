@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-15",
+  "method": "Five first-frame sheets and two animation sheets visually inspected. Three animations sampled at four spaced frames (all four BTCGRAVE frames); longer animations not exhaustively reviewed. Rejections apply to these exact proposed originals, not all possible derivative relationships.",
+  "reviewed": [
+    {
+      "original": "MADMAXPEPE",
+      "volume_usd": 16493.87303102191,
+      "buyers": 40,
+      "candidates": [
+        "BTCMADMAXONE",
+        "BTCMADMAXTWO",
+        "MADMAXSAT"
+      ]
+    },
+    {
+      "original": "CORNFLOYD",
+      "volume_usd": 16375.62405,
+      "buyers": 3,
+      "candidates": [
+        "BITFLOYD",
+        "KEKFLOYD"
+      ]
+    },
+    {
+      "original": "PEPEGRAVE",
+      "volume_usd": 16306.044925931275,
+      "buyers": 65,
+      "candidates": [
+        "BTCGRAVE",
+        "FACGRAVERIDE",
+        "GRAVELER",
+        "SCAMGRAVES"
+      ]
+    },
+    {
+      "original": "MARSPEPE",
+      "volume_usd": 16203.625989982951,
+      "buyers": 175,
+      "candidates": [
+        "FWCFCMARSFOC",
+        "MARSJUWANNA",
+        "PEPEONMARS",
+        "SMOLONMARS",
+        "UMEKOMARS"
+      ]
+    },
+    {
+      "original": "LUCHAPEPE",
+      "volume_usd": 16180.242836613053,
+      "buyers": 24,
+      "candidates": [
+        "LUCHADORPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BTCGRAVE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "FACGRAVERIDE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "UMEKOMARS",
+      "pages": 143,
+      "sampled_frames": [
+        0,
+        47,
+        95,
+        142
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MADMAXPEPE",
+      "asset": "BTCMADMAXONE",
+      "status": "rejected",
+      "reason": "MAD magazine-style portrait covers do not reuse the gas-mask frog road illustration; shared Mad/Max naming is insufficient.",
+      "evidence_sheet": "sheets/group-MADMAXPEPE-0.png"
+    },
+    {
+      "original": "MADMAXPEPE",
+      "asset": "BTCMADMAXTWO",
+      "status": "rejected",
+      "reason": "MAD magazine-style portrait covers do not reuse the gas-mask frog road illustration; shared Mad/Max naming is insufficient.",
+      "evidence_sheet": "sheets/group-MADMAXPEPE-0.png"
+    },
+    {
+      "original": "MADMAXPEPE",
+      "asset": "MADMAXSAT",
+      "status": "rejected",
+      "reason": "MAD magazine-style portrait covers do not reuse the gas-mask frog road illustration; shared Mad/Max naming is insufficient.",
+      "evidence_sheet": "sheets/group-MADMAXPEPE-0.png"
+    },
+    {
+      "original": "CORNFLOYD",
+      "asset": "BITFLOYD",
+      "status": "rejected",
+      "reason": "Shared Pink Floyd references do not establish derivation from this card: candidates use metallic heads or an ordinary frog prism, not the source barn and silo composition.",
+      "evidence_sheet": "sheets/group-CORNFLOYD-0.png"
+    },
+    {
+      "original": "CORNFLOYD",
+      "asset": "KEKFLOYD",
+      "status": "rejected",
+      "reason": "Shared Pink Floyd references do not establish derivation from this card: candidates use metallic heads or an ordinary frog prism, not the source barn and silo composition.",
+      "evidence_sheet": "sheets/group-CORNFLOYD-0.png"
+    },
+    {
+      "original": "PEPEGRAVE",
+      "asset": "BTCGRAVE",
+      "status": "rejected",
+      "reason": "Portal, motorcycle rider, rock creature and photographic graves do not reuse the floating frog head over illustrated cemetery.",
+      "evidence_sheet": "sheets/group-PEPEGRAVE-0.png"
+    },
+    {
+      "original": "PEPEGRAVE",
+      "asset": "FACGRAVERIDE",
+      "status": "rejected",
+      "reason": "Portal, motorcycle rider, rock creature and photographic graves do not reuse the floating frog head over illustrated cemetery.",
+      "evidence_sheet": "sheets/group-PEPEGRAVE-0.png"
+    },
+    {
+      "original": "PEPEGRAVE",
+      "asset": "GRAVELER",
+      "status": "rejected",
+      "reason": "Portal, motorcycle rider, rock creature and photographic graves do not reuse the floating frog head over illustrated cemetery.",
+      "evidence_sheet": "sheets/group-PEPEGRAVE-0.png"
+    },
+    {
+      "original": "PEPEGRAVE",
+      "asset": "SCAMGRAVES",
+      "status": "rejected",
+      "reason": "Portal, motorcycle rider, rock creature and photographic graves do not reuse the floating frog head over illustrated cemetery.",
+      "evidence_sheet": "sheets/group-PEPEGRAVE-0.png"
+    },
+    {
+      "original": "MARSPEPE",
+      "asset": "FWCFCMARSFOC",
+      "status": "rejected",
+      "reason": "Mars-related fantasy card, scene, drawing, Smol portrait and astronaut animation do not reuse the source rocket-flame frog infographic.",
+      "evidence_sheet": "sheets/group-MARSPEPE-0.png"
+    },
+    {
+      "original": "MARSPEPE",
+      "asset": "MARSJUWANNA",
+      "status": "rejected",
+      "reason": "Mars-related fantasy card, scene, drawing, Smol portrait and astronaut animation do not reuse the source rocket-flame frog infographic.",
+      "evidence_sheet": "sheets/group-MARSPEPE-0.png"
+    },
+    {
+      "original": "MARSPEPE",
+      "asset": "PEPEONMARS",
+      "status": "rejected",
+      "reason": "Mars-related fantasy card, scene, drawing, Smol portrait and astronaut animation do not reuse the source rocket-flame frog infographic.",
+      "evidence_sheet": "sheets/group-MARSPEPE-0.png"
+    },
+    {
+      "original": "MARSPEPE",
+      "asset": "SMOLONMARS",
+      "status": "rejected",
+      "reason": "Mars-related fantasy card, scene, drawing, Smol portrait and astronaut animation do not reuse the source rocket-flame frog infographic.",
+      "evidence_sheet": "sheets/group-MARSPEPE-0.png"
+    },
+    {
+      "original": "MARSPEPE",
+      "asset": "UMEKOMARS",
+      "status": "rejected",
+      "reason": "Mars-related fantasy card, scene, drawing, Smol portrait and astronaut animation do not reuse the source rocket-flame frog infographic.",
+      "evidence_sheet": "sheets/group-MARSPEPE-0.png"
+    },
+    {
+      "original": "LUCHAPEPE",
+      "asset": "LUCHADORPEPE",
+      "status": "rejected",
+      "reason": "Shared masked wrestling subject only: close-up blue/red mask portrait differs from full-body white-mask wrestler pose and composition.",
+      "evidence_sheet": "sheets/group-LUCHAPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 15,
+    "accepted": 0,
+    "rejected": 15
+  }
+}

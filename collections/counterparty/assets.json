@@ -400,6 +400,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -1162,6 +1166,10 @@
         {
           "trait_type": "Artist",
           "value": "Dankfarms"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
         }
       ]
     },
@@ -7387,6 +7395,10 @@
         {
           "trait_type": "Artist",
           "value": "jahair"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -15565,6 +15577,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -15622,6 +15638,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HELOPEPE"
         }
       ]
     },
@@ -15667,6 +15687,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SELLOUTPEPE"
         }
       ]
     },
@@ -15725,6 +15749,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -16042,6 +16070,10 @@
         {
           "trait_type": "Artist",
           "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -22186,6 +22218,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
         }
       ]
     },
@@ -22844,6 +22880,10 @@
         {
           "trait_type": "Artist",
           "value": "Nipdog"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "KANDINSKYPEP"
         }
       ]
     },
@@ -30327,6 +30367,10 @@
         {
           "trait_type": "Artist",
           "value": "Dr. Greedy"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BALLOONPEPE"
         }
       ]
     },
@@ -30867,6 +30911,10 @@
         {
           "trait_type": "Artist",
           "value": "Dr. Greedy"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BALLOONPEPE"
         }
       ]
     },
@@ -32401,7 +32449,13 @@
       ]
     },
     {
-      "asset": "BLUEHOMER"
+      "asset": "BLUEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "BLUESAUCE"
@@ -32545,7 +32599,13 @@
       "asset": "BOBOHIDE"
     },
     {
-      "asset": "BOBOHOMER"
+      "asset": "BOBOHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "BOBOLISA",
@@ -32946,7 +33006,13 @@
       "asset": "BUGATTIPEPE"
     },
     {
-      "asset": "BUGGEDOPEN"
+      "asset": "BUGGEDOPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBUGGED"
+        }
+      ]
     },
     {
       "asset": "BULLFROGMART",
@@ -37056,7 +37122,13 @@
       "asset": "GMFREEDOM"
     },
     {
-      "asset": "GMHOMER"
+      "asset": "GMHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "GMPEPE"
@@ -37214,7 +37286,13 @@
       "asset": "GOVERNORPEPE"
     },
     {
-      "asset": "GRAPEHOMER"
+      "asset": "GRAPEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "GRATEFULKEK",
@@ -37712,7 +37790,13 @@
       ]
     },
     {
-      "asset": "HOMERCOMICS"
+      "asset": "HOMERCOMICS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERCRIMBO",
@@ -37724,7 +37808,13 @@
       ]
     },
     {
-      "asset": "HOMEROPEN"
+      "asset": "HOMEROPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERPEPA",
@@ -37745,7 +37835,13 @@
       ]
     },
     {
-      "asset": "HOMERSMOL"
+      "asset": "HOMERSMOL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERSNOW",
@@ -38228,6 +38324,10 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SECURITYPEPE"
         }
       ]
     },
@@ -38751,7 +38851,13 @@
       "asset": "LEANPEPETOO"
     },
     {
-      "asset": "LEANWOJAK"
+      "asset": "LEANWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LEANPEPE"
+        }
+      ]
     },
     {
       "asset": "LEGACYBTC"
@@ -40416,7 +40522,13 @@
       ]
     },
     {
-      "asset": "NURSHOMER"
+      "asset": "NURSHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "NUTCORN",
@@ -40617,7 +40729,13 @@
       "asset": "ORACLETEST"
     },
     {
-      "asset": "ORANGEHOMER"
+      "asset": "ORANGEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "ORANGERIDER",
@@ -42100,7 +42218,13 @@
       "asset": "PEPEMOTORBUS"
     },
     {
-      "asset": "PEPEMRBURNS"
+      "asset": "PEPEMRBURNS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "PEPEMUCHA"
@@ -42637,7 +42761,13 @@
       "asset": "PEPETOURIST"
     },
     {
-      "asset": "PEPETRASHED"
+      "asset": "PEPETRASHED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRASH"
+        }
+      ]
     },
     {
       "asset": "PEPETREASRE",
@@ -45450,7 +45580,13 @@
       ]
     },
     {
-      "asset": "SPAMHOMER"
+      "asset": "SPAMHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "SPAMJELLO"
@@ -47883,6 +48019,10 @@
         {
           "trait_type": "Artist",
           "value": "Gus Grillasca"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ZOMBIEPEPES"
         }
       ]
     },

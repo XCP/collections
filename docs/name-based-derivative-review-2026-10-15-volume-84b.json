@@ -1,0 +1,523 @@
+{
+  "date": "2026-10-15",
+  "method": "Remaining23 source groups from batch84 first-frame sheets all inspected. Four evenly spaced frames additionally inspected for THEPEPIANIST50 and LADTSUNADE97. First-frame screening is not exhaustive animation review.",
+  "reviewed": [
+    {
+      "original": "CORNGEISHA",
+      "candidates": [
+        "GEISHAPEPA"
+      ]
+    },
+    {
+      "original": "FATHERPEPE",
+      "candidates": [
+        "DEDANKFATHER",
+        "FATHEROFDOGE",
+        "PEPFATHER",
+        "SWANFATHER",
+        "THEDNKFATHER"
+      ]
+    },
+    {
+      "original": "CORNSURF",
+      "candidates": [
+        "FPEPESURF"
+      ]
+    },
+    {
+      "original": "PEPEFRENCH",
+      "candidates": [
+        "DRAWMEFRENCH"
+      ]
+    },
+    {
+      "original": "LEGOPEPE",
+      "candidates": [
+        "LEGOMOTO",
+        "PEPELEGOS"
+      ]
+    },
+    {
+      "original": "PEPELAMBO",
+      "candidates": [
+        "FAKALAMBO",
+        "LAMBOBO",
+        "LAMBOCORN",
+        "LAMBODANK",
+        "PIMPMYLAMBO"
+      ]
+    },
+    {
+      "original": "TSUNADE",
+      "candidates": [
+        "LADTSUNADE"
+      ]
+    },
+    {
+      "original": "PEPEMINT",
+      "candidates": [
+        "PEPERMINT"
+      ]
+    },
+    {
+      "original": "RAREPEGO",
+      "candidates": [
+        "FAKEPEPEGOD",
+        "PEPEGODNESS",
+        "PEPEGONA"
+      ]
+    },
+    {
+      "original": "RETROPEPE",
+      "candidates": [
+        "RETROKEK"
+      ]
+    },
+    {
+      "original": "CUPIDPEPE",
+      "candidates": [
+        "PEPECUPID"
+      ]
+    },
+    {
+      "original": "PEPI",
+      "candidates": [
+        "FAKEPEPIOUS",
+        "PEPEPIMP",
+        "PEPIDHODL",
+        "PEPIERICH",
+        "PEPINAS",
+        "PEPIO",
+        "PONDERPEPITO",
+        "RAREPEPIXEL",
+        "SENTOPEPIRO",
+        "THEPEPIANIST"
+      ]
+    },
+    {
+      "original": "ROBOCORN",
+      "candidates": [
+        "PEPEVROBOT",
+        "ROBOKEKPEPE",
+        "TORROBOBO"
+      ]
+    },
+    {
+      "original": "RARELORDKEK",
+      "candidates": [
+        "DANKLORDKEK",
+        "FAKELORDKEK.DANK",
+        "LORDKEKDANK",
+        "NEWLORDKEK"
+      ]
+    },
+    {
+      "original": "CRYPTOPEPE",
+      "candidates": [
+        "CRYPTODANK",
+        "CRYPTOFORCE"
+      ]
+    },
+    {
+      "original": "THREERARE",
+      "candidates": [
+        "ONEDANKTHREE",
+        "THREEFAKEGOS"
+      ]
+    },
+    {
+      "original": "PEPEMASK",
+      "candidates": [
+        "MASKTHEPLEBS",
+        "METAMASKPEPE"
+      ]
+    },
+    {
+      "original": "SPHINXPEPE",
+      "candidates": [
+        "DANKSPHINX"
+      ]
+    },
+    {
+      "original": "BATTLEPEPE",
+      "candidates": [
+        "NFTBATTLE"
+      ]
+    },
+    {
+      "original": "CROWCARD",
+      "candidates": [
+        "CROWLEYPEPE",
+        "PEPECROWLEY"
+      ]
+    },
+    {
+      "original": "SNOTPEPE",
+      "candidates": [
+        "ISNOTAPEPE",
+        "MEMESNOTWAR"
+      ]
+    },
+    {
+      "original": "PEPETRASH",
+      "candidates": [
+        "DANKTRASH"
+      ]
+    },
+    {
+      "original": "KEKPEPE",
+      "candidates": [
+        "DRAGONKEK",
+        "DRKEK",
+        "DRPEPEMUMULV.KEKUPOFFME",
+        "DRUNKEK",
+        "DUKEOFKEK"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNGEISHA",
+      "asset": "GEISHAPEPA",
+      "status": "rejected",
+      "reason": "Different geisha portrait versus full-length corn figure."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "DEDANKFATHER",
+      "status": "rejected",
+      "reason": "Godfather and Father of Doge subjects differ from saintly bearded Father Pepe."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "FATHEROFDOGE",
+      "status": "rejected",
+      "reason": "Godfather and Father of Doge subjects differ from saintly bearded Father Pepe."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "PEPFATHER",
+      "status": "rejected",
+      "reason": "Godfather and Father of Doge subjects differ from saintly bearded Father Pepe."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "SWANFATHER",
+      "status": "rejected",
+      "reason": "Godfather and Father of Doge subjects differ from saintly bearded Father Pepe."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "THEDNKFATHER",
+      "status": "rejected",
+      "reason": "Godfather and Father of Doge subjects differ from saintly bearded Father Pepe."
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "FPEPESURF",
+      "status": "rejected",
+      "reason": "Different surfer figure and composition."
+    },
+    {
+      "original": "PEPEFRENCH",
+      "asset": "DRAWMEFRENCH",
+      "status": "rejected",
+      "reason": "Reclining portrait versus French stereotype at Eiffel Tower."
+    },
+    {
+      "original": "LEGOPEPE",
+      "asset": "LEGOMOTO",
+      "status": "ambiguous",
+      "reason": "Shared Lego construction; different head and layout. Specific source reuse versus common medium needs further evidence."
+    },
+    {
+      "original": "LEGOPEPE",
+      "asset": "PEPELEGOS",
+      "status": "ambiguous",
+      "reason": "Shared Lego construction; different head and layout. Specific source reuse versus common medium needs further evidence."
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "FAKALAMBO",
+      "status": "rejected",
+      "reason": "Different Lamborghini cars, poses and layouts; subject alone insufficient."
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOBO",
+      "status": "rejected",
+      "reason": "Different Lamborghini cars, poses and layouts; subject alone insufficient."
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBOCORN",
+      "status": "rejected",
+      "reason": "Different Lamborghini cars, poses and layouts; subject alone insufficient."
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "LAMBODANK",
+      "status": "rejected",
+      "reason": "Different Lamborghini cars, poses and layouts; subject alone insufficient."
+    },
+    {
+      "original": "PEPELAMBO",
+      "asset": "PIMPMYLAMBO",
+      "status": "rejected",
+      "reason": "Different Lamborghini cars, poses and layouts; subject alone insufficient."
+    },
+    {
+      "original": "TSUNADE",
+      "asset": "LADTSUNADE",
+      "status": "rejected",
+      "reason": "Same external anime character but different pose, costume and framing; sampled animation confirms different presentation."
+    },
+    {
+      "original": "PEPEMINT",
+      "asset": "PEPERMINT",
+      "status": "rejected",
+      "reason": "Different mint image versus breath-mint commercial card."
+    },
+    {
+      "original": "RAREPEGO",
+      "asset": "FAKEPEPEGOD",
+      "status": "rejected",
+      "reason": "God/goddess/Gorgona substring collisions; not Lego head."
+    },
+    {
+      "original": "RAREPEGO",
+      "asset": "PEPEGODNESS",
+      "status": "rejected",
+      "reason": "God/goddess/Gorgona substring collisions; not Lego head."
+    },
+    {
+      "original": "RAREPEGO",
+      "asset": "PEPEGONA",
+      "status": "rejected",
+      "reason": "God/goddess/Gorgona substring collisions; not Lego head."
+    },
+    {
+      "original": "RETROPEPE",
+      "asset": "RETROKEK",
+      "status": "rejected",
+      "reason": "Different vaporwave scene versus psychedelic two-Pepe card."
+    },
+    {
+      "original": "CUPIDPEPE",
+      "asset": "PEPECUPID",
+      "status": "rejected",
+      "reason": "Different Cupid figure and setting."
+    },
+    {
+      "original": "PEPI",
+      "asset": "FAKEPEPIOUS",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PEPEPIMP",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PEPIDHODL",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PEPIERICH",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PEPINAS",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PEPIO",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "PONDERPEPITO",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "RAREPEPIXEL",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "SENTOPEPIRO",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "PEPI",
+      "asset": "THEPEPIANIST",
+      "status": "rejected",
+      "reason": "Unrelated PI-containing names; none use pi formula/circle diagram. THEPEPIANIST sampled animation is piano performance."
+    },
+    {
+      "original": "ROBOCORN",
+      "asset": "PEPEVROBOT",
+      "status": "rejected",
+      "reason": "Different robot scenes or bull rider from corn Robocop portrait."
+    },
+    {
+      "original": "ROBOCORN",
+      "asset": "ROBOKEKPEPE",
+      "status": "rejected",
+      "reason": "Different robot scenes or bull rider from corn Robocop portrait."
+    },
+    {
+      "original": "ROBOCORN",
+      "asset": "TORROBOBO",
+      "status": "rejected",
+      "reason": "Different robot scenes or bull rider from corn Robocop portrait."
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "DANKLORDKEK",
+      "status": "rejected",
+      "reason": "Different Egyptian ruler compositions; no specific bird-headed profile reuse."
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "FAKELORDKEK.DANK",
+      "status": "rejected",
+      "reason": "Different Egyptian ruler compositions; no specific bird-headed profile reuse."
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "LORDKEKDANK",
+      "status": "rejected",
+      "reason": "Different Egyptian ruler compositions; no specific bird-headed profile reuse."
+    },
+    {
+      "original": "RARELORDKEK",
+      "asset": "NEWLORDKEK",
+      "status": "rejected",
+      "reason": "Different Egyptian ruler compositions; no specific bird-headed profile reuse."
+    },
+    {
+      "original": "CRYPTOPEPE",
+      "asset": "CRYPTODANK",
+      "status": "rejected",
+      "reason": "Different cryptocurrency character scenes, not seated figure and card wall."
+    },
+    {
+      "original": "CRYPTOPEPE",
+      "asset": "CRYPTOFORCE",
+      "status": "rejected",
+      "reason": "Different cryptocurrency character scenes, not seated figure and card wall."
+    },
+    {
+      "original": "THREERARE",
+      "asset": "ONEDANKTHREE",
+      "status": "rejected",
+      "reason": "Unrelated three-related names; no crossword or Masonic composition reuse."
+    },
+    {
+      "original": "THREERARE",
+      "asset": "THREEFAKEGOS",
+      "status": "rejected",
+      "reason": "Unrelated three-related names; no crossword or Masonic composition reuse."
+    },
+    {
+      "original": "PEPEMASK",
+      "asset": "MASKTHEPLEBS",
+      "status": "rejected",
+      "reason": "Different mask subjects from red armored figure."
+    },
+    {
+      "original": "PEPEMASK",
+      "asset": "METAMASKPEPE",
+      "status": "rejected",
+      "reason": "Different mask subjects from red armored figure."
+    },
+    {
+      "original": "SPHINXPEPE",
+      "asset": "DANKSPHINX",
+      "status": "rejected",
+      "reason": "Different desert/camel scene versus specific Sphinx-head substitution."
+    },
+    {
+      "original": "BATTLEPEPE",
+      "asset": "NFTBATTLE",
+      "status": "rejected",
+      "reason": "Boxing-ring scene versus combat frog and retro game."
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWLEYPEPE",
+      "status": "rejected",
+      "reason": "Crowley name collision; not clockwork crow scene."
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "PEPECROWLEY",
+      "status": "rejected",
+      "reason": "Crowley name collision; not clockwork crow scene."
+    },
+    {
+      "original": "SNOTPEPE",
+      "asset": "ISNOTAPEPE",
+      "status": "rejected",
+      "reason": "Substring collisions; no nose-picking figure reuse."
+    },
+    {
+      "original": "SNOTPEPE",
+      "asset": "MEMESNOTWAR",
+      "status": "rejected",
+      "reason": "Substring collisions; no nose-picking figure reuse."
+    },
+    {
+      "original": "PEPETRASH",
+      "asset": "DANKTRASH",
+      "status": "rejected",
+      "reason": "Different drawn portrait on crumpled paper versus trash-bin composite."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "DRAGONKEK",
+      "status": "rejected",
+      "reason": "Different KEK-themed imagery; no geometric tree/moon portrait reuse."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "DRKEK",
+      "status": "rejected",
+      "reason": "Different KEK-themed imagery; no geometric tree/moon portrait reuse."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "DRPEPEMUMULV.KEKUPOFFME",
+      "status": "rejected",
+      "reason": "Different KEK-themed imagery; no geometric tree/moon portrait reuse."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "DRUNKEK",
+      "status": "rejected",
+      "reason": "Different KEK-themed imagery; no geometric tree/moon portrait reuse."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "DUKEOFKEK",
+      "status": "rejected",
+      "reason": "Different KEK-themed imagery; no geometric tree/moon portrait reuse."
+    }
+  ],
+  "accepted": []
+}

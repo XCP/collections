@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets, three animation sheets and enlarged PEPEWAY source inspected. Full CDN source is 400x560 single-frame GIF, 175613 bytes; visually dense repeated pattern. Eleven animations sampled at four spaced positions, all four DWAYNEKEK and all three GIVEAWAYPEPE frames included. Longer animations not exhaustive. Existing WAYOFFEELS/WAYOFTHEFEEL similarity remains a separate earlier followup; no inference about that direction here.",
+  "reviewed": [
+    {
+      "original": "PEPEWAY",
+      "volume_usd": 21777.929445694877,
+      "buyers": 27,
+      "candidates": [
+        "BBNORWAY",
+        "BEGUSIDEWAY",
+        "DATAWAY",
+        "DWAYNEKEK",
+        "FAYC.GATEWAY",
+        "FEELINAWAY",
+        "FOXRACEWAY",
+        "GIVEAWAYPEPE",
+        "HIPHOPGAME.MOZAYCALLOWAY",
+        "JOSHUAJOSHUA.RUNAWAY",
+        "MIDWAY",
+        "MYWAYPEPE",
+        "NOOTHERWAY",
+        "NOWAYHOME",
+        "ONEWAYBOBO",
+        "PENPENNOWAY",
+        "PEPEAWAY",
+        "PEPEPIXELAND.RAILWAY",
+        "PEPERAILWAYS",
+        "REAGANOMICS.HALLWAYKIDS",
+        "SCAMWAY",
+        "SHOWTHEWAY",
+        "SPAMAWAY",
+        "THEGIVEAWAYS",
+        "UNATISTHEWAY",
+        "WAYNEMANOR",
+        "WAYOFFEELS",
+        "WAYOFTHEDANK",
+        "WAYOFTHEFEEL",
+        "WAYOFTHEPEPE",
+        "WAYPEPE",
+        "WOJAKWAYBETS",
+        "WOWJAKWAY",
+        "XALWAYSXPEPE",
+        "ZEROPHOCKS.WWWAYNE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DWAYNEKEK",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "DATAWAY",
+      "pages": 397,
+      "sampled_frames": [
+        0,
+        132,
+        264,
+        396
+      ]
+    },
+    {
+      "asset": "BEGUSIDEWAY",
+      "pages": 186,
+      "sampled_frames": [
+        0,
+        62,
+        123,
+        185
+      ]
+    },
+    {
+      "asset": "GIVEAWAYPEPE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SHOWTHEWAY",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "SPAMAWAY",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "WAYOFFEELS",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "WAYOFTHEPEPE",
+      "pages": 41,
+      "sampled_frames": [
+        0,
+        13,
+        27,
+        40
+      ]
+    },
+    {
+      "asset": "WAYOFTHEFEEL",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "ZEROPHOCKS.WWWAYNE",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "WOWJAKWAY",
+      "pages": 53,
+      "sampled_frames": [
+        0,
+        17,
+        35,
+        52
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEWAY",
+      "asset": "BBNORWAY",
+      "status": "rejected",
+      "reason": "Norway flag and hand logo landscape. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "BEGUSIDEWAY",
+      "status": "rejected",
+      "reason": "Poolside reclining figure. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "DATAWAY",
+      "status": "rejected",
+      "reason": "Rotating framed art card. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "DWAYNEKEK",
+      "status": "rejected",
+      "reason": "Muscular green Dwayne portrait. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "FAYC.GATEWAY",
+      "status": "rejected",
+      "reason": "Frog/ape gateway meme. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "FEELINAWAY",
+      "status": "rejected",
+      "reason": "Car and beach cartoon. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "FOXRACEWAY",
+      "status": "rejected",
+      "reason": "Photograph of two children. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "GIVEAWAYPEPE",
+      "status": "rejected",
+      "reason": "Crying frog giveaway card. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "HIPHOPGAME.MOZAYCALLOWAY",
+      "status": "rejected",
+      "reason": "Recording musician photograph. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "JOSHUAJOSHUA.RUNAWAY",
+      "status": "rejected",
+      "reason": "Run Away typography. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "MIDWAY",
+      "status": "rejected",
+      "reason": "Aircraft battle scene. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "MYWAYPEPE",
+      "status": "rejected",
+      "reason": "Painted suited man/frog portrait. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "NOOTHERWAY",
+      "status": "rejected",
+      "reason": "Circular abstract shape. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "NOWAYHOME",
+      "status": "rejected",
+      "reason": "Circular maze design. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "ONEWAYBOBO",
+      "status": "rejected",
+      "reason": "Bear trading card. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "PENPENNOWAY",
+      "status": "rejected",
+      "reason": "Robot frog with penguin. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "PEPEAWAY",
+      "status": "rejected",
+      "reason": "Walk-away illustrated slogan. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "PEPEPIXELAND.RAILWAY",
+      "status": "rejected",
+      "reason": "Pixel railway station. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "PEPERAILWAYS",
+      "status": "rejected",
+      "reason": "Cartoon train. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-0.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "REAGANOMICS.HALLWAYKIDS",
+      "status": "rejected",
+      "reason": "Hooded human portrait. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "SCAMWAY",
+      "status": "rejected",
+      "reason": "Good scam/bad scam typography. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "SHOWTHEWAY",
+      "status": "rejected",
+      "reason": "Stormy lighthouse. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "SPAMAWAY",
+      "status": "rejected",
+      "reason": "Pinup creature riding flying animal. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "THEGIVEAWAYS",
+      "status": "rejected",
+      "reason": "Frog amid scattered cards. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "UNATISTHEWAY",
+      "status": "rejected",
+      "reason": "Metallic suited figure relief. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYNEMANOR",
+      "status": "rejected",
+      "reason": "Physical collage sculpture. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYOFFEELS",
+      "status": "rejected",
+      "reason": "Robed Wojak lightsaber illustration. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYOFTHEDANK",
+      "status": "rejected",
+      "reason": "Mandalorian characters. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYOFTHEFEEL",
+      "status": "rejected",
+      "reason": "Robed Wojak lightsaber illustration. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYOFTHEPEPE",
+      "status": "rejected",
+      "reason": "Bruce Lee-style frog figure. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WAYPEPE",
+      "status": "rejected",
+      "reason": "Frog in sports shirt. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WOJAKWAYBETS",
+      "status": "rejected",
+      "reason": "Wojak Wall Street cartoon. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "WOWJAKWAY",
+      "status": "rejected",
+      "reason": "Animated altar/priest card. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "XALWAYSXPEPE",
+      "status": "rejected",
+      "reason": "Tank protest scene. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    },
+    {
+      "original": "PEPEWAY",
+      "asset": "ZEROPHOCKS.WWWAYNE",
+      "status": "rejected",
+      "reason": "Blurred faceless cap-wearing figure. Does not reproduce the dense green/red/white repeated patterned image of PEPEWAY. Name overlap alone insufficient; no hidden stereographic content inferred.",
+      "evidence_sheet": "sheets/group-PEPEWAY-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 35,
+    "accepted": 0,
+    "rejected": 35
+  }
+}

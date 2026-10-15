@@ -88,7 +88,7 @@ const BITCOIN_ADDRESS = /^(?:[13][1-9A-HJ-NP-Za-km-z]{25,34}|bc1[02-9ac-hj-np-z]
 
 /** The evidenced artwork year or reviewed first-use estimate, independent of registration. */
 export const ART_YEAR_TRAIT = "Art year";
-const SINGLE_VALUE_TRAITS = [ART_YEAR_TRAIT, "Based on"];
+const SINGLE_VALUE_TRAITS = [ART_YEAR_TRAIT];
 
 function normalizedAttribute(value, path) {
   const attribute = objectAt(value, path);
@@ -764,7 +764,8 @@ export const BASED_ON_TRAIT = "Based on";
 
 /**
  * A "Based on" value must name one registered asset other than the asset
- * itself, so a marketplace can link to it. Recorded where a relationship is
+ * itself. Repeat the trait for distinct originals; each reference is validated.
+ * A marketplace should preserve and link every original. Recorded where a relationship is
  * explicit (the tribute's own name embeds the original), never inferred
  * from style.
  */

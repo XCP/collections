@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-15",
+  "method": "Five complete first-frame group sheets viewed, four unique animation sheets viewed. Four animations sampled at four spaced positions; not exhaustive playback. PEPESURF and CORNSURF enlarged side by side before rejecting the specific comparison. FAKESURFING samples compared against both surf originals.",
+  "reviewed": [
+    {
+      "original": "SURFINGPEPE",
+      "candidates": [
+        "FAKEARWYN.SURFING",
+        "FAKESURFING"
+      ]
+    },
+    {
+      "original": "PEPESURF",
+      "candidates": [
+        "BUNGEESURFER",
+        "COCOSURF",
+        "COCOSURFPRTY",
+        "CORNSURF",
+        "FAKEARWYN.SURFING",
+        "FAKESURFING",
+        "NANRSURFPEPE",
+        "OLDPEPESURF",
+        "SATOSHISURFR",
+        "SMOLSURFER",
+        "SURFHERPEPA",
+        "SURFPEPE",
+        "SURFSPOTS.TRESTLES",
+        "SURFWAVES",
+        "WOJAKSURFER"
+      ]
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "candidates": [
+        "MERMAID",
+        "MERMAID.BIKINIBOTTOM",
+        "MERMAID.BLOCKCHAIN",
+        "MERMAID.BOOBS",
+        "MERMAID.FART",
+        "MERMAID.FROG_PRINCE",
+        "MERMAIDSTORY",
+        "PEPEMERMAID",
+        "SEXYMERMAID"
+      ]
+    },
+    {
+      "original": "MONSTERPEPE",
+      "candidates": [
+        "BLUNTMONSTER",
+        "ELFMONSTERKI",
+        "FAKEMONSTER",
+        "HODLOMONSTER.__CULMINATION-OF-PROOF__A-CLASH-OF-CATS-AND-THE-CHARLATAN",
+        "HONDACIVIC.MONSTER",
+        "IMAMONSTER",
+        "MONSTERDEPTH",
+        "PLTCMONSTER",
+        "POWMONSTER",
+        "PUNKYMONSTER",
+        "WOODMONSTER"
+      ]
+    },
+    {
+      "original": "BEAUTYPEPE",
+      "candidates": [
+        "RAREBEAUTY",
+        "SMASHBEAUTY",
+        "SOULPEPE.BEAUTY"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKESURFING",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "MERMAID.FART",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    },
+    {
+      "asset": "HONDACIVIC.MONSTER",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "SMASHBEAUTY",
+      "pages": 114,
+      "sampled_frames": [
+        0,
+        38,
+        75,
+        113
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "SURFINGPEPE",
+      "asset": "FAKEARWYN.SURFING",
+      "status": "rejected",
+      "reason": "Neither candidate reuses the 3D frog surfer with approaching shark, scene or pose. Surfing alone is not a specific match.",
+      "evidence_sheet": "sheets/group-SURFINGPEPE-0.png"
+    },
+    {
+      "original": "SURFINGPEPE",
+      "asset": "FAKESURFING",
+      "status": "rejected",
+      "reason": "Neither candidate reuses the 3D frog surfer with approaching shark, scene or pose. Surfing alone is not a specific match.",
+      "evidence_sheet": "sheets/group-SURFINGPEPE-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "BUNGEESURFER",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "COCOSURF",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "COCOSURFPRTY",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "CORNSURF",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "FAKEARWYN.SURFING",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "FAKESURFING",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "NANRSURFPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "OLDPEPESURF",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SATOSHISURFR",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SMOLSURFER",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SURFHERPEPA",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SURFPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SURFSPOTS.TRESTLES",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "SURFWAVES",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "PEPESURF",
+      "asset": "WOJAKSURFER",
+      "status": "rejected",
+      "reason": "No reuse of the squat frog pose, yellow board, sun-left and curling-wave-right arrangement. CORNSURF enlarged: different airborne corn pose, board direction and wave arrangement; shared cartoon surfing subject is insufficient.",
+      "evidence_sheet": "sheets/group-PEPESURF-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID.BIKINIBOTTOM",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID.BLOCKCHAIN",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID.BOOBS",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID.FART",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAID.FROG_PRINCE",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "MERMAIDSTORY",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "PEPEMERMAID",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MERMAIDPEPE",
+      "asset": "SEXYMERMAID",
+      "status": "rejected",
+      "reason": "None reuses the seated underwater brown-haired Pepe mermaid, blue curled tail and coral composition. Mermaid characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-MERMAIDPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "BLUNTMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "ELFMONSTERKI",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "FAKEMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "HODLOMONSTER.__CULMINATION-OF-PROOF__A-CLASH-OF-CATS-AND-THE-CHARLATAN",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "HONDACIVIC.MONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "IMAMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "MONSTERDEPTH",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "PLTCMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "POWMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "PUNKYMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "MONSTERPEPE",
+      "asset": "WOODMONSTER",
+      "status": "rejected",
+      "reason": "None reuses the nine rounded square monster-face grid or its specific faces. Monsters are only a shared subject.",
+      "evidence_sheet": "sheets/group-MONSTERPEPE-0.png"
+    },
+    {
+      "original": "BEAUTYPEPE",
+      "asset": "RAREBEAUTY",
+      "status": "rejected",
+      "reason": "No reuse of the blonde short-haired anime portrait, green sleeveless top or face composition. Beauty keyword is insufficient.",
+      "evidence_sheet": "sheets/group-BEAUTYPEPE-0.png"
+    },
+    {
+      "original": "BEAUTYPEPE",
+      "asset": "SMASHBEAUTY",
+      "status": "rejected",
+      "reason": "No reuse of the blonde short-haired anime portrait, green sleeveless top or face composition. Beauty keyword is insufficient.",
+      "evidence_sheet": "sheets/group-BEAUTYPEPE-0.png"
+    },
+    {
+      "original": "BEAUTYPEPE",
+      "asset": "SOULPEPE.BEAUTY",
+      "status": "rejected",
+      "reason": "No reuse of the blonde short-haired anime portrait, green sleeveless top or face composition. Beauty keyword is insufficient.",
+      "evidence_sheet": "sheets/group-BEAUTYPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 40,
+    "accepted": 0,
+    "rejected": 40
+  }
+}

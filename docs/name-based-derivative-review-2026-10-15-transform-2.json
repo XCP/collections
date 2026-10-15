@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-15",
+  "method": "Next20 exact generated-name leads ranked by learned substitution frequency then source lifetime volume. All20 side-by-side full-media previews reviewed. Four spaced frames each sampled for NINJABOBO16, PEPESURFING9, FAKESURFING10, FAKERAREPEPE461, FAKEADDICT6, FAKEHOUSE61. This is sampled animation review, not exhaustive playback. Rejections concern only the named source comparison.",
+  "decisions": [
+    {
+      "original": "THEPEPE",
+      "asset": "THEBOBO",
+      "status": "rejected",
+      "reason": "Tarot Fool composition versus MGM-style title card; different external references.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "NINJAPEPE",
+      "asset": "NINJABOBO",
+      "status": "rejected",
+      "reason": "Blue masked bear before pagoda versus crouching ninja in tree scene; shared ninja subject only.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "XMASPEPE",
+      "asset": "XMASBOBO",
+      "status": "rejected",
+      "reason": "Santa with snowman versus decorated Christmas tree; shared holiday only.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "PEPESURFING",
+      "asset": "FAKESURFING",
+      "status": "rejected",
+      "reason": "Photographic wave with standing surfer versus illustrated Japanese wave and paired surfers; sampled animations retain different scenes.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEGODDESS",
+      "asset": "FAKEGODDESS",
+      "status": "rejected",
+      "reason": "Lotus-bearing goddess versus pencil eye and handwritten reassurance; different compositions.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPERAREPEPE",
+      "asset": "FAKERAREPEPE",
+      "status": "rejected",
+      "reason": "He-Man Faker parody versus fan of Rare Pepe cards; sampled animation does not establish reuse.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEMOON",
+      "asset": "FAKEMOON",
+      "status": "rejected",
+      "reason": "Rocket alone versus Pepe moon above Earth; generic moonflight theme only.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEADDICT",
+      "asset": "FAKEADDICT",
+      "status": "rejected",
+      "reason": "Hand holding syringe versus microphone and card-holding addict portrait; sampled animation retains syringe scene.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEMOM",
+      "asset": "FAKEMOM",
+      "status": "rejected",
+      "reason": "Pregnant dark figure versus mother holding baby; different pose and drawing.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPETHAGORAS",
+      "asset": "FAKETHAGORAS",
+      "status": "rejected",
+      "reason": "Standing philosopher with triangle versus altered photographic bust and theorem; shared historical subject only.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEFRED",
+      "asset": "FAKEFRED",
+      "status": "rejected",
+      "reason": "Fred Flintstone ape versus Fred Savage photographic portrait; name collision.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPETAXMAN",
+      "asset": "FAKETAXMAN",
+      "status": "rejected",
+      "reason": "Tax collage with cartoon accountant versus inverted taxpayer and IRS parody; no distinctive source reuse established.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEPASSPORT",
+      "asset": "FAKEPASSPORT",
+      "status": "rejected",
+      "reason": "Scarface passport versus illustrated Kekistan passport; shared document type only.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPESPRAY",
+      "asset": "FAKESPRAY",
+      "status": "rejected",
+      "reason": "Graffiti portrait on brick wall versus spraycan hand in phone layout; different imagery.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEDOTS",
+      "asset": "FAKEDOTS",
+      "status": "rejected",
+      "reason": "Pixel mosaic portrait versus numbered connect-the-dots face; different technique and composition.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEPOST",
+      "asset": "FAKEPOST",
+      "status": "rejected",
+      "reason": "New York Post parody versus postage stamp; name collision.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPESCOOBY",
+      "asset": "FAKESCOOBY",
+      "status": "rejected",
+      "reason": "Scooby portrait versus Scooby carrying Shaggy; shared external characters, not specific source reuse.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEZILLA",
+      "asset": "FAKEZILLA",
+      "status": "rejected",
+      "reason": "Different Godzilla character and scene; shared external monster only.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEHOUSE",
+      "asset": "FAKEHOUSE",
+      "status": "rejected",
+      "reason": "Toy pet enclosure versus Full House cast parody; name collision.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEANGEL",
+      "asset": "FAKEANGEL",
+      "status": "rejected",
+      "reason": "Winged Fauci portrait versus flying trumpet-playing Pepe; different imagery.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    }
+  ],
+  "summary": {
+    "rejected": 20,
+    "reviewed": 20,
+    "accepted": 0
+  },
+  "media": {
+    "THEPEPE": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "THEBOBO": {
+      "format": "jpeg",
+      "width": 800,
+      "height": 1200,
+      "pages": 1
+    },
+    "NINJAPEPE": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "NINJABOBO": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    "XMASPEPE": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "XMASBOBO": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "PEPESURFING": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        8
+      ]
+    },
+    "FAKESURFING": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    "PEPEGODDESS": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEGODDESS": {
+      "format": "png",
+      "width": 776,
+      "height": 1080,
+      "pages": 1
+    },
+    "PEPERAREPEPE": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKERAREPEPE": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 461,
+      "sampled_frames": [
+        0,
+        153,
+        307,
+        460
+      ]
+    },
+    "PEPEMOON": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEMOON": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "PEPEADDICT": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEADDICT": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    "PEPEMOM": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEMOM": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "PEPETHAGORAS": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKETHAGORAS": {
+      "format": "png",
+      "width": 1429,
+      "height": 2000,
+      "pages": 1
+    },
+    "PEPEFRED": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEFRED": {
+      "format": "jpeg",
+      "width": 4496,
+      "height": 4496,
+      "pages": 1
+    },
+    "PEPETAXMAN": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKETAXMAN": {
+      "format": "jpeg",
+      "width": 357,
+      "height": 500,
+      "pages": 1
+    },
+    "PEPEPASSPORT": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEPASSPORT": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "PEPESPRAY": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKESPRAY": {
+      "format": "jpeg",
+      "width": 338,
+      "height": 473,
+      "pages": 1
+    },
+    "PEPEDOTS": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEDOTS": {
+      "format": "jpeg",
+      "width": 357,
+      "height": 500,
+      "pages": 1
+    },
+    "PEPEPOST": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEPOST": {
+      "format": "png",
+      "width": 900,
+      "height": 1260,
+      "pages": 1
+    },
+    "PEPESCOOBY": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKESCOOBY": {
+      "format": "jpeg",
+      "width": 1002,
+      "height": 795,
+      "pages": 1
+    },
+    "PEPEZILLA": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEZILLA": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "PEPEHOUSE": {
+      "format": "jpeg",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEHOUSE": {
+      "format": "gif",
+      "width": 400,
+      "height": 560,
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    "PEPEANGEL": {
+      "format": "png",
+      "width": 400,
+      "height": 560,
+      "pages": 1
+    },
+    "FAKEANGEL": {
+      "format": "png",
+      "width": 1024,
+      "height": 1536,
+      "pages": 1
+    }
+  }
+}

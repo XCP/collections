@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-15",
+  "method": "Record explicit user-supplied relationships as authoritative editorial input. Do not hold them pending independent visual confirmation. Names generate research leads only when a relationship has not already been supplied.",
+  "reviewed": [
+    {
+      "original": "DOGECOINCARD",
+      "candidates": [
+        "SOURDOGE"
+      ]
+    },
+    {
+      "original": "YACHTDOCK",
+      "candidates": [
+        "YACHTCARD"
+      ]
+    },
+    {
+      "original": "SATOSHICARD",
+      "candidates": [
+        "VANGOSHI"
+      ]
+    },
+    {
+      "original": "SATOSHICARD",
+      "candidates": [
+        "SATOSHABAN"
+      ]
+    },
+    {
+      "original": "FDCARD",
+      "candidates": [
+        "IRLFDCARD"
+      ]
+    },
+    {
+      "original": "NINJASUIT",
+      "candidates": [
+        "NINJASARU"
+      ]
+    },
+    {
+      "original": "SGDARKNESS",
+      "candidates": [
+        "SGDANKNESS"
+      ]
+    },
+    {
+      "original": "GNOMECARD",
+      "candidates": [
+        "GNOMERETURNS"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "asset": "SOURDOGE",
+      "original": "DOGECOINCARD",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "YACHTCARD",
+      "original": "YACHTDOCK",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "VANGOSHI",
+      "original": "SATOSHICARD",
+      "status": "already_recorded",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "SATOSHABAN",
+      "original": "SATOSHICARD",
+      "status": "already_recorded",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "IRLFDCARD",
+      "original": "FDCARD",
+      "status": "already_recorded",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "NINJASARU",
+      "original": "NINJASUIT",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "SGDANKNESS",
+      "original": "SGDARKNESS",
+      "status": "already_recorded",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "GNOMERETURNS",
+      "original": "GNOMECARD",
+      "status": "already_recorded",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "SOURDOGE",
+      "original": "DOGECOINCARD",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "YACHTCARD",
+      "original": "YACHTDOCK",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    },
+    {
+      "asset": "NINJASARU",
+      "original": "NINJASUIT",
+      "status": "accepted",
+      "source": "Explicit attribution by Dan in this conversation, 2026-10-15",
+      "reason": "User-provided editorial attribution; independent visual verification is not required."
+    }
+  ],
+  "notes": [
+    "User wrote NINASARU; registry asset is NINJASARU.",
+    "GNOMERETURNS depicts FDCARD as an inset reference, but user explicitly says it is not a derivative of FDCARD; no such relationship was added.",
+    "YACHTCARD -> YACHTDOCK accepted from user attribution, superseding assistant hesitation about the visual comparison.",
+    "A card appearing within another artwork is not automatically a derivative source; distinguish a depicted reference from the basis of an adaptation."
+  ]
+}

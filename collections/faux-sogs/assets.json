@@ -197,6 +197,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MERCHANTCARD"
         }
       ]
     },
@@ -224,6 +228,10 @@
         {
           "trait_type": "Artist",
           "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BAZAARCARD"
         }
       ]
     },
@@ -559,6 +567,10 @@
         {
           "trait_type": "Artist",
           "value": "Robenira"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BAZAARCARD"
         }
       ]
     },
@@ -818,6 +830,10 @@
         {
           "trait_type": "Artist",
           "value": "Psycopyro"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DIMITRICARD"
         }
       ]
     },
@@ -917,6 +933,14 @@
         {
           "trait_type": "Artist",
           "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },
@@ -1079,6 +1103,10 @@
         {
           "trait_type": "Artist",
           "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CAMILACARD"
         }
       ]
     },
@@ -1526,6 +1554,10 @@
         {
           "trait_type": "Artist",
           "value": "Jonny Johnsonson"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FDCARD"
         }
       ]
     },
@@ -1553,6 +1585,10 @@
         {
           "trait_type": "Artist",
           "value": "ditacrypto"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DOGECOINCARD"
         }
       ]
     },
@@ -1971,6 +2007,10 @@
         {
           "trait_type": "Artist",
           "value": "Simsa"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NINJASUIT"
         }
       ]
     },
@@ -2064,6 +2104,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEACOCKCARD"
         }
       ]
     },
@@ -2276,6 +2320,10 @@
         {
           "trait_type": "Artist",
           "value": "Kevo-B"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SGDARKNESS"
         }
       ]
     },
@@ -2454,6 +2502,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DOGECOINCARD"
         }
       ]
     },
@@ -2789,6 +2841,10 @@
         {
           "trait_type": "Artist",
           "value": "Griffin"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "YACHTDOCK"
         }
       ]
     },

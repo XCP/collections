@@ -1,0 +1,6434 @@
+{
+  "summary": {
+    "input_pairs": 13759,
+    "namespace_only_pairs": 2209,
+    "family_tasks": 468,
+    "remaining_individual_pairs": 11550,
+    "individual_candidate_galleries": 8637,
+    "retained_pair_count": 13759
+  },
+  "policy": "Scheduling compression only. No pair discarded or visually rejected. Review family gallery and metadata once against proposed source; retain exceptions and unviewed members. Do not infer all members from a sample.",
+  "families": [
+    {
+      "namespace": "RARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARE.PEPE.1",
+        "RARE.PEPE.10",
+        "RARE.PEPE.100",
+        "RARE.PEPE.101",
+        "RARE.PEPE.102",
+        "RARE.PEPE.103",
+        "RARE.PEPE.104",
+        "RARE.PEPE.105",
+        "RARE.PEPE.106",
+        "RARE.PEPE.107",
+        "RARE.PEPE.108",
+        "RARE.PEPE.109",
+        "RARE.PEPE.11",
+        "RARE.PEPE.110",
+        "RARE.PEPE.111",
+        "RARE.PEPE.112",
+        "RARE.PEPE.113",
+        "RARE.PEPE.114",
+        "RARE.PEPE.115",
+        "RARE.PEPE.116",
+        "RARE.PEPE.117",
+        "RARE.PEPE.118",
+        "RARE.PEPE.119",
+        "RARE.PEPE.12",
+        "RARE.PEPE.120",
+        "RARE.PEPE.121",
+        "RARE.PEPE.122",
+        "RARE.PEPE.123",
+        "RARE.PEPE.124",
+        "RARE.PEPE.125",
+        "RARE.PEPE.126",
+        "RARE.PEPE.127",
+        "RARE.PEPE.128",
+        "RARE.PEPE.129",
+        "RARE.PEPE.13",
+        "RARE.PEPE.130",
+        "RARE.PEPE.131",
+        "RARE.PEPE.132",
+        "RARE.PEPE.133",
+        "RARE.PEPE.134",
+        "RARE.PEPE.135",
+        "RARE.PEPE.136",
+        "RARE.PEPE.137",
+        "RARE.PEPE.138",
+        "RARE.PEPE.139",
+        "RARE.PEPE.14",
+        "RARE.PEPE.140",
+        "RARE.PEPE.141",
+        "RARE.PEPE.142",
+        "RARE.PEPE.143",
+        "RARE.PEPE.144",
+        "RARE.PEPE.145",
+        "RARE.PEPE.146",
+        "RARE.PEPE.147",
+        "RARE.PEPE.148",
+        "RARE.PEPE.149",
+        "RARE.PEPE.15",
+        "RARE.PEPE.150",
+        "RARE.PEPE.151",
+        "RARE.PEPE.152",
+        "RARE.PEPE.153",
+        "RARE.PEPE.154",
+        "RARE.PEPE.155",
+        "RARE.PEPE.156",
+        "RARE.PEPE.157",
+        "RARE.PEPE.158",
+        "RARE.PEPE.159",
+        "RARE.PEPE.16",
+        "RARE.PEPE.160",
+        "RARE.PEPE.161",
+        "RARE.PEPE.162",
+        "RARE.PEPE.163",
+        "RARE.PEPE.164",
+        "RARE.PEPE.165",
+        "RARE.PEPE.166",
+        "RARE.PEPE.167",
+        "RARE.PEPE.168",
+        "RARE.PEPE.169",
+        "RARE.PEPE.17",
+        "RARE.PEPE.170",
+        "RARE.PEPE.171",
+        "RARE.PEPE.172",
+        "RARE.PEPE.173",
+        "RARE.PEPE.174",
+        "RARE.PEPE.175",
+        "RARE.PEPE.176",
+        "RARE.PEPE.177",
+        "RARE.PEPE.178",
+        "RARE.PEPE.179",
+        "RARE.PEPE.18",
+        "RARE.PEPE.180",
+        "RARE.PEPE.181",
+        "RARE.PEPE.182",
+        "RARE.PEPE.183",
+        "RARE.PEPE.184",
+        "RARE.PEPE.185",
+        "RARE.PEPE.186",
+        "RARE.PEPE.187",
+        "RARE.PEPE.188",
+        "RARE.PEPE.189",
+        "RARE.PEPE.19",
+        "RARE.PEPE.190",
+        "RARE.PEPE.191",
+        "RARE.PEPE.192",
+        "RARE.PEPE.193",
+        "RARE.PEPE.194",
+        "RARE.PEPE.195",
+        "RARE.PEPE.196",
+        "RARE.PEPE.197",
+        "RARE.PEPE.198",
+        "RARE.PEPE.199",
+        "RARE.PEPE.2",
+        "RARE.PEPE.20",
+        "RARE.PEPE.200",
+        "RARE.PEPE.201",
+        "RARE.PEPE.202",
+        "RARE.PEPE.203",
+        "RARE.PEPE.204",
+        "RARE.PEPE.205",
+        "RARE.PEPE.206",
+        "RARE.PEPE.207",
+        "RARE.PEPE.208",
+        "RARE.PEPE.209",
+        "RARE.PEPE.21",
+        "RARE.PEPE.210",
+        "RARE.PEPE.211",
+        "RARE.PEPE.212",
+        "RARE.PEPE.213",
+        "RARE.PEPE.214",
+        "RARE.PEPE.215",
+        "RARE.PEPE.216",
+        "RARE.PEPE.217",
+        "RARE.PEPE.218",
+        "RARE.PEPE.219",
+        "RARE.PEPE.22",
+        "RARE.PEPE.220",
+        "RARE.PEPE.221",
+        "RARE.PEPE.222",
+        "RARE.PEPE.223",
+        "RARE.PEPE.224",
+        "RARE.PEPE.225",
+        "RARE.PEPE.226",
+        "RARE.PEPE.227",
+        "RARE.PEPE.228",
+        "RARE.PEPE.229",
+        "RARE.PEPE.23",
+        "RARE.PEPE.230",
+        "RARE.PEPE.231",
+        "RARE.PEPE.232",
+        "RARE.PEPE.233",
+        "RARE.PEPE.234",
+        "RARE.PEPE.235",
+        "RARE.PEPE.236",
+        "RARE.PEPE.237",
+        "RARE.PEPE.238",
+        "RARE.PEPE.239",
+        "RARE.PEPE.24",
+        "RARE.PEPE.240",
+        "RARE.PEPE.241",
+        "RARE.PEPE.242",
+        "RARE.PEPE.243",
+        "RARE.PEPE.244",
+        "RARE.PEPE.245",
+        "RARE.PEPE.246",
+        "RARE.PEPE.247",
+        "RARE.PEPE.248",
+        "RARE.PEPE.249",
+        "RARE.PEPE.25",
+        "RARE.PEPE.250",
+        "RARE.PEPE.251",
+        "RARE.PEPE.252",
+        "RARE.PEPE.253",
+        "RARE.PEPE.254",
+        "RARE.PEPE.255",
+        "RARE.PEPE.256",
+        "RARE.PEPE.257",
+        "RARE.PEPE.258",
+        "RARE.PEPE.259",
+        "RARE.PEPE.26",
+        "RARE.PEPE.260",
+        "RARE.PEPE.261",
+        "RARE.PEPE.262",
+        "RARE.PEPE.263",
+        "RARE.PEPE.264",
+        "RARE.PEPE.265",
+        "RARE.PEPE.266",
+        "RARE.PEPE.267",
+        "RARE.PEPE.268",
+        "RARE.PEPE.269",
+        "RARE.PEPE.27",
+        "RARE.PEPE.270",
+        "RARE.PEPE.271",
+        "RARE.PEPE.272",
+        "RARE.PEPE.273",
+        "RARE.PEPE.274",
+        "RARE.PEPE.275",
+        "RARE.PEPE.276",
+        "RARE.PEPE.277",
+        "RARE.PEPE.278",
+        "RARE.PEPE.279",
+        "RARE.PEPE.28",
+        "RARE.PEPE.280",
+        "RARE.PEPE.281",
+        "RARE.PEPE.282",
+        "RARE.PEPE.283",
+        "RARE.PEPE.284",
+        "RARE.PEPE.285",
+        "RARE.PEPE.286",
+        "RARE.PEPE.287",
+        "RARE.PEPE.288",
+        "RARE.PEPE.289",
+        "RARE.PEPE.29",
+        "RARE.PEPE.290",
+        "RARE.PEPE.291",
+        "RARE.PEPE.292",
+        "RARE.PEPE.293",
+        "RARE.PEPE.294",
+        "RARE.PEPE.295",
+        "RARE.PEPE.296",
+        "RARE.PEPE.297",
+        "RARE.PEPE.298",
+        "RARE.PEPE.299",
+        "RARE.PEPE.3",
+        "RARE.PEPE.30",
+        "RARE.PEPE.300",
+        "RARE.PEPE.31",
+        "RARE.PEPE.32",
+        "RARE.PEPE.33",
+        "RARE.PEPE.34",
+        "RARE.PEPE.35",
+        "RARE.PEPE.36",
+        "RARE.PEPE.37",
+        "RARE.PEPE.38",
+        "RARE.PEPE.39",
+        "RARE.PEPE.4",
+        "RARE.PEPE.40",
+        "RARE.PEPE.41",
+        "RARE.PEPE.42",
+        "RARE.PEPE.43",
+        "RARE.PEPE.44",
+        "RARE.PEPE.45",
+        "RARE.PEPE.46",
+        "RARE.PEPE.47",
+        "RARE.PEPE.48",
+        "RARE.PEPE.49",
+        "RARE.PEPE.5",
+        "RARE.PEPE.50",
+        "RARE.PEPE.51",
+        "RARE.PEPE.52",
+        "RARE.PEPE.53",
+        "RARE.PEPE.54",
+        "RARE.PEPE.55",
+        "RARE.PEPE.56",
+        "RARE.PEPE.57",
+        "RARE.PEPE.58",
+        "RARE.PEPE.59",
+        "RARE.PEPE.6",
+        "RARE.PEPE.60",
+        "RARE.PEPE.61",
+        "RARE.PEPE.62",
+        "RARE.PEPE.63",
+        "RARE.PEPE.64",
+        "RARE.PEPE.65",
+        "RARE.PEPE.66",
+        "RARE.PEPE.67",
+        "RARE.PEPE.68",
+        "RARE.PEPE.69",
+        "RARE.PEPE.7",
+        "RARE.PEPE.70",
+        "RARE.PEPE.71",
+        "RARE.PEPE.72",
+        "RARE.PEPE.73",
+        "RARE.PEPE.74",
+        "RARE.PEPE.75",
+        "RARE.PEPE.76",
+        "RARE.PEPE.77",
+        "RARE.PEPE.78",
+        "RARE.PEPE.79",
+        "RARE.PEPE.8",
+        "RARE.PEPE.80",
+        "RARE.PEPE.81",
+        "RARE.PEPE.82",
+        "RARE.PEPE.83",
+        "RARE.PEPE.84",
+        "RARE.PEPE.85",
+        "RARE.PEPE.86",
+        "RARE.PEPE.87",
+        "RARE.PEPE.88",
+        "RARE.PEPE.89",
+        "RARE.PEPE.9",
+        "RARE.PEPE.90",
+        "RARE.PEPE.91",
+        "RARE.PEPE.92",
+        "RARE.PEPE.93",
+        "RARE.PEPE.94",
+        "RARE.PEPE.95",
+        "RARE.PEPE.96",
+        "RARE.PEPE.97",
+        "RARE.PEPE.98",
+        "RARE.PEPE.99"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEDICKBUTT",
+      "original": "PEPEDICK",
+      "matched_stem": "DICK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEDICKBUTT.1",
+        "PEPEDICKBUTT.10",
+        "PEPEDICKBUTT.100",
+        "PEPEDICKBUTT.11",
+        "PEPEDICKBUTT.12",
+        "PEPEDICKBUTT.13",
+        "PEPEDICKBUTT.14",
+        "PEPEDICKBUTT.15",
+        "PEPEDICKBUTT.16",
+        "PEPEDICKBUTT.17",
+        "PEPEDICKBUTT.18",
+        "PEPEDICKBUTT.19",
+        "PEPEDICKBUTT.2",
+        "PEPEDICKBUTT.20",
+        "PEPEDICKBUTT.21",
+        "PEPEDICKBUTT.22",
+        "PEPEDICKBUTT.23",
+        "PEPEDICKBUTT.24",
+        "PEPEDICKBUTT.25",
+        "PEPEDICKBUTT.26",
+        "PEPEDICKBUTT.27",
+        "PEPEDICKBUTT.28",
+        "PEPEDICKBUTT.29",
+        "PEPEDICKBUTT.3",
+        "PEPEDICKBUTT.30",
+        "PEPEDICKBUTT.31",
+        "PEPEDICKBUTT.32",
+        "PEPEDICKBUTT.33",
+        "PEPEDICKBUTT.34",
+        "PEPEDICKBUTT.35",
+        "PEPEDICKBUTT.36",
+        "PEPEDICKBUTT.37",
+        "PEPEDICKBUTT.38",
+        "PEPEDICKBUTT.39",
+        "PEPEDICKBUTT.4",
+        "PEPEDICKBUTT.40",
+        "PEPEDICKBUTT.41",
+        "PEPEDICKBUTT.42",
+        "PEPEDICKBUTT.43",
+        "PEPEDICKBUTT.44",
+        "PEPEDICKBUTT.45",
+        "PEPEDICKBUTT.46",
+        "PEPEDICKBUTT.47",
+        "PEPEDICKBUTT.48",
+        "PEPEDICKBUTT.49",
+        "PEPEDICKBUTT.5",
+        "PEPEDICKBUTT.50",
+        "PEPEDICKBUTT.51",
+        "PEPEDICKBUTT.52",
+        "PEPEDICKBUTT.53",
+        "PEPEDICKBUTT.54",
+        "PEPEDICKBUTT.55",
+        "PEPEDICKBUTT.56",
+        "PEPEDICKBUTT.57",
+        "PEPEDICKBUTT.58",
+        "PEPEDICKBUTT.59",
+        "PEPEDICKBUTT.6",
+        "PEPEDICKBUTT.60",
+        "PEPEDICKBUTT.61",
+        "PEPEDICKBUTT.62",
+        "PEPEDICKBUTT.63",
+        "PEPEDICKBUTT.64",
+        "PEPEDICKBUTT.65",
+        "PEPEDICKBUTT.66",
+        "PEPEDICKBUTT.67",
+        "PEPEDICKBUTT.68",
+        "PEPEDICKBUTT.69",
+        "PEPEDICKBUTT.7",
+        "PEPEDICKBUTT.70",
+        "PEPEDICKBUTT.71",
+        "PEPEDICKBUTT.72",
+        "PEPEDICKBUTT.73",
+        "PEPEDICKBUTT.74",
+        "PEPEDICKBUTT.75",
+        "PEPEDICKBUTT.76",
+        "PEPEDICKBUTT.77",
+        "PEPEDICKBUTT.78",
+        "PEPEDICKBUTT.79",
+        "PEPEDICKBUTT.8",
+        "PEPEDICKBUTT.80",
+        "PEPEDICKBUTT.81",
+        "PEPEDICKBUTT.82",
+        "PEPEDICKBUTT.83",
+        "PEPEDICKBUTT.84",
+        "PEPEDICKBUTT.85",
+        "PEPEDICKBUTT.86",
+        "PEPEDICKBUTT.87",
+        "PEPEDICKBUTT.88",
+        "PEPEDICKBUTT.89",
+        "PEPEDICKBUTT.9",
+        "PEPEDICKBUTT.90",
+        "PEPEDICKBUTT.91",
+        "PEPEDICKBUTT.92",
+        "PEPEDICKBUTT.93",
+        "PEPEDICKBUTT.94",
+        "PEPEDICKBUTT.95",
+        "PEPEDICKBUTT.96",
+        "PEPEDICKBUTT.97",
+        "PEPEDICKBUTT.98",
+        "PEPEDICKBUTT.99"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLUEBEAR",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLUEBEAR.2.ON.DVD",
+        "BLUEBEAR.analyst",
+        "BLUEBEAR.AOIKUMA",
+        "BLUEBEAR.artifact",
+        "BLUEBEAR.ARTIST",
+        "BLUEBEAR.BFC",
+        "BLUEBEAR.blue.auction",
+        "BLUEBEAR.BLUEBIRD",
+        "BLUEBEAR.BLUEBIRD.farmer",
+        "BLUEBEAR.BLUEBIRD.farmer.GaLlErY2",
+        "BLUEBEAR.BLUEBIRD.magic",
+        "BLUEBEAR.BLUEBIRD.vapor",
+        "BLUEBEAR.bluelink",
+        "BLUEBEAR.BLUELIST",
+        "BLUEBEAR.bluelon.reveal",
+        "BLUEBEAR.BLUEMINATI",
+        "BLUEBEAR.BLUEMOON",
+        "BLUEBEAR.BLUEWAVE",
+        "BLUEBEAR.BOZO",
+        "BLUEBEAR.BSAT",
+        "BLUEBEAR.CODES",
+        "BLUEBEAR.collectoooooooor",
+        "BLUEBEAR.collectoooooooor.GOLD",
+        "BLUEBEAR.collectoooooooor.infinitebid",
+        "BLUEBEAR.collectoooooooor.senic",
+        "BLUEBEAR.collectoooooooor.trashlaw",
+        "BLUEBEAR.diamond",
+        "BLUEBEAR.DORRANCE",
+        "BLUEBEAR.fake.blue",
+        "BLUEBEAR.FAST",
+        "BLUEBEAR.FAST.bhop",
+        "BLUEBEAR.FAST.ride",
+        "BLUEBEAR.FAST.RIP",
+        "BLUEBEAR.genie",
+        "BLUEBEAR.grave",
+        "BLUEBEAR.HOFF",
+        "BLUEBEAR.image_file.png",
+        "BLUEBEAR.INSIDE",
+        "BLUEBEAR.IQ",
+        "BLUEBEAR.KO",
+        "BLUEBEAR.LAN",
+        "BLUEBEAR.lean",
+        "BLUEBEAR.magic",
+        "BLUEBEAR.magic.bluebird",
+        "BLUEBEAR.message",
+        "BLUEBEAR.onsen",
+        "BLUEBEAR.ours.bleu",
+        "BLUEBEAR.PA",
+        "BLUEBEAR.SABRA",
+        "BLUEBEAR.senic",
+        "BLUEBEAR.senic.bin",
+        "BLUEBEAR.senic.blueee",
+        "BLUEBEAR.senic.collector",
+        "BLUEBEAR.senic.dickbutt",
+        "BLUEBEAR.senic.dickbutt.death",
+        "BLUEBEAR.senic.doc",
+        "BLUEBEAR.senic.farmer",
+        "BLUEBEAR.senic.flood",
+        "BLUEBEAR.senic.flood.refund",
+        "BLUEBEAR.senic.gif",
+        "BLUEBEAR.senic.imposter",
+        "BLUEBEAR.senic.lettucegrab",
+        "BLUEBEAR.senic.rip",
+        "BLUEBEAR.senic.shop",
+        "BLUEBEAR.senic.snek",
+        "BLUEBEAR.senic.speed",
+        "BLUEBEAR.senic.swan",
+        "BLUEBEAR.unlucky",
+        "BLUEBEAR.vapor",
+        "BLUEBEAR.vapor.bluebird",
+        "BLUEBEAR.win",
+        "BLUEBEAR.zip"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREDREAM",
+      "original": "CORNDREAM",
+      "matched_stem": "DREAM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREDREAM.1",
+        "RAREDREAM.10",
+        "RAREDREAM.11",
+        "RAREDREAM.12",
+        "RAREDREAM.13",
+        "RAREDREAM.14",
+        "RAREDREAM.15",
+        "RAREDREAM.16",
+        "RAREDREAM.17",
+        "RAREDREAM.19",
+        "RAREDREAM.2",
+        "RAREDREAM.20",
+        "RAREDREAM.21",
+        "RAREDREAM.22",
+        "RAREDREAM.23",
+        "RAREDREAM.24",
+        "RAREDREAM.25",
+        "RAREDREAM.26",
+        "RAREDREAM.27",
+        "RAREDREAM.28",
+        "RAREDREAM.29",
+        "RAREDREAM.3",
+        "RAREDREAM.30",
+        "RAREDREAM.31",
+        "RAREDREAM.32",
+        "RAREDREAM.33",
+        "RAREDREAM.34",
+        "RAREDREAM.35",
+        "RAREDREAM.36",
+        "RAREDREAM.37",
+        "RAREDREAM.38",
+        "RAREDREAM.39",
+        "RAREDREAM.4",
+        "RAREDREAM.40",
+        "RAREDREAM.41",
+        "RAREDREAM.42",
+        "RAREDREAM.43",
+        "RAREDREAM.44",
+        "RAREDREAM.45",
+        "RAREDREAM.46",
+        "RAREDREAM.47",
+        "RAREDREAM.48",
+        "RAREDREAM.49",
+        "RAREDREAM.5",
+        "RAREDREAM.50",
+        "RAREDREAM.51",
+        "RAREDREAM.52",
+        "RAREDREAM.53",
+        "RAREDREAM.54",
+        "RAREDREAM.55",
+        "RAREDREAM.56",
+        "RAREDREAM.57",
+        "RAREDREAM.58",
+        "RAREDREAM.59",
+        "RAREDREAM.6",
+        "RAREDREAM.60",
+        "RAREDREAM.61",
+        "RAREDREAM.62",
+        "RAREDREAM.63",
+        "RAREDREAM.64",
+        "RAREDREAM.65",
+        "RAREDREAM.66",
+        "RAREDREAM.67",
+        "RAREDREAM.68",
+        "RAREDREAM.69",
+        "RAREDREAM.7",
+        "RAREDREAM.70",
+        "RAREDREAM.71",
+        "RAREDREAM.72",
+        "RAREDREAM.8",
+        "RAREDREAM.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREDREAM",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREDREAM.1",
+        "RAREDREAM.10",
+        "RAREDREAM.11",
+        "RAREDREAM.12",
+        "RAREDREAM.13",
+        "RAREDREAM.14",
+        "RAREDREAM.15",
+        "RAREDREAM.16",
+        "RAREDREAM.17",
+        "RAREDREAM.19",
+        "RAREDREAM.2",
+        "RAREDREAM.20",
+        "RAREDREAM.21",
+        "RAREDREAM.22",
+        "RAREDREAM.23",
+        "RAREDREAM.24",
+        "RAREDREAM.25",
+        "RAREDREAM.26",
+        "RAREDREAM.27",
+        "RAREDREAM.28",
+        "RAREDREAM.29",
+        "RAREDREAM.3",
+        "RAREDREAM.30",
+        "RAREDREAM.31",
+        "RAREDREAM.32",
+        "RAREDREAM.33",
+        "RAREDREAM.34",
+        "RAREDREAM.35",
+        "RAREDREAM.36",
+        "RAREDREAM.37",
+        "RAREDREAM.38",
+        "RAREDREAM.39",
+        "RAREDREAM.4",
+        "RAREDREAM.40",
+        "RAREDREAM.41",
+        "RAREDREAM.42",
+        "RAREDREAM.43",
+        "RAREDREAM.44",
+        "RAREDREAM.45",
+        "RAREDREAM.46",
+        "RAREDREAM.47",
+        "RAREDREAM.48",
+        "RAREDREAM.49",
+        "RAREDREAM.5",
+        "RAREDREAM.50",
+        "RAREDREAM.51",
+        "RAREDREAM.52",
+        "RAREDREAM.53",
+        "RAREDREAM.54",
+        "RAREDREAM.55",
+        "RAREDREAM.56",
+        "RAREDREAM.57",
+        "RAREDREAM.58",
+        "RAREDREAM.59",
+        "RAREDREAM.6",
+        "RAREDREAM.60",
+        "RAREDREAM.61",
+        "RAREDREAM.62",
+        "RAREDREAM.63",
+        "RAREDREAM.64",
+        "RAREDREAM.65",
+        "RAREDREAM.66",
+        "RAREDREAM.67",
+        "RAREDREAM.68",
+        "RAREDREAM.69",
+        "RAREDREAM.7",
+        "RAREDREAM.70",
+        "RAREDREAM.71",
+        "RAREDREAM.72",
+        "RAREDREAM.8",
+        "RAREDREAM.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MSTRPEPES",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MSTRPEPES.64GALLONPEPE",
+        "MSTRPEPES.ANNUNCIATIONPEPES",
+        "MSTRPEPES.APEPEWAIN",
+        "MSTRPEPES.AZTECKEKATLIQUESTATUE",
+        "MSTRPEPES.AZTECPEPE",
+        "MSTRPEPES.CALLINGOFMATTHEWPEPE",
+        "MSTRPEPES.COLLOSALHEADOFPEPE",
+        "MSTRPEPES.DANKQINGDYNASTYJADE",
+        "MSTRPEPES.DESCENTOFPEPE",
+        "MSTRPEPES.DYINGGAULPEPE",
+        "MSTRPEPES.GOSPELILLUMINATIONSOFDANKNESS",
+        "MSTRPEPES.HONGSHANPEPEPENDANT",
+        "MSTRPEPES.KEKBOY",
+        "MSTRPEPES.KEKENKHAMUN",
+        "MSTRPEPES.KEKEUSOFOLYMPEPIA",
+        "MSTRPEPES.KEKOPHAGUSOFTHESPOUSES",
+        "MSTRPEPES.LAMENTATIONOFPEPE",
+        "MSTRPEPES.MANNEKEKPEPIS",
+        "MSTRPEPES.MINOANPEPESNAKEGODDESS",
+        "MSTRPEPES.MOSESPEPE",
+        "MSTRPEPES.NAZCAPEPELINES",
+        "MSTRPEPES.NIGHTWATCHPEPES",
+        "MSTRPEPES.NIKEOFPEPENIOS",
+        "MSTRPEPES.OATHOFTHEPEPES",
+        "MSTRPEPES.PEPAANDTHESWAN",
+        "MSTRPEPES.PEPASSU",
+        "MSTRPEPES.PEPATOLINEVENUS",
+        "MSTRPEPES.PEPAULINEASVENUS",
+        "MSTRPEPES.PEPEABOVETHESEAOFFOG",
+        "MSTRPEPES.PEPEBOOGIEWOOGIE",
+        "MSTRPEPES.PEPECOMPANION",
+        "MSTRPEPES.PEPECOONANDHISSONS",
+        "MSTRPEPES.PEPECOTTAHEADS",
+        "MSTRPEPES.PEPEDIPTYCH",
+        "MSTRPEPES.PEPEFOUNTAIN",
+        "MSTRPEPES.PEPEGATEOFHATTUSSA",
+        "MSTRPEPES.PEPEGATEOFMYCENAE",
+        "MSTRPEPES.PEPEGOLINOANDHISSONS",
+        "MSTRPEPES.PEPEGOTHIC",
+        "MSTRPEPES.PEPEOFAKKAD",
+        "MSTRPEPES.PEPEPUNK2317",
+        "MSTRPEPES.PEPESINTHESNOW",
+        "MSTRPEPES.PEPESKISS",
+        "MSTRPEPES.PEPESLASTJUDGEMENT",
+        "MSTRPEPES.PEPETATO",
+        "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+        "MSTRPEPES.PEPIANSPHINXOFDELPHI",
+        "MSTRPEPES.PEPODIUSANDKEKISTOGEITON",
+        "MSTRPEPES.PEPOLLOANDPEPAPHNE",
+        "MSTRPEPES.PEPPHUSANDPEPADNE",
+        "MSTRPEPES.PEPUINKEKAKU",
+        "MSTRPEPES.POOLWITHTWOPEPES",
+        "MSTRPEPES.SEATEDPEPEBUDDHAS",
+        "MSTRPEPES.SIXMAGICKPEPES",
+        "MSTRPEPES.TELEVISIONPEPE",
+        "MSTRPEPES.THEEYEOFPEPE",
+        "MSTRPEPES.THEMONALISAPEPE",
+        "MSTRPEPES.THEOLMECPEPEHEAD",
+        "MSTRPEPES.THEPHYSICALIMPOSSIBILITYOFPEPEWITHINTHEMIND",
+        "MSTRPEPES.ZEUSPEPEOFKEKEMIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HIPHOPGAME",
+      "original": "GAMECORN",
+      "matched_stem": "GAME",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HIPHOPGAME.ARDAMUS",
+        "HIPHOPGAME.AURARIGHTEO",
+        "HIPHOPGAME.CHRISBAYNES",
+        "HIPHOPGAME.COOPDVILLE",
+        "HIPHOPGAME.CRYPTOCASUALLY",
+        "HIPHOPGAME.DJRAEDAWN",
+        "HIPHOPGAME.ELFOFNYC",
+        "HIPHOPGAME.ENOCH7THPROPHET",
+        "HIPHOPGAME.FATAHK",
+        "HIPHOPGAME.FLEXMATHEWS",
+        "HIPHOPGAME.GOEZKO",
+        "HIPHOPGAME.JAHIWITNESS",
+        "HIPHOPGAME.JASHEED",
+        "HIPHOPGAME.JONEYE",
+        "HIPHOPGAME.JWLB",
+        "HIPHOPGAME.KINGBEY",
+        "HIPHOPGAME.KINGGREEN",
+        "HIPHOPGAME.KNUKLEHEAD",
+        "HIPHOPGAME.KOUNTFIF",
+        "HIPHOPGAME.KREM",
+        "HIPHOPGAME.KURTIETOP",
+        "HIPHOPGAME.LETTUCEHEAL",
+        "HIPHOPGAME.MADDILLZ",
+        "HIPHOPGAME.MALIKDOPE",
+        "HIPHOPGAME.MALIKSTARX",
+        "HIPHOPGAME.MANDELLAESKIA",
+        "HIPHOPGAME.MELATTO",
+        "HIPHOPGAME.MENTALSTAMINA",
+        "HIPHOPGAME.MERCTHEBIGBODYBENZ",
+        "HIPHOPGAME.MOZAYCALLOWAY",
+        "HIPHOPGAME.MYKA9",
+        "HIPHOPGAME.NATESKYWALKER",
+        "HIPHOPGAME.NESSYTHERILLA",
+        "HIPHOPGAME.PARNHASHNAKOVSKY",
+        "HIPHOPGAME.PROWESSTHETESTAMENT",
+        "HIPHOPGAME.RIZTHAGREAT",
+        "HIPHOPGAME.ROCMIKEY",
+        "HIPHOPGAME.SCESSIONS",
+        "HIPHOPGAME.SHUNDAK",
+        "HIPHOPGAME.STEPHENREDHEAD",
+        "HIPHOPGAME.SUBSTANTIAL",
+        "HIPHOPGAME.TKDACYPH",
+        "HIPHOPGAME.TRUTH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DJPEPE",
+      "original": "JPEPE",
+      "matched_stem": "J",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DJPEPE.434102",
+        "DJPEPE.5_YEAR_BDAY_PARTY",
+        "DJPEPE.COLDPLAY_CONCERT",
+        "DJPEPE.GODCANDLE_MIX_SUMMER_2023",
+        "DJPEPE.ORANGEPEPE",
+        "DJPEPE.ORANGEPEPE_2",
+        "DJPEPE.PUT_SUM_RESPEKT_ON_MY_NAME",
+        "DJPEPE.SOUNDMONEYLP01",
+        "DJPEPE.SOUNDMONEYLP02",
+        "DJPEPE.SOUNDMONEYLP03",
+        "DJPEPE.SOUNDMONEYLP04",
+        "DJPEPE.SOUNDMONEYLP05",
+        "DJPEPE.SOUNDMONEYLP06",
+        "DJPEPE.SOUNDMONEYLP07",
+        "DJPEPE.SOUNDMONEYLP08",
+        "DJPEPE.SOUNDMONEYLP09",
+        "DJPEPE.SOUNDMONEYLP10",
+        "DJPEPE.SOUNDMONEYLP11",
+        "DJPEPE.SOUNDMONEYLP12",
+        "DJPEPE.SOUNDMONEYLP13",
+        "DJPEPE.SOUNDMONEYLP14",
+        "DJPEPE.SOUNDMONEYLP15",
+        "DJPEPE.SOUNDMONEYLP16",
+        "DJPEPE.SOUNDMONEYLP17",
+        "DJPEPE.SOUNDMONEYLP18",
+        "DJPEPE.SOUNDMONEYLP19",
+        "DJPEPE.SOUNDMONEYLP20",
+        "DJPEPE.SOUNDMONEYLP21",
+        "DJPEPE.TWENTYFIRSTANNIVERSARY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SQUIDAPEGAME",
+      "original": "GAMECORN",
+      "matched_stem": "GAME",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SQUIDAPEGAME.PLAYER001SR",
+        "SQUIDAPEGAME.PLAYER017UC",
+        "SQUIDAPEGAME.PLAYER021UC",
+        "SQUIDAPEGAME.PLAYER032UC",
+        "SQUIDAPEGAME.PLAYER040UC",
+        "SQUIDAPEGAME.PLAYER062R",
+        "SQUIDAPEGAME.PLAYER066UC",
+        "SQUIDAPEGAME.PLAYER067SR",
+        "SQUIDAPEGAME.PLAYER069UC",
+        "SQUIDAPEGAME.PLAYER070UC",
+        "SQUIDAPEGAME.PLAYER073UC",
+        "SQUIDAPEGAME.PLAYER096UC",
+        "SQUIDAPEGAME.PLAYER101SR",
+        "SQUIDAPEGAME.PLAYER111R",
+        "SQUIDAPEGAME.PLAYER118UC",
+        "SQUIDAPEGAME.PLAYER151UC",
+        "SQUIDAPEGAME.PLAYER196UC",
+        "SQUIDAPEGAME.PLAYER198UC",
+        "SQUIDAPEGAME.PLAYER199SR",
+        "SQUIDAPEGAME.PLAYER218SR",
+        "SQUIDAPEGAME.PLAYER456SR",
+        "SQUIDAPEGAME.PLAYERCOMMON1",
+        "SQUIDAPEGAME.PLAYERCOMMON2",
+        "SQUIDAPEGAME.PLAYERCOMMON3",
+        "SQUIDAPEGAME.PLAYERCOMMON4",
+        "SQUIDAPEGAME.SOLDIER1R",
+        "SQUIDAPEGAME.SOLDIER2R",
+        "SQUIDAPEGAME.SOLDIER3R"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KIDPHOCKS",
+      "original": "KIDPEPE",
+      "matched_stem": "KID",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KIDPHOCKS.BART",
+        "KIDPHOCKS.CHASE",
+        "KIDPHOCKS.COLE",
+        "KIDPHOCKS.GADGET",
+        "KIDPHOCKS.GARMADON",
+        "KIDPHOCKS.GED",
+        "KIDPHOCKS.GRANDMASTERSMURF",
+        "KIDPHOCKS.HELLINGER",
+        "KIDPHOCKS.JAY",
+        "KIDPHOCKS.KAI",
+        "KIDPHOCKS.KAKASHI",
+        "KIDPHOCKS.KEVIN",
+        "KIDPHOCKS.LLOYD",
+        "KIDPHOCKS.MASKFOUR",
+        "KIDPHOCKS.MASKONE",
+        "KIDPHOCKS.MASKTHREE",
+        "KIDPHOCKS.MASKTWO",
+        "KIDPHOCKS.NYA",
+        "KIDPHOCKS.OGGY",
+        "KIDPHOCKS.PIKAPIKA",
+        "KIDPHOCKS.PINGU",
+        "KIDPHOCKS.PORCOROSSO",
+        "KIDPHOCKS.SKELETOR",
+        "KIDPHOCKS.SPONGEBOB",
+        "KIDPHOCKS.STUART",
+        "KIDPHOCKS.WU",
+        "KIDPHOCKS.ZANE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KVLTOFKEK",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KVLTOFKEK.10x10",
+        "KVLTOFKEK.11x15",
+        "KVLTOFKEK.12x15",
+        "KVLTOFKEK.13x15",
+        "KVLTOFKEK.14x15",
+        "KVLTOFKEK.15x15",
+        "KVLTOFKEK.16x15",
+        "KVLTOFKEK.17x15",
+        "KVLTOFKEK.18x15",
+        "KVLTOFKEK.19x15",
+        "KVLTOFKEK.1x1",
+        "KVLTOFKEK.20x15",
+        "KVLTOFKEK.21x20",
+        "KVLTOFKEK.22x20",
+        "KVLTOFKEK.23x20",
+        "KVLTOFKEK.24x20",
+        "KVLTOFKEK.2x2",
+        "KVLTOFKEK.3x3",
+        "KVLTOFKEK.4x4",
+        "KVLTOFKEK.5x5",
+        "KVLTOFKEK.6x6",
+        "KVLTOFKEK.7x7",
+        "KVLTOFKEK.8x8",
+        "KVLTOFKEK.9x9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KVLTOFKEK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KVLTOFKEK.10x10",
+        "KVLTOFKEK.11x15",
+        "KVLTOFKEK.12x15",
+        "KVLTOFKEK.13x15",
+        "KVLTOFKEK.14x15",
+        "KVLTOFKEK.15x15",
+        "KVLTOFKEK.16x15",
+        "KVLTOFKEK.17x15",
+        "KVLTOFKEK.18x15",
+        "KVLTOFKEK.19x15",
+        "KVLTOFKEK.1x1",
+        "KVLTOFKEK.20x15",
+        "KVLTOFKEK.21x20",
+        "KVLTOFKEK.22x20",
+        "KVLTOFKEK.23x20",
+        "KVLTOFKEK.24x20",
+        "KVLTOFKEK.2x2",
+        "KVLTOFKEK.3x3",
+        "KVLTOFKEK.4x4",
+        "KVLTOFKEK.5x5",
+        "KVLTOFKEK.6x6",
+        "KVLTOFKEK.7x7",
+        "KVLTOFKEK.8x8",
+        "KVLTOFKEK.9x9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "VAPORMAGIC",
+      "original": "VAPORCORN",
+      "matched_stem": "VAPOR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "VAPORMAGIC.print.1",
+        "VAPORMAGIC.print.10",
+        "VAPORMAGIC.print.11",
+        "VAPORMAGIC.print.12",
+        "VAPORMAGIC.print.13",
+        "VAPORMAGIC.print.14",
+        "VAPORMAGIC.print.14.scaler.1",
+        "VAPORMAGIC.print.14.scaler.2",
+        "VAPORMAGIC.print.15",
+        "VAPORMAGIC.print.16",
+        "VAPORMAGIC.print.2",
+        "VAPORMAGIC.print.3",
+        "VAPORMAGIC.print.4",
+        "VAPORMAGIC.print.5",
+        "VAPORMAGIC.print.6",
+        "VAPORMAGIC.print.7",
+        "VAPORMAGIC.print.8",
+        "VAPORMAGIC.print.9",
+        "VAPORMAGIC.print.9.1st",
+        "VAPORMAGIC.print.9.preface"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "VAPORMAGIC",
+      "original": "RAREPEPEMAG",
+      "matched_stem": "MAG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "VAPORMAGIC.print.1",
+        "VAPORMAGIC.print.10",
+        "VAPORMAGIC.print.11",
+        "VAPORMAGIC.print.12",
+        "VAPORMAGIC.print.13",
+        "VAPORMAGIC.print.14",
+        "VAPORMAGIC.print.14.scaler.1",
+        "VAPORMAGIC.print.14.scaler.2",
+        "VAPORMAGIC.print.15",
+        "VAPORMAGIC.print.16",
+        "VAPORMAGIC.print.2",
+        "VAPORMAGIC.print.3",
+        "VAPORMAGIC.print.4",
+        "VAPORMAGIC.print.5",
+        "VAPORMAGIC.print.6",
+        "VAPORMAGIC.print.7",
+        "VAPORMAGIC.print.8",
+        "VAPORMAGIC.print.9",
+        "VAPORMAGIC.print.9.1st",
+        "VAPORMAGIC.print.9.preface"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERARECAP",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERARECAP.BERRYRED",
+        "FAKERARECAP.BLOPSEC",
+        "FAKERARECAP.DARKBLUE",
+        "FAKERARECAP.DARKGRAY",
+        "FAKERARECAP.DARKGREEN",
+        "FAKERARECAP.OPSEC",
+        "FAKERARECAP.ORANGE",
+        "FAKERARECAP.PEPE",
+        "FAKERARECAP.PEPE_No.01",
+        "FAKERARECAP.PEPE_No.02",
+        "FAKERARECAP.PEPE_No.03",
+        "FAKERARECAP.PEPE_NO.04",
+        "FAKERARECAP.PEPE_No.05",
+        "FAKERARECAP.PEPE_No.06",
+        "FAKERARECAP.PEPE_No.07",
+        "FAKERARECAP.PEPE_No.08",
+        "FAKERARECAP.PEPE_No.09",
+        "FAKERARECAP.PEPE_No.21",
+        "FAKERARECAP.PURPLE21"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PUNKSBITCOIN",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PUNKSBITCOIN.1",
+        "PUNKSBITCOIN.10",
+        "PUNKSBITCOIN.11",
+        "PUNKSBITCOIN.12",
+        "PUNKSBITCOIN.13",
+        "PUNKSBITCOIN.14",
+        "PUNKSBITCOIN.15",
+        "PUNKSBITCOIN.16",
+        "PUNKSBITCOIN.17",
+        "PUNKSBITCOIN.18",
+        "PUNKSBITCOIN.19",
+        "PUNKSBITCOIN.2",
+        "PUNKSBITCOIN.20",
+        "PUNKSBITCOIN.21",
+        "PUNKSBITCOIN.3",
+        "PUNKSBITCOIN.4",
+        "PUNKSBITCOIN.5",
+        "PUNKSBITCOIN.6",
+        "PUNKSBITCOIN.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERARECAP",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERARECAP.BERRYRED",
+        "FAKERARECAP.BLOPSEC",
+        "FAKERARECAP.DARKBLUE",
+        "FAKERARECAP.DARKGRAY",
+        "FAKERARECAP.DARKGREEN",
+        "FAKERARECAP.OPSEC",
+        "FAKERARECAP.ORANGE",
+        "FAKERARECAP.PEPE",
+        "FAKERARECAP.PEPE_No.01",
+        "FAKERARECAP.PEPE_No.02",
+        "FAKERARECAP.PEPE_No.03",
+        "FAKERARECAP.PEPE_NO.04",
+        "FAKERARECAP.PEPE_No.05",
+        "FAKERARECAP.PEPE_No.06",
+        "FAKERARECAP.PEPE_No.07",
+        "FAKERARECAP.PEPE_No.08",
+        "FAKERARECAP.PEPE_No.09",
+        "FAKERARECAP.PEPE_No.21",
+        "FAKERARECAP.PURPLE21"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PINKSHIRTGUY",
+      "original": "PEPESHIRT",
+      "matched_stem": "SHIRT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PINKSHIRTGUY.1",
+        "PINKSHIRTGUY.10",
+        "PINKSHIRTGUY.11",
+        "PINKSHIRTGUY.12",
+        "PINKSHIRTGUY.13",
+        "PINKSHIRTGUY.14",
+        "PINKSHIRTGUY.15",
+        "PINKSHIRTGUY.16",
+        "PINKSHIRTGUY.17",
+        "PINKSHIRTGUY.2",
+        "PINKSHIRTGUY.3",
+        "PINKSHIRTGUY.4",
+        "PINKSHIRTGUY.5",
+        "PINKSHIRTGUY.6",
+        "PINKSHIRTGUY.7",
+        "PINKSHIRTGUY.8",
+        "PINKSHIRTGUY.9",
+        "PINKSHIRTGUY.DISPENSERFAIL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKGOTCHI",
+      "original": "PEPEGOTCHI",
+      "matched_stem": "GOTCHI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKGOTCHI.ANDROTCHI",
+        "PHOCKGOTCHI.ASHITCHI",
+        "PHOCKGOTCHI.GOURMETCHI",
+        "PHOCKGOTCHI.GOZARUTCHI",
+        "PHOCKGOTCHI.HIKOTCHI",
+        "PHOCKGOTCHI.MAMEKOTCHI",
+        "PHOCKGOTCHI.MEGANITCHI",
+        "PHOCKGOTCHI.MUKIMUKITCHI",
+        "PHOCKGOTCHI.NIKATCHI",
+        "PHOCKGOTCHI.OJITCHI",
+        "PHOCKGOTCHI.OKUTCHI",
+        "PHOCKGOTCHI.OTOKITCHI",
+        "PHOCKGOTCHI.OYAJITCHI",
+        "PHOCKGOTCHI.TAMATCHI",
+        "PHOCKGOTCHI.TOUGYUTCHI",
+        "PHOCKGOTCHI.URADEBATCHI",
+        "PHOCKGOTCHI.VIOLETCHI",
+        "PHOCKGOTCHI.YASAGURETCHI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COMMONLANDS",
+      "original": "PEPELAND",
+      "matched_stem": "LAND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COMMONLANDS.ATLANTIS",
+        "COMMONLANDS.BOUNCE",
+        "COMMONLANDS.CAVES",
+        "COMMONLANDS.DOWNSOUTH",
+        "COMMONLANDS.HOMECOMFORTS",
+        "COMMONLANDS.MIDDLEEARTH",
+        "COMMONLANDS.RETREAT",
+        "COMMONLANDS.RUINS",
+        "COMMONLANDS.SPACED",
+        "COMMONLANDS.SUNSET",
+        "COMMONLANDS.TEMPLESUMMER",
+        "COMMONLANDS.TEMPLEWINTER",
+        "COMMONLANDS.TOKYO",
+        "COMMONLANDS.TREEHOUSE",
+        "COMMONLANDS.VENICE",
+        "COMMONLANDS.YACHT",
+        "COMMONLANDS.YORKSHIRE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEFAKAMOTOS",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEFAKAMOTOS.12",
+        "THEFAKAMOTOS.127",
+        "THEFAKAMOTOS.143",
+        "THEFAKAMOTOS.149",
+        "THEFAKAMOTOS.21",
+        "THEFAKAMOTOS.221",
+        "THEFAKAMOTOS.226",
+        "THEFAKAMOTOS.246",
+        "THEFAKAMOTOS.288",
+        "THEFAKAMOTOS.292",
+        "THEFAKAMOTOS.295",
+        "THEFAKAMOTOS.35",
+        "THEFAKAMOTOS.38",
+        "THEFAKAMOTOS.4",
+        "THEFAKAMOTOS.42",
+        "THEFAKAMOTOS.56",
+        "THEFAKAMOTOS.60"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THUGLIFENOTE",
+      "original": "RAREPEPENOTE",
+      "matched_stem": "NOTE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THUGLIFENOTE.ANDREAS",
+        "THUGLIFENOTE.ANDREASREV",
+        "THUGLIFENOTE.CHARLIE",
+        "THUGLIFENOTE.CHARLIEREV",
+        "THUGLIFENOTE.DORIAN",
+        "THUGLIFENOTE.DORIANREV",
+        "THUGLIFENOTE.GOX",
+        "THUGLIFENOTE.GOXREV",
+        "THUGLIFENOTE.HAL",
+        "THUGLIFENOTE.HALREV",
+        "THUGLIFENOTE.JIHAN",
+        "THUGLIFENOTE.JIHANREV",
+        "THUGLIFENOTE.NOTSATOSHI",
+        "THUGLIFENOTE.NOTSATOSHIREV",
+        "THUGLIFENOTE.VER",
+        "THUGLIFENOTE.VERREV"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MASKS",
+      "original": "PEPEMASK",
+      "matched_stem": "MASK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MASKS.0x0000",
+        "MASKS.0x0001",
+        "MASKS.0x0002",
+        "MASKS.0x0003",
+        "MASKS.0x0004",
+        "MASKS.0x0005",
+        "MASKS.0x0006",
+        "MASKS.0x0007",
+        "MASKS.0x0008",
+        "MASKS.0x0009",
+        "MASKS.0x000a",
+        "MASKS.0x000b",
+        "MASKS.0x000c",
+        "MASKS.0x000d",
+        "MASKS.0x000e",
+        "MASKS.0x000f"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLOCKCHAINOG",
+      "original": "BLOCKPEPE",
+      "matched_stem": "BLOCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLOCKCHAINOG.RHYME1",
+        "BLOCKCHAINOG.RHYME10",
+        "BLOCKCHAINOG.RHYME11",
+        "BLOCKCHAINOG.RHYME12",
+        "BLOCKCHAINOG.RHYME13",
+        "BLOCKCHAINOG.RHYME14",
+        "BLOCKCHAINOG.RHYME15",
+        "BLOCKCHAINOG.RHYME16",
+        "BLOCKCHAINOG.RHYME2",
+        "BLOCKCHAINOG.RHYME3",
+        "BLOCKCHAINOG.RHYME4",
+        "BLOCKCHAINOG.RHYME5",
+        "BLOCKCHAINOG.RHYME6",
+        "BLOCKCHAINOG.RHYME7",
+        "BLOCKCHAINOG.RHYME8",
+        "BLOCKCHAINOG.RHYME9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THUGLIFENOTE",
+      "original": "CORNLIFE",
+      "matched_stem": "LIFE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THUGLIFENOTE.ANDREAS",
+        "THUGLIFENOTE.ANDREASREV",
+        "THUGLIFENOTE.CHARLIE",
+        "THUGLIFENOTE.CHARLIEREV",
+        "THUGLIFENOTE.DORIAN",
+        "THUGLIFENOTE.DORIANREV",
+        "THUGLIFENOTE.GOX",
+        "THUGLIFENOTE.GOXREV",
+        "THUGLIFENOTE.HAL",
+        "THUGLIFENOTE.HALREV",
+        "THUGLIFENOTE.JIHAN",
+        "THUGLIFENOTE.JIHANREV",
+        "THUGLIFENOTE.NOTSATOSHI",
+        "THUGLIFENOTE.NOTSATOSHIREV",
+        "THUGLIFENOTE.VER",
+        "THUGLIFENOTE.VERREV"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLACKBOX",
+      "original": "BLACKCORN",
+      "matched_stem": "BLACK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLACKBOX.2021.Community_Outreach_Manager",
+        "BLACKBOX.2021.Mystery_Listing_A",
+        "BLACKBOX.2021.MYSTERY_LISTING_B",
+        "BLACKBOX.2021.Mystery_Listing_C",
+        "BLACKBOX.2021.PEPECASH_Listing_A",
+        "BLACKBOX.2021.Probit_Listing",
+        "BLACKBOX.CIP03",
+        "BLACKBOX.Counterparty_General_Fund",
+        "BLACKBOX.Counterparty_Misc_Bugfixes",
+        "BLACKBOX.Freewallet.Hardware.Keepkey_Integration",
+        "BLACKBOX.Freewallet.Hardware.Ledger_Integration",
+        "BLACKBOX.Freewallet.Hardware.Trezor_Integration",
+        "BLACKBOX.JDog_Fulltime_Counterparty_Job",
+        "BLACKBOX.Misc_Donations",
+        "BLACKBOX.P2PB2B_Listing",
+        "BLACKBOX.Xchain_Server_Hosting"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEGIRLZ",
+      "original": "PEPEGIRL",
+      "matched_stem": "GIRL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEGIRLZ.1",
+        "PEPEGIRLZ.10",
+        "PEPEGIRLZ.11",
+        "PEPEGIRLZ.12",
+        "PEPEGIRLZ.13",
+        "PEPEGIRLZ.14",
+        "PEPEGIRLZ.15",
+        "PEPEGIRLZ.2",
+        "PEPEGIRLZ.3",
+        "PEPEGIRLZ.4",
+        "PEPEGIRLZ.5",
+        "PEPEGIRLZ.6",
+        "PEPEGIRLZ.7",
+        "PEPEGIRLZ.8",
+        "PEPEGIRLZ.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKGUARDS",
+      "original": "GUARDSPEPE",
+      "matched_stem": "GUARDS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKGUARDS.BABY",
+        "PHOCKGUARDS.BUG",
+        "PHOCKGUARDS.COSM",
+        "PHOCKGUARDS.DRAX",
+        "PHOCKGUARDS.EGO",
+        "PHOCKGUARDS.GAMO",
+        "PHOCKGUARDS.GROO",
+        "PHOCKGUARDS.MANT",
+        "PHOCKGUARDS.ROCK",
+        "PHOCKGUARDS.RONA",
+        "PHOCKGUARDS.STAR",
+        "PHOCKGUARDS.THAN",
+        "PHOCKGUARDS.THOR",
+        "PHOCKGUARDS.WARL",
+        "PHOCKGUARDS.YOND"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERANSOM",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERANSOM.bullet",
+        "FAKERANSOM.captive",
+        "FAKERANSOM.denied",
+        "FAKERANSOM.fiftycent",
+        "FAKERANSOM.helpmekek",
+        "FAKERANSOM.hope",
+        "FAKERANSOM.juice",
+        "FAKERANSOM.newspaper",
+        "FAKERANSOM.pepecorn",
+        "FAKERANSOM.pepeque",
+        "FAKERANSOM.pickupthephone",
+        "FAKERANSOM.proofofcard",
+        "FAKERANSOM.sacrifice",
+        "FAKERANSOM.specialdelivery",
+        "FAKERANSOM.truce"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FLOONEYBIN",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FLOONEYBIN.A",
+        "FLOONEYBIN.CAVEINTERVIEW",
+        "FLOONEYBIN.CHECKITOUT",
+        "FLOONEYBIN.FHOLYBIN",
+        "FLOONEYBIN.FLOPPYBIN",
+        "FLOONEYBIN.KIMJONGLOON",
+        "FLOONEYBIN.MAKE_YOUR_OWN",
+        "FLOONEYBIN.MAKE_YOUR_OWN.FLOONSAIC",
+        "FLOONEYBIN.MAKE_YOUR_OWN.LOONDRIAN",
+        "FLOONEYBIN.MAKE_YOUR_OWN.TEST",
+        "FLOONEYBIN.MAKE_YOUR_OWN.WOJOEY",
+        "FLOONEYBIN.NORMANCOMICS",
+        "FLOONEYBIN.REINASSANCE",
+        "FLOONEYBIN.THETOKENISTHEART"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOPUNKS",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOPUNKS.0",
+        "CRYPTOPUNKS.1",
+        "CRYPTOPUNKS.10",
+        "CRYPTOPUNKS.11",
+        "CRYPTOPUNKS.12",
+        "CRYPTOPUNKS.2",
+        "CRYPTOPUNKS.3",
+        "CRYPTOPUNKS.4",
+        "CRYPTOPUNKS.5",
+        "CRYPTOPUNKS.6",
+        "CRYPTOPUNKS.7",
+        "CRYPTOPUNKS.8",
+        "CRYPTOPUNKS.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SATOSHISWORD",
+      "original": "PEPESWORD",
+      "matched_stem": "SWORD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SATOSHISWORD.DARKSATOSHIRONIN1",
+        "SATOSHISWORD.DARKSATOSHIRONIN11",
+        "SATOSHISWORD.DARKSATOSHIRONIN2",
+        "SATOSHISWORD.DARKSATOSHIRONIN3",
+        "SATOSHISWORD.DARKSATOSHIRONIN4",
+        "SATOSHISWORD.DARKSATOSHIRONIN5",
+        "SATOSHISWORD.DARKSATOSHIRONIN6",
+        "SATOSHISWORD.DARKSATOSHIRONIN7",
+        "SATOSHISWORD.DARKSATOSHIRONIN8",
+        "SATOSHISWORD.DARKSATOSHIRONIN9",
+        "SATOSHISWORD.DORIANSBLADE1",
+        "SATOSHISWORD.DORIANSBLADE2",
+        "SATOSHISWORD.DORIANSBLADE3"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOPUNKS",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOPUNKS.0",
+        "CRYPTOPUNKS.1",
+        "CRYPTOPUNKS.10",
+        "CRYPTOPUNKS.11",
+        "CRYPTOPUNKS.12",
+        "CRYPTOPUNKS.2",
+        "CRYPTOPUNKS.3",
+        "CRYPTOPUNKS.4",
+        "CRYPTOPUNKS.5",
+        "CRYPTOPUNKS.6",
+        "CRYPTOPUNKS.7",
+        "CRYPTOPUNKS.8",
+        "CRYPTOPUNKS.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "OTHERWORLD",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "OTHERWORLD.ASheepWithSharpTeeth",
+        "OTHERWORLD.BalladOfGhosts",
+        "OTHERWORLD.BurningHearts",
+        "OTHERWORLD.CeremonyOfLife",
+        "OTHERWORLD.FiendsInParadise",
+        "OTHERWORLD.GameOfSouls",
+        "OTHERWORLD.PainAndRapture",
+        "OTHERWORLD.PeerPressure",
+        "OTHERWORLD.PlayTime",
+        "OTHERWORLD.Prophets",
+        "OTHERWORLD.ScorchedWings",
+        "OTHERWORLD.TillDeathDoUsPart"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "VETTEDREALTY",
+      "original": "REALBITCORN",
+      "matched_stem": "REAL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "VETTEDREALTY.VRX-CE-01",
+        "VETTEDREALTY.VRX-CE-02",
+        "VETTEDREALTY.VRX-CE-03",
+        "VETTEDREALTY.VRX-CN-01",
+        "VETTEDREALTY.VRX-RU-01",
+        "VETTEDREALTY.VRX-RU-02",
+        "VETTEDREALTY.VRX-TH-01",
+        "VETTEDREALTY.VRX-TH-02",
+        "VETTEDREALTY.VRX-TH-03",
+        "VETTEDREALTY.VRX-TH-04",
+        "VETTEDREALTY.VRX-TH-05"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DANKAGENT",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DANKAGENT.GODEYE",
+        "DANKAGENT.recruitment.JDOG",
+        "DANKAGENT.RECRUITMENT403",
+        "DANKAGENT.recruitment578",
+        "DANKAGENT.recruitment723174",
+        "DANKAGENT.recruitment88",
+        "DANKAGENT.SUSPECT101",
+        "DANKAGENT.suspect206",
+        "DANKAGENT.suspect2202",
+        "DANKAGENT.suspect3232",
+        "DANKAGENT.suspect3250"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PUNCHPUFF",
+      "original": "PEPEPUFF",
+      "matched_stem": "PUFF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PUNCHPUFF.0428c4001d0",
+        "PUNCHPUFF.046f7f381c0",
+        "PUNCHPUFF.0471be001d0",
+        "PUNCHPUFF.047513381c0",
+        "PUNCHPUFF.0493e40a1c0",
+        "PUNCHPUFF.04a7bc201c0",
+        "PUNCHPUFF.04c38c001d0",
+        "PUNCHPUFF.04e5b3431c0",
+        "PUNCHPUFF.04f4a3051c0",
+        "PUNCHPUFF.04fd68011c0"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MASKAMOTO",
+      "original": "PEPEMASK",
+      "matched_stem": "MASK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MASKAMOTO.01",
+        "MASKAMOTO.02",
+        "MASKAMOTO.03",
+        "MASKAMOTO.04",
+        "MASKAMOTO.05",
+        "MASKAMOTO.06",
+        "MASKAMOTO.07",
+        "MASKAMOTO.08",
+        "MASKAMOTO.09",
+        "MASKAMOTO.10"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NUTMEGPRINT",
+      "original": "PEPEPRINT",
+      "matched_stem": "PRINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NUTMEGPRINT.1",
+        "NUTMEGPRINT.10",
+        "NUTMEGPRINT.2",
+        "NUTMEGPRINT.3",
+        "NUTMEGPRINT.4",
+        "NUTMEGPRINT.5",
+        "NUTMEGPRINT.6",
+        "NUTMEGPRINT.7",
+        "NUTMEGPRINT.8",
+        "NUTMEGPRINT.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PUNCHPUFF",
+      "original": "CORNPUFF",
+      "matched_stem": "PUFF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PUNCHPUFF.0428c4001d0",
+        "PUNCHPUFF.046f7f381c0",
+        "PUNCHPUFF.0471be001d0",
+        "PUNCHPUFF.047513381c0",
+        "PUNCHPUFF.0493e40a1c0",
+        "PUNCHPUFF.04a7bc201c0",
+        "PUNCHPUFF.04c38c001d0",
+        "PUNCHPUFF.04e5b3431c0",
+        "PUNCHPUFF.04f4a3051c0",
+        "PUNCHPUFF.04fd68011c0"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKCRYPSI",
+      "original": "PEPEPSI",
+      "matched_stem": "PSI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKCRYPSI.ADOPTNOW",
+        "PHOCKCRYPSI.ALIEN-ETH",
+        "PHOCKCRYPSI.BITCOIN-APE",
+        "PHOCKCRYPSI.ENDISNIGH",
+        "PHOCKCRYPSI.J-DEMON",
+        "PHOCKCRYPSI.LAFAKA",
+        "PHOCKCRYPSI.PACMAN",
+        "PHOCKCRYPSI.SAMURAI",
+        "PHOCKCRYPSI.TOOBIG",
+        "PHOCKCRYPSI.UASF"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THESYMBOL",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THESYMBOL.01",
+        "THESYMBOL.02",
+        "THESYMBOL.03",
+        "THESYMBOL.04",
+        "THESYMBOL.05",
+        "THESYMBOL.06",
+        "THESYMBOL.07",
+        "THESYMBOL.08",
+        "THESYMBOL.09",
+        "THESYMBOL.10"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NUTMEGPRINT",
+      "original": "PEPENUT",
+      "matched_stem": "NUT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NUTMEGPRINT.1",
+        "NUTMEGPRINT.10",
+        "NUTMEGPRINT.2",
+        "NUTMEGPRINT.3",
+        "NUTMEGPRINT.4",
+        "NUTMEGPRINT.5",
+        "NUTMEGPRINT.6",
+        "NUTMEGPRINT.7",
+        "NUTMEGPRINT.8",
+        "NUTMEGPRINT.9"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKANONZ",
+      "original": "PEPEANON",
+      "matched_stem": "ANON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKANONZ.APE",
+        "PHOCKANONZ.BANKS",
+        "PHOCKANONZ.DALI",
+        "PHOCKANONZ.MARIO",
+        "PHOCKANONZ.MOTO",
+        "PHOCKANONZ.OBEY",
+        "PHOCKANONZ.PEPE",
+        "PHOCKANONZ.PILL",
+        "PHOCKANONZ.PRPEP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEWATER",
+      "original": "WATERCORN",
+      "matched_stem": "WATER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEWATER.FAKEBASEL2022.DESULTOR",
+        "PEPEWATER.FAKEBASEL2022.MINTGOLDDUST",
+        "PEPEWATER.FAKEBASEL2022.PEPENARDO",
+        "PEPEWATER.FAKEBASEL2022.SCRILLA",
+        "PEPEWATER.FAKEBASEL2022.SHAWN",
+        "PEPEWATER.FAKEBASEL2022.TATIANA",
+        "PEPEWATER.FAKEBASEL2022.THEO",
+        "PEPEWATER.FAKEBASEL2022.WINNIE",
+        "PEPEWATER.LAFAKANOSTRA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEWATER",
+      "original": "PEPEWAT",
+      "matched_stem": "WAT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEWATER.FAKEBASEL2022.DESULTOR",
+        "PEPEWATER.FAKEBASEL2022.MINTGOLDDUST",
+        "PEPEWATER.FAKEBASEL2022.PEPENARDO",
+        "PEPEWATER.FAKEBASEL2022.SCRILLA",
+        "PEPEWATER.FAKEBASEL2022.SHAWN",
+        "PEPEWATER.FAKEBASEL2022.TATIANA",
+        "PEPEWATER.FAKEBASEL2022.THEO",
+        "PEPEWATER.FAKEBASEL2022.WINNIE",
+        "PEPEWATER.LAFAKANOSTRA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DJPEPEBADGER",
+      "original": "JPEPE",
+      "matched_stem": "J",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DJPEPEBADGER.A-FULL-MOON-NIGHT",
+        "DJPEPEBADGER.A-SUMMONING",
+        "DJPEPEBADGER.AFRICAN-PHOENIX-MULLET-ALPACA-BADGER",
+        "DJPEPEBADGER.BILLIONAIRE-BTC-BOYS-CLUB",
+        "DJPEPEBADGER.BTCDONTCARE",
+        "DJPEPEBADGER.GORILLA-GLUE-MONEY-BADGER",
+        "DJPEPEBADGER.Mama-Badger",
+        "DJPEPEBADGER.MANERE-TRANQUILLITAS",
+        "DJPEPEBADGER.THE-RED-SMOWL-BADGER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CORNGEISHA",
+      "original": "GEISHAPEPE",
+      "matched_stem": "GEISHA",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CORNGEISHA.BUST",
+        "CORNGEISHA.FAKE",
+        "CORNGEISHA.FULLMOON",
+        "CORNGEISHA.KABUKI",
+        "CORNGEISHA.OBI",
+        "CORNGEISHA.SKETCH",
+        "CORNGEISHA.STUDIO",
+        "CORNGEISHA.TORI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DABCJOKER",
+      "original": "PEPEJOKER",
+      "matched_stem": "JOKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DABCJOKER.CLUBSACE",
+        "DABCJOKER.CLUBSJACK",
+        "DABCJOKER.CLUBSKING",
+        "DABCJOKER.CLUBSQUEEN",
+        "DABCJOKER.SPADESACE",
+        "DABCJOKER.SPADESJACK",
+        "DABCJOKER.SPADESKING",
+        "DABCJOKER.SPADESQUEEN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HARDCORE",
+      "original": "HARDCORN",
+      "matched_stem": "HARD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HARDCORE.90sRavePepe",
+        "HARDCORE.BITETHEAPPLE",
+        "HARDCORE.BloodyCandy",
+        "HARDCORE.PEPEHUB",
+        "HARDCORE.Princess_Pepe",
+        "HARDCORE.SNOWHITE",
+        "HARDCORE.THEJUMPOFF",
+        "HARDCORE.TOTHECORE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HEROIN",
+      "original": "PEPEHERO",
+      "matched_stem": "HERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HEROIN.ADDICTPEPE",
+        "HEROIN.BAD",
+        "HEROIN.COUGH",
+        "HEROIN.GOLDEN",
+        "HEROIN.HOPIUM",
+        "HEROIN.JustSayNever",
+        "HEROIN.MUGSHOT",
+        "HEROIN.PEPESPOTTING"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PENCILMOVIE",
+      "original": "MOVIECORN",
+      "matched_stem": "MOVIE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PENCILMOVIE.0.1",
+        "PENCILMOVIE.0.2",
+        "PENCILMOVIE.0.3",
+        "PENCILMOVIE.0.4",
+        "PENCILMOVIE.0.5",
+        "PENCILMOVIE.0.6",
+        "PENCILMOVIE.0.7",
+        "PENCILMOVIE.0.8"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SHITCOINS",
+      "original": "SHITCORN",
+      "matched_stem": "SHIT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SHITCOINS.AtOMo",
+        "SHITCOINS.CORN",
+        "SHITCOINS.ETH2.0",
+        "SHITCOINS.Ordinals",
+        "SHITCOINS.RUNES",
+        "SHITCOINS.SAUCE",
+        "SHITCOINS.Stimmies",
+        "SHITCOINS.xcp"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FLOONEYHEADS",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FLOONEYHEADS.FLOPPYDESERT",
+        "FLOONEYHEADS.FRAMESOFJOEY",
+        "FLOONEYHEADS.GREENJOECREW",
+        "FLOONEYHEADS.LADENDELIC",
+        "FLOONEYHEADS.REDORDEDJAK",
+        "FLOONEYHEADS.TOKENJOE",
+        "FLOONEYHEADS.WHATSTHESCOREJOEY",
+        "FLOONEYHEADS.WOESGARDEN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEENIGMA",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEENIGMA.ABSORPTION",
+        "THEENIGMA.ANQUISH",
+        "THEENIGMA.CHESTCARD",
+        "THEENIGMA.CLARITY",
+        "THEENIGMA.DOUBT",
+        "THEENIGMA.INSIGHT",
+        "THEENIGMA.MIRRORCARD",
+        "THEENIGMA.TORMENT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "EURONOTES",
+      "original": "RAREPEPENOTE",
+      "matched_stem": "NOTE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "EURONOTES.10",
+        "EURONOTES.100",
+        "EURONOTES.20",
+        "EURONOTES.200",
+        "EURONOTES.5",
+        "EURONOTES.50",
+        "EURONOTES.500"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKVIN",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKVIN.COWTIP",
+        "KEKVIN.LOPEPEZ",
+        "KEKVIN.MEMEBIT",
+        "KEKVIN.PUNK",
+        "KEKVIN.UTILITY1",
+        "KEKVIN.UTILITY2",
+        "KEKVIN.YOUR.CREDENTIALS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKVIN",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKVIN.COWTIP",
+        "KEKVIN.LOPEPEZ",
+        "KEKVIN.MEMEBIT",
+        "KEKVIN.PUNK",
+        "KEKVIN.UTILITY1",
+        "KEKVIN.UTILITY2",
+        "KEKVIN.YOUR.CREDENTIALS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREVISION",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREVISION.FAKESCIENTIST",
+        "RAREVISION.FUDZIE",
+        "RAREVISION.MIGOSH",
+        "RAREVISION.MRPUPPLE",
+        "RAREVISION.MURPH",
+        "RAREVISION.PEPERBEAT",
+        "RAREVISION.PORTAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THREESISTERS",
+      "original": "THREEPEPES",
+      "matched_stem": "THREES",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THREESISTERS.CENTER",
+        "THREESISTERS.LEFT",
+        "THREESISTERS.ONE",
+        "THREESISTERS.RIGHT",
+        "THREESISTERS.THREE",
+        "THREESISTERS.TWO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WARBONDS",
+      "original": "CORNBOND",
+      "matched_stem": "BOND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WARBONDS.BITCOIN",
+        "WARBONDS.BITCOINFROG",
+        "WARBONDS.BOMBER",
+        "WARBONDS.BURN-SACRIFICE",
+        "WARBONDS.CODEXALIMENTARIUS",
+        "WARBONDS.CUSPOFREVOLUTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKOBRA",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKOBRA.POSTER",
+        "KEKOBRA.PURPLE",
+        "KEKOBRA.PURPLEPROMO",
+        "KEKOBRA.RIPPLE",
+        "KEKOBRA.STORY",
+        "KEKOBRA.TEEKOBRA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INTERNETART",
+      "original": "PEPETAR",
+      "matched_stem": "TAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INTERNETART.FAKEFAKERARE",
+        "INTERNETART.FAKEKaleidoscopeXCP",
+        "INTERNETART.Kaleidoscope2021",
+        "INTERNETART.KaleidoscopeASCII",
+        "INTERNETART.METAisBETA",
+        "INTERNETART.SuperGoodShitShow"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARETEXAN",
+      "original": "PEPETEX",
+      "matched_stem": "TEX",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARETEXAN.ALCHEMIST2926-1",
+        "RARETEXAN.ALCHEMIST2926-2",
+        "RARETEXAN.ALCHEMIST2926-3",
+        "RARETEXAN.ALCHEMIST2926-4",
+        "RARETEXAN.ALCHEMIST2926-5",
+        "RARETEXAN.ALCHEMIST2926-6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKOBRA",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKOBRA.POSTER",
+        "KEKOBRA.PURPLE",
+        "KEKOBRA.PURPLEPROMO",
+        "KEKOBRA.RIPPLE",
+        "KEKOBRA.STORY",
+        "KEKOBRA.TEEKOBRA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GOLDASANOHA",
+      "original": "NOHPEPE",
+      "matched_stem": "NOH",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GOLDASANOHA.GUYSATDAI",
+        "GOLDASANOHA.GUYSATDAIONE",
+        "GOLDASANOHA.GUYSATDAITWO",
+        "GOLDASANOHA.PROOFOFWORK",
+        "GOLDASANOHA.SATRXDAI",
+        "GOLDASANOHA.SATRXDAIONE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARETEXAN",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARETEXAN.ALCHEMIST2926-1",
+        "RARETEXAN.ALCHEMIST2926-2",
+        "RARETEXAN.ALCHEMIST2926-3",
+        "RARETEXAN.ALCHEMIST2926-4",
+        "RARETEXAN.ALCHEMIST2926-5",
+        "RARETEXAN.ALCHEMIST2926-6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ONIRISM",
+      "original": "PEPEIRI",
+      "matched_stem": "IRI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ONIRISM.1",
+        "ONIRISM.2",
+        "ONIRISM.3",
+        "ONIRISM.4",
+        "ONIRISM.5",
+        "ONIRISM.6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKCYBER",
+      "original": "CYBERPEPE",
+      "matched_stem": "CYBER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKCYBER.NUMBERFIVE",
+        "PHOCKCYBER.NUMBERFOUR",
+        "PHOCKCYBER.NUMBERONE",
+        "PHOCKCYBER.NUMBERTHREE",
+        "PHOCKCYBER.NUMBERTWO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPESWALLOW",
+      "original": "WALLPEPE",
+      "matched_stem": "WALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPESWALLOW.CLASSICBLUE",
+        "PEPESWALLOW.CLASSICGREEN",
+        "PEPESWALLOW.DAYTRIPPER",
+        "PEPESWALLOW.H-BOMB",
+        "PEPESWALLOW.INKWASH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LITTLEPEEPEE",
+      "original": "PEPELITTLE",
+      "matched_stem": "LITTLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LITTLEPEEPEE.2",
+        "LITTLEPEEPEE.3",
+        "LITTLEPEEPEE.4",
+        "LITTLEPEEPEE.5",
+        "LITTLEPEEPEE.6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEPIDOU",
+      "original": "PEPI",
+      "matched_stem": "PEPI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEPIDOU.ASSOFDIAMONDS",
+        "PEPEPIDOU.ASSOFHEARTS",
+        "PEPEPIDOU.ASSOFSPADES",
+        "PEPEPIDOU.LeBlancSeing",
+        "PEPEPIDOU.STAMPidou"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THREESISTERS",
+      "original": "THREERARE",
+      "matched_stem": "THREE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THREESISTERS.CENTER",
+        "THREESISTERS.LEFT",
+        "THREESISTERS.ONE",
+        "THREESISTERS.RIGHT",
+        "THREESISTERS.TWO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MERMAID",
+      "original": "PEPERMAID",
+      "matched_stem": "RMAID",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MERMAID.BIKINIBOTTOM",
+        "MERMAID.BLOCKCHAIN",
+        "MERMAID.BOOBS",
+        "MERMAID.FART",
+        "MERMAID.FROG_PRINCE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKBEARD",
+      "original": "PEPEBEARD",
+      "matched_stem": "BEARD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKBEARD.CHARLIE",
+        "PHOCKBEARD.GRIZZ",
+        "PHOCKBEARD.ICE",
+        "PHOCKBEARD.NOMNOM",
+        "PHOCKBEARD.PANDA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MERMAID",
+      "original": "MERMAIDPEPE",
+      "matched_stem": "MERMAID",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MERMAID.BIKINIBOTTOM",
+        "MERMAID.BLOCKCHAIN",
+        "MERMAID.BOOBS",
+        "MERMAID.FART",
+        "MERMAID.FROG_PRINCE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAIRY",
+      "original": "FAIRPEPE",
+      "matched_stem": "FAIR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAIRY.ANDPEPE",
+        "FAIRY.elvinia",
+        "FAIRY.MAGIC",
+        "FAIRY.PEPE",
+        "FAIRY.TWISTED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPESWALLOW",
+      "original": "SWALLOWCORN",
+      "matched_stem": "SWALLOW",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPESWALLOW.CLASSICBLUE",
+        "PEPESWALLOW.CLASSICGREEN",
+        "PEPESWALLOW.DAYTRIPPER",
+        "PEPESWALLOW.H-BOMB",
+        "PEPESWALLOW.INKWASH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BURNEDPUNK",
+      "original": "PEPEBURN",
+      "matched_stem": "BURN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BURNEDPUNK.BLACKEYEPUNK",
+        "BURNEDPUNK.FROPUNK",
+        "BURNEDPUNK.GRANDPAPUNK",
+        "BURNEDPUNK.GREENBEARDEDPUNK",
+        "BURNEDPUNK.GREENPUNK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKBEARD",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKBEARD.CHARLIE",
+        "PHOCKBEARD.GRIZZ",
+        "PHOCKBEARD.ICE",
+        "PHOCKBEARD.NOMNOM",
+        "PHOCKBEARD.PANDA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DJPEPEBADGER",
+      "original": "CORNBADGER",
+      "matched_stem": "BADGER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DJPEPEBADGER.A-FULL-MOON-NIGHT",
+        "DJPEPEBADGER.A-SUMMONING",
+        "DJPEPEBADGER.BILLIONAIRE-BTC-BOYS-CLUB",
+        "DJPEPEBADGER.BTCDONTCARE",
+        "DJPEPEBADGER.MANERE-TRANQUILLITAS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEMASTERY",
+      "original": "CORNMASTER",
+      "matched_stem": "MASTER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEMASTERY.___",
+        "FAKEMASTERY.ASSET",
+        "FAKEMASTERY.NEURAL",
+        "FAKEMASTERY.PEPECASH_V2",
+        "FAKEMASTERY.SYSTEM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BURNEDPUNK",
+      "original": "BURNPEPE",
+      "matched_stem": "BURN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BURNEDPUNK.BLACKEYEPUNK",
+        "BURNEDPUNK.FROPUNK",
+        "BURNEDPUNK.GRANDPAPUNK",
+        "BURNEDPUNK.GREENBEARDEDPUNK",
+        "BURNEDPUNK.GREENPUNK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ULBRICHTROSS",
+      "original": "ROSSCARD",
+      "matched_stem": "ROSS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INFOKEK",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INFOKEK.RPA01",
+        "INFOKEK.RPA02",
+        "INFOKEK.RPA03",
+        "INFOKEK.RPA04",
+        "INFOKEK.RPA05"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEMEMECOIN",
+      "original": "PEPEME",
+      "matched_stem": "ME",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEMEMECOIN.ALPHA",
+        "PEPEMEMECOIN.S1N1",
+        "PEPEMEMECOIN.S1N2",
+        "PEPEMEMECOIN.S1N4",
+        "PEPEMEMECOIN.S1N6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NONFUNGERBIL",
+      "original": "FUNPEPE",
+      "matched_stem": "FUN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NONFUNGERBIL.1",
+        "NONFUNGERBIL.2",
+        "NONFUNGERBIL.3",
+        "NONFUNGERBIL.4",
+        "NONFUNGERBIL.5"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ULBRICHTROSS",
+      "original": "PEPETRO",
+      "matched_stem": "TRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GENESISFLIPS",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GENESISFLIPS.C1S1",
+        "GENESISFLIPS.KALEIDOASCII",
+        "GENESISFLIPS.LBTC",
+        "GENESISFLIPS.PHOCKHEADS1",
+        "GENESISFLIPS.UMBRELLA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INFOKEK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INFOKEK.RPA01",
+        "INFOKEK.RPA02",
+        "INFOKEK.RPA03",
+        "INFOKEK.RPA04",
+        "INFOKEK.RPA05"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PETERSCHIMP",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PETERSCHIMP.APEOPOLYTWO",
+        "PETERSCHIMP.BYCCARD5",
+        "PETERSCHIMP.BYCCARD6",
+        "PETERSCHIMP.BYCCARD7",
+        "PETERSCHIMP.BYCCARD8"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "YUKPEPE",
+      "original": "KPEPE",
+      "matched_stem": "K",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "YUKPEPE.FRAME1",
+        "YUKPEPE.FRAME2",
+        "YUKPEPE.FRAME3",
+        "YUKPEPE.FRAME4",
+        "YUKPEPE.FRAME5"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEALBUM",
+      "original": "PEPEA",
+      "matched_stem": "A",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEALBUM.Koi_No_Pepen",
+        "PEPEALBUM.Pepe_Survive",
+        "PEPEALBUM.Pepeen",
+        "PEPEALBUM.Pepetity_Crisis",
+        "PEPEALBUM.The_Eldritch_Pepe"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COUNTERPUNK",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COUNTERPUNK.001",
+        "COUNTERPUNK.002",
+        "COUNTERPUNK.003",
+        "COUNTERPUNK.004",
+        "COUNTERPUNK.457"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPPERS",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPPERS.ARWYN",
+        "RAREPEPPERS.CODY",
+        "RAREPEPPERS.ELON",
+        "RAREPEPPERS.TRUDEEART",
+        "RAREPEPPERS.TRUMP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKELORDKEK",
+      "original": "LORDCORN",
+      "matched_stem": "LORD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKELORDKEK.DANK",
+        "FAKELORDKEK.PURP",
+        "FAKELORDKEK.SACRIFICE",
+        "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEANDLILY",
+      "original": "LILYCORN",
+      "matched_stem": "LILY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEANDLILY.DANK",
+        "PEPEANDLILY.INSCRIPTION47276",
+        "PEPEANDLILY.Love",
+        "PEPEANDLILY.STEALSYERGIRL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITBALL",
+      "original": "PEPEBALL",
+      "matched_stem": "BALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITBALL.1BABERUTH",
+        "BITBALL.2SATCHELPAIGE",
+        "BITBALL.3HONUSWAGNER",
+        "BITBALL.4LOUGEHRIG"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEOGSHOW",
+      "original": "RAREPEPESHOW",
+      "matched_stem": "SHOW",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEOGSHOW.DEC2022RICHORREKT",
+        "THEOGSHOW.NARDO",
+        "THEOGSHOW.PREDICITONS2023",
+        "THEOGSHOW.RICHORREKT2022"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKESOONMIRO",
+      "original": "PEPEMIRO",
+      "matched_stem": "MIRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKESOONMIRO.ARTISTEDITION",
+        "FAKESOONMIRO.FAKE",
+        "FAKESOONMIRO.FAKESOON",
+        "FAKESOONMIRO.SOON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "YOUCANTSMOKE",
+      "original": "YOUCANPEPE",
+      "matched_stem": "YOUCAN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "YOUCANTSMOKE.BLUEVAPOR",
+        "YOUCANTSMOKE.FAKEMOVIE",
+        "YOUCANTSMOKE.GREENVAPOR",
+        "YOUCANTSMOKE.MCPICKLEXPURPLE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MINDBENDERS",
+      "original": "PEPEMIND",
+      "matched_stem": "MIND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MINDBENDERS.METABALLS.001",
+        "MINDBENDERS.METABALLS.002",
+        "MINDBENDERS.METABALLS.003",
+        "MINDBENDERS.SPHERE.001"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MUSKTWEETS",
+      "original": "CORNMUSK",
+      "matched_stem": "MUSK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MUSKTWEETS.MATRIX",
+        "MUSKTWEETS.TWITTERFILES",
+        "MUSKTWEETS.WHITERABBIT",
+        "MUSKTWEETS.ZOMBIES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TESTGEN",
+      "original": "CORNTEST",
+      "matched_stem": "TEST",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TESTGEN.1",
+        "TESTGEN.2",
+        "TESTGEN.3",
+        "TESTGEN.4"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INFISPACE",
+      "original": "SPACECORN",
+      "matched_stem": "SPACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INFISPACE.BUCKS",
+        "INFISPACE.HASTATI_Fighter",
+        "INFISPACE.HOPLITE_Figher",
+        "INFISPACE.OTOMI_Fighter"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BEARSOUL",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BEARSOUL.CLOAKFORM",
+        "BEARSOUL.FIRSTFORM",
+        "BEARSOUL.FIRSTFORM.CLAW",
+        "BEARSOUL.SECONDFORM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEBASQPEPE",
+      "original": "CORNBASQ",
+      "matched_stem": "BASQ",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEBASQPEPE.ORIGINAL",
+        "FAKEBASQPEPE.PEACE",
+        "FAKEBASQPEPE.PEACEART",
+        "FAKEBASQPEPE.PRINT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SPOOKYPEPES",
+      "original": "SPOOKYCORN",
+      "matched_stem": "SPOOKY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SPOOKYPEPES.FAKENSTEIN",
+        "SPOOKYPEPES.KEKHEAD",
+        "SPOOKYPEPES.NOSFAKERATU",
+        "SPOOKYPEPES.WEREFANK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COLORSOFPEPE",
+      "original": "COLORPEPE",
+      "matched_stem": "COLOR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COLORSOFPEPE.COP1G",
+        "COLORSOFPEPE.COP2B",
+        "COLORSOFPEPE.COP3W",
+        "COLORSOFPEPE.COP4R"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITCOINROCK",
+      "original": "CORNROCK",
+      "matched_stem": "ROCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITCOINROCK.0",
+        "BITCOINROCK.1",
+        "BITCOINROCK.2",
+        "BITCOINROCK.3"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INFISPACE",
+      "original": "PACPEPE",
+      "matched_stem": "PAC",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INFISPACE.BUCKS",
+        "INFISPACE.HASTATI_Fighter",
+        "INFISPACE.HOPLITE_Figher",
+        "INFISPACE.OTOMI_Fighter"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TESTGEN",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TESTGEN.1",
+        "TESTGEN.2",
+        "TESTGEN.3",
+        "TESTGEN.4"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INFISPACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INFISPACE.BUCKS",
+        "INFISPACE.HASTATI_Fighter",
+        "INFISPACE.HOPLITE_Figher",
+        "INFISPACE.OTOMI_Fighter"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEBASQPEPE",
+      "original": "QPEPE",
+      "matched_stem": "Q",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEBASQPEPE.ORIGINAL",
+        "FAKEBASQPEPE.PEACE",
+        "FAKEBASQPEPE.PEACEART",
+        "FAKEBASQPEPE.PRINT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETORCH",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETORCH.GALAXYSTICKERS1",
+        "PEPETORCH.GALAXYSTICKERS2",
+        "PEPETORCH.GALAXYSTICKERS3",
+        "PEPETORCH.GALAXYSTICKERS4"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KOATHECAT",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KOATHECAT.0001",
+        "KOATHECAT.0002",
+        "KOATHECAT.0003",
+        "KOATHECAT.LAZYTUESDAY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PATHERHOOD",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PATHERHOOD.BEGINNING",
+        "PATHERHOOD.GOODBYE",
+        "PATHERHOOD.GROWN",
+        "PATHERHOOD.YOUTH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEOGSHOW",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEOGSHOW.DEC2022RICHORREKT",
+        "THEOGSHOW.NARDO",
+        "THEOGSHOW.PREDICITONS2023",
+        "THEOGSHOW.RICHORREKT2022"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PAINTPEPUNKS",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PAINTPEPUNKS.0002",
+        "PAINTPEPUNKS.0003",
+        "PAINTPEPUNKS.0005",
+        "PAINTPEPUNKS.0006"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCBANKNOTE",
+      "original": "RAREPEPENOTE",
+      "matched_stem": "NOTE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCBANKNOTE.BITCOIN2019SF",
+        "BTCBANKNOTE.RAREAF2",
+        "BTCBANKNOTE.SUBASTA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GENESISCUBE",
+      "original": "CUBEPEPE",
+      "matched_stem": "CUBE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GENESISCUBE.1of21",
+        "GENESISCUBE.2of21",
+        "GENESISCUBE.PERMISSION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SUMO",
+      "original": "PEPESUMO",
+      "matched_stem": "SUMO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SUMO.BABY",
+        "SUMO.BIGINJAPAN",
+        "SUMO.FACEOFF"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LOEWYLOOP",
+      "original": "PEPELOOP",
+      "matched_stem": "LOOP",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LOEWYLOOP.Alebrije-Desert-AuroraB",
+        "LOEWYLOOP.Alebrije-Desert-MercuryC",
+        "LOEWYLOOP.Alebrije-Desert-SunrisePB"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCGRAFFITI",
+      "original": "GRAFFITIPEPE",
+      "matched_stem": "GRAFFITI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCGRAFFITI.1",
+        "BTCGRAFFITI.2",
+        "BTCGRAFFITI.3"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PINKTACO",
+      "original": "PEPETACO",
+      "matched_stem": "TACO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PINKTACO.ANYTHING",
+        "PINKTACO.SLURP_SLURP",
+        "PINKTACO.VEGAN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "XCERMINT",
+      "original": "PEPEMINT",
+      "matched_stem": "MINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "XCERMINT.16PACK",
+        "XCERMINT.2PACK",
+        "XCERMINT.6PACK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKELORDKEK",
+      "original": "RARELORDKEK",
+      "matched_stem": "LORDKEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKELORDKEK.PURP",
+        "FAKELORDKEK.SACRIFICE",
+        "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MADETHISPEPE",
+      "original": "THISPEPE",
+      "matched_stem": "THIS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MADETHISPEPE.BURNCARD",
+        "MADETHISPEPE.KINGPIN",
+        "MADETHISPEPE.REJECTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SCARCECITY",
+      "original": "PEPECITY",
+      "matched_stem": "CITY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SCARCECITY.PEPEISART",
+        "SCARCECITY.RPJAZZBAND",
+        "SCARCECITY.XCP_LEGEND"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MISSPEEPS",
+      "original": "PEPEPEEPS",
+      "matched_stem": "PEEPS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MISSPEEPS.PROMO-VIDI_01",
+        "MISSPEEPS.PROMO-VIDI_02",
+        "MISSPEEPS.The_Ultimate_Sub"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HANDPRINTS",
+      "original": "PEPEPRINT",
+      "matched_stem": "PRINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HANDPRINTS.airdrop",
+        "HANDPRINTS.FACES",
+        "HANDPRINTS.VOLUNTEERFORTHETEARS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MODERNPRINT",
+      "original": "PEPEPRINT",
+      "matched_stem": "PRINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MODERNPRINT.AAPL",
+        "MODERNPRINT.discard",
+        "MODERNPRINT.GOOGL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIKAPOSTERS",
+      "original": "PEPEPOST",
+      "matched_stem": "POST",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIKAPOSTERS.BOSHIWAVE",
+        "MIKAPOSTERS.GRANDPRIX",
+        "MIKAPOSTERS.NYEBOSHIBASH.2023"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MODERNPRINT",
+      "original": "MODERNCORN",
+      "matched_stem": "MODERN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MODERNPRINT.AAPL",
+        "MODERNPRINT.discard",
+        "MODERNPRINT.GOOGL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "REALFAKEK",
+      "original": "REALBITCORN",
+      "matched_stem": "REAL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "REALFAKEK.PROTOTRASH",
+        "REALFAKEK.REKTPEPE",
+        "REALFAKEK.SWEEPEPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "REALTECH",
+      "original": "REALBITCORN",
+      "matched_stem": "REAL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "REALTECH.magic",
+        "REALTECH.magic.II",
+        "REALTECH.magic.III"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCGRAFFITI",
+      "original": "CORNFITI",
+      "matched_stem": "FITI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCGRAFFITI.1",
+        "BTCGRAFFITI.2",
+        "BTCGRAFFITI.3"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LORD",
+      "original": "LORDCORN",
+      "matched_stem": "LORD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LORD.NAKAMOTO",
+        "LORD.OFMEMES",
+        "LORD.OFTHERINGS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MISSPEEPS",
+      "original": "MISSPEPE",
+      "matched_stem": "MISS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MISSPEEPS.PROMO-VIDI_01",
+        "MISSPEEPS.PROMO-VIDI_02",
+        "MISSPEEPS.The_Ultimate_Sub"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LFGPEPEFAKER",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LFGPEPEFAKER.RAREDRAGON",
+        "LFGPEPEFAKER.RAREVEGETA",
+        "LFGPEPEFAKER.XFACTOR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "REALFAKEK",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "REALFAKEK.PROTOTRASH",
+        "REALFAKEK.REKTPEPE",
+        "REALFAKEK.SWEEPEPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SEASTAMP",
+      "original": "SEAPEPE",
+      "matched_stem": "SEA",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SEASTAMP.CORALSTAMP",
+        "SEASTAMP.SUNSTAMP",
+        "SEASTAMP.WAVESTAMP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEDESTROY",
+      "original": "PEPETRO",
+      "matched_stem": "TRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEDESTROY.BOATACCIDENT",
+        "FAKEDESTROY.CRUSHER",
+        "FAKEDESTROY.VOLCANO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GENESISCUBE",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GENESISCUBE.1of21",
+        "GENESISCUBE.2of21",
+        "GENESISCUBE.PERMISSION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKELORDKEK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKELORDKEK.DANK",
+        "FAKELORDKEK.PURP",
+        "FAKELORDKEK.SACRIFICE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKEBRATE",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKEBRATE.AMC",
+        "KEKEBRATE.CC",
+        "KEKEBRATE.FAKEAMC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "REALFAKEK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "REALFAKEK.PROTOTRASH",
+        "REALFAKEK.REKTPEPE",
+        "REALFAKEK.SWEEPEPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEANDLILY",
+      "original": "PEPEAN",
+      "matched_stem": "AN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEANDLILY.INSCRIPTION47276",
+        "PEPEANDLILY.Love",
+        "PEPEANDLILY.STEALSYERGIRL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THENAKAMOTOS",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THENAKAMOTOS.1-RedPutin-Keeper-CapNaka",
+        "THENAKAMOTOS.FAKE",
+        "THENAKAMOTOS.ORIGINAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEOS",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEOS.AUCTION",
+        "THEOS.OG",
+        "THEOS.UPDATEBYCEO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAUXITEMS",
+      "original": "PEPEXIT",
+      "matched_stem": "XIT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAUXITEMS.RONINSCROLL4",
+        "FAUXITEMS.RONINSCROLL5",
+        "FAUXITEMS.RONINSCROLL6"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCPUNK",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCPUNK.0668",
+        "BTCPUNK.1571",
+        "BTCPUNK.4505"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPESS",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPESS.ORDINALGLOBETROTTER",
+        "RAREPEPESS.SKYHOOK",
+        "RAREPEPESS.SKYHOOKDEED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARESCRILLA",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARESCRILLA.CME005",
+        "RARESCRILLA.CME006",
+        "RARESCRILLA.FRAMED_4ELE_SC_11_3_21"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARESTSETS",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARESTSETS.AUCTIONWINNER",
+        "RARESTSETS.nycnftauction",
+        "RARESTSETS.scarcecitynyc2023"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PIZZADAYNOTE",
+      "original": "RAREPEPENOTE",
+      "matched_stem": "NOTE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PIZZADAYNOTE.2022POST",
+        "PIZZADAYNOTE.JEREMY2022"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIAWALLACE",
+      "original": "WALLPEPE",
+      "matched_stem": "WALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIAWALLACE.LICENSE",
+        "MIAWALLACE.NEON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SWALLJA",
+      "original": "WALLPEPE",
+      "matched_stem": "WALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SWALLJA.LETSGETSMOL",
+        "SWALLJA.TOOT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WALLETHAIKU",
+      "original": "WALLPEPE",
+      "matched_stem": "WALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WALLETHAIKU.Crimsonwood",
+        "WALLETHAIKU.Idiotpoetry"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "JOHNNYDOLLAR",
+      "original": "DOLLARPEPE",
+      "matched_stem": "DOLLAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+        "JOHNNYDOLLAR.YearOfTheNFT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HOMERLAY",
+      "original": "PEPEHOMER",
+      "matched_stem": "HOMER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HOMERLAY.CLASSIC",
+        "HOMERLAY.DISCOCLASSIC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SSCCOMMODITY",
+      "original": "MODIPEPE",
+      "matched_stem": "MODI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SSCCOMMODITY.SSC006",
+        "SSCCOMMODITY.SSC007"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "QANON",
+      "original": "PEPEANON",
+      "matched_stem": "ANON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "QANON.Q12023HOLDER",
+        "QANON.Q123"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEROCK",
+      "original": "KEROPEPE",
+      "matched_stem": "KERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEROCK.lafakanostra",
+        "FAKEROCK.PSA10"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FORKOFF",
+      "original": "FORKCARD",
+      "matched_stem": "FORK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FORKOFF.KING",
+        "FORKOFF.WAR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LAMBOFAKE",
+      "original": "PEPELAMBO",
+      "matched_stem": "LAMBO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LAMBOFAKE.PURPLE",
+        "LAMBOFAKE.TEST"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HEROBOY",
+      "original": "ROBOCORN",
+      "matched_stem": "ROBO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HEROBOY.DEMO",
+        "HEROBOY.RAFFLE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOARTDIR",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOARTDIR.SUPERB_ART",
+        "CRYPTOARTDIR.TEST"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOPEPES",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOPEPES.PEPEPUNK_0000",
+        "CRYPTOPEPES.PEPEPUNK_0001"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "JUSTAGIRL",
+      "original": "PEPEGIRL",
+      "matched_stem": "GIRL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "JUSTAGIRL.Bathroom_Selfie",
+        "JUSTAGIRL.Bedroom_Pose"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TUBGIRL",
+      "original": "PEPEGIRL",
+      "matched_stem": "GIRL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TUBGIRL.COM",
+        "TUBGIRL.KOTAKU"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ZOMBIEGIRLS",
+      "original": "PEPEGIRL",
+      "matched_stem": "GIRL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ZOMBIEGIRLS.MEDUSA",
+        "ZOMBIEGIRLS.zombierella"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WALLETHAIKU",
+      "original": "HAIKUPEPE",
+      "matched_stem": "HAIKU",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WALLETHAIKU.Crimsonwood",
+        "WALLETHAIKU.Idiotpoetry"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEILOVEU",
+      "original": "ILOVEPEPE",
+      "matched_stem": "ILOVE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEILOVEU.NAUGHTYPEPA",
+        "PEPEILOVEU.NAUGHTYPEPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEPUZZLE",
+      "original": "PUZZLEPEPE",
+      "matched_stem": "PUZZLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEPUZZLE.FAKERARES2",
+        "FAKEPUZZLE.FAKERARESI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HEROBOY",
+      "original": "PEPEHERO",
+      "matched_stem": "HERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HEROBOY.DEMO",
+        "HEROBOY.RAFFLE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HEROPEPE",
+      "original": "PEPEHERO",
+      "matched_stem": "HERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HEROPEPE.CHILLED",
+        "HEROPEPE.FOCUSED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TESTCARDS",
+      "original": "CORNTEST",
+      "matched_stem": "TEST",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TESTCARDS.THREE",
+        "TESTCARDS.TWO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DESECRATPEPE",
+      "original": "RATPEPECORN",
+      "matched_stem": "RATPEPE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DESECRATPEPE.DRUNKEKPELOSI",
+        "DESECRATPEPE.UKRAINEOWNEDCONGRESS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKESPACE",
+      "original": "SPACECORN",
+      "matched_stem": "SPACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKESPACE.EP1.PepeNardo",
+        "FAKESPACE.EP2.DimZayan"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREALIEN",
+      "original": "REALBITCORN",
+      "matched_stem": "REAL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREALIEN.FELLOWALIENS",
+        "RAREALIEN.FROGCEPTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BURNPEPECASH",
+      "original": "PEPEBURN",
+      "matched_stem": "BURN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BURNPEPECASH.FAKEPoB50",
+        "BURNPEPECASH.PoB50"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LIGHTHOUSES",
+      "original": "PEPEHOUSE",
+      "matched_stem": "HOUSE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LIGHTHOUSES.BOSHIDARK",
+        "LIGHTHOUSES.MIKALIGHT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BEARFACTS",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BEARFACTS.misprint",
+        "BEARFACTS.poachers"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SSBLUEBEAR",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SSBLUEBEAR.BLUEMAGIC",
+        "SSBLUEBEAR.FASTER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HOMERLAY",
+      "original": "HOMERPEPE",
+      "matched_stem": "HOMER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HOMERLAY.CLASSIC",
+        "HOMERLAY.DISCOCLASSIC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLOCKSWAN",
+      "original": "BLOCKPEPE",
+      "matched_stem": "BLOCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLOCKSWAN.LIGHTBOX",
+        "BLOCKSWAN.MEMORY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PIZZADAYNOTE",
+      "original": "PEPEPIZZA",
+      "matched_stem": "PIZZA",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PIZZADAYNOTE.2022POST",
+        "PIZZADAYNOTE.JEREMY2022"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COLORWHEEL",
+      "original": "COLORPEPE",
+      "matched_stem": "COLOR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COLORWHEEL.INSCRIPTION",
+        "COLORWHEEL.ORD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DESANTIS",
+      "original": "CORNESAN",
+      "matched_stem": "ESAN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DESANTIS.COPE",
+        "DESANTIS.COPE2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKOBOND",
+      "original": "CORNBOND",
+      "matched_stem": "BOND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKOBOND.RECEIPT.002",
+        "KEKOBOND.REQUEST.002"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FRUITTREE",
+      "original": "TREECORN",
+      "matched_stem": "TREE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FRUITTREE.APPLE",
+        "FRUITTREE.TANGERINE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEROCK",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEROCK.lafakanostra",
+        "FAKEROCK.PSA10"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERRARI",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERRARI.PACK",
+        "FAKERRARI.PEPERIA.LOGO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DROOLKONG",
+      "original": "CORNKONG",
+      "matched_stem": "KONG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DROOLKONG.BABY",
+        "DROOLKONG.POODOO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BURNPEPECASH",
+      "original": "BURNPEPE",
+      "matched_stem": "BURN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BURNPEPECASH.FAKEPoB50",
+        "BURNPEPECASH.PoB50"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SQUIGGLEPEPE",
+      "original": "CORNSQUIGGLE",
+      "matched_stem": "SQUIGGLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SQUIGGLEPEPE.PURPLE",
+        "SQUIGGLEPEPE.WuTs_My_CaGr"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INVISIBLHAND",
+      "original": "INVISIBLCORN",
+      "matched_stem": "INVISIBL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INVISIBLHAND.BAG",
+        "INVISIBLHAND.pepecash_millionaire"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEROCK",
+      "original": "CORNROCK",
+      "matched_stem": "ROCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEROCK.lafakanostra",
+        "FAKEROCK.PSA10"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEGAMERP",
+      "original": "GAMECORN",
+      "matched_stem": "GAME",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEGAMERP.FTPLF",
+        "FAKEGAMERP.ragequit"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "STEAMBOAT",
+      "original": "STEAMCORN",
+      "matched_stem": "STEAM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "STEAMBOAT.WILLIE",
+        "STEAMBOAT.WILLIE-Poster"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKISTHODLE",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKISTHODLE.PepeFanjul",
+        "KEKISTHODLE.PEPEFANJUL2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKOBOND",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKOBOND.RECEIPT.002",
+        "KEKOBOND.REQUEST.002"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKSBASILISK",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKSBASILISK.THEREDHORSE",
+        "KEKSBASILISK.THEWHITEHORSE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKESPACE",
+      "original": "PACPEPE",
+      "matched_stem": "PAC",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKESPACE.EP1.PepeNardo",
+        "FAKESPACE.EP2.DimZayan"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MENAGEATROIS",
+      "original": "PEPETRO",
+      "matched_stem": "TRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MENAGEATROIS.BLISS",
+        "MENAGEATROIS.BOIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MONAS",
+      "original": "NASPEPE",
+      "matched_stem": "NAS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MONAS.BACORN",
+        "MONAS.SALVADOR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEGENESIS",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEGENESIS.PALETTE1",
+        "FAKEGENESIS.PALETTE2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKESPACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKESPACE.EP1.PepeNardo",
+        "FAKESPACE.EP2.DimZayan"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIAWALLACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIAWALLACE.LICENSE",
+        "MIAWALLACE.NEON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DOLFIN",
+      "original": "PEPEDOL",
+      "matched_stem": "DOL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DOLFIN.STILLPURPLE",
+        "DOLFIN.TSHIRT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "JOHNNYDOLLAR",
+      "original": "PEPEDOL",
+      "matched_stem": "DOL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+        "JOHNNYDOLLAR.YearOfTheNFT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FLOONEYDOOMS",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FLOONEYDOOMS.PEPE",
+        "FLOONEYDOOMS.WOJAK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MDRNFLOONEY",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MDRNFLOONEY.APEPE",
+        "MDRNFLOONEY.FRAMEYBIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHONEYSIMPSO",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHONEYSIMPSO.LAFAKA",
+        "PHONEYSIMPSO.PURPLE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKISTHODLE",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKISTHODLE.PepeFanjul",
+        "KEKISTHODLE.PEPEFANJUL2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKOBOND",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKOBOND.RECEIPT.002",
+        "KEKOBOND.REQUEST.002"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKSBASILISK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKSBASILISK.THEREDHORSE",
+        "KEKSBASILISK.THEWHITEHORSE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEAPETOKEN",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEAPETOKEN.RADIOACTIVEEP",
+        "FAKEAPETOKEN.RADIOACTIVEEP.TRACKFIVE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEPETRILLI",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEPETRILLI.THE-SON-OF-MEMES",
+        "PEPEPETRILLI.THE-SON-OF-MEMES-FF9900"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEANTHEM",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEANTHEM.SILK",
+        "FAKEANTHEM.WILLIEWAZE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WHATTHEYTOOK",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WHATTHEYTOOK.FITNESS",
+        "WHATTHEYTOOK.PATRIOTISM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PAKPEPE",
+      "original": "KPEPE",
+      "matched_stem": "K",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PAKPEPE.ORIGIN",
+        "PAKPEPE.PAGE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEANDLILY",
+      "original": "PEPEA",
+      "matched_stem": "A",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEANDLILY.INSCRIPTION47276",
+        "PEPEANDLILY.Love"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEASTRACTS",
+      "original": "PEPEA",
+      "matched_stem": "A",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEASTRACTS.NINE",
+        "PEPEASTRACTS.TEN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DAFTPUNKS",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DAFTPUNKS.GUYMAN",
+        "DAFTPUNKS.THOMAS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "OMARPEPE",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "OMARPEPE.PEPESDEPOT",
+        "OMARPEPE.WEEPEY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TOPFLOORPEPE",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TOPFLOORPEPE.legend",
+        "TOPFLOORPEPE.template"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREAF",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREAF.marketexplainer",
+        "RAREAF.TER-PARTY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREALIEN",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREALIEN.FELLOWALIENS",
+        "RAREALIEN.FROGCEPTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREBANANA",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREBANANA.A-BANANA-STORY",
+        "RAREBANANA.STRONG-BANANA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LORETTALYNN",
+      "original": "PEPELYN",
+      "matched_stem": "LYN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LORETTALYNN.GUITAR",
+        "LORETTALYNN.PORTRAIT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPWAVE",
+      "original": "PEPEWAVE",
+      "matched_stem": "WAVE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPWAVE.SPEED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PICAMONDPEPE",
+      "original": "PEPECAMO",
+      "matched_stem": "CAMO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PICAMONDPEPE.REAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCBALLERS",
+      "original": "PEPEBALL",
+      "matched_stem": "BALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCBALLERS.TO_THE_MOON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEBALLS",
+      "original": "PEPEBALL",
+      "matched_stem": "BALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEBALLS.LAFAKAPRODUCTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "OOPENPEN",
+      "original": "PENPEN",
+      "matched_stem": "PENPEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "OOPENPEN.xn--bw8h"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PROOFOFPEP",
+      "original": "PROOFOFPEPE",
+      "matched_stem": "PROOFOF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PROOFOFPEP.MIAMI.PINK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PROOFOFVISIT",
+      "original": "PROOFOFPEPE",
+      "matched_stem": "PROOFOF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PROOFOFVISIT.EXPO2020"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SMALLBRAIN",
+      "original": "PEPEBRAIN",
+      "matched_stem": "BRAIN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SMALLBRAIN.MONEY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SHADILAYDI",
+      "original": "RARESHADILAY",
+      "matched_stem": "SHADILAY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SHADILAYDI.PICT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PUBLICWALLET",
+      "original": "WALLPEPE",
+      "matched_stem": "WALL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PUBLICWALLET.skill.only.heard.lust.needle.huge.pie.add.pattern.affection.example.torment"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCBROSSHIRT",
+      "original": "PEPESHIRT",
+      "matched_stem": "SHIRT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCBROSSHIRT.V1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PHOCKART",
+      "original": "PEPEKART",
+      "matched_stem": "KART",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PHOCKART.DORSEY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPECHECKED",
+      "original": "CHECKPEPE",
+      "matched_stem": "CHECK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPECHECKED.DAILYDANK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DROPCLOSED",
+      "original": "DROPPEPE",
+      "matched_stem": "DROP",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DROPCLOSED.we_thank_you"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "XAIRDROPCARD",
+      "original": "DROPPEPE",
+      "matched_stem": "DROP",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "XAIRDROPCARD.MACD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEROTHKO",
+      "original": "KEROPEPE",
+      "matched_stem": "KERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEROTHKO.BASQKEK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KERODEATH",
+      "original": "KEROPEPE",
+      "matched_stem": "KERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KERODEATH.RESURRECTION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HOLYNAKA",
+      "original": "HOLYPEPE",
+      "matched_stem": "HOLY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HOLYNAKA.GLDTOTER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEHOLYGRAIL",
+      "original": "HOLYPEPE",
+      "matched_stem": "HOLY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEHOLYGRAIL.MIAMI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DUMBLEDROOL",
+      "original": "DUMBLEPEPE",
+      "matched_stem": "DUMBLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DUMBLEDROOL.DERPHAGRID"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SHADINACCI",
+      "original": "PEPENACCI",
+      "matched_stem": "NACCI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SHADINACCI.MONDRIAN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEPARTY",
+      "original": "PARTYPEPE",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEPARTY.FAKEMEMORIES1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LEMONPARTY",
+      "original": "PARTYPEPE",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LEMONPARTY.ORG"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PARTYPUNKS",
+      "original": "PARTYPEPE",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PARTYPUNKS.0"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ZOMBIEGIRLS",
+      "original": "RAREZOMBIE",
+      "matched_stem": "ZOMBIE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ZOMBIEGIRLS.MEDUSA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HODLOMONSTER",
+      "original": "MONSTERPEPE",
+      "matched_stem": "MONSTER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HODLOMONSTER.__CULMINATION-OF-PROOF__A-CLASH-OF-CATS-AND-THE-CHARLATAN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPPEMINT",
+      "original": "PEPEMINT",
+      "matched_stem": "MINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPPEMINT.PHYSICAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RETROHAIR",
+      "original": "RETROPEPE",
+      "matched_stem": "RETRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RETROHAIR.SUPERSHINE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CUPIDJAG",
+      "original": "CUPIDPEPE",
+      "matched_stem": "CUPID",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CUPIDJAG.WaccedOutMurals"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEPIXELAND",
+      "original": "PEPI",
+      "matched_stem": "PEPI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEPIXELAND.RAILWAY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOART",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOART.Treatise"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOCORNS",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOCORNS.1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTORHYMES",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTORHYMES.MatadoresMarket"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOWOJAK",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOWOJAK.PHYSICAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "OGCRYPTOART",
+      "original": "CRYPTOPEPE",
+      "matched_stem": "CRYPTO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "OGCRYPTOART.GREEN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPAAGOTCHI",
+      "original": "PEPEGOTCHI",
+      "matched_stem": "GOTCHI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPAAGOTCHI.SUSPEPAAFLY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BMASK",
+      "original": "PEPEMASK",
+      "matched_stem": "MASK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BMASK.VIPER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BATTLECORN",
+      "original": "BATTLEPEPE",
+      "matched_stem": "BATTLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BATTLECORN.BOOST"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DROOLBATTLE",
+      "original": "BATTLEPEPE",
+      "matched_stem": "BATTLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DROOLBATTLE.SPACEAPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FUTURETRASH",
+      "original": "PEPETRASH",
+      "matched_stem": "TRASH",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FUTURETRASH.KEVIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CORNAVIRUS",
+      "original": "VIRUSPEPE",
+      "matched_stem": "VIRUS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CORNAVIRUS.MUTATION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEITMAKEIT",
+      "original": "MAKEPEPERARE",
+      "matched_stem": "MAKE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEITMAKEIT.fakeit"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MOONFROG",
+      "original": "PEPEMOON",
+      "matched_stem": "MOON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MOONFROG.PROOFOFDONATIONRULES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MRSTRAINS",
+      "original": "PEPETRAIN",
+      "matched_stem": "TRAIN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MRSTRAINS.420"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CLAYCASH",
+      "original": "CLAYPEPE",
+      "matched_stem": "CLAY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CLAYCASH.this_is_not_a_moulacoin"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITSKULL",
+      "original": "SKULLCORN",
+      "matched_stem": "SKULL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITSKULL.S01"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KARANGSKULL",
+      "original": "SKULLCORN",
+      "matched_stem": "SKULL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KARANGSKULL.WOOD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CORNKITTIES",
+      "original": "PEPEKITTIES",
+      "matched_stem": "KITTIES",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CORNKITTIES.STAMP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DROOLBATTLE",
+      "original": "BATTLECORN",
+      "matched_stem": "BATTLE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DROOLBATTLE.SPACEAPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INSIDEPPMIND",
+      "original": "PEPEMIND",
+      "matched_stem": "MIND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INSIDEPPMIND.PEPETREE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CLOWNTECH",
+      "original": "CLOWNPEPE",
+      "matched_stem": "CLOWN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CLOWNTECH.rare"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DACHUMPLANDS",
+      "original": "PEPELAND",
+      "matched_stem": "LAND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DACHUMPLANDS.TIMELAPSE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEPIXELAND",
+      "original": "PEPELAND",
+      "matched_stem": "LAND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEPIXELAND.RAILWAY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ROLLANDTHESE",
+      "original": "PEPELAND",
+      "matched_stem": "LAND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ROLLANDTHESE.edition_soutenance"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEAFPRINT",
+      "original": "PEPEPRINT",
+      "matched_stem": "PRINT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEAFPRINT.420K"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEFAIR",
+      "original": "FAIRPEPE",
+      "matched_stem": "FAIR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEFAIR.80K"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ZOMBIEGIRLS",
+      "original": "PEPEZOMBIE",
+      "matched_stem": "ZOMBIE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ZOMBIEGIRLS.MEDUSA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DJHERO",
+      "original": "PEPEHERO",
+      "matched_stem": "HERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DJHERO.KONG"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKESHERO",
+      "original": "PEPEHERO",
+      "matched_stem": "HERO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKESHERO.FAKESPOWER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SURFSPOTS",
+      "original": "PEPESURF",
+      "matched_stem": "SURF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SURFSPOTS.TRESTLES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TESTPEPERN",
+      "original": "CORNTEST",
+      "matched_stem": "TEST",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TESTPEPERN.1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RETROHAIR",
+      "original": "PEPERETRO",
+      "matched_stem": "RETRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RETROHAIR.SUPERSHINE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "UMBRELLA",
+      "original": "PEPEBRELLA",
+      "matched_stem": "BRELLA",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "UMBRELLA.ORIGINS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ENDLESSCAVE",
+      "original": "CORNDLES",
+      "matched_stem": "DLES",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ENDLESSCAVE.A"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITSKULL",
+      "original": "SKULLPEPE",
+      "matched_stem": "SKULL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITSKULL.S01"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KARANGSKULL",
+      "original": "SKULLPEPE",
+      "matched_stem": "SKULL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KARANGSKULL.WOOD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITWATTS",
+      "original": "PEPEWATTS",
+      "matched_stem": "WATTS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITWATTS.CHOOSE_YOUR_WEAPON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GLITTERONHER",
+      "original": "PEPETTER",
+      "matched_stem": "TTER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GLITTERONHER.FACE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MOONFROG",
+      "original": "CORNMOON",
+      "matched_stem": "MOON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MOONFROG.PROOFOFDONATIONRULES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "INSIDEPPMIND",
+      "original": "PEPEINSIDE",
+      "matched_stem": "INSIDE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "INSIDEPPMIND.PEPETREE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COCOPARADOX",
+      "original": "PEPEPARADO",
+      "matched_stem": "PARADO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COCOPARADOX.COCO-DILEMMA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MODERNSHAD",
+      "original": "MODERNCORN",
+      "matched_stem": "MODERN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MODERNSHAD.ORIGIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIKEINSPACE",
+      "original": "SPACECORN",
+      "matched_stem": "SPACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIKEINSPACE.xcp"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SCARCESPACE",
+      "original": "SPACECORN",
+      "matched_stem": "SPACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SCARCESPACE.Ep1.NYC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COCONOTREAL",
+      "original": "REALBITCORN",
+      "matched_stem": "REAL",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COCONOTREAL.GHG"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SAVETOSHI",
+      "original": "SAVEPEPE",
+      "matched_stem": "SAVE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SAVETOSHI.PROFDANK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BEARNPEPE",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BEARNPEPE.PAINTING"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PONZIBEAR",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PONZIBEAR.RIGHTCLICKSAVE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREBEAR",
+      "original": "CORNBEAR",
+      "matched_stem": "BEAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREBEAR.POLARMEME"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WOJAKWHALE",
+      "original": "BITCORNWHALE",
+      "matched_stem": "WHALE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WOJAKWHALE.THAMES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "IGOTBLOCKED",
+      "original": "BLOCKPEPE",
+      "matched_stem": "BLOCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "IGOTBLOCKED.JohnCarvalho@BitcoinErrorLog"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEBASQ",
+      "original": "CORNBASQ",
+      "matched_stem": "BASQ",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEBASQ.PURPLE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HONEYBADGER",
+      "original": "CORNBADGER",
+      "matched_stem": "BADGER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HONEYBADGER.Curator"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MONEYBADGER",
+      "original": "CORNBADGER",
+      "matched_stem": "BADGER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MONEYBADGER.AP1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEPARTY",
+      "original": "CORNPARTY",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEPARTY.FAKEMEMORIES1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LEMONPARTY",
+      "original": "CORNPARTY",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LEMONPARTY.ORG"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PARTYPUNKS",
+      "original": "CORNPARTY",
+      "matched_stem": "PARTY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PARTYPUNKS.0"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BEEPS",
+      "original": "SOGBEEP",
+      "matched_stem": "BEEP",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BEEPS.2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CRYPTOWOJAK",
+      "original": "SOGCRYPTOW",
+      "matched_stem": "CRYPTOW",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CRYPTOWOJAK.PHYSICAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETAROTONE",
+      "original": "PEPETONE",
+      "matched_stem": "TONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETAROTONE.metaverso"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WOJAKMINER",
+      "original": "MINECORN",
+      "matched_stem": "MINE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WOJAKMINER.RIDEN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CLAYCASH",
+      "original": "CLAYCORN",
+      "matched_stem": "CLAY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CLAYCASH.this_is_not_a_moulacoin"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CLAYSTMAS",
+      "original": "CLAYCORN",
+      "matched_stem": "CLAY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CLAYSTMAS.TREE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MASTERINTEL",
+      "original": "CORNMASTER",
+      "matched_stem": "MASTER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MASTERINTEL.Trumped"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEWINTER",
+      "original": "SOGWINTER",
+      "matched_stem": "WINTER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEWINTER.PANIC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEMCAFEE",
+      "original": "CORNMCAFEE",
+      "matched_stem": "MCAFEE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEMCAFEE.PALETTE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SURFSPOTS",
+      "original": "CORNSURF",
+      "matched_stem": "SURF",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SURFSPOTS.TRESTLES"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "STARTELE",
+      "original": "CORNSTAR",
+      "matched_stem": "STAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "STARTELE.050"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PAMBONDI",
+      "original": "CORNBOND",
+      "matched_stem": "BOND",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PAMBONDI.PepeisLove"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LILYPAD",
+      "original": "LILYCORN",
+      "matched_stem": "LILY",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LILYPAD.BLUE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WINKLEVIPEPE",
+      "original": "PEPELEVI",
+      "matched_stem": "LEVI",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WINKLEVIPEPE.ZUCKHEAD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DUCKCREEK",
+      "original": "PEPEDUCK",
+      "matched_stem": "DUCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DUCKCREEK.VILLAGE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERARECLUB",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERARECLUB.2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERAVE",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERAVE.TRIP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERIFUDID",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERIFUDID.DANK00"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEROTHKO",
+      "original": "FAKERPEPE",
+      "matched_stem": "FAKER",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEROTHKO.BASQKEK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KONGS",
+      "original": "CORNKONG",
+      "matched_stem": "KONG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KONGS.KEVIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RETROHAIR",
+      "original": "RETROCORN",
+      "matched_stem": "RETRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RETROHAIR.SUPERSHINE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DEGENSHIELD",
+      "original": "PEPESHIELD",
+      "matched_stem": "SHIELD",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DEGENSHIELD.TOPSECRETAIRDROP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLACKBOXART",
+      "original": "BLACKCORN",
+      "matched_stem": "BLACK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLACKBOXART.vortex"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPALPHAMAXI",
+      "original": "CORNPHAM",
+      "matched_stem": "PHAM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPALPHAMAXI.Delta8"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "METABOLICA",
+      "original": "METACORN",
+      "matched_stem": "META",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "METABOLICA.0001"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEMETABOLY",
+      "original": "METACORN",
+      "matched_stem": "META",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEMETABOLY.PRPL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "METABOLICA",
+      "original": "SOGMETA",
+      "matched_stem": "META",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "METABOLICA.0001"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEMETABOLY",
+      "original": "SOGMETA",
+      "matched_stem": "META",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEMETABOLY.PRPL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DREAMTEAM",
+      "original": "CORNDREAM",
+      "matched_stem": "DREAM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DREAMTEAM.SPORTSILLUSTRATED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKNONYMOUS",
+      "original": "CORNONYMOUS",
+      "matched_stem": "ONYMOUS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKNONYMOUS.DISTRESSED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ROCKPEPESCSR",
+      "original": "CORNROCK",
+      "matched_stem": "ROCK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ROCKPEPESCSR.DESTROYED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPTANGCLAN",
+      "original": "CORNTANGCLAN",
+      "matched_stem": "TANGCLAN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPTANGCLAN.PEPTANG.SHAOLIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREVOLCANO",
+      "original": "CORNVOLCANO",
+      "matched_stem": "VOLCANO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREVOLCANO.WHITEPAPER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LASTHARVEST",
+      "original": "LASTCORN",
+      "matched_stem": "LAST",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LASTHARVEST.sketch"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BTCBROSSHIRT",
+      "original": "ROSSCARD",
+      "matched_stem": "ROSS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BTCBROSSHIRT.V1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SATOSHISTEAM",
+      "original": "STEAMCORN",
+      "matched_stem": "STEAM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SATOSHISTEAM.WIPPHYSICAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKASHIC",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKASHIC.KEVIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKEBRATE",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKEBRATE.FAKEAMC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKFEST",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKFEST.MADEL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKGRAM",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKGRAM.TQR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKINGBIT",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKINGBIT.SATOSHI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKNONYMOUS",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKNONYMOUS.DISTRESSED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKTHEORY",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKTHEORY.GENESIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LILLYKEK",
+      "original": "KEKPEPE",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LILLYKEK.INSCRIPTION47425"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETAROTONE",
+      "original": "PEPETAR",
+      "matched_stem": "TAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETAROTONE.metaverso"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "STARTELE",
+      "original": "PEPETAR",
+      "matched_stem": "TAR",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "STARTELE.050"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BITWATTS",
+      "original": "PEPEWAT",
+      "matched_stem": "WAT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BITWATTS.CHOOSE_YOUR_WEAPON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ESPACIO",
+      "original": "PACPEPE",
+      "matched_stem": "PAC",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ESPACIO.DEMO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIKEINSPACE",
+      "original": "PACPEPE",
+      "matched_stem": "PAC",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIKEINSPACE.xcp"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SCARCESPACE",
+      "original": "PACPEPE",
+      "matched_stem": "PAC",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SCARCESPACE.Ep1.NYC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FALSEACE",
+      "original": "SEAPEPE",
+      "matched_stem": "SEA",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FALSEACE.LAFAKAROYAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEMETABOLY",
+      "original": "PEPEME",
+      "matched_stem": "ME",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEMETABOLY.PRPL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RETROHAIR",
+      "original": "PEPETRO",
+      "matched_stem": "TRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RETROHAIR.SUPERSHINE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TROJANFAKE",
+      "original": "PEPETRO",
+      "matched_stem": "TRO",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TROJANFAKE.800X1120"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PROCRASTINAT",
+      "original": "PEPETIN",
+      "matched_stem": "TIN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PROCRASTINAT.OOOOR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "TESTINGFW",
+      "original": "PEPETIN",
+      "matched_stem": "TIN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "TESTINGFW.TIMELINEXCPTEST1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DEGENSHIELD",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DEGENSHIELD.TOPSECRETAIRDROP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GENAUXFGLEAM",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GENAUXFGLEAM.ANIMATED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GUGGENMEME",
+      "original": "GENPEPE",
+      "matched_stem": "GEN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GUGGENMEME.HOMERCHECKS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GESAMTKUNSTW",
+      "original": "PEPEKUN",
+      "matched_stem": "KUN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GESAMTKUNSTW.ERK"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CORNAVIRUS",
+      "original": "PEPERUS",
+      "matched_stem": "RUS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CORNAVIRUS.MUTATION"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEWETRUST",
+      "original": "PEPERUS",
+      "matched_stem": "RUS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEWETRUST.LIMITED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPETEN",
+      "original": "PEPETE",
+      "matched_stem": "TE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPETEN.ART"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HYIPPEPE",
+      "original": "PEPEYIP",
+      "matched_stem": "YIP",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HYIPPEPE.DIAMONDHANDS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEONE",
+      "original": "PEPEON",
+      "matched_stem": "ON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEONE.AROE.1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEONVACA",
+      "original": "PEPEON",
+      "matched_stem": "ON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEONVACA.ULUWATU"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FALSEACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FALSEACE.LAFAKAROYAL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MIKEINSPACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MIKEINSPACE.xcp"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SCARCESPACE",
+      "original": "PEPEACE",
+      "matched_stem": "ACE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SCARCESPACE.Ep1.NYC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FATTONYPEPE",
+      "original": "FATPEPE",
+      "matched_stem": "FAT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FATTONYPEPE.STILL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "POLKADOTPEPE",
+      "original": "DOTPEPE",
+      "matched_stem": "DOT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "POLKADOTPEPE.CERAMIC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CLOONEYBIN",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CLOONEYBIN.CLASSIC"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "GONEPHISHIN",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "GONEPHISHIN.BIGPHISH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HONEYBADGER",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HONEYBADGER.Curator"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LONEPEPE",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LONEPEPE.PAINTING"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LOONEYJOE",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LOONEYJOE.LOL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MONEYBADGER",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MONEYBADGER.AP1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NAKAHONEYPOT",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NAKAHONEYPOT.HOLO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ONEEYEDPEPE",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ONEEYEDPEPE.ART"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETAROTONE",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETAROTONE.metaverso"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPHONEHOME",
+      "original": "PEPEONE",
+      "matched_stem": "ONE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPHONEHOME.lighttherapy"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEKISS",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEKISS.NY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKASHIC",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKASHIC.KEVIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKFEST",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKFEST.MADEL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKGRAM",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKGRAM.TQR"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKINGBIT",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKINGBIT.SATOSHI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKNONYMOUS",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKNONYMOUS.DISTRESSED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKTHEORY",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKTHEORY.GENESIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LILLYKEK",
+      "original": "PEPEKEK",
+      "matched_stem": "KEK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LILLYKEK.INSCRIPTION47425"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DANKCOQPEPE",
+      "original": "QPEPE",
+      "matched_stem": "Q",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DANKCOQPEPE.FREE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEDONPEPE",
+      "original": "PEPEDON",
+      "matched_stem": "DON",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEDONPEPE.FAKA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "BLAZYSUSAN",
+      "original": "PEPESUS",
+      "matched_stem": "SUS",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "BLAZYSUSAN.126"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETAROTONE",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETAROTONE.metaverso"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETHEFAKE",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETHEFAKE.GUCHIFAKE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETHER",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETHER.RACKETED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETODAY",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETODAY.GM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETOON",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETOON.ROPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETWODOPE",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETWODOPE.PHYSICAL01"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPETEN",
+      "original": "PEPEPET",
+      "matched_stem": "PET",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPETEN.ART"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FORTHETECH",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FORTHETECH.GENESIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KEKTHEORY",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KEKTHEORY.GENESIS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MOVETHECOINS",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MOVETHECOINS.BRO"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PANTHERFAKE",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PANTHERFAKE.HI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEPANTHER",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEPANTHER.MINDYOURBUSINESS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETHEFAKE",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETHEFAKE.GUCHIFAKE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPETHER",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPETHER.RACKETED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ROLLANDTHESE",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ROLLANDTHESE.edition_soutenance"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEDONPEPE",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEDONPEPE.FAKA"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEFALL",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEFALL.BLACKFRIDAY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEHOLYGRAIL",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEHOLYGRAIL.MIAMI"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "THEPIZZADAY",
+      "original": "THEPEPE",
+      "matched_stem": "THE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "THEPIZZADAY.INDEX"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEMOM",
+      "original": "PEPEMOM",
+      "matched_stem": "MOM",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEMOM.BIRTH"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CORNKITTIES",
+      "original": "PEPETIE",
+      "matched_stem": "TIE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CORNKITTIES.STAMP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "KONOHIME",
+      "original": "NOHPEPE",
+      "matched_stem": "NOH",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "KONOHIME.ANARCLIT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NUTILDAH",
+      "original": "PEPENUT",
+      "matched_stem": "NUT",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NUTILDAH.III"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HODLPIGPEPE",
+      "original": "PIGPEPE",
+      "matched_stem": "PIG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HODLPIGPEPE.LAFAKATAGGED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "WOJAKPIGGY",
+      "original": "PIGPEPE",
+      "matched_stem": "PIG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "WOJAKPIGGY.GLAD"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "ROCKPEPESCSR",
+      "original": "KPEPE",
+      "matched_stem": "K",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "ROCKPEPESCSR.DESTROYED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MAGICTEMPLAT",
+      "original": "RAREPEPEMAG",
+      "matched_stem": "MAG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MAGICTEMPLAT.E"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPEMAGPIE",
+      "original": "RAREPEPEMAG",
+      "matched_stem": "MAG",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPEMAGPIE.OIL"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NANOKAMOTO",
+      "original": "PEPENOK",
+      "matched_stem": "NOK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NANOKAMOTO.1"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPONONOKE",
+      "original": "PEPENOK",
+      "matched_stem": "NOK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPONONOKE.ACIDFOREST"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PARTYPUNKS",
+      "original": "BITCORNPUNK",
+      "matched_stem": "PUNK",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PARTYPUNKS.0"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DOOMERPEPE",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DOOMERPEPE.WATISDISHIT"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "DRPEPEMUMULV",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "DRPEPEMUMULV.KEKUPOFFME"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MISTERPEPE",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MISTERPEPE.COIN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "MONSIEURPEPE",
+      "original": "RPEPE",
+      "matched_stem": "R",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "MONSIEURPEPE.STAMPFIE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "COLLABORARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "COLLABORARE.FEELSCARCEMAN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "CONQUERORARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "CONQUERORARE.HONORARY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKERARECLUB",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKERARECLUB.2"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "LPEPEDELRARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "LPEPEDELRARE.R"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "NORARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "NORARE.PEPE"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "OXRAREPEPE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "OXRAREPEPE.PIXELMON"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "PEPARARE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "PEPARARE.PURP"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREBEAR",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREBEAR.POLARMEME"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARECHERRY",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARECHERRY.FULLCHERRY"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREIBEX",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREIBEX.RGB"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREKAMOTO",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREKAMOTO.GM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPEFAKE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPEFAKE.NAKAKEKMAS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREPEPETEN",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREPEPETEN.ART"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREREAGAN",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREREAGAN.MONEYBERN"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARESIMPSON",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARESIMPSON.Graggle"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARESOCKS",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARESOCKS.WORDPRESS.COM"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RARESTSWAN",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RARESTSWAN.BREAKFRMADS"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RAREVOLCANO",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RAREVOLCANO.WHITEPAPER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "RENRARETWO",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "RENRARETWO.BOTCHED"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "SUPERAREPEPE",
+      "original": "RARECORN",
+      "matched_stem": "RARE",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "SUPERAREPEPE.TEE23"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "HOLYNAKA",
+      "original": "PEPELYN",
+      "matched_stem": "LYN",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "HOLYNAKA.GLDTOTER"
+      ],
+      "status": "pending_family_review"
+    },
+    {
+      "namespace": "FAKEDJPEPE",
+      "original": "JPEPE",
+      "matched_stem": "J",
+      "reason": "Only shared namespace matched; individual subasset suffix did not.",
+      "assets": [
+        "FAKEDJPEPE.ENTER_THE_PEPE"
+      ],
+      "status": "pending_family_review"
+    }
+  ]
+}

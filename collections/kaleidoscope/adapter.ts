@@ -6,6 +6,17 @@ const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
 // Side-by-side artwork review: docs/name-based-derivative-review-2026-10-15.json.
 const REVIEWED_BASED_ON = new Map([
+  // docs/name-based-derivative-review-2026-10-15-original-group-batch-55.json
+  ["KEKBRAIN", "PEPEBRAIN"],
+  // docs/name-based-derivative-review-2026-10-15-original-group-batch-32.json
+  ["TRIPLEBUDDHA", "CORNBUDDHA"],
+  // docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json
+  ["HOMERMKBOSHI", "HOMERPEPE"],
+  ["HOMERWOJAKB", "HOMERPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-89a.json
+  ["BOBOTONE", "PEPETONE"],
+  // docs/name-based-derivative-review-2026-10-15-transform-1.json
+  ["STEALBOBO", "STEALPEPE"],
   // docs/name-based-derivative-review-2026-10-15-volume-81.json
   ["TWOWEEKSPEPE.BOOTLEGPEPE","TWOWEEKSPEPE"],
   ["GROYPAUCTION.BOOTLEGPEPE","GROYPAUCTION"],

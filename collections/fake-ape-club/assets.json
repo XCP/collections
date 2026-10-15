@@ -1004,7 +1004,13 @@
       ]
     },
     {
-      "asset": "FATHERPEPAPE"
+      "asset": "FATHERPEPAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FATHERPEPE"
+        }
+      ]
     },
     {
       "asset": "FELLOWAPES",
@@ -1115,7 +1121,13 @@
       "asset": "HIPHOPAPE"
     },
     {
-      "asset": "HOMERFAKEAPE"
+      "asset": "HOMERFAKEAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOPAPE",

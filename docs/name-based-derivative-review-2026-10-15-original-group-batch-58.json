@@ -1,0 +1,592 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and three animation sheets inspected; seven animations including two originals sampled at four spaced positions (all four FROGGFATHER frames). Not exhaustive playback. LEANPEPE/LEANWOJAK and FATHERPEPE/FATHERPEPAPE enlarged. Issuance histories support direction alongside original catalog context; bare creation dates alone do not prove artwork dates.",
+  "reviewed": [
+    {
+      "original": "LEANPEPE",
+      "volume_usd": 0,
+      "buyers": 0,
+      "candidates": [
+        "CLEANWATERQR",
+        "LEANDANPEPE",
+        "LEANPEPETOO",
+        "LEANWOJAK"
+      ]
+    },
+    {
+      "original": "BURNINGPEPE",
+      "volume_usd": 13.19483286115528,
+      "buyers": 6,
+      "candidates": [
+        "BURNINGFIAT",
+        "BURNINGKISS"
+      ]
+    },
+    {
+      "original": "FATHERPEPE",
+      "volume_usd": 119.0623968088627,
+      "buyers": 3,
+      "candidates": [
+        "DROOLFATHER",
+        "FATHERKEKYOD",
+        "FATHERPEPAPE",
+        "FATHERYODFAK",
+        "FROGGFATHER",
+        "HORSEFATHER",
+        "METAFATHER",
+        "PGNGODFATHER",
+        "PPGODFATHER"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "LEANDANPEPE",
+      "pages": 143,
+      "sampled_frames": [
+        0,
+        47,
+        95,
+        142
+      ]
+    },
+    {
+      "asset": "BURNINGKISS",
+      "pages": 52,
+      "sampled_frames": [
+        0,
+        17,
+        34,
+        51
+      ]
+    },
+    {
+      "asset": "BURNINGPEPE",
+      "pages": 11,
+      "sampled_frames": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    {
+      "asset": "FATHERPEPE",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "FATHERPEPAPE",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "asset": "FROGGFATHER",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "PPGODFATHER",
+      "pages": 76,
+      "sampled_frames": [
+        0,
+        25,
+        50,
+        75
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "LEANPEPE",
+      "asset": "CLEANWATERQR",
+      "status": "rejected",
+      "reason": "Blue QR code and droplet; substring only.",
+      "evidence_sheet": "sheets/group-LEANPEPE-0.png"
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "LEANDANPEPE",
+      "status": "accepted",
+      "reason": "Animation sample frame47 displays LEANPEPE itself; final frame transforms the same landscape and card arrangement into Dan portrait with revised Arizona Green Tea and U.S. POLO captions. A sustained source-to-remix sequence, not merely a background inset. 2025 media history follows 2016 catalog source.",
+      "evidence_sheet": "sheets/group-LEANPEPE-0.png"
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "LEANPEPETOO",
+      "status": "rejected",
+      "reason": "Different cartoon bucket-hat frog holding a bottle; shared Yung Lean subject without source card layout or artwork reuse.",
+      "evidence_sheet": "sheets/group-LEANPEPE-0.png"
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "LEANWOJAK",
+      "status": "accepted",
+      "reason": "Enlarged image retains purple landscape, cherry blossoms, mountain, yellow jacket and bottles, card arrangement and Peel Banana Skids text, replacing face/hands and editing stats. 2022 media description follows 2016 Rare Pepe catalog source.",
+      "evidence_sheet": "sheets/group-LEANPEPE-0.png"
+    },
+    {
+      "original": "BURNINGPEPE",
+      "asset": "BURNINGFIAT",
+      "status": "rejected",
+      "reason": "Burning banknote and abstract fiery scene, not the source burning frog/card.",
+      "evidence_sheet": "sheets/group-BURNINGPEPE-0.png"
+    },
+    {
+      "original": "BURNINGPEPE",
+      "asset": "BURNINGKISS",
+      "status": "rejected",
+      "reason": "Joker-like couple kissing before burning money, distinct from source burning frog.",
+      "evidence_sheet": "sheets/group-BURNINGPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "DROOLFATHER",
+      "status": "rejected",
+      "reason": "Godfather-style ape with cigar; no source blessing pose.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "FATHERKEKYOD",
+      "status": "rejected",
+      "reason": "Eye symbol and psychedelic religious text; no source portrait reuse.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "FATHERPEPAPE",
+      "status": "accepted",
+      "reason": "Enlarged ape redraw retains distinctive raised blessing hand, white beard shape, brown robe and gold/pink cloud background of FATHERPEPE; animated eyes and sparkles. February2022 media descriptions follow 2016 Rare Pepe catalog source.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "FATHERYODFAK",
+      "status": "rejected",
+      "reason": "Portrait/text collage with shouting frog, not source composition.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "FROGGFATHER",
+      "status": "rejected",
+      "reason": "Dark hooded face and record-cover design; distinct image.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "HORSEFATHER",
+      "status": "rejected",
+      "reason": "Cartoon horse in yellow imperial costume; no source reuse.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "METAFATHER",
+      "status": "rejected",
+      "reason": "Monochrome suited man photo and quote; no source reuse.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "PGNGODFATHER",
+      "status": "rejected",
+      "reason": "Suited pigeon at desk; Godfather theme only.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "PPGODFATHER",
+      "status": "rejected",
+      "reason": "Suited frog with cigar; Godfather-film imagery, not source blessing pose.",
+      "evidence_sheet": "sheets/group-FATHERPEPE-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "LEANPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "44f37e803bb271bb449d19d8c8b6a60f5098206f0ace617be0016dbba4e3c6ad",
+            "block_index": 509343,
+            "block_time": 1518724563,
+            "source": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "issuer": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "very rare",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4f7510d1182609d7c2534915b888163922a0b8d191dac98f9021a68bbe337f7e",
+            "block_index": 450161,
+            "block_time": 1485473028,
+            "source": "1MU2KtdbuLsez39a4cV3aRGnVmSPmazpMa",
+            "issuer": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "very rare",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "7c70aea6a65da872c9aeeb6ca16e4b6874cfe50d427c2bd7abced85de053bb60",
+            "block_index": 433064,
+            "block_time": 1475715537,
+            "source": "1MU2KtdbuLsez39a4cV3aRGnVmSPmazpMa",
+            "issuer": "1MU2KtdbuLsez39a4cV3aRGnVmSPmazpMa",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "very rare",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "1ba8e28a7636c7d8881cfe8ccb8fdecfe89a1ef354061b566745824182977c44",
+            "block_index": 433058,
+            "block_time": 1475712465,
+            "source": "1MU2KtdbuLsez39a4cV3aRGnVmSPmazpMa",
+            "issuer": "1MU2KtdbuLsez39a4cV3aRGnVmSPmazpMa",
+            "transfer": 0,
+            "quantity_normalized": "3",
+            "description": "very rare",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "LEANWOJAK",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "abb9c5aa307723ded67d761832f9c3f7212edcda78b4727977ab892125f967a1",
+            "block_index": 730853,
+            "block_time": 1649339914,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/orpihy/LEANWOJAK.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a6d2e48b6f20cffb2a7160abc251fb301e3af0cd5217d6eeba05ab30cb1fa102",
+            "block_index": 730849,
+            "block_time": 1649337937,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/y7qy2u/LEANWOJAK.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "689459b5d33a342591390192a8e6fbb149828bb5e02913371ad0787332ca5ff0",
+            "block_index": 728548,
+            "block_time": 1647975878,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "thewojakway.com/j/LEANWOJAK.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "b9bbed3c46dca432bd9f17fa07777c183629c7f72007b6ce0afe708005864d51",
+            "block_index": 728548,
+            "block_time": 1647975878,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "thewojakway.com/j/LEANWOJAK.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "6bffa063ea2ece907dea66d4bb81034a11f03f0e83324b1f1f526623372ae7a9",
+            "block_index": 728545,
+            "block_time": 1647972916,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "29",
+            "description": "",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "7d560c110b50921909a5a2065813a4b536e4259d8c1a7ee277853025debeacec",
+            "block_index": 728041,
+            "block_time": 1647692223,
+            "source": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "issuer": "1FakeRareTDi3PkHiehotQ2QAfUdw7Kzyc",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "LEANDANPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "3cc63cbaa398787a797e7c0c6b08af70987d5754771e73c48c8b86f78987d692",
+            "block_index": 907053,
+            "block_time": 1753413857,
+            "source": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://raw.githubusercontent.com/subterranean1/jsons/main/LEANDANPEPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "0cc247f2acc6c5434b0a968c38073d255edbb01e7112763768745fd7a3533513",
+            "block_index": 907051,
+            "block_time": 1753413514,
+            "source": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3ac9f75428c2e5e3b6525d2947ad0b7d555c8a0ca564dbad6a4c699273ae92db",
+            "block_index": 906919,
+            "block_time": 1753333748,
+            "source": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "issuer": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "55d86eac551bf5466fae9adfe7fa8e939b2a3866cfb5a91430d2ee1a686deeae",
+            "block_index": 906918,
+            "block_time": 1753333302,
+            "source": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://raw.githubusercontent.com/subterranean1/jsons/main/LEANDANPEPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "7f7f628f7a0d25d58bc46c5928e6264cadd6885f479d1ea3a7e21583d69d5dfd",
+            "block_index": 906917,
+            "block_time": 1753332231,
+            "source": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "fc1f66f3c8d2e918f922e74d6e4abf400afc4a80d07117d8716d6560f59cf679",
+            "block_index": 906909,
+            "block_time": 1753329357,
+            "source": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "issuer": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4d557ffd5b6aa6be4acd7bcc3b6fc3f8a91e913411a3a397393d044fa81afb53",
+            "block_index": 886898,
+            "block_time": 1741457197,
+            "source": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "issuer": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://raw.githubusercontent.com/subterranean1/jsons/main/LEANDANPEPE.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "04afaf7fa2f13cd884bee778d3b03f07b0f9f1ec2a981253b3e468c0880b5c94",
+            "block_index": 886897,
+            "block_time": 1741456692,
+            "source": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://raw.githubusercontent.com/subterranean1/jsons/main/LEANDANPEPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "ab150ada021fe2c42f424e03c0d2b20b43e8ef4c65434a765e8c70e724ef25a2",
+            "block_index": 886892,
+            "block_time": 1741455252,
+            "source": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "issuer": "1AV3hDLsr7hLBkv9eWvFvsFNTCCNww9eAo",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "efa30d08389347ab0c026c093eda1d767c2a5c6a817194f26a4f38a782369845",
+            "block_index": 886825,
+            "block_time": 1741419483,
+            "source": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "issuer": "bc1q9z6te6zm9rpvx07sfg45ga0j83gms6pyufhhpl",
+            "transfer": 0,
+            "quantity_normalized": "222",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "FATHERPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "5ead58fef1394bd88ad0bf601a92a7c8259a880d3ad7909a84d29c603dd9fdf5",
+            "block_index": 435019,
+            "block_time": 1476900817,
+            "source": "1M6P5Sin7o532Qseq1xiTT8vc3toUfGh3k",
+            "issuer": "1M6P5Sin7o532Qseq1xiTT8vc3toUfGh3k",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8db2972466e9884c5714a3ab982df5542a0ebed45f7001e0b7325936788864c5",
+            "block_index": 435011,
+            "block_time": 1476891314,
+            "source": "1M6P5Sin7o532Qseq1xiTT8vc3toUfGh3k",
+            "issuer": "1M6P5Sin7o532Qseq1xiTT8vc3toUfGh3k",
+            "transfer": 0,
+            "quantity_normalized": "200",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "FATHERPEPAPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "49f1cccaf3efa0a05554480801f8d5e71a02a049d63a8a7ea91f046da0d4b809",
+            "block_index": 723267,
+            "block_time": 1644839019,
+            "source": "1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY",
+            "issuer": "1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/71icen/FATHERPEPAPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "b34ae2e24c5358ce2cd1e7f63065bbf1e14e281d5d784ec0867b6d595c443e7b",
+            "block_index": 723182,
+            "block_time": 1644799564,
+            "source": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "issuer": "1LQyCDWKbzwsPHcoysRGXgjsjDgd7r7FTY",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/FEELSLIKEBTC.json",
+            "asset_events": "transfer change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "fcd65335e99a57ab0328aae8d320f7307114d9f03179580f5687e83eef3eedf0",
+            "block_index": 722721,
+            "block_time": 1644552955,
+            "source": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "issuer": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/FATHERPEPAPE.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a23c4087efa3232852e254058956e6abbdce8ba7cbd81a1806edb10b5404522b",
+            "block_index": 722672,
+            "block_time": 1644527021,
+            "source": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "issuer": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "transfer": 0,
+            "quantity_normalized": "77",
+            "description": "xcp.coindaddy.io/FATHERPEPAPE.json",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "116b094b8f93ff27041a3cf18b581294bf1a5df388f58500e1c9db5a67440a3c",
+            "block_index": 722537,
+            "block_time": 1644443882,
+            "source": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "issuer": "1EsbmnhXKh1H9Qt2219WSMcDvU1YTJWcv4",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/FATHERPEPAPE.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 15,
+    "accepted": 3,
+    "rejected": 12
+  }
+}

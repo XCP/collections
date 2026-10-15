@@ -23,7 +23,13 @@
       ]
     },
     {
-      "asset": "STPLHOMERPEP.STPLHOMERALT"
+      "asset": "STPLHOMERPEP.STPLHOMERALT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "STPLHOMERPEP"
+        }
+      ]
     }
   ]
 }

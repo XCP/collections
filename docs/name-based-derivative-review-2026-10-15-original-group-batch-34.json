@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and two animation sheets viewed. Two animations sampled at four spaced positions, not exhaustive playback. Shared subjects, external characters and poetic format are insufficient.",
+  "reviewed": [
+    {
+      "original": "CYCLOPSCARD",
+      "volume_usd": 11037.802292038807,
+      "buyers": 91,
+      "candidates": [
+        "CYCLOPSPEPE",
+        "XPEPECYCLOPS"
+      ]
+    },
+    {
+      "original": "TATIANACARD",
+      "volume_usd": 10798.519257928327,
+      "buyers": 23,
+      "candidates": [
+        "OGSAN.HEROTATIANA",
+        "OGSAN.HOLOTATIANA",
+        "PEPEWATER.FAKEBASEL2022.TATIANA",
+        "TATIANACOIN"
+      ]
+    },
+    {
+      "original": "HAIKUPEPE",
+      "volume_usd": 7887.879846295382,
+      "buyers": 7,
+      "candidates": [
+        "DIARRHEA.HAIKU",
+        "WALLETHAIKU.Crimsonwood",
+        "WALLETHAIKU.Idiotpoetry"
+      ]
+    },
+    {
+      "original": "TUBBIES",
+      "volume_usd": 8693.949190326864,
+      "buyers": 19,
+      "candidates": [
+        "FAKETUBBIES",
+        "UNATUBBIES"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DIARRHEA.HAIKU",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "TUBBIES",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CYCLOPSCARD",
+      "asset": "CYCLOPSPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the armored cyclops and companion inspecting crystals; one-eyed characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-CYCLOPSCARD-0.png"
+    },
+    {
+      "original": "CYCLOPSCARD",
+      "asset": "XPEPECYCLOPS",
+      "status": "rejected",
+      "reason": "No reuse of the armored cyclops and companion inspecting crystals; one-eyed characters alone are insufficient.",
+      "evidence_sheet": "sheets/group-CYCLOPSCARD-0.png"
+    },
+    {
+      "original": "TATIANACARD",
+      "asset": "OGSAN.HEROTATIANA",
+      "status": "rejected",
+      "reason": "Same musician or token branding, but different portraits, instruments, poses and settings; no reuse of the SoG courtyard performance composition.",
+      "evidence_sheet": "sheets/group-TATIANACARD-0.png"
+    },
+    {
+      "original": "TATIANACARD",
+      "asset": "OGSAN.HOLOTATIANA",
+      "status": "rejected",
+      "reason": "Same musician or token branding, but different portraits, instruments, poses and settings; no reuse of the SoG courtyard performance composition.",
+      "evidence_sheet": "sheets/group-TATIANACARD-0.png"
+    },
+    {
+      "original": "TATIANACARD",
+      "asset": "PEPEWATER.FAKEBASEL2022.TATIANA",
+      "status": "rejected",
+      "reason": "Same musician or token branding, but different portraits, instruments, poses and settings; no reuse of the SoG courtyard performance composition.",
+      "evidence_sheet": "sheets/group-TATIANACARD-0.png"
+    },
+    {
+      "original": "TATIANACARD",
+      "asset": "TATIANACOIN",
+      "status": "rejected",
+      "reason": "Same musician or token branding, but different portraits, instruments, poses and settings; no reuse of the SoG courtyard performance composition.",
+      "evidence_sheet": "sheets/group-TATIANACARD-0.png"
+    },
+    {
+      "original": "HAIKUPEPE",
+      "asset": "DIARRHEA.HAIKU",
+      "status": "rejected",
+      "reason": "Different illustrations and poems; neither the poet portrait and wave pattern nor the source haiku text is reused.",
+      "evidence_sheet": "sheets/group-HAIKUPEPE-0.png"
+    },
+    {
+      "original": "HAIKUPEPE",
+      "asset": "WALLETHAIKU.Crimsonwood",
+      "status": "rejected",
+      "reason": "Different illustrations and poems; neither the poet portrait and wave pattern nor the source haiku text is reused.",
+      "evidence_sheet": "sheets/group-HAIKUPEPE-0.png"
+    },
+    {
+      "original": "HAIKUPEPE",
+      "asset": "WALLETHAIKU.Idiotpoetry",
+      "status": "rejected",
+      "reason": "Different illustrations and poems; neither the poet portrait and wave pattern nor the source haiku text is reused.",
+      "evidence_sheet": "sheets/group-HAIKUPEPE-0.png"
+    },
+    {
+      "original": "TUBBIES",
+      "asset": "FAKETUBBIES",
+      "status": "rejected",
+      "reason": "Shared Teletubbies reference, but no reuse of the source television montage, foreground character and layout.",
+      "evidence_sheet": "sheets/group-TUBBIES-0.png"
+    },
+    {
+      "original": "TUBBIES",
+      "asset": "UNATUBBIES",
+      "status": "rejected",
+      "reason": "Shared Teletubbies reference, but no reuse of the source television montage, foreground character and layout.",
+      "evidence_sheet": "sheets/group-TUBBIES-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 11,
+    "accepted": 0,
+    "rejected": 11
+  }
+}

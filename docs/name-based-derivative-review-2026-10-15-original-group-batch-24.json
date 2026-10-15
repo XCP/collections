@@ -1,0 +1,715 @@
+{
+  "date": "2026-10-15",
+  "method": "Five first-frame comparison sheets and seven animation sheets viewed. Twenty animations sampled at four spaced positions; not exhaustive playback. Common gangster, retro, cool/sunglasses or Jeff Koons influences do not establish direct derivation between these cards.",
+  "reviewed": [
+    {
+      "original": "CORNBOSS",
+      "volume_usd": 673.06,
+      "buyers": 5,
+      "candidates": [
+        "BIGBOSSPEPE",
+        "BOSSBABY",
+        "PEPETHEBOSS",
+        "SATOSHIBOSS",
+        "THEBOSSHOGG",
+        "BOBOSS",
+        "BOSSCARD",
+        "BOSSFROG",
+        "BOSSHOGG",
+        "BOSSHOGPEPE",
+        "BOSSLADY",
+        "BOSSOFBOSSES",
+        "BOSSWOJACK",
+        "CIVILLIANS.BOSSMANSHOPMAN",
+        "FINALBOSS",
+        "FINALBOSSS",
+        "MAFIABOSS",
+        "MICATBOSSY",
+        "UNDERBOSS",
+        "WHOISTHEBOSS",
+        "XAJIBOSS",
+        "XBOSS",
+        "XCARDS.BOSS"
+      ]
+    },
+    {
+      "original": "RETROCORN",
+      "volume_usd": 19.544000000000004,
+      "buyers": 1,
+      "candidates": [
+        "RETROKEK",
+        "FROSRETROUVL",
+        "KARATERETRO",
+        "NORETRONET",
+        "PEPERETRO",
+        "RETROART",
+        "RETROCTOPUS",
+        "RETROFARMER",
+        "RETROFEEL",
+        "RETROFICTION",
+        "RETROHAIR.SUPERSHINE",
+        "RETROKEKKEN",
+        "RETROKEKS",
+        "RETROKIRBPEP",
+        "RETROPEPE",
+        "RETROPEPMAN",
+        "RETROSTART",
+        "RETROTETRIS"
+      ]
+    },
+    {
+      "original": "COOLCORN",
+      "volume_usd": 109.61500000000001,
+      "buyers": 6,
+      "candidates": [
+        "COOLCONE",
+        "COOLDANK",
+        "COOLDUDEPEPE",
+        "COOLFAKE",
+        "COOLKID",
+        "COOLKNOBS",
+        "COOLSPAMER",
+        "LLCOOLPEPE",
+        "MARCYCOOLAPE",
+        "MECOOLPEPE",
+        "MFERS.COOLENAX",
+        "MRCOOLDROOL",
+        "NEMBERBECOOL",
+        "PEPCOOLIO",
+        "TENTACOOL"
+      ]
+    },
+    {
+      "original": "CORNKOONS",
+      "volume_usd": 441.86665000000005,
+      "buyers": 3,
+      "candidates": [
+        "KOONSPEPBITS",
+        "KOONSPEPE",
+        "PEPEKOONS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPETHEBOSS",
+      "pages": 300,
+      "sampled_frames": [
+        0,
+        100,
+        199,
+        299
+      ]
+    },
+    {
+      "asset": "BOSSHOGPEPE",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "asset": "BOSSOFBOSSES",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "BOSSLADY",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "UNDERBOSS",
+      "pages": 36,
+      "sampled_frames": [
+        0,
+        12,
+        23,
+        35
+      ]
+    },
+    {
+      "asset": "WHOISTHEBOSS",
+      "pages": 204,
+      "sampled_frames": [
+        0,
+        68,
+        135,
+        203
+      ]
+    },
+    {
+      "asset": "MAFIABOSS",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "NORETRONET",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "RETROKEK",
+      "pages": 120,
+      "sampled_frames": [
+        0,
+        40,
+        79,
+        119
+      ]
+    },
+    {
+      "asset": "PEPERETRO",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    },
+    {
+      "asset": "RETROCTOPUS",
+      "pages": 195,
+      "sampled_frames": [
+        0,
+        65,
+        129,
+        194
+      ]
+    },
+    {
+      "asset": "KARATERETRO",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "RETROKIRBPEP",
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    {
+      "asset": "RETROFEEL",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    },
+    {
+      "asset": "RETROSTART",
+      "pages": 336,
+      "sampled_frames": [
+        0,
+        112,
+        223,
+        335
+      ]
+    },
+    {
+      "asset": "RETROTETRIS",
+      "pages": 94,
+      "sampled_frames": [
+        0,
+        31,
+        62,
+        93
+      ]
+    },
+    {
+      "asset": "RETROPEPMAN",
+      "pages": 501,
+      "sampled_frames": [
+        0,
+        167,
+        333,
+        500
+      ]
+    },
+    {
+      "asset": "LLCOOLPEPE",
+      "pages": 70,
+      "sampled_frames": [
+        0,
+        23,
+        46,
+        69
+      ]
+    },
+    {
+      "asset": "KOONSPEPE",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    },
+    {
+      "asset": "PEPEKOONS",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNBOSS",
+      "asset": "BIGBOSSPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSBABY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "PEPETHEBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "SATOSHIBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "THEBOSSHOGG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSCARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSFROG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSHOGG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSHOGPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSLADY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSOFBOSSES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "BOSSWOJACK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "CIVILLIANS.BOSSMANSHOPMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "FINALBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "FINALBOSSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "MAFIABOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "MICATBOSSY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "UNDERBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-0.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "WHOISTHEBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-19.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "XAJIBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-19.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "XBOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-19.png"
+    },
+    {
+      "original": "CORNBOSS",
+      "asset": "XCARDS.BOSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn gangster portrait with broad hat, red pinstripe jacket, cigar and neon city. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBOSS-19.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "FROSRETROUVL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "KARATERETRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "NORETRONET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "PEPERETRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROCTOPUS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROFARMER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROFEEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROFICTION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROHAIR.SUPERSHINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROKEKKEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROKEKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROKIRBPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROPEPMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROSTART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "RETROCORN",
+      "asset": "RETROTETRIS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the afro-haired corn character, pink spiral glasses and purple star-patterned background. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-RETROCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLCONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLDUDEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLKID",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLKNOBS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "COOLSPAMER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "LLCOOLPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "MARCYCOOLAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "MECOOLPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "MFERS.COOLENAX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "MRCOOLDROOL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "NEMBERBECOOL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "PEPCOOLIO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "COOLCORN",
+      "asset": "TENTACOOL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the dancing three-dimensional corn character with sunglasses, outstretched arms and green husk legs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-COOLCORN-0.png"
+    },
+    {
+      "original": "CORNKOONS",
+      "asset": "KOONSPEPBITS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the balloon-dog silhouette constructed from separate yellow corn cobs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKOONS-0.png"
+    },
+    {
+      "original": "CORNKOONS",
+      "asset": "KOONSPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the balloon-dog silhouette constructed from separate yellow corn cobs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKOONS-0.png"
+    },
+    {
+      "original": "CORNKOONS",
+      "asset": "PEPEKOONS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the balloon-dog silhouette constructed from separate yellow corn cobs. Shared themes, artists referenced or name fragments alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNKOONS-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 59,
+    "accepted": 0,
+    "rejected": 59
+  }
+}

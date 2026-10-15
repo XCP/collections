@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-15",
+  "method": "Full static CDN artwork enlarged for FAKOMER, FAKOMER.KEKMAS and FAKOMER.PROJECTFAKE, compared with previously enlarged static HOMERPEPE. Source chain preserves closer intermediate original. No artist or membership changes.",
+  "reviewed": [
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "FAKOMER"
+      ]
+    },
+    {
+      "original": "FAKOMER",
+      "candidates": [
+        "FAKOMER.KEKMAS"
+      ]
+    },
+    {
+      "original": "FAKOMER",
+      "candidates": [
+        "FAKOMER.PROJECTFAKE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "asset": "FAKOMER",
+      "original": "HOMERPEPE",
+      "status": "accepted",
+      "reason": "Recreates yellow card, cloud portrait, stat line and Wait a minute caption, with bloodshot eyes, smoking mouth, damage and FAKE lettering."
+    },
+    {
+      "asset": "FAKOMER.KEKMAS",
+      "original": "FAKOMER",
+      "status": "accepted",
+      "reason": "Preserves damaged card, bloodshot eyes, cigarette, pink shirt and painted FAKE lettering; adds Santa hat and Christmas title."
+    },
+    {
+      "asset": "FAKOMER.PROJECTFAKE",
+      "original": "FAKOMER",
+      "status": "accepted",
+      "reason": "Reworks distinctive bloodshot-eye portrait and painted FAKE lettering in a new colored/glitched card; closer FAKOMER source preserved."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "FAKOMER",
+      "original": "HOMERPEPE",
+      "status": "accepted",
+      "reason": "Recreates yellow card, cloud portrait, stat line and Wait a minute caption, with bloodshot eyes, smoking mouth, damage and FAKE lettering."
+    },
+    {
+      "asset": "FAKOMER.KEKMAS",
+      "original": "FAKOMER",
+      "status": "accepted",
+      "reason": "Preserves damaged card, bloodshot eyes, cigarette, pink shirt and painted FAKE lettering; adds Santa hat and Christmas title."
+    },
+    {
+      "asset": "FAKOMER.PROJECTFAKE",
+      "original": "FAKOMER",
+      "status": "accepted",
+      "reason": "Reworks distinctive bloodshot-eye portrait and painted FAKE lettering in a new colored/glitched card; closer FAKOMER source preserved."
+    }
+  ],
+  "resolved_followups": [
+    {
+      "asset": "FAKOMER.KEKMAS",
+      "original": "FAKOMER",
+      "previous_evidence_file": "docs/name-based-derivative-review-2026-10-15-volume-89b.json",
+      "status": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets, two GIF animation sheets and one video sample sheet visually inspected. Seven GIFs sampled at four spaced positions (both unique CBACKPENPEN frames); longer animations not exhaustive. POTUSPENPEN MP4 sampled at four timestamps. Three placeholder responses freshly fetched and verified byte-identical; logo inspected.",
+  "reviewed": [
+    {
+      "original": "PENPEN",
+      "volume_usd": 24387.964518014676,
+      "buyers": 31,
+      "candidates": [
+        "BASICPENPEN",
+        "BITPENPEN",
+        "CBACKPENPEN",
+        "DIGIPENPEN",
+        "GIGAPENPEN",
+        "LESGOPENPEN",
+        "NAKAPENPEN",
+        "NATTOPENPEN",
+        "OAPENPEN",
+        "OBPENPEN",
+        "OCPENPEN",
+        "ODLPENPEN",
+        "ODPENPEN",
+        "OOPENPEN",
+        "OOPENPEN.xn--bw8h",
+        "OPENPEN",
+        "OUGHTOPENPEN",
+        "PENPENAERIAL",
+        "PENPENBTC",
+        "PENPENBUSKER",
+        "PENPENCAT",
+        "PENPENCOIN",
+        "PENPENCOMSA",
+        "PENPENDEX",
+        "PENPENDULUM",
+        "PENPENFUTURE",
+        "PENPENGEON",
+        "PENPENGOLD",
+        "PENPENHEAL",
+        "PENPENHEIRR",
+        "PENPENJESS",
+        "PENPENLISSA",
+        "PENPENM",
+        "PENPENMON",
+        "PENPENNAMING",
+        "PENPENNOWAY",
+        "PENPENPIZZA",
+        "PENPENPOPCOR",
+        "PENPENSCHOOL",
+        "PENPENSCREED",
+        "PENPENSUSHI",
+        "PENPENTABLE",
+        "PENPENTAGON",
+        "PENPENTOSHI",
+        "PENPENTROPY",
+        "PENPENVERSO",
+        "PENPENVIP",
+        "PENPENWIZARD",
+        "POTUSPENPEN",
+        "PPAPENPEN",
+        "SAKURAPENPEN",
+        "SPACEPENPEN",
+        "THEPENPEN",
+        "THOTHPENPEN",
+        "TOKENOPENPEN",
+        "XCPENPEN",
+        "ZENPENPEN",
+        "ZOROPENPEN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CBACKPENPEN",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "PENPEN",
+      "pages": 39,
+      "sampled_frames": [
+        0,
+        13,
+        25,
+        38
+      ]
+    },
+    {
+      "asset": "NATTOPENPEN",
+      "pages": 408,
+      "sampled_frames": [
+        0,
+        136,
+        271,
+        407
+      ]
+    },
+    {
+      "asset": "PENPENDULUM",
+      "pages": 19,
+      "sampled_frames": [
+        0,
+        6,
+        12,
+        18
+      ]
+    },
+    {
+      "asset": "PENPENPOPCOR",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "PENPENVIP",
+      "pages": 31,
+      "sampled_frames": [
+        0,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "asset": "PENPENVERSO",
+      "pages": 240,
+      "sampled_frames": [
+        0,
+        80,
+        159,
+        239
+      ]
+    }
+  ],
+  "video_samples": [
+    {
+      "asset": "POTUSPENPEN",
+      "duration": 109.53,
+      "sampled_seconds": [
+        0,
+        36.47666666666667,
+        72.95333333333333,
+        109.43
+      ]
+    }
+  ],
+  "placeholder_evidence": {
+    "assets": [
+      "NAKAPENPEN",
+      "PENPENTOSHI",
+      "TOKENOPENPEN"
+    ],
+    "http_status": 200,
+    "content_type": "image/png",
+    "bytes": 3591,
+    "width": 300,
+    "height": 180,
+    "sha256": "92b0295c884c483da498008d88023a10dca9ce7cfe13a90ceb0bf6d236c95e53"
+  },
+  "decisions": [
+    {
+      "original": "PENPEN",
+      "asset": "BASICPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "BITPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "CBACKPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "DIGIPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "GIGAPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "LESGOPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "NAKAPENPEN",
+      "status": "media_blocked",
+      "reason": "Fresh CDN response is the identical generic Counterparty logo PNG (300x180, 3591 bytes); artwork unavailable for comparison.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "NATTOPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OAPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OBPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OCPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "ODLPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "ODPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OOPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OOPENPEN.xn--bw8h",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "OUGHTOPENPEN",
+      "status": "rejected",
+      "reason": "Blank card frame is visible, with no sushi-conveyor scene from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENAERIAL",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENBTC",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-0.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENBUSKER",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENCAT",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENCOIN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENCOMSA",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENDEX",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENDULUM",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENFUTURE",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENGEON",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENGOLD",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENHEAL",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENHEIRR",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENJESS",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENLISSA",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENM",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENMON",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENNAMING",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENNOWAY",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENPIZZA",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENPOPCOR",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-19.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENSCHOOL",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENSCREED",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENSUSHI",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENTABLE",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENTAGON",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENTOSHI",
+      "status": "media_blocked",
+      "reason": "Fresh CDN response is the identical generic Counterparty logo PNG (300x180, 3591 bytes); artwork unavailable for comparison.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENTROPY",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENVERSO",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENVIP",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PENPENWIZARD",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "POTUSPENPEN",
+      "status": "rejected",
+      "reason": "Valid MP4 shows Trump speaking at Bitcoin2024 in four sampled timestamps; no source sushi-conveyor imagery in those samples. Not exhaustive playback.",
+      "evidence_sheet": "sheets/group-PENPEN-video.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "PPAPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "SAKURAPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "SPACEPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "THEPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "THOTHPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "TOKENOPENPEN",
+      "status": "media_blocked",
+      "reason": "Fresh CDN response is the identical generic Counterparty logo PNG (300x180, 3591 bytes); artwork unavailable for comparison.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "XCPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "ZENPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-38.png"
+    },
+    {
+      "original": "PENPEN",
+      "asset": "ZOROPENPEN",
+      "status": "rejected",
+      "reason": "Shared penguin character, creator style or PENPEN naming does not establish reuse of this specific sushi-conveyor scene. Candidate composition differs from the source.",
+      "evidence_sheet": "sheets/group-PENPEN-57.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 58,
+    "accepted": 0,
+    "rejected": 55,
+    "media_blocked": 3
+  }
+}

@@ -10,7 +10,7 @@
 | Primary memberships | 22 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 3/22 (13.6%) |
+| Traits | Artist: 3/22 (13.6%)<br>Based on: 1/22 (4.5%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -25,3 +25,5 @@ Read the [collection guide](../README.md) and
 [contribution steps](../../CONTRIBUTING.md), then open a pull request explaining
 the change and how to verify it. If you cannot prepare a pull request,
 [open a collection change request](https://github.com/XCP/collections/issues/new?template=collection-change.yml).
+
+Reviewed HOMERPEPE remixes retain their specific visual derivation; see the [HOMERPEPE comparison report](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json). Shared Simpsons subject alone does not establish a link.

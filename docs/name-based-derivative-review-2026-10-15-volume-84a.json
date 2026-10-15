@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-15",
+  "method": "First17 source groups from relationship-prioritized batch84; first-frame screening plus enlarged originals/candidates. Four evenly spaced frames sampled for FAKEONSEN52, HOMERPEPMOVI114, TRIPHOMERPEP29, PEPEPIZZA8 and SWANPIZZA122. Not an exhaustive animation review. User-provided attributions remain authoritative; these additions are assistant visual findings.",
+  "reviewed": [
+    {
+      "original": "MAKEPEPERARE",
+      "candidates": [
+        "MAKEARTPEPE",
+        "MAKEDANK",
+        "ULTIMAKEK"
+      ]
+    },
+    {
+      "original": "CLAYPEPE",
+      "candidates": [
+        "CLAYRAREPEPE"
+      ]
+    },
+    {
+      "original": "BATTLECORN",
+      "candidates": [
+        "FAUXBATTLE",
+        "NFTBATTLE"
+      ]
+    },
+    {
+      "original": "EXCALICORN",
+      "candidates": [
+        "EXCALIBARKEK"
+      ]
+    },
+    {
+      "original": "GUARDSPEPE",
+      "candidates": [
+        "DANKGUARDS"
+      ]
+    },
+    {
+      "original": "CULTOFPEPE",
+      "candidates": [
+        "CULTOFTHEV"
+      ]
+    },
+    {
+      "original": "CLOWNPEPE",
+      "candidates": [
+        "BOBOTHECLOWN",
+        "CLOWNBOBO",
+        "FAUXCLOWN",
+        "PEPETHECLOWN"
+      ]
+    },
+    {
+      "original": "CORNHOLIO",
+      "candidates": [
+        "BITCORNHOLIO"
+      ]
+    },
+    {
+      "original": "CORNDINSKY",
+      "candidates": [
+        "SWANDINSKY"
+      ]
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "candidates": [
+        "NAKAMOTONEWS"
+      ]
+    },
+    {
+      "original": "ONSENPEPE",
+      "candidates": [
+        "FAKEONSEN"
+      ]
+    },
+    {
+      "original": "DALICORN",
+      "candidates": [
+        "DALIDANK",
+        "DALIDANKER",
+        "DALIMOTO",
+        "DANKDALI"
+      ]
+    },
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "CORNYHOMER",
+        "DANKHOMER",
+        "HOMERPEPMOVI",
+        "RAREHOMER",
+        "STPLHOMERPEP",
+        "TRIPHOMERPEP"
+      ]
+    },
+    {
+      "original": "BLOCKPEPE",
+      "candidates": [
+        "BLOCKDEMON",
+        "BLOCKI",
+        "BLOCKSWAN",
+        "ONEBLOCK",
+        "SATOSHIBLOCK"
+      ]
+    },
+    {
+      "original": "PEPEBUSTER",
+      "candidates": [
+        "DANKBUSTER"
+      ]
+    },
+    {
+      "original": "PEPEPIZZA",
+      "candidates": [
+        "FAKAPIZZA",
+        "PIZZADANK",
+        "PIZZADAYONE",
+        "PIZZADAYTHRE",
+        "PIZZADAYTWO",
+        "SWANPIZZA",
+        "THEPIZZADAY"
+      ]
+    },
+    {
+      "original": "PEPETONE",
+      "candidates": [
+        "NAKAMOTONEWS",
+        "PEPESTONE",
+        "PEPETAROTONE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "MAKEARTPEPE",
+      "status": "rejected",
+      "reason": "Different artwork and message from tall red hat portrait."
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "MAKEDANK",
+      "status": "rejected",
+      "reason": "Different artwork and message from tall red hat portrait."
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "ULTIMAKEK",
+      "status": "rejected",
+      "reason": "Different artwork and message from tall red hat portrait."
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYRAREPEPE",
+      "status": "ambiguous",
+      "reason": "Shared clay extrusion method and artist presentation; different modeled portrait. Relationship as a specific derivative versus companion piece needs evidence."
+    },
+    {
+      "original": "BATTLECORN",
+      "asset": "FAUXBATTLE",
+      "status": "rejected",
+      "reason": "Different battle scenes from historical group photograph."
+    },
+    {
+      "original": "BATTLECORN",
+      "asset": "NFTBATTLE",
+      "status": "rejected",
+      "reason": "Different battle scenes from historical group photograph."
+    },
+    {
+      "original": "EXCALICORN",
+      "asset": "EXCALIBARKEK",
+      "status": "rejected",
+      "reason": "Different sword composition; common Arthurian subject."
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "DANKGUARDS",
+      "status": "rejected",
+      "reason": "Guardians movie poster versus Imperial Guard soldier."
+    },
+    {
+      "original": "CULTOFPEPE",
+      "asset": "CULTOFTHEV",
+      "status": "rejected",
+      "reason": "Different cult image from dancing Egyptian frogs."
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "BOBOTHECLOWN",
+      "status": "rejected",
+      "reason": "Different clown characters and compositions."
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "CLOWNBOBO",
+      "status": "rejected",
+      "reason": "Different clown characters and compositions."
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "FAUXCLOWN",
+      "status": "rejected",
+      "reason": "Different clown characters and compositions."
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "PEPETHECLOWN",
+      "status": "rejected",
+      "reason": "Different clown characters and compositions."
+    },
+    {
+      "original": "CORNHOLIO",
+      "asset": "BITCORNHOLIO",
+      "status": "rejected",
+      "reason": "Common Beavis Cornholio reference, different scene and pose; does not establish direct use of this cornfield card."
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "SWANDINSKY",
+      "status": "rejected",
+      "reason": "Different Kandinsky-inspired composition; shared painter only."
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "NAKAMOTONEWS",
+      "status": "rejected",
+      "reason": "Different Nakamoto scales image from newspaper reader."
+    },
+    {
+      "original": "ONSENPEPE",
+      "asset": "FAKEONSEN",
+      "status": "accepted",
+      "reason": "Retains distinctive half-submerged frog head and water-ring arrangement, replaces snowy onsen with yellow background and animated steam."
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DALIDANK",
+      "status": "rejected",
+      "reason": "Different Dali-inspired works; no specific melting-corn composition reuse."
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DALIDANKER",
+      "status": "rejected",
+      "reason": "Different Dali-inspired works; no specific melting-corn composition reuse."
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DALIMOTO",
+      "status": "rejected",
+      "reason": "Different Dali-inspired works; no specific melting-corn composition reuse."
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DANKDALI",
+      "status": "rejected",
+      "reason": "Different Dali-inspired works; no specific melting-corn composition reuse."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "CORNYHOMER",
+      "status": "rejected",
+      "reason": "Different Homer-related drawing or subject; source-specific reuse not established."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "DANKHOMER",
+      "status": "ambiguous",
+      "reason": "Different Homer-related drawing or subject; source-specific reuse not established."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERPEPMOVI",
+      "status": "accepted",
+      "reason": "Recreates card structure and exact Unknown/Immobilized stats, adapts Wait a minute caption to metaverse, and presents 3D green Homer in the main scene."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "RAREHOMER",
+      "status": "rejected",
+      "reason": "Different Homer-related drawing or subject; source-specific reuse not established."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "STPLHOMERPEP",
+      "status": "accepted",
+      "reason": "Dot mosaic reconstructs distinctive green Homer-Pepe portrait, round highlighted eyes, muzzle and white shirt, mirrored."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "TRIPHOMERPEP",
+      "status": "accepted",
+      "reason": "Mirrors and redraws specific green Homer-Pepe portrait with highlighted round pupils and Pepe lips, animates the eyes, adds psychedelic card framing."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKDEMON",
+      "status": "rejected",
+      "reason": "No specific conveyor-belt block portrait reuse."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKI",
+      "status": "rejected",
+      "reason": "No specific conveyor-belt block portrait reuse."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKSWAN",
+      "status": "rejected",
+      "reason": "No specific conveyor-belt block portrait reuse."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "ONEBLOCK",
+      "status": "rejected",
+      "reason": "No specific conveyor-belt block portrait reuse."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "SATOSHIBLOCK",
+      "status": "rejected",
+      "reason": "No specific conveyor-belt block portrait reuse."
+    },
+    {
+      "original": "PEPEBUSTER",
+      "asset": "DANKBUSTER",
+      "status": "ambiguous",
+      "reason": "Shared Ghostbusters emblem, different frog rendering and composition; source direction unresolved."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "FAKAPIZZA",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "PIZZADANK",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "PIZZADAYONE",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "PIZZADAYTHRE",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "PIZZADAYTWO",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "SWANPIZZA",
+      "status": "accepted",
+      "reason": "Reuses card layout, 10,000,000 PEPECASH PIZZA and RAREST OF RARE joke, substitutes DANKMEMECASH and swan, and changes Lifetime Pizza Supply to Eternal Pizza Supply. Both animate pizza entering mouth."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "THEPIZZADAY",
+      "status": "rejected",
+      "reason": "Other pizza scenes lack specific pizza-stream card composition and text."
+    },
+    {
+      "original": "PEPETONE",
+      "asset": "NAKAMOTONEWS",
+      "status": "rejected",
+      "reason": "Different artwork; substring collisions rather than Pantone-style color swatch."
+    },
+    {
+      "original": "PEPETONE",
+      "asset": "PEPESTONE",
+      "status": "rejected",
+      "reason": "Different artwork; substring collisions rather than Pantone-style color swatch."
+    },
+    {
+      "original": "PEPETONE",
+      "asset": "PEPETAROTONE",
+      "status": "rejected",
+      "reason": "Different artwork; substring collisions rather than Pantone-style color swatch."
+    }
+  ],
+  "accepted": [
+    {
+      "original": "ONSENPEPE",
+      "asset": "FAKEONSEN",
+      "status": "accepted",
+      "reason": "Retains distinctive half-submerged frog head and water-ring arrangement, replaces snowy onsen with yellow background and animated steam."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERPEPMOVI",
+      "status": "accepted",
+      "reason": "Recreates card structure and exact Unknown/Immobilized stats, adapts Wait a minute caption to metaverse, and presents 3D green Homer in the main scene."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "STPLHOMERPEP",
+      "status": "accepted",
+      "reason": "Dot mosaic reconstructs distinctive green Homer-Pepe portrait, round highlighted eyes, muzzle and white shirt, mirrored."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "TRIPHOMERPEP",
+      "status": "accepted",
+      "reason": "Mirrors and redraws specific green Homer-Pepe portrait with highlighted round pupils and Pepe lips, animates the eyes, adds psychedelic card framing."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "SWANPIZZA",
+      "status": "accepted",
+      "reason": "Reuses card layout, 10,000,000 PEPECASH PIZZA and RAREST OF RARE joke, substitutes DANKMEMECASH and swan, and changes Lifetime Pizza Supply to Eternal Pizza Supply. Both animate pizza entering mouth."
+    }
+  ]
+}

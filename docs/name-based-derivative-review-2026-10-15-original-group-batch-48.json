@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame original-to-many sheets and three animation sheets viewed. Seven animations sampled at four spaced positions; all four TIFFANYANDTO frames viewed. Longer animations not exhaustive. NYANPEPE and NYANSPEPE enlarged; on-chain histories fetched and description metadata attempted.",
+  "reviewed": [
+    {
+      "original": "PEPERANGER",
+      "volume_usd": 24675.415655913646,
+      "buyers": 31,
+      "candidates": [
+        "FAKERANGERS",
+        "ORANGERIDER",
+        "OWLRANGER",
+        "XAORANGERB",
+        "XAORANGERG"
+      ]
+    },
+    {
+      "original": "NYANPEPE",
+      "volume_usd": 22286.024848598827,
+      "buyers": 133,
+      "candidates": [
+        "DJASANYANBG",
+        "DJASANYANVIX",
+        "NYANCAT",
+        "NYANPEEN",
+        "NYANSPEPE",
+        "PAULBUNYAN",
+        "SMOLNYANFREN",
+        "TIFFANYANDTO",
+        "YINYANGPEPE"
+      ]
+    },
+    {
+      "original": "KUNGFUPEPE",
+      "volume_usd": 22513.467985708205,
+      "buyers": 31,
+      "candidates": [
+        "KUNGFUKEK",
+        "KUNGFUSLAP",
+        "LILKUNGFUKEK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "XAORANGERB",
+      "pages": 21,
+      "sampled_frames": [
+        0,
+        7,
+        13,
+        20
+      ]
+    },
+    {
+      "asset": "XAORANGERG",
+      "pages": 22,
+      "sampled_frames": [
+        0,
+        7,
+        14,
+        21
+      ]
+    },
+    {
+      "asset": "NYANPEEN",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "NYANSPEPE",
+      "pages": 252,
+      "sampled_frames": [
+        0,
+        84,
+        167,
+        251
+      ]
+    },
+    {
+      "asset": "YINYANGPEPE",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "TIFFANYANDTO",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "KUNGFUKEK",
+      "pages": 150,
+      "sampled_frames": [
+        0,
+        50,
+        99,
+        149
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPERANGER",
+      "asset": "FAKERANGERS",
+      "status": "rejected",
+      "reason": "Five ranger figures beneath a separate painting, not source gold-armored card-holding Alpha Ranger composition.",
+      "evidence_sheet": "sheets/group-PEPERANGER-0.png"
+    },
+    {
+      "original": "PEPERANGER",
+      "asset": "ORANGERIDER",
+      "status": "rejected",
+      "reason": "Orange-cloaked horseback rider on scroll, substring match only.",
+      "evidence_sheet": "sheets/group-PEPERANGER-0.png"
+    },
+    {
+      "original": "PEPERANGER",
+      "asset": "OWLRANGER",
+      "status": "rejected",
+      "reason": "Fantasy snowy owl rider game card, unrelated composition.",
+      "evidence_sheet": "sheets/group-PEPERANGER-0.png"
+    },
+    {
+      "original": "PEPERANGER",
+      "asset": "XAORANGERB",
+      "status": "rejected",
+      "reason": "Small blue helmeted mascot with symbol/price-chart animation, no specific source reuse.",
+      "evidence_sheet": "sheets/group-PEPERANGER-0.png"
+    },
+    {
+      "original": "PEPERANGER",
+      "asset": "XAORANGERG",
+      "status": "rejected",
+      "reason": "Small green helmeted mascot with Japanese captions and samurai inset, no source artwork reuse.",
+      "evidence_sheet": "sheets/group-PEPERANGER-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "DJASANYANBG",
+      "status": "rejected",
+      "reason": "BitGirls photograph portrait, substring match only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "DJASANYANVIX",
+      "status": "rejected",
+      "reason": "BitGirls circular photograph portrait, substring match only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "NYANCAT",
+      "status": "rejected",
+      "reason": "Gray cat pop-tart image without source-specific Pepe/card features; shared Nyan theme not a derivative of this card.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "NYANPEEN",
+      "status": "rejected",
+      "reason": "Different pop-tart genital parody with rocket and moon; sampled frames do not reuse Pepe drawing or specific Rare Pepe card.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "NYANSPEPE",
+      "status": "ambiguous",
+      "reason": "Held after enlarged comparison: same Nyan/pop-tart rainbow composition but different Pepe head, feet/tail and replacement gold card. Specific NYANPEPE border/rules not reused. Source Jan2017 linked metadata predates candidate July2022 linked metadata, but dates alone do not exclude a shared external Nyan-Pepe source. Current Easyasset JSON200 empty; historical enhanced.cards and rarepepes.club fetch failed. Targeted web search did not resolve attribution. No Based on added pending direct attribution or closer-source evidence.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "PAULBUNYAN",
+      "status": "rejected",
+      "reason": "Lumberjack figure in forest, substring match only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "SMOLNYANFREN",
+      "status": "rejected",
+      "reason": "Hand-drawn Pepe holding gray Nyan cat on rainbow background, different composition; shared character mashup only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "TIFFANYANDTO",
+      "status": "rejected",
+      "reason": "Pepe in pink trash bin with sunglasses animation, substring match only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "NYANPEPE",
+      "asset": "YINYANGPEPE",
+      "status": "rejected",
+      "reason": "Burning yin-yang graphic, substring match only.",
+      "evidence_sheet": "sheets/group-NYANPEPE-0.png"
+    },
+    {
+      "original": "KUNGFUPEPE",
+      "asset": "KUNGFUKEK",
+      "status": "rejected",
+      "reason": "Animated kung-fu film parody with different figures, dialogue and settings; sampled frames do not reuse source kicking straw-hat street scene.",
+      "evidence_sheet": "sheets/group-KUNGFUPEPE-0.png"
+    },
+    {
+      "original": "KUNGFUPEPE",
+      "asset": "KUNGFUSLAP",
+      "status": "rejected",
+      "reason": "Will Smith slap toy packaging, no specific source reuse.",
+      "evidence_sheet": "sheets/group-KUNGFUPEPE-0.png"
+    },
+    {
+      "original": "KUNGFUPEPE",
+      "asset": "LILKUNGFUKEK",
+      "status": "rejected",
+      "reason": "Yellow-suited figure on red slogan poster, different pose and layout.",
+      "evidence_sheet": "sheets/group-KUNGFUPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 0,
+    "rejected": 16,
+    "ambiguous": 1
+  },
+  "sources": [
+    "https://api.xcp.io/v2/assets/NYANPEPE/issuances?limit=100",
+    "https://api.xcp.io/v2/assets/NYANSPEPE/issuances?limit=100",
+    "https://easyasset.art/j/yvtp90/NYANSPEPE.json",
+    "https://json.enhanced.cards/data/NYANSPEPE.json",
+    "http://rarepepes.club/nyanpepe.json"
+  ]
+}

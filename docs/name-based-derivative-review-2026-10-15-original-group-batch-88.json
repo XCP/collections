@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and two animation sheets inspected. Seven GIFs sampled at four spaced positions, not exhaustive playback. CUBED.CUBED refetched and enlarged: generic logo, retained as media-blocked.",
+  "reviewed": [
+    {
+      "original": "PEPENOFF",
+      "volume_usd": 18069.629584332666,
+      "buyers": 18,
+      "candidates": [
+        "BALDIES.BALDANOFF",
+        "CORNONOFF",
+        "LATOMOONOFF",
+        "MANOFFEEL",
+        "THEWOJAKNOFF"
+      ]
+    },
+    {
+      "original": "CUBEPEPE",
+      "volume_usd": 17782.055964453342,
+      "buyers": 25,
+      "candidates": [
+        "CUBED.CUBED",
+        "CUBEMOTO",
+        "GENESISCUBE.1of21",
+        "GENESISCUBE.2of21",
+        "GENESISCUBE.PERMISSION",
+        "ICECUBEPEPE",
+        "NEXTCUBE",
+        "PEPCUBE",
+        "TUNGSTENCUBE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CORNONOFF",
+      "pages": 108,
+      "sampled_frames": [
+        0,
+        36,
+        71,
+        107
+      ]
+    },
+    {
+      "asset": "LATOMOONOFF",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "PEPENOFF",
+      "pages": 68,
+      "sampled_frames": [
+        0,
+        22,
+        45,
+        67
+      ]
+    },
+    {
+      "asset": "CUBEPEPE",
+      "pages": 56,
+      "sampled_frames": [
+        0,
+        18,
+        37,
+        55
+      ]
+    },
+    {
+      "asset": "GENESISCUBE.1of21",
+      "pages": 250,
+      "sampled_frames": [
+        0,
+        83,
+        166,
+        249
+      ]
+    },
+    {
+      "asset": "GENESISCUBE.2of21",
+      "pages": 250,
+      "sampled_frames": [
+        0,
+        83,
+        166,
+        249
+      ]
+    },
+    {
+      "asset": "TUNGSTENCUBE",
+      "pages": 79,
+      "sampled_frames": [
+        0,
+        26,
+        52,
+        78
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENOFF",
+      "asset": "BALDIES.BALDANOFF",
+      "status": "rejected",
+      "reason": "Photographic Bogdanoff portrait with different layout; shared public figure is insufficient. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENOFF-0.png"
+    },
+    {
+      "original": "PEPENOFF",
+      "asset": "CORNONOFF",
+      "status": "rejected",
+      "reason": "Corn switching electrical power on and off. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENOFF-0.png"
+    },
+    {
+      "original": "PEPENOFF",
+      "asset": "LATOMOONOFF",
+      "status": "rejected",
+      "reason": "Periodic-table tiles spelling on/off. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENOFF-0.png"
+    },
+    {
+      "original": "PEPENOFF",
+      "asset": "MANOFFEEL",
+      "status": "rejected",
+      "reason": "Superhero Wojak card. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENOFF-0.png"
+    },
+    {
+      "original": "PEPENOFF",
+      "asset": "THEWOJAKNOFF",
+      "status": "rejected",
+      "reason": "Two Bogdanoff-like figures in flight suits; no specific source portrait/animation reuse. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENOFF-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "CUBED.CUBED",
+      "status": "media_blocked",
+      "reason": "Fresh full-CDN fetch returns generic Counterparty logo PNG, 300x180 and 3591 bytes. Artwork unavailable for visual comparison.",
+      "evidence_sheet": "previews/CUBED.CUBED-detail.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "CUBEMOTO",
+      "status": "rejected",
+      "reason": "Faceted frog portrait in ornate frame. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "GENESISCUBE.1of21",
+      "status": "rejected",
+      "reason": "Rotating cube made of panels, not unfolding frog-face cube or source card layout. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "GENESISCUBE.2of21",
+      "status": "rejected",
+      "reason": "Rotating cube made of panels, not unfolding frog-face cube or source card layout. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "GENESISCUBE.PERMISSION",
+      "status": "rejected",
+      "reason": "Permission conversation screenshot. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "ICECUBEPEPE",
+      "status": "rejected",
+      "reason": "Rapper portrait parody. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "NEXTCUBE",
+      "status": "rejected",
+      "reason": "NeXT-style cube logo. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "PEPCUBE",
+      "status": "rejected",
+      "reason": "Translucent green cube poster; generic cube motif does not establish reuse. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "TUNGSTENCUBE",
+      "status": "rejected",
+      "reason": "Metal cube animation; generic geometry does not establish reuse. No distinctive source composition reused in inspected imagery.",
+      "evidence_sheet": "sheets/group-CUBEPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 13,
+    "media_blocked": 1
+  }
+}

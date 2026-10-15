@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame grouped sheets and one animation sheet viewed. Two animations sampled at four spaced positions, not exhaustive playback. Rejections concern the specified original and inspected material.",
+  "reviewed": [
+    {
+      "original": "WARRIORPEPE",
+      "volume_usd": 5627.832729071787,
+      "buyers": 11,
+      "candidates": [
+        "BTCWARRIOR",
+        "COCOWARRIOR",
+        "CROWWARRIOR",
+        "FAKEWARRIOR",
+        "IWARRIOR",
+        "LIGHTWARRIOR",
+        "LONWARRIOR",
+        "LONYWARRIOR",
+        "MSTRPEPES.WARRIORPEPEFIGURE",
+        "PEDALWARRIOR",
+        "STAGWARRIOR",
+        "WARRIORLUMIN",
+        "WARRIOROBSCU",
+        "XCPWARRIOR"
+      ]
+    },
+    {
+      "original": "ROBOTPEPE",
+      "volume_usd": 3390.1135768125573,
+      "buyers": 14,
+      "candidates": [
+        "BADROBOT",
+        "COFFEEROBOT",
+        "CORNROBOT",
+        "ROBOTMAFIA",
+        "ROBOTPGN",
+        "ROBOTTEST",
+        "ROBOTTESTONE",
+        "SMOLROBOT",
+        "THEROBOT"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "IWARRIOR",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "FAKEWARRIOR",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "WARRIORPEPE",
+      "asset": "BTCWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "COCOWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "CROWWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "FAKEWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "IWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "LIGHTWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "LONWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "LONYWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "MSTRPEPES.WARRIORPEPEFIGURE",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "PEDALWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "STAGWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "WARRIORLUMIN",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "WARRIOROBSCU",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "WARRIORPEPE",
+      "asset": "XCPWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the grey pencil-drawn muscular warrior with tall mask and decorated belt. Candidate warriors have distinct costumes, poses and compositions; warrior subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "BADROBOT",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "COFFEEROBOT",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "CORNROBOT",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "ROBOTMAFIA",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "ROBOTPGN",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "ROBOTTEST",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "ROBOTTESTONE",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "SMOLROBOT",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    },
+    {
+      "original": "ROBOTPEPE",
+      "asset": "THEROBOT",
+      "status": "rejected",
+      "reason": "No reuse of the full-body segmented green robot with box torso holding a bottle and small object against grey. Other machines, cartoon robots and tutorial text differ.",
+      "evidence_sheet": "sheets/group-ROBOTPEPE-0.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "assets": [
+        "LONWARRIOR",
+        "LONYWARRIOR"
+      ],
+      "reason": "First-frame images appear to share the same framed Lonely Warrior drawing. Investigate edition/duplicate/direction separately; no Based on asserted from identical images alone.",
+      "evidence_sheet": "sheets/group-WARRIORPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 23,
+    "accepted": 0,
+    "rejected": 23
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-15",
+  "method": "Five first-frame sheets and four animation sheets visually inspected. Six animations sampled at four spaced frames (all four NUDEYOGASMOL frames); longer animations not exhaustively reviewed. Rejections apply to exact proposed originals, not every possible derivative relationship.",
+  "reviewed": [
+    {
+      "original": "YOGAPEPE",
+      "volume_usd": 16160.569664686001,
+      "buyers": 172,
+      "candidates": [
+        "NUDEYOGASMOL",
+        "YOGASPAMGELO",
+        "YOGAWOJAK"
+      ]
+    },
+    {
+      "original": "UNDEADPEPE",
+      "volume_usd": 15962.456826233147,
+      "buyers": 34,
+      "candidates": [
+        "UNDEADCOIN"
+      ]
+    },
+    {
+      "original": "RAREKEKUIT",
+      "volume_usd": 15601.893059901246,
+      "buyers": 37,
+      "candidates": [
+        "STRLDYKEKUIT"
+      ]
+    },
+    {
+      "original": "PEPEPYRAMID",
+      "volume_usd": 15540.886110790021,
+      "buyers": 39,
+      "candidates": [
+        "KEKPYRAMID",
+        "WRBPT.BERMUDACRYSTALPYRAMID"
+      ]
+    },
+    {
+      "original": "PEPEFLESH",
+      "volume_usd": 15497.771152518773,
+      "buyers": 24,
+      "candidates": [
+        "FLESHPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "NUDEYOGASMOL",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "YOGAPEPE",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    },
+    {
+      "asset": "STRLDYKEKUIT",
+      "pages": 40,
+      "sampled_frames": [
+        0,
+        13,
+        26,
+        39
+      ]
+    },
+    {
+      "asset": "KEKPYRAMID",
+      "pages": 64,
+      "sampled_frames": [
+        0,
+        21,
+        42,
+        63
+      ]
+    },
+    {
+      "asset": "PEPEPYRAMID",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "PEPEFLESH",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "YOGAPEPE",
+      "asset": "NUDEYOGASMOL",
+      "status": "rejected",
+      "reason": "Shared yoga subject only; no reuse of seated bearded figure, stone backdrop or dissolving figure animation.",
+      "evidence_sheet": "sheets/group-YOGAPEPE-0.png"
+    },
+    {
+      "original": "YOGAPEPE",
+      "asset": "YOGASPAMGELO",
+      "status": "rejected",
+      "reason": "Shared yoga subject only; no reuse of seated bearded figure, stone backdrop or dissolving figure animation.",
+      "evidence_sheet": "sheets/group-YOGAPEPE-0.png"
+    },
+    {
+      "original": "YOGAPEPE",
+      "asset": "YOGAWOJAK",
+      "status": "rejected",
+      "reason": "Shared yoga subject only; no reuse of seated bearded figure, stone backdrop or dissolving figure animation.",
+      "evidence_sheet": "sheets/group-YOGAPEPE-0.png"
+    },
+    {
+      "original": "UNDEADPEPE",
+      "asset": "UNDEADCOIN",
+      "status": "rejected",
+      "reason": "Different outlined monster silhouette; no reuse of the source green alien-like undead portrait.",
+      "evidence_sheet": "sheets/group-UNDEADPEPE-0.png"
+    },
+    {
+      "original": "RAREKEKUIT",
+      "asset": "STRLDYKEKUIT",
+      "status": "rejected",
+      "reason": "Shared named deity/persona is insufficient: hooded axe-bearing figure differs from source full-body armored figure juggling stars.",
+      "evidence_sheet": "sheets/group-RAREKEKUIT-0.png"
+    },
+    {
+      "original": "PEPEPYRAMID",
+      "asset": "KEKPYRAMID",
+      "status": "rejected",
+      "reason": "Shared pyramid subject only; pixel eye pyramid and balcony pyramid scene do not reuse intricate frog-centered pattern and card composition.",
+      "evidence_sheet": "sheets/group-PEPEPYRAMID-0.png"
+    },
+    {
+      "original": "PEPEPYRAMID",
+      "asset": "WRBPT.BERMUDACRYSTALPYRAMID",
+      "status": "rejected",
+      "reason": "Shared pyramid subject only; pixel eye pyramid and balcony pyramid scene do not reuse intricate frog-centered pattern and card composition.",
+      "evidence_sheet": "sheets/group-PEPEPYRAMID-0.png"
+    },
+    {
+      "original": "PEPEFLESH",
+      "asset": "FLESHPEPE",
+      "status": "rejected",
+      "reason": "Different exposed/ribbon-like head illustration; no reuse of the source flesh frog with chainsaw in a forest.",
+      "evidence_sheet": "sheets/group-PEPEFLESH-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 8,
+    "accepted": 0,
+    "rejected": 8
+  }
+}

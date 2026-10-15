@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-15",
+  "method": "First14 groups of batch89 visually inspected as source-specific first-frame comparisons. Three accepted pairs enlarged; all six accepted-pair images static. No exhaustive animation claim for other pairs. Missing previews retained as media blocked.",
+  "reviewed": [
+    {
+      "original": "DIMITRICARD",
+      "candidates": [
+        "DIMITRIPEPE"
+      ]
+    },
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "BOBOHOMER",
+        "HOMERCARD",
+        "PEPEHOMER"
+      ]
+    },
+    {
+      "original": "BLOCKPEPE",
+      "candidates": [
+        "BLOCKCARD.1",
+        "BLOCKCARD.10",
+        "BLOCKCARD.11",
+        "BLOCKCARD.12",
+        "BLOCKCARD.13",
+        "BLOCKCARD.14",
+        "BLOCKCARD.15",
+        "BLOCKCARD.16",
+        "BLOCKCARD.17",
+        "BLOCKCARD.18"
+      ]
+    },
+    {
+      "original": "PEPEPIZZA",
+      "candidates": [
+        "PIZZAFAUX"
+      ]
+    },
+    {
+      "original": "CORNARTIST",
+      "candidates": [
+        "BLUEBEAR.ARTIST",
+        "FAKECEZANNE.ARTIST",
+        "PGNARTIST"
+      ]
+    },
+    {
+      "original": "PEPETONE",
+      "candidates": [
+        "BOBOTONE"
+      ]
+    },
+    {
+      "original": "REDPUTINPEPE",
+      "candidates": [
+        "REDPUTIN"
+      ]
+    },
+    {
+      "original": "CORNGEISHA",
+      "candidates": [
+        "GEISHAPEPE"
+      ]
+    },
+    {
+      "original": "FATHERPEPE",
+      "candidates": [
+        "CORNFATHER",
+        "PIGEONFATHER",
+        "RAREFATHER"
+      ]
+    },
+    {
+      "original": "CORNSURF",
+      "candidates": [
+        "PEPESURF",
+        "SURFPEPE"
+      ]
+    },
+    {
+      "original": "CORNBUDDHA",
+      "candidates": [
+        "BTCRN.BUDDHA",
+        "NAMJUNEPEPE.1974_FAKE_BUDDHA",
+        "NAMJUNEPEPE.1974_FAKE_BUDDHA_NIGHT"
+      ]
+    },
+    {
+      "original": "FAKERPEPE",
+      "candidates": [
+        "DANKFAKER",
+        "FAKEFAKER"
+      ]
+    },
+    {
+      "original": "BURNINGPEPE",
+      "candidates": [
+        "BURNINGCARD"
+      ]
+    },
+    {
+      "original": "LEANPEPE",
+      "candidates": [
+        "BLUEFARMS.LEAN"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "DIMITRICARD",
+      "asset": "DIMITRIPEPE",
+      "status": "rejected",
+      "reason": "Sauna frog versus masked moonlit character."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "BOBOHOMER",
+      "status": "accepted",
+      "reason": "Pixel remake of yellow card, portrait against clouds, stat line and distinctive Wait a minute I am a Pepe caption changed to BOBO."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERCARD",
+      "status": "rejected",
+      "reason": "Different Homer/Pepe drawing; no specific source caption, portrait or layout reuse sufficient beyond shared external character."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "PEPEHOMER",
+      "status": "rejected",
+      "reason": "Different Homer/Pepe drawing; no specific source caption, portrait or layout reuse sufficient beyond shared external character."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.1",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.10",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.11",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.12",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.13",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.14",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.15",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.16",
+      "status": "media_blocked",
+      "reason": "Input Buffer is empty"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.17",
+      "status": "media_blocked",
+      "reason": "Input Buffer is empty"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.18",
+      "status": "rejected",
+      "reason": "Bitcoin symbol and block text compositions versus conveyor-belt frog block."
+    },
+    {
+      "original": "PEPEPIZZA",
+      "asset": "PIZZAFAUX",
+      "status": "rejected",
+      "reason": "Surreal pizza scene versus pizza-eating close-up frog."
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "BLUEBEAR.ARTIST",
+      "status": "rejected",
+      "reason": "Different artist portraits and scenes; no specific corn painter composition reuse."
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "FAKECEZANNE.ARTIST",
+      "status": "rejected",
+      "reason": "Different artist portraits and scenes; no specific corn painter composition reuse."
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "PGNARTIST",
+      "status": "rejected",
+      "reason": "Different artist portraits and scenes; no specific corn painter composition reuse."
+    },
+    {
+      "original": "PEPETONE",
+      "asset": "BOBOTONE",
+      "status": "accepted",
+      "reason": "Preserves 10-1984 code, skin label, face embedded in title and circled K with brown/Bobo substitutions."
+    },
+    {
+      "original": "REDPUTINPEPE",
+      "asset": "REDPUTIN",
+      "status": "rejected",
+      "reason": "Pixel portrait over QR versus upside-down pop-art portrait."
+    },
+    {
+      "original": "CORNGEISHA",
+      "asset": "GEISHAPEPE",
+      "status": "rejected",
+      "reason": "Portrait geisha versus full-length corn figure in lantern garden."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "CORNFATHER",
+      "status": "rejected",
+      "reason": "Godfather logo, pigeon cleric or portrait versus white-bearded blessing frog and decorated border."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "PIGEONFATHER",
+      "status": "rejected",
+      "reason": "Godfather logo, pigeon cleric or portrait versus white-bearded blessing frog and decorated border."
+    },
+    {
+      "original": "FATHERPEPE",
+      "asset": "RAREFATHER",
+      "status": "rejected",
+      "reason": "Godfather logo, pigeon cleric or portrait versus white-bearded blessing frog and decorated border."
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "PEPESURF",
+      "status": "rejected",
+      "reason": "Different surfer compositions; shared sport only."
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SURFPEPE",
+      "status": "rejected",
+      "reason": "Different surfer compositions; shared sport only."
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "BTCRN.BUDDHA",
+      "status": "rejected",
+      "reason": "Buddha medallion or external Nam June Paik installation versus corn beneath tree."
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "NAMJUNEPEPE.1974_FAKE_BUDDHA",
+      "status": "rejected",
+      "reason": "Buddha medallion or external Nam June Paik installation versus corn beneath tree."
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "NAMJUNEPEPE.1974_FAKE_BUDDHA_NIGHT",
+      "status": "rejected",
+      "reason": "Buddha medallion or external Nam June Paik installation versus corn beneath tree."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "DANKFAKER",
+      "status": "rejected",
+      "reason": "Ocean swimmer or surreal food collage versus approval-stamped portrait."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKEFAKER",
+      "status": "rejected",
+      "reason": "Ocean swimmer or surreal food collage versus approval-stamped portrait."
+    },
+    {
+      "original": "BURNINGPEPE",
+      "asset": "BURNINGCARD",
+      "status": "rejected",
+      "reason": "Human carrying card tray in flames versus burning frog face."
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "BLUEFARMS.LEAN",
+      "status": "accepted",
+      "reason": "Reuses Japanese header, jacket, hands holding bottles, mountain/cherry blossom background and card frame beneath blue head/glitch edits."
+    }
+  ],
+  "accepted": [
+    {
+      "original": "HOMERPEPE",
+      "asset": "BOBOHOMER",
+      "status": "accepted",
+      "reason": "Pixel remake of yellow card, portrait against clouds, stat line and distinctive Wait a minute I am a Pepe caption changed to BOBO."
+    },
+    {
+      "original": "PEPETONE",
+      "asset": "BOBOTONE",
+      "status": "accepted",
+      "reason": "Preserves 10-1984 code, skin label, face embedded in title and circled K with brown/Bobo substitutions."
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "BLUEFARMS.LEAN",
+      "status": "accepted",
+      "reason": "Reuses Japanese header, jacket, hands holding bottles, mountain/cherry blossom background and card frame beneath blue head/glitch edits."
+    }
+  ]
+}

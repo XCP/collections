@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and three animation sheets visually inspected. Nine animations sampled at four spaced positions; all three FAKEWALLET frames included. Longer animations, including virtual gallery, not exhaustively reviewed. Source-specific decisions only.",
+  "reviewed": [
+    {
+      "original": "WALLPEPE",
+      "volume_usd": 22854.77680764088,
+      "buyers": 35,
+      "candidates": [
+        "BREADWALLET",
+        "CORNWALLIS",
+        "CPWALLETPEPE",
+        "FAKEWALLET",
+        "FAKEWALLS",
+        "FALLOFWALLST",
+        "FREEWALLY",
+        "FROGWALLET",
+        "FRPEPEWALLET",
+        "GEEKIN.WALLETPLAY",
+        "HDWALLCORN",
+        "HDWALLJAK",
+        "HDWALLPEPE",
+        "MIAWALLACE",
+        "MIAWALLACE.LICENSE",
+        "MIAWALLACE.NEON",
+        "NATWALLET",
+        "NINJAWALLET",
+        "OGSAN.JDOGFREEWALLET",
+        "PAPERWALLET",
+        "PEPEGALLERIA.KIDSWALLPEPE",
+        "PEPESWALLOW.CLASSICBLUE",
+        "PEPESWALLOW.CLASSICGREEN",
+        "PEPESWALLOW.DAYTRIPPER",
+        "PEPESWALLOW.H-BOMB",
+        "PEPESWALLOW.INKWASH",
+        "PEPEWALLACE",
+        "PEPEWALLACEX",
+        "PEPEWALLHOLE",
+        "PEPWALLET",
+        "PROWALLY",
+        "PUBLICWALLET",
+        "PUBLICWALLET.skill.only.heard.lust.needle.huge.pie.add.pattern.affection.example.torment",
+        "SHIELDWALLCD",
+        "STONEWALLINN",
+        "SWALLJA.LETSGETSMOL",
+        "SWALLJA.TOOT",
+        "SWALLOWCORN",
+        "SWALLOWPEPE",
+        "WALLETHAIKU.Crimsonwood",
+        "WALLETHAIKU.Idiotpoetry",
+        "WALLETKUN",
+        "WALLETPROFIT",
+        "WALLETWARS",
+        "WALLOFKEK",
+        "WALLOFLAME",
+        "WALLOFPP",
+        "WALLPLUGNFT",
+        "WALLSTCROC",
+        "XFCPFWALLACE",
+        "YESCHAD.CITYWALLS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKEWALLET",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "CPWALLETPEPE",
+      "pages": 49,
+      "sampled_frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "asset": "GEEKIN.WALLETPLAY",
+      "pages": 198,
+      "sampled_frames": [
+        0,
+        66,
+        131,
+        197
+      ]
+    },
+    {
+      "asset": "FRPEPEWALLET",
+      "pages": 36,
+      "sampled_frames": [
+        0,
+        12,
+        23,
+        35
+      ]
+    },
+    {
+      "asset": "PEPEGALLERIA.KIDSWALLPEPE",
+      "pages": 409,
+      "sampled_frames": [
+        0,
+        136,
+        272,
+        408
+      ]
+    },
+    {
+      "asset": "PEPEWALLACEX",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "asset": "STONEWALLINN",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "WALLOFKEK",
+      "pages": 104,
+      "sampled_frames": [
+        0,
+        34,
+        69,
+        103
+      ]
+    },
+    {
+      "asset": "WALLSTCROC",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "WALLPEPE",
+      "asset": "BREADWALLET",
+      "status": "rejected",
+      "reason": "Photographic woman portrait. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "CORNWALLIS",
+      "status": "rejected",
+      "reason": "Colonial portrait with corn motifs. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "CPWALLETPEPE",
+      "status": "rejected",
+      "reason": "Animated wallet logo on green shirt. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FAKEWALLET",
+      "status": "rejected",
+      "reason": "Fake-wallet interface cartoon. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FAKEWALLS",
+      "status": "rejected",
+      "reason": "Repeated green frog wallpaper pattern. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FALLOFWALLST",
+      "status": "rejected",
+      "reason": "Bull statue on financial street. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FREEWALLY",
+      "status": "rejected",
+      "reason": "Smiling brown wallet icon. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FROGWALLET",
+      "status": "rejected",
+      "reason": "Messaging screenshot. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "FRPEPEWALLET",
+      "status": "rejected",
+      "reason": "Animated green frog wallet. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "GEEKIN.WALLETPLAY",
+      "status": "rejected",
+      "reason": "Animated sketched frog portrait. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "HDWALLCORN",
+      "status": "rejected",
+      "reason": "Layered corn-pattern frames. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "HDWALLJAK",
+      "status": "rejected",
+      "reason": "Layered line-drawing human portraits. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "HDWALLPEPE",
+      "status": "rejected",
+      "reason": "Layered frog-pattern frames. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "MIAWALLACE",
+      "status": "rejected",
+      "reason": "Woman reclining with cigarette. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "MIAWALLACE.LICENSE",
+      "status": "rejected",
+      "reason": "Novelty license with woman portrait. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "MIAWALLACE.NEON",
+      "status": "rejected",
+      "reason": "Neon Pulp Fiction poster. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "NATWALLET",
+      "status": "rejected",
+      "reason": "Orange-background wallet cartoon. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "NINJAWALLET",
+      "status": "rejected",
+      "reason": "Ninja behind laptop. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "OGSAN.JDOGFREEWALLET",
+      "status": "rejected",
+      "reason": "Horse-headed figure using wallet. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-0.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PAPERWALLET",
+      "status": "rejected",
+      "reason": "Paper Wallet text around frog face. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPEGALLERIA.KIDSWALLPEPE",
+      "status": "rejected",
+      "reason": "Animated virtual gallery interior and QR endpoint. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPESWALLOW.CLASSICBLUE",
+      "status": "rejected",
+      "reason": "Blue swallow-bird composition. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPESWALLOW.CLASSICGREEN",
+      "status": "rejected",
+      "reason": "Green swallow-bird composition. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPESWALLOW.DAYTRIPPER",
+      "status": "rejected",
+      "reason": "Multicolor swallow-bird composition. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPESWALLOW.H-BOMB",
+      "status": "rejected",
+      "reason": "Single swallow illustration. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPESWALLOW.INKWASH",
+      "status": "rejected",
+      "reason": "Swallow illustration in card format. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPEWALLACE",
+      "status": "rejected",
+      "reason": "Writer portrait with This Is Water text. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPEWALLACEX",
+      "status": "rejected",
+      "reason": "Animated Mia Wallace-style portrait. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPEWALLHOLE",
+      "status": "rejected",
+      "reason": "Framed dimensional frog face. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PEPWALLET",
+      "status": "rejected",
+      "reason": "Four frog computer-workstation scenes. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PROWALLY",
+      "status": "rejected",
+      "reason": "Jekyll Island monster/book-cover adaptation. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PUBLICWALLET",
+      "status": "rejected",
+      "reason": "Symbols and address graphic. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "PUBLICWALLET.skill.only.heard.lust.needle.huge.pie.add.pattern.affection.example.torment",
+      "status": "rejected",
+      "reason": "Small symbols and address graphic. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "SHIELDWALLCD",
+      "status": "rejected",
+      "reason": "Fantasy shield-wall warriors. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "STONEWALLINN",
+      "status": "rejected",
+      "reason": "Animated Stonewall Inn doorway. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "SWALLJA.LETSGETSMOL",
+      "status": "rejected",
+      "reason": "Blocky green Bitcoin game imagery. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "SWALLJA.TOOT",
+      "status": "rejected",
+      "reason": "Train and character collage. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "SWALLOWCORN",
+      "status": "rejected",
+      "reason": "Swallow bird/corn illustration. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-19.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "SWALLOWPEPE",
+      "status": "rejected",
+      "reason": "Open mouth with small card on tongue. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLETHAIKU.Crimsonwood",
+      "status": "rejected",
+      "reason": "Abstract Crimson wood haiku card. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLETHAIKU.Idiotpoetry",
+      "status": "rejected",
+      "reason": "Abstract Idiot poetry haiku card. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLETKUN",
+      "status": "rejected",
+      "reason": "Hardware wallet and Bitcoin pixel collage. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLETPROFIT",
+      "status": "rejected",
+      "reason": "Frog holding Bitcoin and wallet. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLETWARS",
+      "status": "rejected",
+      "reason": "Two opposing cartoon wallets. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLOFKEK",
+      "status": "rejected",
+      "reason": "Animated Egyptian papyrus glyph panel. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLOFLAME",
+      "status": "rejected",
+      "reason": "Stage scene with hall-of-fame and fake-rare ticket text. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLOFPP",
+      "status": "rejected",
+      "reason": "Small colorful figures against tricolor geometry. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLPLUGNFT",
+      "status": "rejected",
+      "reason": "Hand-drawn wall-plug frog card. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "WALLSTCROC",
+      "status": "rejected",
+      "reason": "Animated woman portrait with QR codes. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "XFCPFWALLACE",
+      "status": "rejected",
+      "reason": "Football player Wallace trading card. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    },
+    {
+      "original": "WALLPEPE",
+      "asset": "YESCHAD.CITYWALLS",
+      "status": "rejected",
+      "reason": "Low-resolution pixel building/wall object. No distinctive reuse of WALLPEPE frog in conical hat standing beside the Great Wall. Wall/wallet/Wallace/swallow name overlap or shared frog subject alone insufficient.",
+      "evidence_sheet": "sheets/group-WALLPEPE-38.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 51,
+    "accepted": 0,
+    "rejected": 51
+  }
+}

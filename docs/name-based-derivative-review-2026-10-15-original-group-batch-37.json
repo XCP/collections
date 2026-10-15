@@ -1,0 +1,1827 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets, two animation sheets and six enlarged images viewed. Five animations sampled at four spaced positions (both HODLTRUMPS.BROOM frames), not exhaustive longer playback. Canonical XCPFORK JSON recovered without its filename; numeric-ID issuance histories used for coin subassets.",
+  "reviewed": [
+    {
+      "original": "FORKCARD",
+      "volume_usd": 13310.668174788996,
+      "buyers": 35,
+      "candidates": [
+        "BITCOINFORKK",
+        "BTCFORK",
+        "COMMONFORK",
+        "EHARDFORK",
+        "FORKIT",
+        "FORKOFF",
+        "FORKOFF.KING",
+        "FORKOFF.WAR",
+        "FORKONOMY",
+        "FORKPEPE",
+        "FORKWARD",
+        "GUIDEFORKS",
+        "HARDFORKPZ",
+        "HARDPEPEFORK",
+        "PITCHFORKER",
+        "PORKPEPEFORK",
+        "XCPFORK"
+      ]
+    },
+    {
+      "original": "PEPEBROOM",
+      "volume_usd": 4453.847499883587,
+      "buyers": 32,
+      "candidates": [
+        "BROOME",
+        "BROOMONE",
+        "BROOMTWO",
+        "HODLTRUMPS.BROOM"
+      ]
+    },
+    {
+      "original": "CORNTUKTUK",
+      "volume_usd": 3381.161787896,
+      "buyers": 13,
+      "candidates": [
+        "BTCRN.TUKTUK",
+        "NEXGENTUKTUK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "COMMONFORK",
+      "pages": 122,
+      "sampled_frames": [
+        0,
+        40,
+        81,
+        121
+      ]
+    },
+    {
+      "asset": "FORKOFF.WAR",
+      "pages": 36,
+      "sampled_frames": [
+        0,
+        12,
+        23,
+        35
+      ]
+    },
+    {
+      "asset": "GUIDEFORKS",
+      "pages": 238,
+      "sampled_frames": [
+        0,
+        79,
+        158,
+        237
+      ]
+    },
+    {
+      "asset": "PITCHFORKER",
+      "pages": 36,
+      "sampled_frames": [
+        0,
+        12,
+        23,
+        35
+      ]
+    },
+    {
+      "asset": "HODLTRUMPS.BROOM",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "FORKCARD",
+      "asset": "BITCOINFORKK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "BTCFORK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "COMMONFORK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "EHARDFORK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKIT",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKOFF",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKOFF.KING",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKOFF.WAR",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKONOMY",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKPEPE",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "FORKWARD",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "GUIDEFORKS",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "HARDFORKPZ",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "HARDPEPEFORK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "PITCHFORKER",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "PORKPEPEFORK",
+      "status": "rejected",
+      "reason": "Different imagery from the two opposing miners holding the split Bitcoin in The Chasm; fork names, implements and conflict themes alone are insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "FORKCARD",
+      "asset": "XCPFORK",
+      "status": "rejected",
+      "reason": "Enlarged artwork shows a horse and hooded figure around a torn montage, not the miners/split coin. Canonical metadata describes the Counterparty fork without naming FORKCARD. Shared confrontation/fork metaphor is insufficient.",
+      "evidence_sheet": "sheets/group-FORKCARD-0.png"
+    },
+    {
+      "original": "PEPEBROOM",
+      "asset": "BROOME",
+      "status": "rejected",
+      "reason": "Different composition from the broom-wielding Pepe in the hallway; a broom subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEBROOM-0.png"
+    },
+    {
+      "original": "PEPEBROOM",
+      "asset": "BROOMONE",
+      "status": "rejected",
+      "reason": "Different composition from the broom-wielding Pepe in the hallway; a broom subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEBROOM-0.png"
+    },
+    {
+      "original": "PEPEBROOM",
+      "asset": "BROOMTWO",
+      "status": "rejected",
+      "reason": "Different composition from the broom-wielding Pepe in the hallway; a broom subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEBROOM-0.png"
+    },
+    {
+      "original": "PEPEBROOM",
+      "asset": "HODLTRUMPS.BROOM",
+      "status": "rejected",
+      "reason": "Different composition from the broom-wielding Pepe in the hallway; a broom subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEBROOM-0.png"
+    },
+    {
+      "original": "CORNTUKTUK",
+      "asset": "BTCRN.TUKTUK",
+      "status": "ambiguous",
+      "reason": "Not a direct CORNTUKTUK derivative: enlarged image depicts the redesigned NEXGENTUKTUK silver coin, also photographed by NEXGENTUKTUK.SILVERCOIN. The two tokens show the same physical design in different photographs. Existing SILVERCOIN Based on NEXGENTUKTUK retained; whether BTCRN represents another authorized edition or needs a duplicate/physical-object relationship remains unresolved. Do not infer a photo-to-photo derivative merely from chronology.",
+      "evidence_sheet": "sheets/group-CORNTUKTUK-0.png"
+    },
+    {
+      "original": "CORNTUKTUK",
+      "asset": "NEXGENTUKTUK",
+      "status": "accepted",
+      "reason": "Reimagines the distinctive blue corn-loaded tuk-tuk with Pepe driver in the same front-left orientation, now with yellow roof/red trim. The same issuing address describes it as an upgrade to the style and comfort of NG (2021), supporting a next-generation redesign of the 2018 Bitcorn card rather than a generic vehicle match.",
+      "evidence_sheet": "sheets/group-CORNTUKTUK-0.png"
+    }
+  ],
+  "documentary_evidence": {
+    "issuances": [
+      {
+        "asset": "FORKCARD",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "9108cc9c7e8d561d78b80ad596acc0c59e7d23cbabcf1430ee91f3b24a5644e2",
+              "block_index": 834642,
+              "block_time": 1710407121,
+              "source": "1Mn7Bfjj59gB7WrcK6Wt6v3UZ5FLZQmGki",
+              "issuer": "1K8bWLX3THs3KaRTYHsyXLFiLYNNKiTVtx",
+              "transfer": 1,
+              "quantity_normalized": "0",
+              "description": "Spells of Genesis card",
+              "asset_events": "transfer",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "65210ee7bdaa0bfd9350f52b12fe112ff91840c5d149ef13f937226bb9573f07",
+              "block_index": 460228,
+              "block_time": 1491227543,
+              "source": "1Mn7Bfjj59gB7WrcK6Wt6v3UZ5FLZQmGki",
+              "issuer": "1Mn7Bfjj59gB7WrcK6Wt6v3UZ5FLZQmGki",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "Spells of Genesis card",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "4675547e71ba465c0a7bd5dc1a5e2995d888cefa9e9ccb578f9e417f09aecc94",
+              "block_index": 460227,
+              "block_time": 1491226115,
+              "source": "1Mn7Bfjj59gB7WrcK6Wt6v3UZ5FLZQmGki",
+              "issuer": "1Mn7Bfjj59gB7WrcK6Wt6v3UZ5FLZQmGki",
+              "transfer": 0,
+              "quantity_normalized": "600",
+              "description": "Spells of Genesis card",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "XCPFORK",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "e726003ecaee545591779ce7fa7529193a9789134dbeecbbe1ba7b45f8125725",
+              "block_index": 881994,
+              "block_time": 1738509638,
+              "source": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "40",
+              "description": "https://bxgmow3fwz7pbn5oweqyzxooyubalgeau7s4ikjipkdf6oey4eua.arweave.net/DczHW2W2fvC3rrEhjN3OxQIFmICn5cQpKHqGXziY4Sg/XCPFO.json",
+              "asset_events": "reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "91d29826723c0b6686d5ceb7526942afc97c88698bf147f2bca29451b966291a",
+              "block_index": 879617,
+              "block_time": 1737106076,
+              "source": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://bxgmow3fwz7pbn5oweqyzxooyubalgeau7s4ikjipkdf6oey4eua.arweave.net/DczHW2W2fvC3rrEhjN3OxQIFmICn5cQpKHqGXziY4Sg/XCPFO.json",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0191e0fbc78801dfda0d9acb2df1ce6686898b4e1eb59390936d8f6a18ed2cf0",
+              "block_index": 874144,
+              "block_time": 1733858910,
+              "source": "18hARq2fFJxiypHSnZ8yLcbPNpUfaozD8U",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "",
+              "asset_events": "close_fairminter",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0191e0fbc78801dfda0d9acb2df1ce6686898b4e1eb59390936d8f6a18ed2cf0",
+              "block_index": 873981,
+              "block_time": 1733766482,
+              "source": "18hARq2fFJxiypHSnZ8yLcbPNpUfaozD8U",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "990c01e9e90aecd8efc8a7692b4c7fa2d88b790fc32943dd00dc3d021266375c",
+              "block_index": 873981,
+              "block_time": 1733766482,
+              "source": "18hARq2fFJxiypHSnZ8yLcbPNpUfaozD8U",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3f975b90acc30719e574ac941aabd8c646b4e17ac5b9106d511ca256032e7f65",
+              "block_index": 873980,
+              "block_time": 1733766307,
+              "source": "18hARq2fFJxiypHSnZ8yLcbPNpUfaozD8U",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0ea281d6090118d6459d5dc85dd6e1e9a895cb8e611e9aa9c1e31a76c38c6c7f",
+              "block_index": 873963,
+              "block_time": 1733753244,
+              "source": "bc1qn8x3r4t8kt5ynag839k0wwx9wdsc64zqs0a0as",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "7abe555bba18992d3c930e1e0b79dcaa2f7a7f4959c2c8f8981a7b917a7a0962",
+              "block_index": 873595,
+              "block_time": 1733544053,
+              "source": "bc1qrl3wg3z64szx4henk72twqtaj6hwfxd0nqzlq3",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "65473f70c5ea7e271814dbd4b4c98eb9bc466dc5af43144a870acfb67706dd44",
+              "block_index": 873364,
+              "block_time": 1733397152,
+              "source": "1K34PT9SddNECmTxY64Sc6FTnN9G68n4zC",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "37e23dcd1f547e3f656f964b299790fd8efeddbfe37ea71abfe1b76a8ff0a706",
+              "block_index": 872601,
+              "block_time": 1732962274,
+              "source": "1LHRRorfosgn6S8Lg6VWQ7vNFhwsCQy2iC",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3d754cf8703fa1e367ecb23886f85dd929a85a08adb73ee9b14d6fe0f880ae29",
+              "block_index": 872562,
+              "block_time": 1732940809,
+              "source": "12fiPDaZ9Vij8woThLnd51KqPErCHRFt5X",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "cd08bda6936a8eaab06aa7d5af08f2858a7bb5d3b691e7954cc31648d7121c95",
+              "block_index": 872562,
+              "block_time": 1732940809,
+              "source": "12fiPDaZ9Vij8woThLnd51KqPErCHRFt5X",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1e2a8fedf2aba5da04751bd834169a0fc5c2d866804f3c702321aa585c6a6b52",
+              "block_index": 872562,
+              "block_time": 1732940809,
+              "source": "12fiPDaZ9Vij8woThLnd51KqPErCHRFt5X",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "9af44e2ba40e58db939aa40a50cfb5e2b6d45b203ea95f5cde67a92c406ca46d",
+              "block_index": 872449,
+              "block_time": 1732870285,
+              "source": "bc1qcz42wtykytk0n4mpflu84yccc4cxh0czgrefsu",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1936a6f8d37151b3deacb784b385bf20249502cc91f98379674bfec1dde942b3",
+              "block_index": 872448,
+              "block_time": 1732870250,
+              "source": "1DTfyiV2y7f4qZZ23fZdpVYv7Aco365P68",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "ab55598c54c991aa2712cfb01bed957dbb2b0f96b91db75094335bbd4c01892f",
+              "block_index": 872448,
+              "block_time": 1732870250,
+              "source": "bc1qdnlxxp42elnf6zmjsgjcf6lv9055y3ygeh8vn3",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "7738fe304a392c65173c7d72d416007d2a45d80a19f232b4aafd3db8197e5fbe",
+              "block_index": 872353,
+              "block_time": 1732806763,
+              "source": "1E5G4VJRQbPi8bmrmgjBXF5Qnzmw5m9c5m",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "b7bacb46b030bb539ec98ac2cbf55396e8307dda8551ff47b1a44ebaf513e967",
+              "block_index": 871739,
+              "block_time": 1732442617,
+              "source": "bc1q7dqfnhctgm9n77cuc4nxnwd9vkvvnl8d4u9v7a",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "4c03fcc6f86ea83554a6df8b5c95ecbd81483154502e0299646c4bfd60ce08e3",
+              "block_index": 871739,
+              "block_time": 1732442617,
+              "source": "bc1qqwrqm6t96dj2papv3haj0yal3xu52tjkl7s7xd",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "2142cbc463372b4e666ce1efec975d21ed5aaa8a841e1a66b63c634141b6b710",
+              "block_index": 871676,
+              "block_time": 1732399627,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "e4fd7f0e1c12231a4999dc951ef4734b61addcf33ebdd6f849f3bebd88b3f742",
+              "block_index": 871676,
+              "block_time": 1732399627,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "169887ee6e47b9adf8d15252be4924fde143eaaf0668033f5944e5e0997ab1a0",
+              "block_index": 871676,
+              "block_time": 1732399627,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "e9902f96a8c6d276093e192c4f2fa588f77d9331e2b779d23112a46d2a7682b2",
+              "block_index": 871665,
+              "block_time": 1732392086,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "161ee1a8577422ee85e3197c490426eef0e014999654dcf5bebb87deb33a0057",
+              "block_index": 871665,
+              "block_time": 1732392086,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0f5e4a9f531c5e0b84de7a828a9d96be0672dca91f8f1136a363e3cbb8bffb66",
+              "block_index": 871665,
+              "block_time": 1732392086,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "14529b8c034c1e6cc565dcdc9f84a11ea5f222c1f5b2bcf3427f1f70c787a19f",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "6e11626f3b0e279528850648d65fb054c34cf77799d84e25d90f2efd0b20b3eb",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "de75854546ce54f88403cb107c109dd58ad8c93c145303de9582a2040fb4577c",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "46c96c7bca93b3720068d49ae10cecc9ea19a4b2e9f4833d45883cb7f694e718",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "a8bec7473b14ee99fc76f63f77a10e61d52630f27042f97952a0d8e69ea4a23b",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "5f7b9e340a9691fb39ab2d63f447b47971adad696334a4be6ecc4cb2f8cbfa6b",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "c00813b4e46bfd5bc81641b9b5f6d28f67e019ab22621c66d0e9b3d7f0c74cf4",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f84e580aa6bd69c62ad174247fb35c22c1c5e3c61c76bf488549a03cffdad19f",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3eb097e46619761c636002d191fa498e7add1963ef209b61bd069abe0e67680f",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "be4a959124e2607ce33614b041ed08e9f71406436eee1915f2d0620aa33d60c8",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "89606b9eee8be34bd0cc4ff79c4d0882f30569518f3e2654241fe0ff21e57479",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "69e05aef786aa0506f2cfe6aef757fc17de877edc7c9c9d134e309f9b3aa1f98",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "487164a3c7f12b9f1849c8c0cf93bb65add11fa924ea5078d22c95e88d85e6cb",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f83a67da7f905a3b0a0ca826a9f1402f0fc923fd4f47e6eee8b90970616b7804",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "43474c6dae45e1a72b88b7ca0057dc985c023aa786cb254ed1bd4aaafa77f28e",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "56d8d0b002ff374c4099000e51fe3dc9eb996079f2c819b4dd9156703ee60785",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "23df708ad11c0bab19a9a7f0fce2e61708301e6e74dcd8103fd9c09ad42a59ba",
+              "block_index": 871656,
+              "block_time": 1732385755,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "d9c4f83f2a840c483aad68c485b55fa08f6b113d2df0c0ceaa197cadf3d2a435",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0b263ba7234470f2b397123dc91ddde147f2c5437e847d6a3ae16b3d0e3d7ffc",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "20b0bc8e2bdfe48e43f682df5031d51c1f4cf9a129a59c93b604f90fb1dcab6a",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "26f828d18d39753fb190410971e904ea6b704d0386fc6ff27952c74a85f055e3",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "c5497f2bab5539cc37153791555fdea954b268e10f402583dc0bb7352916aa56",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "ebb9641070ff47afc34dd13b700798af0e7bad3c63360f8261308438978a164f",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "88e43e4d931da184fad1d079a70c0ef2db9468caab96e104b80fc53ec06a0717",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "bf2f05507f67b1b2206d105a05c04f0abbe53ce80a33a8595577ab69872e0804",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "188b3350b3a08387425f5cd3debd8a8e6077cf2e0b0226d5b41fdb6045f3605c",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "28d4eca3016e7496c95394151d87b556b124f31c90236eac97c2fec45ac972ce",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0ab87fc9ad73d0b16a25067fbffd2426dc71a3ae393ce143845870ae1d482225",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "587f39fd52bc53aa4abb22638e44648c63b04ad8ae9d5ca4207d59a34cb9d662",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "727b75c7281bbf7afbb596649626481289c1e6a0d1f82675e559a7ac6a7499d2",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "683342df4e904d18b8cd8c8400a2601adb9010f09fa419c24e9e7a65967d2666",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "d57b7835de2194ac0d45f87acd152447c58c128591683cee5694a916939a7cc8",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "dc27983d5810607ab5ebf540bfd29e6f80ee1d72621983344070175a2337686c",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f040967ff600ba16dda467448a5641bbc317780b1f2397e65e3a8e20cf144154",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "54347ccea196881e0416f67247fc5b5e04a0c6e2dc3fd15fcbad1806aba383f8",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "b8c9ff37ca9963f1fe4325b79098f5c4cbd82be556d59aedd50d8ec2856c891e",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qd42wduy7es6z2r5288lclr7475d2adrpcmafjy",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "405cac8f71c91d0960bf315321d3db1c2eb77d7a78cde00db91eda1370599301",
+              "block_index": 871653,
+              "block_time": 1732384299,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "4a44a29738591b066ef1e3b19647d28208e26fd6d3feb6f4cae09a709a4dbe45",
+              "block_index": 871589,
+              "block_time": 1732347294,
+              "source": "bc1q7qy5lkudshsnx947xn7qk83mr5hk4pdu6fx2kd",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "cacec2a726a814aaeeb7ff28897e9f0acd5d8a97cb15bfd366ae990808b01020",
+              "block_index": 871496,
+              "block_time": 1732281692,
+              "source": "13skDdLWDVF8uXnzCJj28ftMeKhBAzQHUY",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "69e5c6e36f532de0805d173723a11ec96b4c90638c7cd2224756aec5649d185a",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "a448cea3f6ee6430dbfdbbcf0f954638ca8a7c67e6a2553f670bc5f0ca0888f7",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "a63f67787119300689bb7dac18d473aabaa3ab5d8e98874b5210ede76194f47d",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0b1ba70c0b8048cb7709a75f5e7c3d028d1074740a8a42ca562c8355442a996c",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "cf0d9ac701d683c77bd146b4c36adac730463797b108fa7b30111fb22a848dba",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "c336bd8fa876847514dde7c1932b684a9859fc26d58483e919b4a5b9a64b889d",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "cd556a27e8475efd71297e498a02c36d54b95e5c0441e52335088312af6dbc29",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "64d286022f5834ed072582604f7d509f506dcd50eed430646fcfe49395ad4f6f",
+              "block_index": 871409,
+              "block_time": 1732233941,
+              "source": "bc1qyz8tg7xenaqk3epu9xmv2zfemumemqdkfv2u9p",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "33ef75a11e22c082971ca1d69f6d78b9976bf770ebd7649d76bcd873594ed331",
+              "block_index": 870891,
+              "block_time": 1731950666,
+              "source": "bc1qdnlxxp42elnf6zmjsgjcf6lv9055y3ygeh8vn3",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "12350df136f540e5c66ba743f1775983745e9ecca2a4bc1a6f3b11008d747aeb",
+              "block_index": 870865,
+              "block_time": 1731935860,
+              "source": "bc1qdnlxxp42elnf6zmjsgjcf6lv9055y3ygeh8vn3",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "5800a6ec19712d1cfc076de2d60459fb7370b5f85cb6d6d4b83fc6b62ed55fba",
+              "block_index": 870777,
+              "block_time": 1731882480,
+              "source": "bc1qneuanc0fs3v9jhezwx7jwge660jk42jrejmes4",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "6a9c588cbf9ee03a79538a92f2f314fa5675925233561d689f705fb7c1633571",
+              "block_index": 870732,
+              "block_time": 1731856650,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "24a902ef344089f0313ae19102f6aad7173c895f301e51fabd1f794926614e01",
+              "block_index": 870732,
+              "block_time": 1731856650,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "c1f89d9bb24fa82fff445ff086cbccc20a5f33a38ab6feb729b4f93dca494da8",
+              "block_index": 870683,
+              "block_time": 1731826755,
+              "source": "bc1qcwnczvygtd5exzdhwspsjuz84d58n9c4vus8t9",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "7ee735f89806d6e32dbb9b7c979fb9dddf51508de993f43c5e5a226212fda5db",
+              "block_index": 870683,
+              "block_time": 1731826755,
+              "source": "bc1qcwnczvygtd5exzdhwspsjuz84d58n9c4vus8t9",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "277a85db51b3c4cd199e6c8e4a952136fb300d30b49303355b80a69e79b98cb8",
+              "block_index": 870683,
+              "block_time": 1731826755,
+              "source": "bc1qcwnczvygtd5exzdhwspsjuz84d58n9c4vus8t9",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "9f6a94dcd73feaf56842539dfd30d992519fe6d718cfe76a32d22a6024a32d02",
+              "block_index": 869612,
+              "block_time": 1731184411,
+              "source": "bc1qneuanc0fs3v9jhezwx7jwge660jk42jrejmes4",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f7ef557482775acffa65c9fd56a68b3bd95235e2f2029e3718258f5c64610483",
+              "block_index": 869148,
+              "block_time": 1730910229,
+              "source": "bc1qu2h3hjpda5ha07m8q4hwqjmsl73073wnx57e0l",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f2560cedf30d4ae04aebc38f4b5defba3b049e9f5159a37099b1d31c74df0ff5",
+              "block_index": 869146,
+              "block_time": 1730909495,
+              "source": "bc1q7dqfnhctgm9n77cuc4nxnwd9vkvvnl8d4u9v7a",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "c9dc81f8924655c0674b7f2916f3c2f04e212bad55fe3fd6b95f43cf99c1014e",
+              "block_index": 869032,
+              "block_time": 1730844757,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "6a6cce0af1bb8bddce17c2b9ef2c66bad56b2c856b7e53050524d866b1ebddb9",
+              "block_index": 869032,
+              "block_time": 1730844757,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f7e7da47f54df1db4b7ee319b4df0ad7df32d15906922f0a18194e2aae5da1a8",
+              "block_index": 869032,
+              "block_time": 1730844757,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f5ea2a99b6313b3fd068f957d22a6f05a65b158380dd28eaa7d4ccd2e4cd717d",
+              "block_index": 869032,
+              "block_time": 1730844757,
+              "source": "bc1qmz0h639ys2n35hkzl6hczcty6n2kwkf9xn9lps",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "2840719a9f899d877b882d9e5369ee25fa2e1b666d1e4dc671e6a6d6b8266c41",
+              "block_index": 869032,
+              "block_time": 1730844757,
+              "source": "bc1qjz6ucqf0ppz29lsa6e78mee7259lcngt32y2r7",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "ae00b751f2c3675e36ef3c3088a3d0c74cd6b8c6b7f1ee69d124ece241644fe2",
+              "block_index": 868835,
+              "block_time": 1730725388,
+              "source": "bc1qzlf40tda29n9sszfvwekv9662s3grj5q89xy9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "4b645e0fc41da7f09b03f190a572570642d8dc08db8c44ac0070857157cedac8",
+              "block_index": 868756,
+              "block_time": 1730679327,
+              "source": "1E6tyJ2zCyX74XgEK8t9iNMjxjNVLCGR1u",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1802b28310a52420c397ac926784ef691a27a90d55e27b68ffd28e8bd21b6af7",
+              "block_index": 868703,
+              "block_time": 1730646514,
+              "source": "1LSbNkNGUidmQavQPqbqPR1MxqmHzwwEuY",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1c352053dde08e497bf89d127ffa0a4473fe886ef30817d91a58838aa82b4675",
+              "block_index": 868656,
+              "block_time": 1730614926,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "efac335f8ed2bb6ad3985911fe355707ad8eaa42e834a4d7fe8f4d76a975f0b1",
+              "block_index": 868656,
+              "block_time": 1730614926,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "a74d758d12ec973197cad180c82bbec1e788bfd81fefba3031e76a007d12b9a9",
+              "block_index": 868656,
+              "block_time": 1730614926,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "a8c718aed0d55335044f4912940785ea18e835b65f6e4d72131c056230378398",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qcjpr6qktw3ftln6paqn0fqlv9hpe7tsazfw7kl",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "b8c5ecd21a4dae14ae2ec8619c0a1c5491ffd853ca7c92171cf4b6c1bdc4a414",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "50b5ca8c0e96367292016211c045c26e0fa61254841dff943de7b996bcd40054",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3ce56ca813ba421b1237be77de359b100fd53439f4fe04d95906c44009b5e1ff",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "84f315af9e18dd1ae700af98b0df65806b9fe94542d8d445dbd920bff2940246",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3eee10da3041cf01701351ea524b75376c1dc814c36cd1633b428da358b4b4a3",
+              "block_index": 868639,
+              "block_time": 1730599634,
+              "source": "bc1qxl2ut3yrts7jg9kfgprcxlqlucw289flu2tm9g",
+              "issuer": "1743a5JGZajupnianXYq46MfrqGnZDy5wD",
+              "transfer": 0,
+              "quantity_normalized": "5",
+              "description": "",
+              "asset_events": "fairmint",
+              "status": "valid"
+            }
+          ],
+          "next_offset": 100
+        }
+      },
+      {
+        "asset": "CORNTUKTUK",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "d61ac77c7ef4e963ce81028d13b245cf219f1dde1367fd7af747eea6cd7944f8",
+              "block_index": 519308,
+              "block_time": 1524343590,
+              "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "11bb37e962d453c1b52c4e0d10b1937e9cdc6861d38c9e10809feb5b2c00d0e7",
+              "block_index": 519282,
+              "block_time": 1524329099,
+              "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "transfer": 0,
+              "quantity_normalized": "64",
+              "description": "",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "BTCRN.TUKTUK",
+        "issuances": {
+          "result": [],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "NEXGENTUKTUK",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "53cb8d14990d04d50cf9c26145ae89bca22c1539d66363285906e5e3538977d7",
+              "block_index": 708477,
+              "block_time": 1636200910,
+              "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "upgrade to the style and comfort of NG",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "b32dce9502b3744fa308317bffc961ac242c9abd55961974174e21a25330e1c0",
+              "block_index": 708474,
+              "block_time": 1636199693,
+              "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+              "transfer": 0,
+              "quantity_normalized": "16",
+              "description": "upgrade to the style and comfort of NG",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ],
+    "extra": {
+      "info": {
+        "result": {
+          "asset": "A5997682902501931849",
+          "asset_longname": "BTCRN.TUKTUK",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+          "owner": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "10",
+          "supply_normalized": "10",
+          "description": "imgur/fCg1nSD.jpeg;BTCRN.TukTuk",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 724660,
+          "last_issuance_block_index": 724712,
+          "first_issuance_block_time": 1645651701,
+          "last_issuance_block_time": 1645682546,
+          "updated_at": 0,
+          "holder_count": 6,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "0",
+          "escrow_normalized": "0",
+          "circulating": "10",
+          "circulating_normalized": "10",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 0,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 7,
+            "fairmints": 0,
+            "dividends": 3,
+            "destructions": 0,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 147
+          },
+          "cohesion": null,
+          "conviction": null
+        }
+      },
+      "iss": {
+        "result": [
+          {
+            "tx_hash": "02f3865f7fd4b9bfa73114e6d3dcd5cf88d48932f5985eb947393f36efa3305a",
+            "block_index": 724712,
+            "block_time": 1645682546,
+            "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+            "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/fCg1nSD.jpeg;BTCRN.TukTuk",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e805a334bd3d6d401370eac104f49e434bc29bd3d6e7a34f9ad40e8f0cb7d254",
+            "block_index": 724660,
+            "block_time": 1645651701,
+            "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+            "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+            "transfer": 0,
+            "quantity_normalized": "10",
+            "description": "imgur/fCg1nSD.jpeg;BTCRN.TukTuk",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "meta": [
+        {
+          "url": "https://arweave.net/DczHW2W2fvC3rrEhjN3OxQIFmICn5cQpKHqGXziY4Sg",
+          "status": 200,
+          "text": "{\n  \"success\": true,\n  \"asset\": \"XCPFORK\",\n  \"image\": \"https://arweave.net/uMmqqhOBLK3sT_cQRA_yM-4DgvHXhXQF8d5bHYpo754/o94z52_thumb.png\",\n  \"image_title\": \"XCPFORK\",\n  \"description\": \" <br /><img src=\\\"https://arweave.net/9SoTUrsv_AhduObY0w-25X7r3YC1dZX2RplY1bAGkE0/o94z52_image.png\\\" class=\\\"img-responsive\\\" /><br />   <div><p>The Counterparty Blockchain has reached a historic moment&mdash;The Fork&mdash;a split that forever altered the course of its decentralized history. This pivotal event, marked by innovation and upheaval, is immortalized in XCPFORK, a digital artifact forever etched into the blockchain.<br /><br />The artwork tells the story of transformation. On one side, the steed, unyielding and relentless, represents the immovable force of tradition, continuity, and the established rules of the ecosystem. Its fiery gaze and unwavering stance embody the enduring spirit of Counterparty&rsquo;s foundation. Opposite the steed stands a figure caught in a moment of profound transformation&mdash;their rage, passion, and resolve reflecting the turbulence of change. They are the harbinger of the new path, reshaping the blockchain&rsquo;s destiny with a fury that cannot be ignored.<br /><br />Between them, a violent fissure tears through the fabric of reality, exposing a vivid and chaotic tapestry of the Counterparty community&rsquo;s soul&mdash;meme icons, blockchain relics, and digital legends emerge as the essence of this historic split. This rift is the Fork itself: a bold divergence where innovation meets preservation.<br /><br />XCPFORK is more than an asset. It is a timestamp of revolution, a testament to the Counterparty community's spirit during this transformative era. Ownership of this token symbolizes not just a place in history, but a role in shaping the blockchain&rsquo;s future.</p></div>\",\n  \"website\": \"\",\n  \"pgpsig\": \"\",\n  \"category\": \"Cause or Community\",\n  \"subcategory\": \"NFT\",\n  \"category_custom\": \"\",\n  \"name\": \"XCPFORK\",\n  \"contact_address_line_1\": \"\",\n  \"contact_address_line_2\": \"\",\n  \"contact_city\": \"\",\n  \"contact_state_province\": \"\",\n  \"contact_country\": \"\",\n  \"contact_postal_code\": \"\",\n  \"contact_phone\": \"\",\n  \"contact_fax\": \"\",\n  \"contact_email1\": \"\",\n  \"contact_email2\": \"\",\n  \"website_alternate1\": \"\",\n  \"website_alternate2\": \"\",\n  \"website_social_facebook\": \"\",\n  \"website_social_twitter\": \"\",\n  \"website_social_linkedin\": \"\",\n  \"website_social_github\": \"\",\n  \"website_social_reddit\": \"\",\n  \"website_social_googleplus\": \"\",\n  \"minted_on\": \"https://easyasset.art/\",\n  \"image_large\": \"https://arweave.net/9SoTUrsv_AhduObY0w-25X7r3YC1dZX2RplY1bAGkE0/o94z52_image.png\",\n  \"image_large_hd\": \"\",\n  \"video\": \"\",\n  \"audio\": \"\"\n}"
+        }
+      ]
+    },
+    "silvercoin": {
+      "info": {
+        "result": {
+          "asset": "A13594187579285499535",
+          "asset_longname": "NEXGENTUKTUK.SILVERCOIN",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+          "owner": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "15",
+          "supply_normalized": "15",
+          "description": "imgur/xB7vPOc.jpg;NEXGENTUKTUK.SILVERCOIN",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 718680,
+          "last_issuance_block_index": 721239,
+          "first_issuance_block_time": 1642185800,
+          "last_issuance_block_time": 1643662553,
+          "updated_at": 0,
+          "holder_count": 8,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "0",
+          "escrow_normalized": "0",
+          "circulating": "15",
+          "circulating_normalized": "15",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 3,
+            "dispensers": 0,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 9,
+            "fairmints": 0,
+            "dividends": 0,
+            "destructions": 0,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 116
+          },
+          "cohesion": null,
+          "conviction": null
+        }
+      },
+      "iss": {
+        "result": [
+          {
+            "tx_hash": "9e5bd17211a779e5cc0226383c69a22d8e5305ab8ea568805b5761c69316400f",
+            "block_index": 721239,
+            "block_time": 1643662553,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/xB7vPOc.jpg;NEXGENTUKTUK.SILVERCOIN",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "facd759bcaa07943604531b7f08a82107a5cf787bb0ff915e330186352bb9ba6",
+            "block_index": 721238,
+            "block_time": 1643661946,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "fddb371e738d181ef342aa64d9b86098964f67f9542458bf83afe96e6bcade15",
+            "block_index": 718680,
+            "block_time": 1642185800,
+            "source": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "issuer": "17TkmnxyBmtGBRgiQ4Y8Wa8HYYz6WWUtLj",
+            "transfer": 0,
+            "quantity_normalized": "15",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  },
+  "summary": {
+    "comparisons": 23,
+    "accepted": 1,
+    "rejected": 21,
+    "ambiguous": 1
+  }
+}

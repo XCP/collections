@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame grouped sheets and two animation sheets visually inspected. Four animations including PEPEAMD original sampled at four spaced positions; not exhaustive playback. All decisions are source-specific.",
+  "reviewed": [
+    {
+      "original": "PROOFOFPEPE",
+      "volume_usd": 24313.6215169563,
+      "buyers": 26,
+      "candidates": [
+        "GOLDASANOHA.PROOFOFWORK",
+        "MOONFROG.PROOFOFDONATIONRULES",
+        "PROOFOFBYRNE",
+        "PROOFOFCHAD",
+        "PROOFOFMIND",
+        "PROOFOFPEP",
+        "PROOFOFPEP.MIAMI.PINK",
+        "PROOFOFSHIT",
+        "PROOFOFTROL",
+        "PROOFOFTROLL",
+        "PROOFOFVISIT.EXPO2020",
+        "PROOFOFWOJAK",
+        "PROOFOFWOKE",
+        "PROOFOFWORKS"
+      ]
+    },
+    {
+      "original": "PEPEAMD",
+      "volume_usd": 23916.44472772177,
+      "buyers": 319,
+      "candidates": [
+        "DANKSYSTYLE.DREAMDANKSY",
+        "SCAMDANKMAN",
+        "SCREAMDANK",
+        "SCREAMDOGE",
+        "SLAMDANK",
+        "SLAMDUNKPEPE",
+        "SPAMDENZA"
+      ]
+    },
+    {
+      "original": "SAPPHIRECARD",
+      "volume_usd": 24042.89667297635,
+      "buyers": 58,
+      "candidates": [
+        "SAPPHIREELF"
+      ]
+    },
+    {
+      "original": "PEPEAMAZING",
+      "volume_usd": 23537.239468410135,
+      "buyers": 49,
+      "candidates": [
+        "ISAMAZING"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PROOFOFWORKS",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "PROOFOFWOJAK",
+      "pages": 270,
+      "sampled_frames": [
+        0,
+        90,
+        179,
+        269
+      ]
+    },
+    {
+      "asset": "PEPEAMD",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "SLAMDUNKPEPE",
+      "pages": 46,
+      "sampled_frames": [
+        0,
+        15,
+        30,
+        45
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "GOLDASANOHA.PROOFOFWORK",
+      "status": "rejected",
+      "reason": "Gold geometric texture dissolving into fragments. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "MOONFROG.PROOFOFDONATIONRULES",
+      "status": "rejected",
+      "reason": "Text donation instructions. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFBYRNE",
+      "status": "rejected",
+      "reason": "Byrne portrait with overlaid text. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFCHAD",
+      "status": "rejected",
+      "reason": "Muscular green figures in game card. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFMIND",
+      "status": "rejected",
+      "reason": "Hooded faceless figure with crypto icons. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFPEP",
+      "status": "rejected",
+      "reason": "Embroidery machine design proof and stitch data. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFPEP.MIAMI.PINK",
+      "status": "rejected",
+      "reason": "Pink embroidery machine design proof and stitch data. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFSHIT",
+      "status": "rejected",
+      "reason": "Ape portrait with ETH3.0 placard. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFTROL",
+      "status": "rejected",
+      "reason": "Troll at computer. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFTROLL",
+      "status": "rejected",
+      "reason": "Hand-drawn thin troll. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFVISIT.EXPO2020",
+      "status": "rejected",
+      "reason": "Gold circular Expo-style emblem. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFWOJAK",
+      "status": "rejected",
+      "reason": "Framed time-lapse painting of head. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFWOKE",
+      "status": "rejected",
+      "reason": "Wojak writing pronouns at blackboard. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PROOFOFPEPE",
+      "asset": "PROOFOFWORKS",
+      "status": "rejected",
+      "reason": "Animated fiery red/yellow texture with title. No specific reuse of the source leaping Bitcoin-emblazoned green frog among smaller colorful frogs on green rays in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PROOFOFPEPE-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "DANKSYSTYLE.DREAMDANKSY",
+      "status": "rejected",
+      "reason": "Cancelled dreams wall-art scene. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SCAMDANKMAN",
+      "status": "rejected",
+      "reason": "Frauds magazine parody portrait. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SCREAMDANK",
+      "status": "rejected",
+      "reason": "Munch-style scream composition. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SCREAMDOGE",
+      "status": "rejected",
+      "reason": "Doge in Munch painting. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SLAMDANK",
+      "status": "rejected",
+      "reason": "Basketball-playing frogs. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SLAMDUNKPEPE",
+      "status": "rejected",
+      "reason": "Space basketball card and particle effects. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "PEPEAMD",
+      "asset": "SPAMDENZA",
+      "status": "rejected",
+      "reason": "Abstract patterned green composition. No specific reuse of the source red Pepe with mining hardware, coin background and hashrate gauges in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMD-0.png"
+    },
+    {
+      "original": "SAPPHIRECARD",
+      "asset": "SAPPHIREELF",
+      "status": "rejected",
+      "reason": "Armored elf in rocky landscape, different SoG illustration from source blue dragon. No specific reuse of the source blue dragon crouching in crystalline environment in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-SAPPHIRECARD-0.png"
+    },
+    {
+      "original": "PEPEAMAZING",
+      "asset": "ISAMAZING",
+      "status": "rejected",
+      "reason": "Grid of colorful faces with Art Is Amazing text. No specific reuse of the source neon retro car and standing jacketed Pepe in inspected imagery; common names, themes or card frames insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMAZING-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 23,
+    "accepted": 0,
+    "rejected": 23
+  }
+}

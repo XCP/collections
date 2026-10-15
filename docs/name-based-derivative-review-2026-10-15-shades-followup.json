@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-15",
+  "method": "Resolved earlier low-resolution visual hold using live on-chain linked metadata from Coindaddy and xcpio-core issuance history. Enlarged green color-field image inspected in batch79. No higher-resolution image recovered and no CDN changes made.",
+  "decisions": [
+    {
+      "original": "PEPESHADES",
+      "asset": "SHADESOFPEPE",
+      "status": "rejected",
+      "reason": "On-chain linked metadata explicitly describes a Mark Rothko Shades of Red rework with a Pepe theme. Visible green color fields align with that description, not the source PEPESHADES pair of sunglasses portraits. No card-specific reuse supported."
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "PEPESHADES",
+      "asset": "SHADESOFPEPE",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-79.json",
+      "resolution": "Rejected after source-linked metadata identifies external Rothko influence."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://xcp.coindaddy.io/SHADESOFPEPE.json",
+      "status": 200,
+      "metadata": {
+        "asset": "SHADESOFPEPE",
+        "image": "https://coindaddy.io/content/images/icons/xcp/SHADESOFPEPE.png",
+        "description": "Riffing on the world famous Mark Rothko work Shades of Red, this is a rework with a Pepe theme in mind."
+      }
+    },
+    {
+      "url": "https://api.xcp.io/v2/assets/SHADESOFPEPE/issuances?limit=100",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "a705124b88c711205546b883634f4eec1ec2c6802c186c25eb0e3ae11ccbda53",
+            "block_index": 736463,
+            "block_time": 1652607441,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/SHADESOFPEPE.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "ccc282e222ccd7d3454ecb1dc079cff069c117784a99431528310ae05b4bf60e",
+            "block_index": 736460,
+            "block_time": 1652605986,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/SHADESOFPEPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e8124222449ca04c2be52bbbd1879c7bd76f66f87bdaeaa3132fcd750c4438cd",
+            "block_index": 736457,
+            "block_time": 1652604323,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "35",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "resolved": 1,
+    "accepted": 0,
+    "rejected": 1
+  }
+}

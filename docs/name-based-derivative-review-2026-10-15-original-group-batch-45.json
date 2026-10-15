@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame grouped sheets and two animation sheets viewed. FAKEGRAFFITI sampled at four spaced positions, not exhaustive playback; both HODLTRUMPS.MYSTERYBOX frames viewed. FAKEGIANTS full CDN response fetched and viewed separately: HTTP200 300x180 Counterparty logo placeholder.",
+  "reviewed": [
+    {
+      "original": "GIANTCARD",
+      "volume_usd": 2391.311191993482,
+      "buyers": 23,
+      "candidates": [
+        "FAKEGIANTS",
+        "GIANTS",
+        "PEPEGIANT",
+        "PEPETHEGIANT",
+        "PHOCKPARK.GIANTDOUCHE"
+      ]
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "volume_usd": 13436.192777524446,
+      "buyers": 14,
+      "candidates": [
+        "BTCGRAFFITI.1",
+        "BTCGRAFFITI.2",
+        "BTCGRAFFITI.3",
+        "FAKEGRAFFITI",
+        "THEGRAFFITI"
+      ]
+    },
+    {
+      "original": "MYSTERYPEPE",
+      "volume_usd": 8899.617669218364,
+      "buyers": 133,
+      "candidates": [
+        "BLACKBOX.2021.MYSTERY_LISTING_B",
+        "HODLTRUMPS.MYSTERYBOX",
+        "MYSTERYCARD",
+        "MYSTERYDECK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKEGRAFFITI",
+      "pages": 120,
+      "sampled_frames": [
+        0,
+        40,
+        79,
+        119
+      ]
+    },
+    {
+      "asset": "HODLTRUMPS.MYSTERYBOX",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "GIANTCARD",
+      "asset": "FAKEGIANTS",
+      "status": "media_blocked",
+      "reason": "CDN full endpoint returns only a 300x180 Counterparty-logo placeholder; no actual artwork available to compare.",
+      "evidence_sheet": "sheets/group-GIANTCARD-0.png"
+    },
+    {
+      "original": "GIANTCARD",
+      "asset": "GIANTS",
+      "status": "rejected",
+      "reason": "No reuse of the bearded giant standing in a mountainous landscape with a large stone hammer. Other giant figures, helmet, graphic face and pixel object differ.",
+      "evidence_sheet": "sheets/group-GIANTCARD-0.png"
+    },
+    {
+      "original": "GIANTCARD",
+      "asset": "PEPEGIANT",
+      "status": "rejected",
+      "reason": "No reuse of the bearded giant standing in a mountainous landscape with a large stone hammer. Other giant figures, helmet, graphic face and pixel object differ.",
+      "evidence_sheet": "sheets/group-GIANTCARD-0.png"
+    },
+    {
+      "original": "GIANTCARD",
+      "asset": "PEPETHEGIANT",
+      "status": "rejected",
+      "reason": "No reuse of the bearded giant standing in a mountainous landscape with a large stone hammer. Other giant figures, helmet, graphic face and pixel object differ.",
+      "evidence_sheet": "sheets/group-GIANTCARD-0.png"
+    },
+    {
+      "original": "GIANTCARD",
+      "asset": "PHOCKPARK.GIANTDOUCHE",
+      "status": "rejected",
+      "reason": "No reuse of the bearded giant standing in a mountainous landscape with a large stone hammer. Other giant figures, helmet, graphic face and pixel object differ.",
+      "evidence_sheet": "sheets/group-GIANTCARD-0.png"
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "asset": "BTCGRAFFITI.1",
+      "status": "rejected",
+      "reason": "No reuse of the distinctive green spray-painted face on creased brown cardboard. Other Bitcoin graffiti, painted walls and cartoon figures differ in inspected frames.",
+      "evidence_sheet": "sheets/group-GRAFFITIPEPE-0.png"
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "asset": "BTCGRAFFITI.2",
+      "status": "rejected",
+      "reason": "No reuse of the distinctive green spray-painted face on creased brown cardboard. Other Bitcoin graffiti, painted walls and cartoon figures differ in inspected frames.",
+      "evidence_sheet": "sheets/group-GRAFFITIPEPE-0.png"
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "asset": "BTCGRAFFITI.3",
+      "status": "rejected",
+      "reason": "No reuse of the distinctive green spray-painted face on creased brown cardboard. Other Bitcoin graffiti, painted walls and cartoon figures differ in inspected frames.",
+      "evidence_sheet": "sheets/group-GRAFFITIPEPE-0.png"
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "asset": "FAKEGRAFFITI",
+      "status": "rejected",
+      "reason": "No reuse of the distinctive green spray-painted face on creased brown cardboard. Other Bitcoin graffiti, painted walls and cartoon figures differ in inspected frames.",
+      "evidence_sheet": "sheets/group-GRAFFITIPEPE-0.png"
+    },
+    {
+      "original": "GRAFFITIPEPE",
+      "asset": "THEGRAFFITI",
+      "status": "rejected",
+      "reason": "No reuse of the distinctive green spray-painted face on creased brown cardboard. Other Bitcoin graffiti, painted walls and cartoon figures differ in inspected frames.",
+      "evidence_sheet": "sheets/group-GRAFFITIPEPE-0.png"
+    },
+    {
+      "original": "MYSTERYPEPE",
+      "asset": "BLACKBOX.2021.MYSTERY_LISTING_B",
+      "status": "rejected",
+      "reason": "No reuse of the black-and-white trench-coated, hat-wearing smoking detective silhouette. Mystery boxes, question marks, camel and monkey scenes differ.",
+      "evidence_sheet": "sheets/group-MYSTERYPEPE-0.png"
+    },
+    {
+      "original": "MYSTERYPEPE",
+      "asset": "HODLTRUMPS.MYSTERYBOX",
+      "status": "rejected",
+      "reason": "No reuse of the black-and-white trench-coated, hat-wearing smoking detective silhouette. Mystery boxes, question marks, camel and monkey scenes differ.",
+      "evidence_sheet": "sheets/group-MYSTERYPEPE-0.png"
+    },
+    {
+      "original": "MYSTERYPEPE",
+      "asset": "MYSTERYCARD",
+      "status": "rejected",
+      "reason": "No reuse of the black-and-white trench-coated, hat-wearing smoking detective silhouette. Mystery boxes, question marks, camel and monkey scenes differ.",
+      "evidence_sheet": "sheets/group-MYSTERYPEPE-0.png"
+    },
+    {
+      "original": "MYSTERYPEPE",
+      "asset": "MYSTERYDECK",
+      "status": "rejected",
+      "reason": "No reuse of the black-and-white trench-coated, hat-wearing smoking detective silhouette. Mystery boxes, question marks, camel and monkey scenes differ.",
+      "evidence_sheet": "sheets/group-MYSTERYPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 13,
+    "media_blocked": 1
+  }
+}

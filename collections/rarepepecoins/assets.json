@@ -28,7 +28,13 @@
       "asset": "PEPEIII"
     },
     {
-      "asset": "PEPEYES"
+      "asset": "PEPEYES",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEYE"
+        }
+      ]
     },
     {
       "asset": "PUREPEYE",

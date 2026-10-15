@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-15",
+  "method": "Two original-to-many first-frame sheets and four animation sheets inspected. Thirteen animations sampled at four spaced positions, all four DEVTHSMOWL and SMOWLRIO frames inspected. Longer animations not exhaustively reviewed. All outcomes limited to OWLPEPE.",
+  "reviewed": [
+    {
+      "original": "OWLPEPE",
+      "volume_usd": 22919.803782435964,
+      "buyers": 51,
+      "candidates": [
+        "BIGGIESMOWLS",
+        "BOWLPEPE",
+        "CROWLEYBURN",
+        "CROWLEYPEPE",
+        "CROWLEYPEPE.OLDCROWLEYPEPE",
+        "CROWLEYPEPE.SUMMONCROWLEY",
+        "DANKBOWLER",
+        "DEVTHSMOWL",
+        "DJPEPEBADGER.THE-RED-SMOWL-BADGER",
+        "DOGBOWL",
+        "FAKESMOWL",
+        "GROWLITHE",
+        "JKROWLING",
+        "OWLCOIN",
+        "OWLDINALS",
+        "OWLET",
+        "OWLRANGER",
+        "PEPECROWLEY",
+        "PEPEWILDFROG.TOILETBOWLPAINT",
+        "SKULLHOWL",
+        "SMOWLBOBO",
+        "SMOWLCANO",
+        "SMOWLDONALD",
+        "SMOWLGUARO",
+        "SMOWLPAINT",
+        "SMOWLRIO",
+        "TLKNOWLEDGE",
+        "WENSMOWLAMBO"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CROWLEYPEPE.OLDCROWLEYPEPE",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "BOWLPEPE",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "CROWLEYPEPE",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    },
+    {
+      "asset": "CROWLEYPEPE.SUMMONCROWLEY",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "BIGGIESMOWLS",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "JKROWLING",
+      "pages": 15,
+      "sampled_frames": [
+        0,
+        5,
+        9,
+        14
+      ]
+    },
+    {
+      "asset": "DJPEPEBADGER.THE-RED-SMOWL-BADGER",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "DEVTHSMOWL",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "SMOWLDONALD",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "WENSMOWLAMBO",
+      "pages": 66,
+      "sampled_frames": [
+        0,
+        22,
+        43,
+        65
+      ]
+    },
+    {
+      "asset": "SMOWLPAINT",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    },
+    {
+      "asset": "SMOWLRIO",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "TLKNOWLEDGE",
+      "pages": 71,
+      "sampled_frames": [
+        0,
+        23,
+        47,
+        70
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "OWLPEPE",
+      "asset": "BIGGIESMOWLS",
+      "status": "rejected",
+      "reason": "Crowned pixel portrait. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "BOWLPEPE",
+      "status": "rejected",
+      "reason": "Bowling alley animation. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "CROWLEYBURN",
+      "status": "rejected",
+      "reason": "Red occult portrait with frog fish. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "CROWLEYPEPE",
+      "status": "rejected",
+      "reason": "Crowley-style portrait and occult card. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "CROWLEYPEPE.OLDCROWLEYPEPE",
+      "status": "rejected",
+      "reason": "Bald occult portrait in profile. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "CROWLEYPEPE.SUMMONCROWLEY",
+      "status": "rejected",
+      "reason": "Distorted Crowley card animation. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "DANKBOWLER",
+      "status": "rejected",
+      "reason": "Bowler-hatted man with bird across face. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "DEVTHSMOWL",
+      "status": "rejected",
+      "reason": "Dark round character with flaming crown. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "DJPEPEBADGER.THE-RED-SMOWL-BADGER",
+      "status": "rejected",
+      "reason": "Badger in cave. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "DOGBOWL",
+      "status": "rejected",
+      "reason": "Photograph of pet bowl. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "FAKESMOWL",
+      "status": "rejected",
+      "reason": "Hand-drawn frog face card. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "GROWLITHE",
+      "status": "rejected",
+      "reason": "Pokemon-style fiery dog card. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "JKROWLING",
+      "status": "rejected",
+      "reason": "Frog-headed author holding book. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "OWLCOIN",
+      "status": "rejected",
+      "reason": "Dark owl coin design. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "OWLDINALS",
+      "status": "rejected",
+      "reason": "Hooded owl portrait. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "OWLET",
+      "status": "rejected",
+      "reason": "Photograph of adult and young owls. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "OWLRANGER",
+      "status": "rejected",
+      "reason": "Fantasy woman and flying owl. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "PEPECROWLEY",
+      "status": "rejected",
+      "reason": "Occult portrait collage. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "PEPEWILDFROG.TOILETBOWLPAINT",
+      "status": "rejected",
+      "reason": "Decorated toilet-seat artwork. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-0.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SKULLHOWL",
+      "status": "rejected",
+      "reason": "Howling skull. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLBOBO",
+      "status": "rejected",
+      "reason": "Pixel bear portrait. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLCANO",
+      "status": "rejected",
+      "reason": "Sludge-like volcanic character. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLDONALD",
+      "status": "rejected",
+      "reason": "Gold-clad round character. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLGUARO",
+      "status": "rejected",
+      "reason": "Cactus-like frog on hand. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLPAINT",
+      "status": "rejected",
+      "reason": "Frog dancing in paint-software window. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "SMOWLRIO",
+      "status": "rejected",
+      "reason": "Mario-style game scene. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "TLKNOWLEDGE",
+      "status": "rejected",
+      "reason": "Frog-headed man by car. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    },
+    {
+      "original": "OWLPEPE",
+      "asset": "WENSMOWLAMBO",
+      "status": "rejected",
+      "reason": "Pixel character in Lamborghini. No distinctive reuse of OWLPEPE drawing of two frog-faced owls on a branch in inspected imagery. Substring matches and owl subject alone insufficient.",
+      "evidence_sheet": "sheets/group-OWLPEPE-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 28,
+    "accepted": 0,
+    "rejected": 28
+  }
+}

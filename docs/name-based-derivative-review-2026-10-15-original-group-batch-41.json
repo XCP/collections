@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame grouped sheets and two animation sheets viewed. Seven animations sampled at four spaced positions, not exhaustive playback. Rejections concern the specified original and inspected material, not every possible source.",
+  "reviewed": [
+    {
+      "original": "CROWCARD",
+      "volume_usd": 8952.933716101523,
+      "buyers": 89,
+      "candidates": [
+        "CORRUPTCROWE",
+        "CROWGANGSTER",
+        "CROWLEYBURN",
+        "CROWLEYPEPE.OLDCROWLEYPEPE",
+        "CROWLEYPEPE.SUMMONCROWLEY",
+        "CROWNBOY",
+        "CROWNPEPE",
+        "CROWWARRIOR",
+        "FAUXKING.KINGSCROWN",
+        "JOURNEYPAINT.MICROWAVEPOTATOEZ",
+        "MURDEROCROWS",
+        "PEPECROW",
+        "PEPESCROW",
+        "PHOCKVILLAIN.SCARECROW",
+        "PIGECROW",
+        "SCARECROWCD",
+        "THESCARECROW"
+      ]
+    },
+    {
+      "original": "VIRUSPEPE",
+      "volume_usd": 8408.989228398112,
+      "buyers": 51,
+      "candidates": [
+        "CORNAVIRUS",
+        "CORNAVIRUS.MUTATION",
+        "OLDVIRUS",
+        "POMPVIRUS",
+        "RAREVIRUS",
+        "THEVIRUS",
+        "VIRUSFREN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CROWLEYPEPE.OLDCROWLEYPEPE",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "CROWLEYPEPE.SUMMONCROWLEY",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "PEPECROW",
+      "pages": 38,
+      "sampled_frames": [
+        0,
+        12,
+        25,
+        37
+      ]
+    },
+    {
+      "asset": "THESCARECROW",
+      "pages": 38,
+      "sampled_frames": [
+        0,
+        12,
+        25,
+        37
+      ]
+    },
+    {
+      "asset": "RAREVIRUS",
+      "pages": 160,
+      "sampled_frames": [
+        0,
+        53,
+        106,
+        159
+      ]
+    },
+    {
+      "asset": "VIRUSPEPE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "VIRUSFREN",
+      "pages": 479,
+      "sampled_frames": [
+        0,
+        159,
+        319,
+        478
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CROWCARD",
+      "asset": "CORRUPTCROWE",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWGANGSTER",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWLEYBURN",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWLEYPEPE.OLDCROWLEYPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWLEYPEPE.SUMMONCROWLEY",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWNBOY",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWNPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "CROWWARRIOR",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "FAUXKING.KINGSCROWN",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "JOURNEYPAINT.MICROWAVEPOTATOEZ",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "MURDEROCROWS",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "PEPECROW",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "PEPESCROW",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "PHOCKVILLAIN.SCARECROW",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "PIGECROW",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "SCARECROWCD",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "CROWCARD",
+      "asset": "THESCARECROW",
+      "status": "rejected",
+      "reason": "No reuse of the sapphire-adorned crow and clock illustration from The Sapphires of the Crow. Different bird/scarecrow scenes, human portraits and crown/Crowley/microwave substring hits do not establish a derivative.",
+      "evidence_sheet": "sheets/group-CROWCARD-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "CORNAVIRUS",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "CORNAVIRUS.MUTATION",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "OLDVIRUS",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "POMPVIRUS",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "RAREVIRUS",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "THEVIRUS",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    },
+    {
+      "original": "VIRUSPEPE",
+      "asset": "VIRUSFREN",
+      "status": "rejected",
+      "reason": "No reuse of the listening man transforming into Pepe, Have you heard of this / Now you get it sequence, or corresponding card layout. Virus names and disease/computer themes are insufficient.",
+      "evidence_sheet": "sheets/group-VIRUSPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 24,
+    "accepted": 0,
+    "rejected": 24
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets, three GIF sample sheets and one video sample sheet inspected. Four spaced positions per animation, all four frames for SAVETHEKING; not exhaustive playback. Specific-source comparisons only; shared external characters or subjects are insufficient.",
+  "reviewed": [
+    {
+      "original": "MODIPEPE",
+      "volume_usd": 19031.082439157264,
+      "buyers": 31,
+      "candidates": [
+        "FKEMODIPEPE",
+        "MODINVERSE",
+        "SSCCOMMODITY.SSC006",
+        "SSCCOMMODITY.SSC007"
+      ]
+    },
+    {
+      "original": "THEKINGPEPE",
+      "volume_usd": 19017.3879943484,
+      "buyers": 36,
+      "candidates": [
+        "SAVETHEKING",
+        "THEKINGKEVIN",
+        "THEKINGS"
+      ]
+    },
+    {
+      "original": "BETTYPEPE",
+      "volume_usd": 18863.76588208422,
+      "buyers": 41,
+      "candidates": [
+        "BETTYBOOP",
+        "BETTYPEP",
+        "SPAMBETTY"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MODIPEPE",
+      "pages": 38,
+      "sampled_frames": [
+        0,
+        12,
+        25,
+        37
+      ]
+    },
+    {
+      "asset": "SAVETHEKING",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "BETTYBOOP",
+      "pages": 32,
+      "sampled_frames": [
+        0,
+        10,
+        21,
+        31
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "asset": "SPAMBETTY",
+      "duration": 7.08,
+      "sampled_seconds": [
+        0,
+        2.3266666666666667,
+        4.653333333333333,
+        6.98
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MODIPEPE",
+      "asset": "FKEMODIPEPE",
+      "status": "rejected",
+      "reason": "Same public figure, but different portrait, pose and framing; no source frog-hand-at-chin or dance-panel reuse.",
+      "evidence_sheet": "sheets/group-MODIPEPE-0.png"
+    },
+    {
+      "original": "MODIPEPE",
+      "asset": "MODINVERSE",
+      "status": "rejected",
+      "reason": "Vertical color stripes, no source imagery.",
+      "evidence_sheet": "sheets/group-MODIPEPE-0.png"
+    },
+    {
+      "original": "MODIPEPE",
+      "asset": "SSCCOMMODITY.SSC006",
+      "status": "rejected",
+      "reason": "Music-cover collage with woman and currency, no source imagery.",
+      "evidence_sheet": "sheets/group-MODIPEPE-0.png"
+    },
+    {
+      "original": "MODIPEPE",
+      "asset": "SSCCOMMODITY.SSC007",
+      "status": "rejected",
+      "reason": "Music collage, no source imagery.",
+      "evidence_sheet": "sheets/group-MODIPEPE-0.png"
+    },
+    {
+      "original": "THEKINGPEPE",
+      "asset": "SAVETHEKING",
+      "status": "rejected",
+      "reason": "Framed monarch portrait animation, not source Elvis frog performance.",
+      "evidence_sheet": "sheets/group-THEKINGPEPE-0.png"
+    },
+    {
+      "original": "THEKINGPEPE",
+      "asset": "THEKINGKEVIN",
+      "status": "rejected",
+      "reason": "Pixel characters hugging, not source Elvis frog performance.",
+      "evidence_sheet": "sheets/group-THEKINGPEPE-0.png"
+    },
+    {
+      "original": "THEKINGPEPE",
+      "asset": "THEKINGS",
+      "status": "rejected",
+      "reason": "Crowned lion and Bitcoin, no source composition.",
+      "evidence_sheet": "sheets/group-THEKINGPEPE-0.png"
+    },
+    {
+      "original": "BETTYPEPE",
+      "asset": "BETTYBOOP",
+      "status": "rejected",
+      "reason": "Betty Boop cartoon montage and car portrait, not source frog riding soda bottle advertisement.",
+      "evidence_sheet": "sheets/group-BETTYPEPE-0.png"
+    },
+    {
+      "original": "BETTYPEPE",
+      "asset": "BETTYPEP",
+      "status": "rejected",
+      "reason": "Flintstones Betty character rendered as frog, not source soda advertisement.",
+      "evidence_sheet": "sheets/group-BETTYPEPE-0.png"
+    },
+    {
+      "original": "BETTYPEPE",
+      "asset": "SPAMBETTY",
+      "status": "rejected",
+      "reason": "Animated Betty Boop pinup riding a phallic frog with Enjoy the ride banner; shared external character and riding motif do not establish reuse of source frog-faced soda-bottle advertisement.",
+      "evidence_sheet": "sheets/group-BETTYPEPE-video.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 10,
+    "accepted": 0,
+    "rejected": 10
+  }
+}

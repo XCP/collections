@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame original-to-many sheets and two animation sheets inspected. Five animations sampled at four spaced positions, all three HOMERXMAS frames included. Longer animations not exhaustively reviewed. Decisions concern these exact originals only.",
+  "reviewed": [
+    {
+      "original": "CORNSURF",
+      "volume_usd": 115.1680525348488,
+      "buyers": 5,
+      "candidates": [
+        "BUNGEESURFER",
+        "COCOSURF",
+        "COCOSURFPRTY",
+        "FAKEARWYN.SURFING",
+        "FAKESURFING",
+        "NANRSURFPEPE",
+        "OLDPEPESURF",
+        "PEPESURFING",
+        "SATOSHISURFR",
+        "SMOLSURFER",
+        "SURFHERPEPA",
+        "SURFINGPEPE",
+        "SURFSPOTS.TRESTLES",
+        "SURFWAVES",
+        "WOJAKSURFER"
+      ]
+    },
+    {
+      "original": "PEPEXMAS",
+      "volume_usd": 15679.452410026039,
+      "buyers": 23,
+      "candidates": [
+        "BEARYXMAS",
+        "DABXMAS",
+        "DERPYXMAS",
+        "FAUXMAS",
+        "FEELXMAS",
+        "HAPPYXMAS",
+        "HOMERXMAS",
+        "NAKAXMASSLFG",
+        "RAREKEKXMAS",
+        "XMASBOBO",
+        "XMASBULL"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKESURFING",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "PEPESURFING",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "HOMERXMAS",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HAPPYXMAS",
+      "pages": 32,
+      "sampled_frames": [
+        0,
+        10,
+        21,
+        31
+      ]
+    },
+    {
+      "asset": "NAKAXMASSLFG",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNSURF",
+      "asset": "BUNGEESURFER",
+      "status": "rejected",
+      "reason": "Suspended frog in river scene. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "COCOSURF",
+      "status": "rejected",
+      "reason": "Standing frog beside cresting wave. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "COCOSURFPRTY",
+      "status": "rejected",
+      "reason": "Group surfing photo collage. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "FAKEARWYN.SURFING",
+      "status": "rejected",
+      "reason": "Human caricature inside wave. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "FAKESURFING",
+      "status": "rejected",
+      "reason": "Frog in yellow shorts against photographed wave. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "NANRSURFPEPE",
+      "status": "rejected",
+      "reason": "Frog riding a banana. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "OLDPEPESURF",
+      "status": "rejected",
+      "reason": "Bearded frog riding pink board. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "PEPESURFING",
+      "status": "rejected",
+      "reason": "Pepe and penguin against Japanese wave/rays. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SATOSHISURFR",
+      "status": "rejected",
+      "reason": "Silver comic-book Bitcoin surfer. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SMOLSURFER",
+      "status": "rejected",
+      "reason": "Small frog driving beach car. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SURFHERPEPA",
+      "status": "rejected",
+      "reason": "Female surfer photographic collage. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SURFINGPEPE",
+      "status": "rejected",
+      "reason": "Thin frog surfing with shark. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SURFSPOTS.TRESTLES",
+      "status": "rejected",
+      "reason": "Coastal landscape poster. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "SURFWAVES",
+      "status": "rejected",
+      "reason": "Sunglass-wearing abstract white mascot on yellow board. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "CORNSURF",
+      "asset": "WOJAKSURFER",
+      "status": "rejected",
+      "reason": "Silver Wojak surfing in space. No specific reuse of the source sunglass-wearing corn on white surfboard with stylized curling waves in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNSURF-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "BEARYXMAS",
+      "status": "rejected",
+      "reason": "Bear Santa photographic collage. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "DABXMAS",
+      "status": "rejected",
+      "reason": "Ape Christmas tree in space. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "DERPYXMAS",
+      "status": "rejected",
+      "reason": "Ape portrait in holiday sweater. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "FAUXMAS",
+      "status": "rejected",
+      "reason": "Fantasy green portal and landscape. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "FEELXMAS",
+      "status": "rejected",
+      "reason": "Two figures with gifts in snowy scene. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "HAPPYXMAS",
+      "status": "rejected",
+      "reason": "Spy-like red figure beside Christmas tree. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "HOMERXMAS",
+      "status": "rejected",
+      "reason": "Pixel Santa portrait. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "NAKAXMASSLFG",
+      "status": "rejected",
+      "reason": "Cartoon Santa with green frogs and Bitcoin speech balloons. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "RAREKEKXMAS",
+      "status": "rejected",
+      "reason": "Mosaic-like pixel Santa. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "XMASBOBO",
+      "status": "rejected",
+      "reason": "Santa Bobo and snowman illustrated card. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    },
+    {
+      "original": "PEPEXMAS",
+      "asset": "XMASBULL",
+      "status": "rejected",
+      "reason": "Bull silhouette on fiery fantasy card. No specific reuse of the source front-facing Santa frog clasping gloved hands against colored bokeh in inspected imagery. Shared surfing/holiday subject or name alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEXMAS-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 26,
+    "accepted": 0,
+    "rejected": 26
+  }
+}

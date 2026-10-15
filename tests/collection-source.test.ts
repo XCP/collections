@@ -605,13 +605,13 @@ test("one artist has one spelling across the registry", () => {
   assert.match(issues[0], /"Crypto Ali" \(one: AAA\) and "CryptoAli" \(two: CCC\)/);
 });
 
-test("Art year is one integer year and Based on appears at most once", () => {
+test("Art year is one integer year and appears at most once", () => {
   const entry = (attributes) => [{ asset: "RAREPEPE", attributes }];
   assert.deepEqual(normalizeAssets(entry([{ trait_type: "Art year", value: 2021 }]))[0].attributes, [{ trait_type: "Art year", value: 2021 }]);
   for (const value of ["2021", 2021.5, 1999, 3000]) {
     assert.throws(() => normalizeAssets(entry([{ trait_type: "Art year", value }])), CollectionValidationError);
   }
-  for (const trait_type of ["Art year", "Based on"]) {
+  for (const trait_type of ["Art year"]) {
     const value = trait_type === "Art year" ? 2021 : "PEPECASH";
     assert.throws(
       () => normalizeAssets(entry([{ trait_type, value }, { trait_type, value }])),
@@ -670,4 +670,13 @@ test("editorial types preserve meaning independently of membership kind", () => 
   }
   for (const editorial_type of ["subset", "", null]) assert.throws(() => normalizeCollectionMeta({ ...baseMeta, editorial_type }, "example-set"));
   assert.throws(() => normalizeCollectionMeta({ ...baseMeta, editorial_type: "set", variation_of: "BOXSET" }, "example-set"));
+});
+
+test("multiple distinct Based on originals survive normalization and every reference is checked", () => {
+  const attributes = ["HOMERPEPE", "SATOSHICARD"].map(value => ({ trait_type: "Based on", value }));
+  const assets = normalizeAssets([{ asset: "FAUXHOMER", attributes }]);
+  assert.deepEqual(assets[0].attributes, attributes);
+  assert.deepEqual(basedOnIssues([{ slug: "example", assets: [...assets, { asset: "HOMERPEPE" }, { asset: "SATOSHICARD" }] }]), []);
+  assert.match(basedOnIssues([{ slug: "example", assets: [...assets, { asset: "HOMERPEPE" }] }])[0], /SATOSHICARD/);
+  assert.throws(() => normalizeAssets([{ asset: "FAUXHOMER", attributes: [attributes[0], attributes[0]] }]), /duplicates/);
 });

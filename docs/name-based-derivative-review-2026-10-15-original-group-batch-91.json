@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet inspected. Four GIFs sampled at four spaced frames, not exhaustive playback. Specific-source comparisons only; card display inclusion does not itself establish derivation.",
+  "reviewed": [
+    {
+      "original": "CRYPTOPEPES",
+      "volume_usd": 17351.88318080641,
+      "buyers": 26,
+      "candidates": [
+        "CRYPTOSAVIOR",
+        "SOGCRYPTOSEC",
+        "SOGCRYPTOSKL"
+      ]
+    },
+    {
+      "original": "PEPETE",
+      "volume_usd": 17180.924654147824,
+      "buyers": 36,
+      "candidates": [
+        "LILPEPETEN",
+        "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+        "NGUPEPETECH",
+        "PEPETEAPARTY",
+        "PEPETEATIME",
+        "PEPETECT",
+        "PEPETEER",
+        "PEPETENIOLA",
+        "PEPETERNAL",
+        "PEPETERNITY",
+        "PEPETERROR",
+        "PEPETERSON",
+        "PEPETESTE",
+        "PEPETEX",
+        "RAREPEPETEN.ART"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPETERSON",
+      "pages": 7,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "asset": "PEPETERROR",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "PEPETEX",
+      "pages": 21,
+      "sampled_frames": [
+        0,
+        7,
+        13,
+        20
+      ]
+    },
+    {
+      "asset": "PEPETERNAL",
+      "pages": 85,
+      "sampled_frames": [
+        0,
+        28,
+        56,
+        84
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CRYPTOPEPES",
+      "asset": "CRYPTOSAVIOR",
+      "status": "rejected",
+      "reason": "Political portrait and national flag; no source seated frog with sale badge on pale-yellow background.",
+      "evidence_sheet": "sheets/group-CRYPTOPEPES-0.png"
+    },
+    {
+      "original": "CRYPTOPEPES",
+      "asset": "SOGCRYPTOSEC",
+      "status": "rejected",
+      "reason": "Fantasy eagle game card; no source seated frog with sale badge on pale-yellow background.",
+      "evidence_sheet": "sheets/group-CRYPTOPEPES-0.png"
+    },
+    {
+      "original": "CRYPTOPEPES",
+      "asset": "SOGCRYPTOSKL",
+      "status": "rejected",
+      "reason": "Fantasy undead warrior game card; no source seated frog with sale badge on pale-yellow background.",
+      "evidence_sheet": "sheets/group-CRYPTOPEPES-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "LILPEPETEN",
+      "status": "rejected",
+      "reason": "Rapper portrait; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+      "status": "rejected",
+      "reason": "Classical statue parody; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "NGUPEPETECH",
+      "status": "rejected",
+      "reason": "Bitcoin technology wordmark; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETEAPARTY",
+      "status": "rejected",
+      "reason": "Tea-party collage; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETEATIME",
+      "status": "rejected",
+      "reason": "Frog drinking tea; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETECT",
+      "status": "rejected",
+      "reason": "Suited frog in control room; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETEER",
+      "status": "rejected",
+      "reason": "Space traveler; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETENIOLA",
+      "status": "rejected",
+      "reason": "Painted frog with racket; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETERNAL",
+      "status": "rejected",
+      "reason": "Animated city scene; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETERNITY",
+      "status": "rejected",
+      "reason": "Psychedelic character card; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETERROR",
+      "status": "rejected",
+      "reason": "Animated corridor jump scare; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETERSON",
+      "status": "rejected",
+      "reason": "Peterson frog card with sunglasses animation; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETESTE",
+      "status": "rejected",
+      "reason": "Rotated Homer-like frog card; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "PEPETEX",
+      "status": "rejected",
+      "reason": "Exchange-interface card with cartoon animation; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    },
+    {
+      "original": "PEPETE",
+      "asset": "RAREPEPETEN.ART",
+      "status": "rejected",
+      "reason": "Multi-card display; inclusion of cards in a catalog/display is not itself derivative intent; no distinctive reuse of source seated alien-like frog with raised hands and luminous outline against Earth/space background.",
+      "evidence_sheet": "sheets/group-PEPETE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 18,
+    "accepted": 0,
+    "rejected": 18
+  }
+}

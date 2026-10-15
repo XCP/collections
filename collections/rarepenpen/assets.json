@@ -70,7 +70,13 @@
       ]
     },
     {
-      "asset": "HOMERPENPEN"
+      "asset": "HOMERPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "IPENGOAT",
@@ -121,7 +127,13 @@
       ]
     },
     {
-      "asset": "ONLYONEPNPN"
+      "asset": "ONLYONEPNPN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
+        }
+      ]
     },
     {
       "asset": "OOPENPEN"
@@ -178,7 +190,13 @@
       "asset": "PENPEKOMBAT"
     },
     {
-      "asset": "PENPENBUGGED"
+      "asset": "PENPENBUGGED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBUGGED"
+        }
+      ]
     },
     {
       "asset": "PENPENBUSKER"

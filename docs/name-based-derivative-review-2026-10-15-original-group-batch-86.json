@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and two animation sheets inspected. Five animations sampled at four spaced frames, not exhaustive playback. Full 700x3707 article image inspected as three slices; 50x50 bird sketch enlarged for source-specific comparison. No relationship inferred from shared external artist influence.",
+  "reviewed": [
+    {
+      "original": "PEPEKUN",
+      "volume_usd": 18431.97448244056,
+      "buyers": 49,
+      "candidates": [
+        "CHIKUNPEPE",
+        "DARKUNKNOWN",
+        "DRUKPAKUNLEY",
+        "GESAMTKUNSTW.ERK",
+        "JAHAIR.STACKUNDERFLOW",
+        "KAKUNA",
+        "KIMDANKUN",
+        "KUNAIKEK",
+        "KUNGFUBOBO",
+        "KUNGFUKEK",
+        "KUNGFUPEPE",
+        "KUNGFUSLAP",
+        "KUNISADAPEPE",
+        "KUNUNARRA",
+        "LILKUNGFUKEK",
+        "OISHIKUNAI",
+        "OSUNTOKUN",
+        "PEPEKUNGFU",
+        "PEPEKUNOICHI",
+        "WALLETKUN",
+        "WOJAKUNGSTEN"
+      ]
+    },
+    {
+      "original": "PEPEMIRO",
+      "volume_usd": 18346.975479187044,
+      "buyers": 7,
+      "candidates": [
+        "FAKESOONMIRO",
+        "FAKESOONMIRO.ARTISTEDITION",
+        "FAKESOONMIRO.FAKE",
+        "FAKESOONMIRO.FAKESOON",
+        "FAKESOONMIRO.SOON",
+        "FAKESOONMIRO.SOONMIRO",
+        "JOANMIROPEPE",
+        "XFCPCASEMIRO"
+      ]
+    },
+    {
+      "original": "CINDERPEPE",
+      "volume_usd": 18338.82275173392,
+      "buyers": 11,
+      "candidates": [
+        "PECINDERELLA"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CHIKUNPEPE",
+      "pages": 62,
+      "sampled_frames": [
+        0,
+        20,
+        41,
+        61
+      ]
+    },
+    {
+      "asset": "DRUKPAKUNLEY",
+      "pages": 109,
+      "sampled_frames": [
+        0,
+        36,
+        72,
+        108
+      ]
+    },
+    {
+      "asset": "KUNGFUKEK",
+      "pages": 150,
+      "sampled_frames": [
+        0,
+        50,
+        99,
+        149
+      ]
+    },
+    {
+      "asset": "WOJAKUNGSTEN",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "PEPEKUNOICHI",
+      "pages": 279,
+      "sampled_frames": [
+        0,
+        93,
+        185,
+        278
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEKUN",
+      "asset": "CHIKUNPEPE",
+      "status": "rejected",
+      "reason": "Animated chicken with troll face. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "DARKUNKNOWN",
+      "status": "rejected",
+      "reason": "Hooded figure above city. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "DRUKPAKUNLEY",
+      "status": "rejected",
+      "reason": "Religious figure animation. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "GESAMTKUNSTW.ERK",
+      "status": "rejected",
+      "reason": "Article screenshot fully inspected in three native-width slices; includes RARECHAVEZ as an illustration, no source anime portrait. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "JAHAIR.STACKUNDERFLOW",
+      "status": "rejected",
+      "reason": "Computer error screenshot. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KAKUNA",
+      "status": "rejected",
+      "reason": "Pokemon-like cocoon card. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KIMDANKUN",
+      "status": "rejected",
+      "reason": "Kim portrait parody. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNAIKEK",
+      "status": "rejected",
+      "reason": "Straw-hatted fighting frog. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNGFUBOBO",
+      "status": "rejected",
+      "reason": "Martial-arts bear. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNGFUKEK",
+      "status": "rejected",
+      "reason": "Animated martial-arts scene with frog characters. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNGFUPEPE",
+      "status": "rejected",
+      "reason": "Cartoon martial-arts frog in street. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNGFUSLAP",
+      "status": "rejected",
+      "reason": "Sitcom/DVD cover parody. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNISADAPEPE",
+      "status": "rejected",
+      "reason": "Japanese print parody. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "KUNUNARRA",
+      "status": "rejected",
+      "reason": "50x50 bird sketch; enlarged enough to identify unrelated subject, no source portrait composition. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "LILKUNGFUKEK",
+      "status": "rejected",
+      "reason": "Propaganda poster parody. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "OISHIKUNAI",
+      "status": "rejected",
+      "reason": "Cartoon child holding coin. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "OSUNTOKUN",
+      "status": "rejected",
+      "reason": "Human portrait playing card. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "PEPEKUNGFU",
+      "status": "rejected",
+      "reason": "Pixel fighting-game screen. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "PEPEKUNOICHI",
+      "status": "rejected",
+      "reason": "Animated ninja scene and masked figure. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-0.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "WALLETKUN",
+      "status": "rejected",
+      "reason": "Hardware-wallet cartoon. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-19.png"
+    },
+    {
+      "original": "PEPEKUN",
+      "asset": "WOJAKUNGSTEN",
+      "status": "rejected",
+      "reason": "Wojak with rock head animation. No reuse of the source red-haired anime figure wearing a green frog hood.",
+      "evidence_sheet": "sheets/group-PEPEKUN-19.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO.ARTISTEDITION",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO.FAKE",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO.FAKESOON",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO.SOON",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKESOONMIRO.SOONMIRO",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "JOANMIROPEPE",
+      "status": "rejected",
+      "reason": "Abstract shapes, smoking-hand/card-template imagery or a different stylized landscape figure. Shared artist influence or name does not establish reuse of source cubist frog portrait.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "XFCPCASEMIRO",
+      "status": "rejected",
+      "reason": "Football player portrait, unrelated name substring.",
+      "evidence_sheet": "sheets/group-PEPEMIRO-0.png"
+    },
+    {
+      "original": "CINDERPEPE",
+      "asset": "PECINDERELLA",
+      "status": "rejected",
+      "reason": "Different princess portrait in ornate mirror, different hairstyle, costume and pose; no source Cinderella frog in blue gown with clasped hands.",
+      "evidence_sheet": "sheets/group-CINDERPEPE-0.png"
+    }
+  ],
+  "notes": [
+    "Existing FAKESOONMIRO family and FAKESOONMIRO.FAKEMIRO versus IMITATIONS.MIRO leads remain separate; this batch only rejects PEPEMIRO as the proposed source."
+  ],
+  "summary": {
+    "comparisons": 30,
+    "accepted": 0,
+    "rejected": 30
+  }
+}

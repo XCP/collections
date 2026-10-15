@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one GIF animation sheet visually inspected. Four GIFs sampled at four spaced positions (both unique S1N6 frames); longer animations not exhaustive. SVG exceptions investigated separately. Exact-source rejections do not exclude other originals.",
+  "reviewed": [
+    {
+      "original": "PEPEME",
+      "volume_usd": 24468.14371107605,
+      "buyers": 64,
+      "candidates": [
+        "DRPEPEMETRIC",
+        "FAKEPAWNSHOP.PEPEMERGER",
+        "IMPEPEMENT",
+        "MADPEPEMEN",
+        "PEPEMECHA",
+        "PEPEMEDITATE",
+        "PEPEMEETING",
+        "PEPEMEETUPBK",
+        "PEPEMEGAMAN",
+        "PEPEMEH",
+        "PEPEMELANIA",
+        "PEPEMELEE",
+        "PEPEMEMECARD",
+        "PEPEMEMECOIN",
+        "PEPEMEMECOIN.ALPHA",
+        "PEPEMEMECOIN.S1N1",
+        "PEPEMEMECOIN.S1N2",
+        "PEPEMEMECOIN.S1N4",
+        "PEPEMEMECOIN.S1N6",
+        "PEPEMEMORIES",
+        "PEPEMERGER",
+        "PEPEMERMAID",
+        "PEPEMERMAN",
+        "PEPEMESS",
+        "PEPEMESSI",
+        "PEPEMETA",
+        "PEPEMETABOLY",
+        "PEPEMETABOLY.PRPL",
+        "PEPEMETRIC",
+        "PEPEMEXICAN",
+        "ZETRA.PEPEMESS.COA"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "IMPEPEMENT",
+      "pages": 7,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "asset": "PEPEMEDITATE",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "PEPEMEMECOIN",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "PEPEMEMECOIN.S1N6",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    }
+  ],
+  "svg_evidence": [
+    {
+      "asset": "PEPEMEMECOIN.ALPHA",
+      "content_type": "image/svg+xml",
+      "bytes": 5807,
+      "method": "Four embedded PNG sprite layers, each 1728x72 with 24 frames; frames 0,8,15,23 extracted per layer and visually inspected. Not composited browser playback.",
+      "evidence_sheet": "previews/PEPEMEMECOIN.ALPHA-sprites.png"
+    },
+    {
+      "asset": "PEPEMEMECOIN.S1N1",
+      "content_type": "image/svg+xml",
+      "bytes": 115785,
+      "method": "103 CSS keyframe definitions applied to 625 rectangles at first/last keyframe values; rendered endpoints inspected. Not exhaustive 303-second playback.",
+      "evidence_sheet": "previews/PEPEMEMECOIN.S1N1-endpoints.png"
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEME",
+      "asset": "DRPEPEMETRIC",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "FAKEPAWNSHOP.PEPEMERGER",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "IMPEPEMENT",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "MADPEPEMEN",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMECHA",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEDITATE",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEETING",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEETUPBK",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEGAMAN",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEH",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMELANIA",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMELEE",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECARD",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN.ALPHA",
+      "status": "rejected",
+      "reason": "Embedded animated pixel-art layers show gallery, frog body, hat and face; no reuse of PEPEME DNA-helix composition. Raster contact-sheet blank was caused by SVG foreignObject rendering.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN.S1N1",
+      "status": "rejected",
+      "reason": "CSS animation endpoint reconstruction shows geometric color fields; no reuse of PEPEME DNA-helix composition. Static raster preview omitted CSS animation.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN.S1N2",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN.S1N4",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMECOIN.S1N6",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-0.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEMORIES",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMERGER",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMERMAID",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMERMAN",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMESS",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMESSI",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMETA",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMETABOLY",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMETABOLY.PRPL",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMETRIC",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "PEPEMEXICAN",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    },
+    {
+      "original": "PEPEME",
+      "asset": "ZETRA.PEPEMESS.COA",
+      "status": "rejected",
+      "reason": "Different portraits, scenes or subjects; no reuse of the source green DNA-helix composition or memetic-superiority card design. PEPEME name substring alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEME-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 31,
+    "accepted": 0,
+    "rejected": 31
+  }
+}

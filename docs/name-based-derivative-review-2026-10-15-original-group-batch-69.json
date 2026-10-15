@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and two animation sheets visually inspected. Five animations sampled at four spaced positions, including all frames of MIKAPORTRAIT and QRNEEDLOVE. Longer animations not exhaustively reviewed. Source-specific comparison; shared artistic influence is not derivative evidence.",
+  "reviewed": [
+    {
+      "original": "PEPEPORTRAIT",
+      "volume_usd": 21695.207963735273,
+      "buyers": 13,
+      "candidates": [
+        "FAKECEZANNE.AUTOPORTRAIT",
+        "MIKAPORTRAIT",
+        "MSTRPEPES.LUCIANPEPESELFPORTRAIT",
+        "MSTRPEPES.PEPEDURERSELFPORTRAIT",
+        "MSTRPEPES.PEPEFINIPORTRAIT",
+        "MSTRPEPES.PORTRAITOFPEPECLES",
+        "MSTRPEPES.PORTRAITOFPEPEDYERANDPEPEFREUD",
+        "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI",
+        "NATHANSONIC.SELFPORTRAITWITHHAIR"
+      ]
+    },
+    {
+      "original": "NEEDPEPE",
+      "volume_usd": 21683.98137948617,
+      "buyers": 8,
+      "candidates": [
+        "HNFTSNEEDU",
+        "NEEDAPEPE",
+        "NEEDLES",
+        "PENEEDSPACE",
+        "POOPNEEDLE",
+        "QRNEEDLOVE",
+        "WHTDUNEED",
+        "WOJAKNEEDHUG"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MIKAPORTRAIT",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "QRNEEDLOVE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "NEEDPEPE",
+      "pages": 39,
+      "sampled_frames": [
+        0,
+        13,
+        25,
+        38
+      ]
+    },
+    {
+      "asset": "WHTDUNEED",
+      "pages": 300,
+      "sampled_frames": [
+        0,
+        100,
+        199,
+        299
+      ]
+    },
+    {
+      "asset": "WOJAKNEEDHUG",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "FAKECEZANNE.AUTOPORTRAIT",
+      "status": "rejected",
+      "reason": "Cezanne-style front-facing portrait with laser eyes. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MIKAPORTRAIT",
+      "status": "rejected",
+      "reason": "Laughing human portrait with animated red eyes and flames. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.LUCIANPEPESELFPORTRAIT",
+      "status": "rejected",
+      "reason": "Standing frog in coat with two small portraits below. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.PEPEDURERSELFPORTRAIT",
+      "status": "rejected",
+      "reason": "Front-facing long-haired frog portrait with hand on chest. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.PEPEFINIPORTRAIT",
+      "status": "rejected",
+      "reason": "Two standing frogs in a domestic interior. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.PORTRAITOFPEPECLES",
+      "status": "rejected",
+      "reason": "Sculpted bust with helmet. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.PORTRAITOFPEPEDYERANDPEPEFREUD",
+      "status": "rejected",
+      "reason": "Two seated frogs beside a table in blue room. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI",
+      "status": "rejected",
+      "reason": "Single dark-haired frog bust portrait. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "PEPEPORTRAIT",
+      "asset": "NATHANSONIC.SELFPORTRAITWITHHAIR",
+      "status": "rejected",
+      "reason": "Isolated human head drawing. Does not reuse the source scene of a seated painter viewed from behind painting a frog portrait. Portrait subject and external art references alone do not establish card derivation.",
+      "evidence_sheet": "sheets/group-PEPEPORTRAIT-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "HNFTSNEEDU",
+      "status": "rejected",
+      "reason": "Uncle Sam recruitment-poster adaptation. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "NEEDAPEPE",
+      "status": "rejected",
+      "reason": "Woman-like frog holding small head portrait. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "NEEDLES",
+      "status": "rejected",
+      "reason": "Round spiked creature drawing. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "PENEEDSPACE",
+      "status": "rejected",
+      "reason": "Frog astronaut collage. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "POOPNEEDLE",
+      "status": "rejected",
+      "reason": "Photographic man with poop-needle card caption. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "QRNEEDLOVE",
+      "status": "rejected",
+      "reason": "Animated heart-pattern QR-like graphic. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "WHTDUNEED",
+      "status": "rejected",
+      "reason": "Animated purple pineapple collage with figures. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    },
+    {
+      "original": "NEEDPEPE",
+      "asset": "WOJAKNEEDHUG",
+      "status": "rejected",
+      "reason": "Dark doorway with free-hugs graffiti. Does not reuse the source television-scene-to-Pepe face transformation, card composition or caption. Name-fragment overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-NEEDPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 0,
+    "rejected": 17
+  }
+}

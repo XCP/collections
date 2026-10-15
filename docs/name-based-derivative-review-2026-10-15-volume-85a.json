@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-15",
+  "method": "First10 source groups of relationship-prioritized batch85. All contact sheets visually reviewed; accepted pairs enlarged from full CDN files. HOMERPIZZA52 animation frames sampled at0,17,34,51. Remaining rejections are source-specific first-frame screens, not exhaustive animation review. No artist or membership changes.",
+  "reviewed": [
+    {
+      "original": "CORNSURF",
+      "candidates": [
+        "PEPESURFER"
+      ]
+    },
+    {
+      "original": "CORNBUDDHA",
+      "candidates": [
+        "DANKBUDDHA"
+      ]
+    },
+    {
+      "original": "FAKERPEPE",
+      "candidates": [
+        "CESFAKERARE",
+        "FAKERARA",
+        "FAKERARECASH",
+        "FAKERAREWARS",
+        "FAKEREBIRTH",
+        "FAKEREKT",
+        "FAKERESERVE",
+        "FAKERIFUDID",
+        "FAKEROCK",
+        "FAKEROCKET"
+      ]
+    },
+    {
+      "original": "BURNINGPEPE",
+      "candidates": [
+        "BURNINGFROG"
+      ]
+    },
+    {
+      "original": "LEANPEPE",
+      "candidates": [
+        "MINDCLEANSE"
+      ]
+    },
+    {
+      "original": "PEPEDAVID",
+      "candidates": [
+        "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+        "DANKDAVID",
+        "DAVIDCHAUM",
+        "DAVIDSNOSE"
+      ]
+    },
+    {
+      "original": "PEPEONE",
+      "candidates": [
+        "DJPEPEBADGER.GORILLA-GLUE-MONEY-BADGER",
+        "PEAKYBROONE",
+        "PEPEPOWERONE",
+        "PEPEWARSONE",
+        "SGTFAKERONE"
+      ]
+    },
+    {
+      "original": "CLAYPEPE",
+      "candidates": [
+        "CLAYSTMAS.TREE"
+      ]
+    },
+    {
+      "original": "DALICORN",
+      "candidates": [
+        "CORNDALI"
+      ]
+    },
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "COMMONHOMER",
+        "HOMERPIZZA"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNSURF",
+      "asset": "PEPESURFER",
+      "status": "rejected",
+      "reason": "Different surfing pose and scene; shared subject only."
+    },
+    {
+      "original": "CORNBUDDHA",
+      "asset": "DANKBUDDHA",
+      "status": "rejected",
+      "reason": "Different Buddha figure and scene; shared religious subject only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "CESFAKERARE",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKERARA",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKERARECASH",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKERAREWARS",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKEREBIRTH",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKEREKT",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKERESERVE",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKERIFUDID",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKEROCK",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "FAKERPEPE",
+      "asset": "FAKEROCKET",
+      "status": "rejected",
+      "reason": "No reuse of the approved/certified portrait composition; common Fake/Rare name fragment only."
+    },
+    {
+      "original": "BURNINGPEPE",
+      "asset": "BURNINGFROG",
+      "status": "rejected",
+      "reason": "Different burning frog image and caption; generic card framing and fire are insufficient."
+    },
+    {
+      "original": "LEANPEPE",
+      "asset": "MINDCLEANSE",
+      "status": "rejected",
+      "reason": "Mind-cleanse barber scene unrelated to sunglass-wearing hooded portrait; substring collision."
+    },
+    {
+      "original": "PEPEDAVID",
+      "asset": "MSTRPEPES.PEPETELLOSDAVIDPEPE",
+      "status": "rejected",
+      "reason": "Shared David reference does not establish direct reuse: bronze Donatello statue, aurora silhouette, David Chaum portrait and marble-head crop differ from this full-body Michelangelo card."
+    },
+    {
+      "original": "PEPEDAVID",
+      "asset": "DANKDAVID",
+      "status": "rejected",
+      "reason": "Shared David reference does not establish direct reuse: bronze Donatello statue, aurora silhouette, David Chaum portrait and marble-head crop differ from this full-body Michelangelo card."
+    },
+    {
+      "original": "PEPEDAVID",
+      "asset": "DAVIDCHAUM",
+      "status": "rejected",
+      "reason": "Shared David reference does not establish direct reuse: bronze Donatello statue, aurora silhouette, David Chaum portrait and marble-head crop differ from this full-body Michelangelo card."
+    },
+    {
+      "original": "PEPEDAVID",
+      "asset": "DAVIDSNOSE",
+      "status": "rejected",
+      "reason": "Shared David reference does not establish direct reuse: bronze Donatello statue, aurora silhouette, David Chaum portrait and marble-head crop differ from this full-body Michelangelo card."
+    },
+    {
+      "original": "PEPEONE",
+      "asset": "DJPEPEBADGER.GORILLA-GLUE-MONEY-BADGER",
+      "status": "rejected",
+      "reason": "No reuse of distinctive graffiti portrait or its canvas/never-posted-a-selfie text; common card framing, incidental cards and name fragments insufficient."
+    },
+    {
+      "original": "PEPEONE",
+      "asset": "PEAKYBROONE",
+      "status": "rejected",
+      "reason": "No reuse of distinctive graffiti portrait or its canvas/never-posted-a-selfie text; common card framing, incidental cards and name fragments insufficient."
+    },
+    {
+      "original": "PEPEONE",
+      "asset": "PEPEPOWERONE",
+      "status": "rejected",
+      "reason": "No reuse of distinctive graffiti portrait or its canvas/never-posted-a-selfie text; common card framing, incidental cards and name fragments insufficient."
+    },
+    {
+      "original": "PEPEONE",
+      "asset": "PEPEWARSONE",
+      "status": "rejected",
+      "reason": "No reuse of distinctive graffiti portrait or its canvas/never-posted-a-selfie text; common card framing, incidental cards and name fragments insufficient."
+    },
+    {
+      "original": "PEPEONE",
+      "asset": "SGTFAKERONE",
+      "status": "rejected",
+      "reason": "No reuse of distinctive graffiti portrait or its canvas/never-posted-a-selfie text; common card framing, incidental cards and name fragments insufficient."
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYSTMAS.TREE",
+      "status": "ambiguous",
+      "reason": "Same extrusion presentation and tool but different modeled subject; companion piece versus specific derivative remains unresolved."
+    },
+    {
+      "original": "DALICORN",
+      "asset": "CORNDALI",
+      "status": "accepted",
+      "reason": "Recreates the specific four melting corn cobs in Dali landscape, preserving tree, platform, foreground shape and blue frame; painterly treatment with CORNDALI title. Existing registry records CORNDALI art year2025 and the shared composition."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "COMMONHOMER",
+      "status": "rejected",
+      "reason": "Different Homer scene; shared character alone is insufficient."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERPIZZA",
+      "status": "accepted",
+      "reason": "Reuses yellow Homer card structure, green Homer and specifically adapts Wait a minute, I am a Pepe to Wait a minute, I am hangry; replacement pizza-eating animation and stats. Four spaced animation frames inspected."
+    }
+  ],
+  "accepted": [
+    {
+      "original": "DALICORN",
+      "asset": "CORNDALI",
+      "status": "accepted",
+      "reason": "Recreates the specific four melting corn cobs in Dali landscape, preserving tree, platform, foreground shape and blue frame; painterly treatment with CORNDALI title. Existing registry records CORNDALI art year2025 and the shared composition."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERPIZZA",
+      "status": "accepted",
+      "reason": "Reuses yellow Homer card structure, green Homer and specifically adapts Wait a minute, I am a Pepe to Wait a minute, I am hangry; replacement pizza-eating animation and stats. Four spaced animation frames inspected."
+    }
+  ]
+}

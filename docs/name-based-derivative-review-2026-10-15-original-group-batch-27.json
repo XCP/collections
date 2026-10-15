@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-15",
+  "method": "One first-frame sheet and one animation sheet viewed. All three FAKANDINSKY frames and both SHANDINSKY frames viewed; KENDINSKY sampled at 0,50,99,149 of 150, not exhaustive. Shared Kandinsky influence alone is insufficient.",
+  "reviewed": [
+    {
+      "original": "CORNDINSKY",
+      "volume_usd": 3187.558329131,
+      "buyers": 13,
+      "candidates": [
+        "FAKANDINSKY",
+        "KANDINSKY",
+        "KANDINSKYORD",
+        "KANDINSKYPEP",
+        "KEKANDINSKY",
+        "KENDINSKY",
+        "QRANDINSKY",
+        "SHANDINSKY"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNDINSKY",
+      "asset": "FAKANDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "KANDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "KANDINSKYORD",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "KANDINSKYPEP",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "KEKANDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "KENDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "QRANDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    },
+    {
+      "original": "CORNDINSKY",
+      "asset": "SHANDINSKY",
+      "status": "rejected",
+      "reason": "No reuse of CORNDINSKY corn-cob pinwheel, multicolored central circles and lower checkerboard composition. Other Kandinsky homages have different compositions.",
+      "evidence_sheet": "sheets/group-CORNDINSKY-0.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "original": "KANDINSKYPEP",
+      "asset": "FAKANDINSKY",
+      "reason": "Same circular Pepe composition with animated palette changes; check existing relationship and chronology."
+    },
+    {
+      "original": "KANDINSKYPEP",
+      "asset": "KEKANDINSKY",
+      "reason": "Similar circular composition with alternate face; common external art source may explain resemblance, needs inspection."
+    }
+  ],
+  "existing_relationships_verified": [
+    {
+      "asset": "CLOWNTECH.rare",
+      "original": "CLOWNTECH",
+      "classification": "variation",
+      "registry_file": "collections/clown-technology/meta.json",
+      "registry_field": "variation_of",
+      "reason": "Enlarged identical composition; six-frame subasset animates border colors. Parent media at block745547 precedes subasset media at745562. Existing variation classification already represents this relationship; no redundant Based on trait added.",
+      "evidence_images": [
+        "previews/CLOWNTECH-detail.png",
+        "previews/CLOWNTECH.rare-detail.png"
+      ],
+      "issuance_evidence": [
+        {
+          "name": "CLOWNTECH",
+          "asset": {
+            "result": {
+              "asset": "CLOWNTECH",
+              "asset_longname": null,
+              "asset_id": null,
+              "type": "asset",
+              "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+              "owner": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+              "divisible": 0,
+              "locked": 1,
+              "description_locked": 0,
+              "supply": "1",
+              "supply_normalized": "1",
+              "description": "",
+              "mime_type": "text/plain",
+              "first_issuance_block_index": 745547,
+              "last_issuance_block_index": 805379,
+              "first_issuance_block_time": 1658186543,
+              "last_issuance_block_time": 1693350476,
+              "updated_at": 0,
+              "holder_count": 1,
+              "burned": "0",
+              "burned_normalized": "0",
+              "escrow": "0",
+              "escrow_normalized": "0",
+              "circulating": "1",
+              "circulating_normalized": "1",
+              "rating": {
+                "status": "not_rated",
+                "rating": null
+              },
+              "activity": {
+                "active_months": 0,
+                "last_trade_time": null
+              },
+              "activity_outlook": null,
+              "tags": [
+                "has_media"
+              ],
+              "sales": {
+                "realized_usd": null,
+                "last_price_usd": null,
+                "last_sale_time": null
+              },
+              "market_volume": {
+                "onchain_usd": 0,
+                "exchange_usd": 0,
+                "total_usd": 0,
+                "exchange_first_day": null,
+                "exchange_last_day": null
+              },
+              "valuation": null,
+              "collection": null,
+              "collection_site": null,
+              "collection_series": null,
+              "collection_card": null,
+              "artist": null,
+              "feed_counts": {
+                "sales": 0,
+                "issuances": 4,
+                "dispensers": 0,
+                "dispenses": 0,
+                "orders": 1,
+                "sends": 0,
+                "fairmints": 0,
+                "dividends": 0,
+                "destructions": 0,
+                "pools": 0,
+                "subassets": 1,
+                "from_issuer": 118
+              },
+              "cohesion": null,
+              "conviction": null
+            }
+          },
+          "issuances": {
+            "result": [
+              {
+                "tx_hash": "f7300143c089aedbedd0e8fa0258fb9f7b0e65cb328790b0b75f5a80655c8b8a",
+                "block_index": 805379,
+                "block_time": 1693350476,
+                "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "transfer": 0,
+                "quantity_normalized": "0",
+                "description": "",
+                "asset_events": "",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "b10f08be81a2f4763e5a644570f64840d287d4db5fa8a5a784b71c80367aa539",
+                "block_index": 777973,
+                "block_time": 1677165589,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "transfer": 1,
+                "quantity_normalized": "0",
+                "description": "imgur/bxMU6n5.png",
+                "asset_events": "transfer",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "f4794f3491b262ee4ffdd6a8906916bafe7084b1aa52a4a8d57e0314f4dacb43",
+                "block_index": 745562,
+                "block_time": 1658197702,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "transfer": 0,
+                "quantity_normalized": "0",
+                "description": "imgur/bxMU6n5.png",
+                "asset_events": "lock_quantity",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "84173bd6526b21017850237a38c21b8eb42f3f1eb274d937e16eb60ccc8d654f",
+                "block_index": 745547,
+                "block_time": 1658186543,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "transfer": 0,
+                "quantity_normalized": "1",
+                "description": "imgur/bxMU6n5.png",
+                "asset_events": "creation",
+                "status": "valid"
+              }
+            ],
+            "next_offset": null
+          }
+        },
+        {
+          "name": "CLOWNTECH.rare",
+          "asset": {
+            "result": {
+              "asset": "A5411517270656575571",
+              "asset_longname": "CLOWNTECH.rare",
+              "asset_id": null,
+              "type": "subasset",
+              "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+              "owner": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+              "divisible": 0,
+              "locked": 1,
+              "description_locked": 0,
+              "supply": "1",
+              "supply_normalized": "1",
+              "description": "",
+              "mime_type": "text/plain",
+              "first_issuance_block_index": 745562,
+              "last_issuance_block_index": 805379,
+              "first_issuance_block_time": 1658197702,
+              "last_issuance_block_time": 1693350476,
+              "updated_at": 0,
+              "holder_count": 1,
+              "burned": "0",
+              "burned_normalized": "0",
+              "escrow": "0",
+              "escrow_normalized": "0",
+              "circulating": "1",
+              "circulating_normalized": "1",
+              "rating": {
+                "status": "not_rated",
+                "rating": null
+              },
+              "activity": {
+                "active_months": 0,
+                "last_trade_time": null
+              },
+              "activity_outlook": null,
+              "tags": [
+                "has_media"
+              ],
+              "sales": {
+                "realized_usd": null,
+                "last_price_usd": null,
+                "last_sale_time": null
+              },
+              "market_volume": {
+                "onchain_usd": 0,
+                "exchange_usd": 0,
+                "total_usd": 0,
+                "exchange_first_day": null,
+                "exchange_last_day": null
+              },
+              "valuation": null,
+              "collection": null,
+              "collection_site": null,
+              "collection_series": null,
+              "collection_card": null,
+              "artist": null,
+              "feed_counts": {
+                "sales": 0,
+                "issuances": 4,
+                "dispensers": 0,
+                "dispenses": 0,
+                "orders": 0,
+                "sends": 0,
+                "fairmints": 0,
+                "dividends": 0,
+                "destructions": 0,
+                "pools": 0,
+                "subassets": 0,
+                "from_issuer": 118
+              },
+              "cohesion": null,
+              "conviction": null
+            }
+          },
+          "issuances": {
+            "result": [
+              {
+                "tx_hash": "e0ae55f809d62c335320f0bda4b87fb412c5d88db37606a96dd164e97a83ec1c",
+                "block_index": 805379,
+                "block_time": 1693350476,
+                "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "transfer": 0,
+                "quantity_normalized": "0",
+                "description": "",
+                "asset_events": "",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "b10f08be81a2f4763e5a644570f64840d287d4db5fa8a5a784b71c80367aa539",
+                "block_index": 777973,
+                "block_time": 1677165589,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+                "transfer": 1,
+                "quantity_normalized": "0",
+                "description": "imgur/oGAAL24.gif",
+                "asset_events": "transfer",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "7913da64b74e09db2b8ce61b1e1ecec4af5808519762360af83e081c36c2a7f3",
+                "block_index": 745564,
+                "block_time": 1658199176,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "transfer": 0,
+                "quantity_normalized": "0",
+                "description": "imgur/oGAAL24.gif",
+                "asset_events": "lock_quantity",
+                "status": "valid"
+              },
+              {
+                "tx_hash": "393f4dfb9f91d7b6324f197ae959dd589ddd21d4123b997fd3f1a0b2f1c4f8c6",
+                "block_index": 745562,
+                "block_time": 1658197702,
+                "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+                "transfer": 0,
+                "quantity_normalized": "1",
+                "description": "imgur/oGAAL24.gif",
+                "asset_events": "creation",
+                "status": "valid"
+              }
+            ],
+            "next_offset": null
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "comparisons": 8,
+    "accepted": 0,
+    "rejected": 8,
+    "existing_variation_verified": 1
+  }
+}

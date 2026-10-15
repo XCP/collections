@@ -10,7 +10,7 @@
 | Primary memberships | 1,971 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 173/1,971 (8.8%)<br>Artist: 1,950/1,971 (98.9%)<br>Based on: 95/1,971 (4.8%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
+| Traits | Art year: 173/1,971 (8.8%)<br>Artist: 1,950/1,971 (98.9%)<br>Based on: 107/1,971 (5.4%)<br>Card: 1,971/1,971 (100%)<br>Series: 1,971/1,971 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,5 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## RAREBIRTHDAY collaboration
 
 The exact chain-linked [RAREBIRTHDAY JSON](https://arweave.net/I34dt3fAoPHzobjNY19aWjhbRa-h-IEwxcNotCxT6xQ) signs “i3inary & Doge-Style”. Preserve i3inary and add the existing DOGE-STYLE artist separately. The CDN preview was reviewed; this credit does not claim a full video review.
+
+DANKROSSS retains its visually reviewed FAKEROSS derivation, supported by matching artwork and earlier image-linked descriptions. See [comparison evidence](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-22.json).

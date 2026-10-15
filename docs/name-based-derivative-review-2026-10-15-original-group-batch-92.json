@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and two animation sheets inspected. Five GIFs sampled at four spaced positions; all three DROPPEPE, both BIGMIKEDROP and all four LAUNDROPEPE frames inspected. Longer animations not exhaustively played. Specific-source comparisons only.",
+  "reviewed": [
+    {
+      "original": "DROPPEPE",
+      "volume_usd": 17079.468576154664,
+      "buyers": 50,
+      "candidates": [
+        "BIGMIKEDROP",
+        "BILLIONADROP",
+        "BITDROP",
+        "DEATHAIRDROP",
+        "DEGENSHIELD.TOPSECRETAIRDROP",
+        "DROPCLOSED.we_thank_you",
+        "DROPFOUR",
+        "DROPONE",
+        "DROPPEDIN",
+        "DROPTHREE",
+        "DROPTWO",
+        "DROPWATCH",
+        "FARMHAND.DROPPINGS",
+        "FIRSTQDROP",
+        "LAUNDROPEPE",
+        "NFTORIGINS.DROPBEARPEPE",
+        "PHOCKHEADS.DROPLISTER",
+        "THEDROP",
+        "XAIRDROPCARD",
+        "XAIRDROPCARD.MACD"
+      ]
+    },
+    {
+      "original": "PEPEYIP",
+      "volume_usd": 16916.12937093011,
+      "buyers": 21,
+      "candidates": [
+        "DANKBUNYIP",
+        "HYIPPEPE",
+        "HYIPPEPE.DIAMONDHANDS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DROPPEPE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "BIGMIKEDROP",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "DEATHAIRDROP",
+      "pages": 150,
+      "sampled_frames": [
+        0,
+        50,
+        99,
+        149
+      ]
+    },
+    {
+      "asset": "DROPPEDIN",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "LAUNDROPEPE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "DROPPEPE",
+      "asset": "BIGMIKEDROP",
+      "status": "rejected",
+      "reason": "Different Obama photographs and meme layout; shared public figure insufficient; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "BILLIONADROP",
+      "status": "rejected",
+      "reason": "Woman in gold jacket and airdrop text; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "BITDROP",
+      "status": "rejected",
+      "reason": "Bitcoin falling toward pavement; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DEATHAIRDROP",
+      "status": "rejected",
+      "reason": "Dark figure and skyline animation; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DEGENSHIELD.TOPSECRETAIRDROP",
+      "status": "rejected",
+      "reason": "Collage of cards, frog head and token images; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPCLOSED.we_thank_you",
+      "status": "rejected",
+      "reason": "Transaction chat screenshot; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPFOUR",
+      "status": "rejected",
+      "reason": "Helicopter and parachuted cubes; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPONE",
+      "status": "rejected",
+      "reason": "Helicopter and parachuted cubes; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPPEDIN",
+      "status": "rejected",
+      "reason": "Cartoon figure on checkered background; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPTHREE",
+      "status": "rejected",
+      "reason": "Helicopter and parachuted cubes; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPTWO",
+      "status": "rejected",
+      "reason": "Helicopter and parachuted cubes; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DROPWATCH",
+      "status": "rejected",
+      "reason": "Drop and watch icons; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "FARMHAND.DROPPINGS",
+      "status": "rejected",
+      "reason": "Frog-shaped dropping; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "FIRSTQDROP",
+      "status": "rejected",
+      "reason": "Message-board screenshot; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "LAUNDROPEPE",
+      "status": "rejected",
+      "reason": "Frog washing-machine animation; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "NFTORIGINS.DROPBEARPEPE",
+      "status": "rejected",
+      "reason": "Koala/frog parody; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "PHOCKHEADS.DROPLISTER",
+      "status": "rejected",
+      "reason": "Pixel human portrait; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "THEDROP",
+      "status": "rejected",
+      "reason": "Cornfield illustration; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "XAIRDROPCARD",
+      "status": "rejected",
+      "reason": "Website screenshot; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-0.png"
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "XAIRDROPCARD.MACD",
+      "status": "rejected",
+      "reason": "Website screenshot; no distinctive reuse of source Obama card-dropping scene and green lyric panel.",
+      "evidence_sheet": "sheets/group-DROPPEPE-19.png"
+    },
+    {
+      "original": "PEPEYIP",
+      "asset": "DANKBUNYIP",
+      "status": "rejected",
+      "reason": "Horned fantasy creature; no reuse of source martial-artist pose or red-bordered composition.",
+      "evidence_sheet": "sheets/group-PEPEYIP-0.png"
+    },
+    {
+      "original": "PEPEYIP",
+      "asset": "HYIPPEPE",
+      "status": "rejected",
+      "reason": "Investment-promotion frog scene; no reuse of source martial-artist pose or red-bordered composition.",
+      "evidence_sheet": "sheets/group-PEPEYIP-0.png"
+    },
+    {
+      "original": "PEPEYIP",
+      "asset": "HYIPPEPE.DIAMONDHANDS",
+      "status": "rejected",
+      "reason": "Diamond and hands symbol; no reuse of source martial-artist pose or red-bordered composition.",
+      "evidence_sheet": "sheets/group-PEPEYIP-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 23,
+    "accepted": 0,
+    "rejected": 23
+  }
+}

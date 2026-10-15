@@ -1,0 +1,649 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets viewed across these groups; four animation sheets viewed. Eleven animations sampled at four spaced positions (all frames for the four-frame animation), not exhaustive playback. Names and shared styles are only candidate signals.",
+  "reviewed": [
+    {
+      "original": "VAPORCORN",
+      "volume_usd": 1779.1734800000002,
+      "buyers": 8,
+      "candidates": [
+        "BLUEBEAR.BLUEBIRD.vapor",
+        "BLUEBEAR.vapor",
+        "BLUEBEAR.vapor.bluebird",
+        "DGVAPOR",
+        "METALICVAPOR",
+        "VAPOREON",
+        "VAPORMAGIC",
+        "VAPORMAGIC.print.1",
+        "VAPORMAGIC.print.10",
+        "VAPORMAGIC.print.11",
+        "VAPORMAGIC.print.12",
+        "VAPORMAGIC.print.13",
+        "VAPORMAGIC.print.14",
+        "VAPORMAGIC.print.14.scaler.1",
+        "VAPORMAGIC.print.14.scaler.2",
+        "VAPORMAGIC.print.15",
+        "VAPORMAGIC.print.16",
+        "VAPORMAGIC.print.2",
+        "VAPORMAGIC.print.3",
+        "VAPORMAGIC.print.4",
+        "VAPORMAGIC.print.5",
+        "VAPORMAGIC.print.6",
+        "VAPORMAGIC.print.7",
+        "VAPORMAGIC.print.8",
+        "VAPORMAGIC.print.9",
+        "VAPORMAGIC.print.9.1st",
+        "VAPORMAGIC.print.9.preface",
+        "YOUCANTSMOKE.BLUEVAPOR",
+        "YOUCANTSMOKE.GREENVAPOR"
+      ]
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "volume_usd": 21313.301510178204,
+      "buyers": 32,
+      "candidates": [
+        "BXFREAKSHOW",
+        "DERSHOWITZ",
+        "DROOLAPESHOW",
+        "MOTORSHOW",
+        "PEPECOSHOW",
+        "SATOSHISHOW",
+        "SCHIFFSHOW",
+        "SHOWANDPEPE",
+        "SHOWJAK",
+        "SHOWMEURPEPE",
+        "SHOWTHEWAY",
+        "SIDESHOWPEPE",
+        "THEOGSHOW.DEC2022RICHORREKT",
+        "THEOGSHOW.NARDO",
+        "THEOGSHOW.PREDICITONS2023",
+        "THEOGSHOW.RICHORREKT2022"
+      ]
+    },
+    {
+      "original": "GUARDSPEPE",
+      "volume_usd": 6350.217599808197,
+      "buyers": 384,
+      "candidates": [
+        "PHOCKGUARDS",
+        "PHOCKGUARDS.BABY",
+        "PHOCKGUARDS.BUG",
+        "PHOCKGUARDS.COSM",
+        "PHOCKGUARDS.DRAX",
+        "PHOCKGUARDS.EGO",
+        "PHOCKGUARDS.GAMO",
+        "PHOCKGUARDS.GROO",
+        "PHOCKGUARDS.MANT",
+        "PHOCKGUARDS.ROCK",
+        "PHOCKGUARDS.RONA",
+        "PHOCKGUARDS.STAR",
+        "PHOCKGUARDS.THAN",
+        "PHOCKGUARDS.THOR",
+        "PHOCKGUARDS.WARL",
+        "PHOCKGUARDS.YOND"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "METALICVAPOR",
+      "pages": 165,
+      "sampled_frames": [
+        0,
+        55,
+        109,
+        164
+      ]
+    },
+    {
+      "asset": "RAREPEPESHOW",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "MOTORSHOW",
+      "pages": 210,
+      "sampled_frames": [
+        0,
+        70,
+        139,
+        209
+      ]
+    },
+    {
+      "asset": "PEPECOSHOW",
+      "pages": 100,
+      "sampled_frames": [
+        0,
+        33,
+        66,
+        99
+      ]
+    },
+    {
+      "asset": "SHOWTHEWAY",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.BABY",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.EGO",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS",
+      "pages": 66,
+      "sampled_frames": [
+        0,
+        22,
+        43,
+        65
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.THOR",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.THAN",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.YOND",
+      "pages": 49,
+      "sampled_frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "VAPORCORN",
+      "asset": "BLUEBEAR.BLUEBIRD.vapor",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "BLUEBEAR.vapor",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "BLUEBEAR.vapor.bluebird",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "DGVAPOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "METALICVAPOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPOREON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.10",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.12",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.13",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.14",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.14.scaler.1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.14.scaler.2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.15",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.16",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.3",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-0.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.4",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.7",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.8",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.9",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.9.1st",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "VAPORMAGIC.print.9.preface",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "YOUCANTSMOKE.BLUEVAPOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "VAPORCORN",
+      "asset": "YOUCANTSMOKE.GREENVAPOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the neon corn, triangle and perspective-grid composition; shared vaporwave styling is insufficient.",
+      "evidence_sheet": "sheets/group-VAPORCORN-19.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "BXFREAKSHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "DERSHOWITZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "DROOLAPESHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "MOTORSHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "PEPECOSHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SATOSHISHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SCHIFFSHOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SHOWANDPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SHOWJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SHOWMEURPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SHOWTHEWAY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "SIDESHOWPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "THEOGSHOW.DEC2022RICHORREKT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "THEOGSHOW.NARDO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "THEOGSHOW.PREDICITONS2023",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "RAREPEPESHOW",
+      "asset": "THEOGSHOW.RICHORREKT2022",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the Muppets cast photograph with foreground Pepe and infiltration premise.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.BABY",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.BUG",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.COSM",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.DRAX",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.EGO",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.GAMO",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.GROO",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.MANT",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.ROCK",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.RONA",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.STAR",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.THAN",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.THOR",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.WARL",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    },
+    {
+      "original": "GUARDSPEPE",
+      "asset": "PHOCKGUARDS.YOND",
+      "status": "rejected",
+      "reason": "Guardians of the Galaxy pixel portraits and title animation do not reuse the Imperial Guardsman Pepe composition.",
+      "evidence_sheet": "sheets/group-GUARDSPEPE-0.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "asset": "SIDESHOWPEPE",
+      "original": "HOMERPEPE",
+      "reason": "Yellow cartoon card and Waaait a minute caption; enlarge and establish immediate source before attribution."
+    },
+    {
+      "asset": "PEPECOSHOW",
+      "originals": [
+        "RAREPEPE",
+        "LORDKEK"
+      ],
+      "reason": "Animation samples visibly display these cards beneath a circular overlay; examine full sequence and distinguish montage inclusion from derivative intent."
+    }
+  ],
+  "summary": {
+    "comparisons": 61,
+    "accepted": 0,
+    "rejected": 61
+  }
+}

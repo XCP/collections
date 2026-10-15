@@ -1,0 +1,468 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and four animation sheets visually inspected. Thirteen GIFs sampled at four spaced positions, including all unique frames for animations with four or fewer frames. Longer animations not exhaustively reviewed. Exact-source rejections do not exclude other original relationships.",
+  "reviewed": [
+    {
+      "original": "FUNPEPE",
+      "volume_usd": 23301.646336701506,
+      "buyers": 69,
+      "candidates": [
+        "BLACKBOX.Counterparty_General_Fund",
+        "BLUEBEAR.senic.flood.refund",
+        "CARSONATED.The_almost_world_record_longest_asset_name_issued_as_the_immutable_non-fungible_concept_text_art_sub-asset_of_CARSONATED_accounted_for_on_the_federated_nodes_of_the_counterparty_protocol_verified_by_bitcoin_stored_upon_OPReturn_forever",
+        "DEVFUND",
+        "ECOBITREFUND",
+        "FUNCHICKEN",
+        "FUNDAY",
+        "FUNDEDPEPE",
+        "FUNGUSAPEPE",
+        "FUNINTHESUN",
+        "FUNKYDOPE",
+        "FUNKYMONKEY",
+        "FUNKYPEPA",
+        "FUNKYWENHEN",
+        "FUNNELCAKES",
+        "FUNNYMAN",
+        "FUNWITHPEPE",
+        "KALEIDOSCOPE.The_new_world_record_longest_asset_name_ever_issued_as_an_immutable_non-fungible_concept_text_art_sub-asset_of_KALEIDOSCOPE_accounted_for_on_the_federated_nodes_of_the_counterparty_protocol_verified_by_bitcoin_stored_in_OPReturn_forever",
+        "LATOMOFUN",
+        "LUCIFER.LUCIFUN",
+        "NAKAFUNGIBLE",
+        "NIFTYFUNDONE",
+        "NONFUNGERBIL.1",
+        "NONFUNGERBIL.2",
+        "NONFUNGERBIL.3",
+        "NONFUNGERBIL.4",
+        "NONFUNGERBIL.5",
+        "PEFUNBRA",
+        "PEFUNGUS",
+        "PEPEDUOFUNKY",
+        "PEPEFUNK",
+        "PEPEWAWAFUN",
+        "PHOTOFUN",
+        "PIGEONFUNN",
+        "SOMUCHFUN",
+        "SUNDVYFUNDVY",
+        "TOOFUNNYPEPE",
+        "TRUSSFUND",
+        "XFCPRMOFUNES",
+        "ZENPOKOENFUN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CARSONATED.The_almost_world_record_longest_asset_name_issued_as_the_immutable_non-fungible_concept_text_art_sub-asset_of_CARSONATED_accounted_for_on_the_federated_nodes_of_the_counterparty_protocol_verified_by_bitcoin_stored_upon_OPReturn_forever",
+      "pages": 120,
+      "sampled_frames": [
+        0,
+        40,
+        79,
+        119
+      ]
+    },
+    {
+      "asset": "FUNCHICKEN",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "FUNKYMONKEY",
+      "pages": 31,
+      "sampled_frames": [
+        0,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "asset": "FUNKYWENHEN",
+      "pages": 90,
+      "sampled_frames": [
+        0,
+        30,
+        59,
+        89
+      ]
+    },
+    {
+      "asset": "FUNKYPEPA",
+      "pages": 14,
+      "sampled_frames": [
+        0,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "asset": "FUNKYDOPE",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "LATOMOFUN",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "FUNWITHPEPE",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "TRUSSFUND",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "PEPEWAWAFUN",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "PHOTOFUN",
+      "pages": 108,
+      "sampled_frames": [
+        0,
+        36,
+        71,
+        107
+      ]
+    },
+    {
+      "asset": "SUNDVYFUNDVY",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SOMUCHFUN",
+      "pages": 86,
+      "sampled_frames": [
+        0,
+        28,
+        57,
+        85
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "FUNPEPE",
+      "asset": "BLACKBOX.Counterparty_General_Fund",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "BLUEBEAR.senic.flood.refund",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "CARSONATED.The_almost_world_record_longest_asset_name_issued_as_the_immutable_non-fungible_concept_text_art_sub-asset_of_CARSONATED_accounted_for_on_the_federated_nodes_of_the_counterparty_protocol_verified_by_bitcoin_stored_upon_OPReturn_forever",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "DEVFUND",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "ECOBITREFUND",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNCHICKEN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNDAY",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNDEDPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNGUSAPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNINTHESUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNKYDOPE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNKYMONKEY",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNKYPEPA",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNKYWENHEN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNNELCAKES",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNNYMAN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "FUNWITHPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "KALEIDOSCOPE.The_new_world_record_longest_asset_name_ever_issued_as_an_immutable_non-fungible_concept_text_art_sub-asset_of_KALEIDOSCOPE_accounted_for_on_the_federated_nodes_of_the_counterparty_protocol_verified_by_bitcoin_stored_in_OPReturn_forever",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "LATOMOFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-0.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "LUCIFER.LUCIFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NAKAFUNGIBLE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NIFTYFUNDONE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NONFUNGERBIL.1",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NONFUNGERBIL.2",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NONFUNGERBIL.3",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NONFUNGERBIL.4",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "NONFUNGERBIL.5",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PEFUNBRA",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PEFUNGUS",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PEPEDUOFUNKY",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PEPEFUNK",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PEPEWAWAFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PHOTOFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "PIGEONFUNN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "SOMUCHFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "SUNDVYFUNDVY",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "TOOFUNNYPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "TRUSSFUND",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-19.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "XFCPRMOFUNES",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-38.png"
+    },
+    {
+      "original": "FUNPEPE",
+      "asset": "ZENPOKOENFUN",
+      "status": "rejected",
+      "reason": "No reuse of the source two-panel composition: sketch figure beside frog above multicolored FUN lettering. Shared fun/fund/fungible naming, general Pepe imagery or generic card framing is insufficient.",
+      "evidence_sheet": "sheets/group-FUNPEPE-38.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 40,
+    "accepted": 0,
+    "rejected": 40
+  }
+}

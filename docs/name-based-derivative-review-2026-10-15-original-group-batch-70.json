@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and two animation sheets visually inspected. PEPETSHIRTS, PEPELITTLE and LITTLEPEPA each sampled at four spaced positions, not exhaustive playback. Source-specific rejection does not exclude unrelated relationships among candidates.",
+  "reviewed": [
+    {
+      "original": "PEPESHIRT",
+      "volume_usd": 21932.561130816794,
+      "buyers": 40,
+      "candidates": [
+        "BTCBROSSHIRT.V1",
+        "DOLFIN.TSHIRT",
+        "PEPEFESTLOL.SWEATSHIRT23",
+        "PEPEISART.TSHIRT22",
+        "PEPETSHIRT",
+        "PEPETSHIRTS",
+        "PINKSHIRTGUY",
+        "PINKSHIRTGUY.1",
+        "PINKSHIRTGUY.10",
+        "PINKSHIRTGUY.11",
+        "PINKSHIRTGUY.12",
+        "PINKSHIRTGUY.13",
+        "PINKSHIRTGUY.14",
+        "PINKSHIRTGUY.15",
+        "PINKSHIRTGUY.16",
+        "PINKSHIRTGUY.17",
+        "PINKSHIRTGUY.2",
+        "PINKSHIRTGUY.3",
+        "PINKSHIRTGUY.4",
+        "PINKSHIRTGUY.5",
+        "PINKSHIRTGUY.6",
+        "PINKSHIRTGUY.7",
+        "PINKSHIRTGUY.8",
+        "PINKSHIRTGUY.9",
+        "PINKSHIRTGUY.DISPENSERFAIL",
+        "SHOTGUNPEPE.TSHIRT",
+        "STUPIDSHIRT"
+      ]
+    },
+    {
+      "original": "PEPELITTLE",
+      "volume_usd": 21778.11929205188,
+      "buyers": 13,
+      "candidates": [
+        "LITTLECOLOR",
+        "LITTLELEAGUE",
+        "LITTLEPEEPEE",
+        "LITTLEPEEPEE.2",
+        "LITTLEPEEPEE.3",
+        "LITTLEPEEPEE.4",
+        "LITTLEPEEPEE.5",
+        "LITTLEPEEPEE.6",
+        "LITTLEPEPA"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPETSHIRTS",
+      "pages": 46,
+      "sampled_frames": [
+        0,
+        15,
+        30,
+        45
+      ]
+    },
+    {
+      "asset": "PEPELITTLE",
+      "pages": 44,
+      "sampled_frames": [
+        0,
+        14,
+        29,
+        43
+      ]
+    },
+    {
+      "asset": "LITTLEPEPA",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPESHIRT",
+      "asset": "BTCBROSSHIRT.V1",
+      "status": "rejected",
+      "reason": "Black shirt with yellow Bitcoin Brothers logo on mottled background. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "DOLFIN.TSHIRT",
+      "status": "rejected",
+      "reason": "Green shirt with circular art emblem. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PEPEFESTLOL.SWEATSHIRT23",
+      "status": "rejected",
+      "reason": "White sweatshirt with Paris frog graphic. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PEPEISART.TSHIRT22",
+      "status": "rejected",
+      "reason": "White shirt with multicolor Pepe Is Art lettering. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PEPETSHIRT",
+      "status": "rejected",
+      "reason": "White shirt redemption card with small frog and Be Rare text. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PEPETSHIRTS",
+      "status": "rejected",
+      "reason": "Animated infomercial-style T-shirt card with human heads and green shirt; different design and layout. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY",
+      "status": "rejected",
+      "reason": "Photographic outdoor group with pink-shirted man. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.1",
+      "status": "rejected",
+      "reason": "Pink-shirted man in surreal desert with long-legged elephant. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.10",
+      "status": "rejected",
+      "reason": "Puppet replaces man in outdoor group. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.11",
+      "status": "rejected",
+      "reason": "Man inserted into American Gothic. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.12",
+      "status": "rejected",
+      "reason": "Man inserted into boat-crossing scene. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.13",
+      "status": "rejected",
+      "reason": "Man in surreal white arch landscape. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.14",
+      "status": "rejected",
+      "reason": "Man in fantasy game landscape. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.15",
+      "status": "rejected",
+      "reason": "Man among historic group portrait. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.16",
+      "status": "rejected",
+      "reason": "Man behind illuminated window. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.17",
+      "status": "rejected",
+      "reason": "Man on fishing boat in game landscape. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.2",
+      "status": "rejected",
+      "reason": "Man in busy restaurant. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.3",
+      "status": "rejected",
+      "reason": "Man at steps beside celebratory boxer figure. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.4",
+      "status": "rejected",
+      "reason": "Man in impossible staircase architecture. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-0.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.5",
+      "status": "rejected",
+      "reason": "Outdoor group with man in striped sports shirt. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.6",
+      "status": "rejected",
+      "reason": "Man inserted into Last Supper. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.7",
+      "status": "rejected",
+      "reason": "Man beside fighting-game character. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.8",
+      "status": "rejected",
+      "reason": "Man and outdoor figures in pastoral painting. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.9",
+      "status": "rejected",
+      "reason": "Skateboarder with man print on board. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "PINKSHIRTGUY.DISPENSERFAIL",
+      "status": "rejected",
+      "reason": "Dispenser-failure text collage with man. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "SHOTGUNPEPE.TSHIRT",
+      "status": "rejected",
+      "reason": "Photographs of shirt with stylized puppet head and dank-meme lettering. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPESHIRT",
+      "asset": "STUPIDSHIRT",
+      "status": "rejected",
+      "reason": "Black Chinese-spy-balloon slogan shirt. No reuse of source black hanging shirt with colorful Pepe Wave design and wooden-wall setting. Shared shirt subject/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHIRT-19.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLECOLOR",
+      "status": "rejected",
+      "reason": "Water splashing from glass. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLELEAGUE",
+      "status": "rejected",
+      "reason": "Pixel baseball-field graphic. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE",
+      "status": "rejected",
+      "reason": "Tiny walking frog on dark field. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE.2",
+      "status": "rejected",
+      "reason": "Tiny gold figure on orange field. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE.3",
+      "status": "rejected",
+      "reason": "Tiny dark figure on gray field. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE.4",
+      "status": "rejected",
+      "reason": "Small black clustered figure on gray field. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE.5",
+      "status": "rejected",
+      "reason": "Small seated scene under triangular spotlight. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEEPEE.6",
+      "status": "rejected",
+      "reason": "Small falling figure on dark blue field. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    },
+    {
+      "original": "PEPELITTLE",
+      "asset": "LITTLEPEPA",
+      "status": "rejected",
+      "reason": "Animated red-haired female frog in pink music card. No reuse of source exercise-infomercial television scene, caption or card design. Shared little name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPELITTLE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 36,
+    "accepted": 0,
+    "rejected": 36
+  }
+}

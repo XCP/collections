@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and two animation sheets inspected. Three GIFs sampled at four spaced frames, not exhaustive playback. Specific-source comparisons only.",
+  "reviewed": [
+    {
+      "original": "KEROPEPE",
+      "volume_usd": 16859.03050374692,
+      "buyers": 46,
+      "candidates": [
+        "FAKEROBOPEPE",
+        "FAKEROCK.lafakanostra",
+        "FAKEROCK.PSA10",
+        "FAKEROSS",
+        "FAKEROTHKO.BASQKEK",
+        "KERODEATH",
+        "KERODEATH.RESURRECTION",
+        "KEROTIC",
+        "KEROVERSO",
+        "MIKERODICK",
+        "PEPEKEROBONK",
+        "SGTFAKERONE",
+        "THEKERO"
+      ]
+    },
+    {
+      "original": "PEPEFAUCET",
+      "volume_usd": 16831.09869392389,
+      "buyers": 354,
+      "candidates": [
+        "ORDFAUCET"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "KEROTIC",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "KEROVERSO",
+      "pages": 100,
+      "sampled_frames": [
+        0,
+        33,
+        66,
+        99
+      ]
+    },
+    {
+      "asset": "PEPEFAUCET",
+      "pages": 63,
+      "sampled_frames": [
+        0,
+        21,
+        41,
+        62
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "KEROPEPE",
+      "asset": "FAKEROBOPEPE",
+      "status": "rejected",
+      "reason": "Robot collage; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "FAKEROCK.lafakanostra",
+      "status": "rejected",
+      "reason": "Rock card; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "FAKEROCK.PSA10",
+      "status": "rejected",
+      "reason": "Graded physical rock card; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "FAKEROSS",
+      "status": "rejected",
+      "reason": "Rapper frog portrait; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "FAKEROTHKO.BASQKEK",
+      "status": "rejected",
+      "reason": "Abstract color-field painting; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "KERODEATH",
+      "status": "rejected",
+      "reason": "Tarot death scene; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "KERODEATH.RESURRECTION",
+      "status": "rejected",
+      "reason": "Tarot resurrection scene; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "KEROTIC",
+      "status": "rejected",
+      "reason": "Animated periodic-table tiles; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "KEROVERSO",
+      "status": "rejected",
+      "reason": "Dark mechanical interface animation; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "MIKERODICK",
+      "status": "rejected",
+      "reason": "Two cartoon figures; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "PEPEKEROBONK",
+      "status": "rejected",
+      "reason": "Hooded frog portrait; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "SGTFAKERONE",
+      "status": "rejected",
+      "reason": "Military-uniform frog portrait; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "KEROPEPE",
+      "asset": "THEKERO",
+      "status": "rejected",
+      "reason": "Painter in neon studio; no reuse of the dense Keroppi-like frog pattern and source composition.",
+      "evidence_sheet": "sheets/group-KEROPEPE-0.png"
+    },
+    {
+      "original": "PEPEFAUCET",
+      "asset": "ORDFAUCET",
+      "status": "rejected",
+      "reason": "Historical Bitcoin faucet website and portrait card; no reuse of the source frog faucet nose, falling drop animation or health-effect card composition.",
+      "evidence_sheet": "sheets/group-PEPEFAUCET-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 14
+  }
+}

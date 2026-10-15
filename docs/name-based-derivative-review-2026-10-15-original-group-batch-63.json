@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-15",
+  "method": "Two original-to-many first-frame sheets and three animation sheets inspected. Eight animations including EARTHPEPE original sampled at four spaced positions; all four EARTHWARD frames inspected. Longer animations not exhaustively reviewed. Each outcome is limited to the named source.",
+  "reviewed": [
+    {
+      "original": "GANGPEPE",
+      "volume_usd": 6123.409409409184,
+      "buyers": 5,
+      "candidates": [
+        "BALLASGANG",
+        "BATGANG",
+        "CORNGANGSTER",
+        "CROWGANGSTER",
+        "FAKAGANG",
+        "GANGALLHERE",
+        "GANGARDEN",
+        "GANGLANDS",
+        "GANGSTRGHOUL",
+        "GOOBYGANG",
+        "PEPAGANGSTA",
+        "PIZZAGANGSTA",
+        "YANGGANG",
+        "YOUTHGANG"
+      ]
+    },
+    {
+      "original": "EARTHPEPE",
+      "volume_usd": 4798.730969260213,
+      "buyers": 58,
+      "candidates": [
+        "COMMONLANDS.MIDDLEEARTH",
+        "EARTHBEAST",
+        "EARTHWARD",
+        "FLATEARTHER",
+        "OEARTH",
+        "PEPEEARTH",
+        "PEPEONEARTH",
+        "PLAGUEHEARTH"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BATGANG",
+      "pages": 57,
+      "sampled_frames": [
+        0,
+        19,
+        37,
+        56
+      ]
+    },
+    {
+      "asset": "PIZZAGANGSTA",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    },
+    {
+      "asset": "YANGGANG",
+      "pages": 33,
+      "sampled_frames": [
+        0,
+        11,
+        21,
+        32
+      ]
+    },
+    {
+      "asset": "GANGLANDS",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "PEPAGANGSTA",
+      "pages": 125,
+      "sampled_frames": [
+        0,
+        41,
+        83,
+        124
+      ]
+    },
+    {
+      "asset": "EARTHWARD",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "EARTHPEPE",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "PEPEEARTH",
+      "pages": 126,
+      "sampled_frames": [
+        0,
+        42,
+        83,
+        125
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "GANGPEPE",
+      "asset": "BALLASGANG",
+      "status": "rejected",
+      "reason": "Video-game gang screenshot. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "BATGANG",
+      "status": "rejected",
+      "reason": "Animated aircraft attack sequence. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "CORNGANGSTER",
+      "status": "rejected",
+      "reason": "Seated corn gangster beneath large cat figure. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "CROWGANGSTER",
+      "status": "rejected",
+      "reason": "Suited crow gang in neon street. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "FAKAGANG",
+      "status": "rejected",
+      "reason": "Rendered frog in blue jacket. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "GANGALLHERE",
+      "status": "rejected",
+      "reason": "Hand with frog-faced fingers. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "GANGARDEN",
+      "status": "rejected",
+      "reason": "Floating garden architecture. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "GANGLANDS",
+      "status": "rejected",
+      "reason": "Two illustrated armed figures. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "GANGSTRGHOUL",
+      "status": "rejected",
+      "reason": "Suited hatted frog portrait before flames, different head drawing and composition. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "GOOBYGANG",
+      "status": "rejected",
+      "reason": "Goofy-style cartoon figures. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "PEPAGANGSTA",
+      "status": "rejected",
+      "reason": "Female gangster group in painterly collage. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "PIZZAGANGSTA",
+      "status": "rejected",
+      "reason": "Anthropomorphic pizza character. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "YANGGANG",
+      "status": "rejected",
+      "reason": "Rotating pink Yang2020 cap. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "GANGPEPE",
+      "asset": "YOUTHGANG",
+      "status": "rejected",
+      "reason": "Monochrome gang photograph. No distinctive reuse of source black graphic cigar-smoking frog head with tilted fedora on green background in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-GANGPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "COMMONLANDS.MIDDLEEARTH",
+      "status": "rejected",
+      "reason": "Mossy garden and mushroom dwellings. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "EARTHBEAST",
+      "status": "rejected",
+      "reason": "White-outline face on black. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "EARTHWARD",
+      "status": "rejected",
+      "reason": "Headphone frog in room with vinyl record. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "FLATEARTHER",
+      "status": "rejected",
+      "reason": "Flat-Earth conspiracy magazine parody. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "OEARTH",
+      "status": "rejected",
+      "reason": "Mona Lisa in ruined gallery. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "PEPEEARTH",
+      "status": "rejected",
+      "reason": "Large hooded frog holding globe against galaxy. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "PEPEONEARTH",
+      "status": "rejected",
+      "reason": "Painted religious portrait collage. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    },
+    {
+      "original": "EARTHPEPE",
+      "asset": "PLAGUEHEARTH",
+      "status": "rejected",
+      "reason": "Small pixel character lineup. No distinctive reuse of source blue-framed cartoon of space frog saving Earth, then crowded frog heads in inspected imagery. Common subject or name alone insufficient.",
+      "evidence_sheet": "sheets/group-EARTHPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 22,
+    "accepted": 0,
+    "rejected": 22
+  }
+}

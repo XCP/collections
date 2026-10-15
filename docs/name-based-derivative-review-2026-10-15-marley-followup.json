@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-15",
+  "method": "Follow-up to batch17 shared animation lead. Enlarged first frames inspected; all four poses previously viewed on group-PEPEFREEDOM-animation-0.png and group-PEPEHELP-animation-0.png. Recovered canonical Arweave JSON and full animation by removing filename suffixes. Original animation matches current CDN decoded pixels for all four frames.",
+  "decisions": [
+    {
+      "original": "FREEDOMPEPES",
+      "asset": "HELPMARLEY",
+      "status": "accepted",
+      "reason": "Same four guitar-playing Marley-Pepe compositions, embedded smaller frogs, captions and frame sequence, with black areas recolored cream. FREEDOMPEPES immutable media pointer was recorded August 21 2022; HELPMARLEY created August 26 with its media description added August 31. This is the later color-treated version of the specific animation, not inferred from shared artist alone."
+    }
+  ],
+  "resolved_additional_leads": [
+    {
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-17.json",
+      "assets": [
+        "FREEDOMPEPES",
+        "HELPMARLEY"
+      ],
+      "resolution": "HELPMARLEY Based on FREEDOMPEPES"
+    }
+  ],
+  "issuances": [
+    {
+      "asset": "FREEDOMPEPES",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "7540c8b56faa487dcdd5481f5c06c5db3812bc39562c4fa4501e5ef3f044500d",
+            "block_index": 750382,
+            "block_time": 1661051171,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://ioncfsklp2kmay5ab4fhqvvj7vukeku2btqwqvf535sgotvuzika.arweave.net/Q5oiyUt-lMBjoA8KeFap_WiiKpoM4WhUvd9kZ060yhQ/FREED.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "ff73b8cdeb3f8e62b43dcb0871fac960e3e7c6ae8db0ed9bfa9c769ee72d2134",
+            "block_index": 750372,
+            "block_time": 1661044054,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HELPMARLEY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "943aa335f0a01041c9ff9ed71fba13a8789cbf143b9d323909280325704afffd",
+            "block_index": 752043,
+            "block_time": 1661965948,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/1cm9aa/HELPM.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "abdaf4930e36d728108a1d3ff0f92ebe9b6fbec44cb3ab268590160276f6c56d",
+            "block_index": 752042,
+            "block_time": 1661965198,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "221",
+            "description": "https://easyasset.art/j/1cm9aa/HELPM.json",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a4db4c07a240c686dd126549499133789ac2e777912078d28d3e2e74d292b15e",
+            "block_index": 752038,
+            "block_time": 1661964020,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/1cm9aa/HELPM.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "d2f020fb68fe82dbd6d8b13948d35491924ff32315c10f1f6f0929bcda49e565",
+            "block_index": 751258,
+            "block_time": 1661532848,
+            "source": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "issuer": "1MZzD4kp3BMAkYTTCKb51nzRKtfz7o1djc",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "metadata_recovery": {
+    "original_path_status": 404,
+    "canonical_json_url": "https://arweave.net/Q5oiyUt-lMBjoA8KeFap_WiiKpoM4WhUvd9kZ060yhQ",
+    "json": {
+      "success": true,
+      "asset": "FREEDOMPEPES",
+      "image": "https://arweave.net/FYW9EZ6Op3Oai20Cx-CdJQ6zf_952dqO0u4l1swy0KY/ghmic1_thumb.png",
+      "image_title": "",
+      "description": "    <div><p>The glitch art here show respect to the legendary artist Pepe Marley.</p></div>",
+      "website": "",
+      "pgpsig": "Pepe Kunta",
+      "category": "Art",
+      "subcategory": "NFT",
+      "category_custom": "",
+      "name": "FREEDOMPEPES",
+      "contact_address_line_1": "",
+      "contact_address_line_2": "",
+      "contact_city": "",
+      "contact_state_province": "",
+      "contact_country": "",
+      "contact_postal_code": "",
+      "contact_phone": "",
+      "contact_fax": "",
+      "contact_email1": "",
+      "contact_email2": "",
+      "website_alternate1": "",
+      "website_alternate2": "",
+      "website_social_facebook": "",
+      "website_social_twitter": "https://twitter.com/kintydread",
+      "website_social_linkedin": "",
+      "website_social_github": "",
+      "website_social_reddit": "",
+      "website_social_googleplus": "",
+      "minted_on": "https://easyasset.art/",
+      "image_large": "https://arweave.net/Kp0aG-ZKQ-7ez9B2mbOqoqXK_tcjWQO5BLJSP4boGEI/ghmic1_image.gif",
+      "image_large_hd": "",
+      "video": "",
+      "audio": ""
+    },
+    "help_marley_endpoint": "https://easyasset.art/j/1cm9aa/HELPM.json",
+    "help_marley_response": "HTTP 200 empty body; no documentary claims inferred from this response."
+  },
+  "media_verification": [
+    {
+      "url": "https://arweave.net/Kp0aG-ZKQ-7ez9B2mbOqoqXK_tcjWQO5BLJSP4boGEI",
+      "status": 200,
+      "bytes": 291505,
+      "width": 400,
+      "height": 2240,
+      "pages": 4,
+      "decoded_sha256": "4c6d3e4772438910d562b2a4883f8cce3dc5195bef5bc0a5ec563c4fba844f5d"
+    },
+    {
+      "url": "https://cdn.xcp.io/img/full/FREEDOMPEPES",
+      "status": 200,
+      "bytes": 291505,
+      "width": 400,
+      "height": 2240,
+      "pages": 4,
+      "decoded_sha256": "4c6d3e4772438910d562b2a4883f8cce3dc5195bef5bc0a5ec563c4fba844f5d"
+    }
+  ],
+  "summary": {
+    "comparisons": 1,
+    "accepted": 1
+  }
+}

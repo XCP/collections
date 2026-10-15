@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets, one GIF sample sheet and one video sample sheet inspected. Four GIFs and QANON.Q123 video sampled at four spaced positions, not exhaustive playback. BTMANONE refetched and confirmed HTML, retained for media follow-up. Specific-source comparisons only.",
+  "reviewed": [
+    {
+      "original": "PLEGO",
+      "volume_usd": 17608.984759888786,
+      "buyers": 35,
+      "candidates": [
+        "COUPLEGOX"
+      ]
+    },
+    {
+      "original": "GUMMYPEPE",
+      "volume_usd": 17356.69951668629,
+      "buyers": 365,
+      "candidates": [
+        "GUMMYFROGS",
+        "GUMMYYUMMY"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "volume_usd": 17556.420883671544,
+      "buyers": 105,
+      "candidates": [
+        "BITCOINANON",
+        "BTCBANON",
+        "BTMANONE",
+        "CANONPEPE",
+        "MANONFIRE",
+        "MLIBTY.ANONYMOUSOFFICIAL",
+        "NAKANONAMOTO",
+        "NINJANON",
+        "ORQANON",
+        "PEPANONYMOUS",
+        "PEPEQANON",
+        "PHOCKANONZ",
+        "PHOCKANONZ.APE",
+        "PHOCKANONZ.BANKS",
+        "PHOCKANONZ.DALI",
+        "PHOCKANONZ.MARIO",
+        "PHOCKANONZ.MOTO",
+        "PHOCKANONZ.OBEY",
+        "PHOCKANONZ.PEPE",
+        "PHOCKANONZ.PILL",
+        "PHOCKANONZ.PRPEP",
+        "PHOCKPARK.ANONYMOUS821",
+        "POORANON",
+        "PPANONYMOUS",
+        "QANON",
+        "QANON.Q12023HOLDER",
+        "QANON.Q123",
+        "QANONSHAMAN",
+        "RRSSANON"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PHOCKANONZ",
+      "pages": 500,
+      "sampled_frames": [
+        0,
+        166,
+        333,
+        499
+      ]
+    },
+    {
+      "asset": "PEPANONYMOUS",
+      "pages": 87,
+      "sampled_frames": [
+        0,
+        29,
+        57,
+        86
+      ]
+    },
+    {
+      "asset": "QANONSHAMAN",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "QANON",
+      "pages": 292,
+      "sampled_frames": [
+        0,
+        97,
+        194,
+        291
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "asset": "QANON.Q123",
+      "duration": 14.04,
+      "sampled_seconds": [
+        0,
+        4.6466666666666665,
+        9.293333333333333,
+        13.94
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PLEGO",
+      "asset": "COUPLEGOX",
+      "status": "rejected",
+      "reason": "Couple silhouette and text poster, not source Lego-style exploded frog assembly.",
+      "evidence_sheet": "sheets/group-PLEGO-0.png"
+    },
+    {
+      "original": "GUMMYPEPE",
+      "asset": "GUMMYFROGS",
+      "status": "rejected",
+      "reason": "Two full-body translucent frog candies, not source single green frog-face gummy/card composition.",
+      "evidence_sheet": "sheets/group-GUMMYPEPE-0.png"
+    },
+    {
+      "original": "GUMMYPEPE",
+      "asset": "GUMMYYUMMY",
+      "status": "rejected",
+      "reason": "Cartoon creature on pink game card, no source gummy face.",
+      "evidence_sheet": "sheets/group-GUMMYPEPE-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "BITCOINANON",
+      "status": "rejected",
+      "reason": "Gold religious-style Bitcoin engraving; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "BTCBANON",
+      "status": "rejected",
+      "reason": "Bitcoin symbol filled with small icons; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "BTMANONE",
+      "status": "media_blocked",
+      "reason": "Full CDN fetch HTTP200 application/octet-stream, 6675 bytes of Imgur HTML rather than artwork. Cannot visually compare.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "CANONPEPE",
+      "status": "rejected",
+      "reason": "Thinker sculpture; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "MANONFIRE",
+      "status": "rejected",
+      "reason": "Frog firing gun; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "MLIBTY.ANONYMOUSOFFICIAL",
+      "status": "rejected",
+      "reason": "Bitcoin-headed suited figure; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "NAKANONAMOTO",
+      "status": "rejected",
+      "reason": "Three-dimensional masked figure within computer frame; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "NINJANON",
+      "status": "rejected",
+      "reason": "Blue ninja cartoon; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "ORQANON",
+      "status": "rejected",
+      "reason": "Political mansion meme; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PEPANONYMOUS",
+      "status": "rejected",
+      "reason": "Animated group of masked frogs and computer displays; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PEPEQANON",
+      "status": "rejected",
+      "reason": "Trump-like frog giving fist gesture; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ",
+      "status": "rejected",
+      "reason": "Animated montage of pixel split-face family; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.APE",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.BANKS",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.DALI",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.MARIO",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.MOTO",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.OBEY",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.PEPE",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-0.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.PILL",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKANONZ.PRPEP",
+      "status": "rejected",
+      "reason": "Pixel split-mask character in suit with red tie; distinct family composition; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PHOCKPARK.ANONYMOUS821",
+      "status": "rejected",
+      "reason": "Pixel masked character in landscape; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "POORANON",
+      "status": "rejected",
+      "reason": "Masked suited figure amid coins; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PPANONYMOUS",
+      "status": "rejected",
+      "reason": "Support-group scene; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "QANON",
+      "status": "rejected",
+      "reason": "Animated Q-drop screenshot and symbols; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "QANON.Q12023HOLDER",
+      "status": "rejected",
+      "reason": "Pink frog with drink in psychedelic room; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "QANON.Q123",
+      "status": "rejected",
+      "reason": "Video of frog with popcorn, charts and political headlines; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-video.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "QANONSHAMAN",
+      "status": "rejected",
+      "reason": "Costumed political figures; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "RRSSANON",
+      "status": "rejected",
+      "reason": "Frog with social-media and network imagery; no distinctive reuse of the source blue-tie masked portrait, multicolor perspective lines and Legion/Hacking card composition. Shared Anonymous mask or theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEANON-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 32,
+    "accepted": 0,
+    "rejected": 31,
+    "media_blocked": 1
+  }
+}

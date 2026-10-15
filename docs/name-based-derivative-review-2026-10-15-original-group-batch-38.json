@@ -1,0 +1,391 @@
+{
+  "date": "2026-10-15",
+  "method": "Six first-frame sheets, three animation sheets and two crusader enlargements viewed. Five animations sampled at four spaced positions; all three CORNYDLUFFY frames. Longer animations not exhaustively reviewed. Source-specific rejections concern inspected material.",
+  "reviewed": [
+    {
+      "original": "PEPELUFFY",
+      "volume_usd": 3514.782173447133,
+      "buyers": 15,
+      "candidates": [
+        "CORNYDLUFFY",
+        "DANKLUFFY",
+        "DROOLDLUFFY",
+        "LUFFYNOPEPE",
+        "PEPEFLUFFY"
+      ]
+    },
+    {
+      "original": "PEPEJUDGE",
+      "volume_usd": 3033.3829062104714,
+      "buyers": 18,
+      "candidates": [
+        "COCOJUDGEMNT",
+        "JUDGECORN",
+        "MSTRPEPES.PEPESLASTJUDGEMENT"
+      ]
+    },
+    {
+      "original": "DRILLPEPE",
+      "volume_usd": 2891.332823733988,
+      "buyers": 32,
+      "candidates": [
+        "BEEDRILL",
+        "CORNDRILL",
+        "CSHGRBORANGE.QUADRILLION",
+        "MSTRPEPES.PEPEAUBERETETALAROBEQUADRILLE"
+      ]
+    },
+    {
+      "original": "TITANICPEPE",
+      "volume_usd": 2460.03311,
+      "buyers": 6,
+      "candidates": [
+        "PEPETITANIC",
+        "SBFTITANIC"
+      ]
+    },
+    {
+      "original": "PEPEORACLE",
+      "volume_usd": 2983.262513915928,
+      "buyers": 29,
+      "candidates": [
+        "BITORACLE",
+        "CARDORACLE",
+        "DECENTORACLE",
+        "FAKEDORACLE",
+        "ORACLETEST",
+        "PEPORACLE"
+      ]
+    },
+    {
+      "original": "CRUSADERPEPE",
+      "volume_usd": 4311.473715134043,
+      "buyers": 3,
+      "candidates": [
+        "PEPECRUSADER",
+        "SHADCRUSADER"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CORNYDLUFFY",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "DRILLPEPE",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "CORNDRILL",
+      "pages": 58,
+      "sampled_frames": [
+        0,
+        19,
+        38,
+        57
+      ]
+    },
+    {
+      "asset": "CARDORACLE",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "ORACLETEST",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPELUFFY",
+      "asset": "CORNYDLUFFY",
+      "status": "rejected",
+      "reason": " Different character poses and compositions. Shared Luffy costume/One Piece influence does not establish reuse of the cigarette-smoking Pepe portrait on the repeating Onepiece background; PEPEFLUFFY is a substring false positive.",
+      "evidence_sheet": "sheets/group-PEPELUFFY-0.png"
+    },
+    {
+      "original": "PEPELUFFY",
+      "asset": "DANKLUFFY",
+      "status": "rejected",
+      "reason": " Different character poses and compositions. Shared Luffy costume/One Piece influence does not establish reuse of the cigarette-smoking Pepe portrait on the repeating Onepiece background; PEPEFLUFFY is a substring false positive.",
+      "evidence_sheet": "sheets/group-PEPELUFFY-0.png"
+    },
+    {
+      "original": "PEPELUFFY",
+      "asset": "DROOLDLUFFY",
+      "status": "rejected",
+      "reason": " Different character poses and compositions. Shared Luffy costume/One Piece influence does not establish reuse of the cigarette-smoking Pepe portrait on the repeating Onepiece background; PEPEFLUFFY is a substring false positive.",
+      "evidence_sheet": "sheets/group-PEPELUFFY-0.png"
+    },
+    {
+      "original": "PEPELUFFY",
+      "asset": "LUFFYNOPEPE",
+      "status": "rejected",
+      "reason": " Different character poses and compositions. Shared Luffy costume/One Piece influence does not establish reuse of the cigarette-smoking Pepe portrait on the repeating Onepiece background; PEPEFLUFFY is a substring false positive.",
+      "evidence_sheet": "sheets/group-PEPELUFFY-0.png"
+    },
+    {
+      "original": "PEPELUFFY",
+      "asset": "PEPEFLUFFY",
+      "status": "rejected",
+      "reason": " Different character poses and compositions. Shared Luffy costume/One Piece influence does not establish reuse of the cigarette-smoking Pepe portrait on the repeating Onepiece background; PEPEFLUFFY is a substring false positive.",
+      "evidence_sheet": "sheets/group-PEPELUFFY-0.png"
+    },
+    {
+      "original": "PEPEJUDGE",
+      "asset": "COCOJUDGEMNT",
+      "status": "rejected",
+      "reason": " No reuse of the wigged judge raising a gavel in the courtroom: candidates depict supernatural judgement, Judge Dredd corn and a Last Judgement scene.",
+      "evidence_sheet": "sheets/group-PEPEJUDGE-0.png"
+    },
+    {
+      "original": "PEPEJUDGE",
+      "asset": "JUDGECORN",
+      "status": "rejected",
+      "reason": " No reuse of the wigged judge raising a gavel in the courtroom: candidates depict supernatural judgement, Judge Dredd corn and a Last Judgement scene.",
+      "evidence_sheet": "sheets/group-PEPEJUDGE-0.png"
+    },
+    {
+      "original": "PEPEJUDGE",
+      "asset": "MSTRPEPES.PEPESLASTJUDGEMENT",
+      "status": "rejected",
+      "reason": " No reuse of the wigged judge raising a gavel in the courtroom: candidates depict supernatural judgement, Judge Dredd corn and a Last Judgement scene.",
+      "evidence_sheet": "sheets/group-PEPEJUDGE-0.png"
+    },
+    {
+      "original": "DRILLPEPE",
+      "asset": "BEEDRILL",
+      "status": "rejected",
+      "reason": " No reuse of the rotating green figure on the orange/pink No sweat card. Candidates are a Pokemon, a man eating corn using a drill, text and a cubist portrait.",
+      "evidence_sheet": "sheets/group-DRILLPEPE-0.png"
+    },
+    {
+      "original": "DRILLPEPE",
+      "asset": "CORNDRILL",
+      "status": "rejected",
+      "reason": " No reuse of the rotating green figure on the orange/pink No sweat card. Candidates are a Pokemon, a man eating corn using a drill, text and a cubist portrait.",
+      "evidence_sheet": "sheets/group-DRILLPEPE-0.png"
+    },
+    {
+      "original": "DRILLPEPE",
+      "asset": "CSHGRBORANGE.QUADRILLION",
+      "status": "rejected",
+      "reason": " No reuse of the rotating green figure on the orange/pink No sweat card. Candidates are a Pokemon, a man eating corn using a drill, text and a cubist portrait.",
+      "evidence_sheet": "sheets/group-DRILLPEPE-0.png"
+    },
+    {
+      "original": "DRILLPEPE",
+      "asset": "MSTRPEPES.PEPEAUBERETETALAROBEQUADRILLE",
+      "status": "rejected",
+      "reason": " No reuse of the rotating green figure on the orange/pink No sweat card. Candidates are a Pokemon, a man eating corn using a drill, text and a cubist portrait.",
+      "evidence_sheet": "sheets/group-DRILLPEPE-0.png"
+    },
+    {
+      "original": "TITANICPEPE",
+      "asset": "PEPETITANIC",
+      "status": "rejected",
+      "reason": " Different Titanic film adaptations; no reuse of this simple outlined ship-bow drawing and its two small figures.",
+      "evidence_sheet": "sheets/group-TITANICPEPE-0.png"
+    },
+    {
+      "original": "TITANICPEPE",
+      "asset": "SBFTITANIC",
+      "status": "rejected",
+      "reason": " Different Titanic film adaptations; no reuse of this simple outlined ship-bow drawing and its two small figures.",
+      "evidence_sheet": "sheets/group-TITANICPEPE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "BITORACLE",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "CARDORACLE",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "DECENTORACLE",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "FAKEDORACLE",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "ORACLETEST",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "PEPEORACLE",
+      "asset": "PEPORACLE",
+      "status": "rejected",
+      "reason": " No reuse of the purple-turbaned Pepe at a spread of fortune-telling cards. Candidates show different portraits, magazine cover, crystal ball, social post and seated Bitcoin oracle.",
+      "evidence_sheet": "sheets/group-PEPEORACLE-0.png"
+    },
+    {
+      "original": "CRUSADERPEPE",
+      "asset": "PEPECRUSADER",
+      "status": "accepted",
+      "reason": "Enlarged images reuse the exact Pepe head, armored knight, pole, flag and metallic card frame; changed title, subtitle, background and stats. Original is catalogued in Rare Pepe with 2017 trading-card issuance; candidate linked media in December 2023.",
+      "evidence_sheet": "sheets/group-CRUSADERPEPE-0.png"
+    },
+    {
+      "original": "CRUSADERPEPE",
+      "asset": "SHADCRUSADER",
+      "status": "rejected",
+      "reason": " SHADCRUSADER has a different knight, pose, palette and card composition; crusader subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CRUSADERPEPE-0.png"
+    }
+  ],
+  "documentary_evidence": {
+    "issuances": [
+      {
+        "asset": "CRUSADERPEPE",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "efa7578b051aa5a132be54983eccb0f46712e213afd3bf4544c6887828d50e62",
+              "block_index": 458201,
+              "block_time": 1490070588,
+              "source": "16PecdN3q7K5ucymiHwwGQzGetzd5R4x9N",
+              "issuer": "16PecdN3q7K5ucymiHwwGQzGetzd5R4x9N",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "Rarepepe Trading Card Collaboration ",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "d93114e6adc6b6127820f477452902f569716a76b84309454c306237a95e6e9b",
+              "block_index": 456530,
+              "block_time": 1489112189,
+              "source": "16PecdN3q7K5ucymiHwwGQzGetzd5R4x9N",
+              "issuer": "16PecdN3q7K5ucymiHwwGQzGetzd5R4x9N",
+              "transfer": 0,
+              "quantity_normalized": "122",
+              "description": "Rarepepe Trading Card Collaboration ",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "PEPECRUSADER",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "064d02652640e05ffc2ed2c52515dffdf88976045745c22088d813c6d66e7a93",
+              "block_index": 822697,
+              "block_time": 1703406784,
+              "source": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "issuer": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/f563iq/PEPEC.json",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "08621eb5955223d3587befb0e6ed58c400a12ada5a4c407278f47af552fe0dcf",
+              "block_index": 822643,
+              "block_time": 1703381810,
+              "source": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "issuer": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/f563iq/PEPEC.json",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "51ef9d77c11403cd34d807477a9d6db5936d51be3af38aec1cba583c3b4d09f6",
+              "block_index": 820449,
+              "block_time": 1702146793,
+              "source": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "issuer": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/dryg1s/PEPEC.json",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "4e165569403d895383156fa182e54f45d3b27c95e3187b093636d26c42367105",
+              "block_index": 817889,
+              "block_time": 1700614965,
+              "source": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "issuer": "1NoqqWeLXAnCGmP2ZDsuN8ekHJ61ZaE3JH",
+              "transfer": 0,
+              "quantity_normalized": "50",
+              "description": "",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ],
+    "original_catalog": {
+      "asset": "CRUSADERPEPE",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Nymz"
+        },
+        {
+          "trait_type": "Series",
+          "value": 18
+        },
+        {
+          "trait_type": "Card",
+          "value": 12
+        }
+      ]
+    }
+  },
+  "summary": {
+    "comparisons": 22,
+    "accepted": 1,
+    "rejected": 21
+  }
+}

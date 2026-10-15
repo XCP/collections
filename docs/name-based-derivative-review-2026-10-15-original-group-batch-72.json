@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and one animation sheet visually inspected. All two FEELSHUNGRY frames and four spaced PEPEHUNGRY frames viewed; source animation not exhaustively reviewed.",
+  "reviewed": [
+    {
+      "original": "PEPEHUNGRY",
+      "volume_usd": 21188.11574203625,
+      "buyers": 91,
+      "candidates": [
+        "FEELSHUNGRY",
+        "HUNGRYAMPHIB",
+        "HUNGRYPARTY"
+      ]
+    },
+    {
+      "original": "LONELYPEPE",
+      "volume_usd": 21174.123080782498,
+      "buyers": 24,
+      "candidates": [
+        "LONELYDANKSY",
+        "LONELYFAP",
+        "LONELYLAND",
+        "LONELYWOJAK"
+      ]
+    },
+    {
+      "original": "KFPEPE",
+      "volume_usd": 21507.162934924898,
+      "buyers": 42,
+      "candidates": [
+        "WKFPEPE"
+      ]
+    },
+    {
+      "original": "MYFIRSTPEPE",
+      "volume_usd": 21281.341369304668,
+      "buyers": 15,
+      "candidates": [
+        "MYFIRSTNFT"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FEELSHUNGRY",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "PEPEHUNGRY",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEHUNGRY",
+      "asset": "FEELSHUNGRY",
+      "status": "rejected",
+      "reason": "Seated gray figure eating fast food, different from source frog catching Bitcoin flies by pond. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHUNGRY-0.png"
+    },
+    {
+      "original": "PEPEHUNGRY",
+      "asset": "HUNGRYAMPHIB",
+      "status": "rejected",
+      "reason": "Armored dragon fantasy scene, not source pond-frog illustration. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHUNGRY-0.png"
+    },
+    {
+      "original": "PEPEHUNGRY",
+      "asset": "HUNGRYPARTY",
+      "status": "rejected",
+      "reason": "Four frogs in colorful ball-eating board game, no source frog pose or scene reused. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHUNGRY-0.png"
+    },
+    {
+      "original": "LONELYPEPE",
+      "asset": "LONELYDANKSY",
+      "status": "rejected",
+      "reason": "Suited frog with flowers by shutter, not sky-gazing frog portrait. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-LONELYPEPE-0.png"
+    },
+    {
+      "original": "LONELYPEPE",
+      "asset": "LONELYFAP",
+      "status": "rejected",
+      "reason": "Ape explorer before volcano and dinosaurs, no sky-gazing source scene. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-LONELYPEPE-0.png"
+    },
+    {
+      "original": "LONELYPEPE",
+      "asset": "LONELYLAND",
+      "status": "rejected",
+      "reason": "Frog under glass dome on floating island, different figure and composition. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-LONELYPEPE-0.png"
+    },
+    {
+      "original": "LONELYPEPE",
+      "asset": "LONELYWOJAK",
+      "status": "rejected",
+      "reason": "Seated Wojak on island beneath palm tree, not source portrait. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-LONELYPEPE-0.png"
+    },
+    {
+      "original": "KFPEPE",
+      "asset": "WKFPEPE",
+      "status": "rejected",
+      "reason": "World Kekonomic Forum suited frog with raised hands; no reuse of source fried-chicken mascot portrait. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-KFPEPE-0.png"
+    },
+    {
+      "original": "MYFIRSTPEPE",
+      "asset": "MYFIRSTNFT",
+      "status": "rejected",
+      "reason": "Abstract QR-like number-one graphic, not source illustrated book-cover scene. Shared name fragment or subject alone insufficient.",
+      "evidence_sheet": "sheets/group-MYFIRSTPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 9,
+    "accepted": 0,
+    "rejected": 9
+  }
+}

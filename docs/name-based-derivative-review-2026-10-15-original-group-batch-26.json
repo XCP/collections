@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet viewed. COCOTHECLOWN all four frames; CLOWNTECH.rare frames 0,2,3,5 of six, not exhaustive. Separate show leads enlarged and linked metadata fetched.",
+  "reviewed": [
+    {
+      "original": "WHISKEYPEPE",
+      "volume_usd": 4675.469951701018,
+      "buyers": 77,
+      "candidates": [
+        "PIGEOWHISKEY",
+        "TENNWHISKEY",
+        "WHISKEYWOJAK"
+      ]
+    },
+    {
+      "original": "CLOWNPEPE",
+      "volume_usd": 5358.555295986596,
+      "buyers": 9,
+      "candidates": [
+        "CLOWNBANGERS",
+        "CLOWNSTRONG",
+        "CLOWNTECH",
+        "CLOWNTECH.rare",
+        "COCOTHECLOWN",
+        "DEATHCLOWN",
+        "ITDROLLCLOWN",
+        "THECLOWNPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "COCOTHECLOWN",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "CLOWNTECH.rare",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "WHISKEYPEPE",
+      "asset": "PIGEOWHISKEY",
+      "status": "rejected",
+      "reason": "Different whisky imagery; no reuse of the white-on-black ornamental bottle-label Pepe illustration.",
+      "evidence_sheet": "sheets/group-WHISKEYPEPE-0.png"
+    },
+    {
+      "original": "WHISKEYPEPE",
+      "asset": "TENNWHISKEY",
+      "status": "rejected",
+      "reason": "Different whisky imagery; no reuse of the white-on-black ornamental bottle-label Pepe illustration.",
+      "evidence_sheet": "sheets/group-WHISKEYPEPE-0.png"
+    },
+    {
+      "original": "WHISKEYPEPE",
+      "asset": "WHISKEYWOJAK",
+      "status": "rejected",
+      "reason": "Different whisky imagery; no reuse of the white-on-black ornamental bottle-label Pepe illustration.",
+      "evidence_sheet": "sheets/group-WHISKEYPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "CLOWNBANGERS",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "CLOWNSTRONG",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "CLOWNTECH",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "CLOWNTECH.rare",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "COCOTHECLOWN",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "DEATHCLOWN",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "ITDROLLCLOWN",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "CLOWNPEPE",
+      "asset": "THECLOWNPEPE",
+      "status": "rejected",
+      "reason": "Different clown faces, poses and scenes; no reuse of the red-haired, ruffed Pepe carrying a green bag.",
+      "evidence_sheet": "sheets/group-CLOWNPEPE-0.png"
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "SIDESHOWPEPE",
+      "status": "ambiguous",
+      "reason": "Yellow card structure and I am a Pepe joke resemble HOMERPEPE, but the character, drawing and prison setting differ. Enlargements do not establish distinctive composition reuse. Linked Coindaddy JSON describes Sideshow Bob without attributing HOMERPEPE.",
+      "evidence_images": [
+        "previews/SIDESHOWPEPE-detail.png",
+        "previews/HOMERPEPE-detail.png"
+      ]
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "PEPECOSHOW",
+      "status": "ambiguous",
+      "reason": "Four animation samples show a montage of existing cards beneath a circular logo, including this original. Display/inclusion alone does not establish derivative intent. Both on-chain Arweave URL and canonical hash returned 404. Full sequence not reviewed.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-animation-0.png"
+    },
+    {
+      "original": "LORDKEK",
+      "asset": "PEPECOSHOW",
+      "status": "ambiguous",
+      "reason": "Four animation samples show a montage of existing cards beneath a circular logo, including this original. Display/inclusion alone does not establish derivative intent. Both on-chain Arweave URL and canonical hash returned 404. Full sequence not reviewed.",
+      "evidence_sheet": "sheets/group-RAREPEPESHOW-animation-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "SIDESHOWPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "574fecfe9d63d28373ed52919932f47025a65d11bcbd4f6d71e0333f3ec982bf",
+            "block_index": 733609,
+            "block_time": 1650954620,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/SIDESHOWPEPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9b298d0ed306c415813ae38f8d3fabdeb88bdd25bdfa2e49a7ca28ca5181bb42",
+            "block_index": 733609,
+            "block_time": 1650954620,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e1024eba6e5965646fa9d133f10ba0e92ee9d4027b9c1f1e3e3024c9f6e27e73",
+            "block_index": 729332,
+            "block_time": 1648440839,
+            "source": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "issuer": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HOMERPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "a1ef094fee761ab0b65a7d0fe6d1947f5ca7aae32d502deddc8d7e0448d5f1ad",
+            "block_index": 676585,
+            "block_time": 1616877440,
+            "source": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "issuer": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "The Mona Lisa of Pepes",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "0175123fea98a596e9d303970eddfa3af585cd8eacd3eca16d2f4308a694d80d",
+            "block_index": 509344,
+            "block_time": 1518725115,
+            "source": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "issuer": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "485af5ef3c096aa5dee3e4f8ebfd929811b4ec46145aa3d4a9eb372c6af0cf94",
+            "block_index": 467101,
+            "block_time": 1495189979,
+            "source": "1A4FU14sDQCvaxYuxBtvxPSAdDszho3Ypk",
+            "issuer": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "22362e871c7dda21e8c9960dd842c241653ad4b401091b29c905a6c51557127e",
+            "block_index": 453585,
+            "block_time": 1487403961,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1A4FU14sDQCvaxYuxBtvxPSAdDszho3Ypk",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "793b317bad14cc4d25889e41e748e87ca9247e298e27a73ab44e7d899f2485c8",
+            "block_index": 432080,
+            "block_time": 1475155751,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3f0053d19b7feb5731a3be83b16212516b934d3da456d5b47d97c51ab4b24f4c",
+            "block_index": 432028,
+            "block_time": 1475127976,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "HOMERSIMPSON",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "PEPECOSHOW",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "360f7e363c3ef62575987635342ff566b58dde76fe1850cd0699406eeb00352a",
+            "block_index": 802732,
+            "block_time": 1691805331,
+            "source": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "issuer": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://hil7q6zfc7s3rm6b7vo7respshfxg5i4ysfoiygv7pkltusikira.arweave.net/Ohf4eyUX5bizwf1d-JJPkctzdRzEiuRg1fvUudJIUiI/PEPECOSHOW.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "26269e1c16809e5837384477bc65ab1204874240b4993b25ef4d338318dfb7c3",
+            "block_index": 802731,
+            "block_time": 1691803826,
+            "source": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "issuer": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "Insufficient BTC at address",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "cddb88dbc8024998c79eacbbb3fb26c5d76c153e48429897c4a33ba37dcaab5c",
+            "block_index": 802731,
+            "block_time": 1691803826,
+            "source": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "issuer": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "Insufficient BTC at address",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "5339f42a81a63a1301c939c8ec5cfaa9cba681e39b5ccc6610db95e455daeb3f",
+            "block_index": 802730,
+            "block_time": 1691802512,
+            "source": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "issuer": "1LgAdfVZg6CwNJP8cGXQvodeUsDcghfEcu",
+            "transfer": 0,
+            "quantity_normalized": "21",
+            "description": "Insufficient BTC at address",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "metadata_evidence": [
+    {
+      "url": "https://xcp.coindaddy.io/SIDESHOWPEPE.json",
+      "status": 200,
+      "metadata": {
+        "success": true,
+        "asset": "SIDESHOWPEPE",
+        "asset_issuer_address": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+        "asset_owner_address": "18NeUpEHzAquBcsncM5BGLR4VgaPXZhPp2",
+        "asset_supply": "100",
+        "asset_divisible": false,
+        "asset_locked": true,
+        "image": "https://coindaddy.io/content/images/icons/xcp/SIDESHOWPEPE.png",
+        "description": "The Villain of the piece and arch nemesis to Bart.\r\nDoes love a bit of classical music and some good reading, highly under rated past times ...",
+        "website": "",
+        "pgpsig": "",
+        "category": "Entertainment",
+        "subcategory": "Fictional Character",
+        "category_custom": "",
+        "name": "SIDESHOWPEPE",
+        "contact_address_line_1": "",
+        "contact_address_line_2": "",
+        "contact_city": "",
+        "contact_state_province": "",
+        "contact_country": "",
+        "contact_postal_code": "",
+        "contact_phone": "",
+        "contact_fax": "",
+        "contact_email1": "",
+        "contact_email2": "",
+        "website_alternate1": "",
+        "website_alternate2": "",
+        "website_social_facebook": "",
+        "website_social_twitter": "",
+        "website_social_linkedin": "",
+        "website_social_github": "",
+        "website_social_reddit": "",
+        "website_social_googleplus": "",
+        "image_large": "https://imgur.com/YN2tdBn.png"
+      }
+    },
+    {
+      "url": "https://arweave.net/Ohf4eyUX5bizwf1d-JJPkctzdRzEiuRg1fvUudJIUiI",
+      "status": 404
+    },
+    {
+      "url": "https://hil7q6zfc7s3rm6b7vo7respshfxg5i4ysfoiygv7pkltusikira.arweave.net/Ohf4eyUX5bizwf1d-JJPkctzdRzEiuRg1fvUudJIUiI/PEPECOSHOW.json",
+      "status": 404
+    }
+  ],
+  "additional_leads": [
+    {
+      "asset": "CLOWNTECH.rare",
+      "original": "CLOWNTECH",
+      "reason": "Same composition with animated frame colors; parent/variant relationship needs history and existing-relation check."
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 11,
+    "ambiguous": 3
+  }
+}

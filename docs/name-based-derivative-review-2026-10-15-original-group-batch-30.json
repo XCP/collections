@@ -1,0 +1,475 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets, two animation sheets and seven enlarged images viewed. PEPEBUGGED and BUGGEDOPEN sampled at four spaced positions, ONLYONEJOEY both frames viewed; not exhaustive playback for long animations. Exact art and wording reuse supports direction; candidate linked media 2022-2026 follows 2016 catalog originals. Registration alone is not claimed to date artwork.",
+  "reviewed": [
+    {
+      "original": "PEPEBUGGED",
+      "volume_usd": 3076.3526447117297,
+      "buyers": 1,
+      "candidates": [
+        "BUGGEDOPEN",
+        "PENPENBUGGED"
+      ]
+    },
+    {
+      "original": "BATTLECORN",
+      "volume_usd": 6559.74195456,
+      "buyers": 28,
+      "candidates": [
+        "DROOLBATTLE",
+        "DROOLBATTLE.SPACEAPE"
+      ]
+    },
+    {
+      "original": "CORNSNACK",
+      "volume_usd": 1920.2605413674244,
+      "buyers": 12,
+      "candidates": [
+        "SNACKAMOTO",
+        "SNACKATTACK"
+      ]
+    },
+    {
+      "original": "ONLYONEPEPE",
+      "volume_usd": 1079.148,
+      "buyers": 2,
+      "candidates": [
+        "ONLYONECHAD",
+        "ONLYONEJOEY",
+        "ONLYONEPNPN",
+        "ONLYONESMOL"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPEBUGGED",
+      "pages": 105,
+      "sampled_frames": [
+        0,
+        35,
+        69,
+        104
+      ]
+    },
+    {
+      "asset": "BUGGEDOPEN",
+      "pages": 106,
+      "sampled_frames": [
+        0,
+        35,
+        70,
+        105
+      ]
+    },
+    {
+      "asset": "ONLYONEJOEY",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEBUGGED",
+      "asset": "BUGGEDOPEN",
+      "status": "accepted",
+      "reason": "Reuses original animation and misprint warning card, adding an Open Edition scribble.",
+      "evidence_sheet": "sheets/group-PEPEBUGGED-0.png"
+    },
+    {
+      "original": "PEPEBUGGED",
+      "asset": "PENPENBUGGED",
+      "status": "accepted",
+      "reason": "Reuses misprint card design and specific warning text, replacing Pepe with penguin and rewriting warning quantities. No BUGGEDOPEN scribble retained.",
+      "evidence_sheet": "sheets/group-PEPEBUGGED-0.png"
+    },
+    {
+      "original": "BATTLECORN",
+      "asset": "DROOLBATTLE",
+      "status": "rejected",
+      "reason": "No reuse of historical group photograph or battle-card composition.",
+      "evidence_sheet": "sheets/group-BATTLECORN-0.png"
+    },
+    {
+      "original": "BATTLECORN",
+      "asset": "DROOLBATTLE.SPACEAPE",
+      "status": "rejected",
+      "reason": "No reuse of historical group photograph or battle-card composition.",
+      "evidence_sheet": "sheets/group-BATTLECORN-0.png"
+    },
+    {
+      "original": "CORNSNACK",
+      "asset": "SNACKAMOTO",
+      "status": "rejected",
+      "reason": "Different snack illustrations; no source packet/girl composition reuse.",
+      "evidence_sheet": "sheets/group-CORNSNACK-0.png"
+    },
+    {
+      "original": "CORNSNACK",
+      "asset": "SNACKATTACK",
+      "status": "rejected",
+      "reason": "Different snack illustrations; no source packet/girl composition reuse.",
+      "evidence_sheet": "sheets/group-CORNSNACK-0.png"
+    },
+    {
+      "original": "ONLYONEPEPE",
+      "asset": "ONLYONECHAD",
+      "status": "rejected",
+      "reason": "Different scene and characters; no crowd composition or specific wording reuse.",
+      "evidence_sheet": "sheets/group-ONLYONEPEPE-0.png"
+    },
+    {
+      "original": "ONLYONEPEPE",
+      "asset": "ONLYONEJOEY",
+      "status": "accepted",
+      "reason": "Exact crowd and nested frame reused, replacing central face with Joey and modifying title/footer; adds animation.",
+      "evidence_sheet": "sheets/group-ONLYONEPEPE-0.png"
+    },
+    {
+      "original": "ONLYONEPEPE",
+      "asset": "ONLYONEPNPN",
+      "status": "accepted",
+      "reason": "Redraw of lone colored character amid black-suited Wojak crowd with matching ONLYONE title and ORIGINAL RAREST only1 footer; replaces Pepe with Penpen.",
+      "evidence_sheet": "sheets/group-ONLYONEPEPE-0.png"
+    },
+    {
+      "original": "ONLYONEPEPE",
+      "asset": "ONLYONESMOL",
+      "status": "accepted",
+      "reason": "Exact Wojak crowd/frame reused with Smol replacing central Pepe and modified title, dystopia date and rarity footer.",
+      "evidence_sheet": "sheets/group-ONLYONEPEPE-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "PEPEBUGGED",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "8ee349e856ed67ee4f3de99296ae2505bc697694ff85efc906bba3f077a55284",
+            "block_index": 432906,
+            "block_time": 1475635623,
+            "source": "17Vo26NqNRzdDRTL6wumGfaWj1wJNShGqg",
+            "issuer": "17Vo26NqNRzdDRTL6wumGfaWj1wJNShGqg",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "PEPE BUGGED",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "0f8c8f5dc41da95bdbd715a5b63ceabb41f1a0d78367f7949b313a8097a571f3",
+            "block_index": 432851,
+            "block_time": 1475605341,
+            "source": "17Vo26NqNRzdDRTL6wumGfaWj1wJNShGqg",
+            "issuer": "17Vo26NqNRzdDRTL6wumGfaWj1wJNShGqg",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "PEPE BUGGED",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "BUGGEDOPEN",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "b10f08be81a2f4763e5a644570f64840d287d4db5fa8a5a784b71c80367aa539",
+            "block_index": 777973,
+            "block_time": 1677165589,
+            "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://xcp.dankinfo.art/jsons/BUGGEDOPEN.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e09adcd9769950883f47372d54a099cd9fe6345d956b0e6b4fc4f3ebf2a1a054",
+            "block_index": 733180,
+            "block_time": 1650721514,
+            "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://xcp.dankinfo.art/jsons/BUGGEDOPEN.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "719151c093507bf7d2c2cb349075b8504418448983742cef51514864be651efb",
+            "block_index": 733029,
+            "block_time": 1650637699,
+            "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a40586cba0f33ac679715ee867903d959de8aaa6442327beb236992aad840ed9",
+            "block_index": 733027,
+            "block_time": 1650635858,
+            "source": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "issuer": "15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "PENPENBUGGED",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "b13ffe671c0bb20ea8ed13341d5571b964df53b75505790a512b7a1fbfa295d3",
+            "block_index": 937839,
+            "block_time": 1771776027,
+            "source": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "issuer": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/p5qmhe/PENPE.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4522e9017b846f33eb1b03660462db806e186b75e4c3200d1a66e23e9fe0188c",
+            "block_index": 937838,
+            "block_time": 1771774071,
+            "source": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "issuer": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/p5qmhe/PENPE.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "bc421301c5c1729da5813e562be10718dfc4daeb53034423f3d1c115f08c0c11",
+            "block_index": 937718,
+            "block_time": 1771713280,
+            "source": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "issuer": "1L7aoyA1ZJ75ZW6bLfzpxySfxA1hWZdxEK",
+            "transfer": 0,
+            "quantity_normalized": "1776",
+            "description": "https://easyasset.art/j/lbxs95/PENPE.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ONLYONEPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "722466a506a52d1c21c3229c0a242be8fd9ad78199bd68b69c71daf56584a5ed",
+            "block_index": 431502,
+            "block_time": 1474831924,
+            "source": "18dHBKdPV93MbsFEtHGEUyD8aKhZ3sZBBJ",
+            "issuer": "18dHBKdPV93MbsFEtHGEUyD8aKhZ3sZBBJ",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "ONLY ONE",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "874bf5983a10e577cc8bb388f6d7cc42bee3b60c47434a6bf87ed44952fe78a6",
+            "block_index": 431486,
+            "block_time": 1474825550,
+            "source": "18dHBKdPV93MbsFEtHGEUyD8aKhZ3sZBBJ",
+            "issuer": "18dHBKdPV93MbsFEtHGEUyD8aKhZ3sZBBJ",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "ONLY ONE",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ONLYONEJOEY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "8d447d6b4c6edae1f2ccd05c8249219d4823994de041d043f8e17edcfad135af",
+            "block_index": 920738,
+            "block_time": 1761405123,
+            "source": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "issuer": "1AQc4LrZwx7A3HL583kGVPax1gzjkcamim",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://s32ueq63xnqlbyysprcuc4f4hmmis3wx7fdhxmjtizfmtzyk7o7a.arweave.net/lvVCQ9u7YLDjEnxFQXC8OxiJbtf5RnuxM0ZKyecK-74/ONLYO.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8f3f6a0c884095bf5f1c01421f3ad9b3e5e4b31512b3a7c4e031f57611787796",
+            "block_index": 776350,
+            "block_time": 1676298260,
+            "source": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "issuer": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://s32ueq63xnqlbyysprcuc4f4hmmis3wx7fdhxmjtizfmtzyk7o7a.arweave.net/lvVCQ9u7YLDjEnxFQXC8OxiJbtf5RnuxM0ZKyecK-74/ONLYO.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4318c06e9e1d3bcd51fcfce9e0c567261cd81f3867d1b6e5002084c5d9b1de3b",
+            "block_index": 776338,
+            "block_time": 1676289345,
+            "source": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "issuer": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://s32ueq63xnqlbyysprcuc4f4hmmis3wx7fdhxmjtizfmtzyk7o7a.arweave.net/lvVCQ9u7YLDjEnxFQXC8OxiJbtf5RnuxM0ZKyecK-74/ONLYO.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "c84f56b2b81f0fddbbd251a9add2b496fd564afd131c29157de7281f57f3c05e",
+            "block_index": 738776,
+            "block_time": 1654033682,
+            "source": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "issuer": "1CKDZhRxSayuJUujQ7VeQ7xDCQTF8cE8or",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ONLYONEPNPN",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "583464d4bc65a961a7912a5e5594367e1492307a645024af061049f1cf8f6691",
+            "block_index": 955789,
+            "block_time": 1782638197,
+            "source": "17kHVHkMNnNKGZWvm2n8c9796Gu4n4G9gp",
+            "issuer": "13H79p5ePrVAkhTxqkvHS5bCc2fWrr4QoN",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://spsjx3jsob7n4m3yhnuqnhgggnyock3ywpc2yei7bowjaofk65wq.arweave.net/k-Sb7TJwft4zeDtpBpzGM3DhK3izxawRHwuskDiq920/ONLYO.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3b757f8a57bfaa8d49934c849b59b308d74c34185e4052e7f5136b7b0d9b18d2",
+            "block_index": 935219,
+            "block_time": 1770361836,
+            "source": "17kHVHkMNnNKGZWvm2n8c9796Gu4n4G9gp",
+            "issuer": "17kHVHkMNnNKGZWvm2n8c9796Gu4n4G9gp",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://spsjx3jsob7n4m3yhnuqnhgggnyock3ywpc2yei7bowjaofk65wq.arweave.net/k-Sb7TJwft4zeDtpBpzGM3DhK3izxawRHwuskDiq920/ONLYO.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a218c5db746054056ee65cbf533aab650400777c1a614c9ed6815f0946b72982",
+            "block_index": 935208,
+            "block_time": 1770354281,
+            "source": "17kHVHkMNnNKGZWvm2n8c9796Gu4n4G9gp",
+            "issuer": "17kHVHkMNnNKGZWvm2n8c9796Gu4n4G9gp",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "https://spsjx3jsob7n4m3yhnuqnhgggnyock3ywpc2yei7bowjaofk65wq.arweave.net/k-Sb7TJwft4zeDtpBpzGM3DhK3izxawRHwuskDiq920/ONLYO.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ONLYONESMOL",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "e5fe40040f5573b4ae5f66cb22ba0bbad4f6b10478bc4bb08e9e865c7da817f6",
+            "block_index": 834619,
+            "block_time": 1710393192,
+            "source": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "issuer": "18vrrafPp8igAT2HsiXJyNNj1HteVup3PL",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/r5g0e3/ONLYO.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8326b3599ebe57c7cb0cb7740b292eaa79ce4f6d61b7bf1739cfadbf218ab59e",
+            "block_index": 753097,
+            "block_time": 1662594078,
+            "source": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "issuer": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/r5g0e3/ONLYO.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "ed0cd31771ed31a6f41f673cf6d4ea1e095ec49a50d4f93fcda2de4c2a5367fe",
+            "block_index": 751403,
+            "block_time": 1661622557,
+            "source": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "issuer": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/Szfs35X.png",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "1e19bf2b54a5344980d96b46a7d9125579f7450e765f7a4190daa754196f861b",
+            "block_index": 751402,
+            "block_time": 1661619775,
+            "source": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "issuer": "1DRZVQQepVDcT5tTf8k2gEd3QiNBVmubso",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "imgur/Szfs35X.png",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 10,
+    "accepted": 5,
+    "rejected": 5
+  }
+}

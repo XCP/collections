@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-15",
+  "method": "Batch83 partial: first13 groups reviewed side by side. MARGINED and MARGINEDSWAN enlarged at full resolution. FAKEBEACHPEP 220-frame GIF sampled at frames0,73,146,219; not exhaustive animation review. Shared subjects and incidental insets alone are insufficient.",
+  "reviewed": [
+    {
+      "original": "CHECKPEPE",
+      "candidates": [
+        "DANKCHECKER",
+        "PEPECHECKS"
+      ]
+    },
+    {
+      "original": "PEPEMIRO",
+      "candidates": [
+        "DANKMIRO"
+      ]
+    },
+    {
+      "original": "PEPOLLO",
+      "candidates": [
+        "PEPOLLOCK"
+      ]
+    },
+    {
+      "original": "FRESHPEPE",
+      "candidates": [
+        "PEPEFRESH"
+      ]
+    },
+    {
+      "original": "CUBEPEPE",
+      "candidates": [
+        "FAUXBORGCUBE"
+      ]
+    },
+    {
+      "original": "STONEPEPE",
+      "candidates": [
+        "PEPESTONE"
+      ]
+    },
+    {
+      "original": "BEACHPEPE",
+      "candidates": [
+        "FAKEBEACHPEP",
+        "SADNESSBEACH"
+      ]
+    },
+    {
+      "original": "PEPEOUTSIDE",
+      "candidates": [
+        "OUTSIDERS"
+      ]
+    },
+    {
+      "original": "PEPEHEFNER",
+      "candidates": [
+        "DANKHEFNER"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "candidates": [
+        "PEPEANONYMUS"
+      ]
+    },
+    {
+      "original": "CORNYEEZUS",
+      "candidates": [
+        "FAKEYEEZUS"
+      ]
+    },
+    {
+      "original": "MARGINED",
+      "candidates": [
+        "MARGINEDSWAN"
+      ]
+    },
+    {
+      "original": "DROPPEPE",
+      "candidates": [
+        "DANKDROP",
+        "PEPEDROPOUT"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CHECKPEPE",
+      "asset": "DANKCHECKER",
+      "status": "rejected",
+      "reason": "Scientist portrait/checkmark mosaic do not reuse the microscope scene."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "PEPECHECKS",
+      "status": "rejected",
+      "reason": "Scientist portrait/checkmark mosaic do not reuse the microscope scene."
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "DANKMIRO",
+      "status": "rejected",
+      "reason": "Different abstract composition; shared Miro reference alone."
+    },
+    {
+      "original": "PEPOLLO",
+      "asset": "PEPOLLOCK",
+      "status": "rejected",
+      "reason": "Pollock splatter image versus Apollo boxing character; substring collision."
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "PEPEFRESH",
+      "status": "rejected",
+      "reason": "Shower cartoon versus Fresh Prince portrait."
+    },
+    {
+      "original": "CUBEPEPE",
+      "asset": "FAUXBORGCUBE",
+      "status": "rejected",
+      "reason": "Borg cube with inset cards versus green cube/vending scene; shared cube motif."
+    },
+    {
+      "original": "STONEPEPE",
+      "asset": "PEPESTONE",
+      "status": "rejected",
+      "reason": "Flintstones character versus textured stone frog face."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "FAKEBEACHPEP",
+      "status": "rejected",
+      "reason": "FAKEBEACHPEP sampled animation shows winter-clothed frog on yellow background; SADNESSBEACH shows seated frog at waterfall. Neither reuses surfer/beach-ball scene."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "SADNESSBEACH",
+      "status": "rejected",
+      "reason": "FAKEBEACHPEP sampled animation shows winter-clothed frog on yellow background; SADNESSBEACH shows seated frog at waterfall. Neither reuses surfer/beach-ball scene."
+    },
+    {
+      "original": "PEPEOUTSIDE",
+      "asset": "OUTSIDERS",
+      "status": "rejected",
+      "reason": "Surreal collage versus cash-me-outside portrait."
+    },
+    {
+      "original": "PEPEHEFNER",
+      "asset": "DANKHEFNER",
+      "status": "rejected",
+      "reason": "Group Hefner scene versus seated red-robed portrait; common celebrity only."
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "PEPEANONYMUS",
+      "status": "rejected",
+      "reason": "Different Anonymous figure and composition; common mask/theme."
+    },
+    {
+      "original": "CORNYEEZUS",
+      "asset": "FAKEYEEZUS",
+      "status": "rejected",
+      "reason": "Different Kanye pose, composition and treatment."
+    },
+    {
+      "original": "MARGINED",
+      "asset": "MARGINEDSWAN",
+      "status": "accepted",
+      "reason": "Exact incoming-call composition, MARGIN label, KE&K header, fiery eyes, falling red candle and Slide to Get Rekt control; swan replaces frog and border changes red."
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "DANKDROP",
+      "status": "rejected",
+      "reason": "Chat screenshot and falling Bitcoin scene do not reuse the cash-burning portrait."
+    },
+    {
+      "original": "DROPPEPE",
+      "asset": "PEPEDROPOUT",
+      "status": "rejected",
+      "reason": "Chat screenshot and falling Bitcoin scene do not reuse the cash-burning portrait."
+    }
+  ],
+  "accepted": [
+    {
+      "original": "MARGINED",
+      "asset": "MARGINEDSWAN",
+      "status": "accepted",
+      "reason": "Exact incoming-call composition, MARGIN label, KE&K header, fiery eyes, falling red candle and Slide to Get Rekt control; swan replaces frog and border changes red."
+    }
+  ]
+}

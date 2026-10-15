@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet inspected. Two GIFs sampled at four spaced frames, not exhaustive playback. PEPEYE and PEPEYES enlarged side by side; current linked JSON and issuance descriptions inspected.",
+  "reviewed": [
+    {
+      "original": "PEPEHUNTER",
+      "volume_usd": 16724.057616658603,
+      "buyers": 44,
+      "candidates": [
+        "COINHUNTER",
+        "CRYPTOHUNTER",
+        "HUNTERBOT",
+        "HUNTERRAY",
+        "HUNTERSPEPE",
+        "MSTRPEPES.PEPESTAGHUNTERS",
+        "PGNHUNTER",
+        "RELICHUNTER",
+        "SATHUNTERS",
+        "SLIVERHUNTER",
+        "VCCIMGHUNTER",
+        "WOJAKHUNTER"
+      ]
+    },
+    {
+      "original": "PEPEYE",
+      "volume_usd": 16539.237821473656,
+      "buyers": 112,
+      "candidates": [
+        "MAGICPEPEYE",
+        "PEPEYELLEN",
+        "PEPEYELLOW",
+        "PEPEYEMAN",
+        "PEPEYES"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPEHUNTER",
+      "pages": 67,
+      "sampled_frames": [
+        0,
+        22,
+        44,
+        66
+      ]
+    },
+    {
+      "asset": "HUNTERSPEPE",
+      "pages": 96,
+      "sampled_frames": [
+        0,
+        32,
+        63,
+        95
+      ]
+    }
+  ],
+  "evidence": {
+    "metadata_url": "https://xcp.coindaddy.io/PEPEYES.json",
+    "description": "The certificate of title to the pure 925 silver coin of Pepecash logo and Pepeye on the second side.\r\nMint mark: State brand of Estonia\r\nMetal Content: 1.2476 troy oz\r\nThickness: 3 mm (0,11811'')\r\nØ: 4 cm (1,5748'')",
+    "issuances": [
+      {
+        "asset": "PEPEYE",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "8f3eae8ea5439bec66dda60c2094980bb9667e0bcf9e58f24973c1def9cc0d72",
+              "block_index": 835779,
+              "block_time": 1711110227,
+              "source": "17hxupddtL5z3RusNNgUUmK1EQiCXUhe6z",
+              "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "transfer": 1,
+              "quantity_normalized": "0",
+              "description": "",
+              "asset_events": "transfer",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "3e9ded3f1d2b98f9f3785b1c80843a2f82740cb49c904629fcbc37caf4a135d6",
+              "block_index": 453524,
+              "block_time": 1487368507,
+              "source": "17hxupddtL5z3RusNNgUUmK1EQiCXUhe6z",
+              "issuer": "17hxupddtL5z3RusNNgUUmK1EQiCXUhe6z",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "fa860d78c2b49822ffa49dbfde43f81e11f6ac402249b90e8f4abbbf62acc28c",
+              "block_index": 453523,
+              "block_time": 1487367608,
+              "source": "17hxupddtL5z3RusNNgUUmK1EQiCXUhe6z",
+              "issuer": "17hxupddtL5z3RusNNgUUmK1EQiCXUhe6z",
+              "transfer": 0,
+              "quantity_normalized": "1929",
+              "description": "",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "PEPEYES",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "b03de23429e54d6ff66bf7ad2f24903bca0a7599e1ca583463ce0d6e5fa0f536",
+              "block_index": 751245,
+              "block_time": 1661525162,
+              "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "imgur/h2vf0kG.png; PEPEYES",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "0ef188aa130938ee0f8a385a6667c7413e34ca6acecfa8ba192c85612a7b7db9",
+              "block_index": 634416,
+              "block_time": 1591987090,
+              "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "xcp.coindaddy.io/PEPEYES.json",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f62183f37dd5222fdb8d2fbc534eb9f8142411941b30219dfaf1b6be5bc2b44b",
+              "block_index": 575900,
+              "block_time": 1557776141,
+              "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "xcp.coindaddy.io/PEPEYES.json",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1bc916fb10301f5c4bce69b95f7408890af46c11adf972d268667361774e940c",
+              "block_index": 569409,
+              "block_time": 1553917566,
+              "source": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "issuer": "1BH9sBVQ645gx2D3pfkc95SSvvEXpFhw2N",
+              "transfer": 0,
+              "quantity_normalized": "9",
+              "description": "The certificate of title to the pure 925 silver coin of Pepecash logo and Pepeye on the second side. Mint mark: State brand Metal Content: 1.2476 troy oz Thickness: 3 mm (0,11811'') Ø: 4 cm (1,5748''",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ]
+  },
+  "decisions": [
+    {
+      "original": "PEPEHUNTER",
+      "asset": "COINHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "CRYPTOHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "HUNTERBOT",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "HUNTERRAY",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "HUNTERSPEPE",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "MSTRPEPES.PEPESTAGHUNTERS",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "PGNHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "RELICHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "SATHUNTERS",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "SLIVERHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "VCCIMGHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEHUNTER",
+      "asset": "WOJAKHUNTER",
+      "status": "rejected",
+      "reason": "Different hunting subject, portrait, fantasy creature or illustration; no reuse of source neon forest, frog/bug scene and animated text composition.",
+      "evidence_sheet": "sheets/group-PEPEHUNTER-0.png"
+    },
+    {
+      "original": "PEPEYE",
+      "asset": "MAGICPEPEYE",
+      "status": "rejected",
+      "reason": "Different patterned faces, financial satire, drawing or portrait; no reuse of the source sailor frog composition.",
+      "evidence_sheet": "sheets/group-PEPEYE-0.png"
+    },
+    {
+      "original": "PEPEYE",
+      "asset": "PEPEYELLEN",
+      "status": "rejected",
+      "reason": "Different patterned faces, financial satire, drawing or portrait; no reuse of the source sailor frog composition.",
+      "evidence_sheet": "sheets/group-PEPEYE-0.png"
+    },
+    {
+      "original": "PEPEYE",
+      "asset": "PEPEYELLOW",
+      "status": "rejected",
+      "reason": "Different patterned faces, financial satire, drawing or portrait; no reuse of the source sailor frog composition.",
+      "evidence_sheet": "sheets/group-PEPEYE-0.png"
+    },
+    {
+      "original": "PEPEYE",
+      "asset": "PEPEYEMAN",
+      "status": "rejected",
+      "reason": "Different patterned faces, financial satire, drawing or portrait; no reuse of the source sailor frog composition.",
+      "evidence_sheet": "sheets/group-PEPEYE-0.png"
+    },
+    {
+      "original": "PEPEYE",
+      "asset": "PEPEYES",
+      "status": "accepted",
+      "reason": "Silver coin reproduces PEPEYE sailor frog, face, hat, raised fists with P markings, collar and circular framing. Original creation description and current linked JSON explicitly name Pepeye as the coin reverse. Source registered in 2017, coin described in 2019; chronology corroborates visual direction, not used alone as art-date evidence.",
+      "evidence_sheet": "previews/PEPEYES-detail.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 1,
+    "rejected": 16
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-15",
+  "method": "Four complete first-frame group sheets and two animation sheets viewed. Two animations sampled four spaced frames; not exhaustive playback.",
+  "reviewed": [
+    {
+      "original": "CORNVOLCANO",
+      "candidates": [
+        "FAKEDESTROY.VOLCANO",
+        "RAREVOLCANO",
+        "RAREVOLCANO.WHITEPAPER",
+        "SKULLVOLCANO",
+        "VOLCANOBOND",
+        "VOLCANOWOJAK"
+      ]
+    },
+    {
+      "original": "PRINCESSCORN",
+      "candidates": [
+        "HARDCORE.Princess_Pepe",
+        "LOSTPRINCESS",
+        "PRINCESSNEM",
+        "PRINCESSPEPE",
+        "PRINCESSPOOP",
+        "PRINCESSSPRI",
+        "PRINCESSSUMM"
+      ]
+    },
+    {
+      "original": "GEISHAPEPE",
+      "candidates": [
+        "CORNGEISHA",
+        "CORNGEISHA.BUST",
+        "CORNGEISHA.FAKE",
+        "CORNGEISHA.FULLMOON",
+        "CORNGEISHA.KABUKI",
+        "CORNGEISHA.OBI",
+        "CORNGEISHA.SKETCH",
+        "CORNGEISHA.STUDIO",
+        "CORNGEISHA.TORI",
+        "GOREGEISHA",
+        "PIGEISHA"
+      ]
+    },
+    {
+      "original": "VICEPEPE",
+      "candidates": [
+        "PEPAVICE",
+        "VICECITYVIVA",
+        "VIPER.SELFSERVICE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKEDESTROY.VOLCANO",
+      "pages": 29,
+      "sampled_frames": [
+        0,
+        9,
+        19,
+        28
+      ]
+    },
+    {
+      "asset": "PEPAVICE",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNVOLCANO",
+      "asset": "FAKEDESTROY.VOLCANO",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "CORNVOLCANO",
+      "asset": "RAREVOLCANO",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "CORNVOLCANO",
+      "asset": "RAREVOLCANO.WHITEPAPER",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "CORNVOLCANO",
+      "asset": "SKULLVOLCANO",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "CORNVOLCANO",
+      "asset": "VOLCANOBOND",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "CORNVOLCANO",
+      "asset": "VOLCANOWOJAK",
+      "status": "rejected",
+      "reason": "No reuse of the bright cartoon corn-volcano scene, surrounding figures or landscape composition. Volcano subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-CORNVOLCANO-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "HARDCORE.Princess_Pepe",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "LOSTPRINCESS",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "PRINCESSNEM",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "PRINCESSPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "PRINCESSPOOP",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "PRINCESSSPRI",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "PRINCESSCORN",
+      "asset": "PRINCESSSUMM",
+      "status": "rejected",
+      "reason": "No reuse of the corn princess, enclosing green creature/leaves and rural night scene. Princess word or character category alone is insufficient.",
+      "evidence_sheet": "sheets/group-PRINCESSCORN-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.BUST",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.FAKE",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.FULLMOON",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.KABUKI",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.OBI",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.SKETCH",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.STUDIO",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "CORNGEISHA.TORI",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "GOREGEISHA",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "GEISHAPEPE",
+      "asset": "PIGEISHA",
+      "status": "rejected",
+      "reason": "No reuse of the frontal white-faced black-haired portrait, pink hair ornament and mountain backdrop. Geisha theme alone does not establish a derivative; corn figures, side-profile pigeon and gore portrait are distinct.",
+      "evidence_sheet": "sheets/group-GEISHAPEPE-0.png"
+    },
+    {
+      "original": "VICEPEPE",
+      "asset": "PEPAVICE",
+      "status": "rejected",
+      "reason": "Source is a Motherboard news-page parody; Miami Vice-inspired portrait/cover and self-service snake do not reuse that page composition or illustration.",
+      "evidence_sheet": "sheets/group-VICEPEPE-0.png"
+    },
+    {
+      "original": "VICEPEPE",
+      "asset": "VICECITYVIVA",
+      "status": "rejected",
+      "reason": "Source is a Motherboard news-page parody; Miami Vice-inspired portrait/cover and self-service snake do not reuse that page composition or illustration.",
+      "evidence_sheet": "sheets/group-VICEPEPE-0.png"
+    },
+    {
+      "original": "VICEPEPE",
+      "asset": "VIPER.SELFSERVICE",
+      "status": "rejected",
+      "reason": "Source is a Motherboard news-page parody; Miami Vice-inspired portrait/cover and self-service snake do not reuse that page composition or illustration.",
+      "evidence_sheet": "sheets/group-VICEPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 27,
+    "accepted": 0,
+    "rejected": 27
+  }
+}

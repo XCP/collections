@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-15",
+  "asset": "MERCHANTCARD",
+  "recovery": {
+    "at": "2026-10-15T14:58:54.881Z",
+    "source": "https://www.oldnft.com/wp-content/uploads/2026/05/MERCHANTCARD.jpg",
+    "expected": "ffdbb7ee8ca237b2c336ca4e3b213b816cbe92f5a322f6f504bca6421419ce94",
+    "rows": [
+      {
+        "url": "https://cdn.xcp.io/img/full/MERCHANTCARD",
+        "status": 200,
+        "placeholder": null,
+        "cache": "public, max-age=31536000, immutable",
+        "width": 320,
+        "height": 447,
+        "bytes": 47776,
+        "sha256": "ffdbb7ee8ca237b2c336ca4e3b213b816cbe92f5a322f6f504bca6421419ce94",
+        "matchesSource": true
+      },
+      {
+        "url": "https://cdn.xcp.io/img/icon/MERCHANTCARD",
+        "status": 200,
+        "placeholder": null,
+        "cache": "public, max-age=31536000, immutable",
+        "width": 48,
+        "height": 48,
+        "bytes": 5998,
+        "sha256": "f3457d6263d00e1653fcd51469739313d1b0660b43139ef5d990ee5dda66201c",
+        "matchesSource": false
+      },
+      {
+        "url": "https://cdn.xcp.io/img/card/MERCHANTCARD",
+        "status": 200,
+        "placeholder": null,
+        "cache": "public, max-age=31536000, immutable",
+        "width": 320,
+        "height": 447,
+        "bytes": 39792,
+        "sha256": "ef965cd4aade50a6e523b6032a8e63d98c498b7957261f74a3cb3ad50463e819",
+        "matchesSource": false
+      }
+    ],
+    "title": "Card Merchant, West and East",
+    "illustrator_on_image": "Alejandro Hurtado",
+    "source_page": "https://www.oldnft.com/collection/spells-of-genesis/",
+    "method": "Recovered exact JPEG from the page naming MERCHANTCARD; decoded locally, then additive admin/backfill item using source URL. Chain issuance descriptions say only SOG card; recovered URL is an off-chain catalog source, not asserted to be on-chain.",
+    "admin_result": {
+      "n": 1,
+      "stored": 1,
+      "already": 0,
+      "missed": 0,
+      "errors": 0
+    },
+    "verification_scope": "Normal full, icon and card URLs fetched successfully without cache-busting; full bytes match source SHA256. This is a 320x447 catalog image; no higher-resolution original claimed."
+  },
+  "reviewed": [
+    {
+      "original": "HANPEPE",
+      "candidates": [
+        "MERCHANTCARD"
+      ]
+    },
+    {
+      "original": "MERCHANTCARD",
+      "candidates": [
+        "FAUXMARKET"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "HANPEPE",
+      "asset": "MERCHANTCARD",
+      "status": "rejected",
+      "reason": "Recovered art shows fur-collared merchant holding colored cards; HANPEPE is a Han Solo pose with blaster. No specific derivation."
+    },
+    {
+      "original": "MERCHANTCARD",
+      "asset": "FAUXMARKET",
+      "status": "rejected",
+      "reason": "FAUXMARKET depicts a crowded street market with many figures; recovered MERCHANTCARD centers a card-holding merchant. No specific visual reuse established; FAUXMARKET source remains unresolved."
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "HANPEPE",
+      "asset": "MERCHANTCARD",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-volume-69.json",
+      "status": "rejected",
+      "reason": "Recovered media now permits comparison; unrelated compositions."
+    }
+  ],
+  "accepted": []
+}

@@ -10,7 +10,7 @@
 | Primary memberships | 159 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 106/160 (66.3%)<br>Card: 1/160 (0.6%)<br>Series: 1/160 (0.6%) |
+| Traits | Artist: 106/160 (66.3%)<br>Based on: 1/160 (0.6%)<br>Card: 1/160 (0.6%)<br>Series: 1/160 (0.6%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -39,3 +39,5 @@ Added CTC credits to 39 existing members whose chain-linked Arweave JSON exactly
 ### BUFFALOGAL creator
 
 The collection-operated [Faux Bitcorn catalog](https://fauxbitcorn.com/) explicitly identifies BUFFALOGAL and credits Ctc. Reuse the established CTC artist identity on its primary LFG membership as well as the secondary Faux Bitcorn membership. This attribution does not change either collection membership.
+
+ELFGXCHAIN redraws XCHAINPEPE: the patterned sweater, XCHAIN chain pendant and multi-monitor desk scene establish the specific source, beyond the shared platform name. See [the enlarged-art comparison and issuance evidence](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-15.json).

@@ -1,0 +1,601 @@
+{
+  "date": "2026-10-15",
+  "method": "Six whole-original first-frame sheets and five animation sheets viewed. Ten animated assets sampled at four spaced positions, all frames when <=4; not exhaustive playback for longer animations.",
+  "reviewed": [
+    {
+      "original": "CORNMIRROR",
+      "candidates": [
+        "MADMIRROR",
+        "SATMIRROR",
+        "BLACKMIRROR",
+        "FALSEPMIRROR",
+        "KEKMIRROR",
+        "MIRROREDAPE",
+        "MIRRORPEPE",
+        "PEPEMIRROR",
+        "THEENIGMA.MIRRORCARD",
+        "XCPMIRROR"
+      ]
+    },
+    {
+      "original": "SWALLOWCORN",
+      "candidates": [
+        "PEPESWALLOW.CLASSICBLUE",
+        "PEPESWALLOW.CLASSICGREEN",
+        "PEPESWALLOW.DAYTRIPPER",
+        "PEPESWALLOW.H-BOMB",
+        "PEPESWALLOW.INKWASH",
+        "SWALLOWPEPE"
+      ]
+    },
+    {
+      "original": "CLAYCORN",
+      "candidates": [
+        "CLAY",
+        "CLAYCASH.this_is_not_a_moulacoin",
+        "CLAYNATPEPE",
+        "CLAYNFTS",
+        "CLAYPEPE",
+        "CLAYPEPEONE",
+        "CLAYPEPETWO",
+        "CLAYSTMAS.TREE",
+        "CRYPTOCLAY",
+        "DROOLPARK.CLAYPOOL"
+      ]
+    },
+    {
+      "original": "THECORNKING",
+      "candidates": [
+        "SAVETHEKING",
+        "THEKING",
+        "THEKINGKEVIN",
+        "THEKINGPEPE",
+        "THEKINGS"
+      ]
+    },
+    {
+      "original": "SOGWINTER",
+      "candidates": [
+        "WINTERHODL",
+        "BITWINTERONE",
+        "BITWINTERTHR",
+        "BITWINTERTWO",
+        "BTCWINTER",
+        "COMMONLANDS.TEMPLEWINTER",
+        "DARKWINTER",
+        "HOMERWINTER",
+        "MEMESTACKS.WINTER",
+        "PEPEFINEART.CRYPTOWINTER_IS_HERE",
+        "PEPEWINTER.PANIC",
+        "WINTERDRGN"
+      ]
+    },
+    {
+      "original": "MOVIECORN",
+      "candidates": [
+        "PENCILMOVIE",
+        "MOVIETICKET",
+        "MOVIETICKETS",
+        "PENCILMOVIE.0.1",
+        "PENCILMOVIE.0.2",
+        "PENCILMOVIE.0.3",
+        "PENCILMOVIE.0.4",
+        "PENCILMOVIE.0.5",
+        "PENCILMOVIE.0.6",
+        "PENCILMOVIE.0.7",
+        "PENCILMOVIE.0.8",
+        "PEPEMOVIE",
+        "PEPESMOVIE",
+        "YOUCANTSMOKE.FAKEMOVIE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MIRROREDAPE",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "CLAYPEPETWO",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "CLAYPEPEONE",
+      "pages": 87,
+      "sampled_frames": [
+        0,
+        29,
+        57,
+        86
+      ]
+    },
+    {
+      "asset": "DROOLPARK.CLAYPOOL",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    },
+    {
+      "asset": "THEKING",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SAVETHEKING",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "WINTERHODL",
+      "pages": 125,
+      "sampled_frames": [
+        0,
+        41,
+        83,
+        124
+      ]
+    },
+    {
+      "asset": "HOMERWINTER",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "PEPEWINTER.PANIC",
+      "pages": 344,
+      "sampled_frames": [
+        0,
+        114,
+        229,
+        343
+      ]
+    },
+    {
+      "asset": "YOUCANTSMOKE.FAKEMOVIE",
+      "pages": 105,
+      "sampled_frames": [
+        0,
+        35,
+        69,
+        104
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNMIRROR",
+      "asset": "MADMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "SATMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "BLACKMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "FALSEPMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "KEKMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "MIRROREDAPE",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "MIRRORPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "PEPEMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "THEENIGMA.MIRRORCARD",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "CORNMIRROR",
+      "asset": "XCPMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the bilaterally symmetric corn-and-flower ornamental design. Literal mirrors, reflected portraits, QR and interface images are unrelated.",
+      "evidence_sheet": "sheets/group-CORNMIRROR-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "PEPESWALLOW.CLASSICBLUE",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "PEPESWALLOW.CLASSICGREEN",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "PEPESWALLOW.DAYTRIPPER",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "PEPESWALLOW.H-BOMB",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "PEPESWALLOW.INKWASH",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "SWALLOWCORN",
+      "asset": "SWALLOWPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the colorful horned creature and floral forest scene. Swallow-bird tattoo variants and mouth collage refer to different meanings of swallow.",
+      "evidence_sheet": "sheets/group-SWALLOWCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAY",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYCASH.this_is_not_a_moulacoin",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYNATPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYNFTS",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYPEPEONE",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYPEPETWO",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CLAYSTMAS.TREE",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "CRYPTOCLAY",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "CLAYCORN",
+      "asset": "DROOLPARK.CLAYPOOL",
+      "status": "rejected",
+      "reason": "No reuse of the modeled corn cobs and green husks clustered on a brown base. Clay medium alone does not establish a derivative; Claypool is a name collision.",
+      "evidence_sheet": "sheets/group-CLAYCORN-0.png"
+    },
+    {
+      "original": "THECORNKING",
+      "asset": "SAVETHEKING",
+      "status": "rejected",
+      "reason": "No reuse of the corn lion on the rocky ledge and savanna arrangement. Elvis, royalty and other lion imagery are different compositions.",
+      "evidence_sheet": "sheets/group-THECORNKING-0.png"
+    },
+    {
+      "original": "THECORNKING",
+      "asset": "THEKING",
+      "status": "rejected",
+      "reason": "No reuse of the corn lion on the rocky ledge and savanna arrangement. Elvis, royalty and other lion imagery are different compositions.",
+      "evidence_sheet": "sheets/group-THECORNKING-0.png"
+    },
+    {
+      "original": "THECORNKING",
+      "asset": "THEKINGKEVIN",
+      "status": "rejected",
+      "reason": "No reuse of the corn lion on the rocky ledge and savanna arrangement. Elvis, royalty and other lion imagery are different compositions.",
+      "evidence_sheet": "sheets/group-THECORNKING-0.png"
+    },
+    {
+      "original": "THECORNKING",
+      "asset": "THEKINGPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the corn lion on the rocky ledge and savanna arrangement. Elvis, royalty and other lion imagery are different compositions.",
+      "evidence_sheet": "sheets/group-THECORNKING-0.png"
+    },
+    {
+      "original": "THECORNKING",
+      "asset": "THEKINGS",
+      "status": "rejected",
+      "reason": "No reuse of the corn lion on the rocky ledge and savanna arrangement. Elvis, royalty and other lion imagery are different compositions.",
+      "evidence_sheet": "sheets/group-THECORNKING-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "WINTERHODL",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "BITWINTERONE",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "BITWINTERTHR",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "BITWINTERTWO",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "BTCWINTER",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "COMMONLANDS.TEMPLEWINTER",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "DARKWINTER",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "HOMERWINTER",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "MEMESTACKS.WINTER",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "PEPEFINEART.CRYPTOWINTER_IS_HERE",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "PEPEWINTER.PANIC",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "SOGWINTER",
+      "asset": "WINTERDRGN",
+      "status": "rejected",
+      "reason": "No reuse of the blue spotted Forest Spirit creature, pinecone and winter forest scene. Snow and seasonal subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-SOGWINTER-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "MOVIETICKET",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "MOVIETICKETS",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.1",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.2",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.3",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.4",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.5",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.6",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.7",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PENCILMOVIE.0.8",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PEPEMOVIE",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "PEPESMOVIE",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    },
+    {
+      "original": "MOVIECORN",
+      "asset": "YOUCANTSMOKE.FAKEMOVIE",
+      "status": "rejected",
+      "reason": "No reuse of the blonde turquoise woman with VR visor, popcorn and phone composition. Tickets, pencil scenes, movie posters and foil-card animation are unrelated to this source.",
+      "evidence_sheet": "sheets/group-MOVIECORN-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 57,
+    "accepted": 0,
+    "rejected": 57
+  }
+}

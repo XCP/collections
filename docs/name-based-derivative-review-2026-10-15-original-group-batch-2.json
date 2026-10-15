@@ -1,0 +1,600 @@
+{
+  "date": "2026-10-15",
+  "scope": "Twelve complete original groups, prioritized by lifetime volume and buyer breadth; exact-source comparisons only.",
+  "method": "All twelve first-frame group sheets visually inspected. Four spaced frames of each animation inspected (all distinct frames when fewer than four). Sampling is not exhaustive animation review. Rejections do not rule out other originals.",
+  "reviewed": [
+    {
+      "original": "TAJPEPE",
+      "candidates": [
+        "NOTAJOKE",
+        "SENDUTAJESUS",
+        "TAJMAHALPEPE",
+        "TAJSHADILAY"
+      ]
+    },
+    {
+      "original": "PEPEROYAL",
+      "candidates": [
+        "EGOROYALE",
+        "FAKEQUEEN.LAFAKAROYAL",
+        "FALSEACE.LAFAKAROYAL",
+        "FLUSHROYAL",
+        "LFGROYALFIRE",
+        "METAROYALTY",
+        "NFTROYALTIES",
+        "NOROYALTIES",
+        "ROYALAPE",
+        "ROYALBADGER",
+        "ROYALBLUE",
+        "ROYALDEER",
+        "ROYALGRIFFIN",
+        "ROYALRUMBLE",
+        "ROYALTYPEPE",
+        "ROYALTYSPAM"
+      ]
+    },
+    {
+      "original": "GAINSPEPE",
+      "candidates": [
+        "PPGAINSBOURG"
+      ]
+    },
+    {
+      "original": "PEPEROOTS",
+      "candidates": [
+        "BLOCKROOTS"
+      ]
+    },
+    {
+      "original": "PICKLEPEPE",
+      "candidates": [
+        "MCPICKLE",
+        "PICKLEFUTURE",
+        "YOUCANTSMOKE.MCPICKLEXPURPLE"
+      ]
+    },
+    {
+      "original": "MANDELPEPE",
+      "candidates": [
+        "HIPHOPGAME.MANDELLAESKIA",
+        "MANDELDUCKCD",
+        "OGSAN.HEROMANDELDUCK",
+        "OGSAN.HOLOMANDELDUCK",
+        "PEPETOMANDEL"
+      ]
+    },
+    {
+      "original": "HANNIBALPEPE",
+      "candidates": [
+        "DRHANNIBAL"
+      ]
+    },
+    {
+      "original": "EATEPEPE",
+      "candidates": [
+        "DABEATEN",
+        "DEFEATESG",
+        "GREATESTBOOK",
+        "HODLTRUMPS.EATER",
+        "MSTRPEPES.SEATEDPEPEBUDDHAS",
+        "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE",
+        "THEGREATEST"
+      ]
+    },
+    {
+      "original": "PEPEBUZZ",
+      "candidates": [
+        "BUZZKILLER",
+        "ELECTABUZZ"
+      ]
+    },
+    {
+      "original": "PEPERUSSIAN",
+      "candidates": [
+        "RUSSIANMAFIA",
+        "WHITERUSSIAN"
+      ]
+    },
+    {
+      "original": "HISTORICPEPE",
+      "candidates": [
+        "FAPEHISTORIC",
+        "HISTORICART"
+      ]
+    },
+    {
+      "original": "PEPEMARKET",
+      "candidates": [
+        "BEARSMARKET",
+        "BLCKMARKET",
+        "CIVILLIANS.MARKETER",
+        "DROOLMARKET",
+        "FLATMARKET",
+        "FULTONMARKET",
+        "GOATMARKET",
+        "LFGMARKET",
+        "MARKETACARD",
+        "MARKETWOJAK",
+        "ORBMARKET",
+        "THEMARKET"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MCPICKLE",
+      "pages": 128,
+      "sampled_frames": [
+        0,
+        42,
+        85,
+        127
+      ]
+    },
+    {
+      "asset": "PICKLEPEPE",
+      "pages": 46,
+      "sampled_frames": [
+        0,
+        15,
+        30,
+        45
+      ]
+    },
+    {
+      "asset": "HANNIBALPEPE",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "FULTONMARKET",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "BEARSMARKET",
+      "pages": 250,
+      "sampled_frames": [
+        0,
+        83,
+        166,
+        249
+      ]
+    },
+    {
+      "asset": "MARKETWOJAK",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "ORBMARKET",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "TAJPEPE",
+      "asset": "NOTAJOKE",
+      "status": "rejected",
+      "reason": "No reuse of the reclining Pepe/Taj Mahal composition. TAJMAHALPEPE and TAJSHADILAY share the landmark only; the other candidates are unrelated scenes.",
+      "evidence_sheet": "sheets/group-TAJPEPE-0.png"
+    },
+    {
+      "original": "TAJPEPE",
+      "asset": "SENDUTAJESUS",
+      "status": "rejected",
+      "reason": "No reuse of the reclining Pepe/Taj Mahal composition. TAJMAHALPEPE and TAJSHADILAY share the landmark only; the other candidates are unrelated scenes.",
+      "evidence_sheet": "sheets/group-TAJPEPE-0.png"
+    },
+    {
+      "original": "TAJPEPE",
+      "asset": "TAJMAHALPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the reclining Pepe/Taj Mahal composition. TAJMAHALPEPE and TAJSHADILAY share the landmark only; the other candidates are unrelated scenes.",
+      "evidence_sheet": "sheets/group-TAJPEPE-0.png"
+    },
+    {
+      "original": "TAJPEPE",
+      "asset": "TAJSHADILAY",
+      "status": "rejected",
+      "reason": "No reuse of the reclining Pepe/Taj Mahal composition. TAJMAHALPEPE and TAJSHADILAY share the landmark only; the other candidates are unrelated scenes.",
+      "evidence_sheet": "sheets/group-TAJPEPE-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "EGOROYALE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "FAKEQUEEN.LAFAKAROYAL",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "FALSEACE.LAFAKAROYAL",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "FLUSHROYAL",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "LFGROYALFIRE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "METAROYALTY",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "NFTROYALTIES",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "NOROYALTIES",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALAPE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALBADGER",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALBLUE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALDEER",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALGRIFFIN",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALRUMBLE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALTYPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "PEPEROYAL",
+      "asset": "ROYALTYSPAM",
+      "status": "rejected",
+      "reason": "No reuse of the suited gambling Pepe, chips, or sunglasses/cards panel. Royal/royalty names yield unrelated portraits, creatures and scenes.",
+      "evidence_sheet": "sheets/group-PEPEROYAL-0.png"
+    },
+    {
+      "original": "GAINSPEPE",
+      "asset": "PPGAINSBOURG",
+      "status": "rejected",
+      "reason": "Gainsbourg photographic portrait, not the muscular gains graphic.",
+      "evidence_sheet": "sheets/group-GAINSPEPE-0.png"
+    },
+    {
+      "original": "PEPEROOTS",
+      "asset": "BLOCKROOTS",
+      "status": "rejected",
+      "reason": "Four Bitcoin scenes, not the tree growing from the frog.",
+      "evidence_sheet": "sheets/group-PEPEROOTS-0.png"
+    },
+    {
+      "original": "PICKLEPEPE",
+      "asset": "MCPICKLE",
+      "status": "rejected",
+      "reason": "No reuse of the pickle creature and vegetable-Pokemon card. McPickle has a museum/McDonalds animation; remaining images are charts or a smoking portrait.",
+      "evidence_sheet": "sheets/group-PICKLEPEPE-0.png"
+    },
+    {
+      "original": "PICKLEPEPE",
+      "asset": "PICKLEFUTURE",
+      "status": "rejected",
+      "reason": "No reuse of the pickle creature and vegetable-Pokemon card. McPickle has a museum/McDonalds animation; remaining images are charts or a smoking portrait.",
+      "evidence_sheet": "sheets/group-PICKLEPEPE-0.png"
+    },
+    {
+      "original": "PICKLEPEPE",
+      "asset": "YOUCANTSMOKE.MCPICKLEXPURPLE",
+      "status": "rejected",
+      "reason": "No reuse of the pickle creature and vegetable-Pokemon card. McPickle has a museum/McDonalds animation; remaining images are charts or a smoking portrait.",
+      "evidence_sheet": "sheets/group-PICKLEPEPE-0.png"
+    },
+    {
+      "original": "MANDELPEPE",
+      "asset": "HIPHOPGAME.MANDELLAESKIA",
+      "status": "rejected",
+      "reason": "Portrait/duck cards do not reuse the Mandelbrot ring of Pepe heads and formula.",
+      "evidence_sheet": "sheets/group-MANDELPEPE-0.png"
+    },
+    {
+      "original": "MANDELPEPE",
+      "asset": "MANDELDUCKCD",
+      "status": "rejected",
+      "reason": "Portrait/duck cards do not reuse the Mandelbrot ring of Pepe heads and formula.",
+      "evidence_sheet": "sheets/group-MANDELPEPE-0.png"
+    },
+    {
+      "original": "MANDELPEPE",
+      "asset": "OGSAN.HEROMANDELDUCK",
+      "status": "rejected",
+      "reason": "Portrait/duck cards do not reuse the Mandelbrot ring of Pepe heads and formula.",
+      "evidence_sheet": "sheets/group-MANDELPEPE-0.png"
+    },
+    {
+      "original": "MANDELPEPE",
+      "asset": "OGSAN.HOLOMANDELDUCK",
+      "status": "rejected",
+      "reason": "Portrait/duck cards do not reuse the Mandelbrot ring of Pepe heads and formula.",
+      "evidence_sheet": "sheets/group-MANDELPEPE-0.png"
+    },
+    {
+      "original": "MANDELPEPE",
+      "asset": "PEPETOMANDEL",
+      "status": "rejected",
+      "reason": "Portrait/duck cards do not reuse the Mandelbrot ring of Pepe heads and formula.",
+      "evidence_sheet": "sheets/group-MANDELPEPE-0.png"
+    },
+    {
+      "original": "HANNIBALPEPE",
+      "asset": "DRHANNIBAL",
+      "status": "rejected",
+      "reason": "Cartoon doctor with organ/knife versus photographic masked Hannibal with Pepe eyes. Shared external character is insufficient.",
+      "evidence_sheet": "sheets/group-HANNIBALPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "DABEATEN",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "DEFEATESG",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "GREATESTBOOK",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "HODLTRUMPS.EATER",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "MSTRPEPES.SEATEDPEPEBUDDHAS",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "EATEPEPE",
+      "asset": "THEGREATEST",
+      "status": "rejected",
+      "reason": "No reuse of chopsticks/mouth eating a tiny Pepe. Matches arise from unrelated words containing EATE.",
+      "evidence_sheet": "sheets/group-EATEPEPE-0.png"
+    },
+    {
+      "original": "PEPEBUZZ",
+      "asset": "BUZZKILLER",
+      "status": "rejected",
+      "reason": "Crushed can or Pokemon Electabuzz, not Buzz Lightyear Pepe in space.",
+      "evidence_sheet": "sheets/group-PEPEBUZZ-0.png"
+    },
+    {
+      "original": "PEPEBUZZ",
+      "asset": "ELECTABUZZ",
+      "status": "rejected",
+      "reason": "Crushed can or Pokemon Electabuzz, not Buzz Lightyear Pepe in space.",
+      "evidence_sheet": "sheets/group-PEPEBUZZ-0.png"
+    },
+    {
+      "original": "PEPERUSSIAN",
+      "asset": "RUSSIANMAFIA",
+      "status": "rejected",
+      "reason": "Mafia photograph or drink/Putin imagery, not the Russian-costume/matryoshka composition.",
+      "evidence_sheet": "sheets/group-PEPERUSSIAN-0.png"
+    },
+    {
+      "original": "PEPERUSSIAN",
+      "asset": "WHITERUSSIAN",
+      "status": "rejected",
+      "reason": "Mafia photograph or drink/Putin imagery, not the Russian-costume/matryoshka composition.",
+      "evidence_sheet": "sheets/group-PEPERUSSIAN-0.png"
+    },
+    {
+      "original": "HISTORICPEPE",
+      "asset": "FAPEHISTORIC",
+      "status": "rejected",
+      "reason": "Cave drawing or mirror photograph, not the muscular caveman Pepe transaction commemorative card.",
+      "evidence_sheet": "sheets/group-HISTORICPEPE-0.png"
+    },
+    {
+      "original": "HISTORICPEPE",
+      "asset": "HISTORICART",
+      "status": "rejected",
+      "reason": "Cave drawing or mirror photograph, not the muscular caveman Pepe transaction commemorative card.",
+      "evidence_sheet": "sheets/group-HISTORICPEPE-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "BEARSMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "BLCKMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "CIVILLIANS.MARKETER",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "DROOLMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "FLATMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "FULTONMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "GOATMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "LFGMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "MARKETACARD",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "MARKETWOJAK",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "ORBMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    },
+    {
+      "original": "PEPEMARKET",
+      "asset": "THEMARKET",
+      "status": "rejected",
+      "reason": "No reuse of the town-market trader collage. Market names cover fish crates, market charts, characters, a magical gateway and unrelated scenes.",
+      "evidence_sheet": "sheets/group-PEPEMARKET-0.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "asset": "ORBMARKET",
+      "status": "unresolved",
+      "reason": "The Gateway / Story of Global Impact card depicts a purple Bitcoin portal with two figures; compare the SoG source atlas for a closer original. Not a match to PEPEMARKET."
+    }
+  ],
+  "summary": {
+    "comparisons": 56,
+    "accepted": 0,
+    "rejected": 56
+  }
+}

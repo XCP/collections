@@ -10,7 +10,7 @@
 | Primary memberships | 149 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/150 (0.7%)<br>Artist: 74/150 (49.3%)<br>Based on: 9/150 (6%) |
+| Traits | Art year: 1/150 (0.7%)<br>Artist: 74/150 (49.3%)<br>Based on: 13/150 (8.7%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -29,3 +29,5 @@ the change and how to verify it. If you cannot prepare a pull request,
 ## Later artwork on earlier tokens
 
 The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.
+
+Closest-source Homer variant relationships are preserved by the [enlarged artwork and historical media review](../../docs/name-based-derivative-review-2026-10-15-homer-group-followup.json). Artist credits and membership are unchanged.

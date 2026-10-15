@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame grouped sheets and both animation sheets inspected. Eight animations sampled at four spaced positions, not exhaustive. Enlargements inspected for PEPECLUB, ORDCLUB, KEKCLUB, FLIGHTCLUB and SHADICLUB. Issuance histories fetched for these five; canonical FLIGHTCLUB JSON accessible, ORDCLUB and KEKCLUB Easyasset JSON returned HTTP200 empty. Shared external film references are not sufficient for asset-specific derivation.",
+  "reviewed": [
+    {
+      "original": "PEPECLUB",
+      "volume_usd": 25393.965729496602,
+      "buyers": 38,
+      "candidates": [
+        "FLIGHTCLUB",
+        "FLOCKCLUB",
+        "GAMECLUB",
+        "GMCLUB",
+        "GMENCLUB",
+        "GOAT.THE27CLUB",
+        "HAMILYCLUB",
+        "HIUFIGHTCLUB",
+        "KEKCLUB",
+        "KEKCLUBHAM",
+        "KEKCLUBKEVIN",
+        "KEKCLUBPEPE",
+        "ORDCLUB",
+        "ORDINALSCLUB",
+        "SATOSHICLUB",
+        "SHADICLUB",
+        "SMOLSCLUB",
+        "STRIPCLUB",
+        "THECLUBHOUSE",
+        "TROLLSCLUBCD",
+        "TWNTYSVNCLUB",
+        "VIDEOCLUB"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "GAMECLUB",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "GMENCLUB",
+      "pages": 141,
+      "sampled_frames": [
+        0,
+        47,
+        93,
+        140
+      ]
+    },
+    {
+      "asset": "KEKCLUBKEVIN",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "KEKCLUBPEPE",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "KEKCLUBHAM",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "KEKCLUB",
+      "pages": 7,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "asset": "ORDINALSCLUB",
+      "pages": 33,
+      "sampled_frames": [
+        0,
+        11,
+        21,
+        32
+      ]
+    },
+    {
+      "asset": "STRIPCLUB",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPECLUB",
+      "asset": "FLIGHTCLUB",
+      "status": "rejected",
+      "reason": "Pigeons in basement circle with Mike Tyson quotation, a different drawing/card rather than source montage or altered PepeCash rule. Canonical JSON repeats Tyson quotation with no PEPECLUB attribution. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "FLOCKCLUB",
+      "status": "rejected",
+      "reason": "Cartoon blue birds and membership ticket outdoors. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "GAMECLUB",
+      "status": "rejected",
+      "reason": "Arcade machines and control panel animation. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "GMCLUB",
+      "status": "rejected",
+      "reason": "Muscular frog taking phone selfie. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "GMENCLUB",
+      "status": "rejected",
+      "reason": "Gentlemen around gambling table with heist caption. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "GOAT.THE27CLUB",
+      "status": "rejected",
+      "reason": "27 Club musician portrait montage. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "HAMILYCLUB",
+      "status": "rejected",
+      "reason": "Cartoon band parody on yellow game card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "HIUFIGHTCLUB",
+      "status": "rejected",
+      "reason": "Low-resolution photograph of two people, no source composition visible. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "KEKCLUB",
+      "status": "rejected",
+      "reason": "Standalone pink KEK soap graphic with glitch animation. Soap/title borrows external Fight Club branding; does not show source film montage, PepeCash rule or card arrangement. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "KEKCLUBHAM",
+      "status": "rejected",
+      "reason": "Purple cartoon character identity card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "KEKCLUBKEVIN",
+      "status": "rejected",
+      "reason": "Purple outlined Kevin character on green identity card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "KEKCLUBPEPE",
+      "status": "rejected",
+      "reason": "Green outlined Pepe character identity card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "ORDCLUB",
+      "status": "rejected",
+      "reason": "Enlarged view shows a different film still with Dorian/Bitcoin/Guy Fawkes/Pepe substitutions and different quote/layout. Shared film and first-rule motif do not establish reuse of PEPECLUB. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "ORDINALSCLUB",
+      "status": "rejected",
+      "reason": "Green invitation and rotating illustrated Pepe portraits. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "SATOSHICLUB",
+      "status": "rejected",
+      "reason": "Japanese numeric/signage-style card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "SHADICLUB",
+      "status": "rejected",
+      "reason": "Two Shadilay boxers in ring with original Fight Club rule. Different composition and no specific source collage/altered rule reused. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "SMOLSCLUB",
+      "status": "rejected",
+      "reason": "Cartoon frog at toilet, no source reuse. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "STRIPCLUB",
+      "status": "rejected",
+      "reason": "Animated dancer/fireplace in Mafia Wars card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "THECLUBHOUSE",
+      "status": "rejected",
+      "reason": "Fantasy glowing house in forest. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-0.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "TROLLSCLUBCD",
+      "status": "rejected",
+      "reason": "SoG forest troll card. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-19.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "TWNTYSVNCLUB",
+      "status": "rejected",
+      "reason": "Colorful space/musician group scene. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-19.png"
+    },
+    {
+      "original": "PEPECLUB",
+      "asset": "VIDEOCLUB",
+      "status": "rejected",
+      "reason": "QR code and submission text. No distinctive reuse of PEPECLUB established in inspected material.",
+      "evidence_sheet": "sheets/group-PEPECLUB-19.png"
+    }
+  ],
+  "metadata_checks": [
+    {
+      "asset": "ORDCLUB",
+      "url": "https://easyasset.art/j/jijq2t/ORDCL.json",
+      "status": 200,
+      "body_length": 0
+    },
+    {
+      "asset": "KEKCLUB",
+      "url": "https://easyasset.art/j/256wcg/KEKCLUB.json",
+      "status": 200,
+      "body_length": 0
+    },
+    {
+      "asset": "FLIGHTCLUB",
+      "url": "https://gw6dlefp2wwptdlezlvrvnimkiubvku6zrqllfibeknet4q5jbsq.ar.io/Nbw1kK_VrPmNZMrrGrUMUigaqp7MYLWVASKaSfIdSGU?/FLIGHTCLUB6.json",
+      "status": 200,
+      "body_length": 740,
+      "parsed_description": "I don't understand why people would want to get rid of pigeons. They Don't bother no one. - Mike Tyson"
+    }
+  ],
+  "summary": {
+    "comparisons": 22,
+    "accepted": 0,
+    "rejected": 22
+  }
+}

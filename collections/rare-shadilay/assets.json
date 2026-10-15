@@ -177,6 +177,10 @@
         {
           "trait_type": "Artist",
           "value": "SilK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -211,7 +215,13 @@
       ]
     },
     {
-      "asset": "KEYBOARDSHAD"
+      "asset": "KEYBOARDSHAD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "KEYBOARDPEPE"
+        }
+      ]
     },
     {
       "asset": "KUMADESHAD"
@@ -773,7 +783,13 @@
       "asset": "SHADNOSAURUS"
     },
     {
-      "asset": "SHADPUZZLE"
+      "asset": "SHADPUZZLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPUZZLE"
+        }
+      ]
     },
     {
       "asset": "SHADRARE"
@@ -948,7 +964,13 @@
       "asset": "WOJILAY"
     },
     {
-      "asset": "ZZTOPSHADY"
+      "asset": "ZZTOPSHADY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ZZTOPEPE"
+        }
+      ]
     }
   ]
 }

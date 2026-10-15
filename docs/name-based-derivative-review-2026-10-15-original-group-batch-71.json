@@ -1,0 +1,350 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet visually inspected. Four animations sampled at four spaced positions, not exhaustive playback. Rejections apply to RAREPEPENOTE only, not possible relationships among other banknote assets.",
+  "reviewed": [
+    {
+      "original": "RAREPEPENOTE",
+      "volume_usd": 24711.78289172842,
+      "buyers": 18,
+      "candidates": [
+        "BTCBANKNOTE",
+        "BTCBANKNOTE.BITCOIN2019SF",
+        "BTCBANKNOTE.RAREAF2",
+        "BTCBANKNOTE.SUBASTA",
+        "EURONOTES.10",
+        "EURONOTES.100",
+        "EURONOTES.20",
+        "EURONOTES.200",
+        "EURONOTES.5",
+        "EURONOTES.50",
+        "EURONOTES.500",
+        "ICANNOTEVEN",
+        "JOURNOTEARS",
+        "MFERS.MUSICNOTE",
+        "MUSICNOTEAPE",
+        "NOTESPEPE",
+        "ONEDANKNOTE",
+        "PIZZADAYNOTE.2022POST",
+        "PIZZADAYNOTE.JEREMY2022",
+        "THUGLIFENOTE.ANDREAS",
+        "THUGLIFENOTE.ANDREASREV",
+        "THUGLIFENOTE.CHARLIE",
+        "THUGLIFENOTE.CHARLIEREV",
+        "THUGLIFENOTE.DORIAN",
+        "THUGLIFENOTE.DORIANREV",
+        "THUGLIFENOTE.GOX",
+        "THUGLIFENOTE.GOXREV",
+        "THUGLIFENOTE.HAL",
+        "THUGLIFENOTE.HALREV",
+        "THUGLIFENOTE.JIHAN",
+        "THUGLIFENOTE.JIHANREV",
+        "THUGLIFENOTE.NOTSATOSHI",
+        "THUGLIFENOTE.NOTSATOSHIREV",
+        "THUGLIFENOTE.VER",
+        "THUGLIFENOTE.VERREV",
+        "VIZNOTES"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MUSICNOTEAPE",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "ONEDANKNOTE",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "PIZZADAYNOTE.JEREMY2022",
+      "pages": 70,
+      "sampled_frames": [
+        0,
+        23,
+        46,
+        69
+      ]
+    },
+    {
+      "asset": "PIZZADAYNOTE.2022POST",
+      "pages": 70,
+      "sampled_frames": [
+        0,
+        23,
+        46,
+        69
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "BTCBANKNOTE",
+      "status": "rejected",
+      "reason": "Low-resolution horizontal Bitcoin banknote with human portrait; visible composition differs from source vertical frog note/card. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "BTCBANKNOTE.BITCOIN2019SF",
+      "status": "rejected",
+      "reason": "Low-resolution horizontal Bitcoin banknote with human portrait; visible composition differs from source vertical frog note/card. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "BTCBANKNOTE.RAREAF2",
+      "status": "rejected",
+      "reason": "Low-resolution horizontal Bitcoin banknote with human portrait; visible composition differs from source vertical frog note/card. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "BTCBANKNOTE.SUBASTA",
+      "status": "rejected",
+      "reason": "Low-resolution horizontal Bitcoin banknote with human portrait; visible composition differs from source vertical frog note/card. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.10",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 10. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.100",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 100. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.20",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 20. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.200",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 200. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.5",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 5. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.50",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 50. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "EURONOTES.500",
+      "status": "rejected",
+      "reason": "Euro banknote with red FAKE overprint and corner frog, denomination 500. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "ICANNOTEVEN",
+      "status": "rejected",
+      "reason": "Surreal antlered human portrait in ornate interior. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "JOURNOTEARS",
+      "status": "rejected",
+      "reason": "Crying journalist portrait in Libtist Tears card. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "MFERS.MUSICNOTE",
+      "status": "rejected",
+      "reason": "Stylized head with musical staff and notes. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "MUSICNOTEAPE",
+      "status": "rejected",
+      "reason": "Animated ape musician against stars. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "NOTESPEPE",
+      "status": "rejected",
+      "reason": "Black-and-white notebook/drawing collage. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "ONEDANKNOTE",
+      "status": "rejected",
+      "reason": "Horizontal one-unit note with sunglass frog, foliage, multicolor lower lettering and changing green ornamentation. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "PIZZADAYNOTE.2022POST",
+      "status": "rejected",
+      "reason": "Horizontal 10000 pizza-day note with sunglass frog in suit and animated border. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "PIZZADAYNOTE.JEREMY2022",
+      "status": "rejected",
+      "reason": "Horizontal 10000 pizza-day note with hooded sunglass human portrait and animated border. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-0.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.ANDREAS",
+      "status": "rejected",
+      "reason": "Altered national banknote ANDREAS with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.ANDREASREV",
+      "status": "rejected",
+      "reason": "Altered national banknote ANDREASREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.CHARLIE",
+      "status": "rejected",
+      "reason": "Altered national banknote CHARLIE with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.CHARLIEREV",
+      "status": "rejected",
+      "reason": "Altered national banknote CHARLIEREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.DORIAN",
+      "status": "rejected",
+      "reason": "Altered national banknote DORIAN with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.DORIANREV",
+      "status": "rejected",
+      "reason": "Altered national banknote DORIANREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.GOX",
+      "status": "rejected",
+      "reason": "Altered national banknote GOX with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.GOXREV",
+      "status": "rejected",
+      "reason": "Altered national banknote GOXREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.HAL",
+      "status": "rejected",
+      "reason": "Altered national banknote HAL with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.HALREV",
+      "status": "rejected",
+      "reason": "Altered national banknote HALREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.JIHAN",
+      "status": "rejected",
+      "reason": "Altered national banknote JIHAN with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.JIHANREV",
+      "status": "rejected",
+      "reason": "Altered national banknote JIHANREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.NOTSATOSHI",
+      "status": "rejected",
+      "reason": "Altered national banknote NOTSATOSHI with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.NOTSATOSHIREV",
+      "status": "rejected",
+      "reason": "Altered national banknote NOTSATOSHIREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.VER",
+      "status": "rejected",
+      "reason": "Altered national banknote VER with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "THUGLIFENOTE.VERREV",
+      "status": "rejected",
+      "reason": "Altered national banknote VERREV with human portrait or reverse-side banknote imagery and Bitcoin references. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    },
+    {
+      "original": "RAREPEPENOTE",
+      "asset": "VIZNOTES",
+      "status": "rejected",
+      "reason": "Horizontal 10000 note with hooded sunglass human portrait. Does not reuse RAREPEPENOTE distinctive vertical Federal Rare Note / One Pepe composition and lower In Crypto We Trust panel. Shared banknote template, frog or note name fragment alone insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENOTE-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 36,
+    "accepted": 0,
+    "rejected": 36
+  }
+}

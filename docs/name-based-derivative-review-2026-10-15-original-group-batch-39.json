@@ -1,0 +1,542 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame grouped sheets and two shared animation sheets viewed against both originals. Seven unique animations sampled at four spaced positions (all three HOMERZOMBIE frames). Longer animations not exhaustively reviewed. Enlargements viewed for XXCER.ZOMBIEPEPES2, ZOMBIEPPS and ZOMBIEPEPES; live canonical JSON fetched for ZOMBIEPPS.",
+  "reviewed": [
+    {
+      "original": "RAREZOMBIE",
+      "volume_usd": 11816.940523757145,
+      "buyers": 22,
+      "candidates": [
+        "DABZOMBIE",
+        "ETHZOMBIE",
+        "HIPSTRZOMBIE",
+        "HOMERZOMBIE",
+        "MUSKTWEETS.ZOMBIES",
+        "PEPEZOMBIES",
+        "PHOCKHORROR.NAKAZOMBIE",
+        "PHOCKHORROR.ZOMBIE",
+        "SMOLZOMBIE",
+        "XXCER.ZOMBIEPEPES2",
+        "ZOMBIEAPE",
+        "ZOMBIEFLU",
+        "ZOMBIEGIRLS",
+        "ZOMBIEGIRLS.MEDUSA",
+        "ZOMBIEGIRLS.zombierella",
+        "ZOMBIENFT",
+        "ZOMBIEPEP",
+        "ZOMBIEPPS"
+      ]
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "volume_usd": 4149.077802477922,
+      "buyers": 18,
+      "candidates": [
+        "DABZOMBIE",
+        "ETHZOMBIE",
+        "HIPSTRZOMBIE",
+        "HOMERZOMBIE",
+        "MUSKTWEETS.ZOMBIES",
+        "PEPEZOMBIES",
+        "PHOCKHORROR.NAKAZOMBIE",
+        "PHOCKHORROR.ZOMBIE",
+        "SMOLZOMBIE",
+        "XXCER.ZOMBIEPEPES2",
+        "ZOMBIEAPE",
+        "ZOMBIEFLU",
+        "ZOMBIEGIRLS",
+        "ZOMBIEGIRLS.MEDUSA",
+        "ZOMBIEGIRLS.zombierella",
+        "ZOMBIENFT",
+        "ZOMBIEPEP",
+        "ZOMBIEPPS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "HOMERZOMBIE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "RAREZOMBIE",
+      "pages": 11,
+      "sampled_frames": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    {
+      "asset": "SMOLZOMBIE",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "ZOMBIEGIRLS.MEDUSA",
+      "pages": 327,
+      "sampled_frames": [
+        0,
+        109,
+        217,
+        326
+      ]
+    },
+    {
+      "asset": "ZOMBIEGIRLS",
+      "pages": 704,
+      "sampled_frames": [
+        0,
+        234,
+        469,
+        703
+      ]
+    },
+    {
+      "asset": "ZOMBIEGIRLS.zombierella",
+      "pages": 412,
+      "sampled_frames": [
+        0,
+        137,
+        274,
+        411
+      ]
+    },
+    {
+      "asset": "ZOMBIEPEP",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RAREZOMBIE",
+      "asset": "DABZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ETHZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "HIPSTRZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "HOMERZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "MUSKTWEETS.ZOMBIES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "PEPEZOMBIES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "PHOCKHORROR.NAKAZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "PHOCKHORROR.ZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "SMOLZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "XXCER.ZOMBIEPEPES2",
+      "status": "rejected",
+      "reason": "Enlarged redemption listing depicts ZOMBIEPEPES cards and physical merchandise, not this original.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEFLU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEGIRLS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEGIRLS.MEDUSA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEGIRLS.zombierella",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIENFT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the wide-eyed green zombie holding a circular medallion against a moonlit graveyard in the inspected artwork/animation samples. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "RAREZOMBIE",
+      "asset": "ZOMBIEPPS",
+      "status": "rejected",
+      "reason": "Enlarged image and explicit canonical JSON identify ZOMBIEPEPES as the homage source, not this original.",
+      "evidence_sheet": "sheets/group-RAREZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "DABZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ETHZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "HIPSTRZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "HOMERZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "MUSKTWEETS.ZOMBIES",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "PEPEZOMBIES",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "PHOCKHORROR.NAKAZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "PHOCKHORROR.ZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "SMOLZOMBIE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "XXCER.ZOMBIEPEPES2",
+      "status": "rejected",
+      "reason": "Enlarged redemption listing depicts ZOMBIEPEPES cards and physical merchandise, not this original.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEAPE",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEFLU",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEGIRLS",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEGIRLS.MEDUSA",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEGIRLS.zombierella",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIENFT",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEPEP",
+      "status": "rejected",
+      "reason": "No reuse of the green-faced movie-still figure with bloody hand or the Pepe of the Living Dead card composition. Shared zombie subjects are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "PEPEZOMBIE",
+      "asset": "ZOMBIEPPS",
+      "status": "rejected",
+      "reason": "Enlarged image and explicit canonical JSON identify ZOMBIEPEPES as the homage source, not this original.",
+      "evidence_sheet": "sheets/group-PEPEZOMBIE-0.png"
+    },
+    {
+      "original": "ZOMBIEPEPES",
+      "asset": "ZOMBIEPPS",
+      "status": "accepted",
+      "reason": "Canonical JSON explicitly describes a 10th year anniversary homage of ZOMBIEPEPES. Enlarged art reimagines bulging eyes, protruding tongue, scattered teeth and torn white shirt as a full-body zombie; poster says Ten Years Later / 2026. Original is catalogued Rare Pepe with 2016 issuance; 2026 candidate linked media names the source.",
+      "evidence_sheet": "previews/ZOMBIEPPS-detail.png"
+    }
+  ],
+  "documentary_evidence": {
+    "candidate_metadata": [
+      {
+        "url": "https://blue-useful-vole-281.mypinata.cloud/ipfs/bafybeie3qaa5dzfbf3okospfx2bxyqsr4ugifgx37pfk47iva7a2hwkyi4/ZOMBIEPPS.JSON",
+        "status": 200,
+        "text": "{\n  \"artwork_title\": \"ZOMBIE PEPES 2026\",\n  \"asset_name\": \"ZOMBIEPPS\",\n  \"artist_name\": \"Gus Grillasca\",\n  \"description\": \"10TH YEAR ANNIVERSARY HOMAGE OF THE LEGENARY ZOMBIEPEPES\",\n  \"year\": 2026,\n  \"directory\": \"FAKERARES\",\n  \"thumbnail_image\": \"https://blue-useful-vole-281.mypinata.cloud/ipfs/bafkreifj2a4ju6lgmelggdjs4havkoyrgd75o7tfx7hnjkrcnkxhjdjvhy\",\n  \"image\": \"https://blue-useful-vole-281.mypinata.cloud/ipfs/bafybeiai6rilintldtebd6hufyulecoizfeooc7fzfyjelxxz367h74oja\"\n}"
+      }
+    ],
+    "original_issuances": [
+      {
+        "asset": "ZOMBIEPEPES",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "4e32c2cc917677b243a85884663b785fb48ccfc543faf5d295bb7f690944f502",
+              "block_index": 435128,
+              "block_time": 1476980248,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "BURN THEM ALL",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "f0174039847799fd7d190754a15763af6eaaf95b39a31d77edc2f0667316823f",
+              "block_index": 435053,
+              "block_time": 1476930635,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "BURN THEM ALL",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "47899258e2b553965ab52919811f4cbda9f84a8e69de80e43faddf5052a545f3",
+              "block_index": 435051,
+              "block_time": 1476928785,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "1000000",
+              "description": "BURN THEM ALL",
+              "asset_events": "reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "8d7f84c6a0ceb9f04348c4100e537ff4e84ae909f18f58332dd5c51eaf75d6bc",
+              "block_index": 435051,
+              "block_time": 1476928785,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "1000000",
+              "description": "BURN THEM ALL",
+              "asset_events": "change_description reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "2eebf4b0a219fee98cb34c41e3956d96835eb5dbe29e65318e46867bb70efb5e",
+              "block_index": 435051,
+              "block_time": 1476928785,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "4000000",
+              "description": "",
+              "asset_events": "reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "41e68f5d04c571f5de06695fd545eae49360ba6d467e13dbe4bb71d193b3a2cd",
+              "block_index": 435051,
+              "block_time": 1476928785,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "4000000",
+              "description": "BURN THEM ALL",
+              "asset_events": "change_description reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "209eaf92f89ae5054c9c980df82ae3083e99fe74f1562464c166677e2aff7d90",
+              "block_index": 435049,
+              "block_time": 1476928409,
+              "source": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "issuer": "15qdhYM8WXZQUCPsR1oeoWkfCmBgeUZXht",
+              "transfer": 0,
+              "quantity_normalized": "4000000000",
+              "description": "",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ],
+    "candidate_issuances": [
+      {
+        "asset": "ZOMBIEPPS",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "5f8e158217f2da064a2b85ee26734508a2d17dba729f9e25b97c6ad83b49851c",
+              "block_index": 950928,
+              "block_time": 1779698240,
+              "source": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "issuer": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://blue-useful-vole-281.mypinata.cloud/ipfs/bafybeie3qaa5dzfbf3okospfx2bxyqsr4ugifgx37pfk47iva7a2hwkyi4/ZOMBIEPPS.JSON",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "2b96f2f5deef813379431f875bc1dc3844189b6a9a69d0aa662af6681f21608e",
+              "block_index": 946246,
+              "block_time": 1776902632,
+              "source": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "issuer": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "9f170c90e1618a94f182f11e6a7c4d55e2ff9f50341ba2bf185b28a789ec7604",
+              "block_index": 946003,
+              "block_time": 1776747642,
+              "source": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "issuer": "1GZe5h1YSfBHaF1mmmmLuD2Wi9wUJbuWCc",
+              "transfer": 0,
+              "quantity_normalized": "100",
+              "description": "",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "comparisons": 37,
+    "accepted": 1,
+    "rejected": 36
+  }
+}

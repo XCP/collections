@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-15",
+  "method": "Two grouped first-frame sheets inspected; three animation sheets viewed for nine GIFs including original, four spaced samples each (all three HOMERALIEN and all four NOTALIEN frames). Initial PEPETHEALIEN image-decoder failure identified as valid22.92sMP4; four sampled video positions decoded and viewed. Sampling is not exhaustive playback. Rejections are exact-source comparisons against PEPEALIEN, not all possible alien originals.",
+  "reviewed": [
+    {
+      "original": "PEPEALIEN",
+      "volume_usd": 25167.75664243452,
+      "buyers": 23,
+      "candidates": [
+        "CHONGALIEN",
+        "ELVALIENTE",
+        "ETHALIENFIVE",
+        "ETHALIENFOUR",
+        "ETHALIENONE",
+        "ETHALIENTWO",
+        "FAKEDOSALIEN",
+        "GRALIEN",
+        "GREYWHALIEN",
+        "HOMERALIEN",
+        "ITALIEN",
+        "NFDALIEN",
+        "NOTALIEN",
+        "ORDINALIEN",
+        "PEPALIEN",
+        "PEPEALIENS",
+        "PEPEALIENX",
+        "PEPETHEALIEN",
+        "SKULLALIEN",
+        "TAMALIEN",
+        "WOJAKALIEN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPEALIEN",
+      "pages": 65,
+      "sampled_frames": [
+        0,
+        21,
+        43,
+        64
+      ]
+    },
+    {
+      "asset": "CHONGALIEN",
+      "pages": 51,
+      "sampled_frames": [
+        0,
+        17,
+        33,
+        50
+      ]
+    },
+    {
+      "asset": "HOMERALIEN",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "PEPALIEN",
+      "pages": 103,
+      "sampled_frames": [
+        0,
+        34,
+        68,
+        102
+      ]
+    },
+    {
+      "asset": "GREYWHALIEN",
+      "pages": 78,
+      "sampled_frames": [
+        0,
+        26,
+        51,
+        77
+      ]
+    },
+    {
+      "asset": "NOTALIEN",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "ITALIEN",
+      "pages": 128,
+      "sampled_frames": [
+        0,
+        42,
+        85,
+        127
+      ]
+    },
+    {
+      "asset": "WOJAKALIEN",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "TAMALIEN",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "asset": "PEPETHEALIEN",
+      "duration": 22.92,
+      "sampled_seconds": [
+        0,
+        7.6066666666666665,
+        15.213333333333333,
+        22.820000000000004
+      ]
+    }
+  ],
+  "media_format_recovery": {
+    "asset": "PEPETHEALIEN",
+    "status": 200,
+    "type": "video/mp4",
+    "bytes": 12723336,
+    "signature": "00000018667479706d703432000000006d7034326d703431000021456d6f6f760000006c6d766864"
+  },
+  "decisions": [
+    {
+      "original": "PEPEALIEN",
+      "asset": "CHONGALIEN",
+      "status": "rejected",
+      "reason": "Glitching illustrated wanted-poster portraits. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ELVALIENTE",
+      "status": "rejected",
+      "reason": "Standing musician with instrument. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ETHALIENFIVE",
+      "status": "rejected",
+      "reason": "Suited figure with Ethereum placard. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ETHALIENFOUR",
+      "status": "rejected",
+      "reason": "Suited figure with Ethereum placard. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ETHALIENONE",
+      "status": "rejected",
+      "reason": "Suited figure with Ethereum placard. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ETHALIENTWO",
+      "status": "rejected",
+      "reason": "Suited figure with Ethereum placard and outlined rectangle. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "FAKEDOSALIEN",
+      "status": "rejected",
+      "reason": "Pixel alien with cap and sunglasses. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "GRALIEN",
+      "status": "rejected",
+      "reason": "Grayscale suited space character montage. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "GREYWHALIEN",
+      "status": "rejected",
+      "reason": "Alien head breaching ocean in news-style card. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "HOMERALIEN",
+      "status": "rejected",
+      "reason": "Pixel Homer/Santa alien portrait. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ITALIEN",
+      "status": "rejected",
+      "reason": "Xenomorph with Italian hand gesture and title pun. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "NFDALIEN",
+      "status": "rejected",
+      "reason": "Black-and-white tentacled fruit drawing. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "NOTALIEN",
+      "status": "rejected",
+      "reason": "Chalkboard frog CAPTCHA animation. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "ORDINALIEN",
+      "status": "rejected",
+      "reason": "Two aliens in Ordinal card. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "PEPALIEN",
+      "status": "rejected",
+      "reason": "Blue pixel alien with hat glasses and pipe. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "PEPEALIENS",
+      "status": "rejected",
+      "reason": "Hand-drawn green frog/alien figures. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "PEPEALIENX",
+      "status": "rejected",
+      "reason": "Long-necked colorful multi-headed alien frog. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "PEPETHEALIEN",
+      "status": "rejected",
+      "reason": "Animated painterly landscape/UFO and hand-drawn Pepe montage. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-video.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "SKULLALIEN",
+      "status": "rejected",
+      "reason": "Skull UFO illustration. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-0.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "TAMALIEN",
+      "status": "rejected",
+      "reason": "Tamale/alien mummy parody card. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-19.png"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "WOJAKALIEN",
+      "status": "rejected",
+      "reason": "Alien-faced jacketed man with flashing background. No distinctive reuse of the source blue sci-fi card, glowing circular portal cycling illustrated images, unknown-warning caption and Xenomorph rating in inspected material; shared alien theme insufficient.",
+      "evidence_sheet": "sheets/group-PEPEALIEN-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 21,
+    "accepted": 0,
+    "rejected": 21,
+    "media_blocked": 0
+  }
+}
