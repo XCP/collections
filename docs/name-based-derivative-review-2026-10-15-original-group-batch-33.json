@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and two animation sheets viewed. Four animations sampled at four spaced positions, not exhaustive playback. Shared external characters, subjects and names are not direct derivative evidence.",
+  "reviewed": [
+    {
+      "original": "PEPEKARMA",
+      "volume_usd": 16376.49897034843,
+      "buyers": 78,
+      "candidates": [
+        "KARMACARD",
+        "KARMARUN",
+        "PGNKARMA"
+      ]
+    },
+    {
+      "original": "PEPEJONES",
+      "volume_usd": 16153.420698124453,
+      "buyers": 131,
+      "candidates": [
+        "COJONES",
+        "DAVYJONESBTC",
+        "JONESPEPE",
+        "PEPELEMPICKA.MRSJONES",
+        "TWOSVENPHOCK.BRIANJONES"
+      ]
+    },
+    {
+      "original": "KRUEGERPEPE",
+      "volume_usd": 15827.023234366918,
+      "buyers": 24,
+      "candidates": [
+        "PEPEKRUEGERZ",
+        "PSYCHO.KRUEGER"
+      ]
+    },
+    {
+      "original": "MINIONPEPE",
+      "volume_usd": 13322.498100843508,
+      "buyers": 146,
+      "candidates": [
+        "MINIONAPE",
+        "MINIONMASTER",
+        "MINIONS",
+        "PEPEMINION"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPELEMPICKA.MRSJONES",
+      "pages": 100,
+      "sampled_frames": [
+        0,
+        33,
+        66,
+        99
+      ]
+    },
+    {
+      "asset": "COJONES",
+      "pages": 238,
+      "sampled_frames": [
+        0,
+        79,
+        158,
+        237
+      ]
+    },
+    {
+      "asset": "MINIONPEPE",
+      "pages": 38,
+      "sampled_frames": [
+        0,
+        12,
+        25,
+        37
+      ]
+    },
+    {
+      "asset": "PEPEMINION",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEKARMA",
+      "asset": "KARMACARD",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe/Wojak yin-yang heads and red patterned geometric surround; shared karma symbol/name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEKARMA-0.png"
+    },
+    {
+      "original": "PEPEKARMA",
+      "asset": "KARMARUN",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe/Wojak yin-yang heads and red patterned geometric surround; shared karma symbol/name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEKARMA-0.png"
+    },
+    {
+      "original": "PEPEKARMA",
+      "asset": "PGNKARMA",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe/Wojak yin-yang heads and red patterned geometric surround; shared karma symbol/name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEKARMA-0.png"
+    },
+    {
+      "original": "PEPEJONES",
+      "asset": "COJONES",
+      "status": "rejected",
+      "reason": "No reuse of the InfoWars broadcaster scene, pointing pose and specific card text; Jones name matches depict different people/subjects.",
+      "evidence_sheet": "sheets/group-PEPEJONES-0.png"
+    },
+    {
+      "original": "PEPEJONES",
+      "asset": "DAVYJONESBTC",
+      "status": "rejected",
+      "reason": "No reuse of the InfoWars broadcaster scene, pointing pose and specific card text; Jones name matches depict different people/subjects.",
+      "evidence_sheet": "sheets/group-PEPEJONES-0.png"
+    },
+    {
+      "original": "PEPEJONES",
+      "asset": "JONESPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the InfoWars broadcaster scene, pointing pose and specific card text; Jones name matches depict different people/subjects.",
+      "evidence_sheet": "sheets/group-PEPEJONES-0.png"
+    },
+    {
+      "original": "PEPEJONES",
+      "asset": "PEPELEMPICKA.MRSJONES",
+      "status": "rejected",
+      "reason": "No reuse of the InfoWars broadcaster scene, pointing pose and specific card text; Jones name matches depict different people/subjects.",
+      "evidence_sheet": "sheets/group-PEPEJONES-0.png"
+    },
+    {
+      "original": "PEPEJONES",
+      "asset": "TWOSVENPHOCK.BRIANJONES",
+      "status": "rejected",
+      "reason": "No reuse of the InfoWars broadcaster scene, pointing pose and specific card text; Jones name matches depict different people/subjects.",
+      "evidence_sheet": "sheets/group-PEPEJONES-0.png"
+    },
+    {
+      "original": "KRUEGERPEPE",
+      "asset": "PEPEKRUEGERZ",
+      "status": "rejected",
+      "reason": "Different Freddy Krueger-inspired drawings and poses; no reuse of the purple line-art face and raised claw composition.",
+      "evidence_sheet": "sheets/group-KRUEGERPEPE-0.png"
+    },
+    {
+      "original": "KRUEGERPEPE",
+      "asset": "PSYCHO.KRUEGER",
+      "status": "rejected",
+      "reason": "Different Freddy Krueger-inspired drawings and poses; no reuse of the purple line-art face and raised claw composition.",
+      "evidence_sheet": "sheets/group-KRUEGERPEPE-0.png"
+    },
+    {
+      "original": "MINIONPEPE",
+      "asset": "MINIONAPE",
+      "status": "rejected",
+      "reason": "Different Minion characters and scenes; no reuse of the beach, sign-changing central Pepe and surrounding characters.",
+      "evidence_sheet": "sheets/group-MINIONPEPE-0.png"
+    },
+    {
+      "original": "MINIONPEPE",
+      "asset": "MINIONMASTER",
+      "status": "rejected",
+      "reason": "Different Minion characters and scenes; no reuse of the beach, sign-changing central Pepe and surrounding characters.",
+      "evidence_sheet": "sheets/group-MINIONPEPE-0.png"
+    },
+    {
+      "original": "MINIONPEPE",
+      "asset": "MINIONS",
+      "status": "rejected",
+      "reason": "Different Minion characters and scenes; no reuse of the beach, sign-changing central Pepe and surrounding characters.",
+      "evidence_sheet": "sheets/group-MINIONPEPE-0.png"
+    },
+    {
+      "original": "MINIONPEPE",
+      "asset": "PEPEMINION",
+      "status": "rejected",
+      "reason": "Different Minion characters and scenes; no reuse of the beach, sign-changing central Pepe and surrounding characters.",
+      "evidence_sheet": "sheets/group-MINIONPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 14
+  }
+}
