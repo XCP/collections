@@ -1,0 +1,769 @@
+{
+  "date": "2026-10-15",
+  "method": "All five complete first-frame sheets and three animation sheets viewed; ten animations sampled four spaced frames (all when <=4). PEPELOU and PEPELOUX enlarged static artwork viewed. Exact-source comparison, not exhaustive animation playback.",
+  "reviewed": [
+    {
+      "original": "PEPEBALL",
+      "candidates": [
+        "BALLASGANG",
+        "BALLBAG",
+        "BALLERPEPE",
+        "BALLONDOR",
+        "BALLOONEY",
+        "BALLOTBURN",
+        "BALLPARKS",
+        "BITBALL.1BABERUTH",
+        "BITBALL.2SATCHELPAIGE",
+        "BITBALL.3HONUSWAGNER",
+        "BITBALL.4LOUGEHRIG",
+        "BLUEBALL",
+        "BRAINBALLAPE",
+        "BTCBALLERS.TO_THE_MOON",
+        "BXPEMANBALLS",
+        "CHINABALLOON",
+        "COCOBALL",
+        "COCOSBALLOON",
+        "CRYPTOBALL",
+        "DANKBALLET",
+        "DRAGONBALLS",
+        "FAKEARWYN.FOOTBALLER",
+        "FAKEBALLFANS",
+        "FAKEBALLS.LAFAKAPRODUCTION",
+        "FAKERBBALL",
+        "FOOTBALLPEPE",
+        "HODLTRUMPS.BASKETBALL",
+        "HODLTRUMPS.FOOTBALL",
+        "MINDBENDERS.METABALLS.001",
+        "MINDBENDERS.METABALLS.002",
+        "MINDBENDERS.METABALLS.003",
+        "MSTRPEPES.PEPEWITHGREENBALLOON",
+        "NEMBALLOON",
+        "ORDBALLOON",
+        "PEBALL",
+        "PEPEBALLOONS",
+        "PEPEBALLZ",
+        "PEPEBASEBALL",
+        "PEPEPWRBALL",
+        "RAREFOOTBALL",
+        "SCANNMABALLS",
+        "SNOWBALLPEPE",
+        "STAMPEPEBALL",
+        "WOJAKBALLOON",
+        "XFCPCEBALLOS"
+      ]
+    },
+    {
+      "original": "PEPELOU",
+      "candidates": [
+        "BITBALL.4LOUGEHRIG",
+        "BKLOUNGE",
+        "CLOUDEDFLOW",
+        "CLOUDVISION",
+        "CLOUDYDANK",
+        "COCOLOUIS",
+        "COLOURPEPE",
+        "DERPVANGOGH.CLOUDS",
+        "FAKECLOUDS",
+        "FAUXLOUNGE",
+        "FERNS.Static_Colour",
+        "FLOURKORN",
+        "HODLTRUMPS.CLOUDNINE",
+        "HODLTRUMPS.SELLOUT",
+        "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+        "KALEIDOSCOPE.Colourpaper",
+        "KOKO.JEALOUS",
+        "LAKELOUISE",
+        "LELOUVRE",
+        "LOUDPEPE",
+        "LOUFMECHA",
+        "LOUNGESINGER",
+        "MARVELLOUS",
+        "PEPECLOUD",
+        "PEPECLOUDS",
+        "PEPEFALLOUT",
+        "PEPELOUX",
+        "SELLOUTPEPE",
+        "SHADILOUNGE",
+        "SKYCLOUDTEST",
+        "THECLOUDPEPE",
+        "THEPLOUGH",
+        "THINKOUTLOUD",
+        "TOOLOUD"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BALLOTBURN",
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    {
+      "asset": "HODLTRUMPS.FOOTBALL",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "HODLTRUMPS.BASKETBALL",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "NEMBALLOON",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "COLOURPEPE",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "CLOUDVISION",
+      "pages": 99,
+      "sampled_frames": [
+        0,
+        33,
+        65,
+        98
+      ]
+    },
+    {
+      "asset": "BKLOUNGE",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+      "pages": 396,
+      "sampled_frames": [
+        0,
+        132,
+        263,
+        395
+      ]
+    },
+    {
+      "asset": "MARVELLOUS",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "PEPECLOUD",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLASGANG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLBAG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLONDOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLOONEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLOTBURN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BALLPARKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BITBALL.1BABERUTH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BITBALL.2SATCHELPAIGE",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input Buffer is empty",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BITBALL.3HONUSWAGNER",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input Buffer is empty",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BITBALL.4LOUGEHRIG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BLUEBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BRAINBALLAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BTCBALLERS.TO_THE_MOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "BXPEMANBALLS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "CHINABALLOON",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input buffer contains unsupported image format",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "COCOBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "COCOSBALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "CRYPTOBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-0.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "DANKBALLET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "DRAGONBALLS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "FAKEARWYN.FOOTBALLER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "FAKEBALLFANS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "FAKEBALLS.LAFAKAPRODUCTION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "FAKERBBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "FOOTBALLPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "HODLTRUMPS.BASKETBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "HODLTRUMPS.FOOTBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "MINDBENDERS.METABALLS.001",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input buffer contains unsupported image format",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "MINDBENDERS.METABALLS.002",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input buffer contains unsupported image format",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "MINDBENDERS.METABALLS.003",
+      "status": "media_blocked",
+      "reason": "CDN render failed: Input buffer contains unsupported image format",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "MSTRPEPES.PEPEWITHGREENBALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "NEMBALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "ORDBALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "PEBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "PEPEBALLOONS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "PEPEBALLZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "PEPEBASEBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-19.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "PEPEPWRBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "RAREFOOTBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "SCANNMABALLS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "SNOWBALLPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "STAMPEPEBALL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "WOJAKBALLOON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPEBALL",
+      "asset": "XFCPCEBALLOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the green Dragon Ball character montage. COCOBALL/PEPEBALLZ share the external franchise, not the source composition; other candidates are unrelated sports, balloons, portraits and scenes.",
+      "evidence_sheet": "sheets/group-PEPEBALL-38.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "BITBALL.4LOUGEHRIG",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "BKLOUNGE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "CLOUDEDFLOW",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "CLOUDVISION",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "CLOUDYDANK",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "COCOLOUIS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "COLOURPEPE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "DERPVANGOGH.CLOUDS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "FAKECLOUDS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "FAUXLOUNGE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "FERNS.Static_Colour",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "FLOURKORN",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "HODLTRUMPS.CLOUDNINE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "HODLTRUMPS.SELLOUT",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "KALEIDOSCOPE.Colourpaper",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "KOKO.JEALOUS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "LAKELOUISE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "LELOUVRE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-0.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "LOUDPEPE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "LOUFMECHA",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "LOUNGESINGER",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "MARVELLOUS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "PEPECLOUD",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "PEPECLOUDS",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "PEPEFALLOUT",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "PEPELOUX",
+      "status": "accepted",
+      "reason": "Distinctive paired Pepe-faced high-heel shoes and Pepe Lou branding reworked in black/pink with claw heels. Enlarged static images viewed. Source Series10 Card37 precedes derivative Series26 Card4. Both tokens created in same block446179, so creation time is not evidence for direction.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "SELLOUTPEPE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "SHADILOUNGE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "SKYCLOUDTEST",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "THECLOUDPEPE",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "THEPLOUGH",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "THINKOUTLOUD",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    },
+    {
+      "original": "PEPELOU",
+      "asset": "TOOLOUD",
+      "status": "rejected",
+      "reason": "No reuse of paired Pepe-faced high-heel shoe composition and branding; LOU occurs in unrelated words, portraits, abstract art and scenes.",
+      "evidence_sheet": "sheets/group-PEPELOU-19.png"
+    }
+  ],
+  "accepted_evidence": {
+    "asset": "PEPELOUX",
+    "original": "PEPELOU",
+    "source_catalog": "collections/rare-pepe/assets.json: Series10 Card37 versus Series26 Card4",
+    "media": [
+      "https://cdn.xcp.io/img/full/PEPELOU",
+      "https://cdn.xcp.io/img/full/PEPELOUX"
+    ],
+    "issuances": [
+      "https://api.xcp.io/v2/assets/PEPELOU/issuances?limit=100",
+      "https://api.xcp.io/v2/assets/PEPELOUX/issuances?limit=100"
+    ],
+    "local_evidence": "pepelou-evidence.json",
+    "direction_basis": "Catalog order and visual redesign, not token registration; same-block creation explicitly checked."
+  },
+  "summary": {
+    "comparisons": 79,
+    "accepted": 1,
+    "rejected": 72,
+    "media_blocked": 6
+  }
+}
