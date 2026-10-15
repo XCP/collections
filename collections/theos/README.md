@@ -10,7 +10,7 @@
 | Primary memberships | 5 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 6/6 (100%) |
+| Traits | Artist: 6/6 (100%)<br>Based on: 1/6 (16.7%) |
 <!-- collection-facts:end -->
 
 An illustrated parent plus five media-bearing descendants form this personal namespace. Their subjects include project satire, identity, and auction commentary. Blank numbered descendants and FAKETHEOREKT are excluded. The original Bitcorn Crops parent stays primary there; auction imagery is not proof of current auction rights.

@@ -329,7 +329,13 @@
       ]
     },
     {
-      "asset": "FAUXCORNCASH"
+      "asset": "FAUXCORNCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "FAUXCORNHOLE",
@@ -380,6 +386,10 @@
         {
           "trait_type": "Artist",
           "value": "TKY"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "GOGHCORN"
         }
       ]
     },
@@ -557,6 +567,10 @@
         {
           "trait_type": "Artist",
           "value": "HNFT Pepe"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },

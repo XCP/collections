@@ -10,7 +10,7 @@
 | Primary memberships | 523 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 5/523 (1.0%)<br>Artist: 205/523 (39.2%)<br>Based on: 50/523 (9.6%) |
+| Traits | Art year: 5/523 (1.0%)<br>Artist: 205/523 (39.2%)<br>Based on: 54/523 (10.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -31,3 +31,5 @@ the change and how to verify it. If you cannot prepare a pull request,
 The illustrated PHOCKHEADS parent and PHOCKHEADS.1 edition were issued together on December 31, 2021 (UTC). The child already points to its numbered image at creation and receives its edition supply the same day. This is coordinated project use, not a blank reservation.
 
 [Source](https://api.xcp.io/v2/assets/PHOCKHEADS/issuances?limit=100). See the [chronology review](../../docs/chronology-review-2026-10-13.md) for scope and limitations.
+
+Additional visually confirmed derivative links are documented in the [subasset review](../../docs/subasset-derivative-review-2026-10-15.json). Exact subasset names are leads; artwork comparison establishes the recorded links.

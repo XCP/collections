@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-15",
+  "method": "Exact normalized subasset components followed by side-by-side visual comparison; preserve closer immediate sources.",
+  "reviewed": [
+    {
+      "original": "PEPECASH",
+      "candidates": [
+        "COMMONFORK.PEPECASH"
+      ]
+    },
+    {
+      "original": "PEPEISLOVE",
+      "candidates": [
+        "PAMBONDI.PepeisLove"
+      ]
+    },
+    {
+      "original": "ENTERTHEPEPE",
+      "candidates": [
+        "FAKEDJPEPE.ENTER_THE_PEPE"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "FAKASTAMPS.DJPEPE"
+      ]
+    },
+    {
+      "original": "BLKCHNJESUS",
+      "candidates": [
+        "NOTAPEPEMOTO.BLKCHNJESUS"
+      ]
+    },
+    {
+      "original": "JIHANWU",
+      "candidates": [
+        "HONORARYNFT.JIHANWU"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PEPEFRENZ.ARWYN.DJPEPE"
+      ]
+    },
+    {
+      "original": "PEPEBOY",
+      "candidates": [
+        "PEPEFRENZ.DANDARK.PEPEBOY"
+      ]
+    },
+    {
+      "original": "RAREPEPE",
+      "candidates": [
+        "PEPERTOY.RAREPEPE"
+      ]
+    },
+    {
+      "original": "HAIRPEPE",
+      "candidates": [
+        "PEPERTOY.HAIRPEPE"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PEPERTOY.DJPEPE"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PHOCKHEADS.DJPEPE"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PHOCKHEADS.DJPEPE.SPACESCRILLA"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PHOCKHEADS.DJPEPE.DJSCRIBBLE"
+      ]
+    },
+    {
+      "original": "DJPEPE",
+      "candidates": [
+        "PHOCKHEADS.DJPEPE.DJKNOCKOFF"
+      ]
+    },
+    {
+      "original": "RAREPEPE",
+      "candidates": [
+        "RAYCBOY.RAREPEPE"
+      ]
+    },
+    {
+      "original": "PRINCESSPEPE",
+      "candidates": [
+        "HARDCORE.Princess_Pepe"
+      ]
+    },
+    {
+      "original": "ENTERTHEPEPE",
+      "candidates": [
+        "WUPEPE.ENTERTHEPEPE"
+      ]
+    },
+    {
+      "original": "YELLPEPE",
+      "candidates": [
+        "YELLPEPE.YELLPEPE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "asset": "COMMONFORK.PEPECASH",
+      "original": "PEPECASH",
+      "status": "rejected",
+      "evidence": "Cowboy portrait does not reuse the PEPECASH mansion/card artwork; confirms prior rejection.",
+      "images": [
+        "https://cdn.xcp.io/img/full/PEPECASH?image=1",
+        "https://cdn.xcp.io/img/full/COMMONFORK.PEPECASH?image=1"
+      ]
+    },
+    {
+      "asset": "PAMBONDI.PepeisLove",
+      "original": "PEPEISLOVE",
+      "status": "rejected",
+      "evidence": "Western gun scene, not the heart/flower Pepe composition.",
+      "images": [
+        "https://cdn.xcp.io/img/full/PEPEISLOVE?image=1",
+        "https://cdn.xcp.io/img/full/PAMBONDI.PepeisLove?image=1"
+      ]
+    },
+    {
+      "asset": "FAKEDJPEPE.ENTER_THE_PEPE",
+      "original": "ENTERTHEPEPE",
+      "status": "rejected",
+      "evidence": "Different martial-arts montage; shared movie reference/name does not establish this original as source.",
+      "images": [
+        "https://cdn.xcp.io/img/full/ENTERTHEPEPE?image=1",
+        "https://cdn.xcp.io/img/full/FAKEDJPEPE.ENTER_THE_PEPE?image=1"
+      ]
+    },
+    {
+      "asset": "FAKASTAMPS.DJPEPE",
+      "original": "DJPEPE",
+      "status": "rejected",
+      "evidence": "Different checkerboard line drawing; no distinctive DJPEPE artwork features.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/FAKASTAMPS.DJPEPE?image=1"
+      ]
+    },
+    {
+      "asset": "NOTAPEPEMOTO.BLKCHNJESUS",
+      "original": "BLKCHNJESUS",
+      "status": "accepted",
+      "selected_original": "BLKCHNJESUS",
+      "evidence": "Reuses the raised fist, sacred-heart robe, pose and radiating background, replacing the head and adding a card.",
+      "images": [
+        "https://cdn.xcp.io/img/full/BLKCHNJESUS?image=1",
+        "https://cdn.xcp.io/img/full/NOTAPEPEMOTO.BLKCHNJESUS?image=1"
+      ]
+    },
+    {
+      "asset": "HONORARYNFT.JIHANWU",
+      "original": "JIHANWU",
+      "status": "accepted",
+      "selected_original": "JIHANWU",
+      "evidence": "Redraws the bespectacled portrait and recognizable Jihan Wu Pepe title/stat-box composition.",
+      "images": [
+        "https://cdn.xcp.io/img/full/JIHANWU?image=1",
+        "https://cdn.xcp.io/img/full/HONORARYNFT.JIHANWU?image=1"
+      ]
+    },
+    {
+      "asset": "PEPEFRENZ.ARWYN.DJPEPE",
+      "original": "DJPEPE",
+      "status": "ambiguous",
+      "evidence": "DJ figure has white cap and headphones but exact card reuse unclear at review resolution.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PEPEFRENZ.ARWYN.DJPEPE?image=1"
+      ]
+    },
+    {
+      "asset": "PEPEFRENZ.DANDARK.PEPEBOY",
+      "original": "PEPEBOY",
+      "status": "accepted",
+      "selected_original": "PEPEBOY",
+      "evidence": "Places the distinctive blond Vault-Boy Pepe in the same blue/yellow suit and thumbs-up pose into a new scene.",
+      "images": [
+        "https://cdn.xcp.io/img/full/PEPEBOY?image=1",
+        "https://cdn.xcp.io/img/full/PEPEFRENZ.DANDARK.PEPEBOY?image=1"
+      ]
+    },
+    {
+      "asset": "PEPERTOY.RAREPEPE",
+      "original": "RAREPEPE",
+      "status": "already_recorded",
+      "selected_original": "RAREPEPE",
+      "evidence": "Printable model reuses Nakamoto face, grey suit and original green card graphics.",
+      "images": [
+        "https://cdn.xcp.io/img/full/RAREPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PEPERTOY.RAREPEPE?image=1"
+      ],
+      "existing_original": "RAREPEPE"
+    },
+    {
+      "asset": "PEPERTOY.HAIRPEPE",
+      "original": "HAIRPEPE",
+      "status": "already_recorded",
+      "selected_original": "HAIRPEPE",
+      "evidence": "Printable model reuses the smooth-haired face, black fringe and purple clothing.",
+      "images": [
+        "https://cdn.xcp.io/img/full/HAIRPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PEPERTOY.HAIRPEPE?image=1"
+      ],
+      "existing_original": "HAIRPEPE"
+    },
+    {
+      "asset": "PEPERTOY.DJPEPE",
+      "original": "DJPEPE",
+      "status": "already_recorded",
+      "selected_original": "DJPEPE",
+      "evidence": "Printable model reuses white cap, headphones, green face and black graphic shirt.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PEPERTOY.DJPEPE?image=1"
+      ],
+      "existing_original": "DJPEPE"
+    },
+    {
+      "asset": "PHOCKHEADS.DJPEPE",
+      "original": "DJPEPE",
+      "status": "already_recorded",
+      "selected_original": "DJPEPE",
+      "evidence": "Pixel reinterpretation keeps white sideways cap, headphones, green face and black DJ shirt.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE?image=1"
+      ],
+      "existing_original": "DJPEPE"
+    },
+    {
+      "asset": "PHOCKHEADS.DJPEPE.SPACESCRILLA",
+      "original": "DJPEPE",
+      "status": "ambiguous",
+      "evidence": "Astronaut DJ; DJPEPE versus independent Scrilla depiction needs stronger evidence.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.SPACESCRILLA?image=1"
+      ]
+    },
+    {
+      "asset": "PHOCKHEADS.DJPEPE.DJSCRIBBLE",
+      "original": "DJPEPE",
+      "status": "ambiguous",
+      "evidence": "Live-action portrait with DJPEPE caption; naming alone insufficient.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.DJSCRIBBLE?image=1"
+      ]
+    },
+    {
+      "asset": "PHOCKHEADS.DJPEPE.DJKNOCKOFF",
+      "original": "DJPEPE",
+      "status": "accepted",
+      "selected_original": "PHOCKHEADS.DJPEPE",
+      "evidence": "Closer immediate source: repeats the pixel portrait, rectangular eyes, sideways white hat, headphone band and stacked DJ PEPE lettering.",
+      "images": [
+        "https://cdn.xcp.io/img/full/DJPEPE?image=1",
+        "https://cdn.xcp.io/img/full/PHOCKHEADS.DJPEPE.DJKNOCKOFF?image=1"
+      ]
+    },
+    {
+      "asset": "RAYCBOY.RAREPEPE",
+      "original": "RAREPEPE",
+      "status": "ambiguous",
+      "evidence": "Magazine collage includes several cards; RAREPEPE appears but a single dominant source is uncertain.",
+      "images": [
+        "https://cdn.xcp.io/img/full/RAREPEPE?image=1",
+        "https://cdn.xcp.io/img/full/RAYCBOY.RAREPEPE?image=1"
+      ]
+    },
+    {
+      "asset": "HARDCORE.Princess_Pepe",
+      "original": "PRINCESSPEPE",
+      "status": "rejected",
+      "evidence": "Disney Princess and the Frog scene, not the Leia-based original.",
+      "images": [
+        "https://cdn.xcp.io/img/full/PRINCESSPEPE?image=1",
+        "https://cdn.xcp.io/img/full/HARDCORE.Princess_Pepe?image=1"
+      ]
+    },
+    {
+      "asset": "WUPEPE.ENTERTHEPEPE",
+      "original": "ENTERTHEPEPE",
+      "status": "rejected",
+      "evidence": "Wu-Tang logo montage, not the Bruce Lee card artwork.",
+      "images": [
+        "https://cdn.xcp.io/img/full/ENTERTHEPEPE?image=1",
+        "https://cdn.xcp.io/img/full/WUPEPE.ENTERTHEPEPE?image=1"
+      ]
+    },
+    {
+      "asset": "YELLPEPE.YELLPEPE",
+      "original": "YELLPEPE",
+      "status": "ambiguous",
+      "evidence": "Same underlying portrait/video appears; direction from the composite card versus shared original footage unresolved.",
+      "images": [
+        "https://cdn.xcp.io/img/full/YELLPEPE?image=1",
+        "https://cdn.xcp.io/img/full/YELLPEPE.YELLPEPE?image=1"
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@
 | Primary memberships | 16 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/17 (5.9%)<br>Artist: 17/17 (100%) |
+| Traits | Art year: 1/17 (5.9%)<br>Artist: 17/17 (100%)<br>Based on: 8/17 (47.1%) |
 <!-- collection-facts:end -->
 
 Exact namespace plus the creator catalog grouping. Preserve Rare Pepe parent primary; leave numbered Sound Money works in their more specific existing collection. Complete namespace checked; two placeholder children excluded.

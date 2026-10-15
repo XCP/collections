@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Artist: 2/2 (100%)<br>Based on: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 Membership follows the explicit on-chain namespace and reviewed illustrated parent/children. Specific existing parent collections remain primary; this family is secondary there. Kaleidoscope retains a secondary appearance under its open-gallery policy.

@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Artist: 2/2 (100%)<br>Based on: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 Creator website explicitly names 300 OrdinalsClub; illustrated invitation parent and exact inscription descendant.

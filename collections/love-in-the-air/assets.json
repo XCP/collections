@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "LOVEINTHEAIR.CAKE"
+      "asset": "LOVEINTHEAIR.CAKE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LOVEINTHEAIR"
+        }
+      ]
     }
   ]
 }

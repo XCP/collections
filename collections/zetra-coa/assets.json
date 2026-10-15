@@ -51,6 +51,10 @@
         {
           "trait_type": "Artist",
           "value": "ZETRA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BTCGRAFFITI.1"
         }
       ]
     },
@@ -60,6 +64,10 @@
         {
           "trait_type": "Artist",
           "value": "ZETRA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BTCGRAFFITI.2"
         }
       ]
     },
@@ -69,6 +77,10 @@
         {
           "trait_type": "Artist",
           "value": "ZETRA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BTCGRAFFITI.3"
         }
       ]
     },
@@ -276,6 +288,10 @@
         {
           "trait_type": "Artist",
           "value": "ZETRA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEVOYEUR"
         }
       ]
     },

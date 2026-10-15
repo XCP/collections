@@ -10,7 +10,7 @@
 | Primary memberships | 896 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 183/896 (20.4%)<br>Artist: 892/896 (99.6%)<br>Based on: 12/896 (1.3%)<br>Card: 896/896 (100%)<br>Series: 896/896 (100%) |
+| Traits | Art year: 183/896 (20.4%)<br>Artist: 892/896 (99.6%)<br>Based on: 30/896 (3.3%)<br>Card: 896/896 (100%)<br>Series: 896/896 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

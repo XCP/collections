@@ -4,7 +4,13 @@
       "asset": "WOJACKCANO.WOJACKCANO"
     },
     {
-      "asset": "RAREVOLCANO.RAREVOLCANO"
+      "asset": "RAREVOLCANO.RAREVOLCANO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREVOLCANO"
+        }
+      ]
     },
     {
       "asset": "NGMICANO.NGMICANO"

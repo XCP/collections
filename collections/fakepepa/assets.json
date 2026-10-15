@@ -27,7 +27,13 @@
       ]
     },
     {
-      "asset": "FAKEPEPA.NFTNYC"
+      "asset": "FAKEPEPA.NFTNYC",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKEPEPA"
+        }
+      ]
     }
   ]
 }

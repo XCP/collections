@@ -767,7 +767,13 @@
       "asset": "XAJIBESAAR"
     },
     {
-      "asset": "SATOSHILITE"
+      "asset": "SATOSHILITE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "GUMMYYUMMY"

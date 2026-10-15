@@ -19,10 +19,22 @@
       "primary": false
     },
     {
-      "asset": "CSAT.2nd"
+      "asset": "CSAT.2nd",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CSAT"
+        }
+      ]
     },
     {
-      "asset": "CSAT.PSST"
+      "asset": "CSAT.PSST",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CSAT"
+        }
+      ]
     },
     {
       "asset": "CSAT.cc0"

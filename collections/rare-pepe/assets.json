@@ -18,6 +18,10 @@
         {
           "trait_type": "Art year",
           "value": 2016
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },
@@ -8548,6 +8552,10 @@
         {
           "trait_type": "Card",
           "value": 18
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },

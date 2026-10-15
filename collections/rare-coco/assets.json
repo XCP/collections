@@ -709,6 +709,10 @@
         {
           "trait_type": "Card",
           "value": 40
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEDARK"
         }
       ]
     },
@@ -904,6 +908,10 @@
         {
           "trait_type": "Card",
           "value": 9
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },
@@ -2869,6 +2877,10 @@
         {
           "trait_type": "Card",
           "value": 34
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FEELSGOODMAN"
         }
       ]
     },
@@ -3242,6 +3254,10 @@
         {
           "trait_type": "Card",
           "value": 13
+        },
+        {
+          "trait_type": "Based on",
+          "value": "COVPEPERARE"
         }
       ]
     },

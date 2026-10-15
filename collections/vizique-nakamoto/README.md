@@ -10,7 +10,7 @@
 | Primary memberships | 5 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 6/6 (100%) |
+| Traits | Artist: 6/6 (100%)<br>Based on: 1/6 (16.7%) |
 <!-- collection-facts:end -->
 
 Vizique groups these works under “A Nakamoto riff” on [the artist’s portfolio](https://vizique.com/by-series-style/). Membership follows the actual named gallery, not adjacent images elsewhere on the page. This is an artist-defined series or theme; it does not imply admission to another curated collection. References to other painters describe inspiration, not co-authorship.

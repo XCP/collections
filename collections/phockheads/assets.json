@@ -64,6 +64,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -1112,7 +1116,13 @@
       "asset": "PHOCKCHESS.BLACKROOK"
     },
     {
-      "asset": "PHOCKCHESS.PLAY"
+      "asset": "PHOCKCHESS.PLAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PHOCKCHESS"
+        }
+      ]
     },
     {
       "asset": "PHOCKCHESS.WHITEBISHOP"
@@ -2221,6 +2231,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NILI"
         }
       ]
     },
@@ -2243,6 +2257,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "OLGA"
         }
       ]
     },

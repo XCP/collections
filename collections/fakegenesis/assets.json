@@ -11,10 +11,22 @@
       "primary": false
     },
     {
-      "asset": "FAKEGENESIS.BTCMAGAZINE22"
+      "asset": "FAKEGENESIS.BTCMAGAZINE22",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKEGENESIS"
+        }
+      ]
     },
     {
-      "asset": "FAKEGENESIS.OIL"
+      "asset": "FAKEGENESIS.OIL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKEGENESIS"
+        }
+      ]
     },
     {
       "asset": "FAKEGENESIS.PALETTE1"

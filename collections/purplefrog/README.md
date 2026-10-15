@@ -12,7 +12,7 @@ The illustrated PURPLEFROG parent retains its Dank Rares primary membership and 
 | Primary memberships | 20 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/21 (4.8%)<br>Based on: 2/21 (9.5%)<br>Card: 1/21 (4.8%)<br>Series: 1/21 (4.8%) |
+| Traits | Artist: 1/21 (4.8%)<br>Based on: 6/21 (28.6%)<br>Card: 1/21 (4.8%)<br>Series: 1/21 (4.8%) |
 <!-- collection-facts:end -->
 
 The complete PURPLEFROG namespace has 18 descendants, including nested descendants. All 19 namespace images were reviewed. PURPFROGCASH and PURPLETECH share the chain-linked xcp.dankinfo.art/purplefrog media directory and explicit Purple Cash/Purple Technology card branding, so they are included as companions. No issuer-wide artist credit or official Rare Pepe admission is inferred.

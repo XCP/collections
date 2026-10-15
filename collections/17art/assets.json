@@ -67,7 +67,13 @@
       "asset": "CHIGUICASH"
     },
     {
-      "asset": "CHIGUIMOTO"
+      "asset": "CHIGUIMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "CHIGUIRUBIO"
@@ -226,7 +232,13 @@
       ]
     },
     {
-      "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON"
+      "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GAMESOFTRUMP"
+        }
+      ]
     },
     {
       "asset": "GODARMOR",

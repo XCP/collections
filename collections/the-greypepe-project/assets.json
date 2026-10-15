@@ -121,7 +121,13 @@
       ]
     },
     {
-      "asset": "GREYDJPEPE"
+      "asset": "GREYDJPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DJPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYFAKER",
@@ -149,13 +155,31 @@
       "asset": "GREYGHOST"
     },
     {
-      "asset": "GREYHOMER"
+      "asset": "GREYHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
-      "asset": "GREYLORDKEK"
+      "asset": "GREYLORDKEK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LORDKEK"
+        }
+      ]
     },
     {
-      "asset": "GREYNAKAMOTO"
+      "asset": "GREYNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYPEPEPSA"
@@ -171,7 +195,13 @@
       ]
     },
     {
-      "asset": "GREYSATOSHI"
+      "asset": "GREYSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "GREYSAVIOR",
@@ -198,7 +228,13 @@
       ]
     },
     {
-      "asset": "GREYTRUMP"
+      "asset": "GREYTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYTWHTPEPE"
@@ -303,7 +339,13 @@
       ]
     },
     {
-      "asset": "ONLYONEGREY"
+      "asset": "ONLYONEGREY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
+        }
+      ]
     },
     {
       "asset": "ORIGAE",
@@ -335,6 +377,10 @@
         {
           "trait_type": "Artist",
           "value": "Zed Erwan"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPESOUP"
         }
       ]
     },

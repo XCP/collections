@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 3 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/7 (57.1%) |
+| Traits | Artist: 4/7 (57.1%)<br>Based on: 1/7 (14.3%) |
 <!-- collection-facts:end -->
 
 Seven exact-asset JSON descriptions explicitly name Dank Fakers. Preserve Peakybro series primary and use secondary membership for its three cards. Do not include all Hues assets or all FAKER prefixes.

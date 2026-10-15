@@ -341,7 +341,13 @@
       "asset": "COCORONA"
     },
     {
-      "asset": "COCOROSS"
+      "asset": "COCOROSS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
+        }
+      ]
     },
     {
       "asset": "COCOSENTO",
@@ -371,7 +377,13 @@
       "asset": "COCOTRUMPETR"
     },
     {
-      "asset": "COMNCOCOCASH"
+      "asset": "COMNCOCOCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "COUPLESZONE",
@@ -458,7 +470,13 @@
       ]
     },
     {
-      "asset": "IMWITHKERO"
+      "asset": "IMWITHKERO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
+        }
+      ]
     },
     {
       "asset": "LACOCO",

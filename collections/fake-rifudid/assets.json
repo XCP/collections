@@ -4,7 +4,13 @@
       "asset": "FAKERIFUDID.DANK00"
     },
     {
-      "asset": "FAKERIFUDID.DANK01"
+      "asset": "FAKERIFUDID.DANK01",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKERIFUDID.DANK00"
+        }
+      ]
     },
     {
       "asset": "FAKERIFUDID",

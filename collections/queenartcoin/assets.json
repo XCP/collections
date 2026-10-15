@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "QUEENARTCOIN.NAKAMOTOAPE"
+      "asset": "QUEENARTCOIN.NAKAMOTOAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "QUEENARTCOIN"
+        }
+      ]
     }
   ]
 }

@@ -20,6 +20,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NAKAMOTOASF"
         }
       ]
     },
@@ -29,6 +33,10 @@
         {
           "trait_type": "Artist",
           "value": "EMBLEMATIX"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NAKAMOTOASF"
         }
       ]
     },
@@ -38,6 +46,10 @@
         {
           "trait_type": "Artist",
           "value": "EMBLEMATIX"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NAKAMOTOASF"
         }
       ]
     }

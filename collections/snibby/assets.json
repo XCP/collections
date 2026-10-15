@@ -7,13 +7,25 @@
       "asset": "SNIBBY.artifact"
     },
     {
-      "asset": "SNIBBY.artist"
+      "asset": "SNIBBY.artist",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.bonjour"
     },
     {
-      "asset": "SNIBBY.checkcrab"
+      "asset": "SNIBBY.checkcrab",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHECKPEPE"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.connoiseur"
@@ -52,7 +64,13 @@
       "asset": "SNIBBY.missprint"
     },
     {
-      "asset": "SNIBBY.moderncrab"
+      "asset": "SNIBBY.moderncrab",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.no.soup.for.you"

@@ -23,7 +23,13 @@
       "primary": false
     },
     {
-      "asset": "DIRECTORYONE.HOLO"
+      "asset": "DIRECTORYONE.HOLO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DIRECTORYONE"
+        }
+      ]
     }
   ]
 }

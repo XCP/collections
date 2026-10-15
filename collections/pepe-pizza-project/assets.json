@@ -55,7 +55,13 @@
       ]
     },
     {
-      "asset": "MODERNPIZZA"
+      "asset": "MODERNPIZZA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     }
   ]
 }

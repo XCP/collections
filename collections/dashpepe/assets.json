@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "DASHPEPE.PARABOLIC"
+      "asset": "DASHPEPE.PARABOLIC",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DASHPEPE"
+        }
+      ]
     },
     {
       "asset": "DASHPEPE",

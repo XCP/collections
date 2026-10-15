@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "NEONAKAMOTO.NEON"
+      "asset": "NEONAKAMOTO.NEON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "NEONAKAMOTO"
+        }
+      ]
     },
     {
       "asset": "NEONAKAMOTO",

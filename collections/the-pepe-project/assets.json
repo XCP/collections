@@ -185,7 +185,13 @@
       "asset": "DARKBRANDON"
     },
     {
-      "asset": "DARKPILLDON"
+      "asset": "DARKPILLDON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
+        }
+      ]
     },
     {
       "asset": "DEEZNUUTZ"
@@ -950,7 +956,13 @@
       "asset": "PIZZAGATE"
     },
     {
-      "asset": "POPCORNPUTIN"
+      "asset": "POPCORNPUTIN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "POTUSTRUMP"
@@ -971,7 +983,13 @@
       "asset": "PUREBLOODPEP"
     },
     {
-      "asset": "PUTINPOPCORN"
+      "asset": "PUTINPOPCORN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PUTINPEPE"
+        }
+      ]
     },
     {
       "asset": "QANON"
@@ -1206,7 +1224,13 @@
       "asset": "TRUMPKENNEDY"
     },
     {
-      "asset": "TRUMPOWER"
+      "asset": "TRUMPOWER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GAMESOFTRUMP"
+        }
+      ]
     },
     {
       "asset": "TRUMPRALLY",
@@ -1218,7 +1242,13 @@
       ]
     },
     {
-      "asset": "TRUMPRAREJR"
+      "asset": "TRUMPRAREJR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPSOCIAL"
@@ -1227,7 +1257,13 @@
       "asset": "TRUMPTACO"
     },
     {
-      "asset": "TRUMPTARDS"
+      "asset": "TRUMPTARDS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPTRAIN",

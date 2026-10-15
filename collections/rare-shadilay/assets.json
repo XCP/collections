@@ -58,10 +58,22 @@
       "asset": "CUTESHAD"
     },
     {
-      "asset": "DANKSHADILAY"
+      "asset": "DANKSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
+        }
+      ]
     },
     {
-      "asset": "DARKSHADILAY"
+      "asset": "DARKSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
+        }
+      ]
     },
     {
       "asset": "DAVINCISHAD"
@@ -148,7 +160,13 @@
       "asset": "GRIMSHADI"
     },
     {
-      "asset": "HAIRSHADILAY"
+      "asset": "HAIRSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "HHGTTSHADILY"
@@ -175,7 +193,13 @@
       "asset": "IMSHADBITCH"
     },
     {
-      "asset": "IMWITHSHAD"
+      "asset": "IMWITHSHAD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
+        }
+      ]
     },
     {
       "asset": "INVISIBLSHAD",
@@ -243,6 +267,10 @@
         {
           "trait_type": "Artist",
           "value": "pitoopi"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -478,6 +506,10 @@
         {
           "trait_type": "Artist",
           "value": "PiFu"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEKACHU"
         }
       ]
     },
@@ -534,7 +566,13 @@
     },
     {
       "asset": "SHADILAYCASH",
-      "asset_type": "currency"
+      "asset_type": "currency",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "SHADILAYDI"
@@ -582,7 +620,13 @@
       ]
     },
     {
-      "asset": "SHADILUCKY"
+      "asset": "SHADILUCKY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LUCKYPEPE"
+        }
+      ]
     },
     {
       "asset": "SHADILUXURY"
@@ -881,6 +925,10 @@
         {
           "trait_type": "Artist",
           "value": "Kevo-B"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
         }
       ]
     },

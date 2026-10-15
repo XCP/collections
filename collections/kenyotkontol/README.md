@@ -10,7 +10,7 @@
 | Primary memberships | 2 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/3 (66.7%) |
+| Traits | Artist: 2/3 (66.7%)<br>Based on: 2/3 (66.7%) |
 <!-- collection-facts:end -->
 
 The illustrated parent remains primary in Dank Rares and appears here secondarily. Both descendants show its central Pepe-on-Bitcoin-throne composition on a poster and shirt. These images do not establish physical redemption rights.

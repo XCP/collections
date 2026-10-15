@@ -280,7 +280,13 @@
       "asset": "DERPYTOPGUN"
     },
     {
-      "asset": "DABPEANUTS"
+      "asset": "DABPEANUTS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPEANUTS"
+        }
+      ]
     },
     {
       "asset": "DIRTYAPE",
@@ -1321,6 +1327,10 @@
         {
           "trait_type": "Artist",
           "value": "Remster"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },

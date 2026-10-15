@@ -762,6 +762,10 @@
         {
           "trait_type": "Card",
           "value": 44
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BLAINEPEPE"
         }
       ]
     },
@@ -1921,6 +1925,10 @@
         {
           "trait_type": "Card",
           "value": 11
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },
@@ -3152,6 +3160,10 @@
         {
           "trait_type": "Card",
           "value": 32
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FEELSGOODMAN"
         }
       ]
     },

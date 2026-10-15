@@ -93,6 +93,10 @@
         {
           "trait_type": "Artist",
           "value": "Rarejay"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BTCRODPUNK"
         }
       ]
     },
@@ -271,7 +275,13 @@
       "asset": "HELLOORD"
     },
     {
-      "asset": "HOMERDINAL"
+      "asset": "HOMERDINAL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOWDOYOUDO"
@@ -313,7 +323,13 @@
       ]
     },
     {
-      "asset": "KIMJONGORD"
+      "asset": "KIMJONGORD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "KYOKUPEPE"
@@ -339,6 +355,10 @@
         {
           "trait_type": "Artist",
           "value": "GMONEY"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "LORDKEK"
         }
       ]
     },
@@ -721,7 +741,13 @@
       ]
     },
     {
-      "asset": "ORDINALPREME"
+      "asset": "ORDINALPREME",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEREME"
+        }
+      ]
     },
     {
       "asset": "ORDINALPUTIN",
@@ -946,7 +972,13 @@
       "asset": "ORDTELEBURN"
     },
     {
-      "asset": "ORDTRADERS"
+      "asset": "ORDTRADERS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRADERS"
+        }
+      ]
     },
     {
       "asset": "ORDWARD"

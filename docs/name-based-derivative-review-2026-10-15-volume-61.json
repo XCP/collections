@@ -1,0 +1,793 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPEART",
+      "candidates": [
+        "XCPARTWORK.FOUR",
+        "XCPARTWORK.THREE",
+        "XCPARTWORK.DALI",
+        "XCPARTWORK.PEPEBAG",
+        "XCPARTWORK.TWO",
+        "XCPARTWORK.ONE"
+      ]
+    },
+    {
+      "original": "PEPENIN",
+      "candidates": [
+        "NINJABOBO",
+        "DANKRONIN",
+        "BLKSWANINRED",
+        "SWANINDEX",
+        "BURNINGFROG",
+        "SMOLNINJA",
+        "DJPEPEBADGER.A-SUMMONING",
+        "DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER",
+        "SIXTYNINEAPE",
+        "DARRENINDYKE",
+        "ETERNALART.LASMENINAS",
+        "FAKEAPERONIN",
+        "FKENINJASUIT",
+        "RONINAPE",
+        "JOHNLENIN",
+        "GOBORONIN",
+        "FAKENINJA",
+        "PEPABSTRACTS.NINE"
+      ]
+    },
+    {
+      "original": "SATOSHIRARE",
+      "candidates": [
+        "SATOSHISWORD.DARKSATOSHIRONIN2",
+        "SATOSHISWORD.DARKSATOSHIRONIN3",
+        "SATOSHISTEAM",
+        "SATOSHISBOX",
+        "SATOSHITASK",
+        "CCSATOSHI",
+        "REALSATOSHI",
+        "SATOSHISWORD",
+        "SATOSHIRXONE",
+        "MINISATOSHI",
+        "SATOSHISWORD.DARKSATOSHIRONIN11",
+        "SATOSHIPILL",
+        "SATOSHITWO",
+        "SATOSHIONE",
+        "SATOSHIHERO",
+        "KEVINSATOSHI",
+        "SATOSHIMINER"
+      ]
+    },
+    {
+      "original": "PEPA",
+      "candidates": [
+        "GNIZAMAEPEPA",
+        "PEPEILOVEU.NAUGHTYPEPA",
+        "THEGREEN.PEPANTHER",
+        "COKEPEPA",
+        "CUTEPEPA",
+        "DGPEPA",
+        "FAIRPEPEPACT",
+        "HOMERPEPA",
+        "MINTPEPEPASS",
+        "OGPEPA",
+        "PEPABACUS",
+        "PEPAFREN",
+        "PEPAGENESIS",
+        "PEPAI",
+        "PEPALIEN",
+        "PEPAPE",
+        "PEPAPEARL",
+        "PEPAPILL"
+      ]
+    },
+    {
+      "original": "PEPERICH",
+      "candidates": [
+        "RICHOMERPEPE",
+        "PEPIERICH",
+        "RICHBOBO",
+        "RICHCOCOMOND",
+        "RICHARLIPEPE",
+        "BOBORICHMAN",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "RICHHORSE",
+        "RICHTERPEPE",
+        "RICHARDKAHN",
+        "RICHFAKEAPE",
+        "FAKEPEPELISA.DYORZURICH22",
+        "XFCPSEENRICH",
+        "RICHKEK"
+      ]
+    },
+    {
+      "original": "GOSPELPEPE",
+      "candidates": [
+        "KEKGOSPEL",
+        "FAKEGOSPEL",
+        "MSTRPEPES.GOSPELILLUMINATIONSOFDANKNESS"
+      ]
+    },
+    {
+      "original": "PEPEDROID",
+      "candidates": [
+        "MECHDROIDAPE",
+        "DROIDKEN"
+      ]
+    },
+    {
+      "original": "CORNFREEDOM",
+      "candidates": [
+        "USAFREEDOM",
+        "FREEDOMUA",
+        "FREEDOMGOUP",
+        "BTCFREEDOM",
+        "FREEDOMPEPES",
+        "NAKAFREEDOM",
+        "RAREFREEDOM",
+        "TASTEFREEDOM",
+        "FREEDOMFREN",
+        "FREEDOMCARD"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.FOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.THREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.DALI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.PEPEBAG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.TWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "XCPARTWORK.ONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "NINJABOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "DANKRONIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BLKSWANINRED",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "SWANINDEX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BURNINGFROG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "SMOLNINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "DJPEPEBADGER.A-SUMMONING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER",
+      "status": "accepted",
+      "attributed_original": "DJPEPE",
+      "reason": "Sampler photograph includes sticker reproducing DJPEPE's white-cap, black-shirt, downward-facing green DJ figure and hand pose; enlarged image confirms exact figure, with caption explicitly naming DJPEPE."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "SIXTYNINEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "DARRENINDYKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "ETERNALART.LASMENINAS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAKEAPERONIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FKENINJASUIT",
+      "status": "accepted",
+      "attributed_original": "NINJASUIT",
+      "reason": "Adapts the black pixel ninja with yellow exposed face/eyes and diagonal gray sash, retaining cream/gold card and bottom title panel; replaces bamboo setting with neon city, enlarges character and adds shuriken."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "RONINAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "JOHNLENIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "WARNINGPEPE",
+      "status": "ambiguous",
+      "reason": "Protest photograph shares source with other sign adaptations; compare MAKEARTPEPE family and external photograph before attributing token-specific use."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "GOBORONIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAKENINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "PEPABSTRACTS.NINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN3",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISTEAM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISBOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHITASK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "CCSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "DARKSATOSHI",
+      "status": "ambiguous",
+      "reason": "Same grinning dark orb and descending numbers motif as SATOSHIDARK; compare chronology and creator context before selecting direction."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "REALSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIRXONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "MINISATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHICLS",
+      "status": "ambiguous",
+      "reason": "Dorian portrait mosaic consists of many tiny images; inspect full-resolution tiles for particular token artworks."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIPILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHITWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIHERO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "KEVINSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIMINER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "GNIZAMAEPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEILOVEU.NAUGHTYPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "THEGREEN.PEPANTHER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "COKEPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "CUTEPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "DGPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "FAIRPEPEPACT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "HELLOPEPA",
+      "status": "ambiguous",
+      "reason": "Dense background of small cards needs enlarged identification."
+    },
+    {
+      "original": "PEPA",
+      "asset": "HOMERPEPA",
+      "status": "accepted",
+      "attributed_original": "HOMERPEPE",
+      "reason": "Preserves yellow card layout, Unknown/Immobilized stat line, Rareness Score 1/1 and Wait a minute caption construction; replaces Homer with hooded Marge, title with NOT HOMER PEPE and punchline with I'm a Simpson."
+    },
+    {
+      "original": "PEPA",
+      "asset": "MINTPEPEPASS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "OGPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABACUS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAFREN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGENESIS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPALIEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAPEARL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAPILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHOMERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "PEPIERICH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHBOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHCOCOMOND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHARLIPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "BOBORICHMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "ULBRICHTROSS.GROWINTHEDARK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHHORSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHTERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHARDKAHN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHFAKEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "FAKEPEPELISA.DYORZURICH22",
+      "status": "accepted",
+      "attributed_original": "FAKEPEPELISA",
+      "reason": "Reuses the specific green-faced Mona Lisa adaptation including mountain/lake background, folded green hands and blue/red fabric folds; replaces ornate gold frame with Zurich edition card, adds dated red stamp and alters facial details."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "XFCPSEENRICH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPERICH",
+      "asset": "RICHPRESIDDO",
+      "status": "ambiguous",
+      "reason": "CDN artwork only 48x48; too small to identify card details reliably."
+    },
+    {
+      "original": "GOSPELPEPE",
+      "asset": "KEKGOSPEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOSPELPEPE",
+      "asset": "FAKEGOSPEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOSPELPEPE",
+      "asset": "MSTRPEPES.GOSPELILLUMINATIONSOFDANKNESS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEDROID",
+      "asset": "MECHDROIDAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEDROID",
+      "asset": "DROIDKEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "USAFREEDOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMUA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMGOUP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "BTCFREEDOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMPEPES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "GMFREEDOM",
+      "status": "ambiguous",
+      "reason": "Shares historical poster with FREEDOMKEK/FAKEFREEDOM; token insets need identification and direction is unresolved."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "NAKAFREEDOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "RAREFREEDOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "TASTEFREEDOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FAKEFREEDOM",
+      "status": "ambiguous",
+      "reason": "Poster and collage contain many cards; multi-source and chronology review required."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMFREN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMCARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNFREEDOM",
+      "asset": "FREEDOMKEK",
+      "status": "ambiguous",
+      "reason": "Historical poster with several token card insets; identify sources separately rather than assign CORNFREEDOM."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER",
+      "original": "DJPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.POV-OF-A-SUMMONING-OF-DJPEPEBADGER?image=1",
+      "evidence": "Sampler photograph includes sticker reproducing DJPEPE's white-cap, black-shirt, downward-facing green DJ figure and hand pose; enlarged image confirms exact figure, with caption explicitly naming DJPEPE."
+    },
+    {
+      "asset": "FKENINJASUIT",
+      "original": "NINJASUIT",
+      "collection": "fake-ape-club",
+      "image": "https://cdn.xcp.io/img/full/FKENINJASUIT?image=1",
+      "evidence": "Adapts the black pixel ninja with yellow exposed face/eyes and diagonal gray sash, retaining cream/gold card and bottom title panel; replaces bamboo setting with neon city, enlarges character and adds shuriken."
+    },
+    {
+      "asset": "HOMERPEPA",
+      "original": "HOMERPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HOMERPEPA?image=1",
+      "evidence": "Preserves yellow card layout, Unknown/Immobilized stat line, Rareness Score 1/1 and Wait a minute caption construction; replaces Homer with hooded Marge, title with NOT HOMER PEPE and punchline with I'm a Simpson."
+    },
+    {
+      "asset": "FAKEPEPELISA.DYORZURICH22",
+      "original": "FAKEPEPELISA",
+      "collection": "fakepepelisa",
+      "image": "https://cdn.xcp.io/img/full/FAKEPEPELISA.DYORZURICH22?image=1",
+      "evidence": "Reuses the specific green-faced Mona Lisa adaptation including mountain/lake background, folded green hands and blue/red fabric folds; replaces ornate gold frame with Zurich edition card, adds dated red stamp and alters facial details."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "MECHDROIDAPE": {
+      "pages": 300,
+      "finding": "Sampled later frames reveal promotional intro, lightning and muscular cybernetic frog, not PEPEDROID scene"
+    },
+    "DARKSATOSHI": {
+      "pages": 84,
+      "finding": "Orb/numbers composition held against SATOSHIDARK pending direction"
+    },
+    "RICHPRESIDDO": {
+      "width": 48,
+      "height": 48,
+      "finding": "Low resolution prevents reliable exact source identification"
+    }
+  },
+  "followup_evidence": {
+    "RICHHORSE": "Compared RICHPEPE as alternate source: different image, layout and text; no specific relationship established."
+  }
+}

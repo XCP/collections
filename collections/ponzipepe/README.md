@@ -10,7 +10,7 @@
 | Primary memberships | 3 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 4/4 (100%) |
+| Traits | Artist: 4/4 (100%)<br>Based on: 3/4 (75%) |
 <!-- collection-facts:end -->
 
 The three children visibly vary the parent PonziPepe composition. Investment language is part of the satire, not a description of current rights.

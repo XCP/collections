@@ -19,7 +19,13 @@
       "primary": false
     },
     {
-      "asset": "SATOSHIFAKE.MISPRINT.1"
+      "asset": "SATOSHIFAKE.MISPRINT.1",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHIFAKE"
+        }
+      ]
     }
   ]
 }

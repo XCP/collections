@@ -28,13 +28,25 @@
       "asset": "PURPLEFROG.magic.space.stonemagic"
     },
     {
-      "asset": "PURPLEFROG.magic.space.purple"
+      "asset": "PURPLEFROG.magic.space.purple",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PURPLEFROG.space"
+        }
+      ]
     },
     {
       "asset": "PURPLEFROG.magic.purple"
     },
     {
-      "asset": "PURPLEFROG.TRUMPFROG"
+      "asset": "PURPLEFROG.TRUMPFROG",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "PURPLEFROG.PURPLEBIRD.destroyer.gallery.3"
@@ -70,7 +82,13 @@
       ]
     },
     {
-      "asset": "PURPLEFROG.magic.space"
+      "asset": "PURPLEFROG.magic.space",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PURPLEFROG.space"
+        }
+      ]
     },
     {
       "asset": "PURPLEFROG.wizard"
@@ -85,7 +103,13 @@
       "asset": "PURPLEFROG.space"
     },
     {
-      "asset": "PURPFROGCASH"
+      "asset": "PURPFROGCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PURPLETECH"

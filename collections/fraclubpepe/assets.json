@@ -19,7 +19,13 @@
       "primary": false
     },
     {
-      "asset": "FRACLUBPEPE.CLUBDANK"
+      "asset": "FRACLUBPEPE.CLUBDANK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CLUBPEPE"
+        }
+      ]
     }
   ]
 }

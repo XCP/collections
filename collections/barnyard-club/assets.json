@@ -221,7 +221,13 @@
       ]
     },
     {
-      "asset": "FUTUREHAND"
+      "asset": "FUTUREHAND",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FARMHAND"
+        }
+      ]
     },
     {
       "asset": "GENESISMOO"
@@ -334,6 +340,10 @@
         {
           "trait_type": "Artist",
           "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },

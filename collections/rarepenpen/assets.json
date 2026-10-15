@@ -25,10 +25,22 @@
       ]
     },
     {
-      "asset": "CLUBPENPEN"
+      "asset": "CLUBPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CLUBPEPE"
+        }
+      ]
     },
     {
-      "asset": "COVPENPEN"
+      "asset": "COVPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "COVPEPERARE"
+        }
+      ]
     },
     {
       "asset": "CYBORPEN"
@@ -49,7 +61,13 @@
       "asset": "GAMESOFPEN"
     },
     {
-      "asset": "HAIRPENPEN"
+      "asset": "HAIRPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERPENPEN"
@@ -82,7 +100,13 @@
       "asset": "LORDPEN"
     },
     {
-      "asset": "MODERNPENPEN"
+      "asset": "MODERNPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     },
     {
       "asset": "MRPALPHA"
@@ -163,7 +187,13 @@
       "asset": "PENPENCARD"
     },
     {
-      "asset": "PENPENCASH"
+      "asset": "PENPENCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PENPENCOIN",
@@ -248,7 +278,13 @@
       "asset": "PENPENPIZZA"
     },
     {
-      "asset": "PENPENRARE"
+      "asset": "PENPENRARE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "PENPENSCHOOL"
@@ -299,7 +335,13 @@
       "asset": "PSILOCYPEN"
     },
     {
-      "asset": "RAREPENPEN"
+      "asset": "RAREPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "SLAPEN",

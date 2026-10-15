@@ -52,7 +52,13 @@
       "asset": "CHAUSSETTE"
     },
     {
-      "asset": "CHERSOCK"
+      "asset": "CHERSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHERPEPEFOIL"
+        }
+      ]
     },
     {
       "asset": "COCKSOCK"
@@ -199,7 +205,13 @@
       ]
     },
     {
-      "asset": "NEONSOCK"
+      "asset": "NEONSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPENEON"
+        }
+      ]
     },
     {
       "asset": "NEOSOCK"
@@ -295,7 +307,13 @@
       ]
     },
     {
-      "asset": "SMUGSOCKS"
+      "asset": "SMUGSOCKS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RARESMUG"
+        }
+      ]
     },
     {
       "asset": "SOCKACHU",
@@ -547,7 +565,13 @@
       "asset": "SOCKSAT"
     },
     {
-      "asset": "SOCKSCAMCASH"
+      "asset": "SOCKSCAMCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "SOCKSET"
@@ -661,7 +685,13 @@
       ]
     },
     {
-      "asset": "TRUMPSOCK"
+      "asset": "TRUMPSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPEPE"
+        }
+      ]
     },
     {
       "asset": "UFOSOCK",

@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "DREAMTEAM.PURPLE"
+      "asset": "DREAMTEAM.PURPLE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DREAMTEAM"
+        }
+      ]
     },
     {
       "asset": "DREAMTEAM.SPORTSILLUSTRATED"

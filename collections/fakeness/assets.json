@@ -1,10 +1,22 @@
 {
   "assets": [
     {
-      "asset": "FAKENESS.PENCIL"
+      "asset": "FAKENESS.PENCIL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKENESS"
+        }
+      ]
     },
     {
-      "asset": "FAKENESS.REDEEM"
+      "asset": "FAKENESS.REDEEM",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKENESS"
+        }
+      ]
     },
     {
       "asset": "FAKENESS.21ENTROPYSEAL"

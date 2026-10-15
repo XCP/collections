@@ -10,7 +10,7 @@
 | Primary memberships | 4 |
 | Secondary or curated memberships | 4 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 8/8 (100%) |
+| Traits | Artist: 8/8 (100%)<br>Based on: 1/8 (12.5%) |
 <!-- collection-facts:end -->
 
 The artist’s [portfolio](https://vizique.com/by-series-style/) groups these works under “Inspired by Lautrec, Kahlo, Miro & Magritte”. Reviewed 2026-10-11: exact linked dispenser transactions or direct asset links establish identity, and all artwork was compared with CDN images. KILLERPEPE is matched from its displayed artwork and title. These are artist-defined themes, not evidence of admission to a separate curated project. Other painters are inspirations, not co-creators. Existing specific primary homes and creator credits are preserved. Historical card text does not establish present utility or redemption rights.

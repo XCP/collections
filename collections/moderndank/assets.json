@@ -27,7 +27,13 @@
       ]
     },
     {
-      "asset": "MODERNDANK.HOLO"
+      "asset": "MODERNDANK.HOLO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     }
   ]
 }

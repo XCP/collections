@@ -1,0 +1,807 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "DANKPEPE",
+      "candidates": [
+        "DANKSWORLD",
+        "DANKAFRARE",
+        "DANKHARVEST",
+        "DANKWHEEL",
+        "DANKVENTURE",
+        "GIGADANK",
+        "DANKMETACASH",
+        "DANKEVERSE",
+        "DANKSTA",
+        "DANKNARUTO",
+        "DANKCOLA",
+        "DANKSOULS",
+        "COSTCODANK",
+        "DANKLIVING",
+        "DANKGENIE",
+        "NOTDANK",
+        "GRATEFULDANK"
+      ]
+    },
+    {
+      "original": "BTCPEPE",
+      "candidates": [
+        "BTCTKVRXII",
+        "BTCTKVRXIII",
+        "BTCTKVRXIV",
+        "BTCTKVRXV",
+        "BTCTOKIN",
+        "BTCTRUMP",
+        "BTCVC",
+        "BTCWINTER",
+        "BURNBTC",
+        "CKBTC",
+        "DAVIDPEPEBTC",
+        "DRLAPEBTCCDC",
+        "FIRSTBTCLOGO",
+        "GREATBTCCITY",
+        "HIDEURBTC",
+        "HIVEBTC"
+      ]
+    },
+    {
+      "original": "PEPEART",
+      "candidates": [
+        "DABCKING.HEARTJACK",
+        "BARTPEPE",
+        "DANKPEPEART",
+        "CARTMANPEPE",
+        "DANKCART",
+        "DANKCARTMAN",
+        "SWAPPARTY",
+        "LONGLIVEART",
+        "DANKPARTY",
+        "BOBOHEART",
+        "DARTHPEPER",
+        "STARTCARING",
+        "DNKBARTPEPE",
+        "RPFLOWCHART",
+        "DGART",
+        "DANKPARTY.PAINT",
+        "IHEARTTRASH"
+      ]
+    },
+    {
+      "original": "MONEYPEPE",
+      "candidates": [
+        "DJPEPE.SOUNDMONEYLP11",
+        "DJPEPE.SOUNDMONEYLP10",
+        "DJPEPE.SOUNDMONEYLP09",
+        "DJPEPE.SOUNDMONEYLP08",
+        "DJPEPE.SOUNDMONEYLP07",
+        "DJPEPE.SOUNDMONEYLP12",
+        "DJPEPE.SOUNDMONEYLP13",
+        "DJPEPE.SOUNDMONEYLP16",
+        "DJPEPE.SOUNDMONEYLP15",
+        "DJPEPE.SOUNDMONEYLP14",
+        "DJPEPE.SOUNDMONEYLP18",
+        "DJPEPE.SOUNDMONEYLP17",
+        "DJPEPE.SOUNDMONEYLP21",
+        "DJPEPE.SOUNDMONEYLP20",
+        "DJPEPE.SOUNDMONEYLP19",
+        "GMONEYPEPE"
+      ]
+    },
+    {
+      "original": "BONDPEPE",
+      "candidates": [
+        "PAMBONDI.PepeisLove",
+        "PAMELAJBONDI",
+        "KEKOBOND",
+        "FKEPEPEBOND",
+        "FAUXBONDTREE",
+        "KEKOBOND.RECEIPT.003",
+        "KEKOBOND.REQUEST.001",
+        "KEKOBOND.RECEIPT.001",
+        "KEKOBOND.REQUEST.004",
+        "KEKOBOND.REQUEST.003",
+        "KEKOBOND.RECEIPT.004",
+        "KEKOBOND.REQUEST.005",
+        "KEKOBOND.RECEIPT.005",
+        "BONDIPEPE",
+        "BONDOFJAKONE",
+        "BONDOFJAKTWO"
+      ]
+    },
+    {
+      "original": "PEPEWOMAN",
+      "candidates": [
+        "FROGWOMAN",
+        "ECOBITWOMAN",
+        "MSTRPEPES.PEPERMESANDAWOMAN",
+        "GNOSISWOMAN",
+        "PHOCKHEADS.BREITWOMAN",
+        "PHOCKPARK.STRONGWOMAN",
+        "LILPHOCKERS.WWOMAN",
+        "GOGOWOMAN",
+        "WOMANINBED"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKSWORLD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKAFRARE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKHARVEST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKWHEEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKVENTURE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "GIGADANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "OSHIDANKCITY",
+      "status": "ambiguous",
+      "reason": "Contains inset cards or framed artworks; inspect enlarged insets and identify originals before assigning specific relationships."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKMETACASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKEVERSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKSTA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKNARUTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKCOLA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKSOULS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "COSTCODANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKLIVING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKGENIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "NOTDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "GRATEFULDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKCO",
+      "status": "ambiguous",
+      "reason": "Contains inset cards or framed artworks; inspect enlarged insets and identify originals before assigning specific relationships."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTKVRXII",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTKVRXIII",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTKVRXIV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTKVRXV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTOKIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCVC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BTCWINTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "BURNBTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "CKBTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "DAVIDPEPEBTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "DRLAPEBTCCDC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "FIATINTOBTC",
+      "status": "ambiguous",
+      "reason": "Identical hourglass-and-banknotes composition under three near-identical asset names; resolve duplicate chronology before choosing direction."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "FIATNTOBTC",
+      "status": "ambiguous",
+      "reason": "Identical hourglass-and-banknotes composition under three near-identical asset names; resolve duplicate chronology before choosing direction."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "FIATTOBTC",
+      "status": "ambiguous",
+      "reason": "Identical hourglass-and-banknotes composition under three near-identical asset names; resolve duplicate chronology before choosing direction."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "FIRSTBTCLOGO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "GREATBTCCITY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "HIDEURBTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BTCPEPE",
+      "asset": "HIVEBTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DABCKING.HEARTJACK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "BARTPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PARTYPEPES",
+      "status": "ambiguous",
+      "reason": "Contains inset cards or framed artworks; inspect enlarged insets and identify originals before assigning specific relationships."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKPEPEART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "CARTMANPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKCART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKCARTMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SWAPPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKMODART",
+      "status": "ambiguous",
+      "reason": "Contains inset cards or framed artworks; inspect enlarged insets and identify originals before assigning specific relationships."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "LONGLIVEART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "BOBOHEART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DARTHPEPER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "STARTCARING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DNKBARTPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "RPFLOWCHART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DGART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "DANKPARTY.PAINT",
+      "status": "accepted",
+      "attributed_original": "DANKPARTY",
+      "reason": "Reproduces the same pastel green/purple Counterparty linked logo and dankparty lettering inside a Paint application window."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "IHEARTTRASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP10",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP09",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP08",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP07",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP12",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP13",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP16",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP15",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP14",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP18",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP17",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP21",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP20",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "DJPEPE.SOUNDMONEYLP19",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MONEYPEPE",
+      "asset": "GMONEYPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "PAMBONDI.PepeisLove",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "PAMELAJBONDI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "FKEPEPEBOND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "FAUXBONDTREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.RECEIPT.003",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND.REQUEST.003",
+      "reason": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.REQUEST.001",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND",
+      "reason": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #001."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.RECEIPT.001",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND.REQUEST.001",
+      "reason": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.REQUEST.004",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND",
+      "reason": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #004."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.REQUEST.003",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND",
+      "reason": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #003."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.REQUEST.002",
+      "status": "media_blocked",
+      "reason": "Input Buffer is empty"
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.RECEIPT.004",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND.REQUEST.004",
+      "reason": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.RECEIPT.002",
+      "status": "ambiguous",
+      "reason": "Receipt reproduces the KEKOBOND certificate, but closer numbered REQUEST.002 media is empty; recover it before confirming the immediate-source chain."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.REQUEST.005",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND",
+      "reason": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #005."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "KEKOBOND.RECEIPT.005",
+      "status": "accepted",
+      "attributed_original": "KEKOBOND.REQUEST.005",
+      "reason": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "BONDIPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "BONDOFJAKONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BONDPEPE",
+      "asset": "BONDOFJAKTWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "FROGWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "ECOBITWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "MSTRPEPES.PEPERMESANDAWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "GNOSISWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "PHOCKHEADS.BREITWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "PHOCKPARK.STRONGWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "LILPHOCKERS.WWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "GOGOWOMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOMAN",
+      "asset": "WOMANINBED",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "DANKPARTY.PAINT",
+      "original": "DANKPARTY",
+      "collection": "dankparty",
+      "image": "https://cdn.xcp.io/img/full/DANKPARTY.PAINT?image=1",
+      "evidence": "Reproduces the same pastel green/purple Counterparty linked logo and dankparty lettering inside a Paint application window."
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.003",
+      "original": "KEKOBOND.REQUEST.003",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.RECEIPT.003?image=1",
+      "evidence": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.001",
+      "original": "KEKOBOND",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.REQUEST.001?image=1",
+      "evidence": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #001."
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.001",
+      "original": "KEKOBOND.REQUEST.001",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.RECEIPT.001?image=1",
+      "evidence": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.004",
+      "original": "KEKOBOND",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.REQUEST.004?image=1",
+      "evidence": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #004."
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.003",
+      "original": "KEKOBOND",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.REQUEST.003?image=1",
+      "evidence": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #003."
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.004",
+      "original": "KEKOBOND.REQUEST.004",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.RECEIPT.004?image=1",
+      "evidence": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    },
+    {
+      "asset": "KEKOBOND.REQUEST.005",
+      "original": "KEKOBOND",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.REQUEST.005?image=1",
+      "evidence": "Preserves the complete Republic of Kekistan One Million Kekos certificate, portrait seal, red coupon notice, border, signatures and text, adding numbered REDEEM REQUEST #005."
+    },
+    {
+      "asset": "KEKOBOND.RECEIPT.005",
+      "original": "KEKOBOND.REQUEST.005",
+      "collection": "keko-bond",
+      "image": "https://cdn.xcp.io/img/full/KEKOBOND.RECEIPT.005?image=1",
+      "evidence": "Preserves the matching numbered redeem-request certificate and adds a large red REDEEMED stamp over the request; the corresponding request is the closer source."
+    }
+  ],
+  "unapplied": [],
+  "additional_media_review": {
+    "BONDPEPE": "Compared against animation sampled across all 76 frames in volume46; initial blank preview is not missing artwork."
+  }
+}

@@ -4,7 +4,13 @@
       "asset": "MOONCACTUS"
     },
     {
-      "asset": "MOONCACTUS.BURN"
+      "asset": "MOONCACTUS.BURN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MOONCACTUS"
+        }
+      ]
     }
   ]
 }

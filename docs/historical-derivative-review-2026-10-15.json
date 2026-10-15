@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-15",
+  "method": "Historical parody and deliberate reinterpretation can establish a derivative without reused image pixels. Separate explicit documentary support from shared subject matter. No chronology, membership or artist changes.",
+  "accepted": [
+    {
+      "asset": "RAREPEPE",
+      "original": "SATOSHICARD",
+      "collection": "rare-pepe",
+      "evidence_type": "documented historical parody",
+      "evidence": "Independent historical accounts explicitly identify the Nakamoto RAREPEPE card as a parody of SATOSHICARD and its collectibility. This is documentary evidence, not an assertion of identical imagery or a direct creator quotation.",
+      "sources": [
+        "https://archivist-eth.medium.com/what-is-the-first-nft-3eb38cc4a96c",
+        "https://spellsofgenesis.fandom.com/wiki/SATOSHICARD"
+      ]
+    }
+  ],
+  "held": [
+    {
+      "asset": "GOXPEPE",
+      "original": "GOXCARD",
+      "status": "plausible_historical_parody",
+      "reason": "Both address Mt. Gox; GOXCARD predates GOXPEPE. No specific creator statement or sufficiently explicit historical account located in this pass. Different art alone is not a reason to reject.",
+      "sources": [
+        "https://bitcointalk.org/index.php?topic=957797.440",
+        "https://wiki.pepe.wtf/chapter-2-the-rare-pepe-project/the-rare-pepe-blockchain-project/series-and-card-specific-lore/series-1"
+      ]
+    }
+  ],
+  "additional_leads": [
+    {
+      "asset": "NAKAMOTOCARD",
+      "original": "SATOSHICARD",
+      "evidence": "CMYK explicitly describes his own NAKAMOTOCARD as a planned parody of SATOSHICARD. This statement must not be misquoted as Mike describing RAREPEPE. No primary registry member found in this snapshot; investigate admission separately.",
+      "source": "https://medium.com/@CMYK-/the-nakamoto-card-3db6c9a6151e"
+    }
+  ],
+  "policy": "Preserve RAREPEPE as a source-review root even after adding its own antecedent; an influential derivative can itself have many derivatives."
+}

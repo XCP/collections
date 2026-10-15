@@ -37,7 +37,13 @@
       "asset": "DGDARK"
     },
     {
-      "asset": "DGDIRECTORY"
+      "asset": "DGDIRECTORY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DIRECTORYONE"
+        }
+      ]
     },
     {
       "asset": "DGDOMA"
@@ -85,7 +91,13 @@
       ]
     },
     {
-      "asset": "DGNAKAMOTO"
+      "asset": "DGNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "DGNEWS"
@@ -109,7 +121,13 @@
       "asset": "DGROCKTHKO"
     },
     {
-      "asset": "DGSATOSHI"
+      "asset": "DGSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "DGSCALER"

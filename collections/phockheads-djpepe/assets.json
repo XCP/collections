@@ -11,7 +11,13 @@
       "asset": "PHOCKHEADS.DJPEPE.DJSCRIBBLE"
     },
     {
-      "asset": "PHOCKHEADS.DJPEPE.DJKNOCKOFF"
+      "asset": "PHOCKHEADS.DJPEPE.DJKNOCKOFF",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PHOCKHEADS.DJPEPE"
+        }
+      ]
     }
   ]
 }

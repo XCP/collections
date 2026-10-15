@@ -4,6 +4,39 @@ const SEARCH_URL = "https://kaleidoscopexcp.net/api/search";
 const PAGE_SIZE = 60;
 const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
+// Side-by-side artwork review: docs/name-based-derivative-review-2026-10-15.json.
+const REVIEWED_BASED_ON = new Map([
+  // docs/name-based-derivative-review-2026-10-15-volume-81.json
+  ["TWOWEEKSPEPE.BOOTLEGPEPE","TWOWEEKSPEPE"],
+  ["GROYPAUCTION.BOOTLEGPEPE","GROYPAUCTION"],
+  ["WHOTHATPEPE.glitch","WHOTHATPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-41.json
+  ["TOKENCLOSED", "FAKETOKEN"],
+  // docs/name-based-derivative-review-2026-10-15-volume-21.json
+  ["ILUMINATRARE.MMXXII", "ILUMINATRARE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-11.json
+  ["HOODEDWOJAK", "HOODEDPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-10.json
+  ["MODERNGRAINS", "MODERNPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-7.json
+  ["SATOSHIWOJAK", "SATOSHICARD"],
+  // docs/name-based-derivative-review-2026-10-15-subasset-components.json
+  ["HONORARYNFT.JIHANWU", "JIHANWU"],
+  // docs/name-based-derivative-review-2026-10-15-subasset-components.json
+  ["NOTAPEPEMOTO.BLKCHNJESUS", "BLKCHNJESUS"],
+  // docs/subasset-derivative-review-2026-10-15.json
+  ["COLESLAW", "CODEISLAW"],
+  ["LUCKYBOSHI", "LUCKYPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-1.json
+  ["BALDROSS", "PEPEROSS"],
+  ["ROSSSPAMGELO", "PEPEROSS"],
+  ["ROSSSPAMDONG", "PEPEROSS"],
+  // docs/name-based-derivative-review-2026-10-15-volume-2.json
+  ["HAIRYELLEN", "HAIRPEPE"],
+  ["HAIRPUNK", "HAIRPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-4.json
+  ["WOJAKUFO", "UFOPEPE"],
+]);
 // Reviewed original metadata / artwork signatures; see the collection README.
 const REVIEWED_ARTISTS = new Map([
   ["JPJA", "JP Janssen"],
@@ -132,6 +165,7 @@ export async function load({ fetchJson, cache }) {
       asset,
       attributes: [
         { trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId },
+        ...(REVIEWED_BASED_ON.has(asset) ? [{ trait_type: "Based on", value: REVIEWED_BASED_ON.get(asset) }] : []),
         ...(REVIEWED_ART_YEARS.has(asset) ? [{ trait_type: "Art year", value: REVIEWED_ART_YEARS.get(asset) }] : []),
         ...(REVIEWED_ARTISTS.has(asset) ? [{ trait_type: "Artist", value: REVIEWED_ARTISTS.get(asset) }] : []),
       ],

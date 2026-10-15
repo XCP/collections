@@ -1,7 +1,13 @@
 {
   "assets": [
     {
-      "asset": "SATOSHITEN"
+      "asset": "SATOSHITEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "SACREATORBLK",
@@ -21,13 +27,25 @@
       ]
     },
     {
-      "asset": "ELSATOSHI"
+      "asset": "ELSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "DARKUNKNOWN"
     },
     {
-      "asset": "SATOSHITENY"
+      "asset": "SATOSHITENY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "A5777846861205698561"
@@ -39,7 +57,13 @@
       "asset": "A15027584020394629121"
     },
     {
-      "asset": "SATOSHIMOM"
+      "asset": "SATOSHIMOM",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     }
   ]
 }
