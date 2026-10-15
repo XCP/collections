@@ -1,0 +1,1058 @@
+{
+  "date": "2026-10-15",
+  "method": "All five first-frame grouped sheets visually inspected (92 renderable candidates plus three initial format errors). All six animation sheets inspected: 22 GIF animations sampled at four spaced frames, not exhaustive. Three initial unsupported-image errors identified as valid MP4 and decoded with ffmpeg; four positions per 1.97-second video viewed together in one sheet. No candidates left media-blocked in this group. Rejections apply to PACPEPE specifically, not other possible originals.",
+  "reviewed": [
+    {
+      "original": "PACPEPE",
+      "volume_usd": 25746.63963182921,
+      "buyers": 326,
+      "candidates": [
+        "BITCORNSPACE",
+        "BTCSPACEAPE",
+        "COMMONLANDS.SPACED",
+        "DABCSPACEBOW",
+        "DANKSPACEPEP",
+        "DASPACE",
+        "DJPEPEBADGER.AFRICAN-PHOENIX-MULLET-ALPACA-BADGER",
+        "DROOLBATTLE.SPACEAPE",
+        "ESPACIO",
+        "ESPACIO.DEMO",
+        "FAIRPEPEPACT",
+        "FAKEINSPACE",
+        "FAKERRARI.PACK",
+        "FAKESPACE.EP1.PepeNardo",
+        "FAKESPACE.EP2.DimZayan",
+        "FAKESPACEDUB",
+        "FAKETUPAC",
+        "FIRSTHARVEST.BOOSTERPACK",
+        "FLYEPACKONE",
+        "FPAC",
+        "HYPRSPACEBTC",
+        "INFISPACE.BUCKS",
+        "INFISPACE.HASTATI_Fighter",
+        "INFISPACE.HOPLITE_Figher",
+        "INFISPACE.OTOMI_Fighter",
+        "KEKSPACE",
+        "LOSTINSPACE",
+        "MEATSPIN.MYSPACE",
+        "MFERS.SPACEDELIVERY",
+        "MIKEINSPACE",
+        "MIKEINSPACE.xcp",
+        "MINSPACEHEAD",
+        "NITSABOBO.SPACEWELL",
+        "ORANGEPACK",
+        "PACBANKSTWO",
+        "PACDARKTWO",
+        "PACESETTER",
+        "PACFIATTWO",
+        "PACKERS",
+        "PACMANPEPE",
+        "PACPEP",
+        "PENEEDSPACE",
+        "PEPAC",
+        "PEPACMAN",
+        "PEPEATSPACE",
+        "PEPEBACKPACK",
+        "PEPECAPACITY",
+        "PEPEINSPACE",
+        "PEPEPACKS",
+        "PEPEPAPACHA",
+        "PEPESPACE",
+        "PHOCKCRYPSI.PACMAN",
+        "PHOCKHB.SPACEGHOST",
+        "PHOCKHEADS.DJPEPE.SPACESCRILLA",
+        "PUMPACTION",
+        "PURPLEFROG.magic.space.stonemagic",
+        "PURPLEFROG.space",
+        "QRPACPAC",
+        "RAREALPACA",
+        "RARESPACEAPE",
+        "SCARCESPACE.Ep1.NYC",
+        "SMOLINSPACE",
+        "SPACEAPE",
+        "SPACEAPEDRIP",
+        "SPACEAPEE",
+        "SPACEBARON",
+        "SPACEBEAST",
+        "SPACEBOBO",
+        "SPACECOCO",
+        "SPACECOOKIE",
+        "SPACECORN",
+        "SPACECWARS",
+        "SPACEDADDY",
+        "SPACEFALL",
+        "SPACEHARVEST",
+        "SPACEINVADER",
+        "SPACEJUMP",
+        "SPACEMOUTH",
+        "SPACEPACK",
+        "SPACEPENPEN",
+        "SPACEPEPECD",
+        "SPACESIRL",
+        "SPACESKULL",
+        "SPACETRUCKIN",
+        "SPACEXPEPE",
+        "TUPACDANKUR",
+        "TUPACNOIR",
+        "TUPACPEP",
+        "TUPEPAC",
+        "XCERMINT.16PACK",
+        "XCERMINT.2PACK",
+        "XCERMINT.6PACK",
+        "XFCPACARROLL",
+        "XFCPACOXLADE",
+        "XFCPDZAPACOS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BITCORNSPACE",
+      "pages": 104,
+      "sampled_frames": [
+        0,
+        34,
+        69,
+        103
+      ]
+    },
+    {
+      "asset": "DABCSPACEBOW",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "FAKESPACE.EP2.DimZayan",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "FAKESPACE.EP1.PepeNardo",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "FIRSTHARVEST.BOOSTERPACK",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    },
+    {
+      "asset": "FAKETUPAC",
+      "pages": 272,
+      "sampled_frames": [
+        0,
+        90,
+        181,
+        271
+      ]
+    },
+    {
+      "asset": "MFERS.SPACEDELIVERY",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "MEATSPIN.MYSPACE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "KEKSPACE",
+      "pages": 300,
+      "sampled_frames": [
+        0,
+        100,
+        199,
+        299
+      ]
+    },
+    {
+      "asset": "ORANGEPACK",
+      "pages": 40,
+      "sampled_frames": [
+        0,
+        13,
+        26,
+        39
+      ]
+    },
+    {
+      "asset": "PEPECAPACITY",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "PHOCKHB.SPACEGHOST",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "PEPESPACE",
+      "pages": 31,
+      "sampled_frames": [
+        0,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "asset": "PHOCKCRYPSI.PACMAN",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "PUMPACTION",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "SCARCESPACE.Ep1.NYC",
+      "pages": 33,
+      "sampled_frames": [
+        0,
+        11,
+        21,
+        32
+      ]
+    },
+    {
+      "asset": "RARESPACEAPE",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "QRPACPAC",
+      "pages": 39,
+      "sampled_frames": [
+        0,
+        13,
+        25,
+        38
+      ]
+    },
+    {
+      "asset": "SPACECWARS",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "asset": "SPACEFALL",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "SPACEJUMP",
+      "pages": 52,
+      "sampled_frames": [
+        0,
+        17,
+        34,
+        51
+      ]
+    },
+    {
+      "asset": "SPACEPEPECD",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "asset": "INFISPACE.HASTATI_Fighter",
+      "duration": 1.97,
+      "sampled_seconds": [
+        0,
+        0.6233333333333333,
+        1.2466666666666666,
+        1.8699999999999999
+      ]
+    },
+    {
+      "asset": "INFISPACE.HOPLITE_Figher",
+      "duration": 1.97,
+      "sampled_seconds": [
+        0,
+        0.6233333333333333,
+        1.2466666666666666,
+        1.8699999999999999
+      ]
+    },
+    {
+      "asset": "INFISPACE.OTOMI_Fighter",
+      "duration": 1.97,
+      "sampled_seconds": [
+        0,
+        0.6233333333333333,
+        1.2466666666666666,
+        1.8699999999999999
+      ]
+    }
+  ],
+  "media_format_recovery": [
+    {
+      "asset": "INFISPACE.HASTATI_Fighter",
+      "status": 200,
+      "type": "video/mp4",
+      "bytes": 95058,
+      "signature": "00000024667479706d7034320000000069736f6d69736f32617663316d7034316d70343200000435"
+    },
+    {
+      "asset": "INFISPACE.HOPLITE_Figher",
+      "status": 200,
+      "type": "video/mp4",
+      "bytes": 95856,
+      "signature": "00000024667479706d7034320000000069736f6d69736f32617663316d7034316d70343200000435"
+    },
+    {
+      "asset": "INFISPACE.OTOMI_Fighter",
+      "status": 200,
+      "type": "video/mp4",
+      "bytes": 90119,
+      "signature": "00000024667479706d7034320000000069736f6d69736f32617663316d7034316d703432000004cd"
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PACPEPE",
+      "asset": "BITCORNSPACE",
+      "status": "rejected",
+      "reason": "Corn rocket and space harvest scene. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "BTCSPACEAPE",
+      "status": "rejected",
+      "reason": "Ape astronaut with woman. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "COMMONLANDS.SPACED",
+      "status": "rejected",
+      "reason": "Futuristic car with Pepe-like face. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "DABCSPACEBOW",
+      "status": "rejected",
+      "reason": "Rainbow skeletal ape in space. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "DANKSPACEPEP",
+      "status": "rejected",
+      "reason": "Astronaut on purple game card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "DASPACE",
+      "status": "rejected",
+      "reason": "Space waiter and Pepe in flying saucer. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "DJPEPEBADGER.AFRICAN-PHOENIX-MULLET-ALPACA-BADGER",
+      "status": "rejected",
+      "reason": "Bicycle-style alpaca card back. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "DROOLBATTLE.SPACEAPE",
+      "status": "rejected",
+      "reason": "Pixel space-invader gameplay. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "ESPACIO",
+      "status": "rejected",
+      "reason": "Blurred monochrome outline face. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "ESPACIO.DEMO",
+      "status": "rejected",
+      "reason": "Blurred monochrome outline face. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAIRPEPEPACT",
+      "status": "rejected",
+      "reason": "Two suited frogs shaking hands. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKEINSPACE",
+      "status": "rejected",
+      "reason": "Fakes in Space comic cover. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKERRARI.PACK",
+      "status": "rejected",
+      "reason": "Physical pack beside automobile card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKESPACE.EP1.PepeNardo",
+      "status": "rejected",
+      "reason": "Green cassette. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKESPACE.EP2.DimZayan",
+      "status": "rejected",
+      "reason": "Beige cassette. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKESPACEDUB",
+      "status": "rejected",
+      "reason": "Cassette montage. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FAKETUPAC",
+      "status": "rejected",
+      "reason": "Green Tupac holographic portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FIRSTHARVEST.BOOSTERPACK",
+      "status": "rejected",
+      "reason": "Rotating foil harvest booster pack. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FLYEPACKONE",
+      "status": "rejected",
+      "reason": "Basketball-themed foil pack. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-0.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "FPAC",
+      "status": "rejected",
+      "reason": "Colorful installation in gallery. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "HYPRSPACEBTC",
+      "status": "rejected",
+      "reason": "Illustrated spaceship with Bitcoin motifs. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "INFISPACE.BUCKS",
+      "status": "rejected",
+      "reason": "Orange planet currency note. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "INFISPACE.HASTATI_Fighter",
+      "status": "rejected",
+      "reason": "Rotating Hastati spaceship card video. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-videos.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "INFISPACE.HOPLITE_Figher",
+      "status": "rejected",
+      "reason": "Rotating Hoplite spaceship card video. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-videos.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "INFISPACE.OTOMI_Fighter",
+      "status": "rejected",
+      "reason": "Rotating Otomi spaceship card video. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-videos.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "KEKSPACE",
+      "status": "rejected",
+      "reason": "Rotating room diorama. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "LOSTINSPACE",
+      "status": "rejected",
+      "reason": "Celestial pixel Pepe rainbow card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "MEATSPIN.MYSPACE",
+      "status": "rejected",
+      "reason": "Spinning anatomical photographic animation. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "MFERS.SPACEDELIVERY",
+      "status": "rejected",
+      "reason": "Frog delivery pilot in spaceship. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "MIKEINSPACE",
+      "status": "rejected",
+      "reason": "Man in suit before burning cars. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "MIKEINSPACE.xcp",
+      "status": "rejected",
+      "reason": "Same man-in-suit photograph design. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "MINSPACEHEAD",
+      "status": "rejected",
+      "reason": "Bitcoin Heads portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "NITSABOBO.SPACEWELL",
+      "status": "rejected",
+      "reason": "Space well landscape card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "ORANGEPACK",
+      "status": "rejected",
+      "reason": "Orange product package. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACBANKSTWO",
+      "status": "rejected",
+      "reason": "Bitcoin-shaped Pac-Man eating bank logos. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACDARKTWO",
+      "status": "rejected",
+      "reason": "Bitcoin-shaped Pac-Man eating illicit goods icons. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACESETTER",
+      "status": "rejected",
+      "reason": "Haloed portrait in collage. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACFIATTWO",
+      "status": "rejected",
+      "reason": "Bitcoin-shaped Pac-Man eating currency symbols. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-19.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACKERS",
+      "status": "rejected",
+      "reason": "Bitcoin football helmet. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACMANPEPE",
+      "status": "rejected",
+      "reason": "Pepe head in blue Pac-Man maze with ghosts. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PACPEP",
+      "status": "rejected",
+      "reason": "Pixel green Pac-Man head and colored ghosts. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PENEEDSPACE",
+      "status": "rejected",
+      "reason": "Pepe in spacesuit with need-space slogan. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPAC",
+      "status": "rejected",
+      "reason": "Tupac album-art portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPACMAN",
+      "status": "rejected",
+      "reason": "Painted voracious round frog chasing ghost in maze. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPEATSPACE",
+      "status": "rejected",
+      "reason": "Pepe astronaut and vandalized rocket. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPEBACKPACK",
+      "status": "rejected",
+      "reason": "Backpack illustration. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPECAPACITY",
+      "status": "rejected",
+      "reason": "Psychedelic distorted reptilian head. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPEINSPACE",
+      "status": "rejected",
+      "reason": "Muscular green space traveler. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPEPACKS",
+      "status": "rejected",
+      "reason": "Printed Rare Pepe booster-pack design. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPEPAPACHA",
+      "status": "rejected",
+      "reason": "Two small colorful alien-like figures. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PEPESPACE",
+      "status": "rejected",
+      "reason": "Pepe face appearing in space card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PHOCKCRYPSI.PACMAN",
+      "status": "rejected",
+      "reason": "Animated Bitcoin-shaped Pac-Man eating monetary mascot. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PHOCKHB.SPACEGHOST",
+      "status": "rejected",
+      "reason": "Pixel Space Ghost portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PHOCKHEADS.DJPEPE.SPACESCRILLA",
+      "status": "rejected",
+      "reason": "Astronaut DJ Pepe illustration. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PUMPACTION",
+      "status": "rejected",
+      "reason": "Shotgun pumping animation. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PURPLEFROG.magic.space.stonemagic",
+      "status": "rejected",
+      "reason": "Repeated purple portrait collage. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "PURPLEFROG.space",
+      "status": "rejected",
+      "reason": "Purple space character with swirling galaxy. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-38.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "QRPACPAC",
+      "status": "rejected",
+      "reason": "Yellow Pac-Man consuming QR code. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "RAREALPACA",
+      "status": "rejected",
+      "reason": "Corn/alpaca hybrid card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "RARESPACEAPE",
+      "status": "rejected",
+      "reason": "Pixel ape astronaut portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SCARCESPACE.Ep1.NYC",
+      "status": "rejected",
+      "reason": "Scarce Space cassette. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SMOLINSPACE",
+      "status": "rejected",
+      "reason": "Small rocket and SMOL moon flag. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEAPE",
+      "status": "rejected",
+      "reason": "Crowned pixel ape astronaut. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEAPEDRIP",
+      "status": "rejected",
+      "reason": "Frantic colorful ape illustration. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEAPEE",
+      "status": "rejected",
+      "reason": "Black-and-white suited ape in space. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEBARON",
+      "status": "rejected",
+      "reason": "Space Baron arcade-like poster. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEBEAST",
+      "status": "rejected",
+      "reason": "White doodle of floating creature. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEBOBO",
+      "status": "rejected",
+      "reason": "Celestial Bobo rainbow card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACECOCO",
+      "status": "rejected",
+      "reason": "Astronaut landscape inside Pepe silhouette. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACECOOKIE",
+      "status": "rejected",
+      "reason": "Smiling Pepe beneath cookie moon. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACECORN",
+      "status": "rejected",
+      "reason": "Space corn comic cover. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACECWARS",
+      "status": "rejected",
+      "reason": "Corn ships battling above moon. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEDADDY",
+      "status": "rejected",
+      "reason": "Elon portrait on space-capitalism card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEFALL",
+      "status": "rejected",
+      "reason": "Silhouette amid purple geometric space. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEHARVEST",
+      "status": "rejected",
+      "reason": "Glowing corn/hexagonal network. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEINVADER",
+      "status": "rejected",
+      "reason": "Classic pixel space-invader icon. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-57.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEJUMP",
+      "status": "rejected",
+      "reason": "Rotating fenced sport-court diorama. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEMOUTH",
+      "status": "rejected",
+      "reason": "Floating Pepe mouth and dog in card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEPACK",
+      "status": "rejected",
+      "reason": "Photograph of backpack. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEPENPEN",
+      "status": "rejected",
+      "reason": "SpacePenPen rocket card with tweet inset. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEPEPECD",
+      "status": "rejected",
+      "reason": "Metallic embossed astronaut Pepe. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACESIRL",
+      "status": "rejected",
+      "reason": "Pale printed Spaces IRL sheet. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACESKULL",
+      "status": "rejected",
+      "reason": "Skeleton astronaut playing guitar. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACETRUCKIN",
+      "status": "rejected",
+      "reason": "Colorful space truck. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "SPACEXPEPE",
+      "status": "rejected",
+      "reason": "Distorted space-traveler illustration. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "TUPACDANKUR",
+      "status": "rejected",
+      "reason": "Tupac-style portrait holding joint. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "TUPACNOIR",
+      "status": "rejected",
+      "reason": "Pencil Tupac portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "TUPACPEP",
+      "status": "rejected",
+      "reason": "Bandana-wearing Pepe portrait. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "TUPEPAC",
+      "status": "rejected",
+      "reason": "Tupac-styled Pepe in old television. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XCERMINT.16PACK",
+      "status": "rejected",
+      "reason": "Tall mint-pack graphic. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XCERMINT.2PACK",
+      "status": "rejected",
+      "reason": "Tall mint-pack graphic. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XCERMINT.6PACK",
+      "status": "rejected",
+      "reason": "Tall mint-pack graphic. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XFCPACARROLL",
+      "status": "rejected",
+      "reason": "Football player Carroll card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XFCPACOXLADE",
+      "status": "rejected",
+      "reason": "Football player Oxlade-Chamberlain card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    },
+    {
+      "original": "PACPEPE",
+      "asset": "XFCPDZAPACOS",
+      "status": "rejected",
+      "reason": "Football player Zappacosta card. No reuse of PACPEPE's green running round character with raised orange gloves, red boots and distinctive card composition/rules in inspected imagery. Shared Pac-Man subject or name substring is insufficient.",
+      "evidence_sheet": "sheets/group-PACPEPE-76.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 95,
+    "accepted": 0,
+    "rejected": 95,
+    "media_blocked": 0
+  }
+}
