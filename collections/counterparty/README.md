@@ -10,7 +10,7 @@
 | Primary memberships | 6,610 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 212/6,610 (3.2%)<br>Artist: 3,350/6,610 (50.7%)<br>Based on: 151/6,610 (2.3%) |
+| Traits | Art year: 212/6,610 (3.2%)<br>Artist: 3,350/6,610 (50.7%)<br>Based on: 152/6,610 (2.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -433,3 +433,5 @@ UNNAMEABLE: **DanDarkPill**, named as owner in its [exact-asset metadata](https:
 251 works are credited to the artist who accounts for at least 90% (and at least three) of the credited works from the same issuing address. Their own metadata carries no signature; the marketplace curator confirmed these attributions. Spelling variants resolve to the canonical artist (LvsD is L_vs_D).
 
 Reviewed HOMERPEPE remixes retain their specific visual derivation; see the [HOMERPEPE comparison report](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json). Shared Simpsons subject alone does not establish a link.
+
+PEPEMRBURNS retains its reviewed HOMERPEPE derivation: matching cloud background and card composition, with a Mr Burns substitution. See the [enlarged comparison](../../docs/name-based-derivative-review-2026-10-15-mrburns-followup.json).

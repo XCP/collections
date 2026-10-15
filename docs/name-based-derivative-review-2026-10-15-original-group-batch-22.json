@@ -1,0 +1,457 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet viewed. Three animations sampled at four spaced positions, not exhaustive playback. ROSSCARD/CARDROSS and DANKROSSS/FAKEROSS enlarged. Historical image-linked descriptions establish direction for the latter pair.",
+  "reviewed": [
+    {
+      "original": "ROSSCARD",
+      "volume_usd": 0,
+      "buyers": 0,
+      "candidates": [
+        "DANKROSSS",
+        "BTCBROSSHIRT.V1",
+        "CARDROSS",
+        "CORNCROSSING",
+        "CROSSSTEPPA",
+        "CROSSTHELINE",
+        "FAKEROSS",
+        "FREEROSSDAY",
+        "KIDPHOCKS.PORCOROSSO",
+        "ORDROSS",
+        "PEPECROSS",
+        "PEPELACROSSE",
+        "PEPEROSS",
+        "PEPEROSSO",
+        "PETROBOBROSS",
+        "PHOCKHEADS.FREEROSS",
+        "PHOCKVILLAIN.CROSSBONES",
+        "PROSSESSORFL",
+        "ROSSLIVESNOW",
+        "SILKROSS",
+        "STEVEROSS",
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+        "XFCPDDEROSSI"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CARDROSS",
+      "pages": 31,
+      "sampled_frames": [
+        0,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "asset": "PEPEROSSO",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "KIDPHOCKS.PORCOROSSO",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "ROSSCARD",
+      "asset": "DANKROSSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "BTCBROSSHIRT.V1",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "CARDROSS",
+      "status": "ambiguous",
+      "reason": "Camel rider in CARDROSS differs from current ROSSCARD CDN art. Check historical ROSSCARD artwork before deciding reuse; not enough evidence from common Ross subject.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "CORNCROSSING",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "CROSSSTEPPA",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "CROSSTHELINE",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "FAKEROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "FREEROSSDAY",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "KIDPHOCKS.PORCOROSSO",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ORDROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PEPECROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PEPELACROSSE",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PEPEROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PEPEROSSO",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PETROBOBROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PHOCKHEADS.FREEROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PHOCKVILLAIN.CROSSBONES",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "PROSSESSORFL",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ROSSLIVESNOW",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-0.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "SILKROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "STEVEROSS",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ULBRICHTROSS.GROWINTHEDARK",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "ROSSCARD",
+      "asset": "XFCPDDEROSSI",
+      "status": "rejected",
+      "reason": "No specific reuse of the turbaned merchant riding a camel beside desert architecture. Names involving Ross, cross or Rosso alone do not establish derivation.",
+      "evidence_sheet": "sheets/group-ROSSCARD-19.png"
+    },
+    {
+      "original": "FAKEROSS",
+      "asset": "DANKROSSS",
+      "status": "accepted",
+      "reason": "Exact sunglasses, bearded Pepe portrait, patterned Bitcoin jacket, rose and vertical album-cover layout retained; adds smoking joint and DANK labels. FAKEROSS media description November 2021 precedes DANKROSSS January 2022.",
+      "evidence_images": [
+        "previews/FAKEROSS-detail.png",
+        "previews/DANKROSSS-detail.png"
+      ]
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "ROSSCARD",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "2664dbbb8a2fc442388e755f1b7a0c30d447dd96d997c0a94df88cee1bd10cce",
+            "block_index": 947160,
+            "block_time": 1777472217,
+            "source": "1DCagK32SUhTthAgQ5ZswygyFwVwgA3msJ",
+            "issuer": "1DCagK32SUhTthAgQ5ZswygyFwVwgA3msJ",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://arweave.net/yDmEtdT6Y5fplGpE1fEeQ8QmgjIalaUmE5I5j4g81jI",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8b29863f632c9f70c7ff2484f68588b6498011a0709cc9cdbda278f8481d12f7",
+            "block_index": 894725,
+            "block_time": 1746090802,
+            "source": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "issuer": "1DCagK32SUhTthAgQ5ZswygyFwVwgA3msJ",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "SOG CARD",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "d379152bbc0a917875eb513b62c29dd6f08c26f8d478492ac6cc77113a6d1a1a",
+            "block_index": 380189,
+            "block_time": 1445604949,
+            "source": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "issuer": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "transfer": 0,
+            "quantity_normalized": "500",
+            "description": "SOG CARD",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "CARDROSS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "ab2d3609faf7523fbd04efb32c3c46f01a448ca4abbdf8aa6aa448f3a896c0e8",
+            "block_index": 710418,
+            "block_time": 1637324161,
+            "source": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "issuer": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/QgImWgk.gif;CARDROSS",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "6cca9422ecb74a6d4fdf2e480f9e8a103b9652d6762d2f03f36e0b00f245a39d",
+            "block_index": 710418,
+            "block_time": 1637324161,
+            "source": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "issuer": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/QgImWgk.gif;CARDROSS",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8835dfe003c07b9ec5c5100cffbb1cea004fca86778b8fe78e94b9b77624f402",
+            "block_index": 710407,
+            "block_time": 1637315953,
+            "source": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "issuer": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "transfer": 0,
+            "quantity_normalized": "10",
+            "description": "imgur.com/QgImWgk.gif;CARDROSS",
+            "asset_events": "change_description reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "b762812b522079c0241cecc615872bb6b1f4968e29f42cf6ca88a66f3016b2a4",
+            "block_index": 710407,
+            "block_time": 1637315953,
+            "source": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "issuer": "14493owfDPfQCPmwsXGVTqdx14Vj184xw3",
+            "transfer": 0,
+            "quantity_normalized": "10",
+            "description": "imgur/QgImWgk.gif;CARDROSS",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "DANKROSSS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "7c0e43564246e9f946774a9d1cfacd216ad86363587ce8b4844871ebba2f94ec",
+            "block_index": 720957,
+            "block_time": 1643495538,
+            "source": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "issuer": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/zaaiwO4.png;DANKROSS",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e9dbca534d14d7d7bf2d7edd05c7716be1971fc6fed91fb631aed63eae56ac37",
+            "block_index": 720952,
+            "block_time": 1643492311,
+            "source": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "issuer": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "imgur/zaaiwO4.png;DANKROSS",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "FAKEROSS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "dfca61e19eaeefd667f0fcc92ee44d39d61550917044715cb0a367a6b8e15aea",
+            "block_index": 708699,
+            "block_time": 1636326502,
+            "source": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "issuer": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://fakeasf.club/assets/FAKEROSS/FAKEROSS.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "cfe39ccae22fe593f208bddbab698a6441aaa8e2b933e1e6e5a6880c2f85a18e",
+            "block_index": 708698,
+            "block_time": 1636325551,
+            "source": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "issuer": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "5fbc29ef29bc142aec2172a9056152159afe8ec2b2cb562a3670baec6e963a9f",
+            "block_index": 708682,
+            "block_time": 1636317871,
+            "source": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "issuer": "1K4zZYAdqjXYaxPxjpE9N3Dq798Q5bK6zs",
+            "transfer": 0,
+            "quantity_normalized": "210",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 28,
+    "accepted": 1,
+    "rejected": 26,
+    "ambiguous": 1
+  }
+}

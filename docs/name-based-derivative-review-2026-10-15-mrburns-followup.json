@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-15",
+  "method": "Both static artworks enlarged and inspected. Candidate on-chain linked media is recorded March 2022, after HOMERPEPE original 2016 project. No inference of relationship from Simpsons subject alone.",
+  "decisions": [
+    {
+      "original": "HOMERPEPE",
+      "asset": "PEPEMRBURNS",
+      "status": "accepted",
+      "reason": "Reuses the exact cloud background, black/yellow frame, stat-strip geometry and caption/rarity panels, substituting Mr Burns for Homer and Excellent I am a Pepe for the original caption.",
+      "evidence_images": [
+        "previews/HOMERPEPE-detail.png",
+        "previews/PEPEMRBURNS-detail.png"
+      ]
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "HOMERPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "a1ef094fee761ab0b65a7d0fe6d1947f5ca7aae32d502deddc8d7e0448d5f1ad",
+            "block_index": 676585,
+            "block_time": 1616877440,
+            "source": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "issuer": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "The Mona Lisa of Pepes",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "0175123fea98a596e9d303970eddfa3af585cd8eacd3eca16d2f4308a694d80d",
+            "block_index": 509344,
+            "block_time": 1518725115,
+            "source": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "issuer": "1JAuET9GmkADQarX5ZsgHXuHjJzwesfAKg",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "485af5ef3c096aa5dee3e4f8ebfd929811b4ec46145aa3d4a9eb372c6af0cf94",
+            "block_index": 467101,
+            "block_time": 1495189979,
+            "source": "1A4FU14sDQCvaxYuxBtvxPSAdDszho3Ypk",
+            "issuer": "1PBwfanoU3TeyZSxHPWv2ui3uArq5WNbem",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "22362e871c7dda21e8c9960dd842c241653ad4b401091b29c905a6c51557127e",
+            "block_index": 453585,
+            "block_time": 1487403961,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1A4FU14sDQCvaxYuxBtvxPSAdDszho3Ypk",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "793b317bad14cc4d25889e41e748e87ca9247e298e27a73ab44e7d899f2485c8",
+            "block_index": 432080,
+            "block_time": 1475155751,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "HOMERSIMPSON",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3f0053d19b7feb5731a3be83b16212516b934d3da456d5b47d97c51ab4b24f4c",
+            "block_index": 432028,
+            "block_time": 1475127976,
+            "source": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "issuer": "1KoMmriS96Rvajs7JRi9pJy4bj2JmDUZCJ",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "HOMERSIMPSON",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "PEPEMRBURNS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "9d16943c4944608443843c72f9c90ef9523768c1eca1c7e714e4d2addf02f9b6",
+            "block_index": 729605,
+            "block_time": 1648588970,
+            "source": "1NwCmg8gZW7KykrA7mX16zugNZZuckPg5o",
+            "issuer": "1NwCmg8gZW7KykrA7mX16zugNZZuckPg5o",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/kWKGOiJ.png;PEPE MR BURNS",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "25fc317728cd8f96a8134750e0e139731f80bf2955160e5ccafc2c5f9af253cd",
+            "block_index": 729001,
+            "block_time": 1648242221,
+            "source": "1NwCmg8gZW7KykrA7mX16zugNZZuckPg5o",
+            "issuer": "1NwCmg8gZW7KykrA7mX16zugNZZuckPg5o",
+            "transfer": 0,
+            "quantity_normalized": "121",
+            "description": "imgur/kWKGOiJ.png;PEPE MR BURNS",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 1,
+    "accepted": 1
+  }
+}

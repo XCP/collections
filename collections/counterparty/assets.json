@@ -42190,7 +42190,13 @@
       "asset": "PEPEMOTORBUS"
     },
     {
-      "asset": "PEPEMRBURNS"
+      "asset": "PEPEMRBURNS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "PEPEMUCHA"
