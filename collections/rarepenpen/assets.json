@@ -278,7 +278,13 @@
       "asset": "PENPENPIZZA"
     },
     {
-      "asset": "PENPENRARE"
+      "asset": "PENPENRARE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "PENPENSCHOOL"
