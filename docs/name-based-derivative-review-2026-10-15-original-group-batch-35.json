@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and three animation sheets viewed. Nine animations sampled at four spaced positions (both DEVTHORSE frames viewed), not exhaustive playback of longer animations.",
+  "reviewed": [
+    {
+      "original": "PEPESTORM",
+      "volume_usd": 13305.505939315264,
+      "buyers": 26,
+      "candidates": [
+        "FAIRSTORM",
+        "MSTRPEPES.STORMONTHESEAOFPEPELEE",
+        "STORMBURGUER",
+        "STORMPEPE",
+        "STORMWINDS",
+        "THESTORM",
+        "XPEPESTORM",
+        "ZEROPHOCKS.STORMTRPR"
+      ]
+    },
+    {
+      "original": "PEPEBASS",
+      "volume_usd": 12769.704283185027,
+      "buyers": 11,
+      "candidates": [
+        "BASSMINT",
+        "BASSPROSHOPS",
+        "BOBOBASS",
+        "MIAMIBASSPEP",
+        "MSTRPEPES.THEPEPEEMBASSADORS",
+        "MUCHBASS",
+        "PSEMBASSY"
+      ]
+    },
+    {
+      "original": "PEPETHOR",
+      "volume_usd": 12172.023712168737,
+      "buyers": 39,
+      "candidates": [
+        "CARROTHORN",
+        "CARROTHORNAR",
+        "DEVTHORSE",
+        "HATHOR",
+        "PEPECARTHORN",
+        "PEPELTHORPE",
+        "PHOCKGUARDS.THOR",
+        "SWIFTHORSE",
+        "TARTHORK",
+        "THORCOCO",
+        "VALTHORENS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "STORMPEPE",
+      "pages": 54,
+      "sampled_frames": [
+        0,
+        18,
+        35,
+        53
+      ]
+    },
+    {
+      "asset": "STORMWINDS",
+      "pages": 199,
+      "sampled_frames": [
+        0,
+        66,
+        132,
+        198
+      ]
+    },
+    {
+      "asset": "THESTORM",
+      "pages": 270,
+      "sampled_frames": [
+        0,
+        90,
+        179,
+        269
+      ]
+    },
+    {
+      "asset": "ZEROPHOCKS.STORMTRPR",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "BOBOBASS",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "PHOCKGUARDS.THOR",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "PEPETHOR",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "DEVTHORSE",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "asset": "CARROTHORNAR",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPESTORM",
+      "asset": "FAIRSTORM",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "MSTRPEPES.STORMONTHESEAOFPEPELEE",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "STORMBURGUER",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "STORMPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "STORMWINDS",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "THESTORM",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "XPEPESTORM",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPESTORM",
+      "asset": "ZEROPHOCKS.STORMTRPR",
+      "status": "rejected",
+      "reason": "No reuse of the Daenerys/Stormborn Pepe portrait, pale dress and mountain-valley illustration; storm name overlap refers to other subjects.",
+      "evidence_sheet": "sheets/group-PEPESTORM-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "BASSMINT",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "BASSPROSHOPS",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "BOBOBASS",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "MIAMIBASSPEP",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "MSTRPEPES.THEPEPEEMBASSADORS",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "MUCHBASS",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPEBASS",
+      "asset": "PSEMBASSY",
+      "status": "rejected",
+      "reason": "No reuse of the suited Pepe, red bow tie and upright bass drawing. Electric bass performance and bass-name fragments are different compositions.",
+      "evidence_sheet": "sheets/group-PEPEBASS-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "CARROTHORN",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "CARROTHORNAR",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "DEVTHORSE",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "HATHOR",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "PEPECARTHORN",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "PEPELTHORPE",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "PHOCKGUARDS.THOR",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "SWIFTHORSE",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "TARTHORK",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "THORCOCO",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    },
+    {
+      "original": "PEPETHOR",
+      "asset": "VALTHORENS",
+      "status": "rejected",
+      "reason": "No reuse of the standing Thor-Pepe figure, armor, lightning composition and title. Other Thor characters or name substrings are insufficient.",
+      "evidence_sheet": "sheets/group-PEPETHOR-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 26,
+    "accepted": 0,
+    "rejected": 26
+  }
+}
