@@ -563,7 +563,13 @@
       ]
     },
     {
-      "asset": "SHART.WEDDING"
+      "asset": "SHART.WEDDING",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SHART"
+        }
+      ]
     },
     {
       "asset": "SLUTTY",

@@ -1,0 +1,813 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPEART",
+      "candidates": [
+        "MARTYPEPFLY",
+        "PEPEARTHUR",
+        "FLATEARTH",
+        "CARTOONPEPE",
+        "HEARTSPEPE",
+        "PEPECART",
+        "BREITBARTPEP",
+        "RAREPEPPERS.TRUDEEART",
+        "PARTYBADGER",
+        "RETROSTART",
+        "BREITBARTPAT",
+        "SHART",
+        "SHART.ART",
+        "SHART.TACO",
+        "SHART.WEDDING",
+        "SARTIMOTISSE"
+      ]
+    },
+    {
+      "original": "XPEPE",
+      "candidates": [
+        "XPEPELADYDEA",
+        "XPEPEJEANGRE",
+        "XPEPEPROFESS",
+        "XPEPESCARLET",
+        "XPEPESTORM",
+        "XPEPEPUNISHE",
+        "LUXPEPE",
+        "XPEPESABRETO",
+        "XPEPEWOLVERI",
+        "XPEPEGAMBIT",
+        "XPEPEEMMAFRO",
+        "XPEPEROGUE",
+        "XPEPEMYSTIQU",
+        "XPEPEJUGGERN",
+        "XPEPECOLOSSU",
+        "XPEPENIGHTCR",
+        "XPEPEMAGNETO",
+        "NOVAXPEPE",
+        "IXPEPEPOI"
+      ]
+    },
+    {
+      "original": "ISOPEPE",
+      "candidates": [
+        "BALISONG",
+        "ISONNY",
+        "PHOCKPARK.MRGARRISON",
+        "PEPEISOTTO",
+        "UNGAISOUTEN",
+        "PRISONERPEPE",
+        "TRISOLARIS",
+        "PEPELEMPICKA.MARQUISOFJUPITER"
+      ]
+    },
+    {
+      "original": "FEELSPEPE",
+      "candidates": [
+        "FEELSBADFAM",
+        "FEELSTRIPPY",
+        "GETOVERFEELS",
+        "HODLFEELS",
+        "FEELSDANK",
+        "FEELSBLEUMAN",
+        "FEELSDRIPPY",
+        "FEELSHOLYMAN",
+        "FEELSBRIEF.Black_and_White",
+        "FEELSBRIEF.Variation_2",
+        "FEELSBRIEF.Noise_Transparent",
+        "FEELSBRIEF.Variation_1",
+        "FEELSBRIEF.Still_Image",
+        "FEELSBRIEF",
+        "FEELSGOODGRL.NFTNYC",
+        "FEELSGOODGRL.LAFAKAGRL",
+        "FEELSGOODPET"
+      ]
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "candidates": [
+        "POTUSTRUMP.MOUNTRUSHMOREPLATINUM"
+      ]
+    },
+    {
+      "original": "LIBERPEPE",
+      "candidates": [
+        "DANKLIBERTY",
+        "LIBERTADFIAT",
+        "LIBERTEA",
+        "LIBERTYONE",
+        "NFTLIBERATED",
+        "LIBERTYTRUMP",
+        "LIBERTYAPE",
+        "PEPALIBERTY",
+        "MSTRPEPES.LIBERTYLEADINGTHEPEPES",
+        "NEWLIBERTY",
+        "POTUSTRUMP.LIBERTYGOLD",
+        "POTUSTRUMP.LIBERTYPLATINUM",
+        "LAMIALIBERTA",
+        "LIBERTYWOJAK",
+        "WRBPT.PEPELIBERATION"
+      ]
+    },
+    {
+      "original": "PEPENIN",
+      "candidates": [
+        "MOURNINGMOOS.RAREMOOMOO",
+        "TIMEISRUNNIN",
+        "ICPNINJA",
+        "BITCORNIND",
+        "EARLYCORNING",
+        "CORNINFINITY",
+        "BTCSTAMPART.NINE",
+        "FAKEKOONING",
+        "BITCOININO",
+        "PEPEMORNIN",
+        "OOSIXTYNINE",
+        "ITTORYUNINJA",
+        "MININGPEN",
+        "GREENMORNING",
+        "RAININGBOBO",
+        "RUNNINGHAL"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEART",
+      "asset": "KARTANDPEPE",
+      "status": "ambiguous",
+      "reason": "Compare with PEPEKART: similar rendered character and card styling but changed vehicle/body scene could be another series entry. Need closer image/process evidence."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "MARTYPEPFLY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPEKIDSART",
+      "status": "ambiguous",
+      "reason": "Photograph of multiple small drawings; inset review needed to distinguish specific card adaptations from general Pepe drawings."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPEARTHUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "FLATEARTH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "CARTOONPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "HEARTSPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPECART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "BREITBARTPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "RAREPEPPERS.TRUDEEART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PGNARTIST",
+      "status": "ambiguous",
+      "reason": "Inset painting evokes The Scream; identify whether it reproduces a particular tokenized artwork or independently uses the historical painting."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PARTYBADGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "RETROSTART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "BREITBARTPAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SHART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SHART.ART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SHART.TACO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SHART.WEDDING",
+      "status": "accepted",
+      "attributed_original": "SHART",
+      "reason": "Reproduces the same full green Cleopepe figure, raised arm, flowing wedding fabric, signature and complete spicy-curry wedding-night caption, with a thin gold border added."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SARTIMOTISSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPELADYDEA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEJEANGRE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEPROFESS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPESCARLET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPESTORM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEPUNISHE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "LUXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPESABRETO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEWOLVERI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEGAMBIT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEEMMAFRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEROGUE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEMYSTIQU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEJUGGERN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPECOLOSSU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPENIGHTCR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEMAGNETO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "NOVAXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "IXPEPEPOI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "BALISONG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "ISONNY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PHOCKPARK.MRGARRISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PEPEISOTTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "UNGAISOUTEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PRISONERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "TRISOLARIS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PEPELEMPICKA.MARQUISOFJUPITER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBADFAM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSTRIPPY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "GETOVERFEELS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "HODLFEELS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSLIKEBTC",
+      "status": "ambiguous",
+      "reason": "Similar ape portraits with altered expressions/backgrounds; determine whether one specifically adapts the other or both use a common ape template."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSLIKEETH",
+      "status": "ambiguous",
+      "reason": "Similar ape portraits with altered expressions/backgrounds; determine whether one specifically adapts the other or both use a common ape template."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBLEUMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSDRIPPY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSHOLYMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF.Black_and_White",
+      "status": "accepted",
+      "attributed_original": "FEELSBRIEF",
+      "reason": "Same animated line-face and radiating curved strands, rendered as clean black lines on white instead of colored noise on black. Sampled animation reveals matching face development and composition."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF.Variation_2",
+      "status": "accepted",
+      "attributed_original": "FEELSBRIEF",
+      "reason": "Retains the same colored-noise face and curved strand animation on black with altered fading/timing; 100-frame version compared with the 78-frame parent."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF.Noise_Transparent",
+      "status": "accepted",
+      "attributed_original": "FEELSBRIEF",
+      "reason": "Same animated line-face/strand composition rendered with monochrome noise and transparent background, visible after the empty initial frame."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF.Variation_1",
+      "status": "accepted",
+      "attributed_original": "FEELSBRIEF",
+      "reason": "Layers repeated, overlapping copies of the distinctive parent line-face and radiating strands in white on black; animation samples expose the repeated facial outlines."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF.Still_Image",
+      "status": "accepted",
+      "attributed_original": "FEELSBRIEF",
+      "reason": "Static image reproduces the parent animation line-face and outward curving strands with matching multicolor noise on black; confirmed against later frames rather than blank opening frame."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBRIEF",
+      "status": "rejected",
+      "reason": "Recovered later frames show line-face/strand animation, unrelated to FEELSPEPE portrait. Its five subasset variants are separately compared and attributed in this report."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODGRL.NFTNYC",
+      "status": "accepted",
+      "attributed_original": "FEELSGOODGRL",
+      "reason": "Embeds the original waterfall card, orange-haired pink-bikini frog and Maddie Furie signature over an Empire State Building photograph, adding NFT NYC and dated meet-and-greet lettering."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODGRL.LAFAKAGRL",
+      "status": "accepted",
+      "attributed_original": "FEELSGOODGRL",
+      "reason": "Retains the mirrored waterfall, original body, hair, bikini and signature panel, adds black balaclava, La Faka Nostra lettering and animated lightning, and changes caption to Feels Fake Girl."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODPET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "POTUSTRUMP.MOUNTRUSHMOREPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "DANKLIBERTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTADFIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTEA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTYONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "NFTLIBERATED",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTYTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTYAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "PEPALIBERTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTFIVE",
+      "status": "ambiguous",
+      "reason": "Matching Crypsi Liberty composition across numbered assets; establish edition chronology before assigning direction."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTFOUR",
+      "status": "ambiguous",
+      "reason": "Matching Crypsi Liberty composition across numbered assets; establish edition chronology before assigning direction."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "MSTRPEPES.LIBERTYLEADINGTHEPEPES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "NEWLIBERTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "POTUSTRUMP.LIBERTYGOLD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "POTUSTRUMP.LIBERTYPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LAMIALIBERTA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "LIBERTYWOJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "LIBERPEPE",
+      "asset": "WRBPT.PEPELIBERATION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.RAREMOOMOO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "TIMEISRUNNIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "ICPNINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BITCORNIND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "EARLYCORNING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "CORNINFINITY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BTCSTAMPART.NINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAKEKOONING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BITCOININO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "PEPEMORNIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "OOSIXTYNINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "ITTORYUNINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MININGPEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "GREENMORNING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "PISTASINING",
+      "status": "ambiguous",
+      "reason": "Recovered 902-frame animation by decoding individual pages; sampled frames show an educational Web3/artist presentation. Complete slide/inset inspection remains needed, not a missing-image case."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "RAININGBOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "RUNNINGHAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "SHART.WEDDING",
+      "original": "SHART",
+      "collection": "rude-relics",
+      "image": "https://cdn.xcp.io/img/full/SHART.WEDDING?image=1",
+      "evidence": "Reproduces the same full green Cleopepe figure, raised arm, flowing wedding fabric, signature and complete spicy-curry wedding-night caption, with a thin gold border added."
+    },
+    {
+      "asset": "FEELSBRIEF.Black_and_White",
+      "original": "FEELSBRIEF",
+      "collection": "feels-brief",
+      "image": "https://cdn.xcp.io/img/full/FEELSBRIEF.Black_and_White?image=1",
+      "evidence": "Same animated line-face and radiating curved strands, rendered as clean black lines on white instead of colored noise on black. Sampled animation reveals matching face development and composition."
+    },
+    {
+      "asset": "FEELSBRIEF.Variation_2",
+      "original": "FEELSBRIEF",
+      "collection": "feels-brief",
+      "image": "https://cdn.xcp.io/img/full/FEELSBRIEF.Variation_2?image=1",
+      "evidence": "Retains the same colored-noise face and curved strand animation on black with altered fading/timing; 100-frame version compared with the 78-frame parent."
+    },
+    {
+      "asset": "FEELSBRIEF.Noise_Transparent",
+      "original": "FEELSBRIEF",
+      "collection": "feels-brief",
+      "image": "https://cdn.xcp.io/img/full/FEELSBRIEF.Noise_Transparent?image=1",
+      "evidence": "Same animated line-face/strand composition rendered with monochrome noise and transparent background, visible after the empty initial frame."
+    },
+    {
+      "asset": "FEELSBRIEF.Variation_1",
+      "original": "FEELSBRIEF",
+      "collection": "feels-brief",
+      "image": "https://cdn.xcp.io/img/full/FEELSBRIEF.Variation_1?image=1",
+      "evidence": "Layers repeated, overlapping copies of the distinctive parent line-face and radiating strands in white on black; animation samples expose the repeated facial outlines."
+    },
+    {
+      "asset": "FEELSBRIEF.Still_Image",
+      "original": "FEELSBRIEF",
+      "collection": "feels-brief",
+      "image": "https://cdn.xcp.io/img/full/FEELSBRIEF.Still_Image?image=1",
+      "evidence": "Static image reproduces the parent animation line-face and outward curving strands with matching multicolor noise on black; confirmed against later frames rather than blank opening frame."
+    },
+    {
+      "asset": "FEELSGOODGRL.NFTNYC",
+      "original": "FEELSGOODGRL",
+      "collection": "feelsgoodgrl",
+      "image": "https://cdn.xcp.io/img/full/FEELSGOODGRL.NFTNYC?image=1",
+      "evidence": "Embeds the original waterfall card, orange-haired pink-bikini frog and Maddie Furie signature over an Empire State Building photograph, adding NFT NYC and dated meet-and-greet lettering."
+    },
+    {
+      "asset": "FEELSGOODGRL.LAFAKAGRL",
+      "original": "FEELSGOODGRL",
+      "collection": "feelsgoodgrl",
+      "image": "https://cdn.xcp.io/img/full/FEELSGOODGRL.LAFAKAGRL?image=1",
+      "evidence": "Retains the mirrored waterfall, original body, hair, bikini and signature panel, adds black balaclava, La Faka Nostra lettering and animated lightning, and changes caption to Feels Fake Girl."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "FEELSBRIEF": {
+      "pages": 78,
+      "sampled": "first, approximately one-third, two-thirds and last"
+    },
+    "PISTASINING": {
+      "pages": 902,
+      "sampled": "first, approximately one-third, two-thirds and last",
+      "remaining": "full slide/inset inspection"
+    }
+  }
+}
