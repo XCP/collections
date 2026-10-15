@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-15",
+  "method": "First12 exact generated-name leads, ranked by observed confirmed substitution frequency then lifetime source volume. Side-by-side full-media previews. Four frames sampled from PEPEWAVE64/FAKEWAVE136/PEPEALIEN65/FAKEDANCE52/PEPEFIFTYONE28/PEPELEVICH9/YOGAPEPE26/PEPEPYRAMID20; all four PEPEDANCE frames. Rejection is of this specific source, not every potential source.",
+  "decisions": [
+    {
+      "original": "PEPEWAVE",
+      "asset": "FAKEWAVE",
+      "status": "rejected",
+      "reason": "Shared vaporwave bust/Windows motifs, but different bust and composition; no specific direct reuse established.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEALIEN",
+      "asset": "FAKEALIEN",
+      "status": "rejected",
+      "reason": "Alien-autopsy artwork differs from animated portal/card montage.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "STEALPEPE",
+      "asset": "STEALBOBO",
+      "status": "accepted",
+      "reason": "Adapts floating character head above three stacked lowercase lines steal / this / pepe, replacing Pepe with Bobo and retaining the specific invitation and layout.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "PEPEDANCE",
+      "asset": "FAKEDANCE",
+      "status": "rejected",
+      "reason": "3D stage dance differs from cane-dance Fred Astaire card.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEFIFTYONE",
+      "asset": "FAKEFIFTYONE",
+      "status": "rejected",
+      "reason": "Area51 alien-abduction image versus Fahrenheit451 fireman/book image; numerical name collision.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPELEVICH",
+      "asset": "FAKELEVICH",
+      "status": "rejected",
+      "reason": "Two-square Malevich composition versus animated framed black square/Pepe. Shared external artist reference.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEMIRO",
+      "asset": "FAKEMIRO",
+      "status": "rejected",
+      "reason": "Abstract Kekistan logo versus surreal Pepe portrait.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "BEACHBOBO",
+      "status": "rejected",
+      "reason": "Reclining bear on shoreline versus surfer/sunset card.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "PEPEANON",
+      "asset": "FAKEANON",
+      "status": "rejected",
+      "reason": "Hooded seated figure versus Anonymous mask and neon background.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "YOGAPEPE",
+      "asset": "YOGABOBO",
+      "status": "rejected",
+      "reason": "Different yoga pose and bear character versus animated seated guru.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    },
+    {
+      "original": "PEPEPYRAMID",
+      "asset": "FAKEPYRAMID",
+      "status": "rejected",
+      "reason": "Plain green/red pyramid versus textured animated Pepe pyramid card.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    },
+    {
+      "original": "PEPEDRACULA",
+      "asset": "FAKEDRACULA",
+      "status": "rejected",
+      "reason": "Different Dracula portrait and composition.",
+      "name_rule": "PEPE:prefix:FAKE:prefix"
+    }
+  ],
+  "accepted": [
+    {
+      "original": "STEALPEPE",
+      "asset": "STEALBOBO",
+      "status": "accepted",
+      "reason": "Adapts floating character head above three stacked lowercase lines steal / this / pepe, replacing Pepe with Bobo and retaining the specific invitation and layout.",
+      "name_rule": "PEPE:suffix:BOBO:suffix"
+    }
+  ],
+  "reviewed": [
+    {
+      "original": "PEPEWAVE",
+      "candidates": [
+        "FAKEWAVE"
+      ]
+    },
+    {
+      "original": "PEPEALIEN",
+      "candidates": [
+        "FAKEALIEN"
+      ]
+    },
+    {
+      "original": "STEALPEPE",
+      "candidates": [
+        "STEALBOBO"
+      ]
+    },
+    {
+      "original": "PEPEDANCE",
+      "candidates": [
+        "FAKEDANCE"
+      ]
+    },
+    {
+      "original": "PEPEFIFTYONE",
+      "candidates": [
+        "FAKEFIFTYONE"
+      ]
+    },
+    {
+      "original": "PEPELEVICH",
+      "candidates": [
+        "FAKELEVICH"
+      ]
+    },
+    {
+      "original": "PEPEMIRO",
+      "candidates": [
+        "FAKEMIRO"
+      ]
+    },
+    {
+      "original": "BEACHPEPE",
+      "candidates": [
+        "BEACHBOBO"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "candidates": [
+        "FAKEANON"
+      ]
+    },
+    {
+      "original": "YOGAPEPE",
+      "candidates": [
+        "YOGABOBO"
+      ]
+    },
+    {
+      "original": "PEPEPYRAMID",
+      "candidates": [
+        "FAKEPYRAMID"
+      ]
+    },
+    {
+      "original": "PEPEDRACULA",
+      "candidates": [
+        "FAKEDRACULA"
+      ]
+    }
+  ],
+  "policy_feedback": "Initial sample 1/12 confirmed. Exact substitutions are useful leads but not automatically high-precision. Preserve visual review and mixed discovery lanes."
+}
