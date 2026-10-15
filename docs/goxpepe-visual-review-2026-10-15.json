@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-15",
+  "original": "GOXPEPE",
+  "method": "Asset-name GOX leads, followed by side-by-side CDN artwork inspection. Match distinctive card composition and euphoria wording, not just Mt. Gox subject matter.",
+  "accepted": {
+    "dank-rares": [
+      "FAKEGOX",
+      "GOXP",
+      "GOXD"
+    ],
+    "vizique-gox": [
+      "DANKGOX"
+    ],
+    "counterparty": [
+      "GOXDEVTH"
+    ]
+  },
+  "already_linked": [
+    "GOXBOBO"
+  ],
+  "excluded": [
+    "GOXCARD"
+  ],
+  "held_for_stronger_evidence": [
+    "HOTGOX",
+    "GOXPEFIED",
+    "KARPEPEGOX"
+  ],
+  "images": "https://cdn.xcp.io/img/full/<ASSET>?image=1"
+}
