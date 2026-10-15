@@ -1,0 +1,790 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPEART",
+      "candidates": [
+        "PHOCKPARK.STUARTMCCORMICK",
+        "ZEROPHOCKS.EATITBART",
+        "ZEROPHOCKS.WWGARTH",
+        "FARTFAIRIE",
+        "PIGANKSY.ART",
+        "STMARTIN",
+        "QUEENARTCOIN",
+        "QUEENARTCOIN.NAKAMOTOAPE",
+        "BOBOPARTE",
+        "CYBERPARTY",
+        "ORDINALART",
+        "ORDINART",
+        "ORDPARTY",
+        "PEPEPARTY",
+        "PEPEARTISTE",
+        "PARTYPEPE",
+        "PEPEKART",
+        "EARTHPEPE"
+      ]
+    },
+    {
+      "original": "XPEPE",
+      "candidates": [
+        "CHILLAXPEPE",
+        "PARADOXPEPE",
+        "ROBLOXPEPE",
+        "VORTEXPEPE",
+        "XALWAYSXPEPE",
+        "FTXPEPE",
+        "FLEXPEPE",
+        "KIXXPEPE",
+        "OXPEPE",
+        "OXPEPECAMO",
+        "XPEPEX",
+        "PARALLAXPEPE",
+        "FREDDYXPEPE",
+        "NOVAXPEPE.ARWYN",
+        "NOVAXPEPE.SIMON",
+        "XPEPEBEAST",
+        "XPEPEPYRO",
+        "XPEPEICEPEPE",
+        "XPEPEDOMINO"
+      ]
+    },
+    {
+      "original": "ISOPEPE",
+      "candidates": [
+        "CORNHARRISON",
+        "PRISONPEPE",
+        "PEPEPRISON",
+        "PEPESPOISON",
+        "MAISONKEKO",
+        "RATPOISON",
+        "SPEEDYUNISOX",
+        "SUISOSUI",
+        "PRISONDANK",
+        "NEXTPEPISODE",
+        "POISONPEPE",
+        "MONEYISOVER",
+        "XFCSGOODISON",
+        "JOURNEYPAINT.TENNISOFTHEDAY.00",
+        "JOURNEYPAINT.TENNISOFTHEDAY.01",
+        "WIKISOURCE"
+      ]
+    },
+    {
+      "original": "PEPEASTRO",
+      "candidates": [
+        "SASTRODANK",
+        "SASTROPOWER",
+        "PEASTRO",
+        "DANKCASTRO",
+        "DGASTRO",
+        "FAKEARWYN.ASTRONAUT",
+        "XFCPJOCASTRO",
+        "XFCPLUCASTRO",
+        "XFCPRUCASTRO"
+      ]
+    },
+    {
+      "original": "FEELSPEPE",
+      "candidates": [
+        "FEELSGOODFKS",
+        "FEELSCOLDMAN",
+        "FEELSGOLDMAN",
+        "FEELSBASQMAN",
+        "FEELSBOBOMAN",
+        "FEELSHODL",
+        "FEELSRUG",
+        "FEELSBULL",
+        "FEELSGOODGRL",
+        "FEELSMAGICAL",
+        "FEELSGM",
+        "FEELSGOODASS",
+        "FEELSSNAPMAN",
+        "FEELSFAKEMAN",
+        "RAREFEELS",
+        "DANKFEELSG",
+        "FEELSWEIRD",
+        "FEELSMKBOSHI"
+      ]
+    },
+    {
+      "original": "SMELLPEPE",
+      "candidates": [
+        "SMELLSGOOD"
+      ]
+    },
+    {
+      "original": "SANTAPEPE",
+      "candidates": [
+        "SANTANAKA",
+        "NFTSANTA",
+        "SANTABTC",
+        "BABYSANTA",
+        "SANTADANK"
+      ]
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "candidates": [
+        "MONAPLATINUM",
+        "POTUSTRUMP.WHITEHOUSEPLATINUM",
+        "POTUSTRUMP.AIRFORCEONEPLATINUM",
+        "POTUSTRUMP.LIBERTYPLATINUM",
+        "POTUSTRUMP.FIRSTLADYPLATINUM"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEART",
+      "asset": "PHOCKPARK.STUARTMCCORMICK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "ZEROPHOCKS.EATITBART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "ZEROPHOCKS.WWGARTH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "FARTFAIRIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PIGANKSY.ART",
+      "status": "accepted",
+      "attributed_original": "PIGANKSY",
+      "reason": "Same weathered wall, large multicolor graffiti on left, black/red hearts at upper right, ledge and ground details. Removes the pigeon/peacock-tail figure, inserts a crouching Pepe and adds a Bitcoin mark beneath."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "STMARTIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "QUEENARTCOIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "QUEENARTCOIN.NAKAMOTOAPE",
+      "status": "accepted",
+      "attributed_original": "QUEENARTCOIN",
+      "reason": "Colored redraw retains the custom heart-tipped crown, wide-eyed queen face, queen-of-hearts border, left-hand QA coin and right-hand Bitcoin medallion held at the chest. Crop and colors change, but the specific composition and poses match the pencil original."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "BOBOPARTE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "CYBERPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "ORDINALART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "ORDINART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "ORDPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "SMARTORDINAL",
+      "status": "ambiguous",
+      "reason": "Multiple embedded cards/characters need enlarged inset comparison to identify the exact source; no direct match to the proposed name-search original established."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPEPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPEARTISTE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PARTYPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "PEPEKART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEART",
+      "asset": "EARTHPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "CHILLAXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "PARADOXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "ROBLOXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "VORTEXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XALWAYSXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "FTXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "FLEXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "KIXXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "OXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "OXPEPECAMO",
+      "status": "accepted",
+      "attributed_original": "OXPEPE",
+      "reason": "Retains exact circular black-and-white eyes and red curved outlined smile against yellow; adds camouflage throughout the background and white OXPEPECAMO footer."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "PARALLAXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "FREDDYXPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "NOVAXPEPE.ARWYN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "NOVAXPEPE.SIMON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEBEAST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEPYRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEICEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "XPEPE",
+      "asset": "XPEPEDOMINO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "CORNHARRISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PRISONPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PEPEPRISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PEPESPOISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "ISOPEEPE",
+      "status": "ambiguous",
+      "reason": "Same isometric block-built frog face as ISOPEPE with minor framing/size differences; establish original artwork chronology and edition intent before assigning direction."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "MAISONKEKO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "RATPOISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "SPEEDYUNISOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "SUISOSUI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "PRISONDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "NEXTPEPISODE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "POISONPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "MONEYISOVER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "FAKEPEPELISA.GENESISOF",
+      "status": "ambiguous",
+      "reason": "Enlarged image depicts an artist painting a Mona Lisa-like portrait and explicitly names Fakepepelisa. Compare the inset portrait/process evidence to distinguish specific parent reuse from a new scene sharing the historical painting."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "FAUXVRAISOG",
+      "status": "ambiguous",
+      "reason": "Recursive SoG card montage; identify the actual source artwork visible inside the nested cards rather than assign from the general frame."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "XFCSGOODISON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "JOURNEYPAINT.TENNISOFTHEDAY.00",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "JOURNEYPAINT.TENNISOFTHEDAY.01",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ISOPEPE",
+      "asset": "WIKISOURCE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "SASTRODANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "SASTROPOWER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "PEASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "DANKCASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "DGASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "FAKEARWYN.ASTRONAUT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "KEKMASTROLL",
+      "status": "ambiguous",
+      "reason": "Multiple embedded cards/characters need enlarged inset comparison to identify the exact source; no direct match to the proposed name-search original established."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "XFCPJOCASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "XFCPLUCASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEASTRO",
+      "asset": "XFCPRUCASTRO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODFKS",
+      "status": "accepted",
+      "attributed_original": "FEELSGOODMAN",
+      "reason": "Exact waterfall, leaves, frog body/pose and green signed-card frame remain; substitutes head with a bearded frog and rewrites the signature as FatFurie."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSCOLDMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOLDMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBASQMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBOBOMAN",
+      "status": "accepted",
+      "attributed_original": "FEELSGOODMAN",
+      "reason": "Retains waterfall/leaf scenery and green card with large signature panel; replaces crouching frog with Bobo bear in the same pose and uses a Bobo signature."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSHODL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSRUG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSBULL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODGRL",
+      "status": "accepted",
+      "attributed_original": "FEELSGOODMAN",
+      "reason": "Mirrors the waterfall and leaf composition and crouching frog pose, adds orange hair and pink bikini, and changes the signed panel to Maddie Furie with kisses; retains the specific original card layout."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSMAGICAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSGOODASS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "COLLABORARE.FEELSCARCEMAN",
+      "status": "ambiguous",
+      "reason": "Multiple embedded cards/characters need enlarged inset comparison to identify the exact source; no direct match to the proposed name-search original established."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSSNAPMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSFAKEMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "RAREFEELS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "DANKFEELSG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSWEIRD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEELSPEPE",
+      "asset": "FEELSMKBOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SMELLPEPE",
+      "asset": "SMELLSGOOD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SMELLPEPE",
+      "asset": "FARMSMELL",
+      "status": "ambiguous",
+      "reason": "Enlarged image contains repeated frog-with-trading-card figures and a When this card is summoned rules panel; identify that card source. It does not reuse SMELLPEPE."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "SANTANAKA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "NFTSANTA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "NUSANTARAFT",
+      "status": "ambiguous",
+      "reason": "Multiple embedded cards/characters need enlarged inset comparison to identify the exact source; no direct match to the proposed name-search original established."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "SANTABTC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "BABYSANTA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "SANTAFAUX",
+      "status": "ambiguous",
+      "reason": "Faux SoG holiday card with mechanical figures; find and compare the specific SoG source characters. Santa theme alone does not establish derivation."
+    },
+    {
+      "original": "SANTAPEPE",
+      "asset": "SANTADANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "MONAPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "POTUSTRUMP.WHITEHOUSEPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "POTUSTRUMP.AIRFORCEONEPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "POTUSTRUMP.LIBERTYPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PLATINUMPEPE",
+      "asset": "POTUSTRUMP.FIRSTLADYPLATINUM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "PIGANKSY.ART",
+      "original": "PIGANKSY",
+      "collection": "piganksy",
+      "image": "https://cdn.xcp.io/img/full/PIGANKSY.ART?image=1",
+      "evidence": "Same weathered wall, large multicolor graffiti on left, black/red hearts at upper right, ledge and ground details. Removes the pigeon/peacock-tail figure, inserts a crouching Pepe and adds a Bitcoin mark beneath."
+    },
+    {
+      "asset": "QUEENARTCOIN.NAKAMOTOAPE",
+      "original": "QUEENARTCOIN",
+      "collection": "queenartcoin",
+      "image": "https://cdn.xcp.io/img/full/QUEENARTCOIN.NAKAMOTOAPE?image=1",
+      "evidence": "Colored redraw retains the custom heart-tipped crown, wide-eyed queen face, queen-of-hearts border, left-hand QA coin and right-hand Bitcoin medallion held at the chest. Crop and colors change, but the specific composition and poses match the pencil original."
+    },
+    {
+      "asset": "OXPEPECAMO",
+      "original": "OXPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/OXPEPECAMO?image=1",
+      "evidence": "Retains exact circular black-and-white eyes and red curved outlined smile against yellow; adds camouflage throughout the background and white OXPEPECAMO footer."
+    },
+    {
+      "asset": "FEELSGOODFKS",
+      "original": "FEELSGOODMAN",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/FEELSGOODFKS?image=1",
+      "evidence": "Exact waterfall, leaves, frog body/pose and green signed-card frame remain; substitutes head with a bearded frog and rewrites the signature as FatFurie."
+    },
+    {
+      "asset": "FEELSBOBOMAN",
+      "original": "FEELSGOODMAN",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/FEELSBOBOMAN?image=1",
+      "evidence": "Retains waterfall/leaf scenery and green card with large signature panel; replaces crouching frog with Bobo bear in the same pose and uses a Bobo signature."
+    },
+    {
+      "asset": "FEELSGOODGRL",
+      "original": "FEELSGOODMAN",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/FEELSGOODGRL?image=1",
+      "evidence": "Mirrors the waterfall and leaf composition and crouching frog pose, adds orange hair and pink bikini, and changes the signed panel to Maddie Furie with kisses; retains the specific original card layout."
+    }
+  ],
+  "unapplied": []
+}
