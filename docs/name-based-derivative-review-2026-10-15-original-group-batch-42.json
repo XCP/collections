@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame grouped sheets, three animation sheets and two addict enlargements viewed. Nine animations sampled at four spaced positions (all four SMOLADDICT frames); longer animations not exhaustively reviewed. Rejections concern the specified originals and inspected material.",
+  "reviewed": [
+    {
+      "original": "PEPENSTEIN",
+      "volume_usd": 11500.107127984771,
+      "buyers": 47,
+      "candidates": [
+        "DANKENSTEINS",
+        "FREAKENSTEIN",
+        "ORDEINSTEIN",
+        "PEPEINSTEIN",
+        "PHOCKS.EINSTEIN",
+        "QCEINSTEIN",
+        "QREINSTEIN",
+        "SATEINSTEIN",
+        "SHADEINSTEIN",
+        "SPOOKYPEPES.FAKENSTEIN"
+      ]
+    },
+    {
+      "original": "DOCTORPEPE",
+      "volume_usd": 5796.627858930869,
+      "buyers": 56,
+      "candidates": [
+        "CIVILLIANS.DOCTORMAN",
+        "JACKIEPEPE.DOCTORK",
+        "PEPELEMPICKA.DOCTOR",
+        "PHOCKVILLAIN.DOCTORDOOM",
+        "SPINDOCTOR"
+      ]
+    },
+    {
+      "original": "KARMACARD",
+      "volume_usd": 7966.616588544222,
+      "buyers": 31,
+      "candidates": [
+        "KARMARUN",
+        "PEPEKARMA",
+        "PGNKARMA"
+      ]
+    },
+    {
+      "original": "PEPEADDICT",
+      "volume_usd": 7099.139963950857,
+      "buyers": 50,
+      "candidates": [
+        "COCOADDICT",
+        "HEROIN.ADDICTPEPE",
+        "SMOLADDICT",
+        "TIGNADDICT"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "QCEINSTEIN",
+      "pages": 43,
+      "sampled_frames": [
+        0,
+        14,
+        28,
+        42
+      ]
+    },
+    {
+      "asset": "DANKENSTEINS",
+      "pages": 7,
+      "sampled_frames": [
+        0,
+        2,
+        4,
+        6
+      ]
+    },
+    {
+      "asset": "SPOOKYPEPES.FAKENSTEIN",
+      "pages": 42,
+      "sampled_frames": [
+        0,
+        14,
+        27,
+        41
+      ]
+    },
+    {
+      "asset": "SATEINSTEIN",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "CIVILLIANS.DOCTORMAN",
+      "pages": 22,
+      "sampled_frames": [
+        0,
+        7,
+        14,
+        21
+      ]
+    },
+    {
+      "asset": "DOCTORPEPE",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "JACKIEPEPE.DOCTORK",
+      "pages": 17,
+      "sampled_frames": [
+        0,
+        5,
+        11,
+        16
+      ]
+    },
+    {
+      "asset": "SPINDOCTOR",
+      "pages": 43,
+      "sampled_frames": [
+        0,
+        14,
+        28,
+        42
+      ]
+    },
+    {
+      "asset": "SMOLADDICT",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENSTEIN",
+      "asset": "DANKENSTEINS",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "FREAKENSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "ORDEINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "PEPEINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "PHOCKS.EINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "QCEINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "QREINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "SATEINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "SHADEINSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "PEPENSTEIN",
+      "asset": "SPOOKYPEPES.FAKENSTEIN",
+      "status": "rejected",
+      "reason": "No reuse of the monochrome closed-eyed Frankenstein bust. Other Frankenstein poses or Einstein-related name matches are insufficient.",
+      "evidence_sheet": "sheets/group-PEPENSTEIN-0.png"
+    },
+    {
+      "original": "DOCTORPEPE",
+      "asset": "CIVILLIANS.DOCTORMAN",
+      "status": "rejected",
+      "reason": "No reuse of the Dr Pepe soda-can eruption animation, kitchen and slogan. Medical, baseball, comic-character and studio images differ.",
+      "evidence_sheet": "sheets/group-DOCTORPEPE-0.png"
+    },
+    {
+      "original": "DOCTORPEPE",
+      "asset": "JACKIEPEPE.DOCTORK",
+      "status": "rejected",
+      "reason": "No reuse of the Dr Pepe soda-can eruption animation, kitchen and slogan. Medical, baseball, comic-character and studio images differ.",
+      "evidence_sheet": "sheets/group-DOCTORPEPE-0.png"
+    },
+    {
+      "original": "DOCTORPEPE",
+      "asset": "PEPELEMPICKA.DOCTOR",
+      "status": "rejected",
+      "reason": "No reuse of the Dr Pepe soda-can eruption animation, kitchen and slogan. Medical, baseball, comic-character and studio images differ.",
+      "evidence_sheet": "sheets/group-DOCTORPEPE-0.png"
+    },
+    {
+      "original": "DOCTORPEPE",
+      "asset": "PHOCKVILLAIN.DOCTORDOOM",
+      "status": "rejected",
+      "reason": "No reuse of the Dr Pepe soda-can eruption animation, kitchen and slogan. Medical, baseball, comic-character and studio images differ.",
+      "evidence_sheet": "sheets/group-DOCTORPEPE-0.png"
+    },
+    {
+      "original": "DOCTORPEPE",
+      "asset": "SPINDOCTOR",
+      "status": "rejected",
+      "reason": "No reuse of the Dr Pepe soda-can eruption animation, kitchen and slogan. Medical, baseball, comic-character and studio images differ.",
+      "evidence_sheet": "sheets/group-DOCTORPEPE-0.png"
+    },
+    {
+      "original": "KARMACARD",
+      "asset": "KARMARUN",
+      "status": "rejected",
+      "reason": "No reuse of the golden phoenix rising from flames. Game text and yin-yang subjects have distinct compositions.",
+      "evidence_sheet": "sheets/group-KARMACARD-0.png"
+    },
+    {
+      "original": "KARMACARD",
+      "asset": "PEPEKARMA",
+      "status": "rejected",
+      "reason": "No reuse of the golden phoenix rising from flames. Game text and yin-yang subjects have distinct compositions.",
+      "evidence_sheet": "sheets/group-KARMACARD-0.png"
+    },
+    {
+      "original": "KARMACARD",
+      "asset": "PGNKARMA",
+      "status": "rejected",
+      "reason": "No reuse of the golden phoenix rising from flames. Game text and yin-yang subjects have distinct compositions.",
+      "evidence_sheet": "sheets/group-KARMACARD-0.png"
+    },
+    {
+      "original": "PEPEADDICT",
+      "asset": "COCOADDICT",
+      "status": "rejected",
+      "reason": "Enlarged images depict different poses and layouts derived from the familiar addict character. COCOADDICT lacks the microphone, fan of cards and early-series/auction text distinctive to PEPEADDICT; common external character influence is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEADDICT-0.png"
+    },
+    {
+      "original": "PEPEADDICT",
+      "asset": "HEROIN.ADDICTPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the microphone-and-card-holding addict, layout or distinctive early-series/auction text. Drug-addiction themes and unrelated name fragments are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEADDICT-0.png"
+    },
+    {
+      "original": "PEPEADDICT",
+      "asset": "SMOLADDICT",
+      "status": "rejected",
+      "reason": "No reuse of the microphone-and-card-holding addict, layout or distinctive early-series/auction text. Drug-addiction themes and unrelated name fragments are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEADDICT-0.png"
+    },
+    {
+      "original": "PEPEADDICT",
+      "asset": "TIGNADDICT",
+      "status": "rejected",
+      "reason": "No reuse of the microphone-and-card-holding addict, layout or distinctive early-series/auction text. Drug-addiction themes and unrelated name fragments are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEADDICT-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 22,
+    "accepted": 0,
+    "rejected": 22
+  }
+}
