@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-15",
+  "method": "First9 groups/50pairs in batch90 screened using first-frame contact sheets. CHECKPEPE and CHECKDROP enlarged full static images. No exhaustive animation claim.",
+  "reviewed": [
+    {
+      "original": "BLOCKPEPE",
+      "candidates": [
+        "BLOCKCARD.19",
+        "BLOCKCARD.2",
+        "BLOCKCARD.21",
+        "BLOCKCARD.3",
+        "BLOCKCARD.4",
+        "BLOCKCARD.5",
+        "BLOCKCARD.6",
+        "BLOCKCARD.7",
+        "BLOCKCARD.8",
+        "BLOCKCARD.9"
+      ]
+    },
+    {
+      "original": "PEPEONECOIN",
+      "candidates": [
+        "NONECOIN"
+      ]
+    },
+    {
+      "original": "CHECKPEPE",
+      "candidates": [
+        "BUMBUMCHECK",
+        "CHECKDROP",
+        "CHECKEKERS",
+        "CHECKIT",
+        "CHECKOS",
+        "CHOCOCHECK",
+        "CIVILLIANS.CHECKOUTMAN",
+        "FLOONEYBIN.CHECKITOUT",
+        "GREENCHECK",
+        "ORDINALCHECK"
+      ]
+    },
+    {
+      "original": "BEACHPEPE",
+      "candidates": [
+        "BEACHBUNNY",
+        "BEACHDAY",
+        "CLOSEDABEACH",
+        "PEPABEACH"
+      ]
+    },
+    {
+      "original": "GENIEPEPE",
+      "candidates": [
+        "GENIEEE",
+        "GENIEINABONG",
+        "PIZZAGENIE"
+      ]
+    },
+    {
+      "original": "MEMPOOLPEPE",
+      "candidates": [
+        "COCOMEMPOOL",
+        "THEMEMPOOL"
+      ]
+    },
+    {
+      "original": "PEPEBUCKS",
+      "candidates": [
+        "BILLYBUCKS",
+        "COCOBUCKS",
+        "SCHRUTEBUCKS",
+        "SCHRUTEBUCKS.STANLEYNICKELS",
+        "YANGBUCKS"
+      ]
+    },
+    {
+      "original": "PEPEFATHER",
+      "candidates": [
+        "DROOLFATHER",
+        "FATHERKEKYOD",
+        "FATHERPEPAPE",
+        "FATHERYODFAK",
+        "FROGGFATHER",
+        "HORSEFATHER",
+        "METAFATHER",
+        "PGNGODFATHER",
+        "PPGODFATHER"
+      ]
+    },
+    {
+      "original": "BANANAPEPE",
+      "candidates": [
+        "BANANABOSHI",
+        "BANANADEAL",
+        "BANANAICO",
+        "BANANAMOTO",
+        "BANANANA",
+        "BANANASPEPE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.19",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.2",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.21",
+      "status": "media_blocked",
+      "reason": "Input Buffer is empty"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.3",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.4",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.5",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.6",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.7",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.8",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCARD.9",
+      "status": "rejected",
+      "reason": "Bitcoin symbol/block-text artwork versus conveyor-belt frog block."
+    },
+    {
+      "original": "PEPEONECOIN",
+      "asset": "NONECOIN",
+      "status": "rejected",
+      "reason": "Anime portrait versus OneCoin promotional collage."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "BUMBUMCHECK",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHECKDROP",
+      "status": "accepted",
+      "reason": "Exact scientist, microscope, window and card layout with changed captions and specimen slide."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHECKEKERS",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHECKIT",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHECKOS",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHOCOCHECK",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CIVILLIANS.CHECKOUTMAN",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "FLOONEYBIN.CHECKITOUT",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "GREENCHECK",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "ORDINALCHECK",
+      "status": "rejected",
+      "reason": "Different check logos, figures, pattern or scene; no scientist/microscope composition reuse."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "BEACHBUNNY",
+      "status": "rejected",
+      "reason": "Different beach portraits, landscape or figure; no source surfer composition."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "BEACHDAY",
+      "status": "rejected",
+      "reason": "Different beach portraits, landscape or figure; no source surfer composition."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "CLOSEDABEACH",
+      "status": "rejected",
+      "reason": "Different beach portraits, landscape or figure; no source surfer composition."
+    },
+    {
+      "original": "BEACHPEPE",
+      "asset": "PEPABEACH",
+      "status": "rejected",
+      "reason": "Different beach portraits, landscape or figure; no source surfer composition."
+    },
+    {
+      "original": "GENIEPEPE",
+      "asset": "GENIEEE",
+      "status": "rejected",
+      "reason": "Different genie poses and compositions; shared subject alone insufficient."
+    },
+    {
+      "original": "GENIEPEPE",
+      "asset": "GENIEINABONG",
+      "status": "rejected",
+      "reason": "Different genie poses and compositions; shared subject alone insufficient."
+    },
+    {
+      "original": "GENIEPEPE",
+      "asset": "PIZZAGENIE",
+      "status": "rejected",
+      "reason": "Different genie poses and compositions; shared subject alone insufficient."
+    },
+    {
+      "original": "MEMPOOLPEPE",
+      "asset": "COCOMEMPOOL",
+      "status": "rejected",
+      "reason": "Dashboard or block-grid illustration versus chart/frog/card-pile composition."
+    },
+    {
+      "original": "MEMPOOLPEPE",
+      "asset": "THEMEMPOOL",
+      "status": "rejected",
+      "reason": "Dashboard or block-grid illustration versus chart/frog/card-pile composition."
+    },
+    {
+      "original": "PEPEBUCKS",
+      "asset": "BILLYBUCKS",
+      "status": "rejected",
+      "reason": "Currency or bunker-card imagery versus coffee/Starbucks parody."
+    },
+    {
+      "original": "PEPEBUCKS",
+      "asset": "COCOBUCKS",
+      "status": "rejected",
+      "reason": "Currency or bunker-card imagery versus coffee/Starbucks parody."
+    },
+    {
+      "original": "PEPEBUCKS",
+      "asset": "SCHRUTEBUCKS",
+      "status": "rejected",
+      "reason": "Currency or bunker-card imagery versus coffee/Starbucks parody."
+    },
+    {
+      "original": "PEPEBUCKS",
+      "asset": "SCHRUTEBUCKS.STANLEYNICKELS",
+      "status": "rejected",
+      "reason": "Currency or bunker-card imagery versus coffee/Starbucks parody."
+    },
+    {
+      "original": "PEPEBUCKS",
+      "asset": "YANGBUCKS",
+      "status": "rejected",
+      "reason": "Currency or bunker-card imagery versus coffee/Starbucks parody."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "DROOLFATHER",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "FATHERKEKYOD",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "FATHERPEPAPE",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "FATHERYODFAK",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "FROGGFATHER",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "HORSEFATHER",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "METAFATHER",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "PGNGODFATHER",
+      "status": "rejected",
+      "reason": "Different portrait, deity, horse or Godfather interpretation; no distinctive source card reuse."
+    },
+    {
+      "original": "PEPEFATHER",
+      "asset": "PPGODFATHER",
+      "status": "ambiguous",
+      "reason": "Similar Godfather pose and blinds; shared external film imagery versus direct card reuse unresolved."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANABOSHI",
+      "status": "rejected",
+      "reason": "Different banana portraits, taped banana, promotional collage or shop scene; no source hand/face composition."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANADEAL",
+      "status": "rejected",
+      "reason": "Different banana portraits, taped banana, promotional collage or shop scene; no source hand/face composition."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANAICO",
+      "status": "rejected",
+      "reason": "Different banana portraits, taped banana, promotional collage or shop scene; no source hand/face composition."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANAMOTO",
+      "status": "ambiguous",
+      "reason": "Blurred preview insufficient to assess small card details; requires better media."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANANA",
+      "status": "rejected",
+      "reason": "Different banana portraits, taped banana, promotional collage or shop scene; no source hand/face composition."
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BANANASPEPE",
+      "status": "rejected",
+      "reason": "Different banana portraits, taped banana, promotional collage or shop scene; no source hand/face composition."
+    }
+  ],
+  "accepted": [
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHECKDROP",
+      "status": "accepted",
+      "reason": "Exact scientist, microscope, window and card layout with changed captions and specimen slide."
+    }
+  ]
+}
