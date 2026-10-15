@@ -52,7 +52,13 @@
       "asset": "SNIBBY.missprint"
     },
     {
-      "asset": "SNIBBY.moderncrab"
+      "asset": "SNIBBY.moderncrab",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.no.soup.for.you"

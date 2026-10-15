@@ -121,7 +121,13 @@
       ]
     },
     {
-      "asset": "GREYDJPEPE"
+      "asset": "GREYDJPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DJPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYFAKER",

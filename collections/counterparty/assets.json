@@ -15540,6 +15540,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BINARYPEPE"
         }
       ]
     },
@@ -29508,7 +29512,13 @@
       "asset": "SCARCECITY.XCP_LEGEND"
     },
     {
-      "asset": "NOFAPPEPE.crema"
+      "asset": "NOFAPPEPE.crema",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "NOFAPPEPE"
+        }
+      ]
     },
     {
       "asset": "TUBBYPEPES.829",
@@ -34385,7 +34395,13 @@
       ]
     },
     {
-      "asset": "DERPBINARY"
+      "asset": "DERPBINARY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "BINARYPEPE"
+        }
+      ]
     },
     {
       "asset": "DERPMARILYN"
@@ -35121,6 +35137,10 @@
         {
           "trait_type": "Artist",
           "value": "FOSSA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
         }
       ]
     },
