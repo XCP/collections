@@ -10,7 +10,7 @@
 | Primary memberships | 12 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/12 (8.3%)<br>Artist: 12/12 (100%)<br>Based on: 2/12 (16.7%) |
+| Traits | Art year: 1/12 (8.3%)<br>Artist: 12/12 (100%)<br>Based on: 5/12 (41.7%) |
 <!-- collection-facts:end -->
 
 All twelve illustrated descendants are included. The unillustrated parent is excluded. THEFIATMONEIIFRM and TANKMAN are oversized originals whose repaired previews expose the printed credit Art by Tizar Berandalan & Choni Bdg, 2021. Both receive separate Choni BDG credits, consistent with their already-credited print variants. Duplicate-looking images remain distinct issued assets. Card frames are not evidence of admission to any other collection.

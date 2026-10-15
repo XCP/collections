@@ -58,7 +58,13 @@
       "asset": "CUTESHAD"
     },
     {
-      "asset": "DANKSHADILAY"
+      "asset": "DANKSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
+        }
+      ]
     },
     {
       "asset": "DARKSHADILAY"
