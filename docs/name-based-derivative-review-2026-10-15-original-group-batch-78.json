@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and three animation sheets visually inspected. Four animations including TREEOFPEPE and PEPEAMANIA originals sampled at four spaced positions, not exhaustive playback.",
+  "reviewed": [
+    {
+      "original": "TREEOFPEPE",
+      "volume_usd": 19957.167824423042,
+      "buyers": 168,
+      "candidates": [
+        "THETREEOFBRB"
+      ]
+    },
+    {
+      "original": "PEPEAMANIA",
+      "volume_usd": 19740.69534123442,
+      "buyers": 12,
+      "candidates": [
+        "SCRILLAMANIA"
+      ]
+    },
+    {
+      "original": "DOLLARPEPE",
+      "volume_usd": 19730.453992611703,
+      "buyers": 224,
+      "candidates": [
+        "DAVIDDOLLAR",
+        "JOHNNYDOLLAR",
+        "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+        "JOHNNYDOLLAR.YearOfTheNFT",
+        "ORDOLLAR"
+      ]
+    },
+    {
+      "original": "SLVPEPE",
+      "volume_usd": 19684.56403170408,
+      "buyers": 88,
+      "candidates": [
+        "PEPESLVRHAND",
+        "WHAUCTIONSLV"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "TREEOFPEPE",
+      "pages": 25,
+      "sampled_frames": [
+        0,
+        8,
+        16,
+        24
+      ]
+    },
+    {
+      "asset": "PEPEAMANIA",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+      "pages": 396,
+      "sampled_frames": [
+        0,
+        132,
+        263,
+        395
+      ]
+    },
+    {
+      "asset": "JOHNNYDOLLAR",
+      "pages": 300,
+      "sampled_frames": [
+        0,
+        100,
+        199,
+        299
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "TREEOFPEPE",
+      "asset": "THETREEOFBRB",
+      "status": "rejected",
+      "reason": "Abstract pale tree/letterform on orange, not burning tree and frog faces. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-TREEOFPEPE-0.png"
+    },
+    {
+      "original": "PEPEAMANIA",
+      "asset": "SCRILLAMANIA",
+      "status": "rejected",
+      "reason": "Dense wrestling-event collage with different figures and ring artwork, not source two-frog wrestling animation. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEAMANIA-0.png"
+    },
+    {
+      "original": "DOLLARPEPE",
+      "asset": "DAVIDDOLLAR",
+      "status": "rejected",
+      "reason": "Photographic human portrait; no reuse of source glowing upright dollar shape bearing frog face and trailing small figures. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-DOLLARPEPE-0.png"
+    },
+    {
+      "original": "DOLLARPEPE",
+      "asset": "JOHNNYDOLLAR",
+      "status": "rejected",
+      "reason": "Horizontal banknote with animated human portrait; no reuse of source glowing upright dollar shape bearing frog face and trailing small figures. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-DOLLARPEPE-0.png"
+    },
+    {
+      "original": "DOLLARPEPE",
+      "asset": "JOHNNYDOLLAR.FabulousFiendsAndTheirMagnificentFlyingMachines",
+      "status": "rejected",
+      "reason": "Animated title and aircraft sequence; no reuse of source glowing upright dollar shape bearing frog face and trailing small figures. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-DOLLARPEPE-0.png"
+    },
+    {
+      "original": "DOLLARPEPE",
+      "asset": "JOHNNYDOLLAR.YearOfTheNFT",
+      "status": "rejected",
+      "reason": "2019 NFT raised-fist graphic; no reuse of source glowing upright dollar shape bearing frog face and trailing small figures. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-DOLLARPEPE-0.png"
+    },
+    {
+      "original": "DOLLARPEPE",
+      "asset": "ORDOLLAR",
+      "status": "rejected",
+      "reason": "Horizontal green novelty banknote; no reuse of source glowing upright dollar shape bearing frog face and trailing small figures. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-DOLLARPEPE-0.png"
+    },
+    {
+      "original": "SLVPEPE",
+      "asset": "PEPESLVRHAND",
+      "status": "rejected",
+      "reason": "Cyberpunk sunglasses frog with mechanical arm, not silver etched frog portrait. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-SLVPEPE-0.png"
+    },
+    {
+      "original": "SLVPEPE",
+      "asset": "WHAUCTIONSLV",
+      "status": "rejected",
+      "reason": "Colorful bow-tied frog auctioneer, not silver etched frog portrait. No distinctive source-card reuse established; shared theme/name alone insufficient.",
+      "evidence_sheet": "sheets/group-SLVPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 9,
+    "accepted": 0,
+    "rejected": 9
+  }
+}
