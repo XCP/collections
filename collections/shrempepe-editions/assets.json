@@ -11,7 +11,13 @@
       ]
     },
     {
-      "asset": "SHREMPEPE.SIGNED"
+      "asset": "SHREMPEPE.SIGNED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SHREMPEPE"
+        }
+      ]
     }
   ]
 }

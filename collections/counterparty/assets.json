@@ -9767,6 +9767,10 @@
         {
           "trait_type": "Artist",
           "value": "Majoni"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "EXCALICORN"
         }
       ]
     },
@@ -21901,6 +21905,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "CORNFETTI"
         }
       ]
     },

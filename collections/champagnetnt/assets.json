@@ -23,10 +23,22 @@
       "primary": false
     },
     {
-      "asset": "CHAMPAGNETNT.SIGNED"
+      "asset": "CHAMPAGNETNT.SIGNED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHAMPAGNETNT"
+        }
+      ]
     },
     {
-      "asset": "CHAMPAGNETNT.KANDINSKY"
+      "asset": "CHAMPAGNETNT.KANDINSKY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHAMPAGNETNT"
+        }
+      ]
     }
   ]
 }

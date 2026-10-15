@@ -23,7 +23,13 @@
       ]
     },
     {
-      "asset": "SODAPEPENSKI.SIGNED"
+      "asset": "SODAPEPENSKI.SIGNED",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SODAPEPENSKI"
+        }
+      ]
     }
   ]
 }
