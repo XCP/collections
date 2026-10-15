@@ -70,7 +70,13 @@
       ]
     },
     {
-      "asset": "HOMERPENPEN"
+      "asset": "HOMERPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "IPENGOAT",

@@ -221,7 +221,13 @@
       "asset": "COCOHAPPINES"
     },
     {
-      "asset": "COCOHOMER"
+      "asset": "COCOHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "COCOHOMERED",

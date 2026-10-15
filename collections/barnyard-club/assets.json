@@ -206,7 +206,13 @@
       "asset": "FAKECOW"
     },
     {
-      "asset": "FARMERHOMER"
+      "asset": "FARMERHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "FULLMOONCORN"

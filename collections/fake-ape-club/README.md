@@ -10,7 +10,7 @@
 | Primary memberships | 305 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 161/305 (52.8%)<br>Based on: 6/305 (2.0%) |
+| Traits | Artist: 161/305 (52.8%)<br>Based on: 7/305 (2.3%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -32,3 +32,5 @@ Reviewed individual artist credits from exact-asset original metadata:
 - FAPESTORE: **pitoopi**, from the [original metadata](https://api.npoint.io/52f1a5f0928dfe3e0c4d.json) attribution field ("PitooPi").
 
 These are published creator attributions, not cryptographic signature verification. Existing collection membership and other traits are retained.
+
+Reviewed HOMERPEPE remixes retain their specific visual derivation; see the [HOMERPEPE comparison report](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json). Shared Simpsons subject alone does not establish a link.

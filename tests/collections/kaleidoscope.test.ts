@@ -198,3 +198,16 @@ test("preserves reviewed BOBOTONE derivation without adding membership", async (
   const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
   assert.ok(!absent.some(a => a.asset === "BOBOTONE"));
 });
+
+test("retains reviewed Homer remixes only when returned by the source", async () => {
+  for (const name of ["HOMERMKBOSHI", "HOMERWOJAKB"]) {
+    const response = structuredClone(fixture);
+    response.items[0].assetName = name;
+    const assets = await load({ fetchJson: async () => response, cache: new Map() });
+    assert.equal(assets.length, response.items.length);
+    assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === "HOMERPEPE"));
+    assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Based on" && t.value === "HOMERPEPE")));
+    const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
+    assert.ok(!absent.some(a => a.asset === name));
+  }
+});

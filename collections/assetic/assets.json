@@ -28,7 +28,13 @@
       ]
     },
     {
-      "asset": "HOMERASS"
+      "asset": "HOMERASS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "LIKEASS"

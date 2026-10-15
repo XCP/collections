@@ -400,6 +400,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -7387,6 +7391,10 @@
         {
           "trait_type": "Artist",
           "value": "jahair"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -15565,6 +15573,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -15729,6 +15741,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -16046,6 +16062,10 @@
         {
           "trait_type": "Artist",
           "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -32413,7 +32433,13 @@
       ]
     },
     {
-      "asset": "BLUEHOMER"
+      "asset": "BLUEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "BLUESAUCE"
@@ -37074,7 +37100,13 @@
       "asset": "GMFREEDOM"
     },
     {
-      "asset": "GMHOMER"
+      "asset": "GMHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "GMPEPE"
@@ -37232,7 +37264,13 @@
       "asset": "GOVERNORPEPE"
     },
     {
-      "asset": "GRAPEHOMER"
+      "asset": "GRAPEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "GRATEFULKEK",
@@ -37730,7 +37768,13 @@
       ]
     },
     {
-      "asset": "HOMERCOMICS"
+      "asset": "HOMERCOMICS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERCRIMBO",
@@ -37742,7 +37786,13 @@
       ]
     },
     {
-      "asset": "HOMEROPEN"
+      "asset": "HOMEROPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERPEPA",
@@ -37763,7 +37813,13 @@
       ]
     },
     {
-      "asset": "HOMERSMOL"
+      "asset": "HOMERSMOL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERSNOW",
@@ -40438,7 +40494,13 @@
       ]
     },
     {
-      "asset": "NURSHOMER"
+      "asset": "NURSHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "NUTCORN",
@@ -40639,7 +40701,13 @@
       "asset": "ORACLETEST"
     },
     {
-      "asset": "ORANGEHOMER"
+      "asset": "ORANGEHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "ORANGERIDER",
@@ -45472,7 +45540,13 @@
       ]
     },
     {
-      "asset": "SPAMHOMER"
+      "asset": "SPAMHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "SPAMJELLO"

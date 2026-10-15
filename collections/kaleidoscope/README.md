@@ -10,7 +10,7 @@
 | Primary memberships | 1,656 |
 | Secondary or curated memberships | 454 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Art year: 38/2,110 (1.8%)<br>Artist: 771/2,110 (36.5%)<br>Based on: 51/2,110 (2.4%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
+| Traits | Art year: 38/2,110 (1.8%)<br>Artist: 771/2,110 (36.5%)<br>Based on: 53/2,110 (2.5%)<br>Kaleidoscope ID: 2,110/2,110 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from Kaleidoscope's own public search API by `adapter.ts`.
@@ -87,3 +87,5 @@ The [SALVATION issuance history](https://api.xcp.io/v2/assets/SALVATION/issuance
 LUCKYBOSHI retains a reviewed “Based on: LUCKYPEPE” relationship: its artwork reuses the lucky-cat pose, card layout, landscape and “goodluck to all who share” text. See [visual review](../../docs/name-based-derivative-review-2026-10-15.json). The enrichment only applies when the API returns the asset.
 
 Additional visually confirmed derivative links are documented in the [subasset review](../../docs/subasset-derivative-review-2026-10-15.json). Exact subasset names are leads; artwork comparison establishes the recorded links.
+
+Reviewed HOMERPEPE remixes retain their specific visual derivation; see the [HOMERPEPE comparison report](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json). Shared Simpsons subject alone does not establish a link.

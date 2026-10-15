@@ -10,7 +10,7 @@
 | Primary memberships | 73 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 5/73 (6.8%)<br>Artist: 41/73 (56.2%)<br>Based on: 2/73 (2.7%) |
+| Traits | Art year: 5/73 (6.8%)<br>Artist: 41/73 (56.2%)<br>Based on: 3/73 (4.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -35,3 +35,5 @@ These are published creator attributions, not cryptographic signature verificati
 ## Later artwork on earlier tokens
 
 The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.
+
+Reviewed HOMERPEPE remixes retain their specific visual derivation; see the [HOMERPEPE comparison report](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-19.json). Shared Simpsons subject alone does not establish a link.

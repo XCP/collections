@@ -1115,7 +1115,13 @@
       "asset": "HIPHOPAPE"
     },
     {
-      "asset": "HOMERFAKEAPE"
+      "asset": "HOMERFAKEAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOPAPE",
