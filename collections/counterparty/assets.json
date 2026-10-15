@@ -999,6 +999,10 @@
         {
           "trait_type": "Artist",
           "value": "Boost"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -1426,6 +1430,10 @@
         {
           "trait_type": "Artist",
           "value": "DOGE-STYLE"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -11589,6 +11597,10 @@
         {
           "trait_type": "Artist",
           "value": "Pepe Capitol"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -11796,6 +11808,10 @@
         {
           "trait_type": "Artist",
           "value": "Pork Chop Express"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -14663,6 +14679,10 @@
         {
           "trait_type": "Artist",
           "value": "Alth0tas"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -15912,6 +15932,10 @@
         {
           "trait_type": "Artist",
           "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -20454,6 +20478,10 @@
         {
           "trait_type": "Artist",
           "value": "Kero"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -23233,6 +23261,10 @@
         {
           "trait_type": "Artist",
           "value": "olliesblog"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -27208,6 +27240,10 @@
         {
           "trait_type": "Artist",
           "value": "ZETRA"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -43300,7 +43336,13 @@
       "asset": "RAREELVIS"
     },
     {
-      "asset": "RAREFARM"
+      "asset": "RAREFARM",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RAREFARMER"
@@ -43321,7 +43363,13 @@
       "asset": "RAREHAGI"
     },
     {
-      "asset": "RAREHAIRPEPE"
+      "asset": "RAREHAIRPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RAREHONKLER"
@@ -43405,7 +43453,13 @@
       ]
     },
     {
-      "asset": "RAREPEPEFAKE"
+      "asset": "RAREPEPEFAKE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RAREPEPEICON"
@@ -43419,6 +43473,10 @@
         {
           "trait_type": "Artist",
           "value": "subterranean"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -43426,7 +43484,13 @@
       "asset": "RAREPEPEZERO"
     },
     {
-      "asset": "RAREPEPPE"
+      "asset": "RAREPEPPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RAREPUNK"
