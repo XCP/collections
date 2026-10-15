@@ -725,7 +725,13 @@
       ]
     },
     {
-      "asset": "ORDINALPREME"
+      "asset": "ORDINALPREME",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEREME"
+        }
+      ]
     },
     {
       "asset": "ORDINALPUTIN",
