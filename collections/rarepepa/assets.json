@@ -11,7 +11,13 @@
       ]
     },
     {
-      "asset": "RAREPEPA.NFTNYC"
+      "asset": "RAREPEPA.NFTNYC",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPA"
+        }
+      ]
     }
   ]
 }
