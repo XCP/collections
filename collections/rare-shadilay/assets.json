@@ -550,7 +550,13 @@
     },
     {
       "asset": "SHADILAYCASH",
-      "asset_type": "currency"
+      "asset_type": "currency",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "SHADILAYDI"

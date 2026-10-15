@@ -6,6 +6,8 @@ const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
 // Side-by-side artwork review: docs/name-based-derivative-review-2026-10-15.json.
 const REVIEWED_BASED_ON = new Map([
+  // docs/name-based-derivative-review-2026-10-15-volume-7.json
+  ["SATOSHIWOJAK", "SATOSHICARD"],
   // docs/name-based-derivative-review-2026-10-15-subasset-components.json
   ["HONORARYNFT.JIHANWU", "JIHANWU"],
   // docs/name-based-derivative-review-2026-10-15-subasset-components.json

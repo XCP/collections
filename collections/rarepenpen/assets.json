@@ -169,7 +169,13 @@
       "asset": "PENPENCARD"
     },
     {
-      "asset": "PENPENCASH"
+      "asset": "PENPENCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PENPENCOIN",

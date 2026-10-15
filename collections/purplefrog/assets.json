@@ -85,7 +85,13 @@
       "asset": "PURPLEFROG.space"
     },
     {
-      "asset": "PURPFROGCASH"
+      "asset": "PURPFROGCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PURPLETECH"
