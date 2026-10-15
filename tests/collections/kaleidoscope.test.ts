@@ -211,3 +211,13 @@ test("retains reviewed Homer remixes only when returned by the source", async ()
     assert.ok(!absent.some(a => a.asset === name));
   }
 });
+
+test("retains Triple Buddha source without inventing membership", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "TRIPLEBUDDHA";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, response.items.length);
+  assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === "CORNBUDDHA"));
+  const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
+  assert.ok(!absent.some(a => a.asset === "TRIPLEBUDDHA"));
+});
