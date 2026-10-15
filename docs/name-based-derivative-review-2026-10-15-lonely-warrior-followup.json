@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-15",
+  "method": "Both full CDN images enlarged and viewed. Current xcpio-core asset records and complete returned issuance histories inspected. All four historical Easyasset JSON URLs fetched; each returned HTTP 200 with empty body.",
+  "decisions": [
+    {
+      "original": "LONWARRIOR",
+      "asset": "LONYWARRIOR",
+      "status": "rejected",
+      "reason": "Same underlying drawing and ornate frame with a revised plaque, issued by the same address about a day apart. LONWARRIOR remains zero supply/unlocked with NFT 1 OF 1 on its image; LONYWARRIOR subsequently issued and locked 100 units, with no 1-of-1 plaque. Evidence fits an edition/reissue or abandoned precursor rather than a separate derivative artwork. Exact issuer intent cannot be confirmed because the metadata bodies are empty. No Based on trait or membership change."
+    }
+  ],
+  "resolved_additional_leads": [
+    {
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-44.json",
+      "assets": [
+        "LONWARRIOR",
+        "LONYWARRIOR"
+      ],
+      "outcome": "Investigated and closed for derivative review: edition/reissue interpretation supported, exact issuer intent unconfirmed. Do not infer an independent derivative from identical art."
+    }
+  ],
+  "evidence": {
+    "issuances": [
+      {
+        "asset": "LONWARRIOR",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "0a54799e776add4b4482f9e7ace16ad370470d49383e7004f7a90b5f00e87d17",
+              "block_index": 735384,
+              "block_time": 1651970198,
+              "source": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/wn5yg7/LONLEYWARRIOR.json",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      },
+      {
+        "asset": "LONYWARRIOR",
+        "issuances": {
+          "result": [
+            {
+              "tx_hash": "dcfbc468881600e30f21dfd14c11e0e134e4861cfd1ff813286758f1164cb123",
+              "block_index": 735686,
+              "block_time": 1652139778,
+              "source": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/8wapkk/LONLEYWARRIOR.json",
+              "asset_events": "lock_quantity",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "2eaa7ac88ff5041282d4171ca4649ee4b109273bfc6e6453969421f4ae05dc89",
+              "block_index": 735682,
+              "block_time": 1652137202,
+              "source": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/8wapkk/LONLEYWARRIOR.json",
+              "asset_events": "change_description",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "1892c52d24539246962dec9e5a565e9109f02085fb2611e610e6fa625a100560",
+              "block_index": 735678,
+              "block_time": 1652134440,
+              "source": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "transfer": 0,
+              "quantity_normalized": "100",
+              "description": "https://easyasset.art/j/4nokrq/LONLEYWARRIOR.json",
+              "asset_events": "change_description reissuance",
+              "status": "valid"
+            },
+            {
+              "tx_hash": "bca27d6ddadc68d15fa4b23d03323371097c4cd4643e275bc73968a1bdea061c",
+              "block_index": 735534,
+              "block_time": 1652054323,
+              "source": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "transfer": 0,
+              "quantity_normalized": "0",
+              "description": "https://easyasset.art/j/120084/LONLEYWARRIOR.json",
+              "asset_events": "creation",
+              "status": "valid"
+            }
+          ],
+          "next_offset": null
+        }
+      }
+    ],
+    "current_assets_and_metadata": {
+      "out": [
+        {
+          "asset": "LONWARRIOR",
+          "info": {
+            "result": {
+              "asset": "LONWARRIOR",
+              "asset_longname": null,
+              "asset_id": null,
+              "type": "asset",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "owner": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "divisible": 0,
+              "locked": 0,
+              "description_locked": 0,
+              "supply": "0",
+              "supply_normalized": "0",
+              "description": "https://easyasset.art/j/wn5yg7/LONLEYWARRIOR.json",
+              "mime_type": "text/plain",
+              "first_issuance_block_index": 735384,
+              "last_issuance_block_index": 735384,
+              "first_issuance_block_time": 1651970198,
+              "last_issuance_block_time": 1651970198,
+              "updated_at": 0,
+              "holder_count": 0,
+              "burned": "0",
+              "burned_normalized": "0",
+              "escrow": "0",
+              "escrow_normalized": "0",
+              "circulating": "0",
+              "circulating_normalized": "0",
+              "rating": {
+                "status": "not_rated",
+                "rating": null
+              },
+              "activity": {
+                "active_months": 0,
+                "last_trade_time": null
+              },
+              "activity_outlook": null,
+              "tags": [
+                "has_media"
+              ],
+              "sales": {
+                "realized_usd": null,
+                "last_price_usd": null,
+                "last_sale_time": null
+              },
+              "market_volume": {
+                "onchain_usd": 0,
+                "exchange_usd": 0,
+                "total_usd": 0,
+                "exchange_first_day": null,
+                "exchange_last_day": null
+              },
+              "valuation": null,
+              "collection": null,
+              "collection_site": null,
+              "collection_series": null,
+              "collection_card": null,
+              "artist": null,
+              "feed_counts": {
+                "sales": 0,
+                "issuances": 1,
+                "dispensers": 0,
+                "dispenses": 0,
+                "orders": 0,
+                "sends": 0,
+                "fairmints": 0,
+                "dividends": 0,
+                "destructions": 0,
+                "pools": 0,
+                "subassets": 0,
+                "from_issuer": 78
+              },
+              "cohesion": null,
+              "conviction": null
+            }
+          },
+          "sha256": "12ba31ab11dfdc79d76a53da729c470e5998dc7fd705420c27cc21f0db9caf25"
+        },
+        {
+          "asset": "LONYWARRIOR",
+          "info": {
+            "result": {
+              "asset": "LONYWARRIOR",
+              "asset_longname": null,
+              "asset_id": null,
+              "type": "asset",
+              "issuer": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "owner": "1L825gmhMUaJSYKXa8csefgffwveCUujTJ",
+              "divisible": 0,
+              "locked": 1,
+              "description_locked": 0,
+              "supply": "100",
+              "supply_normalized": "100",
+              "description": "https://easyasset.art/j/8wapkk/LONLEYWARRIOR.json",
+              "mime_type": "text/plain",
+              "first_issuance_block_index": 735534,
+              "last_issuance_block_index": 735686,
+              "first_issuance_block_time": 1652054323,
+              "last_issuance_block_time": 1652139778,
+              "updated_at": 0,
+              "holder_count": 3,
+              "burned": "0",
+              "burned_normalized": "0",
+              "escrow": "8",
+              "escrow_normalized": "8",
+              "circulating": "100",
+              "circulating_normalized": "100",
+              "rating": {
+                "status": "rated",
+                "rating": 5.3,
+                "rank": 10340,
+                "population": 22114,
+                "calculated_at": 1792040135,
+                "model_version": 1,
+                "evidence": {
+                  "active_months": 2,
+                  "independent_buyers": 2,
+                  "realized_usd": 53.59
+                },
+                "components": {
+                  "active_months": 54.4,
+                  "buyer_breadth": 42.3,
+                  "realized_value": 24.3
+                }
+              },
+              "activity": {
+                "active_months": 2,
+                "last_trade_time": 1677057808
+              },
+              "activity_outlook": {
+                "score": 44.5,
+                "rank": 8597,
+                "population": 22434,
+                "horizon_days": 180,
+                "calculated_at": 1792033415
+              },
+              "tags": [
+                "has_media"
+              ],
+              "sales": {
+                "realized_usd": 53.592699999999994,
+                "last_price_usd": 24.18444,
+                "last_sale_time": 1677057808
+              },
+              "market_volume": {
+                "onchain_usd": 53.592699999999994,
+                "exchange_usd": 0,
+                "total_usd": 53.592699999999994,
+                "exchange_first_day": null,
+                "exchange_last_day": null
+              },
+              "valuation": null,
+              "collection": null,
+              "collection_site": null,
+              "collection_series": null,
+              "collection_card": null,
+              "artist": null,
+              "feed_counts": {
+                "sales": 2,
+                "issuances": 4,
+                "dispensers": 1,
+                "dispenses": 2,
+                "orders": 0,
+                "sends": 0,
+                "fairmints": 0,
+                "dividends": 0,
+                "destructions": 0,
+                "pools": 0,
+                "subassets": 0,
+                "from_issuer": 78
+              },
+              "cohesion": null,
+              "conviction": null
+            }
+          },
+          "sha256": "0bf476606ed962c9739000fbda71a012a42f8d3540987494ead13490d4e35fc8"
+        }
+      ],
+      "metadata": [
+        {
+          "url": "https://easyasset.art/j/wn5yg7/LONLEYWARRIOR.json",
+          "status": 200,
+          "text": ""
+        },
+        {
+          "url": "https://easyasset.art/j/8wapkk/LONLEYWARRIOR.json",
+          "status": 200,
+          "text": ""
+        },
+        {
+          "url": "https://easyasset.art/j/4nokrq/LONLEYWARRIOR.json",
+          "status": 200,
+          "text": ""
+        },
+        {
+          "url": "https://easyasset.art/j/120084/LONLEYWARRIOR.json",
+          "status": 200,
+          "text": ""
+        }
+      ]
+    },
+    "enlargements": [
+      "previews/LONWARRIOR-detail.png",
+      "previews/LONYWARRIOR-detail.png"
+    ]
+  },
+  "summary": {
+    "comparisons": 1,
+    "accepted": 0,
+    "rejected": 1
+  }
+}
