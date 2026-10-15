@@ -1,7 +1,7 @@
 {
   "summary": {
-    "pending_pairs": 14791,
-    "unique_candidates": 11134,
+    "pending_pairs": 13789,
+    "unique_candidates": 10132,
     "buckets": {
       "exact_component": {
         "pairs": 0,
@@ -16,17 +16,11 @@
         "unique_candidates": 2034
       },
       "substring": {
-        "pairs": 11413,
-        "unique_candidates": 9174
+        "pairs": 10411,
+        "unique_candidates": 8172
       }
     },
     "largest_families": [
-      {
-        "parent": "PUNKFREN",
-        "pairs": 1000,
-        "assets": 1000,
-        "originals": 1
-      },
       {
         "parent": "MSTRPEPES",
         "pairs": 319,
@@ -140,6 +134,12 @@
         "pairs": 26,
         "assets": 9,
         "originals": 10
+      },
+      {
+        "parent": "COMMONLANDS",
+        "pairs": 26,
+        "assets": 18,
+        "originals": 9
       }
     ]
   },
