@@ -205,7 +205,13 @@
       ]
     },
     {
-      "asset": "NEONSOCK"
+      "asset": "NEONSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPENEON"
+        }
+      ]
     },
     {
       "asset": "NEOSOCK"

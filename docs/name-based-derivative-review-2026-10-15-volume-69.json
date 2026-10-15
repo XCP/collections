@@ -1,0 +1,881 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPA",
+      "candidates": [
+        "PEPEPALS.PROMOONE",
+        "PEPEPALS.PROMOTWO",
+        "PEPEPALS.PROMOFOUR",
+        "PEPEPALS.PROMOTHREE",
+        "PEPEPALS.CARD",
+        "PEPEPANTHER.BLUE",
+        "PEPEPANTHER.GOLDENCHILD",
+        "PEPEPANTHER.GREEN",
+        "PEPEPANTHER.MINDYOURBUSINESS",
+        "PEPEPANTHER.NYC.BLUE",
+        "PEPEPANTHER.NYC.GOLDENC",
+        "PEPEPANTHER.NYC.GREEN",
+        "PEPEPANTHER.NYC.PINK",
+        "PEPEPANTHER.NYC.PURPLERAIN",
+        "PEPEPANTHER.NYC.SHADOW",
+        "PEPEPANTHER.PINKWINK",
+        "PEPEPANTHER.PURPLERAIN",
+        "PEPEPANTHER.SHADOW",
+        "PEPEVEST.PEPEPANTS"
+      ]
+    },
+    {
+      "original": "HANPEPE",
+      "candidates": [
+        "SHANGY",
+        "HANDYRABBIT",
+        "TOKE.MARYHANDS",
+        "MACHANCD",
+        "RIHANNAQR",
+        "DOGENHANCER",
+        "LEVIOTHAN",
+        "ENCHANTEDSHI",
+        "CARDMERCHANT",
+        "HITMONCHAN",
+        "CHANSEY",
+        "KANGASKHAN",
+        "THANKQ",
+        "PHANTOMWOJAK",
+        "THUGLIFENOTE.JIHAN",
+        "THUGLIFENOTE.JIHANREV",
+        "UGLYLINES.NATHAN",
+        "UNATHANOS"
+      ]
+    },
+    {
+      "original": "PUFFPEPE",
+      "candidates": [
+        "PUNCHPUFF.04f4a3051c0",
+        "PUNCHPUFF.04fd68011c0",
+        "JIGGLYPUFF"
+      ]
+    },
+    {
+      "original": "VAPORMAGIC",
+      "candidates": [
+        "VAPORMAGIC.SHADOW",
+        "VAPORMAGIC.SYNESTHESIA",
+        "VAPORMAGIC.TROPIC",
+        "VAPORMAGIC.WAVE"
+      ]
+    },
+    {
+      "original": "PEPEPEACE",
+      "candidates": [
+        "PEPEACELOVE",
+        "KINGOFPEACE",
+        "PEACEWORLD",
+        "PEPEACEFUL",
+        "LEFAKE.SELFPEACE",
+        "PRAYFORPEACE",
+        "KEKMASPEACE",
+        "PEPEFORPEACE",
+        "WOHPEPE.TAQISPATEENPEACE",
+        "PEACEDEALER",
+        "INNERPEPEACE",
+        "PEPEPEACEX",
+        "MAKEPEPEACE",
+        "TESTINPEACE",
+        "PEACESIIDZ",
+        "PEACEPIGEON"
+      ]
+    },
+    {
+      "original": "CANNONPEPE",
+      "candidates": [
+        "SATCANNON"
+      ]
+    },
+    {
+      "original": "PEPENEON",
+      "candidates": [
+        "NEONDANK",
+        "BALDIES.NEON",
+        "DANKBETTY.ARTISTPROOFSCENEONE",
+        "NEONRARE",
+        "ZEROONEONE",
+        "FAKENEON",
+        "NEONAPE",
+        "PEPENEONZ",
+        "NEONAPEPE",
+        "NEONECANMEME",
+        "NEONPEPES.LITEBRIGHT",
+        "NEONPEPES",
+        "PEPEGOLDNEON",
+        "NEONDROOLER",
+        "MIAWALLACE.NEON",
+        "NEONS.KEVIN",
+        "NEONSOCK"
+      ]
+    },
+    {
+      "original": "PEPETIME",
+      "candidates": [
+        "TIMEDANK",
+        "NITETIMEPEPE",
+        "DANKMEMETIME",
+        "PEPEINTIME",
+        "DANKATIME",
+        "BTCOFFEETIME",
+        "BIGTIMEWOW",
+        "HAPPYTIMES"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.PROMOONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.PROMOTWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.PROMOFOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.PROMOTHREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.CARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.BLUE",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a BLUE color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.GOLDENCHILD",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a GOLDENCHILD color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.GREEN",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a GREEN color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.MINDYOURBUSINESS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.BLUE",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.BLUE",
+      "reason": "Uses the matching BLUE panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.GOLDENC",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.GOLDENCHILD",
+      "reason": "Uses the matching GOLDENCHILD panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.GREEN",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.GREEN",
+      "reason": "Uses the matching GREEN panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.PINK",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.PINKWINK",
+      "reason": "Uses the matching PINKWINK panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.PURPLERAIN",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.PURPLERAIN",
+      "reason": "Uses the matching PURPLERAIN panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.NYC.SHADOW",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER.SHADOW",
+      "reason": "Uses the matching SHADOW panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.PINKWINK",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a PINKWINK color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.PURPLERAIN",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a PURPLERAIN color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPANTHER.SHADOW",
+      "status": "accepted",
+      "attributed_original": "PEPEPANTHER",
+      "reason": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a SHADOW color treatment and altered typography/background."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEVEST.PEPEPANTS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "SHANGY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDYRABBIT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "TOKE.MARYHANDS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MACHANCD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "RIHANNAQR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "DOGENHANCER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "LEVIOTHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "ENCHANTEDSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "CARDMERCHANT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MERCHANTCARD",
+      "status": "media_blocked",
+      "reason": "HTTP 200 / placeholder"
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HITMONCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "CHANSEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "KANGASKHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THANKQ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PHANTOMWOJAK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THUGLIFENOTE.JIHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THUGLIFENOTE.JIHANREV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "UGLYLINES.NATHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "UNATHANOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.04f4a3051c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.04fd68011c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "JIGGLYPUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.11",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.12",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.13",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.14",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.14.scaler.1",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.14.scaler.2",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.15",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.16",
+      "status": "ambiguous",
+      "reason": "Layered abstract print differs from the sunglasses-head parent; identify nearer source or sibling direction before attribution."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.SHADOW",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into dark reflective brushwork. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.SYNESTHESIA",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into speckled painterly treatment. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.TROPIC",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into bright orange/purple foliage strokes. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.WAVE",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into pink/cyan blocky abstraction. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEACELOVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "KINGOFPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEWORLD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "FAKEBASQPEPE.PEACE",
+      "status": "ambiguous",
+      "reason": "Paired physical-art photo FAKEBASQPEPE.PEACEART shows same painting; establish physical/digital publication direction."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEACEFUL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "LEFAKE.SELFPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PRAYFORPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "KEKMASPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEFORPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "WOHPEPE.TAQISPATEENPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "FAKEBASQPEPE.PEACEART",
+      "status": "ambiguous",
+      "reason": "Photo of corresponding painting; do not assume the physical artwork derives from the digital token."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEDEALER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "EASTPEACE",
+      "status": "ambiguous",
+      "reason": "Poster includes multiple cards in a lower grid; identify exact originals and multi-source context."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "INNERPEPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEPEACEX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "MAKEPEPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "TESTINPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACESIIDZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEPIGEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CANNONPEPE",
+      "asset": "SATCANNON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "ONEONEONEPEP",
+      "status": "ambiguous",
+      "reason": "Dense collage of many Pepe characters needs individual source review; not enough to assign PEPENEON."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "BALDIES.NEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "DANKBETTY.ARTISTPROOFSCENEONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONRARE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "ZEROONEONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "FAKENEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "PEPENEONZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONAPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONECANMEME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONPEPES.LITEBRIGHT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONPEPES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "PEPEGOLDNEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONDROOLER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "MIAWALLACE.NEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONS.KEVIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENEON",
+      "asset": "NEONSOCK",
+      "status": "accepted",
+      "attributed_original": "PEPENEON",
+      "reason": "Recreates the inverted neon triangle, glowing portrait, lower two-line subject/NEON title and small top slogan. Replaces Pepe with a sock puppet and One for all with One of one of one. Original nine-frame animation sampled at four positions."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "TIMELINEXCP",
+      "status": "ambiguous",
+      "reason": "Large wall of inset cards needs source-by-source comparison and multi-source handling."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "TIMEDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "NITETIMEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "DANKMEMETIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "PEPEINTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "DANKATIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "BTCOFFEETIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "BIGTIMEWOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPETIME",
+      "asset": "HAPPYTIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "PEPEPANTHER.BLUE",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.BLUE?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a BLUE color treatment and altered typography/background."
+    },
+    {
+      "asset": "PEPEPANTHER.GOLDENCHILD",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.GOLDENCHILD?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a GOLDENCHILD color treatment and altered typography/background."
+    },
+    {
+      "asset": "PEPEPANTHER.GREEN",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.GREEN?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a GREEN color treatment and altered typography/background."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.BLUE",
+      "original": "PEPEPANTHER.BLUE",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.BLUE?image=1",
+      "evidence": "Uses the matching BLUE panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.GOLDENC",
+      "original": "PEPEPANTHER.GOLDENCHILD",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.GOLDENC?image=1",
+      "evidence": "Uses the matching GOLDENCHILD panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.GREEN",
+      "original": "PEPEPANTHER.GREEN",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.GREEN?image=1",
+      "evidence": "Uses the matching GREEN panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.PINK",
+      "original": "PEPEPANTHER.PINKWINK",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.PINK?image=1",
+      "evidence": "Uses the matching PINKWINK panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.PURPLERAIN",
+      "original": "PEPEPANTHER.PURPLERAIN",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.PURPLERAIN?image=1",
+      "evidence": "Uses the matching PURPLERAIN panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.NYC.SHADOW",
+      "original": "PEPEPANTHER.SHADOW",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.NYC.SHADOW?image=1",
+      "evidence": "Uses the matching SHADOW panther card artwork as its cropped background, with the same colored spots, outlined face and tail, adding a modeled panther figure and NYC graffiti lettering. Prefer this matching color variant to the Classic root."
+    },
+    {
+      "asset": "PEPEPANTHER.PINKWINK",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.PINKWINK?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a PINKWINK color treatment and altered typography/background."
+    },
+    {
+      "asset": "PEPEPANTHER.PURPLERAIN",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.PURPLERAIN?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a PURPLERAIN color treatment and altered typography/background."
+    },
+    {
+      "asset": "PEPEPANTHER.SHADOW",
+      "original": "PEPEPANTHER",
+      "collection": "pepe-panther",
+      "image": "https://cdn.xcp.io/img/full/PEPEPANTHER.SHADOW?image=1",
+      "evidence": "Reuses the exact prowling panther outline, curled tail, tongue, claws and spot arrangement from the Classic parent, with a SHADOW color treatment and altered typography/background."
+    },
+    {
+      "asset": "VAPORMAGIC.SHADOW",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.SHADOW?image=1",
+      "evidence": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into dark reflective brushwork. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "asset": "VAPORMAGIC.SYNESTHESIA",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.SYNESTHESIA?image=1",
+      "evidence": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into speckled painterly treatment. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "asset": "VAPORMAGIC.TROPIC",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.TROPIC?image=1",
+      "evidence": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into bright orange/purple foliage strokes. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "asset": "VAPORMAGIC.WAVE",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.WAVE?image=1",
+      "evidence": "Retains the parent sunglasses-head grid and row/column placement, including cropped right column, transformed into pink/cyan blocky abstraction. Compared enlarged against parent and adjacent treatments."
+    },
+    {
+      "asset": "NEONSOCK",
+      "original": "PEPENEON",
+      "collection": "raresocks",
+      "image": "https://cdn.xcp.io/img/full/NEONSOCK?image=1",
+      "evidence": "Recreates the inverted neon triangle, glowing portrait, lower two-line subject/NEON title and small top slogan. Replaces Pepe with a sock puppet and One for all with One of one of one. Original nine-frame animation sampled at four positions."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "method": "All eight contact sheets inspected; parent panther and blue/NYC blue pair enlarged; matching color pairs compared in contact sheet; VAPORMAGIC variants enlarged against previous parent preview.",
+    "animations": {
+      "PEPEPANTHER.GREEN": 10,
+      "PEPENEON": 9
+    },
+    "notes": "Four frames sampled. MERCHANTCARD CDN returned placeholder, not reviewed artwork. Physical painting photo and collages kept as follow-ups."
+  }
+}
