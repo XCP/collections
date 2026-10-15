@@ -188,3 +188,13 @@ test("preserves reviewed TOKENCLOSED derivation without adding membership", asyn
   const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
   assert.ok(!absent.some(a => a.asset === "TOKENCLOSED"));
 });
+
+test("preserves reviewed BOBOTONE derivation without adding membership", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "BOBOTONE";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, response.items.length);
+  assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === "PEPETONE"));
+  const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
+  assert.ok(!absent.some(a => a.asset === "BOBOTONE"));
+});

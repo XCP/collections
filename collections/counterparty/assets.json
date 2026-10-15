@@ -32549,7 +32549,13 @@
       "asset": "BOBOHIDE"
     },
     {
-      "asset": "BOBOHOMER"
+      "asset": "BOBOHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "BOBOLISA",
