@@ -1,0 +1,787 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPA",
+      "candidates": [
+        "PEPABSTRACTS.BROKEN",
+        "PEPABSTRACTS.FACES",
+        "PEPABSTRACTS.FOREVERSEEKING",
+        "PEPABSTRACTS.TRUEBELIEVER",
+        "PEPAGANDA",
+        "PEPALPHAMAXI.Delta8",
+        "PEPEPALS",
+        "PEPEPALS.FOUNDERS"
+      ]
+    },
+    {
+      "original": "HANPEPE",
+      "candidates": [
+        "PHOCKPARK.MRHANKEY",
+        "PHOCKVILLAIN.THANOS",
+        "TWOSVENPHOCK.JOHNATHANBRANDIS",
+        "PHANTOMCOCO",
+        "CHANELCOCO",
+        "CHANCHU",
+        "NEWHANGOUT",
+        "ORDPHANTOM",
+        "PEPEHEXCHANT",
+        "HANSEIPEPE",
+        "HANGINPEPE",
+        "HANNIBALPEPE",
+        "JIHANWU",
+        "DIERCHANCHU",
+        "PEPEHAND",
+        "MRHANSEL",
+        "PINCHAN",
+        "THEDECKHAND",
+        "SHANDINSKY"
+      ]
+    },
+    {
+      "original": "DATPEPE",
+      "candidates": [
+        "PEPEDATA",
+        "PREPEDATOR",
+        "SOLDATPEPE"
+      ]
+    },
+    {
+      "original": "PEPECRYSTAL",
+      "candidates": [
+        "CRYSTALIBUR",
+        "CRYSTALREFIN",
+        "BITCRYSTAL",
+        "WRBPT.BERMUDACRYSTALPYRAMID"
+      ]
+    },
+    {
+      "original": "PUFFPEPE",
+      "candidates": [
+        "PUFFPUFFPEPE",
+        "CORNPUFF",
+        "PUFFMAN",
+        "BUTTERPUFF",
+        "COTTONPUFF",
+        "PUFFPUFFPASS",
+        "PUFFDRAGON",
+        "PUFFNSTUFF",
+        "PUFFYCORNOIL",
+        "PUFFCARD",
+        "PEPPLYPUFF",
+        "PUNCHPUFF.0428c4001d0",
+        "PUNCHPUFF.046f7f381c0",
+        "PUNCHPUFF.0471be001d0",
+        "PUNCHPUFF.047513381c0",
+        "PUNCHPUFF.0493e40a1c0",
+        "PUNCHPUFF.04a7bc201c0",
+        "PUNCHPUFF.04c38c001d0",
+        "PUNCHPUFF.04e5b3431c0"
+      ]
+    },
+    {
+      "original": "VAPORMAGIC",
+      "candidates": [
+        "VAPORMAGIC.EKO",
+        "VAPORMAGIC.FRACTURE",
+        "VAPORMAGIC.KADINSKY",
+        "VAPORMAGIC.KNIFE",
+        "VAPORMAGIC.METAL",
+        "VAPORMAGIC.POINTILLIST",
+        "VAPORMAGIC.print.6.cloud"
+      ]
+    },
+    {
+      "original": "PEPEPEACE",
+      "candidates": [
+        "PEACEDANKER",
+        "PEACEFULPEPE",
+        "PEPEPEACEE",
+        "PEACEDROOLER",
+        "PEPEACES",
+        "PEACEP",
+        "PEPEKEKPEACE",
+        "PEPEACEKEK",
+        "PEACE",
+        "PEACEMFER",
+        "PEACENIKPEPE",
+        "PEACEPRIZE",
+        "POWEROFPEACE",
+        "SUNSETPEACE",
+        "DROOLINPEACE",
+        "PEACEAPES",
+        "PEACEFAKER"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACT",
+      "status": "ambiguous",
+      "reason": "Checkerboard face shared with triangle/oval versions; establish original variant direction rather than attribute from the names."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTH",
+      "status": "ambiguous",
+      "reason": "Checkerboard triangular-frame variant needs chronology/context against PEPABSTRACT and PEPABSTRACTT."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTT",
+      "status": "ambiguous",
+      "reason": "Checkerboard oval-frame variant needs chronology/context against PEPABSTRACT and PEPABSTRACTH."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.BROKEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FACES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FOREVERSEEKING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.TRUEBELIEVER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANDA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANDA.13",
+      "status": "ambiguous",
+      "reason": "Visual treatment uses a different head from the Garfield-like PEPAGANDA parent. Need closer source comparison within the numbered family rather than automatic parent attribution."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANDA.16",
+      "status": "ambiguous",
+      "reason": "Visual treatment uses a different head from the Garfield-like PEPAGANDA parent. Need closer source comparison within the numbered family rather than automatic parent attribution."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANDA.17",
+      "status": "ambiguous",
+      "reason": "Visual treatment uses a different head from the Garfield-like PEPAGANDA parent. Need closer source comparison within the numbered family rather than automatic parent attribution."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANDA.19",
+      "status": "ambiguous",
+      "reason": "Visual treatment uses a different head from the Garfield-like PEPAGANDA parent. Need closer source comparison within the numbered family rather than automatic parent attribution."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPANDEMIC.LAFAKA",
+      "status": "ambiguous",
+      "reason": "Similar shirt/portrait and shop-name reference but new setting and face covering; confirm specific parent reuse versus companion scene."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPARARE.PURP",
+      "status": "ambiguous",
+      "reason": "CDN image is only 48x48; resembles purple treatment of PEPARARE but details insufficient to confirm exact source."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAVILLE.PEPSTIVAL",
+      "status": "ambiguous",
+      "reason": "Festival poster has small card/character imagery requiring exact source identification."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAVILLE.PEPESTIVAL",
+      "status": "ambiguous",
+      "reason": "Dense black/white crypto collage requires individual inset-source identification."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPALPHAMAXI.Delta8",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPEPALS.FOUNDERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PHOCKPARK.MRHANKEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PHOCKVILLAIN.THANOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "TWOSVENPHOCK.JOHNATHANBRANDIS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PHANTOMCOCO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "CHANELCOCO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "CHANCHU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "NEWHANGOUT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "ORDPHANTOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPEHEXCHANT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANSEIPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANGINPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANNIBALPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "JIHANWU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "DIERCHANCHU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPEHAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MRHANSEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PINCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THEDECKHAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "SHANDINSKY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DATPEPE",
+      "asset": "PEPEDATA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DATPEPE",
+      "asset": "PREPEDATOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DATPEPE",
+      "asset": "SOLDATPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECRYSTAL",
+      "asset": "CRYSTALIBUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECRYSTAL",
+      "asset": "CRYSTALREFIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECRYSTAL",
+      "asset": "BITCRYSTAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECRYSTAL",
+      "asset": "WRBPT.BERMUDACRYSTALPYRAMID",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFPUFFPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "CORNPUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "BUTTERPUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "COTTONPUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFPUFFPASS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFDRAGON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFNSTUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFYCORNOIL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUFFCARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PEPPLYPUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.0428c4001d0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.046f7f381c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.0471be001d0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.047513381c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.0493e40a1c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.04a7bc201c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.04c38c001d0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PUFFPEPE",
+      "asset": "PUNCHPUFF.04e5b3431c0",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.EKO",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into blue architectural brushwork. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.FRACTURE",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into crystalline fractures and illuminated grids. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.KADINSKY",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into red/orange and black painted strokes. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.KNIFE",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into angular palette-knife planes. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.METAL",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into blue and gold metallic relief. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.POINTILLIST",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC",
+      "reason": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into small stippled strokes. Enlarged source and variant compared."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.1",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.2",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.3",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.4",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.5",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.6",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.6.cloud",
+      "status": "accepted",
+      "attributed_original": "VAPORMAGIC.print.6",
+      "reason": "Reworks the closer print.6 composition: same three-column grid of forward-facing wide-eyed Pepe heads and overlapping color blocks; adds nested face spirals inside the eyes and a pale cloudy color treatment. This is not the sunglasses-head parent composition."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.7",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.8",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.9",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.9.1st",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.9.preface",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "VAPORMAGIC",
+      "asset": "VAPORMAGIC.print.10",
+      "status": "ambiguous",
+      "reason": "Layered tiled composition differs from the sunglasses-head parent; identify the nearer underlying image or sibling variant before assigning Based on. Numbered subasset membership alone is insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEDANKER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEFULPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEPEACEE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEDROOLER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEACES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEKEKPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEPEACEKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEMFER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACENIKPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEPRIZE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "POWEROFPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "SUNSETPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "DROOLINPEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEAPES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEACE",
+      "asset": "PEACEFAKER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "VAPORMAGIC.EKO",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.EKO?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into blue architectural brushwork. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.FRACTURE",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.FRACTURE?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into crystalline fractures and illuminated grids. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.KADINSKY",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.KADINSKY?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into red/orange and black painted strokes. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.KNIFE",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.KNIFE?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into angular palette-knife planes. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.METAL",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.METAL?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into blue and gold metallic relief. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.POINTILLIST",
+      "original": "VAPORMAGIC",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.POINTILLIST?image=1",
+      "evidence": "Retains the parent repeated sunglasses-wearing Pepe heads in the same three-full-column grid, cropped fourth column and row positions, transformed into small stippled strokes. Enlarged source and variant compared."
+    },
+    {
+      "asset": "VAPORMAGIC.print.6.cloud",
+      "original": "VAPORMAGIC.print.6",
+      "collection": "vapor-magic",
+      "image": "https://cdn.xcp.io/img/full/VAPORMAGIC.print.6.cloud?image=1",
+      "evidence": "Reworks the closer print.6 composition: same three-column grid of forward-facing wide-eyed Pepe heads and overlapping color blocks; adds nested face spirals inside the eyes and a pale cloudy color treatment. This is not the sunglasses-head parent composition."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "method": "All seven contact sheets inspected; six stylized VAPORMAGIC variants and parent enlarged, print.6 compared directly to print.6.cloud; targeted related images fetched.",
+    "animations": {
+      "PUFFYCORNOIL": 83,
+      "PEPPLYPUFF": 51
+    },
+    "notes": "Four sampled frames resolve blank introductions: PUFFYCORNOIL is a corn-oil bottle advertisement, PEPPLYPUFF is a Pokemon-like singing face card. Neither establishes PUFFPEPE reuse. PEPARARE.PURP only 48x48."
+  }
+}
