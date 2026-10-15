@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-15",
+  "method": "Four full first-frame group sheets viewed and three animation sheets viewed; seven animations sampled four spaced frames(all distinct frames when <=4). Not exhaustive animation review. Exact-source comparisons only.",
+  "reviewed": [
+    {
+      "original": "CORNBASQUIAT",
+      "candidates": [
+        "BASQUIATFAKE",
+        "BASQUIATMFER",
+        "PEPEBASQUIAT",
+        "QRBASQUIAT",
+        "RAREBASQUIAT",
+        "TWOSVENPHOCK.JEANMICHELBASQUIAT"
+      ]
+    },
+    {
+      "original": "PEPEGUITAR",
+      "candidates": [
+        "CAMPGUITAR",
+        "GUITARDROOL",
+        "GUITARPEPE",
+        "LORETTALYNN.GUITAR",
+        "OLDGUITARIST",
+        "PEPELEMPICKA.GUITAR",
+        "QRGUITAR"
+      ]
+    },
+    {
+      "original": "PEPEMIRROR",
+      "candidates": [
+        "MADMIRROR",
+        "BLACKMIRROR",
+        "CORNMIRROR",
+        "FALSEPMIRROR",
+        "KEKMIRROR",
+        "MIRROREDAPE",
+        "MIRRORPEPE",
+        "THEENIGMA.MIRRORCARD",
+        "XCPMIRROR"
+      ]
+    },
+    {
+      "original": "PEPESUMO",
+      "candidates": [
+        "DASUMO",
+        "SUMO",
+        "SUMO.BABY",
+        "SUMO.BIGINJAPAN",
+        "SUMO.FACEOFF",
+        "SUMOCOCO",
+        "SUMOPEPE",
+        "UMEKOSUMO"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPELEMPICKA.GUITAR",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "CAMPGUITAR",
+      "pages": 175,
+      "sampled_frames": [
+        0,
+        58,
+        116,
+        174
+      ]
+    },
+    {
+      "asset": "QRGUITAR",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "MIRROREDAPE",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "SUMO.BIGINJAPAN",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "SUMO",
+      "pages": 33,
+      "sampled_frames": [
+        0,
+        11,
+        21,
+        32
+      ]
+    },
+    {
+      "asset": "UMEKOSUMO",
+      "pages": 220,
+      "sampled_frames": [
+        0,
+        73,
+        146,
+        219
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "BASQUIATFAKE",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "BASQUIATMFER",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "PEPEBASQUIAT",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "QRBASQUIAT",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "RAREBASQUIAT",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "CORNBASQUIAT",
+      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT",
+      "status": "rejected",
+      "reason": "Shared Basquiat influence or portrait subject, but no reuse of the pale corn figure, crown and scattered symbols in CORNBASQUIAT.",
+      "evidence_sheet": "sheets/group-CORNBASQUIAT-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "CAMPGUITAR",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "GUITARDROOL",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "GUITARPEPE",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "LORETTALYNN.GUITAR",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "OLDGUITARIST",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "PEPELEMPICKA.GUITAR",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEGUITAR",
+      "asset": "QRGUITAR",
+      "status": "rejected",
+      "reason": "Different musicians and compositions; no reuse of the shadowed hat-wearing guitarist, floating notes or music-player card presentation.",
+      "evidence_sheet": "sheets/group-PEPEGUITAR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "MADMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "BLACKMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "CORNMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "FALSEPMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "KEKMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "MIRROREDAPE",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "MIRRORPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "THEENIGMA.MIRRORCARD",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPEMIRROR",
+      "asset": "XCPMIRROR",
+      "status": "rejected",
+      "reason": "No reuse of the heart-shaped compact mirror, reflected makeup face and lipstick-hand scene. Shared mirror subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEMIRROR-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "DASUMO",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMO",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMO.BABY",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMO.BIGINJAPAN",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMO.FACEOFF",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMOCOCO",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "SUMOPEPE",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    },
+    {
+      "original": "PEPESUMO",
+      "asset": "UMEKOSUMO",
+      "status": "rejected",
+      "reason": "Different sumo figures, poses and scenes; no reuse of the standing/squatting Pepe wrestler and outdoor arena composition.",
+      "evidence_sheet": "sheets/group-PEPESUMO-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 30,
+    "rejected": 30,
+    "accepted": 0
+  }
+}
