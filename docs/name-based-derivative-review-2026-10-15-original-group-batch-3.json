@@ -1,0 +1,794 @@
+{
+  "date": "2026-10-15",
+  "method": "Four complete first-frame sheets viewed. Five animation sheets viewed: four evenly spaced frames for 17 animations, all distinct frames when <=4. Exact-source screening only; not exhaustive animation review.",
+  "reviewed": [
+    {
+      "original": "WAYPEPE",
+      "candidates": [
+        "BBNORWAY",
+        "BEGUSIDEWAY",
+        "DATAWAY",
+        "DWAYNEKEK",
+        "FAYC.GATEWAY",
+        "FEELINAWAY",
+        "FOXRACEWAY",
+        "GIVEAWAYPEPE",
+        "HIPHOPGAME.MOZAYCALLOWAY",
+        "JOSHUAJOSHUA.RUNAWAY",
+        "MIDWAY",
+        "MYWAYPEPE",
+        "NOOTHERWAY",
+        "NOWAYHOME",
+        "ONEWAYBOBO",
+        "PENPENNOWAY",
+        "PEPEAWAY",
+        "PEPEPIXELAND.RAILWAY",
+        "PEPERAILWAYS",
+        "PEPEWAY",
+        "REAGANOMICS.HALLWAYKIDS",
+        "SCAMWAY",
+        "SHOWTHEWAY",
+        "SPAMAWAY",
+        "THEGIVEAWAYS",
+        "UNATISTHEWAY",
+        "WAYNEMANOR",
+        "WAYOFFEELS",
+        "WAYOFTHEDANK",
+        "WAYOFTHEFEEL",
+        "WAYOFTHEPEPE",
+        "WOJAKWAYBETS",
+        "WOWJAKWAY",
+        "XALWAYSXPEPE",
+        "ZEROPHOCKS.WWWAYNE"
+      ]
+    },
+    {
+      "original": "PEPEWAVE",
+      "candidates": [
+        "BIGREDWAVE",
+        "BIGWAVEPEPA",
+        "BIGWAVEPEPE",
+        "BLUEBEAR.BLUEWAVE",
+        "BOBBYWAVE",
+        "CRYPTOWAVE",
+        "DERPWAVE",
+        "EYEWAVE",
+        "GREYWAVE",
+        "HEATWAVE",
+        "JOURNEYPAINT.MICROWAVEPOTATOEZ",
+        "JOURNEYPAINT.SUCCESSFULWAVES11",
+        "JOURNEYPAINT.SUCCESSFULWAVES177",
+        "JOURNEYPAINT.SUCCESSFULWAVES18",
+        "JOURNEYPAINT.SUCCESSFULWAVES181",
+        "JOURNEYPAINT.SUCCESSFULWAVES195",
+        "JOURNEYPAINT.SUCCESSFULWAVES230",
+        "JOURNEYPAINT.SUCCESSFULWAVES29",
+        "JOURNEYPAINT.SUCCESSFULWAVES31",
+        "JOURNEYPAINT.SUCCESSFULWAVES32",
+        "JOURNEYPAINT.SUCCESSFULWAVES34",
+        "JOURNEYPAINT.SUCCESSFULWAVES48",
+        "JOURNEYPAINT.SUCCESSFULWAVES51",
+        "JOURNEYPAINT.SUCCESSFULWAVES6",
+        "JOURNEYPAINT.SUCCESSFULWAVES8",
+        "MIKAPOSTERS.BOSHIWAVE",
+        "NPCS.GROYPERWAVE",
+        "PEPWAVE",
+        "PEPWAVE.SPEED",
+        "PERTAWAVE",
+        "POPCORNWAVE",
+        "PURPLEWAVE",
+        "SEASTAMP.WAVESTAMP",
+        "SURFWAVES",
+        "TRASHWAVE",
+        "VIVALAWAVE",
+        "WAVERIDER",
+        "WAVESCARD"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DWAYNEKEK",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "BEGUSIDEWAY",
+      "pages": 186,
+      "sampled_frames": [
+        0,
+        62,
+        123,
+        185
+      ]
+    },
+    {
+      "asset": "DATAWAY",
+      "pages": 397,
+      "sampled_frames": [
+        0,
+        132,
+        264,
+        396
+      ]
+    },
+    {
+      "asset": "GIVEAWAYPEPE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SHOWTHEWAY",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "WAYOFFEELS",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "WAYOFTHEPEPE",
+      "pages": 41,
+      "sampled_frames": [
+        0,
+        13,
+        27,
+        40
+      ]
+    },
+    {
+      "asset": "WAYOFTHEFEEL",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "SPAMAWAY",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "WOWJAKWAY",
+      "pages": 53,
+      "sampled_frames": [
+        0,
+        17,
+        35,
+        52
+      ]
+    },
+    {
+      "asset": "ZEROPHOCKS.WWWAYNE",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "PEPEWAVE",
+      "pages": 64,
+      "sampled_frames": [
+        0,
+        21,
+        42,
+        63
+      ]
+    },
+    {
+      "asset": "DERPWAVE",
+      "pages": 43,
+      "sampled_frames": [
+        0,
+        14,
+        28,
+        42
+      ]
+    },
+    {
+      "asset": "GREYWAVE",
+      "pages": 74,
+      "sampled_frames": [
+        0,
+        24,
+        49,
+        73
+      ]
+    },
+    {
+      "asset": "PEPWAVE.SPEED",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "PEPWAVE",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "TRASHWAVE",
+      "pages": 40,
+      "sampled_frames": [
+        0,
+        13,
+        26,
+        39
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "WAYPEPE",
+      "asset": "BBNORWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "BEGUSIDEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "DATAWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "DWAYNEKEK",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "FAYC.GATEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "FEELINAWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "FOXRACEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "GIVEAWAYPEPE",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "HIPHOPGAME.MOZAYCALLOWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "JOSHUAJOSHUA.RUNAWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "MIDWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "MYWAYPEPE",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "NOOTHERWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "NOWAYHOME",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "ONEWAYBOBO",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "PENPENNOWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "PEPEAWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "PEPEPIXELAND.RAILWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "PEPERAILWAYS",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-0.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "PEPEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "REAGANOMICS.HALLWAYKIDS",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "SCAMWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "SHOWTHEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "SPAMAWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "THEGIVEAWAYS",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "UNATISTHEWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WAYNEMANOR",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WAYOFFEELS",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WAYOFTHEDANK",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WAYOFTHEFEEL",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WAYOFTHEPEPE",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WOJAKWAYBETS",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "WOWJAKWAY",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "XALWAYSXPEPE",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "WAYPEPE",
+      "asset": "ZEROPHOCKS.WWWAYNE",
+      "status": "rejected",
+      "reason": "Does not reuse the WEB PEPE portrait in a red/black Nike top, green head and raised hand. Names match WAY within unrelated words; scenes, portraits and sampled animations differ.",
+      "evidence_sheet": "sheets/group-WAYPEPE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "BIGREDWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "BIGWAVEPEPA",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "BIGWAVEPEPE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "BLUEBEAR.BLUEWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "BOBBYWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "CRYPTOWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "DERPWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "EYEWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "GREYWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "HEATWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.MICROWAVEPOTATOEZ",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES11",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES177",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES18",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES181",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES195",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES230",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES29",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES31",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-0.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES32",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES34",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES48",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES51",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES6",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "JOURNEYPAINT.SUCCESSFULWAVES8",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "MIKAPOSTERS.BOSHIWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "NPCS.GROYPERWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "PEPWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "PEPWAVE.SPEED",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "PERTAWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "POPCORNWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "PURPLEWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "SEASTAMP.WAVESTAMP",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "SURFWAVES",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "TRASHWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "VIVALAWAVE",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "WAVERIDER",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    },
+    {
+      "original": "PEPEWAVE",
+      "asset": "WAVESCARD",
+      "status": "rejected",
+      "reason": "Does not reuse the pink vaporwave composition with classical-bust Pepe, tigers, Windows computer and red cup. Ocean waves, abstract patterns, pixel pyramids and unrelated portraits are not distinctive reuse.",
+      "evidence_sheet": "sheets/group-PEPEWAVE-19.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "assets": [
+        "WAYOFFEELS",
+        "WAYOFTHEFEEL"
+      ],
+      "status": "unresolved",
+      "reason": "Matching hooded lightsaber Wojak artwork, title and 8-frame animation samples. Resolve edition/alias relationship and direction separately; neither matches WAYPEPE."
+    },
+    {
+      "assets": [
+        "PEPWAVE",
+        "PEPWAVE.SPEED"
+      ],
+      "status": "unresolved",
+      "reason": "Matching pixel pyramid artwork with different animation speeds/frame counts; possible parent variant, not PEPEWAVE."
+    }
+  ],
+  "summary": {
+    "comparisons": 73,
+    "rejected": 73,
+    "accepted": 0
+  }
+}
