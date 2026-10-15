@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-15",
+  "method": "Four original-to-many first-frame sheets and four animation sheets inspected. Six animations including two originals sampled at four spaced positions; both DAVINCISHAD frames inspected. Longer animations not exhaustively reviewed. Comparisons are source-specific, not claims that candidates lack other originals.",
+  "reviewed": [
+    {
+      "original": "RARELEAGUE",
+      "volume_usd": 14636.73239511885,
+      "buyers": 32,
+      "candidates": [
+        "LEAGUEPEPE",
+        "LITTLELEAGUE",
+        "SUPERLEAGUE"
+      ]
+    },
+    {
+      "original": "OBEYPEPE",
+      "volume_usd": 13356.078419623409,
+      "buyers": 38,
+      "candidates": [
+        "OBEYREUP",
+        "PHOCKANONZ.OBEY"
+      ]
+    },
+    {
+      "original": "MASTERSPEPE",
+      "volume_usd": 6352.53199304865,
+      "buyers": 8,
+      "candidates": [
+        "DANKMASTERS",
+        "KIDPHOCKS.GRANDMASTERSMURF"
+      ]
+    },
+    {
+      "original": "PEPEVINCI",
+      "volume_usd": 4184.750408783234,
+      "buyers": 39,
+      "candidates": [
+        "DANKDAVINCI",
+        "DAVINCI",
+        "DAVINCICODE",
+        "DAVINCIDARK",
+        "DAVINCIDOGE",
+        "DAVINCIPGN",
+        "DAVINCISHAD",
+        "PEPEDEVINCI",
+        "THEDAVINCI",
+        "VINCIDANK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RARELEAGUE",
+      "pages": 41,
+      "sampled_frames": [
+        0,
+        13,
+        27,
+        40
+      ]
+    },
+    {
+      "asset": "SUPERLEAGUE",
+      "pages": 168,
+      "sampled_frames": [
+        0,
+        56,
+        111,
+        167
+      ]
+    },
+    {
+      "asset": "OBEYPEPE",
+      "pages": 144,
+      "sampled_frames": [
+        0,
+        48,
+        95,
+        143
+      ]
+    },
+    {
+      "asset": "OBEYREUP",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "KIDPHOCKS.GRANDMASTERSMURF",
+      "pages": 173,
+      "sampled_frames": [
+        0,
+        57,
+        115,
+        172
+      ]
+    },
+    {
+      "asset": "DAVINCISHAD",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RARELEAGUE",
+      "asset": "LEAGUEPEPE",
+      "status": "rejected",
+      "reason": "Premier League-style emblem and typography, not Rocket League gameplay. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-RARELEAGUE-0.png"
+    },
+    {
+      "original": "RARELEAGUE",
+      "asset": "LITTLELEAGUE",
+      "status": "rejected",
+      "reason": "Pixel baseball field, not source gameplay. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-RARELEAGUE-0.png"
+    },
+    {
+      "original": "RARELEAGUE",
+      "asset": "SUPERLEAGUE",
+      "status": "rejected",
+      "reason": "Money-printer football satire in card, not source gameplay. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-RARELEAGUE-0.png"
+    },
+    {
+      "original": "OBEYPEPE",
+      "asset": "OBEYREUP",
+      "status": "rejected",
+      "reason": "Stylized face and REUP poster graphic; shared external Obey motif, not source They Live footage/card text. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-OBEYPEPE-0.png"
+    },
+    {
+      "original": "OBEYPEPE",
+      "asset": "PHOCKANONZ.OBEY",
+      "status": "rejected",
+      "reason": "Split Guy Fawkes/Obey face on pixel figure; external iconography without source animation or caption reuse. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-OBEYPEPE-0.png"
+    },
+    {
+      "original": "MASTERSPEPE",
+      "asset": "DANKMASTERS",
+      "status": "rejected",
+      "reason": "Graduation cap frog and school building; not Masters of Universe-style packaged action figure. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-MASTERSPEPE-0.png"
+    },
+    {
+      "original": "MASTERSPEPE",
+      "asset": "KIDPHOCKS.GRANDMASTERSMURF",
+      "status": "rejected",
+      "reason": "Animated pixel Smurf portrait, no source figure packaging. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-MASTERSPEPE-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DANKDAVINCI",
+      "status": "rejected",
+      "reason": "Pepe-headed sculpture and standing person photo, no source portrait/diagram composition. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCI",
+      "status": "rejected",
+      "reason": "Wooden flying machine model. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCICODE",
+      "status": "rejected",
+      "reason": "QR code with sepia drawing. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCIDARK",
+      "status": "rejected",
+      "reason": "Small standing frog on black stat card. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCIDOGE",
+      "status": "rejected",
+      "reason": "Vitruvian Doge parody alone. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCIPGN",
+      "status": "rejected",
+      "reason": "Vitruvian pigeon parody alone. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "DAVINCISHAD",
+      "status": "rejected",
+      "reason": "Two-frame Vitruvian Shadilay figure. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "PEPEDEVINCI",
+      "status": "rejected",
+      "reason": "Line-drawn Vitruvian frog inside skewed technical frame. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "THEDAVINCI",
+      "status": "rejected",
+      "reason": "Painter frog at easel in gallery. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    },
+    {
+      "original": "PEPEVINCI",
+      "asset": "VINCIDANK",
+      "status": "rejected",
+      "reason": "Vitruvian frog and Book of Kek tarot-style caption. No specific source artwork reuse in inspected imagery. Shared artist influence, subject, franchise or name is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEVINCI-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 17,
+    "accepted": 0,
+    "rejected": 17
+  }
+}
