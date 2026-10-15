@@ -339,7 +339,13 @@
       ]
     },
     {
-      "asset": "ONLYONEGREY"
+      "asset": "ONLYONEGREY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ONLYONEPEPE"
+        }
+      ]
     },
     {
       "asset": "ORIGAE",
