@@ -23,3 +23,9 @@ Complete namespace and artwork reviewed 2026-10-11. Specific Rare Pepe or Bitcor
 ## Project year
 
 **2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [HYIPPEPE.DIAMONDHANDS](https://api.xcp.io/v2/assets/A10553228605055872424/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Relationship review — 2026-10-14
+
+**Subassets** — The parent remains a Rare Pepe; HYIPPEPE.DIAMONDHANDS is a distinct child work. The exact on-chain longname and same issuer establish the namespace relationship, not a separately published collection. Sources: https://api.xcp.io/v2/assets/HYIPPEPE and https://api.xcp.io/v2/assets/A10553228605055872424 . Artwork reviewed side by side.
+
+This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.

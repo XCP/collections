@@ -279,7 +279,7 @@ export function normalizeCollectionMeta(value, slug) {
     normalized.founded_date = date;
   }
   if (meta.editorial_type !== undefined) {
-    if (!["set", "series", "curation"].includes(meta.editorial_type)) fail(slug + ".editorial_type", "must be set, series, or curation");
+    if (!["set", "series", "curation", "subassets", "editions", "variations"].includes(meta.editorial_type)) fail(slug + ".editorial_type", "must be set, series, curation, subassets, editions, or variations");
     if (meta.variation_of !== undefined) fail(slug + ".editorial_type", "variations already have their own classification");
     normalized.editorial_type = meta.editorial_type;
   }

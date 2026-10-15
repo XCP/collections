@@ -75,9 +75,12 @@
       "enum": [
         "set",
         "series",
-        "curation"
+        "curation",
+        "subassets",
+        "editions",
+        "variations"
       ],
-      "description": "Optional public editorial classification, independent of kind and primary membership. Set: works intended together. Series: named artistic sequence/body. Curation: retrospective selection. Document evidence in README. Omit for ordinary collections; variation_of already identifies variations."
+      "description": "Explicit editorial classification supported in README: set, series, curation, namespace-only subassets, editions of one work, or visual variations of one composition. Never infer from asset count or subasset membership. Established projects using a subasset namespace remain collections. Omit for ordinary collections. Do not combine with variation_of."
     }
   }
 }
