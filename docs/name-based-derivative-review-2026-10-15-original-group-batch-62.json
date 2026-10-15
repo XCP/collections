@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-15",
+  "method": "Three original-to-many first-frame sheets and three animation sheets inspected. Six animations including RANDOMPEPE original sampled at four spaced positions; all four ILOVEYOUBB frames inspected. Longer animations not exhaustively reviewed. Source-specific comparisons only.",
+  "reviewed": [
+    {
+      "original": "RANDOMPEPE",
+      "volume_usd": 16047.448503257132,
+      "buyers": 16,
+      "candidates": [
+        "PEPERANDOM",
+        "RANDOMSTRING"
+      ]
+    },
+    {
+      "original": "ILOVEPEPE",
+      "volume_usd": 7776.90697527,
+      "buyers": 14,
+      "candidates": [
+        "ILOVE",
+        "ILOVEYOUBB",
+        "NFTILOVEYOU",
+        "PEPEILOVEU.NAUGHTYPEPA",
+        "PEPEILOVEU.NAUGHTYPEPE",
+        "XILOVESKEK"
+      ]
+    },
+    {
+      "original": "PEPEPEEPS",
+      "volume_usd": 5695.891918202674,
+      "buyers": 21,
+      "candidates": [
+        "MISSPEEPS.PROMO-VIDI_01",
+        "MISSPEEPS.PROMO-VIDI_02",
+        "MISSPEEPS.The_Ultimate_Sub",
+        "OOHLALAPEEPS",
+        "PEEPSPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RANDOMPEPE",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "PEPERANDOM",
+      "pages": 14,
+      "sampled_frames": [
+        0,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "asset": "ILOVEYOUBB",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "NFTILOVEYOU",
+      "pages": 192,
+      "sampled_frames": [
+        0,
+        64,
+        127,
+        191
+      ]
+    },
+    {
+      "asset": "OOHLALAPEEPS",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "MISSPEEPS.The_Ultimate_Sub",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RANDOMPEPE",
+      "asset": "PEPERANDOM",
+      "status": "rejected",
+      "reason": "Animated red/green/white random-pixel mosaic. No distinctive reuse of source distorting pixel frog face against black/white vortex with blue foreground shape in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-RANDOMPEPE-0.png"
+    },
+    {
+      "original": "RANDOMPEPE",
+      "asset": "RANDOMSTRING",
+      "status": "rejected",
+      "reason": "Multicolor angular line pattern. No distinctive reuse of source distorting pixel frog face against black/white vortex with blue foreground shape in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-RANDOMPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "ILOVE",
+      "status": "rejected",
+      "reason": "Red NILIcoins emblem with hearts. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "ILOVEYOUBB",
+      "status": "rejected",
+      "reason": "Golden ape embracing Bitcoin. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "NFTILOVEYOU",
+      "status": "rejected",
+      "reason": "Rotating code-covered shirt. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "PEPEILOVEU.NAUGHTYPEPA",
+      "status": "rejected",
+      "reason": "Seated female frog with gloves. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "PEPEILOVEU.NAUGHTYPEPE",
+      "status": "rejected",
+      "reason": "Seated female frog with gloves. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "ILOVEPEPE",
+      "asset": "XILOVESKEK",
+      "status": "rejected",
+      "reason": "Xi portrait holding frog against patterned background. No distinctive reuse of source two cartoon characters at Japanese bridge with pink blossoms and love caption in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-ILOVEPEPE-0.png"
+    },
+    {
+      "original": "PEPEPEEPS",
+      "asset": "MISSPEEPS.PROMO-VIDI_01",
+      "status": "rejected",
+      "reason": "Frog using laptop with feet foreground. No distinctive reuse of source box of green frog-shaped Peeps candy in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPEEPS-0.png"
+    },
+    {
+      "original": "PEPEPEEPS",
+      "asset": "MISSPEEPS.PROMO-VIDI_02",
+      "status": "rejected",
+      "reason": "Frog at desk in room. No distinctive reuse of source box of green frog-shaped Peeps candy in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPEEPS-0.png"
+    },
+    {
+      "original": "PEPEPEEPS",
+      "asset": "MISSPEEPS.The_Ultimate_Sub",
+      "status": "rejected",
+      "reason": "Two characters in dark room. No distinctive reuse of source box of green frog-shaped Peeps candy in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPEEPS-0.png"
+    },
+    {
+      "original": "PEPEPEEPS",
+      "asset": "OOHLALAPEEPS",
+      "status": "rejected",
+      "reason": "Tiny frog animation alternating with green cloud scene. No distinctive reuse of source box of green frog-shaped Peeps candy in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPEEPS-0.png"
+    },
+    {
+      "original": "PEPEPEEPS",
+      "asset": "PEEPSPEPE",
+      "status": "rejected",
+      "reason": "Smoking female portrait with Peeps title. No distinctive reuse of source box of green frog-shaped Peeps candy in inspected imagery; name overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEPEEPS-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 13,
+    "accepted": 0,
+    "rejected": 13
+  }
+}
