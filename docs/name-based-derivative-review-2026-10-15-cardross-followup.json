@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-15",
+  "method": "Inspected official metadata-linked vintage image and compared the camel rider in enlarged CARDROSS with the historical Silk Road logo. The vintage URL currently serves The Release; it does not prove earlier artwork. Logo image identifies an independent common source.",
+  "decisions": [
+    {
+      "original": "ROSSCARD",
+      "asset": "CARDROSS",
+      "status": "rejected",
+      "reason": "The small green camel rider in CARDROSS matches the Silk Road marketplace logo, including full animal, rider and linework, rather than the different painted camel/rider in current ROSSCARD. Both concern Ross Ulbricht, but no specific reuse of ROSSCARD is established.",
+      "evidence_images": [
+        "previews/CARDROSS-detail.png",
+        "previews/ross-vintage.png",
+        "previews/silk-road-logo.png"
+      ]
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "ROSSCARD",
+      "asset": "CARDROSS",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-22.json",
+      "resolution": "Rejected: common external Silk Road logo identified, no demonstrated card-to-card derivation."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://arweave.net/yDmEtdT6Y5fplGpE1fEeQ8QmgjIalaUmE5I5j4g81jI",
+      "role": "Current on-chain linked official metadata",
+      "metadata": {
+        "description": "🧙 ✨ Spells of Genesis ✨ \n\n The Release \n\n 📖 140 full moons passed in Emperor Daryen’s cells of oblivion before the Merchant of forbidden fabrics was released, a free soul once more, though his spirit had never been chained. \n\n ⚠️ The commercial use of this ORB is subject to the terms of the following Licence: https://www.everdreamsoft.com/orb_licence_v1_0",
+        "image": "https://arweave.net/2VFO-iz0Eir4JkUO09ChhwegVxofsF26uMeA7Qq6vi8/x.png",
+        "image_ipfs_hash": "bafybeidiqp4qyff3uknm2sct6qvkd65a3hro3nlcuc5kfqfpbh67k6eknq",
+        "name": "The Release",
+        "vintageImage": "https://img.spellsofgenesis.com/vintageCards/en/3090.jpg",
+        "vintage_image": "ipfs://bafybeidiqp4qyff3uknm2sct6qvkd65a3hro3nlcuc5kfqfpbh67k6eknq",
+        "cannon_assetId": "eSog-ROSSCARD",
+        "licence_name": "ORB Licence Agreement V.1.0",
+        "licence_ipfs_url": "https://ipfs.io/ipfs/bafkreiflt4iamdhaefwx3lypomuzfr5tdmn2wxvyaexsgqzq7ofgoxaoqy",
+        "licence_ipfs_hash": "bafkreiflt4iamdhaefwx3lypomuzfr5tdmn2wxvyaexsgqzq7ofgoxaoqy",
+        "licence_arweave_hash": "WnNzBkEF007mqopwN8UnPc1huMcTSQNz5yjzYP5z2TM",
+        "attributes": [
+          {
+            "trait_type": "Name",
+            "value": "The Release"
+          },
+          {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+          },
+          {
+            "trait_type": "Attack",
+            "value": 4
+          },
+          {
+            "trait_type": "Health",
+            "value": 13
+          },
+          {
+            "trait_type": "Speed",
+            "value": 2
+          },
+          {
+            "trait_type": "Illustrator",
+            "value": "Alejandro Hurtado"
+          },
+          {
+            "trait_type": "Elemental type",
+            "value": "Light"
+          }
+        ],
+        "asset": "ROSSCARD",
+        "website": "http://spellsofgenesis.com",
+        "image_large": "https://arweave.net/o1hqqmY7BEjA7UI7zYQ6rteP5XyIeURLbcIek_6OT18",
+        "pgpsig": "EverdreamSoft / Alejandro Hurtado",
+        "category": "Entertainment",
+        "subcategory": "NFT",
+        "website_social_twitter": "https://twitter.com/spellsofgenesis"
+      }
+    },
+    {
+      "url": "https://img.spellsofgenesis.com/vintageCards/en/3090.jpg",
+      "role": "Inspected image referenced by official vintageImage; currently The Release."
+    },
+    {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b7/Silk_road_logo.svg/250px-Silk_road_logo.svg.png",
+      "role": "Historical logo reproduction, visually inspected."
+    },
+    {
+      "url": "https://freeross.org/wp-content/uploads/2018/02/Day_5-2015_Jan_21_Trial_780-1030.pdf",
+      "role": "2015 primary trial transcript page 87 identifies man-on-camel logo as Silk Road icon; supports external-source identity, not a derivative attribution."
+    }
+  ],
+  "summary": {
+    "comparisons": 1,
+    "rejected": 1,
+    "resolved_prior_holds": 1
+  }
+}
