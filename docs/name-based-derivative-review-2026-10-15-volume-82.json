@@ -924,8 +924,9 @@
     {
       "asset": "HOMERSWAN",
       "candidate_original": "FAUXHOMER",
-      "status": "unresolved",
-      "reason": "Matching backdrop and Wait a minute caption suggest a closer source than PEPEHOMER; verify current attribution and chronology."
+      "status": "resolved",
+      "reason": "Matching backdrop and Wait a minute caption suggest a closer source than PEPEHOMER; verify current attribution and chronology.",
+      "resolution": "Both cards derive from HOMERPEPE. See name-based-derivative-review-2026-10-15-homer-followup.json"
     },
     {
       "asset": "FAKEBALLS",

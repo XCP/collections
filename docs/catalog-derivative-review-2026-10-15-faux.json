@@ -901,8 +901,8 @@
     {
       "asset": "FAUXHOMER",
       "collection": "faux-sogs",
-      "status": "followup",
-      "reason": "Homer subject and caption echo; closer visual source unresolved."
+      "status": "resolved_followup",
+      "reason": "Confirmed against full HOMERPEPE image; see name-based-derivative-review-2026-10-15-homer-followup.json"
     },
     {
       "asset": "FAUXHOSPITAL",

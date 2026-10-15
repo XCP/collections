@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-15",
+  "method": "Fresh full-image comparison of HOMERPEPE, FAUXHOMER and HOMERSWAN. Distinguish HOMERPEPE from PEPEHOMER, which is a different composition. Both candidates directly reference the former; no link between the candidates is asserted.",
+  "reviewed": [
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "FAUXHOMER",
+        "HOMERSWAN"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "HOMERPEPE",
+      "asset": "FAUXHOMER",
+      "status": "accepted",
+      "reason": "Reuses the exact layered cream-cloud/blue-sky background and distinctive large eyes with three white pupil highlights, oval muzzle and orange mouth. Purple hood replaces hair/shirt; caption explicitly changes Wait a minute, I am a Pepe to Faux Sog."
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERSWAN",
+      "status": "accepted",
+      "reason": "Redraws the distinctive cloud-backed, wide-eyed Homer portrait as a black swan, retaining hair loops, yellow card structure, heart/stat band and Wait a minute caption changed to Swan. The immobilized/beer stat joke directly echoes the original. This supports HOMERPEPE independently of FAUXHOMER."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "FAUXHOMER",
+      "collection": "faux-sogs",
+      "original": "HOMERPEPE",
+      "evidence": "Reuses the exact layered cream-cloud/blue-sky background and distinctive large eyes with three white pupil highlights, oval muzzle and orange mouth. Purple hood replaces hair/shirt; caption explicitly changes Wait a minute, I am a Pepe to Faux Sog.",
+      "image": "https://cdn.xcp.io/img/full/FAUXHOMER?image=1",
+      "source_image": "https://cdn.xcp.io/img/full/HOMERPEPE?image=1"
+    },
+    {
+      "asset": "HOMERSWAN",
+      "collection": "dank-rares",
+      "original": "HOMERPEPE",
+      "evidence": "Redraws the distinctive cloud-backed, wide-eyed Homer portrait as a black swan, retaining hair loops, yellow card structure, heart/stat band and Wait a minute caption changed to Swan. The immobilized/beer stat joke directly echoes the original. This supports HOMERPEPE independently of FAUXHOMER.",
+      "image": "https://cdn.xcp.io/img/full/HOMERSWAN?image=1",
+      "source_image": "https://cdn.xcp.io/img/full/HOMERPEPE?image=1"
+    }
+  ],
+  "unapplied": [],
+  "resolved_additional_leads": [
+    {
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-volume-82.json",
+      "asset": "HOMERSWAN",
+      "candidate_original": "FAUXHOMER",
+      "resolution": "Both reference HOMERPEPE; no direct candidate-to-candidate link added."
+    }
+  ]
+}
