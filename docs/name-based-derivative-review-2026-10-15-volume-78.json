@@ -1,0 +1,845 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPENAL",
+      "candidates": [
+        "ORDINALPILL",
+        "ORDINALRARE",
+        "ORDINALRUN",
+        "ORDINALSCASH",
+        "ORDINALSDICE",
+        "ORDINALSLUNA",
+        "ORDINALSROCK",
+        "ORDINALSUGAR",
+        "ORDINALTRUMP",
+        "ORDINALTX",
+        "ORDINALYF",
+        "ORDINALYPPL",
+        "OWLDINALS",
+        "POPEORDINAL"
+      ]
+    },
+    {
+      "original": "REYPEPE",
+      "candidates": [
+        "FEELSGREYMAN",
+        "GREYAREAPEPE",
+        "GREYBARBER",
+        "GREYCENTRIC",
+        "GREYCIRCLE",
+        "GREYGALAXY",
+        "GREYGHOST",
+        "GREYHOMER",
+        "GREYSIGNAL",
+        "GREYTAPESTRY",
+        "GREYTWHTPEPE",
+        "GREYWAVE",
+        "GREYWELDER",
+        "GREYWHALIEN",
+        "ISTANBULGREY",
+        "LADYGREY",
+        "MARVINGREY"
+      ]
+    },
+    {
+      "original": "KEKPEPE",
+      "candidates": [
+        "FAKEKOONING",
+        "KEKSCOBAR",
+        "NOTCOWKEK",
+        "NFTNYCKEK",
+        "KEKOPEPE",
+        "PEPIOKEK",
+        "KEKOVILLE",
+        "KEKPAGEII",
+        "LILYKEK",
+        "STARKEK",
+        "FACELESSKEK",
+        "FAKEKEANE",
+        "SHEHULKEK",
+        "KEKFLOYD",
+        "KEKBOMBS",
+        "RAREKEKMAS",
+        "KEKER"
+      ]
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "candidates": [
+        "FAKESAMURAI",
+        "SAMURAIONE",
+        "SAMURAITWO",
+        "SAMURAITHREE",
+        "SAMURAIFOUR",
+        "SAMURAIFIVE",
+        "SAMURAISIX",
+        "SAMURAISEVEN",
+        "BITSAMURAI",
+        "PHOCKCRYPSI.SAMURAI",
+        "COCOSAMURAI",
+        "PGNSAMURAI",
+        "SAMURAIPGN"
+      ]
+    },
+    {
+      "original": "BACKTOPEPE",
+      "candidates": [
+        "BACKTOTHELAB",
+        "BACKTOHOME",
+        "BACKTOTHEAPE"
+      ]
+    },
+    {
+      "original": "PEPEWOKE",
+      "candidates": [
+        "PROOFOFWOKE"
+      ]
+    },
+    {
+      "original": "PENNYPEPE",
+      "candidates": [
+        "PENNYKEK",
+        "PENNYGREEN"
+      ]
+    },
+    {
+      "original": "SCHROEPEPE",
+      "candidates": [
+        "SCHROECORN",
+        "SCHROEFAKE.EDITION05",
+        "SCHROEFAKE.EDITION01",
+        "SCHROEFAKE.EDITION02",
+        "SCHROEFAKE.EDITION04",
+        "SCHROEFAKE.EDITION03"
+      ]
+    },
+    {
+      "original": "LORDGLEN",
+      "candidates": [
+        "FAKELORDGLEN"
+      ]
+    },
+    {
+      "original": "RICHPEPE",
+      "candidates": [
+        "RICHOMERPEPE",
+        "PEPIERICH",
+        "RICHCOCOMOND",
+        "RICHARLIPEPE",
+        "BOBORICHMAN",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "RICHHORSE",
+        "RICHTERPEPE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALPILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALPIZZA",
+      "status": "ambiguous",
+      "reason": "Pizza transaction narrative resembles PEPEPIZZA, but portrait and text differ; specific immediate source not established."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALPUTIN",
+      "status": "ambiguous",
+      "reason": "Repeats PUTINPEPE number-one series caption but uses different photographic composition; closer Putin variant needs identification."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALRARE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALRUN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSCASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSDICE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSLUNA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSNAKA",
+      "status": "ambiguous",
+      "reason": "Layered character composition needs closer source comparison."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSNES",
+      "status": "ambiguous",
+      "reason": "Same room scene as ORDINALSTORY; direction and common external game source unresolved."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSROCK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSTORY",
+      "status": "ambiguous",
+      "reason": "Same room scene as ORDINALSNES; direction and common external game source unresolved."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALSUGAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALTX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALYF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALYPPL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "OWLDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "POPEORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "FEELSGREYMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYAREAPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYBARBER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYCENTRIC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYCIRCLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYGALAXY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYGHOST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYHOMER",
+      "status": "accepted",
+      "attributed_original": "HOMERPEPE",
+      "reason": "Exact Homer/Pepe portrait, cloud arrangement, stat row and card layout converted to grayscale; title adds Grey and Wait a minute caption becomes Grey Pepe."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYPEPEPSA",
+      "status": "ambiguous",
+      "reason": "Clear RAREPEPE parody in slab, but possible closer GREYPEPE intermediate is unavailable in CDN; preserve source-chain question."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYSCALE",
+      "status": "ambiguous",
+      "reason": "Many small frog variants; source and multi-source context need identification."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYSIGNAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYTAPESTRY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYTWHTPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYWAVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYWELDER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "GREYWHALIEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "ISTANBULGREY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "LADYGREY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "REYPEPE",
+      "asset": "MARVINGREY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "FAKEKOONING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKSCOBAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "NOTCOWKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "NFTNYCKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKOPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "PEPIOKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "CHILLRAREKEK",
+      "status": "ambiguous",
+      "reason": "Room contains multiple recognizable card images; identify insets and dominant source."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKOVILLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKPAGEII",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "LILYKEK",
+      "status": "accepted",
+      "attributed_original": "LORDKEK",
+      "reason": "Explicit Ruler of Pepe / All Pepes worship / Goddesshead caption parody of LORDKEK, with winged central deity between two facing Egyptian figures and matching stat/caption structure."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "STARKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "FACELESSKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "FAKEKEANE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "SHEHULKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKFLOYD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKTRA",
+      "status": "ambiguous",
+      "reason": "Several small character portraits in game interface; individual sources unresolved."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKBOMBS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "RAREKEKMAS",
+      "status": "accepted",
+      "attributed_original": "BBOYPEPE",
+      "reason": "Exact six breakdancing Pepe photos tiled behind foreground Santa dancer; Never fear yer opponent, seven ability lines and Breakers Revenge transformed into Christmas captions and Eggnogs Revenge."
+    },
+    {
+      "original": "KEKPEPE",
+      "asset": "KEKER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "FAKESAMURAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAIONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAITWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAITHREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAIFOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAIFIVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAISIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAISEVEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "BITSAMURAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "PHOCKCRYPSI.SAMURAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "COCOSAMURAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "PGNSAMURAI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SAMURAIPGN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SAMURAIPEPE",
+      "asset": "SEVENSAMURAI",
+      "status": "ambiguous",
+      "reason": "Montage of seven separate Samurai paintings, not a single SAMURAIPEPE derivative."
+    },
+    {
+      "original": "BACKTOPEPE",
+      "asset": "BACKTOTHELAB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BACKTOPEPE",
+      "asset": "BACKTOHOME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BACKTOPEPE",
+      "asset": "BACKTOTHEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWOKE",
+      "asset": "PROOFOFWOKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PENNYPEPE",
+      "asset": "PENNYKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PENNYPEPE",
+      "asset": "PENNYGREEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PENNYPEPE",
+      "asset": "PENNYGREENPH",
+      "status": "ambiguous",
+      "reason": "Framed physical postage artwork relates to PENNYGREEN; verify image and physical/digital direction."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROECORN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.DEAD",
+      "status": "media_blocked",
+      "reason": "CDN is only a 48x48 DEAD/ALIVE word tile, with no card image to compare; underlying artwork or metadata needed."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.EDITION05",
+      "status": "accepted",
+      "attributed_original": "SCHROEFAKE",
+      "reason": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.EDITION01",
+      "status": "accepted",
+      "attributed_original": "SCHROEFAKE",
+      "reason": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.EDITION02",
+      "status": "accepted",
+      "attributed_original": "SCHROEFAKE",
+      "reason": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.EDITION04",
+      "status": "accepted",
+      "attributed_original": "SCHROEFAKE",
+      "reason": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.EDITION03",
+      "status": "accepted",
+      "attributed_original": "SCHROEFAKE",
+      "reason": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "original": "SCHROEPEPE",
+      "asset": "SCHROEFAKE.ALIVE",
+      "status": "media_blocked",
+      "reason": "CDN is only a 48x48 DEAD/ALIVE word tile, with no card image to compare; underlying artwork or metadata needed."
+    },
+    {
+      "original": "LORDGLEN",
+      "asset": "FAKELORDGLEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHOMERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "PEPIERICH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHBOBO",
+      "status": "ambiguous",
+      "reason": "Small card inset requires comparison with source artwork."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHCOCOMOND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHARLIPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "BOBORICHMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "ULBRICHTROSS.GROWINTHEDARK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHHORSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RICHPEPE",
+      "asset": "RICHTERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "GREYHOMER",
+      "original": "HOMERPEPE",
+      "collection": "the-greypepe-project",
+      "image": "https://cdn.xcp.io/img/full/GREYHOMER?image=1",
+      "evidence": "Exact Homer/Pepe portrait, cloud arrangement, stat row and card layout converted to grayscale; title adds Grey and Wait a minute caption becomes Grey Pepe."
+    },
+    {
+      "asset": "LILYKEK",
+      "original": "LORDKEK",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/LILYKEK?image=1",
+      "evidence": "Explicit Ruler of Pepe / All Pepes worship / Goddesshead caption parody of LORDKEK, with winged central deity between two facing Egyptian figures and matching stat/caption structure."
+    },
+    {
+      "asset": "RAREKEKMAS",
+      "original": "BBOYPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/RAREKEKMAS?image=1",
+      "evidence": "Exact six breakdancing Pepe photos tiled behind foreground Santa dancer; Never fear yer opponent, seven ability lines and Breakers Revenge transformed into Christmas captions and Eggnogs Revenge."
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION05",
+      "original": "SCHROEFAKE",
+      "collection": "schroefake",
+      "image": "https://cdn.xcp.io/img/full/SCHROEFAKE.EDITION05?image=1",
+      "evidence": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION01",
+      "original": "SCHROEFAKE",
+      "collection": "schroefake",
+      "image": "https://cdn.xcp.io/img/full/SCHROEFAKE.EDITION01?image=1",
+      "evidence": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION02",
+      "original": "SCHROEFAKE",
+      "collection": "schroefake",
+      "image": "https://cdn.xcp.io/img/full/SCHROEFAKE.EDITION02?image=1",
+      "evidence": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION04",
+      "original": "SCHROEFAKE",
+      "collection": "schroefake",
+      "image": "https://cdn.xcp.io/img/full/SCHROEFAKE.EDITION04?image=1",
+      "evidence": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    },
+    {
+      "asset": "SCHROEFAKE.EDITION03",
+      "original": "SCHROEFAKE",
+      "collection": "schroefake",
+      "image": "https://cdn.xcp.io/img/full/SCHROEFAKE.EDITION03?image=1",
+      "evidence": "Filmed lenticular print reproduces the exact green/pink Fakeschroedinger card, alive cat pose, radiation device, hammer, purple flask, equation and 50% panel from SCHROEFAKE; tilt transitions to the dead-cat state. Uses the closer SCHROEFAKE rather than SCHROEPEPE."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "sheets": "All 10 original/candidate contact sheets inspected.",
+    "animations": {
+      "PEPEPIZZA": {
+        "total_frames": 8,
+        "sampled_frames": 4
+      },
+      "PHOCKCRYPSI.SAMURAI": {
+        "total_frames": 50,
+        "sampled_frames": 4
+      },
+      "SCHROEFAKE.EDITION01": {
+        "total_frames": 142,
+        "sampled_frames": 4
+      },
+      "SCHROEFAKE.EDITION02": {
+        "total_frames": 142,
+        "sampled_frames": 4
+      },
+      "SCHROEFAKE.EDITION03": {
+        "total_frames": 142,
+        "sampled_frames": 4
+      },
+      "SCHROEFAKE.EDITION04": {
+        "total_frames": 142,
+        "sampled_frames": 4
+      },
+      "SCHROEFAKE.EDITION05": {
+        "total_frames": 142,
+        "sampled_frames": 4
+      }
+    },
+    "followup": "GREYPEPE CDN returns 300x180 placeholder. ORDINALPUTIN additionally compared to PUTINPEPE, NOFUCKSPUTIN, REDPUTINPEPE and TENPINPUTIN; no exact portrait reuse established."
+  }
+}

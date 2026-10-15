@@ -155,7 +155,13 @@
       "asset": "GREYGHOST"
     },
     {
-      "asset": "GREYHOMER"
+      "asset": "GREYHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYLORDKEK",
