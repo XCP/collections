@@ -1251,7 +1251,13 @@
       "asset": "TRUMPTACO"
     },
     {
-      "asset": "TRUMPTARDS"
+      "asset": "TRUMPTARDS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPTRAIN",
