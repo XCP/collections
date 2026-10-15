@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame grouped sheets and three animation sheets viewed. Five animations sampled at four spaced positions, not exhaustive playback. Rejections concern these specific originals and inspected material.",
+  "reviewed": [
+    {
+      "original": "POKERPEPE",
+      "volume_usd": 6089.315834390427,
+      "buyers": 14,
+      "candidates": [
+        "FAKEAPEPOKER",
+        "FAKEPOKER",
+        "POKERAPES",
+        "POKERCHEATQR",
+        "POKERFACE",
+        "POKERSKULL"
+      ]
+    },
+    {
+      "original": "HUNTERCARD",
+      "volume_usd": 5824.749643887842,
+      "buyers": 81,
+      "candidates": [
+        "DANKHUNTERS",
+        "GRAILHUNTER",
+        "COINHUNTER",
+        "CRYPTOHUNTER",
+        "HUNTERBOT",
+        "HUNTERRAY",
+        "HUNTERSPEPE",
+        "MSTRPEPES.PEPESTAGHUNTERS",
+        "PEPEHUNTER",
+        "PGNHUNTER",
+        "RELICHUNTER",
+        "SATHUNTERS",
+        "SLIVERHUNTER",
+        "SWANHUNTER",
+        "VCCIMGHUNTER",
+        "WOJAKHUNTER"
+      ]
+    },
+    {
+      "original": "PEPEDRAKE",
+      "volume_usd": 6567.737798168616,
+      "buyers": 43,
+      "candidates": [
+        "DRAKEBOBO",
+        "DRAKEXCPETH",
+        "HUMMINGDRAKE",
+        "JESTERDRAKE"
+      ]
+    },
+    {
+      "original": "PEPEANGRY",
+      "volume_usd": 7538.498849015058,
+      "buyers": 197,
+      "candidates": [
+        "EMOTIONPEPE.ANGRYpepe",
+        "THEANGRYDOG",
+        "XANGRYFRIES"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "HUNTERSPEPE",
+      "pages": 96,
+      "sampled_frames": [
+        0,
+        32,
+        63,
+        95
+      ]
+    },
+    {
+      "asset": "PEPEHUNTER",
+      "pages": 67,
+      "sampled_frames": [
+        0,
+        22,
+        44,
+        66
+      ]
+    },
+    {
+      "asset": "SWANHUNTER",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "asset": "PEPEDRAKE",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "PEPEANGRY",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "POKERPEPE",
+      "asset": "FAKEAPEPOKER",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "POKERPEPE",
+      "asset": "FAKEPOKER",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "POKERPEPE",
+      "asset": "POKERAPES",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "POKERPEPE",
+      "asset": "POKERCHEATQR",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "POKERPEPE",
+      "asset": "POKERFACE",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "POKERPEPE",
+      "asset": "POKERSKULL",
+      "status": "rejected",
+      "reason": "No reuse of the green female figure holding a fan of cards beside her face. Other table scenes, card hands or poker graphics have different compositions.",
+      "evidence_sheet": "sheets/group-POKERPEPE-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "DANKHUNTERS",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "GRAILHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "COINHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "CRYPTOHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "HUNTERBOT",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "HUNTERRAY",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "HUNTERSPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "MSTRPEPES.PEPESTAGHUNTERS",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "PEPEHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "PGNHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "RELICHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "SATHUNTERS",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "SLIVERHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "SWANHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "VCCIMGHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "HUNTERCARD",
+      "asset": "WOJAKHUNTER",
+      "status": "rejected",
+      "reason": "No reuse of the armored Crirawins Hunter walking through snow with a long spear. Other hunters, robots, portraits and game scenes differ.",
+      "evidence_sheet": "sheets/group-HUNTERCARD-0.png"
+    },
+    {
+      "original": "PEPEDRAKE",
+      "asset": "DRAKEBOBO",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe-headed blue-clad dancer in a blue room and yellow card frame. Drake red-jacket memes share an external subject, while fantasy drakes are name collisions.",
+      "evidence_sheet": "sheets/group-PEPEDRAKE-0.png"
+    },
+    {
+      "original": "PEPEDRAKE",
+      "asset": "DRAKEXCPETH",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe-headed blue-clad dancer in a blue room and yellow card frame. Drake red-jacket memes share an external subject, while fantasy drakes are name collisions.",
+      "evidence_sheet": "sheets/group-PEPEDRAKE-0.png"
+    },
+    {
+      "original": "PEPEDRAKE",
+      "asset": "HUMMINGDRAKE",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe-headed blue-clad dancer in a blue room and yellow card frame. Drake red-jacket memes share an external subject, while fantasy drakes are name collisions.",
+      "evidence_sheet": "sheets/group-PEPEDRAKE-0.png"
+    },
+    {
+      "original": "PEPEDRAKE",
+      "asset": "JESTERDRAKE",
+      "status": "rejected",
+      "reason": "No reuse of the Pepe-headed blue-clad dancer in a blue room and yellow card frame. Drake red-jacket memes share an external subject, while fantasy drakes are name collisions.",
+      "evidence_sheet": "sheets/group-PEPEDRAKE-0.png"
+    },
+    {
+      "original": "PEPEANGRY",
+      "asset": "EMOTIONPEPE.ANGRYpepe",
+      "status": "rejected",
+      "reason": "No reuse of the slingshot launching Pepe at crypto coins or AngryPepes layout. Other angry expressions, dog photograph and cartoon figures differ.",
+      "evidence_sheet": "sheets/group-PEPEANGRY-0.png"
+    },
+    {
+      "original": "PEPEANGRY",
+      "asset": "THEANGRYDOG",
+      "status": "rejected",
+      "reason": "No reuse of the slingshot launching Pepe at crypto coins or AngryPepes layout. Other angry expressions, dog photograph and cartoon figures differ.",
+      "evidence_sheet": "sheets/group-PEPEANGRY-0.png"
+    },
+    {
+      "original": "PEPEANGRY",
+      "asset": "XANGRYFRIES",
+      "status": "rejected",
+      "reason": "No reuse of the slingshot launching Pepe at crypto coins or AngryPepes layout. Other angry expressions, dog photograph and cartoon figures differ.",
+      "evidence_sheet": "sheets/group-PEPEANGRY-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 29,
+    "accepted": 0,
+    "rejected": 29
+  }
+}
