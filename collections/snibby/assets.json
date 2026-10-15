@@ -7,7 +7,13 @@
       "asset": "SNIBBY.artifact"
     },
     {
-      "asset": "SNIBBY.artist"
+      "asset": "SNIBBY.artist",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
+        }
+      ]
     },
     {
       "asset": "SNIBBY.bonjour"
