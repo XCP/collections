@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-15",
+  "method": "Four complete first-frame source-group sheets and four animation sheets viewed. Five animations sampled four spaced positions (all frames for <=4); not exhaustive playback for longer animations. XCHAINPEPE and ELFGXCHAIN enlarged for specific reuse; issuance descriptions checked for direction.",
+  "reviewed": [
+    {
+      "original": "XCHAINPEPE",
+      "candidates": [
+        "ELFGXCHAIN",
+        "LFGXCHAIN",
+        "OGSAN.JDOGXCHAIN",
+        "ROLEXCHAIN",
+        "XCHAINFIGHT",
+        "XCHAINLEGEND",
+        "XCHAINMON",
+        "XCHAINREBIRT"
+      ]
+    },
+    {
+      "original": "CHECKPEPE",
+      "candidates": [
+        "CHOKESCHECKS",
+        "COCOCHECKS",
+        "GUGGENMEME.HOMERCHECKS",
+        "PEPECHECKED",
+        "PEPECHECKED.DAILYDANK",
+        "WOJAKCHECK"
+      ]
+    },
+    {
+      "original": "BANANAPEPE",
+      "candidates": [
+        "BTCBANANA",
+        "LFGBANANAS",
+        "MFERS.ANABANANA",
+        "NOBANANAS"
+      ]
+    },
+    {
+      "original": "PEPESHROOMS",
+      "candidates": [
+        "MUSHROOMSIMP",
+        "MUSHROOMSTMP",
+        "SHROOMSKULLS"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "XCHAINMON",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "WOJAKCHECK",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "MFERS.ANABANANA",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "asset": "PEPESHROOMS",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "SHROOMSKULLS",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "XCHAINPEPE",
+      "asset": "ELFGXCHAIN",
+      "status": "accepted",
+      "reason": "Enlarged artwork redraws the patterned blue-purple sweater, chain with rectangular XCHAIN pendant, smiling Pepe at desk with the three-monitor data/chart arrangement, handheld device and mouse. Redesigned full composition rather than incidental inset. Chain-linked media descriptions date XCHAINPEPE to 2017 and ELFGXCHAIN to 2026.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "LFGXCHAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "OGSAN.JDOGXCHAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "ROLEXCHAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "XCHAINFIGHT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "XCHAINLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "XCHAINMON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "XCHAINPEPE",
+      "asset": "XCHAINREBIRT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the patterned-sweater Pepe with XCHAIN pendant at the multi-monitor desk. Shared platform name or J-Dog subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-XCHAINPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "CHOKESCHECKS",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "COCOCHECKS",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "GUGGENMEME.HOMERCHECKS",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "PEPECHECKED",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "PEPECHECKED.DAILYDANK",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "CHECKPEPE",
+      "asset": "WOJAKCHECK",
+      "status": "rejected",
+      "reason": "No reuse of the lab-coated Pepe at a microscope. Checkmark grids and verification badges are different subjects.",
+      "evidence_sheet": "sheets/group-CHECKPEPE-0.png"
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "BTCBANANA",
+      "status": "rejected",
+      "reason": "No reuse of the Wojak-and-hand banana-for-scale scene. Banana subject or word alone is insufficient.",
+      "evidence_sheet": "sheets/group-BANANAPEPE-0.png"
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "LFGBANANAS",
+      "status": "rejected",
+      "reason": "No reuse of the Wojak-and-hand banana-for-scale scene. Banana subject or word alone is insufficient.",
+      "evidence_sheet": "sheets/group-BANANAPEPE-0.png"
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "MFERS.ANABANANA",
+      "status": "rejected",
+      "reason": "No reuse of the Wojak-and-hand banana-for-scale scene. Banana subject or word alone is insufficient.",
+      "evidence_sheet": "sheets/group-BANANAPEPE-0.png"
+    },
+    {
+      "original": "BANANAPEPE",
+      "asset": "NOBANANAS",
+      "status": "rejected",
+      "reason": "No reuse of the Wojak-and-hand banana-for-scale scene. Banana subject or word alone is insufficient.",
+      "evidence_sheet": "sheets/group-BANANAPEPE-0.png"
+    },
+    {
+      "original": "PEPESHROOMS",
+      "asset": "MUSHROOMSIMP",
+      "status": "rejected",
+      "reason": "No reuse of the large-eyed dripping Pepe portrait and psychedelic transformation. Mushroom subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHROOMS-0.png"
+    },
+    {
+      "original": "PEPESHROOMS",
+      "asset": "MUSHROOMSTMP",
+      "status": "rejected",
+      "reason": "No reuse of the large-eyed dripping Pepe portrait and psychedelic transformation. Mushroom subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHROOMS-0.png"
+    },
+    {
+      "original": "PEPESHROOMS",
+      "asset": "SHROOMSKULLS",
+      "status": "rejected",
+      "reason": "No reuse of the large-eyed dripping Pepe portrait and psychedelic transformation. Mushroom subjects alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPESHROOMS-0.png"
+    }
+  ],
+  "documentary_evidence": [
+    {
+      "asset": "XCHAINPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "a547277fe86369208fc507176b24340771d4e7c0fdf61e20b8b28005a063caa6",
+            "block_index": 780572,
+            "block_time": 1678684734,
+            "source": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "issuer": "1JDogZS6tQcSxwfxhv6XKKjcyicYA4Feev",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/XCHAINPEPE.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "f606a1054bcb012516e50f690d25b44f94025082bf88703e1ddd89ddfccfcfda",
+            "block_index": 478754,
+            "block_time": 1501702798,
+            "source": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "issuer": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/XCHAINPEPE.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8c1822483275e5d4a0bf2a4f77ff1818c7f1db47bc7705922e0846fe41b76d4b",
+            "block_index": 478752,
+            "block_time": 1501702088,
+            "source": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "issuer": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "transfer": 0,
+            "quantity_normalized": "1000",
+            "description": "xcp.coindaddy.io/XCHAINPEPE.json",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "282fe926de395439b324a0fbae6a7f134fbcac55abb15d58fb50b6fc9639d60f",
+            "block_index": 477398,
+            "block_time": 1500921806,
+            "source": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "issuer": "1Lfm6jXgCQi8LvjpgFHa2F4hdr1uJVa5t4",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "xcp.coindaddy.io/XCHAINPEPE.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ELFGXCHAIN",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "c5f2c34a52fa0fd57882d4f5f3e2859237a4499d11873b8cb469f3fdf34ac6e3",
+            "block_index": 937618,
+            "block_time": 1771644262,
+            "source": "1m8vd7FPHtS8fu6NQduCibfjCt3T8UPoz",
+            "issuer": "1m8vd7FPHtS8fu6NQduCibfjCt3T8UPoz",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/bczpyx/ELFGX.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "30c5933ca94c4e80e61eaeabacc9b01a7c0196d23f4dc7b0722c0544033e42b5",
+            "block_index": 937595,
+            "block_time": 1771624106,
+            "source": "1m8vd7FPHtS8fu6NQduCibfjCt3T8UPoz",
+            "issuer": "1m8vd7FPHtS8fu6NQduCibfjCt3T8UPoz",
+            "transfer": 0,
+            "quantity_normalized": "32",
+            "description": "https://easyasset.art/j/bczpyx/ELFGX.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 21,
+    "accepted": 1,
+    "rejected": 20
+  }
+}
