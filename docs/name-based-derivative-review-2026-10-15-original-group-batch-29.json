@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets, two animation sheets and both ZZTOP enlargements viewed. Two animations sampled at four spaced positions, not exhaustive playback. Exact card reuse establishes ZZTOP direction, supported by 2016 Rare Pepe catalog source and 2022 candidate linked metadata; source registration is not alone an art-date proof.",
+  "reviewed": [
+    {
+      "original": "PEPEJOHNS",
+      "volume_usd": 2786.866581596567,
+      "buyers": 156,
+      "candidates": [
+        "JOHNSLOVE",
+        "MIKEJOHNSON",
+        "MVPPHOCK.MAGICJOHNSON",
+        "TWOSVENPHOCK.ROBERTJOHNSON",
+        "XFCPGJOHNSON"
+      ]
+    },
+    {
+      "original": "ZZTOPEPE",
+      "volume_usd": 2613.166261166338,
+      "buyers": 6,
+      "candidates": [
+        "FUZZTOSHI",
+        "ZZTOPSHADY"
+      ]
+    },
+    {
+      "original": "CORNHOLIO",
+      "volume_usd": 4301.357385236489,
+      "buyers": 19,
+      "candidates": [
+        "COCORNHOLIO",
+        "KORNHOLIO",
+        "SHADHOLIO"
+      ]
+    },
+    {
+      "original": "DALICORN",
+      "volume_usd": 1353.369739,
+      "buyers": 7,
+      "candidates": [
+        "BITDALI",
+        "DALIPEPEONE",
+        "DERPDALI",
+        "GODALIEN",
+        "NFDALIEN",
+        "PEPEDALIGOD",
+        "PSYCHO.DALIESQUE",
+        "QRDALI",
+        "RAREORDALISA"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "MVPPHOCK.MAGICJOHNSON",
+      "pages": 59,
+      "sampled_frames": [
+        0,
+        19,
+        39,
+        58
+      ]
+    },
+    {
+      "asset": "KORNHOLIO",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEJOHNS",
+      "asset": "JOHNSLOVE",
+      "status": "rejected",
+      "reason": "No reuse of pizza slice with Pepe topping and Papa Johns parody design; Johnson name matches are unrelated.",
+      "evidence_sheet": "sheets/group-PEPEJOHNS-0.png"
+    },
+    {
+      "original": "PEPEJOHNS",
+      "asset": "MIKEJOHNSON",
+      "status": "rejected",
+      "reason": "No reuse of pizza slice with Pepe topping and Papa Johns parody design; Johnson name matches are unrelated.",
+      "evidence_sheet": "sheets/group-PEPEJOHNS-0.png"
+    },
+    {
+      "original": "PEPEJOHNS",
+      "asset": "MVPPHOCK.MAGICJOHNSON",
+      "status": "rejected",
+      "reason": "No reuse of pizza slice with Pepe topping and Papa Johns parody design; Johnson name matches are unrelated.",
+      "evidence_sheet": "sheets/group-PEPEJOHNS-0.png"
+    },
+    {
+      "original": "PEPEJOHNS",
+      "asset": "TWOSVENPHOCK.ROBERTJOHNSON",
+      "status": "rejected",
+      "reason": "No reuse of pizza slice with Pepe topping and Papa Johns parody design; Johnson name matches are unrelated.",
+      "evidence_sheet": "sheets/group-PEPEJOHNS-0.png"
+    },
+    {
+      "original": "PEPEJOHNS",
+      "asset": "XFCPGJOHNSON",
+      "status": "rejected",
+      "reason": "No reuse of pizza slice with Pepe topping and Papa Johns parody design; Johnson name matches are unrelated.",
+      "evidence_sheet": "sheets/group-PEPEJOHNS-0.png"
+    },
+    {
+      "original": "ZZTOPEPE",
+      "asset": "FUZZTOSHI",
+      "status": "rejected",
+      "reason": "Different portrait, no reuse of the band illustration/card.",
+      "evidence_sheet": "sheets/group-ZZTOPEPE-0.png"
+    },
+    {
+      "original": "ZZTOPEPE",
+      "asset": "ZZTOPSHADY",
+      "status": "accepted",
+      "reason": "Exact band illustration, patterned clothing, beards, frame and stat strip reused; central Pepe replaced by Shadilay and teammates changed to shady mates.",
+      "evidence_sheet": "sheets/group-ZZTOPEPE-0.png"
+    },
+    {
+      "original": "CORNHOLIO",
+      "asset": "COCORNHOLIO",
+      "status": "rejected",
+      "reason": "Shared Cornholio cartoon reference, but different drawings, framing and corn scenes; no distinctive source composition reuse.",
+      "evidence_sheet": "sheets/group-CORNHOLIO-0.png"
+    },
+    {
+      "original": "CORNHOLIO",
+      "asset": "KORNHOLIO",
+      "status": "rejected",
+      "reason": "Shared Cornholio cartoon reference, but different drawings, framing and corn scenes; no distinctive source composition reuse.",
+      "evidence_sheet": "sheets/group-CORNHOLIO-0.png"
+    },
+    {
+      "original": "CORNHOLIO",
+      "asset": "SHADHOLIO",
+      "status": "rejected",
+      "reason": "Shared Cornholio cartoon reference, but different drawings, framing and corn scenes; no distinctive source composition reuse.",
+      "evidence_sheet": "sheets/group-CORNHOLIO-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "BITDALI",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DALIPEPEONE",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "DERPDALI",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "GODALIEN",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "NFDALIEN",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "PEPEDALIGOD",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "PSYCHO.DALIESQUE",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "QRDALI",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    },
+    {
+      "original": "DALICORN",
+      "asset": "RAREORDALISA",
+      "status": "rejected",
+      "reason": "Shared Dali references do not reproduce the melting corn cobs in the source landscape.",
+      "evidence_sheet": "sheets/group-DALICORN-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "ZZTOPEPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "5f51c59ae233f2b41813de5fd88eadc3664f44a33afad2eee61859f2702fe4e1",
+            "block_index": 432860,
+            "block_time": 1475610465,
+            "source": "1D6vEvJF1S4WgLtUjQU6A9Kwz4K227uxrT",
+            "issuer": "1D6vEvJF1S4WgLtUjQU6A9Kwz4K227uxrT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "dbe6341f518c1e9fe11251b0915a93dfd795574057a451149409e7b3e0c564ae",
+            "block_index": 432845,
+            "block_time": 1475603078,
+            "source": "1D6vEvJF1S4WgLtUjQU6A9Kwz4K227uxrT",
+            "issuer": "1D6vEvJF1S4WgLtUjQU6A9Kwz4K227uxrT",
+            "transfer": 0,
+            "quantity_normalized": "5",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "ZZTOPSHADY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "d22998fe854a88ef51ad0a21a9b23629656d1bc82e7d095c1a2beb49f9f58d81",
+            "block_index": 755957,
+            "block_time": 1664310574,
+            "source": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "issuer": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/1kkth0/ZZTOP.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "742ce864bedbbfccc93641d1994851d8fd6f3b0840664e7216b1adc92f9fdf61",
+            "block_index": 755957,
+            "block_time": 1664310574,
+            "source": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "issuer": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "32edd2a670ab80c687d8439de5e47253ea09c2e37b9ced2e0453baecfd9ea886",
+            "block_index": 755949,
+            "block_time": 1664302301,
+            "source": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "issuer": "126VuKw3LTUWgmYx94TtSqfjiQooRdpva6",
+            "transfer": 0,
+            "quantity_normalized": "26",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 19,
+    "accepted": 1,
+    "rejected": 18
+  }
+}

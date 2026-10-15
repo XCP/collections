@@ -958,7 +958,13 @@
       "asset": "WOJILAY"
     },
     {
-      "asset": "ZZTOPSHADY"
+      "asset": "ZZTOPSHADY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ZZTOPEPE"
+        }
+      ]
     }
   ]
 }
