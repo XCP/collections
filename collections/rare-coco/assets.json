@@ -709,6 +709,10 @@
         {
           "trait_type": "Card",
           "value": 40
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEDARK"
         }
       ]
     },

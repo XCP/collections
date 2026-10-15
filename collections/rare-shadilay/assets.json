@@ -67,7 +67,13 @@
       ]
     },
     {
-      "asset": "DARKSHADILAY"
+      "asset": "DARKSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
+        }
+      ]
     },
     {
       "asset": "DAVINCISHAD"

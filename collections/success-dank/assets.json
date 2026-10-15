@@ -11,10 +11,22 @@
       ]
     },
     {
-      "asset": "SUCCESSDANK.WOJAK"
+      "asset": "SUCCESSDANK.WOJAK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SUCCESSDANK"
+        }
+      ]
     },
     {
-      "asset": "SUCCESSDANK.FAIL"
+      "asset": "SUCCESSDANK.FAIL",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SUCCESSDANK"
+        }
+      ]
     }
   ]
 }

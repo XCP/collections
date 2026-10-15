@@ -83,7 +83,13 @@
       "asset": "DANKGREMLINS"
     },
     {
-      "asset": "DANKHUNTNES"
+      "asset": "DANKHUNTNES",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "DANKLAGOON"

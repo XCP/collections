@@ -10,7 +10,7 @@
 | Primary memberships | 213 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 22/213 (10.3%)<br>Artist: 212/213 (99.5%)<br>Based on: 21/213 (9.9%)<br>Card: 213/213 (100%)<br>Series: 213/213 (100%) |
+| Traits | Art year: 22/213 (10.3%)<br>Artist: 212/213 (99.5%)<br>Based on: 22/213 (10.3%)<br>Card: 213/213 (100%)<br>Series: 213/213 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
