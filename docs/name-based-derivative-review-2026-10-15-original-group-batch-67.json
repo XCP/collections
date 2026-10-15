@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-15",
+  "method": "Six first-frame sheets and three animation sheets inspected. Three animations (including BCCPEPE and PEPEPAWNSHOP originals) sampled at four spaced positions, not exhaustive playback. Pawn-shop pair enlarged and issuance histories/metadata checked; common shop concept alone insufficient.",
+  "reviewed": [
+    {
+      "original": "PEPENUMA",
+      "volume_usd": 22645.08872928596,
+      "buyers": 51,
+      "candidates": [
+        "DROOLNUMAPE",
+        "ENUMAELISH",
+        "RAREHANUMAN"
+      ]
+    },
+    {
+      "original": "BCCPEPE",
+      "volume_usd": 22744.58217010714,
+      "buyers": 43,
+      "candidates": [
+        "BCCARD",
+        "CLUBCCC"
+      ]
+    },
+    {
+      "original": "GLDPEPE",
+      "volume_usd": 22595.645285081322,
+      "buyers": 113,
+      "candidates": [
+        "CASASCIUSGLD",
+        "HOLYNAKA.GLDTOTER",
+        "WHAUCTIONGLD"
+      ]
+    },
+    {
+      "original": "PEPECAKEK",
+      "volume_usd": 23635.767098681714,
+      "buyers": 36,
+      "candidates": [
+        "MSTRPEPES.INCAKEKFIGURES"
+      ]
+    },
+    {
+      "original": "GTPEPE",
+      "volume_usd": 24196.67300434226,
+      "buyers": 153,
+      "candidates": [
+        "SGTPEPE"
+      ]
+    },
+    {
+      "original": "PEPEPAWNSHOP",
+      "volume_usd": 25252.52785213789,
+      "buyers": 103,
+      "candidates": [
+        "PHPAWNSHOP"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RAREHANUMAN",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "BCCPEPE",
+      "pages": 152,
+      "sampled_frames": [
+        0,
+        50,
+        101,
+        151
+      ]
+    },
+    {
+      "asset": "PEPEPAWNSHOP",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENUMA",
+      "asset": "DROOLNUMAPE",
+      "status": "rejected",
+      "reason": "Dark ape with tendrils, not swamp frog. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENUMA-0.png"
+    },
+    {
+      "original": "PEPENUMA",
+      "asset": "ENUMAELISH",
+      "status": "rejected",
+      "reason": "QR code, not swamp frog. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENUMA-0.png"
+    },
+    {
+      "original": "PEPENUMA",
+      "asset": "RAREHANUMAN",
+      "status": "rejected",
+      "reason": "Hanuman figure before blue mosaic, not swamp frog. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPENUMA-0.png"
+    },
+    {
+      "original": "BCCPEPE",
+      "asset": "BCCARD",
+      "status": "rejected",
+      "reason": "Neon robotic figure, not BitConnect speaker/text montage. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-BCCPEPE-0.png"
+    },
+    {
+      "original": "BCCPEPE",
+      "asset": "CLUBCCC",
+      "status": "rejected",
+      "reason": "Superhero frog with CCCXIX flag and Nakamoto portrait, not source montage. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-BCCPEPE-0.png"
+    },
+    {
+      "original": "GLDPEPE",
+      "asset": "CASASCIUSGLD",
+      "status": "rejected",
+      "reason": "Close-up human face/eye and coin, not golden frog drawing. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-GLDPEPE-0.png"
+    },
+    {
+      "original": "GLDPEPE",
+      "asset": "HOLYNAKA.GLDTOTER",
+      "status": "rejected",
+      "reason": "Golden trash bin with flowers, not source frog. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-GLDPEPE-0.png"
+    },
+    {
+      "original": "GLDPEPE",
+      "asset": "WHAUCTIONGLD",
+      "status": "rejected",
+      "reason": "Suited auctioneer frog with gavel, different illustration. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-GLDPEPE-0.png"
+    },
+    {
+      "original": "PEPECAKEK",
+      "asset": "MSTRPEPES.INCAKEKFIGURES",
+      "status": "rejected",
+      "reason": "Stone relief frog monument, not birthday cake. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPECAKEK-0.png"
+    },
+    {
+      "original": "GTPEPE",
+      "asset": "SGTPEPE",
+      "status": "rejected",
+      "reason": "Sgt Pepper-style band card, not Grand Theft Pepe collage. No specific source artwork reuse in inspected imagery.",
+      "evidence_sheet": "sheets/group-GTPEPE-0.png"
+    },
+    {
+      "original": "PEPEPAWNSHOP",
+      "asset": "PHPAWNSHOP",
+      "status": "rejected",
+      "reason": "Enlarged scene depicts two realistic frog-headed people at curved shop counter with laptop, wall cabinets and different card display. Source is a rendered tiled room with rectangular glowing counter, cartoon cashier and Classic Danks/own creations labels. Shared card-shop premise alone does not establish direct reuse. Current Easyasset metadata returned empty HTTP200; no supporting attribution.",
+      "evidence_sheet": "sheets/group-PEPEPAWNSHOP-0.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "PEPEPAWNSHOP",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "fcd7743191cbb3a21c8bb52fcf59843b305b8d7a672b7fda577d590f3ab8108b",
+            "block_index": 456054,
+            "block_time": 1488834910,
+            "source": "12VVpEWqMi6v9Ez4HnMwPfa7kHnNTocqzm",
+            "issuer": "1CAj9scsp3XkUP7gyonGL8kbEyKaCz9B26",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "Get a dividend holding ",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "b82cac2693c714e24b002115c7a5ab59ed667c66e38b3f5bc0a3243ef57c2acd",
+            "block_index": 455357,
+            "block_time": 1488419406,
+            "source": "12VVpEWqMi6v9Ez4HnMwPfa7kHnNTocqzm",
+            "issuer": "12VVpEWqMi6v9Ez4HnMwPfa7kHnNTocqzm",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "Get a dividend holding ",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "1e3fbb18fb5fa199b9740ed8d557812cace5ade0c57467e3e4e430a9f1379a09",
+            "block_index": 455355,
+            "block_time": 1488418781,
+            "source": "12VVpEWqMi6v9Ez4HnMwPfa7kHnNTocqzm",
+            "issuer": "12VVpEWqMi6v9Ez4HnMwPfa7kHnNTocqzm",
+            "transfer": 0,
+            "quantity_normalized": "2000",
+            "description": "Get a dividend holding ",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "PHPAWNSHOP",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "5df000521c92ddb1689c60b6c8dcc41d54be9534e4127cb9c39601882c1b257e",
+            "block_index": 771746,
+            "block_time": 1673622773,
+            "source": "15Bu6TLxWwuXoAP91EbVNTxQe3LKj8rYRk",
+            "issuer": "15Bu6TLxWwuXoAP91EbVNTxQe3LKj8rYRk",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/5av4qt/PHPAW.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e462ada09c4fdf4760f19028ab12255ebbfdb97ba99215d258c64d838d5a16c7",
+            "block_index": 771745,
+            "block_time": 1673621128,
+            "source": "15Bu6TLxWwuXoAP91EbVNTxQe3LKj8rYRk",
+            "issuer": "15Bu6TLxWwuXoAP91EbVNTxQe3LKj8rYRk",
+            "transfer": 0,
+            "quantity_normalized": "69",
+            "description": "https://easyasset.art/j/5av4qt/PHPAW.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "metadata_evidence": {
+    "url": "https://easyasset.art/j/5av4qt/PHPAW.json",
+    "status": 200,
+    "body": ""
+  },
+  "summary": {
+    "comparisons": 11,
+    "accepted": 0,
+    "rejected": 11
+  }
+}
