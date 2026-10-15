@@ -10,7 +10,7 @@
 | Primary memberships | 297 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 23/297 (7.7%)<br>Artist: 287/297 (96.6%)<br>Based on: 29/297 (9.8%) |
+| Traits | Art year: 23/297 (7.7%)<br>Artist: 287/297 (96.6%)<br>Based on: 30/297 (10.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
@@ -39,3 +39,5 @@ Ten cards remain unattributed here pending stronger identity evidence: the TK an
 ## Later artwork on earlier tokens
 
 The [completed chronology review](../../docs/chronology-review-2026-10-13.md#completed-follow-up-pass) links the evidence for each added Art year. These years date the later artwork use, not original token registration. For Modern/Rude Relics, the dated winning-art announcements corroborate the release schedule. Existing artist credits and memberships are unchanged.
+
+CARMERCHANT is a tribute to MERCHANTCARD (Card Merchant, West and East): its animation incorporates the original hat, fur collar, sleeve and glowing cards, and its August 2022 on-chain description explicitly calls it a tribute to the original SoG Card Merchant. See [the visual and issuance evidence](../../docs/name-based-derivative-review-2026-10-15-original-group-batch-11.json). CARDMERCHANT uses the same SoG artwork; no separate derivative link is inferred between those versions.

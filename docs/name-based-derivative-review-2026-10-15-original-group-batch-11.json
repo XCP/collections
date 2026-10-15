@@ -1,0 +1,448 @@
+{
+  "date": "2026-10-15",
+  "method": "Three complete first-frame group sheets plus four animation sheets viewed. Seven animations sampled at four spaced positions (all frames when <=4); not exhaustive playback. MERCHANTCARD enlarged and CARMERCHANT frame 15 enlarged. On-chain issuance descriptions fetched for all three merchant assets.",
+  "reviewed": [
+    {
+      "original": "MERCHANTCARD",
+      "candidates": [
+        "CARMERCHANT",
+        "CARDMERCHANT",
+        "FAKEMERCHANT",
+        "SAKEMERCHANT"
+      ]
+    },
+    {
+      "original": "BRRR",
+      "candidates": [
+        "BRRRRRRRRRRR",
+        "BRRRPEPE",
+        "DANKBRRR",
+        "DANKBRRRR",
+        "NAKAVATOBRRR"
+      ]
+    },
+    {
+      "original": "CORNZILLA",
+      "candidates": [
+        "WOJZILLA",
+        "BYDCORNZILLA",
+        "COCOZILLA",
+        "FAKEGODZILLA",
+        "FAKEZILLA",
+        "PEPEDZILLA",
+        "PEPEZILLA",
+        "UNATZILLA",
+        "WOJAKZILLA"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CARMERCHANT",
+      "pages": 23,
+      "sampled_frames": [
+        0,
+        7,
+        15,
+        22
+      ]
+    },
+    {
+      "asset": "NAKAVATOBRRR",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "DANKBRRR",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "BRRR",
+      "pages": 232,
+      "sampled_frames": [
+        0,
+        77,
+        154,
+        231
+      ]
+    },
+    {
+      "asset": "BRRRPEPE",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "BRRRRRRRRRRR",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "CORNZILLA",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MERCHANTCARD",
+      "asset": "CARMERCHANT",
+      "status": "accepted",
+      "reason": "Animation frame 15 incorporates the merchant feathered hat, fur collar, gold sleeve and glowing cards. On-chain description explicitly says A tribute to the original SOGS card, The Card Merchant. MERCHANTCARD carries the matching artwork and predates the 2022 tribute; CARDMERCHANT is another same-art SoG version, not a separate parody source.",
+      "evidence_sheet": "sheets/group-MERCHANTCARD-0.png"
+    },
+    {
+      "original": "MERCHANTCARD",
+      "asset": "CARDMERCHANT",
+      "status": "rejected",
+      "reason": "Same Card Merchant artwork in another registered SoG card version, with blank rules panel. Record as same-art version rather than inventing a derivative relationship between these official-catalog entries.",
+      "evidence_sheet": "sheets/group-MERCHANTCARD-0.png"
+    },
+    {
+      "original": "MERCHANTCARD",
+      "asset": "FAKEMERCHANT",
+      "status": "rejected",
+      "reason": "Different subject and composition; no distinctive merchant-card reuse.",
+      "evidence_sheet": "sheets/group-MERCHANTCARD-0.png"
+    },
+    {
+      "original": "MERCHANTCARD",
+      "asset": "SAKEMERCHANT",
+      "status": "rejected",
+      "reason": "Different subject and composition; no distinctive merchant-card reuse.",
+      "evidence_sheet": "sheets/group-MERCHANTCARD-0.png"
+    },
+    {
+      "original": "BRRR",
+      "asset": "BRRRRRRRRRRR",
+      "status": "rejected",
+      "reason": "Money-printer memes and typography do not reuse the combine harvester and psychedelic sky of Bitcorn BRRR.",
+      "evidence_sheet": "sheets/group-BRRR-0.png"
+    },
+    {
+      "original": "BRRR",
+      "asset": "BRRRPEPE",
+      "status": "rejected",
+      "reason": "Money-printer memes and typography do not reuse the combine harvester and psychedelic sky of Bitcorn BRRR.",
+      "evidence_sheet": "sheets/group-BRRR-0.png"
+    },
+    {
+      "original": "BRRR",
+      "asset": "DANKBRRR",
+      "status": "rejected",
+      "reason": "Money-printer memes and typography do not reuse the combine harvester and psychedelic sky of Bitcorn BRRR.",
+      "evidence_sheet": "sheets/group-BRRR-0.png"
+    },
+    {
+      "original": "BRRR",
+      "asset": "DANKBRRRR",
+      "status": "rejected",
+      "reason": "Money-printer memes and typography do not reuse the combine harvester and psychedelic sky of Bitcorn BRRR.",
+      "evidence_sheet": "sheets/group-BRRR-0.png"
+    },
+    {
+      "original": "BRRR",
+      "asset": "NAKAVATOBRRR",
+      "status": "rejected",
+      "reason": "Money-printer memes and typography do not reuse the combine harvester and psychedelic sky of Bitcorn BRRR.",
+      "evidence_sheet": "sheets/group-BRRR-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "WOJZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "BYDCORNZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "COCOZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "FAKEGODZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "FAKEZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "PEPEDZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "PEPEZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "UNATZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    },
+    {
+      "original": "CORNZILLA",
+      "asset": "WOJAKZILLA",
+      "status": "rejected",
+      "reason": "Godzilla subject shared, but none reuse the corn monster, flame framing and pose of CORNZILLA.",
+      "evidence_sheet": "sheets/group-CORNZILLA-0.png"
+    }
+  ],
+  "documentary_evidence": [
+    {
+      "asset": "MERCHANTCARD",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "8b29863f632c9f70c7ff2484f68588b6498011a0709cc9cdbda278f8481d12f7",
+            "block_index": 894725,
+            "block_time": 1746090802,
+            "source": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "issuer": "1DCagK32SUhTthAgQ5ZswygyFwVwgA3msJ",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "SOG card",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "f5782ca6e809fe6d48a5ab9ef7f1a958e7b16d805e9d1298ef84f208c81be561",
+            "block_index": 711407,
+            "block_time": 1637943324,
+            "source": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "issuer": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "SOG card",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3574bb37b555cb0afa04200f2c3d9918b03cc51781d3eb365f02b70d5530f89b",
+            "block_index": 402171,
+            "block_time": 1457690673,
+            "source": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "issuer": "1EewCNrN1oypSYZE81HBiqrjuhkLcz1qXR",
+            "transfer": 0,
+            "quantity_normalized": "1000",
+            "description": "SOG card",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "CARDMERCHANT",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "e7ffa54a8de6d904e1b9f7606f69bae5a835741b8df5da2470bd5765435d6ad2",
+            "block_index": 764551,
+            "block_time": 1669306263,
+            "source": "1DT71iAb1ZSQujU5bwPriP9TZHuw6JdBFT",
+            "issuer": "1DT71iAb1ZSQujU5bwPriP9TZHuw6JdBFT",
+            "transfer": 0,
+            "quantity_normalized": "300",
+            "description": "SoG Card\tCard Merchant: West and East: SoG epic card",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "cb73fb72d728e0f54b25e91aa8f9c521d60d23688f1ff4578678bfb7b47e29c4",
+            "block_index": 548866,
+            "block_time": 1541426284,
+            "source": "1387Ze9HfexTm8zxZzt1xacSu6GtRkvNkS",
+            "issuer": "1DT71iAb1ZSQujU5bwPriP9TZHuw6JdBFT",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "SoG Card\tCard Merchant: West and East: SoG epic card",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "f2ab3ae74969f919a612523310b856a01c68fa72c4ceecff78147bfe859f9318",
+            "block_index": 530308,
+            "block_time": 1530621028,
+            "source": "1387Ze9HfexTm8zxZzt1xacSu6GtRkvNkS",
+            "issuer": "1387Ze9HfexTm8zxZzt1xacSu6GtRkvNkS",
+            "transfer": 0,
+            "quantity_normalized": "200",
+            "description": "SoG Card\tCard Merchant: West and East: SoG epic card",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9d4953d602057149f90658efa59a3b04383445f1d2423057ec881795136e3c4a",
+            "block_index": 490553,
+            "block_time": 1508379352,
+            "source": "1387Ze9HfexTm8zxZzt1xacSu6GtRkvNkS",
+            "issuer": "1387Ze9HfexTm8zxZzt1xacSu6GtRkvNkS",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "SoG Card\tCard Merchant: West and East: SoG epic card",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "CARMERCHANT",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "207a2012ba40f9241cf4a30476c20674a7101c09e46853860a08808eb6d117a2",
+            "block_index": 751437,
+            "block_time": 1661637645,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/FZfZek2.gif;A tribute to the original SOGS card, The Card Merchant.",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8a2c871ff746301c9d90d0387096e01d6d6546415f1de6a66090b31e2e983dd7",
+            "block_index": 750422,
+            "block_time": 1661073414,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/EDv5srN.gif;A tribute to the original SOGS card, The Card Merchant.",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "c3dceb7f942c6f18355e512cbfcb1a64b50943aa9bb43d2980d180d16757ee0d",
+            "block_index": 750418,
+            "block_time": 1661072000,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/EDv5srN.gif;A tribute to the original SOGS card, The Card Merchant.",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "dca0093be8e9c66d865fb59b329016e0d97ba70a9f8ac1c51be27eb2476d43ce",
+            "block_index": 750412,
+            "block_time": 1661069332,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/FZfZek2.gif;A tribute to the original SOGS card, The Card Merchant.",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8e6c4043fdd5a598ba299f6a5ce7b770e9bd8e4728595278aaa940420c3eb512",
+            "block_index": 750409,
+            "block_time": 1661068050,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "39",
+            "description": "",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a12e8ef07e8643811ddc61d3c68286b73e4833bb7d920ff0982301bcdbef39c1",
+            "block_index": 750409,
+            "block_time": 1661068050,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/FZfZek2.gif;A tribute to the original SOGS card, The Card Merchant.",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "0581b1423800c913c4d684e0bb351b771a10b69d2ed5cba057ab4410f4d2f4b2",
+            "block_index": 750405,
+            "block_time": 1661065495,
+            "source": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "issuer": "17vm4ufVcAFVnRR4Hk51rDsF6TPZ186MHM",
+            "transfer": 0,
+            "quantity_normalized": "111",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "additional_leads": [
+    {
+      "assets": [
+        "NAKAVATOBRRR",
+        "BRRRRRRRRRRR"
+      ],
+      "status": "not_attributed",
+      "reason": "Shared money-printer meme composition may come independently from external meme; cannot establish card-to-card direction."
+    }
+  ],
+  "summary": {
+    "comparisons": 18,
+    "accepted": 1,
+    "rejected": 17
+  }
+}
