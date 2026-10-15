@@ -148,7 +148,13 @@
       "asset": "GRIMSHADI"
     },
     {
-      "asset": "HAIRSHADILAY"
+      "asset": "HAIRSHADILAY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "HHGTTSHADILY"

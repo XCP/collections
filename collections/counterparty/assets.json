@@ -3567,6 +3567,10 @@
         {
           "trait_type": "Artist",
           "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -6800,6 +6804,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -15142,6 +15150,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "WEAREALLPEPE"
         }
       ]
     },
@@ -15340,6 +15352,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -15466,6 +15482,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MORPHEUSPEPE"
         }
       ]
     },
@@ -21907,6 +21927,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -27957,6 +27981,10 @@
         {
           "trait_type": "Artist",
           "value": "Darky"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "WEAREALLPEPE"
         }
       ]
     },
@@ -37099,7 +37127,13 @@
       "asset": "HAIKAIPEPE"
     },
     {
-      "asset": "HAIRYPEPE"
+      "asset": "HAIRYPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "HALACE"

@@ -347,7 +347,13 @@
       "asset": "RETROFICTION"
     },
     {
-      "asset": "RETROHAIR"
+      "asset": "RETROHAIR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "RETROHAIR.SUPERSHINE"

@@ -1,0 +1,1173 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "HAIRPEPE",
+      "candidates": [
+        "DANKCHAIR",
+        "FAKEHAIRPEP",
+        "HAIRFAKER",
+        "JAHAIR.STACKUNDERFLOW",
+        "JAHAIR.SORRYABOUTTHAT",
+        "JAHAIR.ZODIACAL",
+        "JAHAIR.BANTOU",
+        "JAHAIR.TELECASTER",
+        "JAHAIR.EAGLEYE",
+        "JAHAIR.MEDITATE",
+        "JAHAIR",
+        "DEATHAIRDROP",
+        "HAIRYPEPE",
+        "ICONICHAIR",
+        "PEPCHAIRMAN",
+        "DJPEPEBADGER.HAIR-BADGER",
+        "DJPEPEBADGER.SMOOTH-HAIRED-BADGER",
+        "DJPEPEBADGER.SMOOTH-HAIRED-PEPE-BADGER",
+        "HAIRPEAR",
+        "BURNTHAIR",
+        "FAKEHAIRPEP.LAFAKAHARA",
+        "HAIRKEVIN",
+        "JAHAIR.HOLYPHANT",
+        "JAHAIR.WARELIGION",
+        "JAHAIR.FUSION",
+        "JAHAIR.LAYA",
+        "JAHAIR.JUNGLEYE",
+        "JAHAIR.MULTIFACE",
+        "JAHAIR.FIRE",
+        "PEPESCHAIR",
+        "HAIRYELLEN",
+        "NATHANSONIC.SELFPORTRAITWITHHAIR",
+        "PEPEHAIR",
+        "HAIRPURPLE",
+        "HAIRPUNK",
+        "EPEP.DERIAHAIRED.PEPE",
+        "HAIRHARDEN",
+        "HAIRPUNK.PEPEMON",
+        "HAIRPIGEON",
+        "HAIRSHADILAY",
+        "HAIRPENPEN",
+        "RETROHAIR"
+      ]
+    },
+    {
+      "original": "DEXTERPEPE",
+      "candidates": [
+        "LILPHOCKERS.DEXTER"
+      ]
+    },
+    {
+      "original": "MORPHEUSPEPE",
+      "candidates": [
+        "BLUEBEAR.MORPHEUS",
+        "BLUEBEAR.MORPHEUS.gem",
+        "MORPHEUSORDI"
+      ]
+    },
+    {
+      "original": "TECHNOPEPE",
+      "candidates": [
+        "KINGOFTECHNO",
+        "TECHNOFAKE",
+        "TECHNO"
+      ]
+    },
+    {
+      "original": "WINKELPEPE",
+      "candidates": [
+        "PEPEFRENZ.WINKELPEPE"
+      ]
+    },
+    {
+      "original": "PEPEPEARL",
+      "candidates": [
+        "PEPEARLEQUIN",
+        "PEPEGLASS.PEARL",
+        "FAUXPEARL",
+        "YEEZYPEARL",
+        "DERPYPEARL",
+        "ETERNALART.GIRLWITHAPEARLEARRING",
+        "WOJAKPEARL"
+      ]
+    },
+    {
+      "original": "PEPEMINING",
+      "candidates": [
+        "FIATMINING",
+        "MININGPEN",
+        "DANKMINING",
+        "MININGDASH",
+        "MININGPEPEL",
+        "MININGTOKEN",
+        "FAUXJHEEZE.MELLOWMINING",
+        "BITMINING"
+      ]
+    },
+    {
+      "original": "WEAREALLPEPE",
+      "candidates": [
+        "WEAREALLSAT",
+        "WEAREALLGOGO",
+        "WEAREALLJOEY"
+      ]
+    },
+    {
+      "original": "TIMEPEPE",
+      "candidates": [
+        "TIMEDANK",
+        "NITETIMEPEPE",
+        "DANKMEMETIME",
+        "PEPEINTIME",
+        "DANKATIME",
+        "BTCOFFEETIME",
+        "BIGTIMEWOW",
+        "HAPPYTIMES",
+        "TIMEISRUNNIN",
+        "HARVESTTIME",
+        "KEKMASTIME",
+        "THENAPTIME",
+        "TIMESTOCOME",
+        "WHATIS.TIME",
+        "TESTINGFW.TIMELINEXCPTEST1",
+        "FALLTIME",
+        "ORANGETIMES",
+        "PEPETIMEHIGH",
+        "QRTIMEEST",
+        "SATOSHITIME",
+        "THETIMESNEWS",
+        "TIMEPROOF",
+        "TIMELINEXCP.CanvasPrint.V1",
+        "TIMELINEXCP.COFFEEMUG.V1",
+        "TIMELINEXCP.MOUSEPAD.V1",
+        "TIMELINEXCP.Calendar.V1",
+        "DACHUMPLANDS.TIMELAPSE",
+        "TEATIMEAPE",
+        "TIMEMEMORIES",
+        "THEKEKOTIMES",
+        "WHATTIME",
+        "TIMEFORBED",
+        "FEDTIMEFOUR",
+        "FEDTIMEONE",
+        "FEDTIMESIX",
+        "FEDTIMETHREE",
+        "HODLTRUMPS.BATHTIME",
+        "PEPETEATIME",
+        "TIMETOBUY",
+        "CARDTHETIMES",
+        "HERTIMEISNOW",
+        "KALEIDOSCOPE.TIME",
+        "THEOSTIME",
+        "MELLOWTIME",
+        "CIVILLIANS.PARTTIMEBRADPITTMAN",
+        "THETIMES",
+        "ORDINALSTIME",
+        "DANKTIMES",
+        "PEPEINTIME.SUB",
+        "TIMETOSOCK",
+        "PEENTIME",
+        "BOOMTIME",
+        "SHQWTIME",
+        "TIMESOFCHAOS",
+        "VANCOCOGH.TIMELAPSE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "HAIRPEPE",
+      "asset": "DANKCHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "FAKEHAIRPEP",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "SMOOVEHAIRFB",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "SMOOVEHAIR",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRFAKER",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.STACKUNDERFLOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.SORRYABOUTTHAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.ZODIACAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.BANTOU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.TELECASTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.EAGLEYE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.MEDITATE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "DEATHAIRDROP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRYPEPE",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "ICONICHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "PEPCHAIRMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "DJPEPEBADGER.HAIR-BADGER",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "DJPEPEBADGER.SMOOTH-HAIRED-BADGER",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "DJPEPEBADGER.SMOOTH-HAIRED-PEPE-BADGER",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPEAR",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "BURNTHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "FAKEHAIRPEP.LAFAKAHARA",
+      "status": "accepted",
+      "attributed_original": "FAKEHAIRPEP",
+      "reason": "Direct edit of FAKEHAIRPEP: same back-facing figure, background, sister caption and card text with added laser eyes."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRKEVIN",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.HOLYPHANT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.WARELIGION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.FUSION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.LAYA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.JUNGLEYE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.MULTIFACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "JAHAIR.FIRE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "PEPESCHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRYELLEN",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "NATHANSONIC.SELFPORTRAITWITHHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "PEPEHAIR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPURPLE",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPUNK",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "EPEP.DERIAHAIRED.PEPE",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRHARDEN",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPUNK.PEPEMON",
+      "status": "accepted",
+      "attributed_original": "HAIRPUNK",
+      "reason": "Reuses the HAIRPUNK pixel portrait, including its hair, glasses and purple background, in a Pokemon-style card."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPIGEON",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRSHADILAY",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "HAIRPENPEN",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "RETROHAIR",
+      "status": "accepted",
+      "attributed_original": "HAIRPEPE",
+      "reason": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "original": "HAIRPEPE",
+      "asset": "RETROHAIR.SUPERSHINE",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "DEXTERPEPE",
+      "asset": "LILPHOCKERS.DEXTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MORPHEUSPEPE",
+      "asset": "BLUEBEAR.MORPHEUS",
+      "status": "accepted",
+      "attributed_original": "MORPHEUSPEPE",
+      "reason": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "original": "MORPHEUSPEPE",
+      "asset": "BLUEBEAR.MORPHEUS.gem",
+      "status": "accepted",
+      "attributed_original": "MORPHEUSPEPE",
+      "reason": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "original": "MORPHEUSPEPE",
+      "asset": "MORPHEUSORDI",
+      "status": "accepted",
+      "attributed_original": "MORPHEUSPEPE",
+      "reason": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "original": "TECHNOPEPE",
+      "asset": "KINGOFTECHNO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TECHNOPEPE",
+      "asset": "TECHNOFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TECHNOPEPE",
+      "asset": "TECHNO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "WINKELPEPE",
+      "asset": "PEPEFRENZ.WINKELPEPE",
+      "status": "accepted",
+      "attributed_original": "WINKELPEPE",
+      "reason": "Recreates the twin corridor image, WINKELPEPE heading, rising red arrow and first-shitcard-ETF caption."
+    },
+    {
+      "original": "WINKELPEPE",
+      "asset": "PEPEFRENZ.SECURITY.WINKEL.DANDARK.BARRY",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "PEPEARLEQUIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "PEARLBASQ",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "PEPEGLASS.PEARL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "FAUXPEARL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "PEPAPEARL",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "YEEZYPEARL",
+      "status": "accepted",
+      "attributed_original": "PEPEPEARL",
+      "reason": "Retains the Pepe Pearl title treatment and composition while replacing the face; other Vermeer adaptations are not inferred from subject alone."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "DERPYPEARL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "ETERNALART.GIRLWITHAPEARLEARRING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "FAKEPEARL.OIL",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "PEPEPEARL",
+      "asset": "WOJAKPEARL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "FIATMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "MININGPEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "DANKMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "MININGDASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "MININGPEPEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "MININGTOKEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "FAUXJHEEZE.MELLOWMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMINING",
+      "asset": "BITMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "WEAREALLPEPE",
+      "asset": "WEAREALLSAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "WEAREALLPEPE",
+      "asset": "WEAREALLGOGO",
+      "status": "accepted",
+      "attributed_original": "WEAREALLPEPE",
+      "reason": "Recreates the repeated character field, title, equality/max panel and bottom even-though-rare caption."
+    },
+    {
+      "original": "WEAREALLPEPE",
+      "asset": "WEAREALLJOEY",
+      "status": "accepted",
+      "attributed_original": "WEAREALLPEPE",
+      "reason": "Recreates the repeated character field, title, equality/max panel and bottom even-though-rare caption."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMELINEXCP",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMEDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "NITETIMEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "DANKMEMETIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "PEPEINTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "DANKATIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "BTCOFFEETIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "BIGTIMEWOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "HAPPYTIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMEISRUNNIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "HARVESTTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "KEKMASTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "THENAPTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMESTOCOME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "WHATIS.TIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TESTINGFW.TIMELINEXCPTEST1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "FALLTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "ORANGETIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "PEPETIMEHIGH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "QRTIMEEST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "SATOSHITIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "THETIMESNEWS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMEPROOF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMELINEXCP.CanvasPrint.V1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMELINEXCP.COFFEEMUG.V1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMELINEXCP.MOUSEPAD.V1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMELINEXCP.Calendar.V1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "DACHUMPLANDS.TIMELAPSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TEATIMEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMEMEMORIES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "THEKEKOTIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "WHATTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMEFORBED",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "FEDTIMEFOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "FEDTIMEONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "FEDTIMESIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "FEDTIMETHREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "HODLTRUMPS.BATHTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "PEPETEATIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMETOBUY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "CARDTHETIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "HERTIMEISNOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "KALEIDOSCOPE.TIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "THEOSTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "MELLOWTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "CIVILLIANS.PARTTIMEBRADPITTMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "THETIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "ORDINALSTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "DANKTIMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "PEPEINTIME.SUB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMETOSOCK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "PEENTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "BOOMTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "SHQWTIME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "TIMESOFCHAOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TIMEPEPE",
+      "asset": "VANCOCOGH.TIMELAPSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "FAKEHAIRPEP",
+      "original": "HAIRPEPE",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/FAKEHAIRPEP?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRFAKER",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HAIRFAKER?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRYPEPE",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HAIRYPEPE?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "DJPEPEBADGER.HAIR-BADGER",
+      "original": "HAIRPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.HAIR-BADGER?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "DJPEPEBADGER.SMOOTH-HAIRED-BADGER",
+      "original": "HAIRPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.SMOOTH-HAIRED-BADGER?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "DJPEPEBADGER.SMOOTH-HAIRED-PEPE-BADGER",
+      "original": "HAIRPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.SMOOTH-HAIRED-PEPE-BADGER?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRPEAR",
+      "original": "HAIRPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/HAIRPEAR?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "FAKEHAIRPEP.LAFAKAHARA",
+      "original": "FAKEHAIRPEP",
+      "collection": "fakehairpep",
+      "image": "https://cdn.xcp.io/img/full/FAKEHAIRPEP.LAFAKAHARA?image=1",
+      "evidence": "Direct edit of FAKEHAIRPEP: same back-facing figure, background, sister caption and card text with added laser eyes."
+    },
+    {
+      "asset": "HAIRKEVIN",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HAIRKEVIN?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRPURPLE",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HAIRPURPLE?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "EPEP.DERIAHAIRED.PEPE",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/EPEP.DERIAHAIRED.PEPE?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRHARDEN",
+      "original": "HAIRPEPE",
+      "collection": "pepe-flyers",
+      "image": "https://cdn.xcp.io/img/full/HAIRHARDEN?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRPUNK.PEPEMON",
+      "original": "HAIRPUNK",
+      "collection": "pepemon",
+      "image": "https://cdn.xcp.io/img/full/HAIRPUNK.PEPEMON?image=1",
+      "evidence": "Reuses the HAIRPUNK pixel portrait, including its hair, glasses and purple background, in a Pokemon-style card."
+    },
+    {
+      "asset": "HAIRPIGEON",
+      "original": "HAIRPEPE",
+      "collection": "rare-pigeons",
+      "image": "https://cdn.xcp.io/img/full/HAIRPIGEON?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRSHADILAY",
+      "original": "HAIRPEPE",
+      "collection": "rare-shadilay",
+      "image": "https://cdn.xcp.io/img/full/HAIRSHADILAY?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRPENPEN",
+      "original": "HAIRPEPE",
+      "collection": "rarepenpen",
+      "image": "https://cdn.xcp.io/img/full/HAIRPENPEN?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "RETROHAIR",
+      "original": "HAIRPEPE",
+      "collection": "retroxcp",
+      "image": "https://cdn.xcp.io/img/full/RETROHAIR?image=1",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "BLUEBEAR.MORPHEUS",
+      "original": "MORPHEUSPEPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.MORPHEUS?image=1",
+      "evidence": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "asset": "BLUEBEAR.MORPHEUS.gem",
+      "original": "MORPHEUSPEPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.MORPHEUS.gem?image=1",
+      "evidence": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "asset": "MORPHEUSORDI",
+      "original": "MORPHEUSPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/MORPHEUSORDI?image=1",
+      "evidence": "Reuses the distinctive face, sunglasses and raised hand composition of MORPHEUSPEPE with a replacement animal face."
+    },
+    {
+      "asset": "PEPEFRENZ.WINKELPEPE",
+      "original": "WINKELPEPE",
+      "collection": "pepefrenz",
+      "image": "https://cdn.xcp.io/img/full/PEPEFRENZ.WINKELPEPE?image=1",
+      "evidence": "Recreates the twin corridor image, WINKELPEPE heading, rising red arrow and first-shitcard-ETF caption."
+    },
+    {
+      "asset": "YEEZYPEARL",
+      "original": "PEPEPEARL",
+      "collection": "dank-fakers",
+      "image": "https://cdn.xcp.io/img/full/YEEZYPEARL?image=1",
+      "evidence": "Retains the Pepe Pearl title treatment and composition while replacing the face; other Vermeer adaptations are not inferred from subject alone."
+    },
+    {
+      "asset": "WEAREALLGOGO",
+      "original": "WEAREALLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/WEAREALLGOGO?image=1",
+      "evidence": "Recreates the repeated character field, title, equality/max panel and bottom even-though-rare caption."
+    },
+    {
+      "asset": "WEAREALLJOEY",
+      "original": "WEAREALLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/WEAREALLJOEY?image=1",
+      "evidence": "Recreates the repeated character field, title, equality/max panel and bottom even-though-rare caption."
+    },
+    {
+      "asset": "HAIRYELLEN",
+      "original": "HAIRPEPE",
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    },
+    {
+      "asset": "HAIRPUNK",
+      "original": "HAIRPEPE",
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses or redraws the distinctive smooth-haired portrait, or recreates the purple card with its hair-treatment text and layout."
+    }
+  ],
+  "unapplied": []
+}

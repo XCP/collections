@@ -49,7 +49,13 @@
       "asset": "GAMESOFPEN"
     },
     {
-      "asset": "HAIRPENPEN"
+      "asset": "HAIRPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERPENPEN"
