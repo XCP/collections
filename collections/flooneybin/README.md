@@ -22,3 +22,9 @@ Artist credits, distinct asset identities and established official primary homes
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FLOONEYBIN.FLOONEYDELIC](https://api.xcp.io/v2/assets/A1008606930440202019/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **subassets**. Community-made works across an explicit namespace, preserving individual contributors.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

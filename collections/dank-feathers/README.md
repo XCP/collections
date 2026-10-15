@@ -16,3 +16,9 @@
 ## Parent artwork
 
 DANKFEATHERS is included secondarily as the related parent artwork. Its primary home remains dank-rares. Reviewed 2026-10-10 against the explicit namespace and CDN artwork; existing parent artist credits are preserved independently of its children.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **variations**. Parent-line, colour and distortion treatments.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

@@ -31,3 +31,9 @@ All members below have reviewed artwork. Existing creator credits and traits are
 **Subassets** — FALMIGHTYF.SPARTDANKS is a distinct composition rather than another rendering of the parent. The evidence for this grouping is the explicit parent/subasset relationship documented above; no independently named project is asserted. Sources: https://api.xcp.io/v2/assets/FALMIGHTYF and https://api.xcp.io/v2/assets/A16624309214999017004 .
 
 This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **subassets**. Parent and distinct SPARTDANKS companion; PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

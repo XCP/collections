@@ -28,3 +28,9 @@ Specific artwork families take primary precedence over Kaleidoscope, retained as
 **Variations** — The live creator JSON explicitly names Black - a bitcoin is and White - a bitcoin is. The matching composition uses inverse palettes. These are separate named assets, so no arbitrary parent is assigned. Sources: https://www.blockchainizator.com/f/kaleidoscope/j/blackbitcoin.json and https://www.blockchainizator.com/f/kaleidoscope/j/whitebitcoin.json . Both JSON files were readable on review.
 
 This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **variations**. Black and white treatments; already proposed in PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

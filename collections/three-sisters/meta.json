@@ -3,6 +3,6 @@
   "kind": "canonical",
   "description": "Three portraits in the THREESISTERS namespace, their framed presentations, and the illustrated triptych parent.",
   "art_frame": "card",
-  "variation_of": "THREESISTERS",
-  "founded": 2022
+  "founded": 2022,
+  "editorial_type": "series"
 }

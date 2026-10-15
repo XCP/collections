@@ -22,3 +22,9 @@ Reviewed 2026-10-10 using exact xcpio-core identities, descriptions, live linked
 ## Project year
 
 **2026** — The 2026 child issuance embeds SVG artwork directly in its description alongside positive edition supply. Anchor: [MEMPEPE.ONCHAIN](https://api.xcp.io/v2/assets/A3163730765383470521/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **variations**. Six named MEMETICX typography colour studies.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

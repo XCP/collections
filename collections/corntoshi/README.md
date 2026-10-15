@@ -10,7 +10,7 @@
 | Primary memberships | 5 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/5 (20%)<br>Artist: 5/5 (100%) |
+| Traits | Art year: 1/5 (20%)<br>Artist: 5/5 (100%)<br>Based on: 3/5 (60%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -31,3 +31,17 @@ AP describes an artist proof but displays a placeholder; PRINTNEG has an empty d
 ## Project year
 
 **2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNTOSHI.PRINT](https://api.xcp.io/v2/assets/A17104623112257322509/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+The redundant `corntoshi-variants` entry is consolidated here. Every member and existing trait was already present; no asset, artist credit or surviving primary membership is removed. Its narrower relationship to `CORNTOSHI` is retained only on the explicit children through `Based on` traits. Other companion artworks are not assigned that relationship.
+
+### Preserved evidence from the retired group
+
+## Membership evidence
+
+Reviewed 2026-10-13 by comparing CDN card art for CORNTOSHI against its CORNTOSHI.* subassets on side-by-side contact sheets. Included: CORNTOSHI.PRINT, CORNTOSHI.NEGATIVE, CORNTOSHI.PHYSICAL (print, negative and framed physical versions). Subassets showing distinct works are left out. All members keep their primary home in the corntoshi collection and appear here as secondary members. Existing traits are preserved.
+
+## Project year
+
+**2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [CORNTOSHI.PRINT](https://api.xcp.io/v2/assets/A17104623112257322509/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.

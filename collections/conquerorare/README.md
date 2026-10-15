@@ -31,3 +31,9 @@ All members below have reviewed artwork. Existing creator credits and traits are
 **Subassets** — CONQUERORARE.HONORARY is a related but distinct honorary composition. The on-chain namespace establishes its relationship to the parent; this does not establish an independently published collection. Sources: https://api.xcp.io/v2/assets/CONQUERORARE and https://api.xcp.io/v2/assets/A12371002816681862830 .
 
 This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **subassets**. Parent and honorary companion; PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

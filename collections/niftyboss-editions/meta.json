@@ -1,7 +1,7 @@
 {
-  "name": "Niftyboss Editions",
+  "name": "Niftyboss",
   "kind": "canonical",
-  "description": "Niftyboss’s Counterparty collectible card editions, including BOSSCARD, SATCANNON and PEPEPANIC.",
+  "description": "Niftyboss collectible-card artworks, grouped from exact-asset metadata and the shared card format.",
   "art_frame": "card",
   "links": {
     "x": "https://x.com/NIFTYBOSS1"

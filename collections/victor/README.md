@@ -18,3 +18,9 @@ The eight issuer-linked on-chain descriptions explicitly name Victor 1/8 through
 ## Project year
 
 **2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [A11154296116510275657](https://api.xcp.io/v2/assets/A11154296116510275657/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **variations**. Eight explicitly numbered colour treatments of one slogan composition.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

@@ -4,7 +4,13 @@
       "asset": "HEROBOY"
     },
     {
-      "asset": "HEROBOY.FRAME"
+      "asset": "HEROBOY.FRAME",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HEROBOY"
+        }
+      ]
     },
     {
       "asset": "HEROBOY.RAFFLE"
