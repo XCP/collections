@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-15",
+  "method": "Two original-to-many first-frame sheets and one animation sheet visually inspected. Four animations including MAKEPEPERARE original sampled at four spaced positions, not exhaustive playback. FAKEITMAKEIT black first frame is not missing media; later samples render artwork.",
+  "reviewed": [
+    {
+      "original": "MAKEPEPERARE",
+      "volume_usd": 8105.977992312583,
+      "buyers": 209,
+      "candidates": [
+        "CANDLEMAKER",
+        "FAKEITMAKEIT",
+        "FAKEITMAKEIT.fakeit",
+        "FAKEITMAKEIT.fakeitmakeit",
+        "FAKEITMAKEIT.makeit",
+        "FRESHMAKER",
+        "HAYMAKER",
+        "HODLTRUMPS.FRENMAKER",
+        "KETCHUPMAKER",
+        "MAKEPEPEACE",
+        "PEPEMAKER",
+        "PEPEREMAKEK",
+        "THEBOOKMAKER"
+      ]
+    },
+    {
+      "original": "CORNARTIST",
+      "volume_usd": 317.95074999999997,
+      "buyers": 9,
+      "candidates": [
+        "DANKBETTY.ARTISTPROOFSCENEONE",
+        "DANKBETTY.ARTISTPROOFSCENETHREE",
+        "DANKBETTY.ARTISTPROOFSCENETWO",
+        "FAKESOONMIRO.ARTISTEDITION",
+        "HODLTRUMPS.ARTISTE",
+        "LARTISTE",
+        "NOTANARTIST",
+        "PEPEARTISTE",
+        "PEPEFLYERS.V1.AP_ArtistTag",
+        "SATOARTIST",
+        "THEARTIST"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FAKEITMAKEIT",
+      "pages": 266,
+      "sampled_frames": [
+        0,
+        88,
+        177,
+        265
+      ]
+    },
+    {
+      "asset": "MAKEPEPERARE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "KETCHUPMAKER",
+      "pages": 119,
+      "sampled_frames": [
+        0,
+        39,
+        79,
+        118
+      ]
+    },
+    {
+      "asset": "THEBOOKMAKER",
+      "pages": 198,
+      "sampled_frames": [
+        0,
+        66,
+        131,
+        197
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "CANDLEMAKER",
+      "status": "rejected",
+      "reason": "Candle-covered fantasy creature. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "FAKEITMAKEIT",
+      "status": "rejected",
+      "reason": "Animated crowned/uncrowned portrait and Fake It typography; black opening/closing frames intentional. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "FAKEITMAKEIT.fakeit",
+      "status": "rejected",
+      "reason": "Red portrait poster. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "FAKEITMAKEIT.fakeitmakeit",
+      "status": "rejected",
+      "reason": "Multicolor crowned portrait poster. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "FAKEITMAKEIT.makeit",
+      "status": "rejected",
+      "reason": "Turquoise crowned portrait poster. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "FRESHMAKER",
+      "status": "rejected",
+      "reason": "Frog and Bitcoin suspended below vehicle mirror. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "HAYMAKER",
+      "status": "rejected",
+      "reason": "Fantasy fighters. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "HODLTRUMPS.FRENMAKER",
+      "status": "rejected",
+      "reason": "Handshake emblem. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "KETCHUPMAKER",
+      "status": "rejected",
+      "reason": "Tomato police character alternating with armed corn character. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "MAKEPEPEACE",
+      "status": "rejected",
+      "reason": "Frog floating over tanks. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "PEPEMAKER",
+      "status": "rejected",
+      "reason": "Frog creating art at desk. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "PEPEREMAKEK",
+      "status": "rejected",
+      "reason": "Large smiling frog head on multicolor background. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "MAKEPEPERARE",
+      "asset": "THEBOOKMAKER",
+      "status": "rejected",
+      "reason": "Gangster/sports betting film montage. No specific reuse of the source frog with exaggerated tall red Make Pepe Rare hat and white collar in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-MAKEPEPERARE-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "DANKBETTY.ARTISTPROOFSCENEONE",
+      "status": "rejected",
+      "reason": "Line drawing of two characters with money. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "DANKBETTY.ARTISTPROOFSCENETHREE",
+      "status": "rejected",
+      "reason": "Line drawing of group at departures. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "DANKBETTY.ARTISTPROOFSCENETWO",
+      "status": "rejected",
+      "reason": "Line drawing of travelers. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "FAKESOONMIRO.ARTISTEDITION",
+      "status": "rejected",
+      "reason": "Soon graphic with paint-software interface. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "HODLTRUMPS.ARTISTE",
+      "status": "rejected",
+      "reason": "Palette and brush emblem. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "LARTISTE",
+      "status": "rejected",
+      "reason": "Painter before stone with sculptures behind. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "NOTANARTIST",
+      "status": "rejected",
+      "reason": "Hand-drawn book and Not An Artist text. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "PEPEARTISTE",
+      "status": "rejected",
+      "reason": "Frog portrait with beret. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "PEPEFLYERS.V1.AP_ArtistTag",
+      "status": "rejected",
+      "reason": "Painted shoes. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "SATOARTIST",
+      "status": "rejected",
+      "reason": "Cartoon painter with Bitcoin canvas. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    },
+    {
+      "original": "CORNARTIST",
+      "asset": "THEARTIST",
+      "status": "rejected",
+      "reason": "Frog painting in purple-lit studio. No specific reuse of the source seated corn painter with palette beside canvas in studio in inspected imagery; shared name or painter subject insufficient.",
+      "evidence_sheet": "sheets/group-CORNARTIST-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 24,
+    "accepted": 0,
+    "rejected": 24
+  }
+}
