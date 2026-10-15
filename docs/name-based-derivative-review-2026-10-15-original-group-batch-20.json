@@ -1,0 +1,717 @@
+{
+  "date": "2026-10-15",
+  "method": "Five complete first-frame source-group sheets and four animation sheets viewed. Thirteen animations (including CORNLEGEND original) sampled at four spaced positions, not exhaustive playback. Rejections apply only to the named original and inspected frames; no inference about all other possible originals. Names, shared subjects and common card templates alone are not accepted.",
+  "reviewed": [
+    {
+      "original": "CORNLEGEND",
+      "volume_usd": 86.1000007734,
+      "buyers": 3,
+      "candidates": [
+        "FAUXLEGENDS",
+        "TRUELEGEND",
+        "BTCLEGEND",
+        "COCOLEGEND",
+        "EMBLEMLEGEND",
+        "EVOLVINGPEPE.Legend",
+        "EVOLVINGPEPE.Legendary",
+        "EVTESTLEGEND",
+        "FAKELEGEND",
+        "LEGENDOFPEPE",
+        "LEGENDSPEPE",
+        "MEMELEGEND",
+        "SCARCECITY.XCP_LEGEND",
+        "SNIBBY.legendary",
+        "TOPFLOORPEPE.legend",
+        "XCHAINLEGEND"
+      ]
+    },
+    {
+      "original": "BITCORNBILL",
+      "volume_usd": 945.1904453320001,
+      "buyers": 4,
+      "candidates": [
+        "PEPEBILLION",
+        "PEPEBILLIONS",
+        "SCRILLBILL",
+        "BILLIONADROP",
+        "BILLIONAIREC",
+        "BILLNTEDPEPE",
+        "BILLRUSSEL",
+        "BILLRUSSELL",
+        "BILLS",
+        "BILLYBUCKS",
+        "BILLYM",
+        "BILLYMAIZE",
+        "CORRUPTBILL",
+        "DARKBILLPEPE",
+        "DJPEPEBADGER.BILLIONAIRE-BTC-BOYS-CLUB",
+        "FAKEBILL",
+        "FRANKLINPEPE.BILL",
+        "HILLBILLYAPE",
+        "PEPEBILL",
+        "PHOCKHORROR.BILLY",
+        "SAWBILL"
+      ]
+    },
+    {
+      "original": "PEPEIRON",
+      "volume_usd": 3528.3569813843988,
+      "buyers": 6,
+      "candidates": [
+        "FLATIRONDANK",
+        "IRON",
+        "IRONFAKE",
+        "IRONMACEPEPE",
+        "IRONMIKE",
+        "IRONMOUNTAIN",
+        "IRONNAKAMOTO",
+        "IRONTHEDUCK",
+        "KIRADIRONPEP",
+        "SATOSHISWORD.DARKSATOSHIRONIN1",
+        "SATOSHISWORD.DARKSATOSHIRONIN11",
+        "SATOSHISWORD.DARKSATOSHIRONIN2",
+        "SATOSHISWORD.DARKSATOSHIRONIN3",
+        "SATOSHISWORD.DARKSATOSHIRONIN4",
+        "SATOSHISWORD.DARKSATOSHIRONIN5",
+        "SATOSHISWORD.DARKSATOSHIRONIN6",
+        "SATOSHISWORD.DARKSATOSHIRONIN7",
+        "SATOSHISWORD.DARKSATOSHIRONIN8",
+        "SATOSHISWORD.DARKSATOSHIRONIN9"
+      ]
+    },
+    {
+      "original": "DEEPCORN",
+      "volume_usd": 789.45951193,
+      "buyers": 11,
+      "candidates": [
+        "BLADEEPEPE",
+        "DEEPDIVE",
+        "DEEPFAKEFAKE",
+        "DEEPFRYSME",
+        "DEEPLAND",
+        "DEEPOPEPE",
+        "DEEPPEPE",
+        "DEEPSEEKPEPE",
+        "DEEPVALUE",
+        "DEEPWEBPEPE",
+        "FWCFCOFDEEPC",
+        "TRUDEEPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CORNLEGEND",
+      "pages": 35,
+      "sampled_frames": [
+        0,
+        11,
+        23,
+        34
+      ]
+    },
+    {
+      "asset": "TRUELEGEND",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "asset": "LEGENDSPEPE",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "LEGENDOFPEPE",
+      "pages": 51,
+      "sampled_frames": [
+        0,
+        17,
+        33,
+        50
+      ]
+    },
+    {
+      "asset": "SCRILLBILL",
+      "pages": 264,
+      "sampled_frames": [
+        0,
+        88,
+        175,
+        263
+      ]
+    },
+    {
+      "asset": "BILLYM",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "HILLBILLYAPE",
+      "pages": 10,
+      "sampled_frames": [
+        0,
+        3,
+        6,
+        9
+      ]
+    },
+    {
+      "asset": "PEPEBILL",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "FLATIRONDANK",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "IRONNAKAMOTO",
+      "pages": 44,
+      "sampled_frames": [
+        0,
+        14,
+        29,
+        43
+      ]
+    },
+    {
+      "asset": "DEEPFRYSME",
+      "pages": 250,
+      "sampled_frames": [
+        0,
+        83,
+        166,
+        249
+      ]
+    },
+    {
+      "asset": "DEEPLAND",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "DEEPWEBPEPE",
+      "pages": 123,
+      "sampled_frames": [
+        0,
+        41,
+        81,
+        122
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNLEGEND",
+      "asset": "FAUXLEGENDS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "TRUELEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "BTCLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "COCOLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "EMBLEMLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "EVOLVINGPEPE.Legend",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "EVOLVINGPEPE.Legendary",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "EVTESTLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "FAKELEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "LEGENDOFPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "LEGENDSPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "MEMELEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "SCARCECITY.XCP_LEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "SNIBBY.legendary",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "TOPFLOORPEPE.legend",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "CORNLEGEND",
+      "asset": "XCHAINLEGEND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the bespectacled Dan Anderson portrait, outstretched hand and rotating corn coin against green matrix background. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-CORNLEGEND-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "PEPEBILLION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "PEPEBILLIONS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "SCRILLBILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLIONADROP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLIONAIREC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLNTEDPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLRUSSEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLRUSSELL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLYBUCKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLYM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "BILLYMAIZE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "CORRUPTBILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "DARKBILLPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "DJPEPEBADGER.BILLIONAIRE-BTC-BOYS-CLUB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "FAKEBILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "FRANKLINPEPE.BILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "HILLBILLYAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "PEPEBILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-0.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "PHOCKHORROR.BILLY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-19.png"
+    },
+    {
+      "original": "BITCORNBILL",
+      "asset": "SAWBILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the sunglasses-wearing billionaire in a gold car beside banknotes and mansion. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-BITCORNBILL-19.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "FLATIRONDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONMACEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONMIKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONMOUNTAIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONNAKAMOTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "IRONTHEDUCK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "KIRADIRONPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN3",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN4",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN7",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN8",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "PEPEIRON",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN9",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the front-facing green bodybuilder flexing both arms with eyes on biceps and red trunks. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-PEPEIRON-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "BLADEEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPDIVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPFAKEFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPFRYSME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPLAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPOPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPSEEKPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPVALUE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "DEEPWEBPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "FWCFCOFDEEPC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    },
+    {
+      "original": "DEEPCORN",
+      "asset": "TRUDEEPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the corn-stalk tunnel, staircase and purple monster at its center. Shared name fragments or general themes do not establish this specific derivation.",
+      "evidence_sheet": "sheets/group-DEEPCORN-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 68,
+    "accepted": 0,
+    "rejected": 68
+  }
+}
