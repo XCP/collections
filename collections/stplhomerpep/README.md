@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 1/2 (50%)<br>Artist: 1/2 (50%)<br>Card: 1/2 (50%)<br>Series: 1/2 (50%) |
+| Traits | Art year: 1/2 (50%)<br>Artist: 1/2 (50%)<br>Based on: 1/2 (50%)<br>Card: 1/2 (50%)<br>Series: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -20,3 +20,5 @@ Reviewed 2026-10-13 by comparing CDN card art for STPLHOMERPEP against its  suba
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [STPLHOMERPEP.STPLHOMERALT](https://api.xcp.io/v2/assets/A15319067514542466861/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+Closest-source Homer variant relationships are preserved by the [enlarged artwork and historical media review](../../docs/name-based-derivative-review-2026-10-15-homer-group-followup.json). Artist credits and membership are unchanged.

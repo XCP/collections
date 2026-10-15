@@ -6,6 +6,10 @@
         {
           "trait_type": "Artist",
           "value": "SilK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERLAY.CLASSIC"
         }
       ]
     },
@@ -15,6 +19,10 @@
         {
           "trait_type": "Artist",
           "value": "SilK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERLAY"
         }
       ]
     },
@@ -24,6 +32,10 @@
         {
           "trait_type": "Artist",
           "value": "SilK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ],
       "primary": false

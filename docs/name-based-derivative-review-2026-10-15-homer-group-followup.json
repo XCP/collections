@@ -1,0 +1,836 @@
+{
+  "date": "2026-10-15",
+  "method": "Enlarged parent and child artwork inspected. Prior batch19 animation samples retained; no new exhaustive animation claim. Resolve subassets through core asset detail numeric ID before issuance lookup; longname issuance endpoint returned empty arrays. Historical descriptions linking media establish ordering, not bare asset registration. Arweave canonical JSON recovered for HOMERCHECKS and FAKEDOSHOMER; no specific source attribution in those documents.",
+  "decisions": [
+    {
+      "asset": "HOMERLAY",
+      "original": "HOMERPEPE",
+      "status": "accepted",
+      "reason": "Reworks HOMERPEPE title, yellow card, stat strip, Wait a minute I am a Pepe caption and rareness panel as a Homer/Shadilay hybrid. Its linked media is recorded August 2022, after the 2016 source.",
+      "evidence_images": [
+        "previews/HOMERLAY-detail.png"
+      ]
+    },
+    {
+      "asset": "HOMERLAY.CLASSIC",
+      "original": "HOMERLAY",
+      "status": "accepted",
+      "reason": "Same hybrid pose, shirt, circular backdrop and card as HOMERLAY, adding hair/glasses and replacing beer with wine. Linked media August 14 follows parent August 12, 2022.",
+      "evidence_images": [
+        "previews/HOMERLAY.CLASSIC-detail.png"
+      ]
+    },
+    {
+      "asset": "HOMERLAY.DISCOCLASSIC",
+      "original": "HOMERLAY.CLASSIC",
+      "status": "accepted",
+      "reason": "Retains Classic-specific swept hairstyle, glasses and hybrid face in a new dancing composition. Linked media September 2022 follows Classic August 2022; retain closest intermediate.",
+      "evidence_images": [
+        "previews/HOMERLAY.DISCOCLASSIC-detail.png"
+      ]
+    },
+    {
+      "asset": "STPLHOMERPEP.STPLHOMERALT",
+      "original": "STPLHOMERPEP",
+      "status": "accepted",
+      "reason": "Same stippled head, hair, eyes, smile and card divisions as parent; replaces multicolor patchwork with blue field. Parent linked media August 2022 precedes alternate November 2022.",
+      "evidence_images": [
+        "previews/STPLHOMERPEP.STPLHOMERALT-detail.png"
+      ]
+    },
+    {
+      "asset": "HOMERDROOL",
+      "original": "HOMERAPE",
+      "status": "rejected",
+      "reason": "Enlarged images have different face direction, eyes, ears and shirt outlines; common drooling Simpsons/Bored Ape reference does not demonstrate derivation from this exact card.",
+      "evidence_images": [
+        "previews/HOMERAPE-detail.png",
+        "previews/HOMERDROOL-detail.png"
+      ]
+    }
+  ],
+  "resolved_followups": [
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERLAY",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-19.json",
+      "resolution": "Accepted closest original: HOMERPEPE"
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERLAY.CLASSIC",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-19.json",
+      "resolution": "Accepted closest original: HOMERLAY"
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "HOMERLAY.DISCOCLASSIC",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-19.json",
+      "resolution": "Accepted closest original: HOMERLAY.CLASSIC"
+    },
+    {
+      "original": "HOMERPEPE",
+      "asset": "STPLHOMERPEP.STPLHOMERALT",
+      "previous_evidence_file": "name-based-derivative-review-2026-10-15-original-group-batch-19.json",
+      "resolution": "Accepted closest original: STPLHOMERPEP"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "HOMERLAY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "5680806b12d9be4a000169dbccd43ff19dad320d5b42d647338d1c3cf72fa6c0",
+            "block_index": 749164,
+            "block_time": 1660331827,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/cc9pwi/HOMER.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "fe7fc35c498564d62a24ac75e208e32faacae6391c64b4c0be8ad0b612e7dbb7",
+            "block_index": 749162,
+            "block_time": 1660330398,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "27",
+            "description": "https://easyasset.art/j/cc9pwi/HOMER.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HOMERLAY.CLASSIC",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "5b8ddd4ba108b02179afca8200af35588cf46a4ee4a2a47e0abf643e5158e743",
+            "block_index": 749426,
+            "block_time": 1660497554,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/d0xmpz/HOMER.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "3cb08dbc850289ac5a5f40a395c8b7328236f792c3725ca2a73613c3cb030b37",
+            "block_index": 749408,
+            "block_time": 1660487412,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "27",
+            "description": "https://easyasset.art/j/d0xmpz/HOMER.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "detail": {
+        "result": {
+          "asset": "A3564396502199707994",
+          "asset_longname": "HOMERLAY.CLASSIC",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+          "owner": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "27",
+          "supply_normalized": "27",
+          "description": "https://easyasset.art/j/d0xmpz/HOMER.json",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 749408,
+          "last_issuance_block_index": 749426,
+          "first_issuance_block_time": 1660487412,
+          "last_issuance_block_time": 1660497554,
+          "updated_at": 0,
+          "holder_count": 12,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "3",
+          "escrow_normalized": "3",
+          "circulating": "27",
+          "circulating_normalized": "27",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 2,
+            "dispenses": 1,
+            "orders": 0,
+            "sends": 5,
+            "fairmints": 0,
+            "dividends": 1,
+            "destructions": 0,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 63
+          },
+          "cohesion": null,
+          "conviction": null
+        }
+      }
+    },
+    {
+      "asset": "HOMERLAY.DISCOCLASSIC",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "401a30c8eebccb078895eb2a3f34250f618c9cad428d60d901e2a274520b42d1",
+            "block_index": 752668,
+            "block_time": 1662342068,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/gn48q1/HOMER.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "13d54dd93f0cb65959bf7635f62739c22ae0d299a8e7ab12131aeb0d320aa403",
+            "block_index": 752656,
+            "block_time": 1662334525,
+            "source": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+            "transfer": 0,
+            "quantity_normalized": "27",
+            "description": "https://easyasset.art/j/gn48q1/HOMER.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "detail": {
+        "result": {
+          "asset": "A17425865919217704489",
+          "asset_longname": "HOMERLAY.DISCOCLASSIC",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+          "owner": "1BRye8o6TW3d3tjDh1XcjQfoZ2Uup7WnsE",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "27",
+          "supply_normalized": "27",
+          "description": "https://easyasset.art/j/gn48q1/HOMER.json",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 752656,
+          "last_issuance_block_index": 752668,
+          "first_issuance_block_time": 1662334525,
+          "last_issuance_block_time": 1662342068,
+          "updated_at": 0,
+          "holder_count": 12,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "3",
+          "escrow_normalized": "3",
+          "circulating": "27",
+          "circulating_normalized": "27",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 1,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 3,
+            "fairmints": 0,
+            "dividends": 1,
+            "destructions": 0,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 63
+          },
+          "cohesion": null,
+          "conviction": null
+        }
+      }
+    },
+    {
+      "asset": "STPLHOMERPEP",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "3c6edcabfe3e0908ac6c0efba70a4fa83e84fe56e2e6ca476795fecf1f86ee4a",
+            "block_index": 762365,
+            "block_time": 1667963249,
+            "source": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "issuer": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+            "transfer": 1,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/g8zy6g/STPLH.json",
+            "asset_events": "transfer",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "6ea824f88de348a985bdeafcaade21cc03977ccfa44c95499cff5a5d46f3c583",
+            "block_index": 747840,
+            "block_time": 1659553947,
+            "source": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "issuer": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/g8zy6g/STPLH.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a40e6c88b39b84f84670d9b0f36a4d6b852fa75e45cf51a2c68f3ef6da8d4ea2",
+            "block_index": 747613,
+            "block_time": 1659422430,
+            "source": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "issuer": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/u0w2i1/STPLH.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "99390f86daa7f1e30c295a11274a08288d0b53161b82c7b63fd8455a69f9591b",
+            "block_index": 747611,
+            "block_time": 1659420919,
+            "source": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "issuer": "1QFPSAydDPR7dMvygAx3Bk23GcPT2m6vnK",
+            "transfer": 0,
+            "quantity_normalized": "108",
+            "description": "https://easyasset.art/j/u0w2i1/STPLH.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "STPLHOMERPEP.STPLHOMERALT",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "2ec1eaa0802454454bec320ccf33214813aaaef97680dccd336cfcb07e504aba",
+            "block_index": 762372,
+            "block_time": 1667965910,
+            "source": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+            "issuer": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/fg9l51/STPLH.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "c978489e19de920092c66c67cc80f8be94b0263ab8869e5bb76f8368b391dc26",
+            "block_index": 762371,
+            "block_time": 1667965519,
+            "source": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+            "issuer": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+            "transfer": 0,
+            "quantity_normalized": "108",
+            "description": "https://easyasset.art/j/fg9l51/STPLH.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "detail": {
+        "result": {
+          "asset": "A15319067514542466861",
+          "asset_longname": "STPLHOMERPEP.STPLHOMERALT",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+          "owner": "123XqLhXsS45uVVR6PrBVFzQJgXCQp4JzM",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "74",
+          "supply_normalized": "74",
+          "description": "https://easyasset.art/j/fg9l51/STPLH.json",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 762371,
+          "last_issuance_block_index": 762372,
+          "first_issuance_block_time": 1667965519,
+          "last_issuance_block_time": 1667965910,
+          "updated_at": 0,
+          "holder_count": 55,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "0",
+          "escrow_normalized": "0",
+          "circulating": "74",
+          "circulating_normalized": "74",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "broad",
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 0,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 9,
+            "fairmints": 0,
+            "dividends": 1,
+            "destructions": 1,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 22
+          },
+          "cohesion": null,
+          "conviction": {
+            "score": 91
+          }
+        }
+      }
+    },
+    {
+      "asset": "GUGGENMEME.HOMERCHECKS",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "acc4d338c0b7da98c7593c1bcf9583e5444a47b813485a28639be7af9f784e0b",
+            "block_index": 798591,
+            "block_time": 1689297472,
+            "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://slavpucig3ca7dnip7ycbjyeuybxfsiqwlj2uz7axyjfeixyewqa.arweave.net/ksFX0Eg2xA-NqH_wIKcEpgNyyRCy06pn4L4SUiL4JaA/GUGGE.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9bebc0d2610d89f27b440a9f657b9f840deda973d22d5d853860ea9fb49a426c",
+            "block_index": 798585,
+            "block_time": 1689295406,
+            "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "https://slavpucig3ca7dnip7ycbjyeuybxfsiqwlj2uz7axyjfeixyewqa.arweave.net/ksFX0Eg2xA-NqH_wIKcEpgNyyRCy06pn4L4SUiL4JaA/GUGGE.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "detail": {
+        "result": {
+          "asset": "A13458507034208490324",
+          "asset_longname": "GUGGENMEME.HOMERCHECKS",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+          "owner": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+          "divisible": 0,
+          "locked": 1,
+          "description_locked": 0,
+          "supply": "43",
+          "supply_normalized": "43",
+          "description": "https://slavpucig3ca7dnip7ycbjyeuybxfsiqwlj2uz7axyjfeixyewqa.arweave.net/ksFX0Eg2xA-NqH_wIKcEpgNyyRCy06pn4L4SUiL4JaA/GUGGE.json",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 798585,
+          "last_issuance_block_index": 798591,
+          "first_issuance_block_time": 1689295406,
+          "last_issuance_block_time": 1689297472,
+          "updated_at": 0,
+          "holder_count": 16,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "0",
+          "escrow_normalized": "0",
+          "circulating": "43",
+          "circulating_normalized": "43",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 0,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 1,
+            "fairmints": 0,
+            "dividends": 1,
+            "destructions": 1,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 426
+          },
+          "cohesion": null,
+          "conviction": {
+            "score": 96
+          }
+        }
+      }
+    },
+    {
+      "asset": "DIAMONDANK.THEHOMER",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "370636bb71b4088d549de71a18454c0ac19df486e02b82800a6a71030944cd62",
+            "block_index": 776340,
+            "block_time": 1676291915,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur.com/ej1zzCA.gif",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "5ca19dfcfcd918e1cc163ec178798bd60da886f9ca5b7e4c391a56de8aedaf88",
+            "block_index": 775288,
+            "block_time": 1675686804,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "33",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      },
+      "detail": {
+        "result": {
+          "asset": "A14559509118181320889",
+          "asset_longname": "DIAMONDANK.THEHOMER",
+          "asset_id": null,
+          "type": "subasset",
+          "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+          "owner": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+          "divisible": 0,
+          "locked": 0,
+          "description_locked": 0,
+          "supply": "33",
+          "supply_normalized": "33",
+          "description": "imgur.com/ej1zzCA.gif",
+          "mime_type": "text/plain",
+          "first_issuance_block_index": 775288,
+          "last_issuance_block_index": 776340,
+          "first_issuance_block_time": 1675686804,
+          "last_issuance_block_time": 1676291915,
+          "updated_at": 0,
+          "holder_count": 11,
+          "burned": "0",
+          "burned_normalized": "0",
+          "escrow": "0",
+          "escrow_normalized": "0",
+          "circulating": "33",
+          "circulating_normalized": "33",
+          "rating": {
+            "status": "not_rated",
+            "rating": null
+          },
+          "activity": {
+            "active_months": 0,
+            "last_trade_time": null
+          },
+          "activity_outlook": null,
+          "tags": [
+            "has_media"
+          ],
+          "sales": {
+            "realized_usd": null,
+            "last_price_usd": null,
+            "last_sale_time": null
+          },
+          "market_volume": {
+            "onchain_usd": 0,
+            "exchange_usd": 0,
+            "total_usd": 0,
+            "exchange_first_day": null,
+            "exchange_last_day": null
+          },
+          "valuation": null,
+          "collection": null,
+          "collection_site": null,
+          "collection_series": null,
+          "collection_card": null,
+          "artist": null,
+          "feed_counts": {
+            "sales": 0,
+            "issuances": 2,
+            "dispensers": 0,
+            "dispenses": 0,
+            "orders": 0,
+            "sends": 14,
+            "fairmints": 0,
+            "dividends": 0,
+            "destructions": 0,
+            "pools": 0,
+            "subassets": 0,
+            "from_issuer": 150
+          },
+          "cohesion": null,
+          "conviction": null
+        }
+      }
+    },
+    {
+      "asset": "FAKEDOSHOMER",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "b7da1030fbbfb4226c7a7d813282af56837b9f3dfa3185bef51bf78350946b2a",
+            "block_index": 849534,
+            "block_time": 1719389862,
+            "source": "1H5sNk8XWcapGL6WnAP7kELkTBdrN6ZGPm",
+            "issuer": "1H5sNk8XWcapGL6WnAP7kELkTBdrN6ZGPm",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://as4cyofsawemj4wbzgml55hjx4q5aqo6kznjsglgs5mwdbxmidva.arweave.net/BLgsOLIFiMTywcmYvvTpvyHQQd5WWpkZZpdZYYbsQOo/FAKED.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9442ab17e190e09994c069b4ef4e6626518b401fd0f8ada894884ec33f2cb046",
+            "block_index": 849533,
+            "block_time": 1719389152,
+            "source": "1H5sNk8XWcapGL6WnAP7kELkTBdrN6ZGPm",
+            "issuer": "1H5sNk8XWcapGL6WnAP7kELkTBdrN6ZGPm",
+            "transfer": 0,
+            "quantity_normalized": "1",
+            "description": "https://as4cyofsawemj4wbzgml55hjx4q5aqo6kznjsglgs5mwdbxmidva.arweave.net/BLgsOLIFiMTywcmYvvTpvyHQQd5WWpkZZpdZYYbsQOo/FAKED.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HOMERAPE",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "282a2823c57115f79499e95b2bb402049b835c5a206b1a81414a535d3349731a",
+            "block_index": 714955,
+            "block_time": 1640013819,
+            "source": "1Jo6oAXW6pDpGZBPdDZiHMHDyruqtFmStf",
+            "issuer": "1Jo6oAXW6pDpGZBPdDZiHMHDyruqtFmStf",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/lk1PP3Y.png",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "184257753cab66152df54c74138c03e5c96b33f32c67d31accea78c24e51b7bf",
+            "block_index": 714954,
+            "block_time": 1640012815,
+            "source": "1Jo6oAXW6pDpGZBPdDZiHMHDyruqtFmStf",
+            "issuer": "1Jo6oAXW6pDpGZBPdDZiHMHDyruqtFmStf",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "imgur/lk1PP3Y.png",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HOMERDROOL",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "82eada408f0bf60126ef69815de9f309cdc80f91a1047550eda5a5f17c0ad37f",
+            "block_index": 715101,
+            "block_time": 1640096530,
+            "source": "12qXkAEwwz4h6283zRFu5pPG2Q6g3Z3uLP",
+            "issuer": "12qXkAEwwz4h6283zRFu5pPG2Q6g3Z3uLP",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/42CMGnY.gif;Mmmm...Donuts..arrrrrrr",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9cfe18ad1c2bed51da725442f76d0aa1760f4bcc20911c6b70616798786b95c1",
+            "block_index": 715091,
+            "block_time": 1640091226,
+            "source": "12qXkAEwwz4h6283zRFu5pPG2Q6g3Z3uLP",
+            "issuer": "12qXkAEwwz4h6283zRFu5pPG2Q6g3Z3uLP",
+            "transfer": 0,
+            "quantity_normalized": "100",
+            "description": "imgur/42CMGnY.gif;Mmmm...Donuts..arrrrrrr",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "metadata_evidence": [
+    {
+      "url": "https://slavpucig3ca7dnip7ycbjyeuybxfsiqwlj2uz7axyjfeixyewqa.arweave.net/ksFX0Eg2xA-NqH_wIKcEpgNyyRCy06pn4L4SUiL4JaA",
+      "status": 200,
+      "text": "{\n  \"success\": true,\n  \"asset\": \"GUGGENMEME.HOMERCHECKS\",\n  \"image\": \"https://arweave.net/ClXzqxx8Q0kdgETd2giWYebNdOjNNII4F8n2Bqp05eA/p31kdw_thumb.png\",\n  \"image_title\": \"Homer Checks\",\n  \"description\": \" <br /><img src=\\\"https://arweave.net/c3bT--RVbccvFcryssc9Y5I_fj464_Sxvoz6qH9TQt8/p31kdw_image.png\\\" class=\\\"img-responsive\\\" /><br />  <br /><small><em>High Resolution Version (click to expand)</em></small><a href=\\\"https://arweave.net/FGYkp9iefIF3E1eMLEs4LunufAV2BDylWJ-7sp3EIAo/p31kdw_hires.png\\\" target=\\\"_blank\\\"><img src=\\\"https://arweave.net/FGYkp9iefIF3E1eMLEs4LunufAV2BDylWJ-7sp3EIAo/p31kdw_hires.png\\\" class=\\\"img-responsive\\\" /></a><br /> <div><p>Please contact a MSU university representative for information regarding this meme.</p></div>\",\n  \"website\": \"dankdirectory.io\",\n  \"pgpsig\": \"dankboost\",\n  \"category\": \"Art\",\n  \"subcategory\": \"Pepe\",\n  \"category_custom\": \"\",\n  \"name\": \"GUGGENMEME.HOMERCHECKS\",\n  \"contact_address_line_1\": \"\",\n  \"contact_address_line_2\": \"\",\n  \"contact_city\": \"\",\n  \"contact_state_province\": \"\",\n  \"contact_country\": \"\",\n  \"contact_postal_code\": \"\",\n  \"contact_phone\": \"\",\n  \"contact_fax\": \"\",\n  \"contact_email1\": \"\",\n  \"contact_email2\": \"\",\n  \"website_alternate1\": \"\",\n  \"website_alternate2\": \"\",\n  \"website_social_facebook\": \"\",\n  \"website_social_twitter\": \"https://twitter.com/NFTcloud69\",\n  \"website_social_linkedin\": \"\",\n  \"website_social_github\": \"\",\n  \"website_social_reddit\": \"\",\n  \"website_social_googleplus\": \"\",\n  \"minted_on\": \"https://easyasset.art/\",\n  \"image_large\": \"https://arweave.net/c3bT--RVbccvFcryssc9Y5I_fj464_Sxvoz6qH9TQt8/p31kdw_image.png\",\n  \"image_large_hd\": \"https://arweave.net/FGYkp9iefIF3E1eMLEs4LunufAV2BDylWJ-7sp3EIAo/p31kdw_hires.png\",\n  \"video\": \"\",\n  \"audio\": \"\"\n}"
+    },
+    {
+      "url": "https://as4cyofsawemj4wbzgml55hjx4q5aqo6kznjsglgs5mwdbxmidva.arweave.net/BLgsOLIFiMTywcmYvvTpvyHQQd5WWpkZZpdZYYbsQOo",
+      "status": 200,
+      "text": "{\n  \"success\": true,\n  \"asset\": \"FAKEDOSHOMER\",\n  \"image\": \"https://arweave.net/EQ2cCbqiXza8wfK8aFGUHKgLsd62lQZdzxDL8ePOFJY/3ehunh_thumb.png\",\n  \"image_title\": \"FAKE DOS HOMER\",\n  \"description\": \" <br /><img src=\\\"https://arweave.net/40C-J4tqumqr_nrs82b3onZtrfI4AXEuoU0MIbq6izc/3ehunh_image.gif\\\" class=\\\"img-responsive\\\" /><br />  <br /><small><em>High Resolution Version (click to expand)</em></small><a href=\\\"https://arweave.net/826ejjn3-HM2vot6McEsoEl_kSwCTItB-yrryVLMPkc/3ehunh_hires.gif\\\" target=\\\"_blank\\\"><img src=\\\"https://arweave.net/826ejjn3-HM2vot6McEsoEl_kSwCTItB-yrryVLMPkc/3ehunh_hires.gif\\\" class=\\\"img-responsive\\\" /></a><br /> <div><p>Wait a mintue... Pepe art by Greencross (2024)</p></div>\",\n  \"website\": \"https://dankset.io/by/greencrossxcp\",\n  \"pgpsig\": \"Greencross\",\n  \"category\": \"Art\",\n  \"subcategory\": \"Pepe\",\n  \"category_custom\": \"\",\n  \"name\": \"FAKEDOSHOMER\",\n  \"contact_address_line_1\": \"\",\n  \"contact_address_line_2\": \"\",\n  \"contact_city\": \"\",\n  \"contact_state_province\": \"\",\n  \"contact_country\": \"\",\n  \"contact_postal_code\": \"\",\n  \"contact_phone\": \"\",\n  \"contact_fax\": \"\",\n  \"contact_email1\": \"\",\n  \"contact_email2\": \"\",\n  \"website_alternate1\": \"https://twitter.com/greencrosslive\",\n  \"website_alternate2\": \"\",\n  \"website_social_facebook\": \"\",\n  \"website_social_twitter\": \"https://twitter.com/greencrosslive\",\n  \"website_social_linkedin\": \"\",\n  \"website_social_github\": \"\",\n  \"website_social_reddit\": \"\",\n  \"website_social_googleplus\": \"\",\n  \"minted_on\": \"https://easyasset.art/\",\n  \"image_large\": \"https://arweave.net/40C-J4tqumqr_nrs82b3onZtrfI4AXEuoU0MIbq6izc/3ehunh_image.gif\",\n  \"image_large_hd\": \"https://arweave.net/826ejjn3-HM2vot6McEsoEl_kSwCTItB-yrryVLMPkc/3ehunh_hires.gif\",\n  \"video\": \"\",\n  \"audio\": \"\"\n}"
+    }
+  ],
+  "remaining_followups": [
+    {
+      "asset": "GUGGENMEME.HOMERCHECKS",
+      "reason": "Native 1000px crop shows checkmark-face mosaics, but no exact immediate source established. Metadata has no attribution. Preserve unresolved rather than assign from title."
+    },
+    {
+      "asset": "FAKEDOSHOMER",
+      "reason": "Metadata says Wait a mintue and credits Greencross but does not identify pixel-source. Preserve closer-source investigation."
+    },
+    {
+      "asset": "DIAMONDANK.THEHOMER",
+      "reason": "Raised-arms diamond cartoon differs from source pose; source attribution remains unresolved."
+    }
+  ],
+  "summary": {
+    "accepted": 4,
+    "rejected": 1,
+    "resolved_prior_holds": 4,
+    "remaining_prior_holds": 3
+  }
+}
