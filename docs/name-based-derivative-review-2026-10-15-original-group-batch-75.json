@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and two animation sheets visually inspected. Three animations sampled at four spaced positions, not exhaustive playback. Shared external artist/franchise references and concepts are not direct card derivative evidence.",
+  "reviewed": [
+    {
+      "original": "PEPEKART",
+      "volume_usd": 20635.451579082444,
+      "buyers": 30,
+      "candidates": [
+        "NAKAMOTOKART",
+        "PHOCKART",
+        "PHOCKART.DORSEY"
+      ]
+    },
+    {
+      "original": "PEPELEVICH",
+      "volume_usd": 20587.183720810255,
+      "buyers": 117,
+      "candidates": [
+        "FAKEMALEVICH",
+        "MALEVICHQR"
+      ]
+    },
+    {
+      "original": "GAMEOFPEPE",
+      "volume_usd": 20458.767205741762,
+      "buyers": 37,
+      "candidates": [
+        "GAMEOFTHRONE"
+      ]
+    },
+    {
+      "original": "PEPEGUEVARA",
+      "volume_usd": 20438.94224191402,
+      "buyers": 57,
+      "candidates": [
+        "GUEVARAPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "NAKAMOTOKART",
+      "pages": 65,
+      "sampled_frames": [
+        0,
+        21,
+        43,
+        64
+      ]
+    },
+    {
+      "asset": "PEPELEVICH",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "MALEVICHQR",
+      "pages": 122,
+      "sampled_frames": [
+        0,
+        40,
+        81,
+        121
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEKART",
+      "asset": "NAKAMOTOKART",
+      "status": "rejected",
+      "reason": "Animated handheld-console racing scene, not source rendered frog kart in yellow game card. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEKART-0.png"
+    },
+    {
+      "original": "PEPEKART",
+      "asset": "PHOCKART",
+      "status": "rejected",
+      "reason": "Pixel sunset over water, no frog kart. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEKART-0.png"
+    },
+    {
+      "original": "PEPEKART",
+      "asset": "PHOCKART.DORSEY",
+      "status": "rejected",
+      "reason": "Pixel bearded human portrait, no frog kart. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEKART-0.png"
+    },
+    {
+      "original": "PEPELEVICH",
+      "asset": "FAKEMALEVICH",
+      "status": "rejected",
+      "reason": "Plain green square in print/catalog layout. Shared Malevich reference and green-square concept do not establish reuse of source framed black-square-to-Pepe animation or card. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPELEVICH-0.png"
+    },
+    {
+      "original": "PEPELEVICH",
+      "asset": "MALEVICHQR",
+      "status": "rejected",
+      "reason": "Black-and-white square/noise/QR animation without source gold frame, frog transformation or card captions. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPELEVICH-0.png"
+    },
+    {
+      "original": "GAMEOFPEPE",
+      "asset": "GAMEOFTHRONE",
+      "status": "rejected",
+      "reason": "Three colorful dragons with Bitcoin pile and throne, not source seated frog swordsman; shared franchise reference insufficient. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-GAMEOFPEPE-0.png"
+    },
+    {
+      "original": "PEPEGUEVARA",
+      "asset": "GUEVARAPE",
+      "status": "rejected",
+      "reason": "Red ape Che-style portrait, different face drawing and layout from source frog poster; shared external portrait reference insufficient. No distinctive source-card reuse established in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEGUEVARA-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 7,
+    "accepted": 0,
+    "rejected": 7
+  }
+}
