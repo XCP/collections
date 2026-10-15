@@ -30053,7 +30053,13 @@
       "asset": "A17900106988605466625"
     },
     {
-      "asset": "GOATSE.WEDDINGRING"
+      "asset": "GOATSE.WEDDINGRING",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GOATSE.CX"
+        }
+      ]
     },
     {
       "asset": "MEATSPIN.MYSPACE"

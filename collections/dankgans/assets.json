@@ -37,7 +37,13 @@
       "asset": "DGDARK"
     },
     {
-      "asset": "DGDIRECTORY"
+      "asset": "DGDIRECTORY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DIRECTORYONE"
+        }
+      ]
     },
     {
       "asset": "DGDOMA"
