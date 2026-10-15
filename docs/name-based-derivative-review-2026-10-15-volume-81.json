@@ -245,7 +245,9 @@
     },
     {
       "original": "MANDELPEPE",
-      "candidates": []
+      "candidates": [
+        "MANDELKING"
+      ]
     },
     {
       "original": "EATEPEPE",
@@ -793,8 +795,9 @@
     {
       "original": "MANDELPEPE",
       "asset": "MANDELKING",
-      "status": "ambiguous",
-      "reason": "SoG Monkey King art appears with face replacement; SARUTOBICARD comparison is not the source. Identify correct original."
+      "status": "accepted",
+      "reason": "User-suggested source confirmed visually: retains exact Monkey King seated body, raised staff, curled tail, flowing red cape, pale trousers, landscape, card title and framing from FWSDLTHEMONC; replaces head, changes lower hand, adds animated overlays and disruption/ownership caption.",
+      "attributed_original": "FWSDLTHEMONC"
     },
     {
       "original": "EATEPEPE",
@@ -1173,6 +1176,13 @@
       "collection": "kaleidoscope",
       "image": "https://cdn.xcp.io/img/full/WHOTHATPEPE.glitch?image=1",
       "evidence": "Sampled corresponding animation frames retain silhouette, pixel character and red-haired one-eyed woman reveal, with glitch/recolor treatment."
+    },
+    {
+      "asset": "MANDELKING",
+      "original": "FWSDLTHEMONC",
+      "collection": "faux-sogs",
+      "image": "https://cdn.xcp.io/img/full/MANDELKING?image=1",
+      "evidence": "User-suggested source confirmed visually: retains exact Monkey King seated body, raised staff, curled tail, flowing red cape, pale trousers, landscape, card title and framing from FWSDLTHEMONC; replaces head, changes lower hand, adds animated overlays and disruption/ownership caption."
     }
   ],
   "unapplied": [],
@@ -1198,8 +1208,12 @@
       "CORNBEAR.makingof": {
         "total_frames": 428,
         "sampled_frames": 4
+      },
+      "MANDELKING": {
+        "total_frames": 91,
+        "sampled_frames": 4
       }
     },
-    "followup": "Enlarged anatomical print, blueprint variant, MCAMOTO, foil and parent, auction crop and closer Halloween source. Compared RICKANDPEPE and THEOS.LOT2. SARUTOBICARD and MARKETACARD did not resolve MANDELKING and FAUXMARKET."
+    "followup": "Enlarged anatomical print, blueprint variant, MCAMOTO, foil and parent, auction crop and closer Halloween source. Compared RICKANDPEPE and THEOS.LOT2. SARUTOBICARD and MARKETACARD did not resolve MANDELKING and FAUXMARKET. Follow-up: FWSDLTHEMONC exact source confirmed against four MANDELKING animation frames; prior SARUTOBICARD guess discarded."
   }
 }
