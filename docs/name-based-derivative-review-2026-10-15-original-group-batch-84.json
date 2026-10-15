@@ -1,0 +1,579 @@
+{
+  "date": "2026-10-15",
+  "method": "Six first-frame sheets and four animation sheets inspected. Nine animations sampled at four spaced positions (both BLOCKPEPE frames); not exhaustive playback. Long text-strip candidate enlarged separately. Specific-source rejection only; shared themes and card templates are insufficient.",
+  "reviewed": [
+    {
+      "original": "PEPEMINO",
+      "volume_usd": 18832.865368650622,
+      "buyers": 55,
+      "candidates": [
+        "MSTRPEPES.MINOANPEPESNAKEGODDESS",
+        "XFCPRFIRMINO",
+        "XPEPEDOMINO"
+      ]
+    },
+    {
+      "original": "COMEDYPEPE",
+      "volume_usd": 18802.34204483965,
+      "buyers": 25,
+      "candidates": [
+        "COMEDYCLUB",
+        "XCOMEDY"
+      ]
+    },
+    {
+      "original": "RARETEMPLATE",
+      "volume_usd": 18728.17675696816,
+      "buyers": 57,
+      "candidates": [
+        "DGTEMPLATE",
+        "MEMETEMPLATE",
+        "MSTRPEPES.RAREPEPEDIRECTORIALTEMPLATETABLET",
+        "TEMPLATES"
+      ]
+    },
+    {
+      "original": "BLOCKPEPE",
+      "volume_usd": 586.5931586204034,
+      "buyers": 10,
+      "candidates": [
+        "BLOCKCHAINOG.Blockchain4aGangsta",
+        "BLOCKCHAINOG.RHYME1",
+        "BLOCKCHAINOG.RHYME10",
+        "BLOCKCHAINOG.RHYME11",
+        "BLOCKCHAINOG.RHYME12",
+        "BLOCKCHAINOG.RHYME13",
+        "BLOCKCHAINOG.RHYME14",
+        "BLOCKCHAINOG.RHYME15",
+        "BLOCKCHAINOG.RHYME16",
+        "BLOCKCHAINOG.RHYME2",
+        "BLOCKCHAINOG.RHYME3",
+        "BLOCKCHAINOG.RHYME4",
+        "BLOCKCHAINOG.RHYME5",
+        "BLOCKCHAINOG.RHYME6",
+        "BLOCKCHAINOG.RHYME7",
+        "BLOCKCHAINOG.RHYME8",
+        "BLOCKCHAINOG.RHYME9",
+        "BLOCKHALVE",
+        "BLOCKLANDS",
+        "BLOCKMINER",
+        "BLOCKROOTS",
+        "BLOCKSIZECD",
+        "BLOCKSWAN.LIGHTBOX",
+        "BLOCKSWAN.MEMORY",
+        "BLOCKTRAILCD",
+        "BLOCKVII",
+        "CHAINWARS.VOTINGBLOCKS",
+        "COMMONBLOCK",
+        "DENSEBLOCKCD",
+        "FIRSTBLOCK",
+        "GBLOCKAUDIO",
+        "GENBLOCKONE",
+        "HISTORYBLOCK",
+        "IGOTBLOCKED",
+        "IGOTBLOCKED.JohnCarvalho@BitcoinErrorLog",
+        "KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn",
+        "MCBLOCKCHAIN",
+        "MERMAID.BLOCKCHAIN",
+        "ORDINALBLOCK",
+        "PEPEBLOCK",
+        "PEPEBLOCKED",
+        "SUNBLOCKS",
+        "THEBLOCKGOD",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "WOJACKBLOCK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPEMINO",
+      "pages": 53,
+      "sampled_frames": [
+        0,
+        17,
+        35,
+        52
+      ]
+    },
+    {
+      "asset": "COMEDYPEPE",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "TEMPLATES",
+      "pages": 217,
+      "sampled_frames": [
+        0,
+        72,
+        144,
+        216
+      ]
+    },
+    {
+      "asset": "RARETEMPLATE",
+      "pages": 75,
+      "sampled_frames": [
+        0,
+        25,
+        49,
+        74
+      ]
+    },
+    {
+      "asset": "DGTEMPLATE",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "BLOCKPEPE",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "GBLOCKAUDIO",
+      "pages": 300,
+      "sampled_frames": [
+        0,
+        100,
+        199,
+        299
+      ]
+    },
+    {
+      "asset": "WOJACKBLOCK",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    },
+    {
+      "asset": "PEPEBLOCKED",
+      "pages": 84,
+      "sampled_frames": [
+        0,
+        28,
+        55,
+        83
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEMINO",
+      "asset": "MSTRPEPES.MINOANPEPESNAKEGODDESS",
+      "status": "rejected",
+      "reason": "Snake-goddess statue, not source falling-card domino animation.",
+      "evidence_sheet": "sheets/group-PEPEMINO-0.png"
+    },
+    {
+      "original": "PEPEMINO",
+      "asset": "XFCPRFIRMINO",
+      "status": "rejected",
+      "reason": "Football player portrait card, not source imagery.",
+      "evidence_sheet": "sheets/group-PEPEMINO-0.png"
+    },
+    {
+      "original": "PEPEMINO",
+      "asset": "XPEPEDOMINO",
+      "status": "rejected",
+      "reason": "Domino character parody, not falling-card scene.",
+      "evidence_sheet": "sheets/group-PEPEMINO-0.png"
+    },
+    {
+      "original": "COMEDYPEPE",
+      "asset": "COMEDYCLUB",
+      "status": "rejected",
+      "reason": "Comedy-club photo collage, not Chaplin frog silhouette.",
+      "evidence_sheet": "sheets/group-COMEDYPEPE-0.png"
+    },
+    {
+      "original": "COMEDYPEPE",
+      "asset": "XCOMEDY",
+      "status": "rejected",
+      "reason": "Comedy venue photograph, not Chaplin frog silhouette.",
+      "evidence_sheet": "sheets/group-COMEDYPEPE-0.png"
+    },
+    {
+      "original": "RARETEMPLATE",
+      "asset": "DGTEMPLATE",
+      "status": "rejected",
+      "reason": "Animated multicolor geometric outlines, not repeated frog-face warp.",
+      "evidence_sheet": "sheets/group-RARETEMPLATE-0.png"
+    },
+    {
+      "original": "RARETEMPLATE",
+      "asset": "MEMETEMPLATE",
+      "status": "rejected",
+      "reason": "Four-panel film meme editor, not source warp animation.",
+      "evidence_sheet": "sheets/group-RARETEMPLATE-0.png"
+    },
+    {
+      "original": "RARETEMPLATE",
+      "asset": "MSTRPEPES.RAREPEPEDIRECTORIALTEMPLATETABLET",
+      "status": "rejected",
+      "reason": "Stone blank card tablet, not source animation.",
+      "evidence_sheet": "sheets/group-RARETEMPLATE-0.png"
+    },
+    {
+      "original": "RARETEMPLATE",
+      "asset": "TEMPLATES",
+      "status": "rejected",
+      "reason": "Blank card template animation, not source repeated frog faces.",
+      "evidence_sheet": "sheets/group-RARETEMPLATE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.Blockchain4aGangsta",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME1",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME10",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME11",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME12",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME13",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME14",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME15",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME16",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME2",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME3",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME4",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME5",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME6",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME7",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME8",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKCHAINOG.RHYME9",
+      "status": "rejected",
+      "reason": "Photographic Blockchain 4 a Gangsta cover; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKHALVE",
+      "status": "rejected",
+      "reason": "Colorful Bitcoin party scene; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKLANDS",
+      "status": "rejected",
+      "reason": "Lego brick mosaic; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-0.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKMINER",
+      "status": "rejected",
+      "reason": "Text describing a Pepe block miner; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKROOTS",
+      "status": "rejected",
+      "reason": "Four Bitcoin themed illustrations; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKSIZECD",
+      "status": "rejected",
+      "reason": "Fantasy council scene; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKSWAN.LIGHTBOX",
+      "status": "rejected",
+      "reason": "Swan image in physical lightbox; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKSWAN.MEMORY",
+      "status": "rejected",
+      "reason": "Distorted swan image; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKTRAILCD",
+      "status": "rejected",
+      "reason": "Fantasy train scene; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "BLOCKVII",
+      "status": "rejected",
+      "reason": "Block explorer screenshot; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "CHAINWARS.VOTINGBLOCKS",
+      "status": "rejected",
+      "reason": "Armored figure with light blocks; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "COMMONBLOCK",
+      "status": "rejected",
+      "reason": "Abstract pixel cross with red bars; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "DENSEBLOCKCD",
+      "status": "rejected",
+      "reason": "Wizard and glowing portal; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "FIRSTBLOCK",
+      "status": "rejected",
+      "reason": "Bitcoin genesis block data card; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "GBLOCKAUDIO",
+      "status": "rejected",
+      "reason": "Abstract multicolor animation; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "GENBLOCKONE",
+      "status": "rejected",
+      "reason": "Physical text artwork front and back; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "HISTORYBLOCK",
+      "status": "rejected",
+      "reason": "Party meme collage about social blocking; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "IGOTBLOCKED",
+      "status": "rejected",
+      "reason": "Crossed-out Twitter symbol; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "IGOTBLOCKED.JohnCarvalho@BitcoinErrorLog",
+      "status": "rejected",
+      "reason": "Blocked Twitter profile screenshot; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "KALEIDOSCOPE.The_worlds_first_ever_longest_digital_asset_name_and_an_experiment_of_an_experiment_on_the_blockchain_verified_forever_by_the_counterparty_protocol_and_bitcoin_OPreturn",
+      "status": "rejected",
+      "reason": "Long text-only asset-name strip; full 2352x92 source enlarged and inspected; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "MCBLOCKCHAIN",
+      "status": "rejected",
+      "reason": "Two-panel cartoon conversation; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "MERMAID.BLOCKCHAIN",
+      "status": "rejected",
+      "reason": "Mermaid with Block Chain speech bubble; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-19.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "ORDINALBLOCK",
+      "status": "rejected",
+      "reason": "Binary grid with face and coin necklace; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "PEPEBLOCK",
+      "status": "rejected",
+      "reason": "Stacked horizontal green slabs with eyes; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "PEPEBLOCKED",
+      "status": "rejected",
+      "reason": "Frog in religious robes on subway; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "SUNBLOCKS",
+      "status": "rejected",
+      "reason": "Sun with striped Bitcoin-like symbol; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "THEBLOCKGOD",
+      "status": "rejected",
+      "reason": "Robe-clad frog holding book; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+      "status": "rejected",
+      "reason": "Painted human portrait; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+      "status": "rejected",
+      "reason": "Painted human portrait; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+      "status": "rejected",
+      "reason": "Painted human portrait; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    },
+    {
+      "original": "BLOCKPEPE",
+      "asset": "WOJACKBLOCK",
+      "status": "rejected",
+      "reason": "Wojak head animation with Bitcoin cube; no reuse of the source square frog on factory conveyor or its specific card composition.",
+      "evidence_sheet": "sheets/group-BLOCKPEPE-38.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 56,
+    "accepted": 0,
+    "rejected": 56
+  }
+}
