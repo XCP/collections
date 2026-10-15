@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and one animation sheet inspected. RAREGROYPER sampled at four spaced frames, not exhaustive playback. GROYPERFOIL full-resolution photo enlarged for inspection. Source-specific comparisons; external characters and paintings do not establish card-to-card derivation.",
+  "reviewed": [
+    {
+      "original": "RAREGROYPER",
+      "volume_usd": 18609.361914063396,
+      "buyers": 13,
+      "candidates": [
+        "GROYPERFOIL",
+        "NPCS.GROYPERWAVE"
+      ]
+    },
+    {
+      "original": "PEPESCREAM",
+      "volume_usd": 18577.521286122203,
+      "buyers": 9,
+      "candidates": [
+        "COCOSCREAM",
+        "DERPSCREAM",
+        "ETERNALART.THESCREAM",
+        "MIAMISCREAM",
+        "MIKASCREAM",
+        "MSTRPEPES.THEPEPESCREAM",
+        "PEPASCREAM",
+        "PEPESCREAMS",
+        "PHUNCHSCREAM",
+        "SCREAMAPE",
+        "SCREAMDOGE",
+        "SCREAMER",
+        "SCREAMPEPES",
+        "SCREAMTRIP",
+        "SCREAMWOJAK",
+        "SHADISCREAM",
+        "THESCREAMQR",
+        "WOJAKSCREAM"
+      ]
+    },
+    {
+      "original": "GAMBITPEPE",
+      "volume_usd": 18492.72123224181,
+      "buyers": 27,
+      "candidates": [
+        "XPEPEGAMBIT"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RAREGROYPER",
+      "pages": 65,
+      "sampled_frames": [
+        0,
+        21,
+        43,
+        64
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RAREGROYPER",
+      "asset": "GROYPERFOIL",
+      "status": "rejected",
+      "reason": "Enlarged physical foil card shows Groyper character and different text/layout; no butterfly, specific pose, background or choose timeline / stay cozy composition from the source. Shared external character insufficient.",
+      "evidence_sheet": "sheets/group-RAREGROYPER-0.png"
+    },
+    {
+      "original": "RAREGROYPER",
+      "asset": "NPCS.GROYPERWAVE",
+      "status": "rejected",
+      "reason": "Social profile screenshot uses gray character with camouflage shirt; no source butterfly scene or card composition.",
+      "evidence_sheet": "sheets/group-RAREGROYPER-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "COCOSCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "DERPSCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "ETERNALART.THESCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "MIAMISCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "MIKASCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "MSTRPEPES.THEPEPESCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "PEPASCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "PEPESCREAMS",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "PHUNCHSCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMAPE",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMDOGE",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMER",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMPEPES",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMTRIP",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SCREAMWOJAK",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "SHADISCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "THESCREAMQR",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "PEPESCREAM",
+      "asset": "WOJAKSCREAM",
+      "status": "rejected",
+      "reason": "Candidate references a screaming figure, The Scream painting or horror-film mask; no reuse of the source green frog ice-cream swirl, cone or radial background.",
+      "evidence_sheet": "sheets/group-PEPESCREAM-0.png"
+    },
+    {
+      "original": "GAMBITPEPE",
+      "asset": "XPEPEGAMBIT",
+      "status": "rejected",
+      "reason": "Shared Gambit character and playing-card motif, but candidate is simple full-body cartoon with staff on blue field; source has detailed black-clad figure and surrounding glowing green cards. No specific source reuse.",
+      "evidence_sheet": "sheets/group-GAMBITPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 21,
+    "accepted": 0,
+    "rejected": 21
+  }
+}
