@@ -1,7 +1,8 @@
 {
   "name": "Pantherfive",
   "kind": "canonical",
-  "description": "Pantherfive, a related artwork family by Darky.",
+  "description": "Colour, resolution and animated treatments of Darky’s roaring panther artwork, spanning PANTHERFIVE and PANTHERFAKE.",
   "art_frame": "card",
-  "founded": 2022
+  "founded": 2022,
+  "editorial_type": "variations"
 }
