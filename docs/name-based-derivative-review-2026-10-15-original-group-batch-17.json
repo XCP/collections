@@ -1,0 +1,482 @@
+{
+  "date": "2026-10-15",
+  "method": "Six first-frame group sheets and three animation sheets viewed. Nine animations sampled at four spaced positions; all frames when <=4, otherwise not exhaustive playback. Low-resolution full-CDN dimensions verified separately.",
+  "reviewed": [
+    {
+      "original": "PEPEKITTIES",
+      "candidates": [
+        "CORNKITTIES",
+        "CORNKITTIES.STAMP"
+      ]
+    },
+    {
+      "original": "BATTLEPEPE",
+      "candidates": [
+        "BATTLECORN",
+        "BATTLECORN.BOOST",
+        "DROOLBATTLE",
+        "DROOLBATTLE.SPACEAPE"
+      ]
+    },
+    {
+      "original": "WILDPEPE",
+      "candidates": [
+        "WILDHUNT",
+        "WILDPEPENYC",
+        "WILDPEPIZZA",
+        "WILDTURKEY"
+      ]
+    },
+    {
+      "original": "PEPECOLLECT",
+      "candidates": [
+        "KEKCOLLECTOR",
+        "LFGCOLLECTOR",
+        "MTMCOLLECTOR",
+        "NFTCOLLECTOR",
+        "THECOLLECTIV",
+        "THECOLLECTOZ"
+      ]
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "candidates": [
+        "BTCFREEDOM",
+        "BTCISFREEDOM",
+        "CORNFREEDOM",
+        "FREEDOMFIGHT",
+        "FREEDOMGOUP",
+        "FREEDOMPEPES",
+        "FREEDOMUA",
+        "GMFREEDOM",
+        "NAKAFREEDOM",
+        "PFREEDOM",
+        "PILLEDWOJAK.FREEDOM",
+        "TASTEFREEDOM",
+        "USAFREEDOM"
+      ]
+    },
+    {
+      "original": "PEPEHELP",
+      "candidates": [
+        "BITBALL.2SATCHELPAIGE",
+        "CRAB.HELP",
+        "HELPE",
+        "HELPEPE",
+        "HELPINSPYRE",
+        "HELPMARLEY",
+        "HELPPEPE",
+        "HELPUKRAINE",
+        "PENHELPER",
+        "PEPELEVANDAL.PEPEPHELPS",
+        "SLHELPERPEPE",
+        "SMOLHELPER",
+        "THELPEPE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FREEDOMPEPES",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "FREEDOMUA",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    },
+    {
+      "asset": "PEPEFREEDOM",
+      "pages": 30,
+      "sampled_frames": [
+        0,
+        10,
+        19,
+        29
+      ]
+    },
+    {
+      "asset": "TASTEFREEDOM",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "PILLEDWOJAK.FREEDOM",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "HELPMARLEY",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "HELPEPE",
+      "pages": 34,
+      "sampled_frames": [
+        0,
+        11,
+        22,
+        33
+      ]
+    },
+    {
+      "asset": "HELPE",
+      "pages": 450,
+      "sampled_frames": [
+        0,
+        150,
+        299,
+        449
+      ]
+    },
+    {
+      "asset": "CRAB.HELP",
+      "pages": 18,
+      "sampled_frames": [
+        0,
+        6,
+        11,
+        17
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEKITTIES",
+      "asset": "CORNKITTIES",
+      "status": "rejected",
+      "reason": "CORNKITTIES has a group of different CryptoKitties-style cats in corn rather than the solitary blue-striped Pepe cat. Shared external cat aesthetic is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEKITTIES-0.png"
+    },
+    {
+      "original": "PEPEKITTIES",
+      "asset": "CORNKITTIES.STAMP",
+      "status": "media_blocked",
+      "reason": "Full CDN is only 24x24 pixels; insufficient detail for a definitive source comparison.",
+      "evidence_sheet": "sheets/group-PEPEKITTIES-0.png"
+    },
+    {
+      "original": "BATTLEPEPE",
+      "asset": "BATTLECORN",
+      "status": "rejected",
+      "reason": "No reuse of the Battletoads-like frog warrior and game-panel composition; candidates show a historical group, corn machine, line drawing and space shooter.",
+      "evidence_sheet": "sheets/group-BATTLEPEPE-0.png"
+    },
+    {
+      "original": "BATTLEPEPE",
+      "asset": "BATTLECORN.BOOST",
+      "status": "rejected",
+      "reason": "No reuse of the Battletoads-like frog warrior and game-panel composition; candidates show a historical group, corn machine, line drawing and space shooter.",
+      "evidence_sheet": "sheets/group-BATTLEPEPE-0.png"
+    },
+    {
+      "original": "BATTLEPEPE",
+      "asset": "DROOLBATTLE",
+      "status": "rejected",
+      "reason": "No reuse of the Battletoads-like frog warrior and game-panel composition; candidates show a historical group, corn machine, line drawing and space shooter.",
+      "evidence_sheet": "sheets/group-BATTLEPEPE-0.png"
+    },
+    {
+      "original": "BATTLEPEPE",
+      "asset": "DROOLBATTLE.SPACEAPE",
+      "status": "rejected",
+      "reason": "No reuse of the Battletoads-like frog warrior and game-panel composition; candidates show a historical group, corn machine, line drawing and space shooter.",
+      "evidence_sheet": "sheets/group-BATTLEPEPE-0.png"
+    },
+    {
+      "original": "WILDPEPE",
+      "asset": "WILDHUNT",
+      "status": "rejected",
+      "reason": "No reuse of the sunglasses Pepe head on a human torso and purple chaotic background. Different meanings of wild do not establish a derivative.",
+      "evidence_sheet": "sheets/group-WILDPEPE-0.png"
+    },
+    {
+      "original": "WILDPEPE",
+      "asset": "WILDPEPENYC",
+      "status": "rejected",
+      "reason": "No reuse of the sunglasses Pepe head on a human torso and purple chaotic background. Different meanings of wild do not establish a derivative.",
+      "evidence_sheet": "sheets/group-WILDPEPE-0.png"
+    },
+    {
+      "original": "WILDPEPE",
+      "asset": "WILDPEPIZZA",
+      "status": "rejected",
+      "reason": "No reuse of the sunglasses Pepe head on a human torso and purple chaotic background. Different meanings of wild do not establish a derivative.",
+      "evidence_sheet": "sheets/group-WILDPEPE-0.png"
+    },
+    {
+      "original": "WILDPEPE",
+      "asset": "WILDTURKEY",
+      "status": "rejected",
+      "reason": "No reuse of the sunglasses Pepe head on a human torso and purple chaotic background. Different meanings of wild do not establish a derivative.",
+      "evidence_sheet": "sheets/group-WILDPEPE-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "KEKCOLLECTOR",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "LFGCOLLECTOR",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "MTMCOLLECTOR",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "NFTCOLLECTOR",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "THECOLLECTIV",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPECOLLECT",
+      "asset": "THECOLLECTOZ",
+      "status": "rejected",
+      "reason": "No reuse of the suited collector with dog in a gallery. Other collectors, inset cards or library scenes have distinct compositions.",
+      "evidence_sheet": "sheets/group-PEPECOLLECT-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "BTCFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "BTCISFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "CORNFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "FREEDOMFIGHT",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "FREEDOMGOUP",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "FREEDOMPEPES",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "FREEDOMUA",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "GMFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "NAKAFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "PFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "PILLEDWOJAK.FREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "TASTEFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEFREEDOM",
+      "asset": "USAFREEDOM",
+      "status": "rejected",
+      "reason": "No reuse of the ornate central Washington-Pepe portrait, red corner figures and animated lower panel. Shared freedom theme alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPEFREEDOM-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "BITBALL.2SATCHELPAIGE",
+      "status": "media_blocked",
+      "reason": "CDN empty-buffer media failure; cannot visually decide.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "CRAB.HELP",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPEPE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPINSPYRE",
+      "status": "media_blocked",
+      "reason": "Full CDN is only 10x10 pixels; insufficient visual detail.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPMARLEY",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPPEPE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "HELPUKRAINE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "PENHELPER",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "PEPELEVANDAL.PEPEPHELPS",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "SLHELPERPEPE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "SMOLHELPER",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    },
+    {
+      "original": "PEPEHELP",
+      "asset": "THELPEPE",
+      "status": "rejected",
+      "reason": "No reuse of The Pepes four-figure Beatles Help cover parody. Help word and other music references alone are insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHELP-0.png"
+    }
+  ],
+  "additional_leads": [
+    {
+      "assets": [
+        "FREEDOMPEPES",
+        "HELPMARLEY"
+      ],
+      "status": "unresolved",
+      "reason": "Same four guitar-playing Marley-Pepe poses and captions with different color treatment. Determine alias/version relationship and direction from media history before any derivative link. Neither derives from the queued PEPEFREEDOM or PEPEHELP originals."
+    }
+  ],
+  "summary": {
+    "comparisons": 42,
+    "accepted": 0,
+    "rejected": 39,
+    "media_blocked": 3
+  }
+}
