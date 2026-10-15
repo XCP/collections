@@ -1615,6 +1615,10 @@
         {
           "trait_type": "Artist",
           "value": "jpegtrashbin"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEKACHU"
         }
       ]
     },
@@ -1957,6 +1961,10 @@
         {
           "trait_type": "Artist",
           "value": "NORMANCOMICS"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
         }
       ]
     },
@@ -3524,6 +3532,10 @@
         {
           "trait_type": "Artist",
           "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
         }
       ]
     },
@@ -3542,6 +3554,10 @@
         {
           "trait_type": "Artist",
           "value": "Chris Storm"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
         }
       ]
     },
@@ -6842,6 +6858,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEALASSAD"
         }
       ]
     },
@@ -15621,6 +15641,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
         }
       ]
     },
@@ -19046,6 +19070,10 @@
         {
           "trait_type": "Artist",
           "value": "GMONEY"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
         }
       ]
     },
@@ -34507,7 +34535,13 @@
       "asset": "DOGEMAIDCHAN"
     },
     {
-      "asset": "DOGEPOPE"
+      "asset": "DOGEPOPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPOPE"
+        }
+      ]
     },
     {
       "asset": "DOGERMINT"
@@ -44090,6 +44124,10 @@
         {
           "trait_type": "Artist",
           "value": "S1MONS"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
         }
       ]
     },
@@ -47395,7 +47433,13 @@
       "asset": "ZENPOKOENFUN"
     },
     {
-      "asset": "ZEROBASQUIAT"
+      "asset": "ZEROBASQUIAT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBASQUIAT"
+        }
+      ]
     },
     {
       "asset": "ZEROFUXGARY"

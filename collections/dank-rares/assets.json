@@ -2182,6 +2182,10 @@
         {
           "trait_type": "Art year",
           "value": 2021
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEKACHU"
         }
       ]
     },
@@ -6224,6 +6228,10 @@
         {
           "trait_type": "Card",
           "value": 19
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBASQUIAT"
         }
       ]
     },
@@ -23619,6 +23627,10 @@
         {
           "trait_type": "Card",
           "value": 11
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEKACHU"
         }
       ]
     },

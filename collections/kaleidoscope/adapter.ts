@@ -5,7 +5,13 @@ const PAGE_SIZE = 60;
 const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
 // Side-by-side artwork review: docs/name-based-derivative-review-2026-10-15.json.
-const REVIEWED_BASED_ON = new Map([["LUCKYBOSHI", "LUCKYPEPE"]]);
+const REVIEWED_BASED_ON = new Map([
+  ["LUCKYBOSHI", "LUCKYPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-1.json
+  ["BALDROSS", "PEPEROSS"],
+  ["ROSSSPAMGELO", "PEPEROSS"],
+  ["ROSSSPAMDONG", "PEPEROSS"],
+]);
 // Reviewed original metadata / artwork signatures; see the collection README.
 const REVIEWED_ARTISTS = new Map([
   ["JPJA", "JP Janssen"],

@@ -185,7 +185,13 @@
       "asset": "DARKBRANDON"
     },
     {
-      "asset": "DARKPILLDON"
+      "asset": "DARKPILLDON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKPILLPEPE"
+        }
+      ]
     },
     {
       "asset": "DEEZNUUTZ"

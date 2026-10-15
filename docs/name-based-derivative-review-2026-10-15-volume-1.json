@@ -1,0 +1,1011 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side visual review of original and candidate CDN artwork. Names generate leads only. Ambiguous and unavailable media are retained for follow-up.",
+  "reviewed": [
+    {
+      "original": "PEPEBASQUIAT",
+      "candidates": [
+        "DNKBASQUIAT",
+        "BASQUIATBOBO",
+        "BASQUIATFAKE",
+        "RAREBASQUIAT",
+        "ZEROBASQUIAT",
+        "BASQUIATMFER",
+        "TWOSVENPHOCK.JEANMICHELBASQUIAT",
+        "QRBASQUIAT"
+      ]
+    },
+    {
+      "original": "PEPEKACHU",
+      "candidates": [
+        "DANKACHU",
+        "BOBKACHU",
+        "FAKEPICKACHU",
+        "BULLKACHU",
+        "FAKACHU",
+        "FAKACHU.IRL",
+        "PIKACHUPEPE",
+        "FAUXKACHU",
+        "MIKACHU.REVERSERARE",
+        "MIKACHU",
+        "SHADIKACHU",
+        "PIKACHU"
+      ]
+    },
+    {
+      "original": "PEPEMILLION",
+      "candidates": [
+        "PEPEMILLIONS"
+      ]
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "candidates": [
+        "DARKPILLHEAD",
+        "CORALINE.DANDARKPILL",
+        "DARKPILLCSF",
+        "DARKPILLPUP",
+        "DARKPILLORD",
+        "DARKPILLAPE",
+        "THEDARKPILL",
+        "PEPERTOY.DARKPILL",
+        "DARKPILLKEV",
+        "PEEKABOO.DANDARKPILL",
+        "DARKPILLMLNE",
+        "DARKPILLDON"
+      ]
+    },
+    {
+      "original": "BOYSCLUBPEPE",
+      "candidates": [
+        "BOYSCLUBFAKE",
+        "BTCBOYSCLUB"
+      ]
+    },
+    {
+      "original": "PEPEROSS",
+      "candidates": [
+        "DANKROSSS",
+        "CHILLPEPROSS",
+        "CORNCROSSING",
+        "COCOROSS",
+        "ROSSBOBO",
+        "PEPEROSSO",
+        "SILKROSS",
+        "ROSSLIVESNOW",
+        "PEPECROSS",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+        "BTCBROSSHIRT.V1",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+        "ULBRICHTROSS.GROWINTHEDARK",
+        "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+        "CROSSTHELINE",
+        "FAKEROSS",
+        "PEPELACROSSE",
+        "ROSSPEPE",
+        "DANKPARTY.PAINT.ROSS",
+        "CROSSSTEPPA",
+        "XFCPDDEROSSI",
+        "BALDROSS",
+        "ROSSSPAMGELO",
+        "ROSSSPAMDONG",
+        "CARDROSS",
+        "KIDPHOCKS.PORCOROSSO",
+        "PHOCKHEADS.FREEROSS",
+        "PHOCKVILLAIN.CROSSBONES",
+        "PROSSESSORFL",
+        "ROSSCARD",
+        "FREEROSSDAY"
+      ]
+    },
+    {
+      "original": "PEPCASSO",
+      "candidates": [
+        "FAKEPEPCASSO",
+        "FAKEPEPCASSO.PRINT",
+        "FAKEPEPCASSO.ORIGINAL",
+        "FAKEPEPCASSO.BACK",
+        "FAKEPEPCASSO.PURPLEPRINT",
+        "FAKEPEPCASSO.PURPLE",
+        "FAKEPEPCASSO.PURPLEORIGINAL"
+      ]
+    },
+    {
+      "original": "PEPEALASSAD",
+      "candidates": [
+        "FAKAHALASSAD",
+        "CLYDEALASSAD"
+      ]
+    },
+    {
+      "original": "PEPEPOPE",
+      "candidates": [
+        "PEPEPOPEII",
+        "MONOPOPEPE",
+        "POPEYEDANK",
+        "POPEBOBO",
+        "BULLPOPE",
+        "POPEBULL",
+        "POPOPEPE",
+        "PEPOPET",
+        "BLUEBEAR.POPE",
+        "MODERNPOPE",
+        "CAPOPEPEFAKE",
+        "PEPEPES.PHUNCHPOPEYE",
+        "DOGEPOPE",
+        "POPEPE",
+        "DROOLINGPOPE",
+        "THEPOPEPE",
+        "DEEPOPEPE",
+        "KONTEMPOPEPE",
+        "FROGPOPE",
+        "PEPEPEARPOPE",
+        "POPEYESPEPE",
+        "WAGMIPOPE",
+        "DOPEPOPEPEPE",
+        "POSTPOPEPEPE",
+        "CAPOPEPE",
+        "PEPEPES.POPEYEPHUNCH",
+        "POPEORDINAL"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "DNKBASQUIAT",
+      "status": "accepted",
+      "reason": "Reuses the crowned trumpet-player composition or distinctive JEAN PEP BASQUIAT / FAMOUS CERTIFIED RARE treatment."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "BASQUIATBOBO",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "CORNBASQUIAT",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "BASQUIATFAKE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "RAREBASQUIAT",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "ZEROBASQUIAT",
+      "status": "accepted",
+      "reason": "Reuses the crowned trumpet-player composition or distinctive JEAN PEP BASQUIAT / FAMOUS CERTIFIED RARE treatment."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "BASQUIATMFER",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEBASQUIAT",
+      "asset": "QRBASQUIAT",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "DANKACHU",
+      "status": "accepted",
+      "reason": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "BOBKACHU",
+      "status": "accepted",
+      "reason": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "FAKEPICKACHU",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "BULLKACHU",
+      "status": "accepted",
+      "reason": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "FAKAHKACHU",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "FAKACHU",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "FAKACHU.IRL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "PIKACHUPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "FAUXKACHU",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "MIKACHU.REVERSERARE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "MIKACHU",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "SHADIKACHU",
+      "status": "accepted",
+      "reason": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "original": "PEPEKACHU",
+      "asset": "PIKACHU",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEMILLION",
+      "asset": "PEPEMILLIONS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLHEAD",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "CORALINE.DANDARKPILL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLBACK",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLCSF",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLPUP",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLORD",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLAPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "THEDARKPILL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "PEPERTOY.DARKPILL",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLKEV",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "PEEKABOO.DANDARKPILL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLMLNE",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "DARKPILLDON",
+      "status": "accepted",
+      "reason": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "original": "DARKPILLPEPE",
+      "asset": "UKSTAMPS.DANDARKPILL",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "BOYSCLUBPEPE",
+      "asset": "BOYSCLUBFAKE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "BOYSCLUBPEPE",
+      "asset": "BTCBOYSCLUB",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "DANKROSSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "CHILLPEPROSS",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "CORNCROSSING",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "COCOROSS",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSBOBO",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PEPEROSSO",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "SILKROSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSLIVESNOW",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PEPECROSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN5",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "BTCBROSSHIRT.V1",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN6",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ULBRICHTROSS.GROWINTHEDARK",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ULBRICHTROSS.HUMANBLOCKCHAIN7",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "CROSSTHELINE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "FAKEROSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PEPELACROSSE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSPEPE",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "STEVEROSS",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "DANKPARTY.PAINT.ROSS",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "CROSSSTEPPA",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "XFCPDDEROSSI",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "BALDROSS",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSSPAMGELO",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSSPAMDONG",
+      "status": "accepted",
+      "reason": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "CARDROSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "KIDPHOCKS.PORCOROSSO",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PHOCKHEADS.FREEROSS",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PHOCKVILLAIN.CROSSBONES",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ORDROSS",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PROSSESSORFL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "ROSSCARD",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "FREEROSSDAY",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEROSS",
+      "asset": "PETROBOBROSS",
+      "status": "ambiguous",
+      "reason": "Possible redraw or shared source; specific original attribution needs stronger comparison."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.PRINT",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.ORIGINAL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.BACK",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.PURPLEPRINT",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.PURPLE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPCASSO",
+      "asset": "FAKEPEPCASSO.PURPLEORIGINAL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEALASSAD",
+      "asset": "FAKAHALASSAD",
+      "status": "accepted",
+      "reason": "Reuses or redraws the distinctive altered Pepe portrait and hair silhouette."
+    },
+    {
+      "original": "PEPEALASSAD",
+      "asset": "CLYDEALASSAD",
+      "status": "accepted",
+      "reason": "Reuses or redraws the distinctive altered Pepe portrait and hair silhouette."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "PEPEPOPEII",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "MONOPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEYEDANK",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEBOBO",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "BULLPOPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEBULL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "PEPOPET",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "BLUEBEAR.POPE",
+      "status": "accepted",
+      "reason": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "MODERNPOPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "CAPOPEPEFAKE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "PEPEPES.PHUNCHPOPEYE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "DOGEPOPE",
+      "status": "accepted",
+      "reason": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "DROOLINGPOPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "THEPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "DEEPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "KONTEMPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "FROGPOPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "PEPEPEARPOPE",
+      "status": "accepted",
+      "reason": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEYESPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "WAGMIPOPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "DOPEPOPEPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POSTPOPEPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "CAPOPEPE",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "PEPEPES.POPEYEPHUNCH",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    },
+    {
+      "original": "PEPEPOPE",
+      "asset": "POPEORDINAL",
+      "status": "rejected",
+      "reason": "Visual comparison does not establish derivation from this specific original; shared names, subjects and styles are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "DNKBASQUIAT",
+      "original": "PEPEBASQUIAT",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/DNKBASQUIAT?image=1",
+      "evidence": "Reuses the crowned trumpet-player composition or distinctive JEAN PEP BASQUIAT / FAMOUS CERTIFIED RARE treatment."
+    },
+    {
+      "asset": "ZEROBASQUIAT",
+      "original": "PEPEBASQUIAT",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/ZEROBASQUIAT?image=1",
+      "evidence": "Reuses the crowned trumpet-player composition or distinctive JEAN PEP BASQUIAT / FAMOUS CERTIFIED RARE treatment."
+    },
+    {
+      "asset": "DANKACHU",
+      "original": "PEPEKACHU",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/DANKACHU?image=1",
+      "evidence": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "asset": "BOBKACHU",
+      "original": "PEPEKACHU",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/BOBKACHU?image=1",
+      "evidence": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "asset": "BULLKACHU",
+      "original": "PEPEKACHU",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/BULLKACHU?image=1",
+      "evidence": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "asset": "SHADIKACHU",
+      "original": "PEPEKACHU",
+      "collection": "rare-shadilay",
+      "image": "https://cdn.xcp.io/img/full/SHADIKACHU?image=1",
+      "evidence": "Reuses the original black-costumed Pepe body/pose and phone-card composition, or embeds that original figure."
+    },
+    {
+      "asset": "DARKPILLHEAD",
+      "original": "DARKPILLPEPE",
+      "collection": "bitcoin-heads",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLHEAD?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLCSF",
+      "original": "DARKPILLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLCSF?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLPUP",
+      "original": "DARKPILLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLPUP?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLORD",
+      "original": "DARKPILLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLORD?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "PEPERTOY.DARKPILL",
+      "original": "DARKPILLPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/PEPERTOY.DARKPILL?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLKEV",
+      "original": "DARKPILLPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLKEV?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLMLNE",
+      "original": "DARKPILLPEPE",
+      "collection": "pepe-flyers",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLMLNE?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "DARKPILLDON",
+      "original": "DARKPILLPEPE",
+      "collection": "the-pepe-project",
+      "image": "https://cdn.xcp.io/img/full/DARKPILLDON?image=1",
+      "evidence": "Reuses the original altered portrait or its distinctive brains/stat-panel composition."
+    },
+    {
+      "asset": "CHILLPEPROSS",
+      "original": "PEPEROSS",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/CHILLPEPROSS?image=1",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "COCOROSS",
+      "original": "PEPEROSS",
+      "collection": "common-coco",
+      "image": "https://cdn.xcp.io/img/full/COCOROSS?image=1",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "ROSSBOBO",
+      "original": "PEPEROSS",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/ROSSBOBO?image=1",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "ROSSPEPE",
+      "original": "PEPEROSS",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/ROSSPEPE?image=1",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "DANKPARTY.PAINT.ROSS",
+      "original": "PEPEROSS",
+      "collection": "dankparty",
+      "image": "https://cdn.xcp.io/img/full/DANKPARTY.PAINT.ROSS?image=1",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "FAKAHALASSAD",
+      "original": "PEPEALASSAD",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/FAKAHALASSAD?image=1",
+      "evidence": "Reuses or redraws the distinctive altered Pepe portrait and hair silhouette."
+    },
+    {
+      "asset": "CLYDEALASSAD",
+      "original": "PEPEALASSAD",
+      "collection": "pepe-flyers",
+      "image": "https://cdn.xcp.io/img/full/CLYDEALASSAD?image=1",
+      "evidence": "Reuses or redraws the distinctive altered Pepe portrait and hair silhouette."
+    },
+    {
+      "asset": "BLUEBEAR.POPE",
+      "original": "PEPEPOPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.POPE?image=1",
+      "evidence": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "asset": "DOGEPOPE",
+      "original": "PEPEPOPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DOGEPOPE?image=1",
+      "evidence": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "asset": "PEPEPEARPOPE",
+      "original": "PEPEPOPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/PEPEPEARPOPE?image=1",
+      "evidence": "Reuses the TIME-cover pope body and original card composition/text, replacing or transforming the head."
+    },
+    {
+      "asset": "BALDROSS",
+      "original": "PEPEROSS",
+      "matches": 0,
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "ROSSSPAMGELO",
+      "original": "PEPEROSS",
+      "matches": 0,
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    },
+    {
+      "asset": "ROSSSPAMDONG",
+      "original": "PEPEROSS",
+      "matches": 0,
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses the original painter-at-easel photograph, card composition and text; includes sculptural and glitched remakes."
+    }
+  ],
+  "unapplied": []
+}

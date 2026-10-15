@@ -341,7 +341,13 @@
       "asset": "COCORONA"
     },
     {
-      "asset": "COCOROSS"
+      "asset": "COCOROSS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEROSS"
+        }
+      ]
     },
     {
       "asset": "COCOSENTO",
