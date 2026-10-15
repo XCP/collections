@@ -956,7 +956,13 @@
       "asset": "ORDTELEBURN"
     },
     {
-      "asset": "ORDTRADERS"
+      "asset": "ORDTRADERS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPETRADERS"
+        }
+      ]
     },
     {
       "asset": "ORDWARD"
