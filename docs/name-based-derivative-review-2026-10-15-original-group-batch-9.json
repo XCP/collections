@@ -1,0 +1,502 @@
+{
+  "date": "2026-10-15",
+  "method": "All four group sheets and three animation sheets viewed. Six animations sampled four spaced frames each; not exhaustive playback. Specific source comparisons only.",
+  "reviewed": [
+    {
+      "original": "CORNPUFF",
+      "candidates": [
+        "PUFFPUFFPEPE",
+        "PUFFYCORNOIL",
+        "BUTTERPUFF",
+        "COTTONPUFF",
+        "JIGGLYPUFF",
+        "PEPEPUFF",
+        "PEPPLYPUFF",
+        "PUFFCARD",
+        "PUFFDRAGON",
+        "PUFFMAN",
+        "PUFFNSTUFF",
+        "PUFFPEPE",
+        "PUFFPUFFPASS",
+        "PUNCHPUFF.0428c4001d0",
+        "PUNCHPUFF.046f7f381c0",
+        "PUNCHPUFF.0471be001d0",
+        "PUNCHPUFF.047513381c0",
+        "PUNCHPUFF.0493e40a1c0",
+        "PUNCHPUFF.04a7bc201c0",
+        "PUNCHPUFF.04c38c001d0",
+        "PUNCHPUFF.04e5b3431c0",
+        "PUNCHPUFF.04f4a3051c0",
+        "PUNCHPUFF.04fd68011c0"
+      ]
+    },
+    {
+      "original": "CORNBASQ",
+      "candidates": [
+        "BASQUIAMOTO",
+        "BASQUIATBOBO",
+        "FEELSBASQMAN",
+        "LORDBASQKEK",
+        "PEARLBASQ",
+        "BASQBOBO",
+        "BASQEQ",
+        "BASQETPEPE",
+        "BASQKEKNARDO",
+        "BASQORD",
+        "BASQPEAR",
+        "BASQUIATFAKE",
+        "BASQUIATMFER",
+        "CORNBASQUIAT",
+        "DROOLBASQ",
+        "FAKEBASQ.PURPLE",
+        "FAKEBASQAPE",
+        "FAKEBASQPEPE.ORIGINAL",
+        "FAKEBASQPEPE.PEACE",
+        "FAKEBASQPEPE.PEACEART",
+        "FAKEBASQPEPE.PRINT",
+        "FAKEROTHKO.BASQKEK",
+        "PEPEBASQKEK",
+        "PEPEBASQUIAT",
+        "PEPEBASQZ",
+        "QRBASQUIAT",
+        "RAREBASQUIAT",
+        "SPAMBASQIAT",
+        "TWOSVENPHOCK.JEANMICHELBASQUIAT"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PUFFYCORNOIL",
+      "pages": 83,
+      "sampled_frames": [
+        0,
+        27,
+        55,
+        82
+      ]
+    },
+    {
+      "asset": "PEPPLYPUFF",
+      "pages": 51,
+      "sampled_frames": [
+        0,
+        17,
+        33,
+        50
+      ]
+    },
+    {
+      "asset": "PUFFPEPE",
+      "pages": 14,
+      "sampled_frames": [
+        0,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "asset": "PUFFMAN",
+      "pages": 61,
+      "sampled_frames": [
+        0,
+        20,
+        40,
+        60
+      ]
+    },
+    {
+      "asset": "PUFFPUFFPASS",
+      "pages": 180,
+      "sampled_frames": [
+        0,
+        60,
+        119,
+        179
+      ]
+    },
+    {
+      "asset": "BASQEQ",
+      "pages": 84,
+      "sampled_frames": [
+        0,
+        28,
+        55,
+        83
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFPUFFPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFYCORNOIL",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "BUTTERPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "COTTONPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "JIGGLYPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PEPEPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PEPPLYPUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFCARD",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFDRAGON",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFMAN",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFNSTUFF",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUFFPUFFPASS",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.0428c4001d0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.046f7f381c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.0471be001d0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.047513381c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.0493e40a1c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.04a7bc201c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-0.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.04c38c001d0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-19.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.04e5b3431c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-19.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.04f4a3051c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-19.png"
+    },
+    {
+      "original": "CORNPUFF",
+      "asset": "PUNCHPUFF.04fd68011c0",
+      "status": "rejected",
+      "reason": "No reuse of the distorted smoking portrait, giant diagonal cigarette and cosmic background; smoking themes, Pokemon/pufferfish and PunchPuff figures are distinct.",
+      "evidence_sheet": "sheets/group-CORNPUFF-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQUIAMOTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQUIATBOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FEELSBASQMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "LORDBASQKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "PEARLBASQ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQBOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQEQ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQETPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQKEKNARDO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQORD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQPEAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQUIATFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "BASQUIATMFER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "CORNBASQUIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "DROOLBASQ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQ.PURPLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQPEPE.ORIGINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQPEPE.PEACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-0.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQPEPE.PEACEART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEBASQPEPE.PRINT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "FAKEROTHKO.BASQKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "PEPEBASQKEK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "PEPEBASQUIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "PEPEBASQZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "QRBASQUIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "RAREBASQUIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "SPAMBASQIAT",
+      "status": "ambiguous",
+      "reason": "Similar elongated central form, crown, dark multicolor hatching and blue/red field. Need enlarged comparison and chronology to distinguish direct reworking from related style/companion artwork.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    },
+    {
+      "original": "CORNBASQ",
+      "asset": "TWOSVENPHOCK.JEANMICHELBASQUIAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of the tall central corn cob with outlined husks and blue/black field; shared Basquiat influences and crowns alone are insufficient.",
+      "evidence_sheet": "sheets/group-CORNBASQ-19.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 52,
+    "rejected": 51,
+    "ambiguous": 1,
+    "accepted": 0
+  }
+}
