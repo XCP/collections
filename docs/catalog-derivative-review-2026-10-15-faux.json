@@ -1374,9 +1374,9 @@
     {
       "asset": "GNOMERETURNS",
       "collection": "faux-sogs",
-      "status": "already_attributed",
+      "status": "resolved_followup",
       "original": "GNOMECARD",
-      "reason": "Existing attribution retained."
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "GOLDENDRAGON",
@@ -1459,9 +1459,9 @@
     {
       "asset": "IRLFDCARD",
       "collection": "faux-sogs",
-      "status": "already_attributed",
+      "status": "resolved_followup",
       "original": "FDCARD",
-      "reason": "Existing attribution retained."
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "JESUSOGS",
@@ -1584,8 +1584,8 @@
     {
       "asset": "NINJASARU",
       "collection": "faux-sogs",
-      "status": "screened_no_specific_match",
-      "reason": "First-frame catalog screening identified no specific original; this is not an exhaustive rejection or full animation review."
+      "status": "resolved_followup",
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "NITSABOBO",
@@ -1736,9 +1736,9 @@
     {
       "asset": "SATOSHABAN",
       "collection": "faux-sogs",
-      "status": "already_attributed",
+      "status": "resolved_followup",
       "original": "SATOSHICARD",
-      "reason": "Existing attribution retained."
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "SATOSHECARD",
@@ -1776,9 +1776,9 @@
     {
       "asset": "SGDANKNESS",
       "collection": "faux-sogs",
-      "status": "accepted",
+      "status": "resolved_followup",
       "original": "SGDARKNESS",
-      "reason": "Exact hood, shoulder feathers, circular pendant and body folds with green glow, recoloring and Lord of Dankness title."
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "SHABANAMOTO",
@@ -1886,8 +1886,8 @@
     {
       "asset": "SOURDOGE",
       "collection": "faux-sogs",
-      "status": "screened_no_specific_match",
-      "reason": "First-frame catalog screening identified no specific original; this is not an exhaustive rejection or full animation review."
+      "status": "resolved_followup",
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "SPELLCASTER",
@@ -2054,9 +2054,9 @@
     {
       "asset": "VANGOSHI",
       "collection": "faux-sogs",
-      "status": "already_attributed",
+      "status": "resolved_followup",
       "original": "SATOSHICARD",
-      "reason": "Existing attribution retained."
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "WALKTHEPLANK",
@@ -2097,8 +2097,8 @@
     {
       "asset": "YACHTCARD",
       "collection": "faux-sogs",
-      "status": "screened_no_specific_match",
-      "reason": "First-frame catalog screening identified no specific original; this is not an exhaustive rejection or full animation review."
+      "status": "resolved_followup",
+      "reason": "User attribution confirmed/recorded; see name-based-derivative-review-2026-10-15-user-attributions.json"
     },
     {
       "asset": "ZUGZWANG",

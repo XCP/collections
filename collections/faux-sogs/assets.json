@@ -2003,6 +2003,10 @@
         {
           "trait_type": "Artist",
           "value": "Simsa"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NINJASUIT"
         }
       ]
     },
@@ -2494,6 +2498,10 @@
         {
           "trait_type": "Art year",
           "value": 2022
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DOGECOINCARD"
         }
       ]
     },
@@ -2829,6 +2837,10 @@
         {
           "trait_type": "Artist",
           "value": "Griffin"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "YACHTDOCK"
         }
       ]
     },
