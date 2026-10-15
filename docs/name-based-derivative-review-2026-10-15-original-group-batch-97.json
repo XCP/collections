@@ -1,0 +1,532 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and two animation sheets visually inspected. Seven GIFs sampled at four spaced frames, including all four SEAPEPE frames; longer animations not exhaustive. Exact-source rejections do not exclude other originals.",
+  "reviewed": [
+    {
+      "original": "SEAPEPE",
+      "volume_usd": 25659.6945066936,
+      "buyers": 106,
+      "candidates": [
+        "BOBOSEASON",
+        "BOOKOFWISDOM.7thSealAriseTLC",
+        "BROKENSEA",
+        "CHELSEAPEPE",
+        "COCOSEARING",
+        "DANKSEAWEED",
+        "EQUIPOISEART",
+        "FAKENESS.02ENTROPYSEAL",
+        "FAKENESS.03ENTROPYSEAL",
+        "FAKENESS.04ENTROPYSEAL",
+        "FAKENESS.05ENTROPYSEAL",
+        "FAKENESS.21ENTROPYSEAL",
+        "FALSEACE",
+        "FALSEACE.LAFAKAROYAL",
+        "FAPESEACK",
+        "FAYC.BROKENSEA",
+        "GAMMASEA",
+        "GOATSEASON",
+        "HORSEA",
+        "JOYISEASY",
+        "KILLWITHKIND.SEAHAMWARHAWK",
+        "MSTRPEPES.PEPEABOVETHESEAOFFOG",
+        "MSTRPEPES.SEATEDPEPEBUDDHAS",
+        "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE",
+        "MSTRPEPES.STORMONTHESEAOFPEPELEE",
+        "MULLETSEASON",
+        "OPENSEAPEPE",
+        "OPEPENSEA",
+        "PEPESEAOFLSB",
+        "PEPESEARCH",
+        "SEABTC",
+        "SEACAPTPEPE",
+        "SEADRA",
+        "SEADRAGON",
+        "SEAHAWKS",
+        "SEAKING",
+        "SEAMANPEPE",
+        "SEANCONNERY",
+        "SEANPEPE",
+        "SEAOFCOLORS",
+        "SEAOFFROG",
+        "SEAPEDROOL",
+        "SEASHORE",
+        "SEASIDECOCO",
+        "SEASIDEPEPE",
+        "SEASTAMP",
+        "SEASTAMP.CORALSTAMP",
+        "SEASTAMP.SUNSTAMP",
+        "SEASTAMP.WAVESTAMP",
+        "SEASTEADPEPE",
+        "SEAWEEDPEPE",
+        "SWORDINALSEA",
+        "WISEAPES",
+        "XFCPSEASENJO",
+        "YOURBASEARE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BROKENSEA",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "SEAPEPE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "KILLWITHKIND.SEAHAMWARHAWK",
+      "pages": 129,
+      "sampled_frames": [
+        0,
+        43,
+        85,
+        128
+      ]
+    },
+    {
+      "asset": "JOYISEASY",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "SEACAPTPEPE",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "SEASIDECOCO",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "YOURBASEARE",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "SEAPEPE",
+      "asset": "BOBOSEASON",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "BOOKOFWISDOM.7thSealAriseTLC",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "BROKENSEA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "CHELSEAPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "COCOSEARING",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "DANKSEAWEED",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "EQUIPOISEART",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAKENESS.02ENTROPYSEAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAKENESS.03ENTROPYSEAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAKENESS.04ENTROPYSEAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAKENESS.05ENTROPYSEAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAKENESS.21ENTROPYSEAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FALSEACE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FALSEACE.LAFAKAROYAL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAPESEACK",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "FAYC.BROKENSEA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "GAMMASEA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "GOATSEASON",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "HORSEA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-0.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "JOYISEASY",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "KILLWITHKIND.SEAHAMWARHAWK",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "MSTRPEPES.PEPEABOVETHESEAOFFOG",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "MSTRPEPES.SEATEDPEPEBUDDHAS",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "MSTRPEPES.SEATEDPEPEOFTHEKEKNOKCULTURE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "MSTRPEPES.STORMONTHESEAOFPEPELEE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "MULLETSEASON",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "OPENSEAPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "OPEPENSEA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "PEPESEAOFLSB",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "PEPESEARCH",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEABTC",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEACAPTPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEADRA",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEADRAGON",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAHAWKS",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAKING",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAMANPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEANCONNERY",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-19.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEANPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAOFCOLORS",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAOFFROG",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAPEDROOL",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASHORE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASIDECOCO",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASIDEPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASTAMP",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASTAMP.CORALSTAMP",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASTAMP.SUNSTAMP",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASTAMP.WAVESTAMP",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEASTEADPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SEAWEEDPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "SWORDINALSEA",
+      "status": "rejected",
+      "reason": "Marketplace collage, not a reworking of the source helmeted surfer frog composition; small card insets alone do not establish derivative intent.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "WISEAPES",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "XFCPSEASENJO",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    },
+    {
+      "original": "SEAPEPE",
+      "asset": "YOURBASEARE",
+      "status": "rejected",
+      "reason": "No reuse of the source hand-drawn helmeted surfer frog, splash, ocean-photo background and moving speech bubble. Shared sea subject or incidental SEA substring is insufficient.",
+      "evidence_sheet": "sheets/group-SEAPEPE-38.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 55,
+    "accepted": 0,
+    "rejected": 55
+  }
+}
