@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and two animation sheets visually inspected. All three PEPSMITHSLAP frames and all four SKELETONKEK frames viewed; SMITHPEPE sampled at four spaced positions, not exhaustive playback.",
+  "reviewed": [
+    {
+      "original": "SPADESPEPE",
+      "volume_usd": 21028.373505173247,
+      "buyers": 31,
+      "candidates": [
+        "DABCJOKER.SPADESACE",
+        "DABCJOKER.SPADESJACK",
+        "DABCJOKER.SPADESKING",
+        "DABCJOKER.SPADESQUEEN",
+        "FAPEOFSPADES",
+        "PEPEPIDOU.ASSOFSPADES"
+      ]
+    },
+    {
+      "original": "SMITHPEPE",
+      "volume_usd": 20821.57145744865,
+      "buyers": 83,
+      "candidates": [
+        "BLACKSMITHS",
+        "PEPSMITHSLAP",
+        "SMITHERSPEPE"
+      ]
+    },
+    {
+      "original": "PEPESKELETON",
+      "volume_usd": 20678.27991762946,
+      "buyers": 48,
+      "candidates": [
+        "SKELETONKEK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "PEPSMITHSLAP",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "SMITHPEPE",
+      "pages": 37,
+      "sampled_frames": [
+        0,
+        12,
+        24,
+        36
+      ]
+    },
+    {
+      "asset": "SKELETONKEK",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "SPADESPEPE",
+      "asset": "DABCJOKER.SPADESACE",
+      "status": "rejected",
+      "reason": "Frog face embedded in decorated spade symbol. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SPADESPEPE",
+      "asset": "DABCJOKER.SPADESJACK",
+      "status": "rejected",
+      "reason": "Conventional jack playing-card figure with frog head. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SPADESPEPE",
+      "asset": "DABCJOKER.SPADESKING",
+      "status": "rejected",
+      "reason": "Conventional bearded king playing-card figure with frog head. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SPADESPEPE",
+      "asset": "DABCJOKER.SPADESQUEEN",
+      "status": "rejected",
+      "reason": "Conventional queen playing-card figure with frog head. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SPADESPEPE",
+      "asset": "FAPEOFSPADES",
+      "status": "rejected",
+      "reason": "Ape face inside large spade on black-and-white ace card. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SPADESPEPE",
+      "asset": "PEPEPIDOU.ASSOFSPADES",
+      "status": "rejected",
+      "reason": "Single pale spade/buttocks symbol with French caption. No specific reuse of source crowned frog holding scythe on stained parchment. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SPADESPEPE-0.png"
+    },
+    {
+      "original": "SMITHPEPE",
+      "asset": "BLACKSMITHS",
+      "status": "rejected",
+      "reason": "Illustrated blacksmith raising hammer at forge. No specific reuse of source Matrix Agent Smith face-to-face scene and rows of copied agents. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SMITHPEPE-0.png"
+    },
+    {
+      "original": "SMITHPEPE",
+      "asset": "PEPSMITHSLAP",
+      "status": "rejected",
+      "reason": "Two drawn suited figures reenacting slap incident. No specific reuse of source Matrix Agent Smith face-to-face scene and rows of copied agents. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SMITHPEPE-0.png"
+    },
+    {
+      "original": "SMITHPEPE",
+      "asset": "SMITHERSPEPE",
+      "status": "rejected",
+      "reason": "Simpsons-style Smithers frog portrait. No specific reuse of source Matrix Agent Smith face-to-face scene and rows of copied agents. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-SMITHPEPE-0.png"
+    },
+    {
+      "original": "PEPESKELETON",
+      "asset": "SKELETONKEK",
+      "status": "rejected",
+      "reason": "Purple skeleton in green hoodie holding fiery object before circuit pattern. No specific reuse of source pencil skeleton-frog portrait with long raised fingers and black suit. Shared name fragment, suit or skeleton motif alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPESKELETON-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 10,
+    "accepted": 0,
+    "rejected": 10
+  }
+}
