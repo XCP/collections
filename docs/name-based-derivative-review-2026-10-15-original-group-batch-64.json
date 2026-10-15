@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and two animation sheets inspected; five animations including original sampled at four spaced positions, both ONESHADILAY frames inspected. Not exhaustive playback. Original and two ambiguous cards enlarged; core issuance histories and SHADILAYTHUG metadata checked. Shared external record artwork is a confounder, not proof of asset derivation.",
+  "reviewed": [
+    {
+      "original": "RARESHADILAY",
+      "volume_usd": 23476.27694170081,
+      "buyers": 68,
+      "candidates": [
+        "BOBSHADILAY",
+        "DEALSHADILAY",
+        "DEMOSHADILAY",
+        "DRAWSHADILAY",
+        "LEGOSHADILAY",
+        "LORDSHADILAY",
+        "METASHADILAY",
+        "NOTSHADILAY",
+        "ONESHADILAY",
+        "PALASHADILAY",
+        "POPSHADILAY",
+        "SHADILAYAIR",
+        "SHADILAYDI",
+        "SHADILAYDI.PICT",
+        "SHADILAYKIDD",
+        "SHADILAYPENA",
+        "SHADILAYPUNK",
+        "SHADILAYSOG",
+        "SHADILAYTEST",
+        "SHADILAYTHUG",
+        "SHADSHADILAY",
+        "SLIMSHADILAY",
+        "TAJSHADILAY",
+        "TRASHADILAY"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RARESHADILAY",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    },
+    {
+      "asset": "ONESHADILAY",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "asset": "SHADILAYDI",
+      "pages": 92,
+      "sampled_frames": [
+        0,
+        30,
+        61,
+        91
+      ]
+    },
+    {
+      "asset": "SHADILAYTHUG",
+      "pages": 125,
+      "sampled_frames": [
+        0,
+        41,
+        83,
+        124
+      ]
+    },
+    {
+      "asset": "TRASHADILAY",
+      "pages": 20,
+      "sampled_frames": [
+        0,
+        6,
+        13,
+        19
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RARESHADILAY",
+      "asset": "BOBSHADILAY",
+      "status": "rejected",
+      "reason": "Rasta character portrait. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "DEALSHADILAY",
+      "status": "rejected",
+      "reason": "Two facing frogs over green texture. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "DEMOSHADILAY",
+      "status": "rejected",
+      "reason": "Demolition Man-style uniformed frog. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "DRAWSHADILAY",
+      "status": "rejected",
+      "reason": "Pencil drawing of shared Shadilay mascot. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "LEGOSHADILAY",
+      "status": "rejected",
+      "reason": "Lego depiction of shared mascot. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "LORDSHADILAY",
+      "status": "rejected",
+      "reason": "Haloed saint with tablet. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "METASHADILAY",
+      "status": "rejected",
+      "reason": "Umbrella frog and film still card. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "NOTSHADILAY",
+      "status": "rejected",
+      "reason": "Minimal outlined green face. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "ONESHADILAY",
+      "status": "rejected",
+      "reason": "One mascot among Wojak crowd. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "PALASHADILAY",
+      "status": "rejected",
+      "reason": "Stylized frog head and abstract forms. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "POPSHADILAY",
+      "status": "rejected",
+      "reason": "Pop-art mascot before burst. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYAIR",
+      "status": "rejected",
+      "reason": "Jumpman-style silhouette. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYDI",
+      "status": "rejected",
+      "reason": "Geometric female portrait. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYDI.PICT",
+      "status": "rejected",
+      "reason": "Geometric female portrait. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYKIDD",
+      "status": "rejected",
+      "reason": "Basketball player mascot. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYPENA",
+      "status": "rejected",
+      "reason": "Suited figure with cash. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYPUNK",
+      "status": "rejected",
+      "reason": "Pixel mascot. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYSOG",
+      "status": "rejected",
+      "reason": "Dark distorted portrait. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYTEST",
+      "status": "ambiguous",
+      "reason": "Enlarged text claims a test before magic template was finalized, certification papers lost, second edition. This could reference a precursor/version or parody; current2022 media event does not resolve the artwork claim. Shared frog and card frame insufficient to identify RARESHADILAY as immediate original. Preserve unresolved.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-0.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADILAYTHUG",
+      "status": "ambiguous",
+      "reason": "Same frog/spiral/label arrangement and a trading-card frame, but the central Magic Sound artwork predates RARESHADILAY as record-label art. Candidate substitutes Meme Magic and different game text; unclear whether this targets the asset or shared record art plus card convention. Enlarged both and sampled animation; Pinata IPFS JSON 200 contains image/title/supply but no attribution. 2022 versus source2017 history supports chronology only, not dependency.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-19.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SHADSHADILAY",
+      "status": "rejected",
+      "reason": "Biblical furnace scene. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-19.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "SLIMSHADILAY",
+      "status": "rejected",
+      "reason": "Rapper mascot with other frogs. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-19.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "TAJSHADILAY",
+      "status": "rejected",
+      "reason": "Muscular mascot before Taj Mahal. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-19.png"
+    },
+    {
+      "original": "RARESHADILAY",
+      "asset": "TRASHADILAY",
+      "status": "rejected",
+      "reason": "Frog-shaped trash bin in psychedelic space. Shared Shadilay mascot/name does not establish reuse of this specific Rare Pepe card; its distinctive card composition or text is absent in inspected imagery.",
+      "evidence_sheet": "sheets/group-RARESHADILAY-19.png"
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "RARESHADILAY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "196f362f5ddd9104a71bc5ae486d170c6eeb9edcc7d6098e5d806274860f988f",
+            "block_index": 453519,
+            "block_time": 1487365260,
+            "source": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "issuer": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "http://www.bongbitcoin.com/rarepepe/rareshadilay.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "6254d3bbc4f6403fa87ebb6d326eebbec5803804e6e13acf8b4cb72224cb5299",
+            "block_index": 451986,
+            "block_time": 1486493190,
+            "source": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "issuer": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "46c36be8fc37262ef33cec48d4e489ef074ee033cfb23b23b9e311fbf4b0ac10",
+            "block_index": 451983,
+            "block_time": 1486492016,
+            "source": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "issuer": "1KiQ8YpcnC2PseTAwRuxTrSCiBi4aePuk1",
+            "transfer": 0,
+            "quantity_normalized": "1986",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "SHADILAYTHUG",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "4d2b52b0624cf5e532f9736c64d4d516ba476b894891c2df384a40a8b032732a",
+            "block_index": 758086,
+            "block_time": 1665435275,
+            "source": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "issuer": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://ipfs.io/ipfs/QmdxEppy8EEJ2Q5Vpa7QpEM7wZCTCLckSw83quLzdj6Wh6?filename=SHADILAYTHUG.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "19f46e4d609a82bb6567eca3d668860fc9dfad99684012de1858e132d2a34c71",
+            "block_index": 758082,
+            "block_time": 1665433091,
+            "source": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "issuer": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "transfer": 0,
+            "quantity_normalized": "36",
+            "description": "https://ipfs.io/ipfs/QmdxEppy8EEJ2Q5Vpa7QpEM7wZCTCLckSw83quLzdj6Wh6?filename=SHADILAYTHUG.json",
+            "asset_events": "reissuance",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "44c869dcb5a6988967e107b459619cc97b525ea7f968019170da15c4655d89d0",
+            "block_index": 758082,
+            "block_time": 1665433091,
+            "source": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "issuer": "1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn",
+            "transfer": 0,
+            "quantity_normalized": "36",
+            "description": "https://ipfs.io/ipfs/QmdxEppy8EEJ2Q5Vpa7QpEM7wZCTCLckSw83quLzdj6Wh6?filename=SHADILAYTHUG.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "SHADILAYTEST",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "873095790b51a0e5be841297e998acb245267ddd73496385714c687d29174f34",
+            "block_index": 746091,
+            "block_time": 1658543070,
+            "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://xcp.dankinfo.art/danks/SHADILAYTEST.png",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "6775ad823cd52ff15903beb7685d8e9db98c50691b47f17946e4678e150eea4f",
+            "block_index": 746091,
+            "block_time": 1658543070,
+            "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "304ace47626ec56541356212b94db444cb49db0a762509db3266bb9532f432bf",
+            "block_index": 746088,
+            "block_time": 1658540798,
+            "source": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "issuer": "1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+            "transfer": 0,
+            "quantity_normalized": "42",
+            "description": "",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "metadata_evidence": {
+    "url": "https://gateway.pinata.cloud/ipfs/QmdxEppy8EEJ2Q5Vpa7QpEM7wZCTCLckSw83quLzdj6Wh6",
+    "status": 200,
+    "body": "{\n    \"success\":true,\n    \"asset\":\"SHADILAYTHUG\",\n    \"asset_issuer_address\":\"1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn\",\n    \"asset_owner_address\":\"1J5FJzMUuFBSCYaSr5G94m7zpyEujC3dzn\",\n    \"asset_supply\":\"36\",\n    \"asset_divisible\":false,\n    \"asset_locked\":true,\n    \"image\":\"https://ipfs.io/ipfs/QmRZY2MEs1JZZLPpbv41WsxAbYhgz3Zk4HHYHBcGsxnHdo?filename=SHADILAYTHUG.gif\",\n    \"image_large\":\"https://ipfs.io/ipfs/QmRZY2MEs1JZZLPpbv41WsxAbYhgz3Zk4HHYHBcGsxnHdo?filename=SHADILAYTHUG.gif\",\n    \"image_title\":\"SHADILAYTHUG\"\n}"
+  },
+  "external_context": [
+    "https://musicbrainz.org/release/efa4419f-f9cc-413a-8ee3-e9368da9b397/cover-art",
+    "https://en.wikipedia.org/wiki/Shadilay"
+  ],
+  "summary": {
+    "comparisons": 24,
+    "accepted": 0,
+    "rejected": 22,
+    "ambiguous": 2
+  }
+}
