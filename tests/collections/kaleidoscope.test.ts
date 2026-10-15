@@ -158,3 +158,13 @@ test("keeps JP Janssen's book and separately recorded image credits on refresh",
     assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Artist")));
   }
 });
+
+test("preserves reviewed LUCKYBOSHI derivation without adding membership", async () => {
+  const response = structuredClone(fixture);
+  response.items[0].assetName = "LUCKYBOSHI";
+  const assets = await load({ fetchJson: async () => response, cache: new Map() });
+  assert.equal(assets.length, response.items.length);
+  assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === "LUCKYPEPE"));
+  const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
+  assert.ok(!absent.some(a => a.asset === "LUCKYBOSHI"));
+});

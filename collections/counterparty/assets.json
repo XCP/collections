@@ -490,6 +490,10 @@
         {
           "trait_type": "Artist",
           "value": "VSTRVL"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPENOPOULOS"
         }
       ]
     },
@@ -1006,6 +1010,10 @@
         {
           "trait_type": "Artist",
           "value": "Boost"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BANEPEPE"
         }
       ]
     },
@@ -6350,6 +6358,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BANEPEPE"
         }
       ]
     },
@@ -12436,6 +12448,10 @@
         {
           "trait_type": "Artist",
           "value": "SilK"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "LORDKEK"
         }
       ]
     },
@@ -18410,6 +18426,10 @@
         {
           "trait_type": "Artist",
           "value": "exdank"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "BANEPEPE"
         }
       ]
     },
@@ -35328,7 +35348,13 @@
       "asset": "FAKELOGO"
     },
     {
-      "asset": "FAKELUCKY"
+      "asset": "FAKELUCKY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LUCKYPEPE"
+        }
+      ]
     },
     {
       "asset": "FAKEMADPEPE",

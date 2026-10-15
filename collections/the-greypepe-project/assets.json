@@ -152,7 +152,13 @@
       "asset": "GREYHOMER"
     },
     {
-      "asset": "GREYLORDKEK"
+      "asset": "GREYLORDKEK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LORDKEK"
+        }
+      ]
     },
     {
       "asset": "GREYNAKAMOTO"

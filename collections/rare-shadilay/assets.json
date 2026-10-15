@@ -582,7 +582,13 @@
       ]
     },
     {
-      "asset": "SHADILUCKY"
+      "asset": "SHADILUCKY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LUCKYPEPE"
+        }
+      ]
     },
     {
       "asset": "SHADILUXURY"

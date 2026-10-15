@@ -4,6 +4,8 @@ const SEARCH_URL = "https://kaleidoscopexcp.net/api/search";
 const PAGE_SIZE = 60;
 const MAX_PAGES = 100;
 const CACHE_KEY = "kaleidoscope-search-v1";
+// Side-by-side artwork review: docs/name-based-derivative-review-2026-10-15.json.
+const REVIEWED_BASED_ON = new Map([["LUCKYBOSHI", "LUCKYPEPE"]]);
 // Reviewed original metadata / artwork signatures; see the collection README.
 const REVIEWED_ARTISTS = new Map([
   ["JPJA", "JP Janssen"],
@@ -132,6 +134,7 @@ export async function load({ fetchJson, cache }) {
       asset,
       attributes: [
         { trait_type: "Kaleidoscope ID", value: item.kaleidoscopeId },
+        ...(REVIEWED_BASED_ON.has(asset) ? [{ trait_type: "Based on", value: REVIEWED_BASED_ON.get(asset) }] : []),
         ...(REVIEWED_ART_YEARS.has(asset) ? [{ trait_type: "Art year", value: REVIEWED_ART_YEARS.get(asset) }] : []),
         ...(REVIEWED_ARTISTS.has(asset) ? [{ trait_type: "Artist", value: REVIEWED_ARTISTS.get(asset) }] : []),
       ],

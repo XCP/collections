@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-15",
+  "method": "Name-stem candidate generation across exported registry, excluding existing links. Six reference groups reviewed side-by-side using CDN image-safe originals. Names are leads only; accepted works visibly reuse distinctive source compositions, figures and/or card text.",
+  "candidate_groups": 816,
+  "candidate_pairs": 6598,
+  "reviewed": [
+    {
+      "original": "LORDKEK",
+      "source_image": "https://cdn.xcp.io/img/full/LORDKEK?image=1",
+      "candidates": [
+        "DANKLORDKEK",
+        "FAKELORDKEK.DANK",
+        "LORDKEKDANK",
+        "NEWLORDKEK",
+        "FAKELORDKEK",
+        "LORDKEKPEPE",
+        "LORDKEKPZ",
+        "LORDKEKMAS",
+        "FAKELORDKEK.PURP",
+        "FAKELORDKEK.take.a.gander.at.the.Kekly.Gonads",
+        "FAKELORDKEK.SACRIFICE",
+        "LORDKEKERVNG",
+        "GREYLORDKEK"
+      ]
+    },
+    {
+      "original": "PEPENOPOULOS",
+      "source_image": "https://cdn.xcp.io/img/full/PEPENOPOULOS?image=1",
+      "candidates": [
+        "SWANOPOULOS",
+        "DVTHNOPOULOS",
+        "FAKANOPOULOS",
+        "FAKENOPOULOS.PROJECTFAKE"
+      ]
+    },
+    {
+      "original": "BBOYPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/BBOYPEPE?image=1",
+      "candidates": [
+        "PEPEBBOY",
+        "DJPEPEBADGER.BBOY-PEPE-BADGER",
+        "DJPEPEBADGER.BBOY-PEPE-BADGER-LIMITED-OG-COLOR"
+      ]
+    },
+    {
+      "original": "LUCKYPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/LUCKYPEPE?image=1",
+      "candidates": [
+        "LUCKYDANK",
+        "LUCKYDANK.HD",
+        "UNLUCKYP",
+        "LUCKYBOBO",
+        "GETLUCKYPEPE",
+        "LATOMOLUCKY",
+        "BOOTLEGPEPE.UNLUCKYPEPE",
+        "FAKELUCKY",
+        "CRYPTOLUCKY",
+        "LUCKYFAKEAPE",
+        "LUCKYBOSHI",
+        "SHADILUCKY"
+      ]
+    },
+    {
+      "original": "PEPEGRAM",
+      "source_image": "https://cdn.xcp.io/img/full/PEPEGRAM?image=1",
+      "candidates": [
+        "ZOOGRAM",
+        "GRAMPAPEPE",
+        "FAKEGRAM",
+        "NOOBGRAM",
+        "KEKGRAM",
+        "PEPEGRAMS",
+        "TELEGRAMSCAM",
+        "INSTAGRAMNFT",
+        "KEKGRAM.TQR",
+        "DIAGRAMMATIC",
+        "HEXAGRAMS",
+        "TRIGRAM",
+        "THETELEGRAM",
+        "FAKEGRAM.GAMMA",
+        "FAKEGRAM.ACETONED",
+        "XFCPSRGRAMOS",
+        "DOOMGRAM",
+        "TAUTOGRAM.NOISE",
+        "TANGRAMPEPE",
+        "NOOBGRAM.PHYSICAL",
+        "NOOBGRAM.VOODOO",
+        "NOOBGRAM.BURNT",
+        "TELEGRAMZ",
+        "TANGRAMSTAMP",
+        "TANGRAMSTAMP.seven",
+        "TANGRAMSTAMP.six",
+        "TANGRAMSTAMP.five",
+        "TANGRAMSTAMP.four",
+        "TANGRAMSTAMP.three",
+        "TANGRAMSTAMP.one",
+        "TANGRAMSTAMP.two",
+        "TRIGRAMS",
+        "TRIGRAMS.Earth",
+        "TRIGRAMS.Water",
+        "TRIGRAMS.Wind",
+        "TRIGRAMS.Thunder",
+        "TRIGRAMS.Mountain",
+        "TRIGRAMS.Fire",
+        "TRIGRAMS.Lake",
+        "TRIGRAMS.Heaven"
+      ]
+    },
+    {
+      "original": "BANEPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/BANEPEPE?image=1",
+      "candidates": [
+        "BOOSTEDBANE",
+        "DANKBANE",
+        "BANESWAN",
+        "BANEORDINAL",
+        "PEPEBANE",
+        "SLAYBANEPEPE",
+        "FOILBANE",
+        "FORESTBANE",
+        "BANEAPE",
+        "XFCPEVBANEGA",
+        "URBANEPEPE",
+        "BANEHOWARD",
+        "BOBOBANE"
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "FAKELORDKEK",
+      "original": "LORDKEK",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/FAKELORDKEK?image=1"
+    },
+    {
+      "asset": "LORDKEKPZ",
+      "original": "LORDKEK",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/LORDKEKPZ?image=1"
+    },
+    {
+      "asset": "LORDKEKMAS",
+      "original": "LORDKEK",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/LORDKEKMAS?image=1"
+    },
+    {
+      "asset": "LORDKEKERVNG",
+      "original": "LORDKEK",
+      "collection": "pepe-flyers",
+      "image": "https://cdn.xcp.io/img/full/LORDKEKERVNG?image=1"
+    },
+    {
+      "asset": "GREYLORDKEK",
+      "original": "LORDKEK",
+      "collection": "the-greypepe-project",
+      "image": "https://cdn.xcp.io/img/full/GREYLORDKEK?image=1"
+    },
+    {
+      "asset": "SWANOPOULOS",
+      "original": "PEPENOPOULOS",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/SWANOPOULOS?image=1"
+    },
+    {
+      "asset": "DVTHNOPOULOS",
+      "original": "PEPENOPOULOS",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DVTHNOPOULOS?image=1"
+    },
+    {
+      "asset": "FAKANOPOULOS",
+      "original": "PEPENOPOULOS",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/FAKANOPOULOS?image=1"
+    },
+    {
+      "asset": "FAKENOPOULOS.PROJECTFAKE",
+      "original": "PEPENOPOULOS",
+      "collection": "project-fake-xchained",
+      "image": "https://cdn.xcp.io/img/full/FAKENOPOULOS.PROJECTFAKE?image=1"
+    },
+    {
+      "asset": "DJPEPEBADGER.BBOY-PEPE-BADGER",
+      "original": "BBOYPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.BBOY-PEPE-BADGER?image=1"
+    },
+    {
+      "asset": "DJPEPEBADGER.BBOY-PEPE-BADGER-LIMITED-OG-COLOR",
+      "original": "BBOYPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.BBOY-PEPE-BADGER-LIMITED-OG-COLOR?image=1"
+    },
+    {
+      "asset": "FAKELUCKY",
+      "original": "LUCKYPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/FAKELUCKY?image=1"
+    },
+    {
+      "asset": "SHADILUCKY",
+      "original": "LUCKYPEPE",
+      "collection": "rare-shadilay",
+      "image": "https://cdn.xcp.io/img/full/SHADILUCKY?image=1"
+    },
+    {
+      "asset": "BOOSTEDBANE",
+      "original": "BANEPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/BOOSTEDBANE?image=1"
+    },
+    {
+      "asset": "BANESWAN",
+      "original": "BANEPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/BANESWAN?image=1"
+    },
+    {
+      "asset": "BANEORDINAL",
+      "original": "BANEPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/BANEORDINAL?image=1"
+    },
+    {
+      "asset": "SLAYBANEPEPE",
+      "original": "BANEPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/SLAYBANEPEPE?image=1"
+    },
+    {
+      "asset": "FOILBANE",
+      "original": "BANEPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/FOILBANE?image=1"
+    },
+    {
+      "asset": "BOBOBANE",
+      "original": "BANEPEPE",
+      "collection": "rare-bobo",
+      "image": "https://cdn.xcp.io/img/full/BOBOBANE?image=1"
+    },
+    {
+      "asset": "LUCKYBOSHI",
+      "original": "LUCKYPEPE",
+      "collection": "kaleidoscope",
+      "image": "https://cdn.xcp.io/img/full/LUCKYBOSHI?image=1"
+    }
+  ],
+  "notes": [
+    "PEPEGRAM: no accepted links. Most matches were unrelated -gram words, tangrams, or Telegram.",
+    "LUCKYPEPE: generic lucky cats and lucky imagery alone do not establish derivation.",
+    "BANEPEPE: shared Batman/Bane subject matter alone is insufficient; accepted cards reuse its particular composition or card text.",
+    "LORDKEK: RARELORDKEK was included as an alternate reference; no links to it were justified. FAKELORDKEK subassets need review against their immediate parent rather than flattening every version to LORDKEK.",
+    "Review covers these six groups only, not all generated candidates."
+  ]
+}
