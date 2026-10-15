@@ -2219,6 +2219,10 @@
         {
           "trait_type": "Art year",
           "value": 2021
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DANKPEPE"
         }
       ]
     },
@@ -12980,6 +12984,10 @@
         {
           "trait_type": "Card",
           "value": 10
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FEATHERSPEPE"
         }
       ]
     },

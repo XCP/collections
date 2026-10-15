@@ -1,0 +1,911 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "DANKPEPE",
+      "candidates": [
+        "DANKDAY",
+        "DANKYXMASPOO",
+        "DANKDALI",
+        "DANKTRIP",
+        "DANKNEWPEPA",
+        "ONERAREDANK",
+        "DANKACID",
+        "DANKIZARD",
+        "DANKPILL",
+        "MINERDANK",
+        "TOMDANKS",
+        "TOMDANKSS",
+        "DANKONI",
+        "DANKGOGH",
+        "DANKMEMEMOTO",
+        "DANKWETSUIT",
+        "DANKWISHES",
+        "PHILOSODANK",
+        "DANKEGG"
+      ]
+    },
+    {
+      "original": "PEPEGREEN",
+      "candidates": [
+        "FROGG.GREEN",
+        "GREENCHECK.FAKELIGHTMODE",
+        "GREENCHECK",
+        "GREENNUDES.I",
+        "GREENNUDES.II",
+        "GREENPEPER.INVITE",
+        "HELLOBYE.GREEN",
+        "HIPHOPGAME.KINGGREEN",
+        "HODLTRUMPS.GREENCANDLES",
+        "GREENLENSKYY",
+        "PEPEGREENV",
+        "PEPEGREENIV",
+        "PEPEGREENIII",
+        "PEPEGREENII",
+        "GREENPEPEI",
+        "GREENCELL",
+        "GREENARTCOIN",
+        "GREENMILL",
+        "MEMEGREEN.MEMEPRESSIONISM"
+      ]
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "candidates": [
+        "CUBINAKAMOTO",
+        "CUBINAKAMOTO.00",
+        "CUBINAKAMOTO.01",
+        "CUBINAKAMOTO.02",
+        "CUBINAKAMOTO.03",
+        "CUBINAKAMOTO.04",
+        "CUBINAKAMOTO.05",
+        "CUBINAKAMOTO.06",
+        "CUBINAKAMOTO.07",
+        "CUBINAKAMOTO.08",
+        "CUBINAKAMOTO.09",
+        "CUBINAKAMOTO.10",
+        "CUBINAKAMOTO.11",
+        "CUBINAKAMOTO.12",
+        "CUBINAKAMOTO.13",
+        "CUBINAKAMOTO.14",
+        "CUBINAKAMOTO.21"
+      ]
+    },
+    {
+      "original": "FRACTALPEPE",
+      "candidates": [
+        "DANKFRACTAL"
+      ]
+    },
+    {
+      "original": "GROYAPEPE",
+      "candidates": [
+        "LFGROYALFIRE"
+      ]
+    },
+    {
+      "original": "CANNEDPEPE",
+      "candidates": [
+        "CANNEDCORN"
+      ]
+    },
+    {
+      "original": "RAREPEPEPRTY",
+      "candidates": [
+        "COCOSURFPRTY",
+        "STANDRDKPRTY"
+      ]
+    },
+    {
+      "original": "PEPESTYLE",
+      "candidates": [
+        "DANKSYSTYLE",
+        "DANKNAMSTYLE",
+        "WACKSTYLE",
+        "DJDOGESTYLE.YOURSHINING",
+        "DOGESTYLE.MEGABUNDLE",
+        "DOGESTYLE",
+        "EMOOOSTYLE",
+        "PEPSTYLE",
+        "WYLDSTYLE",
+        "DANKSYSTYLE.DREAMDANKSY",
+        "SMOLSTYLEGAN",
+        "DJDOGESTYLE",
+        "FROGSTYLE",
+        "SOGGYSTYLE",
+        "MAFIASTYLE",
+        "MAYFAKEFIELD.FAKESTYLE"
+      ]
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "candidates": [
+        "DANKFEATHERS",
+        "DANKFEATHERS.BONUS",
+        "DANKFEATHERS.EIGHT",
+        "DANKFEATHERS.ELEVEN",
+        "DANKFEATHERS.FIFTEEN",
+        "DANKFEATHERS.FIVE",
+        "DANKFEATHERS.FOUR",
+        "DANKFEATHERS.FOURTEEN",
+        "DANKFEATHERS.NINE",
+        "DANKFEATHERS.ONE",
+        "DANKFEATHERS.SEVEN",
+        "DANKFEATHERS.SIX",
+        "DANKFEATHERS.SIXTEEN",
+        "DANKFEATHERS.TEN",
+        "DANKFEATHERS.THIRTEEN",
+        "DANKFEATHERS.THREE",
+        "DANKFEATHERS.TWELVE",
+        "DANKFEATHERS.TWO"
+      ]
+    },
+    {
+      "original": "PEPEAKI",
+      "candidates": [
+        "MAKINGMEMES",
+        "MELANIAKISS",
+        "PEPEBAKI",
+        "CORNAN.makingof"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKDAY",
+      "status": "accepted",
+      "attributed_original": "DANKPEPE",
+      "reason": "Layered card collage visibly reuses the original green face, pixel sunglasses, orange mouth and raised hand."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKYXMASPOO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKDALI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKTRIP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKNEWPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "ONERAREDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKACID",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKIZARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKPILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "MINERDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "TOMDANKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "TOMDANKSS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKONI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKGOGH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKMEMEMOTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKWETSUIT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKWISHES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "PHILOSODANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKEGG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "FROGG.GREEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENCHECK.FAKELIGHTMODE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENCHECK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENNUDES.I",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENNUDES.II",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENPEPER.INVITE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "HELLOBYE.GREEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "HIPHOPGAME.KINGGREEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "HODLTRUMPS.GREENCANDLES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENLENSKYY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "PEPEGREENV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "PEPEGREENIV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "PEPEGREENIII",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "PEPEGREENII",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENPEPEI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENCELL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENARTCOIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "GREENMILL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGREEN",
+      "asset": "MEMEGREEN.MEMEPRESSIONISM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "NAKAMOTOCMYK",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "NAKAMOTORGB",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.00",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.01",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.02",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.03",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.04",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.05",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.06",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.07",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.08",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.09",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.10",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.12",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.13",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.14",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CORNNAKAMOTO",
+      "asset": "CUBINAKAMOTO.21",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FRACTALPEPE",
+      "asset": "DANKFRACTAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GROYAPEPE",
+      "asset": "LFGROYALFIRE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CANNEDPEPE",
+      "asset": "CANNEDCORN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPEPRTY",
+      "asset": "COCOSURFPRTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPEPRTY",
+      "asset": "STANDRDKPRTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DANKSYSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DANKNAMSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "WACKSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DJDOGESTYLE.YOURSHINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DOGESTYLE.MEGABUNDLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DOGESTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "EMOOOSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "PEPSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "WYLDSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DANKSYSTYLE.DREAMDANKSY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "SMOLSTYLEGAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "DJDOGESTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "FROGSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "SOGGYSTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "MAFIASTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESTYLE",
+      "asset": "MAYFAKEFIELD.FAKESTYLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS",
+      "status": "accepted",
+      "attributed_original": "FEATHERSPEPE",
+      "reason": "Same feather-like fine-line composition with matching green bands, white/gray upper band, red middle band and blue bottom detail."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.BONUS",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.EIGHT",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.ELEVEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.FIFTEEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.FIVE",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.FOUR",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.FOURTEEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.NINE",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.ONE",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.SEVEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.SIX",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.SIXTEEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.TEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.THIRTEEN",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.THREE",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.TWELVE",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "FEATHERSPEPE",
+      "asset": "DANKFEATHERS.TWO",
+      "status": "accepted",
+      "attributed_original": "DANKFEATHERS",
+      "reason": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "original": "PEPEAKI",
+      "asset": "MAKINGMEMES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEAKI",
+      "asset": "MELANIAKISS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEAKI",
+      "asset": "PEPEBAKI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEAKI",
+      "asset": "CORNAN.makingof",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "DANKDAY",
+      "original": "DANKPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/DANKDAY?image=1",
+      "evidence": "Layered card collage visibly reuses the original green face, pixel sunglasses, orange mouth and raised hand."
+    },
+    {
+      "asset": "DANKFEATHERS",
+      "original": "FEATHERSPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS?image=1",
+      "evidence": "Same feather-like fine-line composition with matching green bands, white/gray upper band, red middle band and blue bottom detail."
+    },
+    {
+      "asset": "DANKFEATHERS.BONUS",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.BONUS?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.EIGHT",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.EIGHT?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.ELEVEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.ELEVEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.FIFTEEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.FIFTEEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.FIVE",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.FIVE?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.FOUR",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.FOUR?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.FOURTEEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.FOURTEEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.NINE",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.NINE?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.ONE",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.ONE?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.SEVEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.SEVEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.SIX",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.SIX?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.SIXTEEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.SIXTEEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.TEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.TEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.THIRTEEN",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.THIRTEEN?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.THREE",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.THREE?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.TWELVE",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.TWELVE?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    },
+    {
+      "asset": "DANKFEATHERS.TWO",
+      "original": "DANKFEATHERS",
+      "collection": "dank-feathers",
+      "image": "https://cdn.xcp.io/img/full/DANKFEATHERS.TWO?image=1",
+      "evidence": "Reuses the parent feather-line composition: recognizable green/red/white band structure and fine curved filaments, recolored, rearranged or warped. The visible DANKFEATHERS parent is the immediate same-image edition of FEATHERSPEPE."
+    }
+  ],
+  "unapplied": []
+}
