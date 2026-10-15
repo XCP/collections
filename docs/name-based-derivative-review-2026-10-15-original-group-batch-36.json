@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and four animation sheets viewed. Six animations sampled at four spaced positions; all unique frames viewed for RAYCHARLESQR (2) and PATHERHOOD.GOODBYE (4). Longer animations were not exhaustively reviewed. Rejections concern the specified original and inspected material, not every possible source.",
+  "reviewed": [
+    {
+      "original": "GOLEMCARD",
+      "volume_usd": 7998.739761762179,
+      "buyers": 85,
+      "candidates": [
+        "GOLEM",
+        "GOLEMNET",
+        "GOLEMSOLDIER",
+        "ICEGOLEM",
+        "SNOWGOLEMX"
+      ]
+    },
+    {
+      "original": "PEPECHARLES",
+      "volume_usd": 11556.866362549199,
+      "buyers": 48,
+      "candidates": [
+        "CHARLESTON",
+        "PHOCKHEADS.CHARLES",
+        "RAYCHARLESQR"
+      ]
+    },
+    {
+      "original": "PEPETINDER",
+      "volume_usd": 11180.450967582641,
+      "buyers": 47,
+      "candidates": [
+        "PURPLETINDER",
+        "PUTINDERP",
+        "TINDERPEPE"
+      ]
+    },
+    {
+      "original": "GOODBYEPEPE",
+      "volume_usd": 10704.41486369093,
+      "buyers": 5,
+      "candidates": [
+        "HELLOGOODBYE",
+        "PATHERHOOD.GOODBYE"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "SNOWGOLEMX",
+      "pages": 151,
+      "sampled_frames": [
+        0,
+        50,
+        100,
+        150
+      ]
+    },
+    {
+      "asset": "PEPECHARLES",
+      "pages": 44,
+      "sampled_frames": [
+        0,
+        14,
+        29,
+        43
+      ]
+    },
+    {
+      "asset": "RAYCHARLESQR",
+      "pages": 2,
+      "sampled_frames": [
+        0,
+        1
+      ]
+    },
+    {
+      "asset": "PEPETINDER",
+      "pages": 16,
+      "sampled_frames": [
+        0,
+        5,
+        10,
+        15
+      ]
+    },
+    {
+      "asset": "PUTINDERP",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "PATHERHOOD.GOODBYE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "GOLEMCARD",
+      "asset": "GOLEM",
+      "status": "rejected",
+      "reason": "Pokemon-style rock creature, not the flaming Magmatic Coal Golem illustration.",
+      "evidence_sheet": "sheets/group-GOLEMCARD-0.png"
+    },
+    {
+      "original": "GOLEMCARD",
+      "asset": "GOLEMNET",
+      "status": "rejected",
+      "reason": "Green mechanical computing golem, with different silhouette and composition.",
+      "evidence_sheet": "sheets/group-GOLEMCARD-0.png"
+    },
+    {
+      "original": "GOLEMCARD",
+      "asset": "GOLEMSOLDIER",
+      "status": "rejected",
+      "reason": "Two small orange robots, not the flaming coal creature.",
+      "evidence_sheet": "sheets/group-GOLEMCARD-0.png"
+    },
+    {
+      "original": "GOLEMCARD",
+      "asset": "ICEGOLEM",
+      "status": "rejected",
+      "reason": "Ice Dragon artwork; shared game-card framing does not reuse the Magmatic Coal Golem.",
+      "evidence_sheet": "sheets/group-GOLEMCARD-0.png"
+    },
+    {
+      "original": "GOLEMCARD",
+      "asset": "SNOWGOLEMX",
+      "status": "rejected",
+      "reason": "Blue armored snow golem with different pose and setting in the sampled frames.",
+      "evidence_sheet": "sheets/group-GOLEMCARD-0.png"
+    },
+    {
+      "original": "PEPECHARLES",
+      "asset": "CHARLESTON",
+      "status": "rejected",
+      "reason": "Photographed hand-drawn festival card, not the faceted Charles Hoskinson portrait.",
+      "evidence_sheet": "sheets/group-PEPECHARLES-0.png"
+    },
+    {
+      "original": "PEPECHARLES",
+      "asset": "PHOCKHEADS.CHARLES",
+      "status": "rejected",
+      "reason": "Pixel head with glasses and beard; no distinctive reuse of the faceted portrait or its card text.",
+      "evidence_sheet": "sheets/group-PEPECHARLES-0.png"
+    },
+    {
+      "original": "PEPECHARLES",
+      "asset": "RAYCHARLESQR",
+      "status": "rejected",
+      "reason": "Ray Charles QR mosaic, a different subject and composition.",
+      "evidence_sheet": "sheets/group-PEPECHARLES-0.png"
+    },
+    {
+      "original": "PEPETINDER",
+      "asset": "PURPLETINDER",
+      "status": "rejected",
+      "reason": "A different card displayed in the Tinder interface. The shared external app template alone does not establish derivation from PEPETINDER.",
+      "evidence_sheet": "sheets/group-PEPETINDER-0.png"
+    },
+    {
+      "original": "PEPETINDER",
+      "asset": "PUTINDERP",
+      "status": "rejected",
+      "reason": "Putin caricature on a Russian flag, unrelated to the Tinder-profile animation.",
+      "evidence_sheet": "sheets/group-PEPETINDER-0.png"
+    },
+    {
+      "original": "PEPETINDER",
+      "asset": "TINDERPEPE",
+      "status": "rejected",
+      "reason": "Single cartoon Pepe gesture on yellow; no reuse of the profile photographs or animation.",
+      "evidence_sheet": "sheets/group-PEPETINDER-0.png"
+    },
+    {
+      "original": "GOODBYEPEPE",
+      "asset": "HELLOGOODBYE",
+      "status": "rejected",
+      "reason": "Abstract isometric lettering, not the waving tearful Pepe outdoors.",
+      "evidence_sheet": "sheets/group-GOODBYEPEPE-0.png"
+    },
+    {
+      "original": "GOODBYEPEPE",
+      "asset": "PATHERHOOD.GOODBYE",
+      "status": "rejected",
+      "reason": "Two figures in an interior scene, not the lone waving figure and outdoor sun/path composition.",
+      "evidence_sheet": "sheets/group-GOODBYEPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 13,
+    "accepted": 0,
+    "rejected": 13
+  }
+}
