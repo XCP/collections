@@ -10,7 +10,7 @@
 | Primary memberships | 1,774 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 147/1,774 (8.3%)<br>Artist: 1,221/1,774 (68.8%)<br>Card: 1,774/1,774 (100%)<br>Series: 1,774/1,774 (100%) |
+| Traits | Art year: 147/1,774 (8.3%)<br>Artist: 1,221/1,774 (68.8%)<br>Based on: 1/1,774 (0.1%)<br>Card: 1,774/1,774 (100%)<br>Series: 1,774/1,774 (100%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
