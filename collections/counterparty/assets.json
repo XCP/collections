@@ -1548,6 +1548,10 @@
         {
           "trait_type": "Artist",
           "value": "Jona Carbi"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEONMUSK"
         }
       ]
     },
@@ -9773,6 +9777,10 @@
         {
           "trait_type": "Artist",
           "value": "Mandarinemarie"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -37396,7 +37404,13 @@
       "asset": "HOMERPEPA"
     },
     {
-      "asset": "HOMERPEPEXYZ"
+      "asset": "HOMERPEPEXYZ",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERSMOL"
@@ -39665,6 +39679,10 @@
         {
           "trait_type": "Artist",
           "value": "Kenneth B Moon"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -47996,7 +48014,13 @@
       "asset": "TTIV"
     },
     {
-      "asset": "UFOPEPESTAMP"
+      "asset": "UFOPEPESTAMP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
+        }
+      ]
     },
     {
       "asset": "VGSUNFLOWERS"

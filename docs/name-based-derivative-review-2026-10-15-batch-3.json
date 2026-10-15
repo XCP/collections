@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-15",
+  "method": "Third name-stem and exact-name visual review. Compare each candidate with the original CDN artwork. Shared subjects alone are insufficient. Prefer immediate source for a visibly derived subasset.",
+  "reviewed": [
+    {
+      "original": "THOTHPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/THOTHPEPE?image=1",
+      "candidates": [
+        "PEPETHOTH",
+        "ILLUSTRATO.R_PEPETHOTHFAKE",
+        "THOTH",
+        "NEONS.PEPETHOTH",
+        "THOTHPENPEN",
+        "UKSTAMPS.PEPETHOTH"
+      ]
+    },
+    {
+      "original": "EINSTEINPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/EINSTEINPEPE?image=1",
+      "candidates": [
+        "DANKEINSTEIN",
+        "QCEINSTEIN",
+        "PEPEINSTEIN",
+        "SATEINSTEIN",
+        "PHOCKS.EINSTEIN",
+        "ORDEINSTEIN",
+        "SHADEINSTEIN",
+        "QREINSTEIN"
+      ]
+    },
+    {
+      "original": "PEPEONMUSK",
+      "source_image": "https://cdn.xcp.io/img/full/PEPEONMUSK?image=1",
+      "candidates": [
+        "DANKELONMUSK",
+        "PIZZAONMUSK",
+        "PEPLONMUSK",
+        "PHOCKHEADS.ELONMUSK",
+        "SOGELONMUSK"
+      ]
+    },
+    {
+      "original": "PEPETRADER",
+      "source_image": "https://cdn.xcp.io/img/full/PEPETRADER?image=1",
+      "candidates": [
+        "SWANTRADER",
+        "HORSETRADER",
+        "DANKTRADER",
+        "RARETRADER",
+        "FROGTRADER",
+        "TRADERAPE",
+        "TRADERTOL",
+        "THEOTCTRADER",
+        "TRADERSPRIZE",
+        "FAUXTRADER",
+        "HODLTRUMPS.TRADER",
+        "JPEGTRADER",
+        "THETRADER",
+        "ORDTRADERS",
+        "THEARTTRADER"
+      ]
+    },
+    {
+      "original": "ZOMBIEPEPES",
+      "source_image": "https://cdn.xcp.io/img/full/ZOMBIEPEPES?image=1",
+      "candidates": [
+        "ZOMBIESWANS",
+        "MUSKTWEETS.ZOMBIES",
+        "PEPEZOMBIES"
+      ]
+    },
+    {
+      "original": "PEEKABOOPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/PEEKABOOPEPE?image=1",
+      "candidates": [
+        "PEEKABOOPEP",
+        "PEEKABOO.BARRYPEPE",
+        "PEEKABOO.DANDARKPILL",
+        "PEEKABOO.DJPEPE",
+        "PEEKABOO.HAIRPEPE",
+        "PEEKABOO.HOMERPEPE",
+        "PEEKABOO.KEVIN",
+        "PEEKABOO.LOONEYBINLADEN",
+        "PEEKABOO.NEONNAKAMOTO",
+        "PEEKABOO.SATOSHI",
+        "PEEKABOO.WOJAK",
+        "PEEKABOOGREY"
+      ]
+    },
+    {
+      "original": "PEPETANGCLAN",
+      "source_image": "https://cdn.xcp.io/img/full/PEPETANGCLAN?image=1",
+      "candidates": [
+        "PEPTANGCLAN",
+        "CORNTANGCLAN",
+        "PEPTANGCLAN.LAFAKAATTACK",
+        "PEPTANGCLAN.PEPTANG.SHAOLIN"
+      ]
+    },
+    {
+      "original": "PEPEDATA",
+      "source_image": "https://cdn.xcp.io/img/full/PEPEDATA?image=1",
+      "candidates": [
+        "DANKDATA",
+        "DATAPEPE",
+        "DATASSPEPE",
+        "DATASIMBLOG",
+        "DATAWAY",
+        "DATACOLLECT"
+      ]
+    },
+    {
+      "original": "PEPETHEFIRST",
+      "source_image": "https://cdn.xcp.io/img/full/PEPETHEFIRST?image=1",
+      "candidates": [
+        "THEFIRSTPEPE",
+        "THEFIRSTDEAL",
+        "THEFIRSTSALE",
+        "THEFIRSTGREY"
+      ]
+    },
+    {
+      "original": "PEPESCIENCE",
+      "source_image": "https://cdn.xcp.io/img/full/PEPESCIENCE?image=1",
+      "candidates": [
+        "FAKESCIENCE",
+        "WARDOSCIENCE",
+        "FAKESCIENCE.PALETTE"
+      ]
+    },
+    {
+      "original": "PEPESMALLS",
+      "source_image": "https://cdn.xcp.io/img/full/PEPESMALLS?image=1",
+      "candidates": [
+        "DANKSMALLS",
+        "PEPPIESMALLS"
+      ]
+    },
+    {
+      "original": "RAGZTOPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/RAGZTOPEPE?image=1",
+      "candidates": [
+        "RAGZTOKEVIN"
+      ]
+    },
+    {
+      "original": "PEPERFUME",
+      "source_image": "https://cdn.xcp.io/img/full/PEPERFUME?image=1",
+      "candidates": [
+        "DANKPERFUME"
+      ]
+    },
+    {
+      "original": "PEPENUKES",
+      "source_image": "https://cdn.xcp.io/img/full/PEPENUKES?image=1",
+      "candidates": [
+        "DANKNUKES",
+        "SHARPNUKES"
+      ]
+    },
+    {
+      "original": "LEPEWPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/LEPEWPEPE?image=1",
+      "candidates": [
+        "BOBOLEPEW",
+        "BOOTLEGPEPE.PEPELEPEW",
+        "SOCKLEPEW"
+      ]
+    },
+    {
+      "original": "BOSSHOGPEPE",
+      "source_image": "https://cdn.xcp.io/img/full/BOSSHOGPEPE?image=1",
+      "candidates": [
+        "THEBOSSHOGG",
+        "BOSSHOGG"
+      ]
+    }
+  ],
+  "exact_name_review": [
+    {
+      "original": "PEPESGYM",
+      "candidates": [
+        "PEPESGYMSCRI",
+        "PEPESGYMTEND",
+        "PEPESGYMBLAZ",
+        "PEPESGYMCARZ",
+        "PEPESGYMLORD",
+        "PEPESGYMCARS",
+        "PEPESGYMXNAR"
+      ]
+    },
+    {
+      "original": "HAIRPEPE",
+      "candidates": [
+        "BASQHAIRPEPE",
+        "KIDHAIRPEPE",
+        "SMTHHAIRPEPE",
+        "NOHAIRPEPE",
+        "HOMHAIRPEPE",
+        "NOTAHAIRPEPE",
+        "KONGS.HAIRPEPE2",
+        "MSTRPEPES.PORTRAITOFAHAIRPEPE",
+        "PEPEFRENZ.DANDARK.HAIRPEPE"
+      ]
+    },
+    {
+      "original": "MCPEPE",
+      "candidates": [
+        "MCPEPERIB",
+        "MCPEPEFEE",
+        "REALMCPEPE",
+        "USMCPEPES",
+        "DJPEPEBADGER.MCPEPE-BADGER-LIMITED-OG-COLOR",
+        "TROYMCPEPE"
+      ]
+    },
+    {
+      "original": "PEPEONE",
+      "candidates": [
+        "CLAYPEPEONE",
+        "PEPEONESCAM",
+        "DJPEPEBADGER.PEPEONE-BADGER",
+        "DJPEPEBADGER.PEPEONE-BADGER-LIMITED-OG-COLOR",
+        "PEPEONEARTH",
+        "DALIPEPEONE",
+        "LILPEPEONE",
+        "PEPEONE.CESONE.2",
+        "PEPEONE.AROE.1"
+      ]
+    },
+    {
+      "original": "UFOPEPE",
+      "candidates": [
+        "FAKEUFOPEPE",
+        "XUFOPEPE",
+        "UFOPEPESTAMP",
+        "NEWUFOPEPE"
+      ]
+    },
+    {
+      "original": "HOMERPEPE",
+      "candidates": [
+        "HOMERPEPEXYZ",
+        "NEOHOMERPEPE",
+        "RICHOMERPEPE",
+        "OLDHOMERPEPE"
+      ]
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "PIZZAONMUSK",
+      "original": "PEPEONMUSK",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/PIZZAONMUSK?image=1"
+    },
+    {
+      "asset": "ZOMBIESWANS",
+      "original": "ZOMBIEPEPES",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/ZOMBIESWANS?image=1"
+    },
+    {
+      "asset": "RAGZTOKEVIN",
+      "original": "RAGZTOPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/RAGZTOKEVIN?image=1"
+    },
+    {
+      "asset": "SHARPNUKES",
+      "original": "PEPENUKES",
+      "collection": "sharp-cards",
+      "image": "https://cdn.xcp.io/img/full/SHARPNUKES?image=1"
+    },
+    {
+      "asset": "PEPTANGCLAN.LAFAKAATTACK",
+      "original": "PEPTANGCLAN",
+      "collection": "peptang-clan",
+      "image": "https://cdn.xcp.io/img/full/PEPTANGCLAN.LAFAKAATTACK?image=1"
+    },
+    {
+      "asset": "BASQHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/BASQHAIRPEPE?image=1"
+    },
+    {
+      "asset": "KIDHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/KIDHAIRPEPE?image=1"
+    },
+    {
+      "asset": "SMTHHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/SMTHHAIRPEPE?image=1"
+    },
+    {
+      "asset": "NOHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/NOHAIRPEPE?image=1"
+    },
+    {
+      "asset": "HOMHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/HOMHAIRPEPE?image=1"
+    },
+    {
+      "asset": "NOTAHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "fake-commons",
+      "image": "https://cdn.xcp.io/img/full/NOTAHAIRPEPE?image=1"
+    },
+    {
+      "asset": "KONGS.HAIRPEPE2",
+      "original": "HAIRPEPE",
+      "collection": "kongs",
+      "image": "https://cdn.xcp.io/img/full/KONGS.HAIRPEPE2?image=1"
+    },
+    {
+      "asset": "MSTRPEPES.PORTRAITOFAHAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "mstrpepes",
+      "image": "https://cdn.xcp.io/img/full/MSTRPEPES.PORTRAITOFAHAIRPEPE?image=1"
+    },
+    {
+      "asset": "PEPEFRENZ.DANDARK.HAIRPEPE",
+      "original": "HAIRPEPE",
+      "collection": "pepefrenz",
+      "image": "https://cdn.xcp.io/img/full/PEPEFRENZ.DANDARK.HAIRPEPE?image=1"
+    },
+    {
+      "asset": "DJPEPEBADGER.MCPEPE-BADGER-LIMITED-OG-COLOR",
+      "original": "MCPEPE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.MCPEPE-BADGER-LIMITED-OG-COLOR?image=1"
+    },
+    {
+      "asset": "PEPEONESCAM",
+      "original": "PEPEONE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/PEPEONESCAM?image=1"
+    },
+    {
+      "asset": "DJPEPEBADGER.PEPEONE-BADGER",
+      "original": "PEPEONE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.PEPEONE-BADGER?image=1"
+    },
+    {
+      "asset": "DJPEPEBADGER.PEPEONE-BADGER-LIMITED-OG-COLOR",
+      "original": "PEPEONE",
+      "collection": "dj-pepe-badger",
+      "image": "https://cdn.xcp.io/img/full/DJPEPEBADGER.PEPEONE-BADGER-LIMITED-OG-COLOR?image=1"
+    },
+    {
+      "asset": "UFOPEPESTAMP",
+      "original": "UFOPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/UFOPEPESTAMP?image=1"
+    },
+    {
+      "asset": "HOMERPEPEXYZ",
+      "original": "HOMERPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/HOMERPEPEXYZ?image=1"
+    },
+    {
+      "asset": "NEOHOMERPEPE",
+      "original": "HOMERPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/NEOHOMERPEPE?image=1"
+    }
+  ],
+  "dynamic": [],
+  "existing": [
+    {
+      "asset": "NEONS.PEPETHOTH",
+      "original": "PEPETHOTH",
+      "current": "PEPETHOTH"
+    },
+    {
+      "asset": "UKSTAMPS.PEPETHOTH",
+      "original": "PEPETHOTH",
+      "current": "PEPETHOTH"
+    },
+    {
+      "asset": "SOCKLEPEW",
+      "original": "BOBOLEPEW",
+      "current": "PEPELEPEW"
+    }
+  ],
+  "notes": [
+    "Names often share a subject without deriving from the Rare Pepe card; those remain unchanged.",
+    "PEPETHOTH neon/stamp adaptations already name PEPETHOTH, not THOTHPEPE. SOCKLEPEW visually resembles BOBOLEPEW, but its existing PEPELEPEW source is preserved pending comparison with that alternative.",
+    "PEPESGYM member cards are recorded as a related group, not automatically labeled derivatives of the original logo.",
+    "HOMERPEPE: only the close portrait remakes were accepted; OLDHOMERPEPE uses another Simpsons scene."
+  ]
+}

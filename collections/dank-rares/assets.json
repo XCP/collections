@@ -239,6 +239,10 @@
         {
           "trait_type": "Card",
           "value": 13
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEONE"
         }
       ]
     },
@@ -10270,6 +10274,10 @@
         {
           "trait_type": "Card",
           "value": 3
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HAIRPEPE"
         }
       ]
     },
@@ -22594,6 +22602,10 @@
         {
           "trait_type": "Card",
           "value": 18
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAGZTOPEPE"
         }
       ]
     },
@@ -28587,6 +28599,10 @@
         {
           "trait_type": "Card",
           "value": 1
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ZOMBIEPEPES"
         }
       ]
     },
