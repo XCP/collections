@@ -11,7 +11,13 @@
       "primary": false
     },
     {
-      "asset": "FAKEPERSIST.CARDFORMAT"
+      "asset": "FAKEPERSIST.CARDFORMAT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "FAKEPERSIST"
+        }
+      ]
     }
   ]
 }
