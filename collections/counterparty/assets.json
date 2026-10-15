@@ -15934,6 +15934,10 @@
         {
           "trait_type": "Artist",
           "value": "barma"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "NINJASUIT"
         }
       ]
     },
@@ -21247,6 +21251,10 @@
         {
           "trait_type": "Artist",
           "value": "M.BTC"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "JIHANWU"
         }
       ]
     },
@@ -30938,6 +30946,10 @@
         {
           "trait_type": "Artist",
           "value": "KimbrowAF"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "DERPYMONA"
         }
       ]
     },
@@ -38082,7 +38094,13 @@
       "asset": "ITWASNTME"
     },
     {
-      "asset": "IVANKAINCEP"
+      "asset": "IVANKAINCEP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREIVANKA"
+        }
+      ]
     },
     {
       "asset": "IVERSON"

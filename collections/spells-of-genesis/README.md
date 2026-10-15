@@ -10,7 +10,7 @@
 | Primary memberships | 287 |
 | Secondary or curated memberships | 5 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 17/292 (5.8%)<br>Artist: 47/292 (16.1%)<br>Attack: 47/292 (16.1%)<br>Element: 47/292 (16.1%)<br>Health: 47/292 (16.1%)<br>Rarity: 47/292 (16.1%)<br>Speed: 47/292 (16.1%) |
+| Traits | Art year: 17/292 (5.8%)<br>Artist: 47/292 (16.1%)<br>Attack: 47/292 (16.1%)<br>Based on: 1/292 (0.3%)<br>Element: 47/292 (16.1%)<br>Health: 47/292 (16.1%)<br>Rarity: 47/292 (16.1%)<br>Speed: 47/292 (16.1%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.

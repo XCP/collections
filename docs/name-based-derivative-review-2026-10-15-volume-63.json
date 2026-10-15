@@ -1,0 +1,819 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPENIN",
+      "candidates": [
+        "FAUXNINJA",
+        "LIGHTNINTRCH",
+        "NINJASARU",
+        "FAUXJHEEZE.MELLOWMINING",
+        "FWCFCCLONINC",
+        "HODLTRUMPS.CLOUDNINE",
+        "NINJANON",
+        "SATOSHISWORD.DARKSATOSHIRONIN11",
+        "LIGHTNINGPE",
+        "FAUXITEMS.RONINSCROLL6",
+        "FAUXITEMS.RONINSCROLL5",
+        "FAUXITEMS.RONINSCROLL4",
+        "COINNINJA",
+        "BITMINING",
+        "TIUSAJNIN",
+        "KNINED.UR-DED-NAO",
+        "LILPEPENINE"
+      ]
+    },
+    {
+      "original": "SATOSHIRARE",
+      "candidates": [
+        "SATOSHIDICE",
+        "SATOSHIDICE.MAN",
+        "SATOSHIDICE.VEGAS",
+        "SATOSHISWORD.DARKSATOSHIRONIN5",
+        "SATOSHISWORD.DARKSATOSHIRONIN7",
+        "SATOSHISWORD.DARKSATOSHIRONIN9",
+        "SATOSHISWORD.DARKSATOSHIRONIN8",
+        "SATOSHISWORD.DORIANSBLADE3",
+        "SATOSHISWORD.DORIANSBLADE1",
+        "SATOSHISWORD.DARKSATOSHIRONIN6",
+        "SATOSHISWORD.DARKSATOSHIRONIN4",
+        "SATOSHISWORD.DORIANSBLADE2",
+        "SATOSHILITE",
+        "SATOSHICARD",
+        "GHOSTSATOSHI",
+        "NOSATOSHIBUT",
+        "THUGLIFENOTE.NOTSATOSHI",
+        "THUGLIFENOTE.NOTSATOSHIREV",
+        "UTXHOESART.SARAHSATOSHI"
+      ]
+    },
+    {
+      "original": "PEPA",
+      "candidates": [
+        "LADYAPEPARIS",
+        "FATHERPEPAPE",
+        "PEPAPELAUGH",
+        "PEPABYPOOL",
+        "PEPABEACH",
+        "PEPACMAN",
+        "DEMONPEPA",
+        "WARHOLSPEPA",
+        "PEPATURD",
+        "PEPAVICE",
+        "PEPAGANGSTA",
+        "CODEXPEPAS",
+        "MONAPEPA",
+        "PEPAYONCE",
+        "PEPAC",
+        "PEPAIDINFULL",
+        "PEPAVINTAGEX",
+        "PEPARIEL",
+        "TUPEPAC"
+      ]
+    },
+    {
+      "original": "HANPEPE",
+      "candidates": [
+        "HANSSOLGOAT",
+        "WEALTHANGEL",
+        "GOLDENHAND",
+        "DEHANGOUT",
+        "POOHANDPEPE",
+        "FAKEHANPEPE",
+        "XTHANKS",
+        "FAKEMERCHANT",
+        "MRPEPEHANSEL",
+        "ELIANAENNERS.ChangeIsHere",
+        "SHANINBLAKE.Manifest",
+        "MYHEART.THANKS",
+        "SHANINBLAKE.LiberateDivineFeminine",
+        "DERPYMONA.hangitinthelouvre",
+        "MYHEART.THANX",
+        "BNBCHAN",
+        "DOGEMAIDCHAN",
+        "EXCHANGEKING"
+      ]
+    },
+    {
+      "original": "CYBERCORN",
+      "candidates": [
+        "CYBERFAKE",
+        "CYBERGAN",
+        "CYBERHMND",
+        "CYBERLEGION",
+        "CYBERRODEO",
+        "CYBERTOTER",
+        "CYBERCORN.DISPENSERS",
+        "CYBERDANK",
+        "CYBERBEAST",
+        "CYBERPEPEPRD",
+        "CYBERPEPUNK",
+        "PEPECYBER",
+        "EVILCYBERPEP",
+        "CYBERSLAYER",
+        "CYBERHARVEST",
+        "PSYCHO.CYBERPUNK",
+        "PEPECYBER.HD",
+        "PHOCKCYBER",
+        "PHOCKCYBER.NUMBERFIVE"
+      ]
+    },
+    {
+      "original": "RAREIVANKA",
+      "candidates": [
+        "IVANKAINCEP",
+        "TRUMPIVANKA",
+        "IVANKAPOTUS"
+      ]
+    },
+    {
+      "original": "MATADORPEPE",
+      "candidates": [
+        "KEKMATADOR",
+        "MATADOR"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXNINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXRONIN",
+      "status": "ambiguous",
+      "reason": "Fantasy figure may adapt another Faux SOG/Satoshi swordsman composition; identify exact image source beyond genre resemblance."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "LIGHTNINTRCH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "NINJASARU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXJHEEZE.MELLOWMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FWCFCCLONINC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "HODLTRUMPS.CLOUDNINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "NINJANON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN11",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "LIGHTNINGPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXITEMS.RONINSCROLL6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXITEMS.RONINSCROLL5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "FAUXITEMS.RONINSCROLL4",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "COINNINJA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BITMINING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "TIUSAJNIN",
+      "status": "accepted",
+      "attributed_original": "NINJASUIT",
+      "reason": "Horizontally mirrors the complete NINJASUIT card, including cream frame, reversed title, bamboo/cloud background, banana and moving black ninja sprite; both animations contain 12 frames."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "DORNINOTOSHI",
+      "status": "ambiguous",
+      "reason": "Dense portrait collage has small card/device inset; needs enlarged identification."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "KNINED.UR-DED-NAO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "LILPEPENINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIDICE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIDICE.MAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIDICE.VEGAS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN5",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN7",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN9",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN8",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DORIANSBLADE3",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DORIANSBLADE1",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN6",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DARKSATOSHIRONIN4",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHISWORD.DORIANSBLADE2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHILITE",
+      "status": "accepted",
+      "attributed_original": "SATOSHICARD",
+      "reason": "Reinterprets the hooded Satoshi figure conjuring floating inscribed cubes as a white/gold Litecoin figure with Litecoin cubes; title calls him the Imitator and text explicitly describes following Satoshi's creation of the first crystals."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHICARD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "GHOSTSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "NOSATOSHIBUT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "THUGLIFENOTE.NOTSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "THUGLIFENOTE.NOTSATOSHIREV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "UTXHOESART.SARAHSATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "LADYAPEPARIS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "FATHERPEPAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAPELAUGH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABYPOOL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABEACH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPACMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "DEMONPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "WARHOLSPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPATURD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAVICE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAGANGSTA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "CODEXPEPAS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "MONAPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAYONCE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAIDINFULL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPAVINTAGEX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPARIEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "TUPEPAC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANSSOLGOAT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPEHANDBOOK",
+      "status": "ambiguous",
+      "reason": "Rendered media is title/number cover; check whether linked handbook contains derivative artwork before resolving full-media review."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "WEALTHANGEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "GOLDENHAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "DEHANGOUT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "POOHANDPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "FAKEHANPEPE",
+      "status": "accepted",
+      "attributed_original": "JIHANWU",
+      "reason": "Reuses fiery background, green bespectacled portrait composition, stat strip and card text, changing Jihan to Fakehan and boosts/fuck wording to fakes/fake while retaining technological-upgrades/opponents-played line."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "XTHANKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "FAKEMERCHANT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MRPEPEHANSEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "ELIANAENNERS.ChangeIsHere",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "SHANINBLAKE.Manifest",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MYHEART.THANKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "SHANINBLAKE.LiberateDivineFeminine",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "DERPYMONA.hangitinthelouvre",
+      "status": "accepted",
+      "attributed_original": "DERPYMONA",
+      "reason": "Embeds the exact drooling ape Mona Lisa image, including face, turquoise drool, necklace and purple clothing, in the Louvre frame behind Beyonce and Jay-Z."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "MYHEART.THANX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "BNBCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "DOGEMAIDCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "EXCHANGEKING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERGAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERHMND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERLEGION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERRODEO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERTOTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERCORN.DISPENSERS",
+      "status": "accepted",
+      "attributed_original": "CYBERCORN",
+      "reason": "Renders the complete green CYBERCORN circuit-ear artwork and title on a card in the right-hand corn dispenser; parent-named composition also includes other corn cards, recorded as contextual additional sources to identify."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERBEAST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPEPEPRD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPEPUNK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PEPECYBER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "EVILCYBERPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERSLAYER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERHARVEST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PSYCHO.CYBERPUNK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PEPECYBER.HD",
+      "status": "accepted",
+      "attributed_original": "PEPECYBER",
+      "reason": "Same red-lit mechanical frog scene with circular blue goggle lights, overhead apparatus and chest machinery; presents uncropped artwork without the card title and rule panels."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER.NUMBERFIVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREIVANKA",
+      "asset": "IVANKAINCEP",
+      "status": "accepted",
+      "attributed_original": "RAREIVANKA",
+      "reason": "Photo composite places the complete RAREIVANKA card prominently on the monitor watched by Ivanka and child; exact Hello My Name Is title, green portrait and red/blue frame visible. Adjacent wallet cards are background context."
+    },
+    {
+      "original": "RAREIVANKA",
+      "asset": "TRUMPIVANKA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREIVANKA",
+      "asset": "IVANKAPOTUS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MATADORPEPE",
+      "asset": "KEKMATADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MATADORPEPE",
+      "asset": "MATADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "TIUSAJNIN",
+      "original": "NINJASUIT",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/TIUSAJNIN?image=1",
+      "evidence": "Horizontally mirrors the complete NINJASUIT card, including cream frame, reversed title, bamboo/cloud background, banana and moving black ninja sprite; both animations contain 12 frames."
+    },
+    {
+      "asset": "SATOSHILITE",
+      "original": "SATOSHICARD",
+      "collection": "spells-of-genesis",
+      "image": "https://cdn.xcp.io/img/full/SATOSHILITE?image=1",
+      "evidence": "Reinterprets the hooded Satoshi figure conjuring floating inscribed cubes as a white/gold Litecoin figure with Litecoin cubes; title calls him the Imitator and text explicitly describes following Satoshi's creation of the first crystals."
+    },
+    {
+      "asset": "FAKEHANPEPE",
+      "original": "JIHANWU",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/FAKEHANPEPE?image=1",
+      "evidence": "Reuses fiery background, green bespectacled portrait composition, stat strip and card text, changing Jihan to Fakehan and boosts/fuck wording to fakes/fake while retaining technological-upgrades/opponents-played line."
+    },
+    {
+      "asset": "DERPYMONA.hangitinthelouvre",
+      "original": "DERPYMONA",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/DERPYMONA.hangitinthelouvre?image=1",
+      "evidence": "Embeds the exact drooling ape Mona Lisa image, including face, turquoise drool, necklace and purple clothing, in the Louvre frame behind Beyonce and Jay-Z."
+    },
+    {
+      "asset": "CYBERCORN.DISPENSERS",
+      "original": "CYBERCORN",
+      "collection": "cybercorn",
+      "image": "https://cdn.xcp.io/img/full/CYBERCORN.DISPENSERS?image=1",
+      "evidence": "Renders the complete green CYBERCORN circuit-ear artwork and title on a card in the right-hand corn dispenser; parent-named composition also includes other corn cards, recorded as contextual additional sources to identify."
+    },
+    {
+      "asset": "PEPECYBER.HD",
+      "original": "PEPECYBER",
+      "collection": "pepecyber",
+      "image": "https://cdn.xcp.io/img/full/PEPECYBER.HD?image=1",
+      "evidence": "Same red-lit mechanical frog scene with circular blue goggle lights, overhead apparatus and chest machinery; presents uncropped artwork without the card title and rule panels."
+    },
+    {
+      "asset": "IVANKAINCEP",
+      "original": "RAREIVANKA",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/IVANKAINCEP?image=1",
+      "evidence": "Photo composite places the complete RAREIVANKA card prominently on the monitor watched by Ivanka and child; exact Hello My Name Is title, green portrait and red/blue frame visible. Adjacent wallet cards are background context."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "TIUSAJNIN": {
+      "pages": 12,
+      "finding": "Mirrored NINJASUIT animation including frame/title"
+    },
+    "PHOCKCYBER": {
+      "pages": 14,
+      "finding": "Glitch logo animation, distinct from NUMBERFIVE robot animation"
+    },
+    "PHOCKCYBER_NUMBERFIVE": {
+      "pages": 14,
+      "finding": "Robot face animation; no CYBERCORN or parent logo composition reuse"
+    }
+  },
+  "additional_source_followups": [
+    {
+      "asset": "CYBERCORN.DISPENSERS",
+      "finding": "Other dispenser cards depict corn circuit-board and Brazilian corn motifs; identify their exact assets for future multi-source modeling. CYBERCORN parent image is confirmed."
+    }
+  ]
+}

@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "PEPECYBER.HD"
+      "asset": "PEPECYBER.HD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECYBER"
+        }
+      ]
     }
   ]
 }
