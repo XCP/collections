@@ -46434,7 +46434,13 @@
       ]
     },
     {
-      "asset": "TRUMPRARES"
+      "asset": "TRUMPRARES",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPRFKMAGA",

@@ -547,7 +547,13 @@
       "asset": "SOCKSAT"
     },
     {
-      "asset": "SOCKSCAMCASH"
+      "asset": "SOCKSCAMCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "SOCKSET"
