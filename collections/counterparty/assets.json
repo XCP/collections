@@ -2530,6 +2530,10 @@
         {
           "trait_type": "Artist",
           "value": "aishyrine"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FDCARD"
         }
       ]
     },
@@ -22926,6 +22930,10 @@
         {
           "trait_type": "Artist",
           "value": "OE"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "FDCARD"
         }
       ]
     },
@@ -41071,7 +41079,13 @@
       "asset": "PEPECASHBURN"
     },
     {
-      "asset": "PEPECASHCOIN"
+      "asset": "PEPECASHCOIN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "PEPECHANEL"
