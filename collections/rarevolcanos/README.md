@@ -10,7 +10,7 @@
 | Primary memberships | 7 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | None |
+| Traits | Based on: 1/7 (14.3%) |
 <!-- collection-facts:end -->
 
 The project name is printed on RAREVOLCANO.WHITEPAPER. The three illustrated parents and their matching child editions share volcano themes, explicit card titles and corresponding namespaces. The whitepaper is included as a project document. These are distinct editions, not duplicate records. The complete nine-asset issuer inventory also contains an unrelated SRC-20 RARE mint and RAREVOLCANO.NINE, an untracked zero-supply entry with a malformed image URL; neither is included. A Theo Goodman quotation in the whitepaper is not an artist signature. No creator or official Rare Pepe admission is inferred.
