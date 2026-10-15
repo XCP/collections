@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-15",
+  "method": "Both first-frame grouped sheets and one animation sheet inspected; two animations sampled at four spaced frames, not exhaustive. PEPEBRAIN and KEKBRAIN enlarged. Source Rare Pepe catalog and Sept2017 issuance predate KEKBRAIN April2022 on-chain linked-media history. KEKBRAIN Easyasset JSON currently HTTP200 empty; visual caption is direct evidence.",
+  "reviewed": [
+    {
+      "original": "PEPEBRAIN",
+      "volume_usd": 24114.319799223143,
+      "buyers": 56,
+      "candidates": [
+        "BIGBRAINJAK",
+        "BITGOLDBRAIN",
+        "BOTTOMBRAIN",
+        "BRAINBALLAPE",
+        "CLOGGEDBRAIN",
+        "DERPYNOBRAIN",
+        "HELIBRAIN",
+        "KEKBRAIN",
+        "LATOMOBRAIN",
+        "METEORBRAIN",
+        "MRBRAINER",
+        "MUSHBRAIN",
+        "NFDBRAIN",
+        "NOBRAIN",
+        "PHOCKMEMES.BRAINYWOJAK",
+        "SCATTERBRAIN",
+        "SHITBRAIN",
+        "SHITFORBRAIN",
+        "SMALLBRAIN",
+        "SMALLBRAIN.MONEY",
+        "SMOLBRAINS",
+        "SWINGBRAIN",
+        "WHEELBRAIN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "BIGBRAINJAK",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "LATOMOBRAIN",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPEBRAIN",
+      "asset": "BIGBRAINJAK",
+      "status": "rejected",
+      "reason": "Changing translucent Wojak skull with floating colored shapes. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "BITGOLDBRAIN",
+      "status": "rejected",
+      "reason": "Gold coins montage. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "BOTTOMBRAIN",
+      "status": "rejected",
+      "reason": "Drooling ape with bottomless-pit hat. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "BRAINBALLAPE",
+      "status": "rejected",
+      "reason": "Suited figure holding brain in sphere. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "CLOGGEDBRAIN",
+      "status": "rejected",
+      "reason": "Ape with toilet and plunger on exposed head. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "DERPYNOBRAIN",
+      "status": "rejected",
+      "reason": "Photograph of social-media exchange on monitor. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "HELIBRAIN",
+      "status": "rejected",
+      "reason": "Ape with propeller cap. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "KEKBRAIN",
+      "status": "accepted",
+      "reason": "Enlarged redraw preserves the seated right-facing thinking Pepe/oversized brain concept and exactly repeats the distinctive caption Will think about the meaning of KEK. Brain becomes chair and smoking pose replaces chin-resting pose. Visual plus caption evidence supports this source beyond generic brain theme.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "LATOMOBRAIN",
+      "status": "rejected",
+      "reason": "Animated periodic-table element tiles spelling brain. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "METEORBRAIN",
+      "status": "rejected",
+      "reason": "Ape with meteor striking head. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "MRBRAINER",
+      "status": "rejected",
+      "reason": "Oval alien-like game-card character. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "MUSHBRAIN",
+      "status": "rejected",
+      "reason": "Ape with exposed brain. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "NFDBRAIN",
+      "status": "rejected",
+      "reason": "Simple brain line drawing. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "NOBRAIN",
+      "status": "rejected",
+      "reason": "Ape with sailor hat. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "PHOCKMEMES.BRAINYWOJAK",
+      "status": "rejected",
+      "reason": "Pixel white Wojak head/glasses. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SCATTERBRAIN",
+      "status": "rejected",
+      "reason": "Colorful painted/text collage. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SHITBRAIN",
+      "status": "rejected",
+      "reason": "Drooling ape with top hat. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SHITFORBRAIN",
+      "status": "rejected",
+      "reason": "Exposed-brain ape with feces. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SMALLBRAIN",
+      "status": "rejected",
+      "reason": "Ape with small brain under magnifier. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-0.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SMALLBRAIN.MONEY",
+      "status": "rejected",
+      "reason": "Zimbabwe banknote altered face. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-19.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SMOLBRAINS",
+      "status": "rejected",
+      "reason": "Pixel ape portrait. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-19.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "SWINGBRAIN",
+      "status": "rejected",
+      "reason": "Ape with small swinging brain. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-19.png"
+    },
+    {
+      "original": "PEPEBRAIN",
+      "asset": "WHEELBRAIN",
+      "status": "rejected",
+      "reason": "Ape with hamster-wheel head. No reuse of source seated thinking Pepe/oversized brain composition or specific caption in inspected imagery.",
+      "evidence_sheet": "sheets/group-PEPEBRAIN-19.png"
+    }
+  ],
+  "sources": [
+    "https://cdn.xcp.io/img/full/PEPEBRAIN",
+    "https://cdn.xcp.io/img/full/KEKBRAIN",
+    "https://api.xcp.io/v2/assets/PEPEBRAIN/issuances?limit=100",
+    "https://api.xcp.io/v2/assets/KEKBRAIN/issuances?limit=100",
+    "https://easyasset.art/j/t7g47v/KEKBRAIN.json"
+  ],
+  "summary": {
+    "comparisons": 23,
+    "accepted": 1,
+    "rejected": 22
+  }
+}

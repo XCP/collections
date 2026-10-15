@@ -212,12 +212,15 @@ test("retains reviewed Homer remixes only when returned by the source", async ()
   }
 });
 
-test("retains Triple Buddha source without inventing membership", async () => {
-  const response = structuredClone(fixture);
-  response.items[0].assetName = "TRIPLEBUDDHA";
-  const assets = await load({ fetchJson: async () => response, cache: new Map() });
-  assert.equal(assets.length, response.items.length);
-  assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === "CORNBUDDHA"));
-  const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
-  assert.ok(!absent.some(a => a.asset === "TRIPLEBUDDHA"));
+test("retains reviewed redraw sources without inventing membership", async () => {
+  for (const [asset, original] of [["TRIPLEBUDDHA", "CORNBUDDHA"], ["KEKBRAIN", "PEPEBRAIN"]]) {
+    const response = structuredClone(fixture);
+    response.items[0].assetName = asset;
+    const assets = await load({ fetchJson: async () => response, cache: new Map() });
+    assert.equal(assets.length, response.items.length);
+    assert.ok(assets[0].attributes.some(t => t.trait_type === "Based on" && t.value === original));
+    assert.ok(assets.slice(1).every(a => !a.attributes.some(t => t.trait_type === "Based on" && t.value === original)));
+    const absent = await load({ fetchJson: async () => structuredClone(fixture), cache: new Map() });
+    assert.ok(!absent.some(a => a.asset === asset));
+  }
 });
