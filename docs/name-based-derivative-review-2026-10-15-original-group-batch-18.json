@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame whole-original sheets and three animation sheets viewed. Eight animated assets sampled four spaced positions, all frames when <=4; not exhaustive playback for longer animations.",
+  "reviewed": [
+    {
+      "original": "CLASSICPEPE",
+      "candidates": [
+        "CLOONEYBIN.CLASSIC",
+        "HOMERLAY.CLASSIC",
+        "HOMERLAY.DISCOCLASSIC",
+        "LAMBOCLASSIC",
+        "PEPESWALLOW.CLASSICBLUE",
+        "PEPESWALLOW.CLASSICGREEN"
+      ]
+    },
+    {
+      "original": "CLAYPEPE",
+      "candidates": [
+        "CLAYCASH.this_is_not_a_moulacoin",
+        "CLAYNATPEPE",
+        "CLAYNFTS",
+        "CLAYPEPEONE",
+        "CLAYPEPETWO",
+        "CRYPTOCLAY",
+        "DROOLPARK.CLAYPOOL"
+      ]
+    },
+    {
+      "original": "PEPETARD",
+      "candidates": [
+        "GUITARDROOL",
+        "KNOTARD",
+        "MODRNMUSTARD",
+        "PHOCKHB.DICKDASTARDLY",
+        "QTARD",
+        "QTARDED",
+        "QTARDS",
+        "RETARDPEPE",
+        "STARDUSTPEPE"
+      ]
+    },
+    {
+      "original": "PEPERMAID",
+      "candidates": [
+        "MERMAID",
+        "MERMAID.BIKINIBOTTOM",
+        "MERMAID.BLOCKCHAIN",
+        "MERMAID.BOOBS",
+        "MERMAID.FART",
+        "MERMAID.FROG_PRINCE",
+        "MERMAIDSTORY",
+        "PEPEMERMAID",
+        "SEXYMERMAID",
+        "WARMAIDEN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "DROOLPARK.CLAYPOOL",
+      "pages": 26,
+      "sampled_frames": [
+        0,
+        8,
+        17,
+        25
+      ]
+    },
+    {
+      "asset": "CLAYPEPETWO",
+      "pages": 45,
+      "sampled_frames": [
+        0,
+        15,
+        29,
+        44
+      ]
+    },
+    {
+      "asset": "CLAYPEPEONE",
+      "pages": 87,
+      "sampled_frames": [
+        0,
+        29,
+        57,
+        86
+      ]
+    },
+    {
+      "asset": "PEPETARD",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "PHOCKHB.DICKDASTARDLY",
+      "pages": 50,
+      "sampled_frames": [
+        0,
+        16,
+        33,
+        49
+      ]
+    },
+    {
+      "asset": "QTARDED",
+      "pages": 151,
+      "sampled_frames": [
+        0,
+        50,
+        100,
+        150
+      ]
+    },
+    {
+      "asset": "RETARDPEPE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "MERMAID.FART",
+      "pages": 80,
+      "sampled_frames": [
+        0,
+        26,
+        53,
+        79
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "CLASSICPEPE",
+      "asset": "CLOONEYBIN.CLASSIC",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLASSICPEPE",
+      "asset": "HOMERLAY.CLASSIC",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLASSICPEPE",
+      "asset": "HOMERLAY.DISCOCLASSIC",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLASSICPEPE",
+      "asset": "LAMBOCLASSIC",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLASSICPEPE",
+      "asset": "PEPESWALLOW.CLASSICBLUE",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLASSICPEPE",
+      "asset": "PEPESWALLOW.CLASSICGREEN",
+      "status": "rejected",
+      "reason": "No reuse of the top-hatted puppet frog with wine glass in a furnished room. Classic as a title adjective alone is insufficient.",
+      "evidence_sheet": "sheets/group-CLASSICPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYCASH.this_is_not_a_moulacoin",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYNATPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYNFTS",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYPEPEONE",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CLAYPEPETWO",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "CRYPTOCLAY",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "CLAYPEPE",
+      "asset": "DROOLPARK.CLAYPOOL",
+      "status": "rejected",
+      "reason": "No reuse of the extruded green-and-white clay face, red mouth, syringe and cutting mat. Shared clay medium or Claypool name is insufficient.",
+      "evidence_sheet": "sheets/group-CLAYPEPE-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "GUITARDROOL",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "KNOTARD",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "MODRNMUSTARD",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "PHOCKHB.DICKDASTARDLY",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "QTARD",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "QTARDED",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "QTARDS",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "RETARDPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPETARD",
+      "asset": "STARDUSTPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the rendered bulging-eye drooling frog, propeller hat, radial background and pink title. Shared name fragment or subject alone is insufficient.",
+      "evidence_sheet": "sheets/group-PEPETARD-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID.BIKINIBOTTOM",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID.BLOCKCHAIN",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID.BOOBS",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID.FART",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAID.FROG_PRINCE",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "MERMAIDSTORY",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "PEPEMERMAID",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "SEXYMERMAID",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    },
+    {
+      "original": "PEPERMAID",
+      "asset": "WARMAIDEN",
+      "status": "rejected",
+      "reason": "No reuse of the upright purple-haired mermaid with mirror and comb above blue curled waves. Other mermaids have distinct poses and compositions; War Maiden is a name collision.",
+      "evidence_sheet": "sheets/group-PEPERMAID-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 32,
+    "accepted": 0,
+    "rejected": 32
+  }
+}
