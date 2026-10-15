@@ -38851,7 +38851,13 @@
       "asset": "LEANPEPETOO"
     },
     {
-      "asset": "LEANWOJAK"
+      "asset": "LEANWOJAK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LEANPEPE"
+        }
+      ]
     },
     {
       "asset": "LEGACYBTC"
