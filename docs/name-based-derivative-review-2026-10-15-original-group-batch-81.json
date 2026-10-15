@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-15",
+  "method": "Two first-frame sheets and one animation sheet inspected. TOMATOPEPE source sampled at four spaced positions, not exhaustive playback.",
+  "reviewed": [
+    {
+      "original": "TOMATOPEPE",
+      "volume_usd": 19152.369682012642,
+      "buyers": 79,
+      "candidates": [
+        "IAUTOMATON",
+        "TOMATOSOUP",
+        "UTOMATONA"
+      ]
+    },
+    {
+      "original": "PEPEONECOIN",
+      "volume_usd": 19140.814244787194,
+      "buyers": 476,
+      "candidates": [
+        "BONECOINCARD"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "TOMATOPEPE",
+      "pages": 72,
+      "sampled_frames": [
+        0,
+        24,
+        47,
+        71
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "TOMATOPEPE",
+      "asset": "IAUTOMATON",
+      "status": "rejected",
+      "reason": "Abstract mechanical head and automation definition; no repeated tomato-frog pattern or source border. Name-substring overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-TOMATOPEPE-0.png"
+    },
+    {
+      "original": "TOMATOPEPE",
+      "asset": "TOMATOSOUP",
+      "status": "rejected",
+      "reason": "Painted seated man holding soup bowl; no source tomato-frog pattern or composition. Name-substring overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-TOMATOPEPE-0.png"
+    },
+    {
+      "original": "TOMATOPEPE",
+      "asset": "UTOMATONA",
+      "status": "rejected",
+      "reason": "Text-message screenshot; no source imagery. Name-substring overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-TOMATOPEPE-0.png"
+    },
+    {
+      "original": "PEPEONECOIN",
+      "asset": "BONECOINCARD",
+      "status": "rejected",
+      "reason": "Cartoon dog and bones on yellow game card; no reuse of source OneCoin pyramid/promotion collage. Name-substring overlap alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEONECOIN-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 4,
+    "accepted": 0,
+    "rejected": 4
+  }
+}
