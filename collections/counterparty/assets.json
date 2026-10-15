@@ -20939,6 +20939,10 @@
         {
           "trait_type": "Artist",
           "value": "Kevin Satoshi"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "THISISDANK"
         }
       ]
     },
@@ -36210,7 +36214,13 @@
       "asset": "FLOONEYBAR"
     },
     {
-      "asset": "FLOONEYBIRTH"
+      "asset": "FLOONEYBIRTH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEBIRTH"
+        }
+      ]
     },
     {
       "asset": "FLOONEYMON"
