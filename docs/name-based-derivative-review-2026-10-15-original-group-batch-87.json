@@ -1,0 +1,778 @@
+{
+  "date": "2026-10-15",
+  "method": "Five first-frame sheets, six GIF sample sheets and one video sample sheet inspected. Twenty-one GIFs sampled at four spaced positions (all four THEFRESHPEPE frames); not exhaustive playback. NONTRUST is valid video/mp4, 834161 bytes, sampled at four timestamps. Specific-source comparisons only.",
+  "reviewed": [
+    {
+      "original": "PEPOLLO",
+      "volume_usd": 18278.86271787031,
+      "buyers": 10,
+      "candidates": [
+        "MSTRPEPES.PEPOLLOANDPEPAPHNE",
+        "MSTRPEPES.PEPOLLOBELVEDERE"
+      ]
+    },
+    {
+      "original": "FRESHPEPE",
+      "volume_usd": 18084.325969952137,
+      "buyers": 123,
+      "candidates": [
+        "FAKACCIA.FRESHBAKED",
+        "FRESHCUT",
+        "FRESHMAKER",
+        "FRESHPHUNCH",
+        "FRESHPIZZA",
+        "PEPEDUOFRESH",
+        "PEPEFRESHER",
+        "THEFRESHPEPE"
+      ]
+    },
+    {
+      "original": "PEPERUS",
+      "volume_usd": 18327.395465624788,
+      "buyers": 119,
+      "candidates": [
+        "BILLRUSSEL",
+        "BILLRUSSELL",
+        "CORNAVIRUS",
+        "CORNAVIRUS.MUTATION",
+        "CORNCYRUS",
+        "CRUSADECARD",
+        "CRUSADERPEPE",
+        "CYRUSCARD",
+        "DOUTRUSTCARD",
+        "FAKECRUSH",
+        "FAKEDESTROY.CRUSHER",
+        "FAUXCERBERUS",
+        "GUYBRUSH",
+        "HOMERSAURUS",
+        "HORUSPEPE",
+        "ICARUSPEPE",
+        "INKBRUSHCOIN",
+        "INKEVWETRUST",
+        "INPEPWETRUST",
+        "KRUSTYCORN",
+        "KRUSTYPEPE",
+        "MELONICRUST",
+        "NONTRUST",
+        "NOONETRUSTED",
+        "OLDVIRUS",
+        "PEONTRUST",
+        "PEPEBRUSSELS",
+        "PEPEGOLDRUSH",
+        "PEPEKRUSTY",
+        "PEPEMOTION.RUSH",
+        "PEPENOSAURUS",
+        "PEPERUSHMORE",
+        "PEPERUSSIAN",
+        "PEPEWETRUST",
+        "PEPEWETRUST.LIMITED",
+        "POMPVIRUS",
+        "POTUSTRUMP.MOUNTRUSHMOREGOLD",
+        "POTUSTRUMP.MOUNTRUSHMOREPLATINUM",
+        "RAREVIRUS",
+        "RUSROULETTE",
+        "RUSSIANMAFIA",
+        "SHADCRUSADER",
+        "SHADNOSAURUS",
+        "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.01-TOTALEN_KRIEG",
+        "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.02-REMOVE_THEM",
+        "THEVIRUS",
+        "TOOTHOZORUS",
+        "TRUSSFUND",
+        "TRUSTFLYNN",
+        "TRUSTMELANIA",
+        "TTRUSTCARD",
+        "VIRUSFREN",
+        "VIRUSPEPE",
+        "WHITERUSSIAN",
+        "WOJAKNOTRUST"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "FRESHPHUNCH",
+      "pages": 9,
+      "sampled_frames": [
+        0,
+        3,
+        5,
+        8
+      ]
+    },
+    {
+      "asset": "FRESHPIZZA",
+      "pages": 42,
+      "sampled_frames": [
+        0,
+        14,
+        27,
+        41
+      ]
+    },
+    {
+      "asset": "THEFRESHPEPE",
+      "pages": 4,
+      "sampled_frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "asset": "PEPERUS",
+      "pages": 11,
+      "sampled_frames": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    {
+      "asset": "HORUSPEPE",
+      "pages": 180,
+      "sampled_frames": [
+        0,
+        60,
+        119,
+        179
+      ]
+    },
+    {
+      "asset": "FAKECRUSH",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "FAKEDESTROY.CRUSHER",
+      "pages": 123,
+      "sampled_frames": [
+        0,
+        41,
+        81,
+        122
+      ]
+    },
+    {
+      "asset": "KRUSTYCORN",
+      "pages": 59,
+      "sampled_frames": [
+        0,
+        19,
+        39,
+        58
+      ]
+    },
+    {
+      "asset": "PEPEGOLDRUSH",
+      "pages": 5,
+      "sampled_frames": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "asset": "PEPEMOTION.RUSH",
+      "pages": 48,
+      "sampled_frames": [
+        0,
+        16,
+        31,
+        47
+      ]
+    },
+    {
+      "asset": "RAREVIRUS",
+      "pages": 160,
+      "sampled_frames": [
+        0,
+        53,
+        106,
+        159
+      ]
+    },
+    {
+      "asset": "POTUSTRUMP.MOUNTRUSHMOREGOLD",
+      "pages": 200,
+      "sampled_frames": [
+        0,
+        66,
+        133,
+        199
+      ]
+    },
+    {
+      "asset": "POTUSTRUMP.MOUNTRUSHMOREPLATINUM",
+      "pages": 200,
+      "sampled_frames": [
+        0,
+        66,
+        133,
+        199
+      ]
+    },
+    {
+      "asset": "RUSROULETTE",
+      "pages": 49,
+      "sampled_frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "asset": "SHADNOSAURUS",
+      "pages": 14,
+      "sampled_frames": [
+        0,
+        4,
+        9,
+        13
+      ]
+    },
+    {
+      "asset": "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.01-TOTALEN_KRIEG",
+      "pages": 95,
+      "sampled_frames": [
+        0,
+        31,
+        63,
+        94
+      ]
+    },
+    {
+      "asset": "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.02-REMOVE_THEM",
+      "pages": 119,
+      "sampled_frames": [
+        0,
+        39,
+        79,
+        118
+      ]
+    },
+    {
+      "asset": "VIRUSPEPE",
+      "pages": 12,
+      "sampled_frames": [
+        0,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "asset": "TRUSSFUND",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "asset": "VIRUSFREN",
+      "pages": 479,
+      "sampled_frames": [
+        0,
+        159,
+        319,
+        478
+      ]
+    },
+    {
+      "asset": "WOJAKNOTRUST",
+      "pages": 24,
+      "sampled_frames": [
+        0,
+        8,
+        15,
+        23
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "asset": "NONTRUST",
+      "duration": 23.27,
+      "sampled_seconds": [
+        0,
+        7.723333333333333,
+        15.446666666666665,
+        23.169999999999998
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPOLLO",
+      "asset": "MSTRPEPES.PEPOLLOANDPEPAPHNE",
+      "status": "rejected",
+      "reason": "Classical Apollo sculpture parody, not source Apollo Creed boxer with gloves and striped shorts.",
+      "evidence_sheet": "sheets/group-PEPOLLO-0.png"
+    },
+    {
+      "original": "PEPOLLO",
+      "asset": "MSTRPEPES.PEPOLLOBELVEDERE",
+      "status": "rejected",
+      "reason": "Classical Apollo sculpture parody, not source Apollo Creed boxer with gloves and striped shorts.",
+      "evidence_sheet": "sheets/group-PEPOLLO-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "FAKACCIA.FRESHBAKED",
+      "status": "rejected",
+      "reason": "Bread artwork. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "FRESHCUT",
+      "status": "rejected",
+      "reason": "Barbershop scene. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "FRESHMAKER",
+      "status": "rejected",
+      "reason": "Car mirror cartoon. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "FRESHPHUNCH",
+      "status": "rejected",
+      "reason": "Two-character Fresh Prince parody. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "FRESHPIZZA",
+      "status": "rejected",
+      "reason": "Pizza chef animation. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "PEPEDUOFRESH",
+      "status": "rejected",
+      "reason": "Blue frog portrait with patterned background. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "PEPEFRESHER",
+      "status": "rejected",
+      "reason": "Three air-freshener frog heads. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "FRESHPEPE",
+      "asset": "THEFRESHPEPE",
+      "status": "rejected",
+      "reason": "Two-character Fresh Prince parody. No reuse of source photographic frog portrait with backwards cap, chains and overalls against graffiti; shared Fresh Prince reference alone insufficient.",
+      "evidence_sheet": "sheets/group-FRESHPEPE-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "BILLRUSSEL",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "BILLRUSSELL",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CORNAVIRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CORNAVIRUS.MUTATION",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CORNCYRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CRUSADECARD",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CRUSADERPEPE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "CYRUSCARD",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "DOUTRUSTCARD",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "FAKECRUSH",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "FAKEDESTROY.CRUSHER",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "FAUXCERBERUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "GUYBRUSH",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "HOMERSAURUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "HORUSPEPE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "ICARUSPEPE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "INKBRUSHCOIN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "INKEVWETRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "INPEPWETRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-0.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "KRUSTYCORN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "KRUSTYPEPE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "MELONICRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "NONTRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-video.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "NOONETRUSTED",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "OLDVIRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEONTRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEBRUSSELS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEGOLDRUSH",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEKRUSTY",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEMOTION.RUSH",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPENOSAURUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPERUSHMORE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPERUSSIAN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEWETRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "PEPEWETRUST.LIMITED",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "POMPVIRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "POTUSTRUMP.MOUNTRUSHMOREGOLD",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "POTUSTRUMP.MOUNTRUSHMOREPLATINUM",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-19.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "RAREVIRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "RUSROULETTE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "RUSSIANMAFIA",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "SHADCRUSADER",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "SHADNOSAURUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.01-TOTALEN_KRIEG",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TEKNEIN.VOLUME_ONE.CRUSH_THE_URBANITES-EP.02-REMOVE_THEM",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "THEVIRUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TOOTHOZORUS",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TRUSSFUND",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TRUSTFLYNN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TRUSTMELANIA",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "TTRUSTCARD",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "VIRUSFREN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "VIRUSPEPE",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "WHITERUSSIAN",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    },
+    {
+      "original": "PEPERUS",
+      "asset": "WOJAKNOTRUST",
+      "status": "rejected",
+      "reason": "No source bear-riding shirtless frog figure, dark forest/snow scene or Cyrillic title composition in inspected imagery. Name substring (including trust, virus, crush, Horus or Russia) does not establish derivative relationship.",
+      "evidence_sheet": "sheets/group-PEPERUS-38.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 65,
+    "accepted": 0,
+    "rejected": 65
+  }
+}
