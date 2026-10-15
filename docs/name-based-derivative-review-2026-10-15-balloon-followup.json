@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-15",
+  "method": "Full static variants enlarged against four samples (0,33,67,100) of BALLOONPEPE101-frame rotation. Resolves closer-original uncertainty from batch90b; not an exhaustive animation review. Distinctive rendered object reuse, not merely shared balloon subject or parent name.",
+  "reviewed": [
+    {
+      "original": "BALLOONPEPE",
+      "candidates": [
+        "BALLOONPEPE.BALLOONPEPE.PURPLERAIN",
+        "BALLOONPEPE.PEPEWITHBALLOON"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "asset": "BALLOONPEPE.BALLOONPEPE.PURPLERAIN",
+      "original": "BALLOONPEPE",
+      "status": "accepted",
+      "reason": "Recolors and repeats the distinctive balloon dog body/Pepe head rendering from BALLOONPEPE in purple."
+    },
+    {
+      "asset": "BALLOONPEPE.PEPEWITHBALLOON",
+      "original": "BALLOONPEPE",
+      "status": "accepted",
+      "reason": "Uses the distinctive green balloon Pepe head from BALLOONPEPE as the released balloon in the Banksy-style scene."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "BALLOONPEPE.BALLOONPEPE.PURPLERAIN",
+      "original": "BALLOONPEPE",
+      "status": "accepted",
+      "reason": "Recolors and repeats the distinctive balloon dog body/Pepe head rendering from BALLOONPEPE in purple."
+    },
+    {
+      "asset": "BALLOONPEPE.PEPEWITHBALLOON",
+      "original": "BALLOONPEPE",
+      "status": "accepted",
+      "reason": "Uses the distinctive green balloon Pepe head from BALLOONPEPE as the released balloon in the Banksy-style scene."
+    }
+  ],
+  "resolved_followups": [
+    {
+      "asset": "BALLOONPEPE.BALLOONPEPE.PURPLERAIN",
+      "original": "PEPEBALLOON",
+      "previous_evidence_file": "docs/name-based-derivative-review-2026-10-15-volume-90b.json",
+      "status": "resolved_to_closer_original",
+      "closer_original": "BALLOONPEPE"
+    },
+    {
+      "asset": "BALLOONPEPE.PEPEWITHBALLOON",
+      "original": "PEPEBALLOON",
+      "previous_evidence_file": "docs/name-based-derivative-review-2026-10-15-volume-90b.json",
+      "status": "resolved_to_closer_original",
+      "closer_original": "BALLOONPEPE"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "summary": {
+    "pending_pairs": 14791,
+    "unique_candidates": 11134,
+    "buckets": {
+      "exact_component": {
+        "pairs": 0,
+        "unique_candidates": 0
+      },
+      "whole_stem": {
+        "pairs": 970,
+        "unique_candidates": 926
+      },
+      "boundary": {
+        "pairs": 2408,
+        "unique_candidates": 2034
+      },
+      "substring": {
+        "pairs": 11413,
+        "unique_candidates": 9174
+      }
+    },
+    "largest_families": [
+      {
+        "parent": "PUNKFREN",
+        "pairs": 1000,
+        "assets": 1000,
+        "originals": 1
+      },
+      {
+        "parent": "MSTRPEPES",
+        "pairs": 319,
+        "assets": 145,
+        "originals": 77
+      },
+      {
+        "parent": "RARE",
+        "pairs": 300,
+        "assets": 300,
+        "originals": 1
+      },
+      {
+        "parent": "RAREDREAM",
+        "pairs": 142,
+        "assets": 71,
+        "originals": 2
+      },
+      {
+        "parent": "PEPEDICKBUTT",
+        "pairs": 100,
+        "assets": 100,
+        "originals": 1
+      },
+      {
+        "parent": "BLUEBEAR",
+        "pairs": 92,
+        "assets": 73,
+        "originals": 11
+      },
+      {
+        "parent": "HIPHOPGAME",
+        "pairs": 57,
+        "assets": 43,
+        "originals": 12
+      },
+      {
+        "parent": "OGSAN",
+        "pairs": 53,
+        "assets": 37,
+        "originals": 27
+      },
+      {
+        "parent": "DJPEPE",
+        "pairs": 53,
+        "assets": 29,
+        "originals": 5
+      },
+      {
+        "parent": "JOURNEYPAINT",
+        "pairs": 49,
+        "assets": 20,
+        "originals": 5
+      },
+      {
+        "parent": "KVLTOFKEK",
+        "pairs": 48,
+        "assets": 24,
+        "originals": 2
+      },
+      {
+        "parent": "VAPORMAGIC",
+        "pairs": 41,
+        "assets": 20,
+        "originals": 3
+      },
+      {
+        "parent": "BLACKBOX",
+        "pairs": 39,
+        "assets": 16,
+        "originals": 12
+      },
+      {
+        "parent": "FAKERARECAP",
+        "pairs": 38,
+        "assets": 19,
+        "originals": 2
+      },
+      {
+        "parent": "KIDPHOCKS",
+        "pairs": 37,
+        "assets": 27,
+        "originals": 8
+      },
+      {
+        "parent": "THUGLIFENOTE",
+        "pairs": 32,
+        "assets": 16,
+        "originals": 2
+      },
+      {
+        "parent": "SQUIDAPEGAME",
+        "pairs": 30,
+        "assets": 29,
+        "originals": 2
+      },
+      {
+        "parent": "HODLTRUMPS",
+        "pairs": 28,
+        "assets": 22,
+        "originals": 23
+      },
+      {
+        "parent": "CRYPTOPUNKS",
+        "pairs": 26,
+        "assets": 13,
+        "originals": 2
+      },
+      {
+        "parent": "DJPEPEBADGER",
+        "pairs": 26,
+        "assets": 9,
+        "originals": 10
+      }
+    ]
+  },
+  "shortlist_pairs": 3378,
+  "shortlist_unique_candidates": 2911,
+  "decision": "Use candidate-centric galleries and family contact sheets; prioritize whole-stem then boundary leads. Preserve broad substring pairs as low-priority leads, not visual rejections. No bulk exclusions from name or family alone."
+}
