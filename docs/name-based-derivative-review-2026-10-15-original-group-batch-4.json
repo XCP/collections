@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-15",
+  "method": "Both complete first-frame sheets and both animation sheets viewed. Four spaced frames of each of four animations, not exhaustive playback. Exact-source comparison only.",
+  "reviewed": [
+    {
+      "original": "PEPECAMO",
+      "candidates": [
+        "CAMOLEOPE",
+        "CAMORRA",
+        "PICAMONDPEPE.REAL"
+      ]
+    },
+    {
+      "original": "PEPEHODLER",
+      "candidates": [
+        "CEMHODLER",
+        "HODLERSHARK",
+        "PEPEZHODLER",
+        "THEHODLERS",
+        "ZENHODLER"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "CAMOLEOPE",
+      "pages": 53,
+      "sampled_frames": [
+        0,
+        17,
+        35,
+        52
+      ]
+    },
+    {
+      "asset": "PICAMONDPEPE.REAL",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    },
+    {
+      "asset": "PEPEZHODLER",
+      "pages": 8,
+      "sampled_frames": [
+        0,
+        2,
+        5,
+        7
+      ]
+    },
+    {
+      "asset": "HODLERSHARK",
+      "pages": 27,
+      "sampled_frames": [
+        0,
+        9,
+        17,
+        26
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPECAMO",
+      "asset": "CAMOLEOPE",
+      "status": "rejected",
+      "reason": "No reuse of camouflage-pattern face with round white eyes and red smile. Chameleon, mafia suit and cubist/morphing portrait are distinct.",
+      "evidence_sheet": "sheets/group-PEPECAMO-0.png"
+    },
+    {
+      "original": "PEPECAMO",
+      "asset": "CAMORRA",
+      "status": "rejected",
+      "reason": "No reuse of camouflage-pattern face with round white eyes and red smile. Chameleon, mafia suit and cubist/morphing portrait are distinct.",
+      "evidence_sheet": "sheets/group-PEPECAMO-0.png"
+    },
+    {
+      "original": "PEPECAMO",
+      "asset": "PICAMONDPEPE.REAL",
+      "status": "rejected",
+      "reason": "No reuse of camouflage-pattern face with round white eyes and red smile. Chameleon, mafia suit and cubist/morphing portrait are distinct.",
+      "evidence_sheet": "sheets/group-PEPECAMO-0.png"
+    },
+    {
+      "original": "PEPEHODLER",
+      "asset": "CEMHODLER",
+      "status": "rejected",
+      "reason": "No reuse of photographic coins/market chart collage. Pigeon, shark, standing yoga Pepe, tarot and spiritual scenes are distinct.",
+      "evidence_sheet": "sheets/group-PEPEHODLER-0.png"
+    },
+    {
+      "original": "PEPEHODLER",
+      "asset": "HODLERSHARK",
+      "status": "rejected",
+      "reason": "No reuse of photographic coins/market chart collage. Pigeon, shark, standing yoga Pepe, tarot and spiritual scenes are distinct.",
+      "evidence_sheet": "sheets/group-PEPEHODLER-0.png"
+    },
+    {
+      "original": "PEPEHODLER",
+      "asset": "PEPEZHODLER",
+      "status": "rejected",
+      "reason": "No reuse of photographic coins/market chart collage. Pigeon, shark, standing yoga Pepe, tarot and spiritual scenes are distinct.",
+      "evidence_sheet": "sheets/group-PEPEHODLER-0.png"
+    },
+    {
+      "original": "PEPEHODLER",
+      "asset": "THEHODLERS",
+      "status": "rejected",
+      "reason": "No reuse of photographic coins/market chart collage. Pigeon, shark, standing yoga Pepe, tarot and spiritual scenes are distinct.",
+      "evidence_sheet": "sheets/group-PEPEHODLER-0.png"
+    },
+    {
+      "original": "PEPEHODLER",
+      "asset": "ZENHODLER",
+      "status": "rejected",
+      "reason": "No reuse of photographic coins/market chart collage. Pigeon, shark, standing yoga Pepe, tarot and spiritual scenes are distinct.",
+      "evidence_sheet": "sheets/group-PEPEHODLER-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 8,
+    "rejected": 8,
+    "accepted": 0
+  }
+}
