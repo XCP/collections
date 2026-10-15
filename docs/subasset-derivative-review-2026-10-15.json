@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-15",
+  "method": "User leads followed by side-by-side CDN artwork comparison. Subasset suffixes generate leads, not automatic relationships.",
+  "accepted": [
+    {
+      "asset": "COLESLAW",
+      "original": "CODEISLAW",
+      "evidence": "Same woman, Ethereum emblem, scales, mint background and border; changes title and adds bowls of coleslaw.",
+      "sources": [
+        "https://cdn.xcp.io/img/full/COLESLAW",
+        "https://cdn.xcp.io/img/full/CODEISLAW"
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.OLGA",
+      "original": "OLGA",
+      "evidence": "Pixel reinterpretation preserves the paired faces and long hair in the pale pencil portrait.",
+      "sources": [
+        "https://cdn.xcp.io/img/full/PHOCKNFTS.OLGA",
+        "https://cdn.xcp.io/img/full/OLGA"
+      ]
+    },
+    {
+      "asset": "PHOCKNFTS.NILICOINS",
+      "original": "NILI",
+      "evidence": "Pixel reinterpretation preserves the distinctive white calligraphic marks on the red NILIcoins artwork.",
+      "sources": [
+        "https://cdn.xcp.io/img/full/PHOCKNFTS.NILICOINS",
+        "https://cdn.xcp.io/img/full/NILI"
+      ]
+    }
+  ],
+  "surveyed": [
+    "PHOCKNFTS.64GALLONTOTER",
+    "PHOCKNFTS.ASCIILENASCIIBERNANKE",
+    "PHOCKNFTS.CHROMIESQUIGGLE",
+    "PHOCKNFTS.CURIOCARD1",
+    "PHOCKNFTS.ETHERIA",
+    "PHOCKNFTS.FIDENZA",
+    "PHOCKNFTS.GAZERS",
+    "PHOCKNFTS.LOOT",
+    "PHOCKNFTS.NILICOINS",
+    "PHOCKNFTS.NINJASUIT",
+    "PHOCKNFTS.OLGA",
+    "PHOCKNFTS.PUNYCODES",
+    "PHOCKNFTS.QUANTUM",
+    "PHOCKNFTS.TEST",
+    "PHOCKNFTS.TOKENSEQUALTEXT",
+    "PHOCKNFTS.TWITTEREGG",
+    "PHOCKNFTS.WACKNAKAMOTO",
+    "PHOCKNFTS.QUANTUM_-_NAMECOIN_VERSION",
+    "PHOCKNFTS.GORILLAGLUE",
+    "PHOCKNFTS.MOURNINGMOOS"
+  ],
+  "previously_recorded": [
+    "PHOCKNFTS.NINJASUIT",
+    "PHOCKNFTS.WACKNAKAMOTO",
+    "PHOCKNFTS.GORILLAGLUE",
+    "PHOCKNFTS.MOURNINGMOOS"
+  ],
+  "limitations": "Remaining PHOCKNFTS items are unresolved exact targets, including external projects. No new links inferred solely from names. Prior MOURNINGMOOS link retained but original CDN preview was blank in this pass."
+}
