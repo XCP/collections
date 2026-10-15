@@ -10,7 +10,7 @@
 | Primary memberships | 40 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Based on: 3/40 (7.5%) |
+| Traits | Based on: 4/40 (10%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence

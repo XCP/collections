@@ -10,7 +10,13 @@
       ]
     },
     {
-      "asset": "BANANAKAMOTO"
+      "asset": "BANANAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "BANANANA"

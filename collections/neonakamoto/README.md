@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 1/2 (50%) |
+| Traits | Artist: 1/2 (50%)<br>Based on: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 NEONAKAMOTO and NEONAKAMOTO.NEON depict the same neon Dorian Nakamoto portrait, presented as a card and a wall-mounted light respectively. xcpio-core confirms the parent/subasset relation. The parent keeps Fake Commons primary and its existing ditacrypto credit; NEON becomes primary here and loses Counterparty. NEON remains uncredited because original Arweave metadata is unavailable. No artist or physical redemption claim is inferred from the image.

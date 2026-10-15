@@ -85,7 +85,13 @@
       ]
     },
     {
-      "asset": "DGNAKAMOTO"
+      "asset": "DGNAKAMOTO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "DGNEWS"
