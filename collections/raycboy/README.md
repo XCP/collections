@@ -5,7 +5,7 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Variations of RAYCBOY |
+| Type | Canonical collection |
 | Membership | 3 assets |
 | Primary memberships | 2 |
 | Secondary or curated memberships | 1 |
@@ -22,3 +22,9 @@ Existing directory primary homes and artist credits are preserved; companion mem
 ## Project year
 
 **2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [RAYCBOY.RAREPEPE](https://api.xcp.io/v2/assets/A14107921112406887689/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **collection**. Exact recorded JSON explicitly names RAYCBOY Collection; distinct magazine covers do not justify blanket variation label.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

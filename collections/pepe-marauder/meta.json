@@ -3,6 +3,6 @@
   "kind": "canonical",
   "description": "Pepe Marauder, related artwork editions by Rare Scrilla.",
   "art_frame": "card",
-  "variation_of": "PEPEMARAUDER",
-  "founded": 2022
+  "founded": 2022,
+  "editorial_type": "editions"
 }

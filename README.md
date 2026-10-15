@@ -5,18 +5,18 @@
 
 | What is tracked | Count |
 | --- | ---: |
-| Collections | 1,107 |
-| Canonical collections | 1,098 |
+| Collections | 1,073 |
+| Canonical collections | 1,064 |
 | Curated views | 9 |
-| Explicit unique assets | 64,569 |
-| Explicit collection memberships | 66,129 |
-| Primary memberships | 64,569 |
-| Secondary or curated memberships | 1,560 |
-| Memberships with traits | 36,160 |
+| Explicit unique assets | 64,570 |
+| Explicit collection memberships | 65,990 |
+| Primary memberships | 64,570 |
+| Secondary or curated memberships | 1,420 |
+| Memberships with traits | 36,235 |
 
 | Membership source | Collections |
 | --- | ---: |
-| Reviewed static `assets.json` | 1,103 |
+| Reviewed static `assets.json` | 1,069 |
 | Collection or computed adapters | 3 |
 | Marketplace-indexed exceptions | 1 |
 | Active aggregator sources | 0 |
@@ -284,3 +284,15 @@ Alongside the required `founded` year, `founded_date` may supply `YYYY-MM` or `Y
 ### Editorial labels
 
 Optional `editorial_type` describes the intent of a grouping: `set` for works intended together, `series` for a named artistic sequence or body of work, and `curation` for a retrospective selection. Follow creator/catalogue evidence and document it in the collection README. Omit for ordinary collections or uncertain cases. This is independent of `kind`, primary membership, and collection overlap: never derive it from those fields. `variation_of` already identifies variations of one work and cannot be combined with `editorial_type`. A shared subasset namespace alone does not establish a series. Labels do not imply acceptance into a parent directory.
+
+### Artwork relationships and project identity
+
+`editorial_type` also accepts `subassets`, `editions`, and `variations`:
+
+- `subassets`: a discovery grouping whose supported relationship is a shared Counterparty parent namespace. Children can be distinct works. Include the parent for context when appropriate; document its exact identity and reviewed children. This is not a claim that the creator launched a named collection.
+- `editions`: distinct asset identifiers representing the same artwork. Support with matching artwork and metadata, shared source files, or creator edition documentation. Do not infer physical ownership or redemption.
+- `variations`: visually reworked versions of one composition, including groups with separate named assets and no single namespace parent. Different works by the same artist are insufficient.
+
+These are explicit, evidence-based decisions, never automatic consequences of size, issuer, or naming. A documented project such as Punk Frens remains an ordinary collection even when its membership consists entirely of subassets. A named sequence can remain a series. Namespace describes membership structure, not necessarily project identity. Record the source and reasoning in each README.
+
+Keep existing `variation_of` for an evidenced parent-work relationship; it remains mutually exclusive with `editorial_type`. Do not invent a parent asset for parallel editions. Consumers should preserve access through asset relationships and search, while distinguishing these relationship groups from standalone projects in discovery. Memberships, artist credits and existing directory homes are unchanged by classification.

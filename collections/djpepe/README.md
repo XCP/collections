@@ -42,3 +42,9 @@ Reviewed 2026-10-11. Existing specific primary collections are retained; the two
 ## Project year
 
 **2021** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [DJPEPE.434102](https://api.xcp.io/v2/assets/DJPEPE.434102/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **subassets**. Distinct creator and collaborator works, not one composition; Sound Money remains separate.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

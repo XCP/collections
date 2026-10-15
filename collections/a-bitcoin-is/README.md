@@ -22,3 +22,15 @@ Specific artwork families take primary precedence over Kaleidoscope, retained as
 ## Project year
 
 **2023** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [BLACKBITCOIN](https://api.xcp.io/v2/assets/BLACKBITCOIN/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Relationship review — 2026-10-14
+
+**Variations** — The live creator JSON explicitly names Black - a bitcoin is and White - a bitcoin is. The matching composition uses inverse palettes. These are separate named assets, so no arbitrary parent is assigned. Sources: https://www.blockchainizator.com/f/kaleidoscope/j/blackbitcoin.json and https://www.blockchainizator.com/f/kaleidoscope/j/whitebitcoin.json . Both JSON files were readable on review.
+
+This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **variations**. Black and white treatments; already proposed in PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

@@ -30,3 +30,9 @@ Physical artwork dates and edition sizes on source pages are evidence, not Count
 ## Project year
 
 **2024** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [FTFEIGHT](https://api.xcp.io/v2/assets/FTFEIGHT/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **editions**. Artist explicitly lists eight editions; eight corresponding tokens.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

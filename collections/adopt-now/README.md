@@ -26,3 +26,15 @@ The artist page describes the physical work and is not authoritative for on-chai
 ## Project year
 
 **2021** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [NOWADPTONE](https://api.xcp.io/v2/assets/NOWADPTONE/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Relationship review — 2026-10-14
+
+**Editions** — The artist page identifies Adopt Now as one spray-on-canvas artwork with an edition size of five. The three tracked tokens share that named work and matching imagery. This labels the represented artwork relationship; it does not assert that every physical edition is tracked or that tokens confer physical redemption. Source: https://crypsi.com/adopt-now/ . The physical artwork date is not an on-chain launch date.
+
+This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **editions**. Artist-defined editions of one work; already proposed in PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

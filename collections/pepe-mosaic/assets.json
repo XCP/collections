@@ -10,7 +10,13 @@
       "asset": "PEPEMOSAIC.NAKAMOTO"
     },
     {
-      "asset": "PEPEMOSAIC.ONE"
+      "asset": "PEPEMOSAIC.ONE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEMOSAIC"
+        }
+      ]
     }
   ]
 }
