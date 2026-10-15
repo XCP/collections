@@ -74,10 +74,22 @@
       ]
     },
     {
-      "asset": "CORNBORGHINI"
+      "asset": "CORNBORGHINI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "LAMBOGARAGE"
+        }
+      ]
     },
     {
-      "asset": "CORNBORGHINI.COSBY"
+      "asset": "CORNBORGHINI.COSBY",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CORNBORGHINI"
+        }
+      ]
     },
     {
       "asset": "CORNDARGER"
@@ -244,7 +256,13 @@
       ]
     },
     {
-      "asset": "CORNYACHT"
+      "asset": "CORNYACHT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "YACHTDOCK"
+        }
+      ]
     },
     {
       "asset": "CORNYHOMER",
