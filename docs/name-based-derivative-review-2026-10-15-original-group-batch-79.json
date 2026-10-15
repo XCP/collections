@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets visually inspected; no animations reported. SHADESOFPEPE CDN full image fetched and enlarged separately; 48x48 low-resolution source remains unresolved. Source-specific decisions only.",
+  "reviewed": [
+    {
+      "original": "GOKUPEPE",
+      "volume_usd": 19596.910826753752,
+      "buyers": 52,
+      "candidates": [
+        "GOKUCOCO",
+        "GOKUDOUKEN",
+        "GOKUDOUORYU"
+      ]
+    },
+    {
+      "original": "PEPEJOCKER",
+      "volume_usd": 19567.940616948057,
+      "buyers": 16,
+      "candidates": [
+        "WISEJOCKERPH"
+      ]
+    },
+    {
+      "original": "PEPESHADES",
+      "volume_usd": 19565.75562037489,
+      "buyers": 21,
+      "candidates": [
+        "SHADESOFDANK",
+        "SHADESOFGREY",
+        "SHADESOFPEPE"
+      ]
+    },
+    {
+      "original": "PTSDPEPE",
+      "volume_usd": 19378.51841633342,
+      "buyers": 11,
+      "candidates": [
+        "CPTSDPEPE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "GOKUPEPE",
+      "asset": "GOKUCOCO",
+      "status": "rejected",
+      "reason": "Different crouched orange-costumed Goku-like figure with energy background; source has upright bare-chested frog with both arms raised. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-GOKUPEPE-0.png"
+    },
+    {
+      "original": "GOKUPEPE",
+      "asset": "GOKUDOUKEN",
+      "status": "rejected",
+      "reason": "Tattooed frog with katana on yellow background, not source raised-arm Goku. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-GOKUPEPE-0.png"
+    },
+    {
+      "original": "GOKUPEPE",
+      "asset": "GOKUDOUORYU",
+      "status": "rejected",
+      "reason": "Tattooed female frog with katana, not source raised-arm Goku. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-GOKUPEPE-0.png"
+    },
+    {
+      "original": "PEPEJOCKER",
+      "asset": "WISEJOCKERPH",
+      "status": "rejected",
+      "reason": "Small red-hatted jester with clover staff, not source Joker portrait holding card. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-PEPEJOCKER-0.png"
+    },
+    {
+      "original": "PEPESHADES",
+      "asset": "SHADESOFDANK",
+      "status": "rejected",
+      "reason": "Suited frog adjusting tie, not source pair of sunglasses frog heads. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-PEPESHADES-0.png"
+    },
+    {
+      "original": "PEPESHADES",
+      "asset": "SHADESOFGREY",
+      "status": "rejected",
+      "reason": "Gray suited frog adjusting tie, not source pair of sunglasses frog heads. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-PEPESHADES-0.png"
+    },
+    {
+      "original": "PEPESHADES",
+      "asset": "SHADESOFPEPE",
+      "status": "media_blocked",
+      "reason": "CDN full image is only 48x48 PNG (3405 bytes), blurry green fields. Enlarged inspection cannot confidently establish or exclude source imagery; higher-resolution source needed",
+      "evidence_sheet": "sheets/group-PEPESHADES-0.png"
+    },
+    {
+      "original": "PTSDPEPE",
+      "asset": "CPTSDPEPE",
+      "status": "rejected",
+      "reason": "Dense multicolor illustrated collage and trauma text, not source green helmeted soldier portrait on red battlefield card. Shared name/theme alone insufficient for specific card derivation.",
+      "evidence_sheet": "sheets/group-PTSDPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 8,
+    "accepted": 0,
+    "rejected": 7,
+    "media_blocked": 1
+  }
+}
