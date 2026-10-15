@@ -1,0 +1,825 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPENAL",
+      "candidates": [
+        "PEPERFINAL",
+        "PHOCKS.MONALISA",
+        "PRUNED.MYORDINALS",
+        "BERNDINAL",
+        "BIGBRORDINAL",
+        "BITCORDINALS",
+        "BITORDINALS",
+        "BREAKORDINAL",
+        "BTCORDINALS",
+        "CCORDINAL",
+        "CENSORDINAL",
+        "CORDINAL",
+        "CORNDINAL",
+        "COUNTORDINAL",
+        "ERORDINAL",
+        "GOTORDINALS"
+      ]
+    },
+    {
+      "original": "DABPEPE",
+      "candidates": [
+        "DABPOUILLOT",
+        "NODABCNET",
+        "CLOSEDABEACH",
+        "BADABINGPEPE",
+        "PEPEINDABOX",
+        "DABEATEN",
+        "DABSTAR",
+        "DABCKONGS",
+        "DABZOMBIE",
+        "CDABYSSINIAN",
+        "PEPEINDABOX.DISSOLVEDINAIR",
+        "PEPEINDABOX.DYNAMICS",
+        "PEPEDABOMB",
+        "KADABRA"
+      ]
+    },
+    {
+      "original": "PEPESPACE",
+      "candidates": [
+        "SPACESIRL",
+        "SPACETRUCKIN",
+        "SPACEPEPECD",
+        "PEPEATSPACE",
+        "SPACEBOBO",
+        "SPACEBEAST",
+        "SPACEAPEE",
+        "SPACEAPEDRIP",
+        "DASPACE",
+        "DABCSPACEBOW",
+        "BTCSPACEAPE",
+        "PENEEDSPACE",
+        "COMMONLANDS.SPACED",
+        "PEPEINSPACE",
+        "FAKESPACE.EP1.PepeNardo",
+        "FAKESPACE.EP2.DimZayan",
+        "FAKESPACEDUB.SIDE2",
+        "FAKESPACEDUB.SIDE3.SCARCESPACE"
+      ]
+    },
+    {
+      "original": "YODAPEPE",
+      "candidates": [
+        "CORNYODA",
+        "LFGYODA",
+        "STAMPEPEYODA",
+        "MINCHYODA",
+        "COCOYODA",
+        "MIKAYODA",
+        "BABYYODAMFER",
+        "YODARK"
+      ]
+    },
+    {
+      "original": "KILLARYPEPE",
+      "candidates": [
+        "BARBIFIED.KILLARY"
+      ]
+    },
+    {
+      "original": "OLYMPICPEPE",
+      "candidates": [
+        "OLYMPICP"
+      ]
+    },
+    {
+      "original": "PEPEHONDO",
+      "candidates": [
+        "HONDO"
+      ]
+    },
+    {
+      "original": "GRANDPEPE",
+      "candidates": [
+        "BLUEBEAR.GRANDBEAR",
+        "FIVEGRAND",
+        "GRANDFAUX",
+        "GRANDMAPEPE",
+        "LFGRANDPEPE",
+        "MIKAPOSTERS.GRANDPRIX",
+        "KIDPHOCKS.GRANDMASTERSMURF",
+        "MGMGRAND",
+        "BURNEDPUNK.GRANDPAPUNK"
+      ]
+    },
+    {
+      "original": "FRENCHPEPE",
+      "candidates": [
+        "DRAWMEFRENCH"
+      ]
+    },
+    {
+      "original": "PEPEGIGA",
+      "candidates": [
+        "PREGIGACHAD",
+        "GIGADANK",
+        "PEPEGIGACHAD",
+        "FAKAGIGA",
+        "GIGAFAKE",
+        "GIGAMULLET",
+        "GIGAPENPEN",
+        "STGIGACHAD",
+        "GIGANTOAPES",
+        "THEGIGACHAD",
+        "GIGACHADG",
+        "GIGACHADG.BSTR",
+        "GIGAJELLY",
+        "GIGASHAD",
+        "QRGIGA"
+      ]
+    },
+    {
+      "original": "PEPELEMMING",
+      "candidates": [
+        "LEMMINGS"
+      ]
+    },
+    {
+      "original": "MCPEPE",
+      "candidates": [
+        "USMCPEPE",
+        "MCPEPESCHER",
+        "MCPEPEDEBUFF",
+        "VINCEMCPEPE"
+      ]
+    },
+    {
+      "original": "PEPEINTRO",
+      "candidates": [
+        "INTROSPCPEPE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENAL",
+      "asset": "PEPERFINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "PEPESHAMAN.ORIGINAL",
+      "status": "ambiguous",
+      "reason": "Physical artwork photograph; establish relationship and direction with digital counterpart."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "PHOCKS.MONALISA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "PRUNED.MYORDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "FINALCOCO",
+      "status": "ambiguous",
+      "reason": "Dense composition contains numerous small images needing individual identification."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BERNDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BIGBRORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BITCORDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BITORDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BREAKORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "BTCORDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "CCORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "CENSORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "CORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "CORNDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "COUNTORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ERORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "GOTORDINALS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "GOTORDINALS.2",
+      "status": "ambiguous",
+      "reason": "Milk-carton photograph includes a small artwork labeled LEGENDORDINAL; enlarge and compare source."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "DABPOUILLOT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "NODABCNET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "CLOSEDABEACH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "BADABINGPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "PEPEINDABOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "DABEATEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "DABSTAR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "DABCKONGS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "DABZOMBIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "CDABYSSINIAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "PEPEINDABOX.DISSOLVEDINAIR",
+      "status": "accepted",
+      "attributed_original": "PEPEINDABOX",
+      "reason": "Exact wide-eyed spring-mounted Pepe head, red spring, labeled box, splattered background and signature; animation dissolves and warps foreground. Sampled four of20frames."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "PEPEINDABOX.DYNAMICS",
+      "status": "accepted",
+      "attributed_original": "PEPEINDABOX",
+      "reason": "Exact jack-in-box artwork and splattered background retained with animated distortions of head, spring and labeled box. Sampled four of8frames."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "PEPEDABOMB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "SHARPDAB",
+      "status": "ambiguous",
+      "reason": "Dense repeating-card collage; identify exact source and multi-source context."
+    },
+    {
+      "original": "DABPEPE",
+      "asset": "KADABRA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACESIRL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACETRUCKIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEPEPECD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PEPEATSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEBOBO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEBEAST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEAPEE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEAPEDRIP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "DASPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "DABCSPACEBOW",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "BTCSPACEAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PENEEDSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "COMMONLANDS.SPACED",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PEPEINSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "FAKESPACE.EP1.PepeNardo",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "FAKESPACE.EP2.DimZayan",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "FAKESPACEDUB.SIDE2",
+      "status": "accepted",
+      "attributed_original": "FAKESPACE.EP2.DimZayan",
+      "reason": "Crops and layers exact Dim Zayan cassette: hand-lettered name, crossed-out track list, block height728994 and reel layout; red/orange light treatment added."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "FAKESPACEDUB.SIDE3.SCARCESPACE",
+      "status": "accepted",
+      "attributed_original": "SCARCESPACE.Ep1.NYC",
+      "reason": "Layers exact Scarce Space NYC NFT Special cassette with block741768, Episode1 label and reel layout, under purple diagonal light streaks and repeated cassette fragments."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "FAKESPACEDUB",
+      "status": "ambiguous",
+      "reason": "Cassette grid needs comparison with individual episodes and closer source direction."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "CORNYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "LFGYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "STAMPEPEYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "MINCHYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "COCOYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "MIKAYODA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "BABYYODAMFER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "YODAPEPE",
+      "asset": "YODARK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KILLARYPEPE",
+      "asset": "BARBIFIED.KILLARY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "OLYMPICPEPE",
+      "asset": "OLYMPICP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEHONDO",
+      "asset": "HONDO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "BLUEBEAR.GRANDBEAR",
+      "status": "accepted",
+      "attributed_original": "GRANDPEPE",
+      "reason": "Exact GTA-style card layout, tank top/body pose, city silhouette and stat strip retained; blue bear replaces Pepe, KEK MODE becomes BLUE MODE and PEPE title becomes BEAR."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "FIVEGRAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "GRANDFAUX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "GRANDMAPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "LFGRANDPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "LFGRANDPEPE.LFGOOOOOPEPE",
+      "status": "ambiguous",
+      "reason": "Inset green figure needs exact source identification rather than linking automatically to parent."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "MIKAPOSTERS.GRANDPRIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "KIDPHOCKS.GRANDMASTERSMURF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "MGMGRAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GRANDPEPE",
+      "asset": "BURNEDPUNK.GRANDPAPUNK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "FRENCHPEPE",
+      "asset": "DRAWMEFRENCH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "PREGIGACHAD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGADANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGATRANS",
+      "status": "ambiguous",
+      "reason": "Animation revealed a distinct portrait/card; identify closer source if any, not PEPEGIGA."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "PEPEGIGACHAD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "FAKAGIGA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGABAG",
+      "status": "ambiguous",
+      "reason": "Card within image needs source identification at adequate size."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGACREATOR",
+      "status": "ambiguous",
+      "reason": "Head contains small scene with multiple images; identify any specific asset reuse."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGAFAKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGAMULLET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGAPENPEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "STGIGACHAD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGANTOAPES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "THEGIGACHAD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGACHADG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGACHADG.BSTR",
+      "status": "accepted",
+      "attributed_original": "GIGACHADG",
+      "reason": "Buster Keaton holds exact Daily Shiller newspaper: Giga Chad Granite headline, 69-page marker and rock-face photograph all retained in animated inset."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGAJELLY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "GIGASHAD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGIGA",
+      "asset": "QRGIGA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELEMMING",
+      "asset": "LEMMINGS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MCPEPE",
+      "asset": "USMCPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MCPEPE",
+      "asset": "MCPEPESCHER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MCPEPE",
+      "asset": "MCPEPEDEBUFF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MCPEPE",
+      "asset": "VINCEMCPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEINTRO",
+      "asset": "INTROPEPE",
+      "status": "ambiguous",
+      "reason": "Identical-looking comic to PEPEINTRO; establish publication direction rather than pick one arbitrarily."
+    },
+    {
+      "original": "PEPEINTRO",
+      "asset": "INTROSPCPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "PEPEINDABOX.DISSOLVEDINAIR",
+      "original": "PEPEINDABOX",
+      "collection": "pepe-in-da-box",
+      "image": "https://cdn.xcp.io/img/full/PEPEINDABOX.DISSOLVEDINAIR?image=1",
+      "evidence": "Exact wide-eyed spring-mounted Pepe head, red spring, labeled box, splattered background and signature; animation dissolves and warps foreground. Sampled four of20frames."
+    },
+    {
+      "asset": "PEPEINDABOX.DYNAMICS",
+      "original": "PEPEINDABOX",
+      "collection": "pepe-in-da-box",
+      "image": "https://cdn.xcp.io/img/full/PEPEINDABOX.DYNAMICS?image=1",
+      "evidence": "Exact jack-in-box artwork and splattered background retained with animated distortions of head, spring and labeled box. Sampled four of8frames."
+    },
+    {
+      "asset": "FAKESPACEDUB.SIDE2",
+      "original": "FAKESPACE.EP2.DimZayan",
+      "collection": "fake-space-dub",
+      "image": "https://cdn.xcp.io/img/full/FAKESPACEDUB.SIDE2?image=1",
+      "evidence": "Crops and layers exact Dim Zayan cassette: hand-lettered name, crossed-out track list, block height728994 and reel layout; red/orange light treatment added."
+    },
+    {
+      "asset": "FAKESPACEDUB.SIDE3.SCARCESPACE",
+      "original": "SCARCESPACE.Ep1.NYC",
+      "collection": "fake-space-dub",
+      "image": "https://cdn.xcp.io/img/full/FAKESPACEDUB.SIDE3.SCARCESPACE?image=1",
+      "evidence": "Layers exact Scarce Space NYC NFT Special cassette with block741768, Episode1 label and reel layout, under purple diagonal light streaks and repeated cassette fragments."
+    },
+    {
+      "asset": "BLUEBEAR.GRANDBEAR",
+      "original": "GRANDPEPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.GRANDBEAR?image=1",
+      "evidence": "Exact GTA-style card layout, tank top/body pose, city silhouette and stat strip retained; blue bear replaces Pepe, KEK MODE becomes BLUE MODE and PEPE title becomes BEAR."
+    },
+    {
+      "asset": "GIGACHADG.BSTR",
+      "original": "GIGACHADG",
+      "collection": "gigachad-granite",
+      "image": "https://cdn.xcp.io/img/full/GIGACHADG.BSTR?image=1",
+      "evidence": "Buster Keaton holds exact Daily Shiller newspaper: Giga Chad Granite headline, 69-page marker and rock-face photograph all retained in animated inset."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "sheets": 13,
+    "extra": [
+      "PEPEINDABOX variants20/8frames sampled4each",
+      "GIGACHADG13frames and BSTR90frames sampled4each",
+      "GIGATRANS149frames sampled4 blankintro resolved",
+      "QRGIGA all2frames: external traditional frog motif, no exact PEPEGIGA reuse established",
+      "FAKESPACE.EP2.DimZayan13frames sampled4; SIDE2 enlarged",
+      "SCARCESPACE.Ep1.NYC firstframe compared with SIDE3 collage"
+    ]
+  }
+}
