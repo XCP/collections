@@ -1236,7 +1236,13 @@
       ]
     },
     {
-      "asset": "TRUMPRAREJR"
+      "asset": "TRUMPRAREJR",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPSOCIAL"

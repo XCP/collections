@@ -25,7 +25,13 @@
       ]
     },
     {
-      "asset": "CLUBPENPEN"
+      "asset": "CLUBPENPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CLUBPEPE"
+        }
+      ]
     },
     {
       "asset": "COVPENPEN"

@@ -667,7 +667,13 @@
       ]
     },
     {
-      "asset": "TRUMPSOCK"
+      "asset": "TRUMPSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPEPE"
+        }
+      ]
     },
     {
       "asset": "UFOSOCK",

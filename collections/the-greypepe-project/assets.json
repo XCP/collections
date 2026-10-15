@@ -216,7 +216,13 @@
       ]
     },
     {
-      "asset": "GREYTRUMP"
+      "asset": "GREYTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPEPE"
+        }
+      ]
     },
     {
       "asset": "GREYTWHTPEPE"
