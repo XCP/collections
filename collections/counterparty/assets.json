@@ -20268,6 +20268,10 @@
         {
           "trait_type": "Artist",
           "value": "Jimmy"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "GAMESOFTRUMP"
         }
       ]
     },
@@ -30047,7 +30051,13 @@
       "asset": "GZAPFE.PAISAJE"
     },
     {
-      "asset": "FAKECHAINER.KEKMASTRUMP"
+      "asset": "FAKECHAINER.KEKMASTRUMP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPEPE"
+        }
+      ]
     },
     {
       "asset": "A17900106988605466625"
@@ -40936,6 +40946,10 @@
         {
           "trait_type": "Artist",
           "value": "DanDarkPill"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEAIR"
         }
       ]
     },
