@@ -28,3 +28,9 @@ The two parents keep their existing Drooling Ape Bus Club primary memberships an
 ## Editorial classification
 
 **Set** — The eighteen coordinated suit-and-rank artworks form a playing-card set. The registry title is descriptive; this is not a complete 52-card deck or admission of its children to DABC. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **collection**. Standalone playing-card project, not subset of another collection; PR435.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

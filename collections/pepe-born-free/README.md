@@ -5,12 +5,12 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Variations of PEPEBORNFREE |
+| Type | Canonical collection |
 | Membership | 21 assets |
 | Primary memberships | 21 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 21/21 (100%) |
+| Traits | Artist: 21/21 (100%)<br>Based on: 20/21 (95.2%) |
 <!-- collection-facts:end -->
 
 ## Membership review
@@ -35,3 +35,9 @@ Reviewed 2026-10-13 by comparing CDN card art for PEPEBORNFREE against its PEPEB
 ## Project year
 
 **2024** — Estimated from the first supported artwork/JSON reference following an existing edition. This is a first-documented bound; the artwork may have existed earlier. Anchor: [PEPEBORNFREE.01](https://api.xcp.io/v2/assets/A13108629240917351341/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **editions**. Numbered physical sculpture presentations and overview; no promise of redemption rights.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

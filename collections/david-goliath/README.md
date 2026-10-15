@@ -120,3 +120,9 @@ Reviewed and approved on 2026-10-09. All 97 entries have stored CDN media. This 
 | [A11194950052399576321](https://tokenscan.io/asset/A11194950052399576321) | imgur/GxlX2yM.jpg;David & Goliath 31/100 |
 | [A11198372542765325551](https://tokenscan.io/asset/A11198372542765325551) | imgur/wuA7W6H.jpg;David & Goliath 48/100 |
 | [A11198627669248830004](https://tokenscan.io/asset/A11198627669248830004) | imgur/KtMHrTu.jpg;David & Goliath 80/100 |
+
+## Relationship review — 2026-10-14
+
+**Editions** — All 97 tracked assets were rechecked against current xcpio-core records. Every description names David & Goliath with an edition number out of 100, and every member has issuer `1GxFfpxKyUGDbKi6ChgWfYQtgJzFSFR5Er`. The stored full-size artwork for every member has the same object checksum and byte length (836,140 bytes); the artwork was also visually inspected. This is one artwork represented by numbered tokens, rather than 97 distinct compositions.
+
+Examples: [edition 91/100](https://api.xcp.io/v2/assets/A11102582461667152779), [edition 65/100](https://api.xcp.io/v2/assets/A11103099430842801156), and [edition 80/100](https://api.xcp.io/v2/assets/A11198627669248830004). The complete membership and original source references remain above. The tracked list contains 97, not an asserted complete set of 100. This classification does not grant physical redemption or establish new artist attribution. Membership, credits and dates are unchanged.

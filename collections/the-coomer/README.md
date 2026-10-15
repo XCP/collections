@@ -30,3 +30,9 @@ Sources: https://api.xcp.io/v2/assets/COOMER/issuances and https://cdn.xcp.io/im
 **Editions** — Live issuance histories confirm both COOMER and DERCOOMER referenced https://easyasset.art/j/36a4g8/COOMER.json at block 726786. They share the issuing address and matching artwork, while retaining distinct token supplies. Sources: https://api.xcp.io/v2/assets/COOMER/issuances?limit=100 and https://api.xcp.io/v2/assets/DERCOOMER/issuances?limit=100 . Later description URLs differ; that does not erase their shared historical reference.
 
 This is an explicit editorial classification, not a rule derived from asset count or subasset names. Membership, artist credits, dates, and existing primary collection homes are unchanged.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **editions**. Two documented editions of one artwork; already proposed in PR436.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

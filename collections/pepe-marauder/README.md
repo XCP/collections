@@ -5,12 +5,12 @@
 
 | Field | Value |
 | --- | --- |
-| Type | Variations of PEPEMARAUDER |
+| Type | Canonical collection |
 | Membership | 11 assets |
 | Primary memberships | 10 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 11/11 (100%) |
+| Traits | Artist: 11/11 (100%)<br>Based on: 10/11 (90.9%) |
 <!-- collection-facts:end -->
 
 ## Membership evidence
@@ -22,3 +22,9 @@ The explicit list contains 11 art-bearing members. Existing Rare Scrilla credits
 ## Project year
 
 **2022** — Estimated from the matching artwork/JSON reference and positive edition issuance within 90 days, in the context of the reviewed membership above. Anchor: [PEPEMARAUDER.8ATCP](https://api.xcp.io/v2/assets/A11150956741428707954/issuances?limit=100). This dates the documented variation family; it does not inherit an earlier parent-token reservation. See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **editions**. Original plus ten numbered framed print tokens; retain parent Rare Pepe primary.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

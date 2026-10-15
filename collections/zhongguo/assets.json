@@ -4,7 +4,13 @@
       "asset": "ZHONGGUO.YI"
     },
     {
-      "asset": "ZHONGGUO.LING"
+      "asset": "ZHONGGUO.LING",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "ZHONGGUO"
+        }
+      ]
     },
     {
       "asset": "ZHONGGUO"

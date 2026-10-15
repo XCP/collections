@@ -22,3 +22,9 @@ All member previews reviewed and exact token identities verified. These assets l
 ## Editorial classification
 
 **Set** — The creator sales describe a four-part felt set and identify each matching token. See the membership evidence above. This label describes grouping intent and does not change primary homes, artist credits or admission to another directory. Reviewed 2026-10-13.
+
+## Approved cleanup, 2026-10-15
+
+Classification: **collection**. Standalone felt-art project, not a subset of another collection; PR435.
+
+This is an editorial classification supported by the membership evidence above and the saved visual review. Existing token identities, credits, artwork dates and primary homes remain unchanged. Classification alone does not assert current physical redemption rights.

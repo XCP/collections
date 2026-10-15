@@ -1,4 +1,4 @@
-# Niftyboss Editions
+# Niftyboss
 
 <!-- collection-facts:start -->
 ## Registry facts
@@ -50,3 +50,7 @@ Other holdings and creations at the address, including stamps, launchpad tokens,
 ## Project year
 
 **2025** — Uses the existing individually reviewed Art year for this member, together with the membership evidence above. Anchor: [A2026000000000002026](https://api.xcp.io/v2/assets/A2026000000000002026/issuances?limit=100). See the [coverage review](../../docs/collection-date-coverage-2026-10-13.md) for the shared method and limits.
+
+## Approved cleanup, 2026-10-15
+
+Use **Niftyboss** as the display name, without the Editions suffix. These are distinct collectible-card artworks, not numbered copies of one work. Keep collection membership, artist credits and the existing URL unchanged.
