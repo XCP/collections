@@ -1,0 +1,833 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPENAL",
+      "candidates": [
+        "GUIDORDINAL",
+        "HOMERDINAL",
+        "JORDINAL",
+        "LAMBORDINAL",
+        "LOLORDINAL",
+        "LORDINALIND",
+        "LORDINALKEK",
+        "MEMEORDINAL",
+        "OFFROADINAL",
+        "OFORORDINAL",
+        "OLDINAL",
+        "ONEORDINAL",
+        "ORDERNAL",
+        "ORDINALARMY",
+        "ORDINALART",
+        "ORDINALBARON"
+      ]
+    },
+    {
+      "original": "PEPESPACE",
+      "candidates": [
+        "LOSTINSPACE",
+        "INFISPACE.BUCKS",
+        "INFISPACE.OTOMI_Fighter",
+        "INFISPACE.HOPLITE_Figher",
+        "INFISPACE.HASTATI_Fighter",
+        "MFERS.SPACEDELIVERY",
+        "MIKEINSPACE",
+        "NITSABOBO.SPACEWELL",
+        "PHOCKHB.SPACEGHOST",
+        "PHOCKHEADS.DJPEPE.SPACESCRILLA",
+        "PURPLEFROG.magic.space.purple",
+        "PURPLEFROG.magic.space",
+        "PURPLEFROG.space",
+        "KEKSPACE",
+        "SPACEDADDY",
+        "SPACEMOUTH",
+        "SPACECOOKIE"
+      ]
+    },
+    {
+      "original": "PEPEINTRO",
+      "candidates": [
+        "FWCFCINTROSC"
+      ]
+    },
+    {
+      "original": "RUNDMP",
+      "candidates": []
+    },
+    {
+      "original": "KIGURUMIPEPE",
+      "candidates": [
+        "FAKIGURUMI"
+      ]
+    },
+    {
+      "original": "BENDERPEPE",
+      "candidates": [
+        "EYPBENDERP",
+        "DROOLBENDERP",
+        "ZKFIREBENDER",
+        "BENDERP",
+        "THEAPEBENDER",
+        "MINDBENDERS.METABALLS.003",
+        "MINDBENDERS.METABALLS.002",
+        "MINDBENDERS.METABALLS.001",
+        "MINDBENDERS.SPHERE.001",
+        "LILPHOCKERS.BENDER"
+      ]
+    },
+    {
+      "original": "PEPEFLATION",
+      "candidates": [
+        "SWANFLATION",
+        "TRUMPFLATION"
+      ]
+    },
+    {
+      "original": "CROPPEPE",
+      "candidates": [
+        "MCROPEPEDOSE",
+        "MACROPEPE",
+        "CROPDATPOP",
+        "CROPR",
+        "CROPTER",
+        "CROPCIRCLES",
+        "CROPS.VOTE2"
+      ]
+    },
+    {
+      "original": "PEPELVSD",
+      "candidates": [
+        "LVSD.TWOLONGPAPERS",
+        "LVSD.SLUG",
+        "LVSD.TAON",
+        "LVSD"
+      ]
+    },
+    {
+      "original": "PEPEGATES",
+      "candidates": [
+        "PEPILLGATES",
+        "MELINDAGATES",
+        "MOONGATEST"
+      ]
+    },
+    {
+      "original": "JONSNOWPEPE",
+      "candidates": [
+        "JONSNOWDANK"
+      ]
+    },
+    {
+      "original": "HUMBLEPEPE",
+      "candidates": [
+        "HUMBLEREQST",
+        "STAYHUMBLE",
+        "CHUMBLEYAPE",
+        "PEPEHUMBLE"
+      ]
+    },
+    {
+      "original": "PEPEMARLEY",
+      "candidates": [
+        "DANKMARLEY",
+        "BOBOMARLEY",
+        "MARLEYPEPE",
+        "HELPMARLEY",
+        "PEZMARLEY",
+        "WOJAKMARLEY"
+      ]
+    },
+    {
+      "original": "PEPEWANTSYOU",
+      "candidates": [
+        "BOBOWANTSYOU"
+      ]
+    },
+    {
+      "original": "ENTERTHEPEPE",
+      "candidates": [
+        "ENTERTHEVOID",
+        "ENTERTHEORD"
+      ]
+    },
+    {
+      "original": "SICKPEPE",
+      "candidates": [
+        "SICKLEHORNS",
+        "SICKDERP",
+        "SICKAPE",
+        "CORNSICKLE"
+      ]
+    },
+    {
+      "original": "KAPPAPEPE",
+      "candidates": [
+        "KAPPAPEPEMON"
+      ]
+    },
+    {
+      "original": "PMOPEPE",
+      "candidates": [
+        "POPMONARCH",
+        "PEPMONKEYPOX",
+        "DERPMONONOKE",
+        "MTPEPMORE",
+        "PEPMORDIAL",
+        "HOMERPEPMOVI",
+        "XFCPMOHSALAH",
+        "PMOBOSHI",
+        "ORDPPMOLIERE"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENAL",
+      "asset": "GOTORDINALS.3",
+      "status": "ambiguous",
+      "reason": "Multiple small cards falling into glass; identify sources and multi-source context."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "GUIDORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "HOMERDINAL",
+      "status": "accepted",
+      "attributed_original": "HOMERPEPE",
+      "reason": "Exact yellow card and cloud arrangement retained; Homer portrait replaced with realistic rendering, title becomes HOMERDINAL and Wait a minute, I am a Pepe caption becomes Wait a lifetime, I am a ordinal."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "JORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "LAMBORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "LOLORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "LORDINALIND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "LORDINALKEK",
+      "status": "accepted",
+      "attributed_original": "LORDKEK",
+      "reason": "Reuses seated pharaoh Pepe as inset and explicitly adapts All Pepes worship Lord Kek as the most powerful Pepe in existence to Lordinal Kek as the second most powerful, with Godhead changed to Froghead and matching stat/card structure. Other background imagery is not attributed here."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "MEMEORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "MYTHICORDNAL",
+      "status": "ambiguous",
+      "reason": "Creator caption echoes RAREPEPE but other potential card source and composition need comparison."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "NORDINAL",
+      "status": "media_blocked",
+      "reason": "Full PNG is dark textured surface with no discernible subject; need metadata or alternate artwork before comparison."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "OFFROADINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "OFORORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "OLDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ONEORDINAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDERNAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALARMY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENAL",
+      "asset": "ORDINALBARON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "LOSTINSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "INFISPACE.BUCKS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "INFISPACE.OTOMI_Fighter",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "INFISPACE.HOPLITE_Figher",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "INFISPACE.HASTATI_Fighter",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "MFERS.SPACEDELIVERY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "MIKEINSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "MIKEINSPACE.xcp",
+      "status": "ambiguous",
+      "reason": "Identical to MIKEINSPACE in sheet; identity subasset and direction need review, not inferred from suffix."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "NITSABOBO.SPACEWELL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PHOCKHB.SPACEGHOST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PHOCKHEADS.DJPEPE.SPACESCRILLA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PURPLEFROG.magic.space.stonemagic",
+      "status": "ambiguous",
+      "reason": "Related three-column grid with changed heads and stone background; closer intermediate source and treatment direction unresolved."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PURPLEFROG.magic.space.purple",
+      "status": "accepted",
+      "attributed_original": "PURPLEFROG.space",
+      "reason": "Exact lower-left helmeted purple face, glove and galaxy spiral placement retained under white/purple glitch and particle treatment."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PURPLEFROG.magic.space",
+      "status": "accepted",
+      "attributed_original": "PURPLEFROG.space",
+      "reason": "Tiles the exact purple helmeted face and jeweled glove from the space composition in a three-column grid, adding repeated small gold figures behind each portrait."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "PURPLEFROG.space",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "KEKSPACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEDADDY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACEMOUTH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPESPACE",
+      "asset": "SPACECOOKIE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEINTRO",
+      "asset": "FWCFCINTROSC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RUNDMP",
+      "asset": "RUNDMP.REMIX",
+      "status": "ambiguous",
+      "reason": "Same band subject, but distinct trio pose and photo source; title alone insufficient for direction."
+    },
+    {
+      "original": "KIGURUMIPEPE",
+      "asset": "FAKIGURUMI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "EYPBENDERP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "DROOLBENDERP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "ZKFIREBENDER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "BENDERP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "THEAPEBENDER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "MINDBENDERS.METABALLS.003",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "MINDBENDERS.METABALLS.002",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "MINDBENDERS.METABALLS.001",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "MINDBENDERS.SPHERE.001",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "BENDERPEPE",
+      "asset": "LILPHOCKERS.BENDER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEFLATION",
+      "asset": "SWANFLATION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEFLATION",
+      "asset": "TRUMPFLATION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "MCROPEPEDOSE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "MACROPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPDATPOP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPCIRCLES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPEPCIRCLE",
+      "status": "ambiguous",
+      "reason": "Physical crop-circle drawing differs from CROPPEPE image angle and face details; source/direction unresolved."
+    },
+    {
+      "original": "CROPPEPE",
+      "asset": "CROPS.VOTE2",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELVSD",
+      "asset": "LVSD.TWOLONGPAPERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELVSD",
+      "asset": "LVSD.SLUG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELVSD",
+      "asset": "LVSD.TAON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPELVSD",
+      "asset": "LVSD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGATES",
+      "asset": "PEPILLGATES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGATES",
+      "asset": "MELINDAGATES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEGATES",
+      "asset": "MOONGATEST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "JONSNOWPEPE",
+      "asset": "JONSNOWDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HUMBLEPEPE",
+      "asset": "HUMBLEREQST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HUMBLEPEPE",
+      "asset": "STAYHUMBLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HUMBLEPEPE",
+      "asset": "CHUMBLEYAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HUMBLEPEPE",
+      "asset": "PEPEHUMBLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "DANKMARLEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "BOBOMARLEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "MARLEYPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "HELPMARLEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "PEZMARLEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEMARLEY",
+      "asset": "WOJAKMARLEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEWANTSYOU",
+      "asset": "BOBOWANTSYOU",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ENTERTHEPEPE",
+      "asset": "ENTERTHEVOID",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "ENTERTHEPEPE",
+      "asset": "ENTERTHEORD",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SICKPEPE",
+      "asset": "SICKDERP.draaaaaaake",
+      "status": "ambiguous",
+      "reason": "Drake comparison includes exact SICKDERP in lower-right and a different ape upper-right; preserve multi-source issue rather than arbitrary single source."
+    },
+    {
+      "original": "SICKPEPE",
+      "asset": "SICKLEHORNS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SICKPEPE",
+      "asset": "SICKDERP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SICKPEPE",
+      "asset": "SICKAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SICKPEPE",
+      "asset": "CORNSICKLE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "KAPPAPEPE",
+      "asset": "KAPPAA",
+      "status": "ambiguous",
+      "reason": "Multiple small card screens in composition require identification."
+    },
+    {
+      "original": "KAPPAPEPE",
+      "asset": "KAPPAPEPEMON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "POPMONARCH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "PEPMONKEYPOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "DERPMONONOKE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "MTPEPMORE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "PEPMORDIAL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "HOMERPEPMOVI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "XFCPMOHSALAH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "PMOBOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "XCPMONTAGE.I",
+      "status": "ambiguous",
+      "reason": "Collage has multiple distinct elements; compare parent and identify immediate source."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "XCPMONTAGE",
+      "status": "ambiguous",
+      "reason": "Collage contains several small artworks requiring individual source comparisons."
+    },
+    {
+      "original": "PMOPEPE",
+      "asset": "ORDPPMOLIERE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "HOMERDINAL",
+      "original": "HOMERPEPE",
+      "collection": "rare-ordinal-directory",
+      "image": "https://cdn.xcp.io/img/full/HOMERDINAL?image=1",
+      "evidence": "Exact yellow card and cloud arrangement retained; Homer portrait replaced with realistic rendering, title becomes HOMERDINAL and Wait a minute, I am a Pepe caption becomes Wait a lifetime, I am a ordinal."
+    },
+    {
+      "asset": "LORDINALKEK",
+      "original": "LORDKEK",
+      "collection": "rare-ordinal-directory",
+      "image": "https://cdn.xcp.io/img/full/LORDINALKEK?image=1",
+      "evidence": "Reuses seated pharaoh Pepe as inset and explicitly adapts All Pepes worship Lord Kek as the most powerful Pepe in existence to Lordinal Kek as the second most powerful, with Godhead changed to Froghead and matching stat/card structure. Other background imagery is not attributed here."
+    },
+    {
+      "asset": "PURPLEFROG.magic.space.purple",
+      "original": "PURPLEFROG.space",
+      "collection": "purplefrog",
+      "image": "https://cdn.xcp.io/img/full/PURPLEFROG.magic.space.purple?image=1",
+      "evidence": "Exact lower-left helmeted purple face, glove and galaxy spiral placement retained under white/purple glitch and particle treatment."
+    },
+    {
+      "asset": "PURPLEFROG.magic.space",
+      "original": "PURPLEFROG.space",
+      "collection": "purplefrog",
+      "image": "https://cdn.xcp.io/img/full/PURPLEFROG.magic.space?image=1",
+      "evidence": "Tiles the exact purple helmeted face and jeweled glove from the space composition in a three-column grid, adding repeated small gold figures behind each portrait."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "sheets": 18,
+    "extra": [
+      "HOMERDINAL compared HOMERPEPE exact clouds/layout",
+      "LORDINALKEK compared LORDKEK inset and caption",
+      "Purplefrog space variants enlarged",
+      "SICKDERP comparison contains two different asset portraits, multi-source held",
+      "CROPPEPE41frames sampled4 vs physical drawing, held",
+      "NORDINAL full PNG darktexture blocked",
+      "Correct asset spellings SICKDERP.draaaaaaake and PURPLEFROG.magic.space.stonemagic retrieved after initial misspellings"
+    ]
+  }
+}
