@@ -10,7 +10,7 @@
 | Primary memberships | 9 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | ATK: 1/9 (11.1%)<br>HP: 1/9 (11.1%)<br>SPD: 1/9 (11.1%) |
+| Traits | ATK: 1/9 (11.1%)<br>Based on: 4/9 (44.4%)<br>HP: 1/9 (11.1%)<br>SPD: 1/9 (11.1%) |
 <!-- collection-facts:end -->
 
 Membership is the reviewed static snapshot in `assets.json`.

@@ -3461,6 +3461,10 @@
         {
           "trait_type": "Card",
           "value": 7
+        },
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
         }
       ]
     },
@@ -23494,6 +23498,10 @@
         {
           "trait_type": "Card",
           "value": 2
+        },
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
         }
       ]
     },

@@ -2329,6 +2329,10 @@
         {
           "trait_type": "Artist",
           "value": "Rare Scrilla"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -6408,6 +6412,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPESS"
         }
       ]
     },
@@ -22036,6 +22044,10 @@
         {
           "trait_type": "Artist",
           "value": "nathan sonic"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -25907,6 +25919,10 @@
         {
           "trait_type": "Artist",
           "value": "shorty"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
         }
       ]
     },
@@ -39375,7 +39391,13 @@
       "asset": "MOCCOIN"
     },
     {
-      "asset": "MODERNGOOG"
+      "asset": "MODERNGOOG",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MODERNPEPE"
+        }
+      ]
     },
     {
       "asset": "MOISTNESS"
@@ -46500,7 +46522,13 @@
       "asset": "TRUMPSINVITE"
     },
     {
-      "asset": "TRUMPSTAMP"
+      "asset": "TRUMPSTAMP",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "TRUMPRARE"
+        }
+      ]
     },
     {
       "asset": "TRUMPTIFFANY",

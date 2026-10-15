@@ -10,7 +10,7 @@
 | Primary memberships | 366 |
 | Secondary or curated memberships | 0 |
 | Source | Reviewed static `assets.json` |
-| Traits | Art year: 46/366 (12.6%)<br>Artist: 366/366 (100%)<br>Based on: 4/366 (1.1%)<br>Card: 364/366 (99.5%)<br>Role: 2/366 (0.5%)<br>Series: 364/366 (99.5%) |
+| Traits | Art year: 46/366 (12.6%)<br>Artist: 366/366 (100%)<br>Based on: 5/366 (1.4%)<br>Card: 364/366 (99.5%)<br>Role: 2/366 (0.5%)<br>Series: 364/366 (99.5%) |
 <!-- collection-facts:end -->
 
 This folder is the public record for this collection.
