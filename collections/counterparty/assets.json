@@ -33213,7 +33213,13 @@
       "asset": "CHEFPEPELEGS"
     },
     {
-      "asset": "CHERRYHOMER"
+      "asset": "CHERRYHOMER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "CHIBI"

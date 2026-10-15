@@ -15,7 +15,13 @@
       ]
     },
     {
-      "asset": "DABCPOWER.YE"
+      "asset": "DABCPOWER.YE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DABCPOWER"
+        }
+      ]
     }
   ]
 }
