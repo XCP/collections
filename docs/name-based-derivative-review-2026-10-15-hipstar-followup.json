@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-15",
+  "method": "Full static images viewed side by side; core issuance descriptions establish January versus July 2022 art references.",
+  "decisions": [
+    {
+      "asset": "HIPSTARBOBO",
+      "original": "HIPSTARPEPE",
+      "status": "accepted",
+      "reason": "Bobo recasts the star-eyed, heart-face-tattooed, gold-pierced bearded hipster character in the same titled portrait/stat/rules card arrangement and explicitly says Hipstar*Pepe Fren. Source media reference is January 2022; Bobo media reference July 2022."
+    }
+  ],
+  "evidence": [
+    {
+      "asset": "HIPSTARPEPE",
+      "pages": 1,
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "c4bf6faad53bd1395f3037d03f06baa96a81f07644eb9b35860c9e1528081ba8",
+            "block_index": 717433,
+            "block_time": 1641468675,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur.com/CRJ3Qqx.jpg",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "fa62647ddd5f93ad6f59a40b63f7213c248bb0e9a11acfb7005801ebadaa9337",
+            "block_index": 717231,
+            "block_time": 1641352922,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://i.imgur.com/CRJ3Qqx.jpg",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "8b0e36d857d9d52e79e7d194f8f62a98c8855c0ba2893e70aa4c0429054bc6db",
+            "block_index": 717231,
+            "block_time": 1641352922,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://imgur.com/a/EPRd0jP",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "c9172a23559fc5d793eb2ad695292d355e3d1575bda4ffb7dfe223f320704a08",
+            "block_index": 717228,
+            "block_time": 1641348040,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "100000",
+            "description": "https://imgur.com/a/EPRd0jP",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "HIPSTARBOBO",
+      "pages": 1,
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "49115be526c612d51cc7ee057eff88112ffeb6e2ee639c50b2d3d99a199365a3",
+            "block_index": 745635,
+            "block_time": 1658241163,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur.com/bYI8bkC.png",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "d18cfcc888f2e9a4146af438b0ec7cece0f8b0fcd5cb89936a7a7f4d1c3f0a8b",
+            "block_index": 745635,
+            "block_time": 1658241163,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur.com/KLenk7g.jpg",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9490ef7546196a16cce289154fbbe2cc18c13053b0e08b5d68319bfd6cdd942c",
+            "block_index": 745286,
+            "block_time": 1658013032,
+            "source": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "issuer": "1E2LutiSkjVh9K2WQgkpgaFHKciGHH7k7w",
+            "transfer": 0,
+            "quantity_normalized": "1000",
+            "description": "imgur.com/KLenk7g.jpg",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "sheet": "sheets/hipstar-detail.png",
+  "scope": "No artist or collection membership changes."
+}
