@@ -1,0 +1,868 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "PEPENIN",
+      "candidates": [
+        "MOURNINGMOOS",
+        "MOURNINGMOOS.BEYONDBARNYARD",
+        "MOURNINGMOOS.BLISS",
+        "MOURNINGMOOS.BTC23",
+        "MOURNINGMOOS.CITYLIFE",
+        "MOURNINGMOOS.MOOKRAINE",
+        "MOURNINGMOOS.MOOULTONBARN",
+        "MOURNINGMOOS.MOOVOLUTION",
+        "MOURNINGMOOS.PAINTTHEORY",
+        "MOURNINGMOOS.PAINTTHEORY.1of1",
+        "MSTRPEPES.PEPEKNHATANINSCRIPTION",
+        "MSTRPEPES.PEPESMORNINGSUN",
+        "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI",
+        "NINJAFREN",
+        "BITSENNIN",
+        "ININCHAN",
+        "OTHERWORLD.BurningHearts",
+        "PEENINSULA"
+      ]
+    },
+    {
+      "original": "SATOSHIRARE",
+      "candidates": [
+        "SATOSHIWHO",
+        "WAAK.SATOSHI",
+        "XSATOSHIX"
+      ]
+    },
+    {
+      "original": "PEPA",
+      "candidates": [
+        "SOULPEPA",
+        "PEPABSTRACTS.ONE",
+        "PEPABSTRACTS.TWO",
+        "PEPABSTRACTS.THREE",
+        "PEPABSTRACTS.FOUR",
+        "PEPABSTRACTS.FIVE",
+        "PEPABSTRACTS.SIX",
+        "PEPABSTRACTS.SEVEN",
+        "PEPABSTRACTS.EIGHT",
+        "PEPABSTRACTS.NINE",
+        "PEPABSTRACTS.TEN",
+        "PEPABSTRACTS.ELEVEN",
+        "PEPABSTRACTS.TWELVE",
+        "PEPABSTRACTS.THIRTEEN",
+        "PEPABSTRACTS.FOURTEEN",
+        "PEPABSTRACTS.FIFTEEN",
+        "PEPABSTRACTS.SIXTEEN",
+        "PEPABSTRACTS.SEVENTEEN",
+        "PEPABSTRACTS.EIGHTEEN"
+      ]
+    },
+    {
+      "original": "HANPEPE",
+      "candidates": [
+        "HANDPEPE",
+        "HANDSANDKEY",
+        "HANDSUPEPE",
+        "KCSCHAN",
+        "PEPECHANEL",
+        "PEPERHAND",
+        "PEPESLVRHAND",
+        "SABACHAN",
+        "THANKYOUMOM",
+        "THANKYOUPAPA",
+        "PEPETHANOS",
+        "CHANGPENG",
+        "FAPEHANGER",
+        "RAREHANUMAN",
+        "HANDOFPEPE",
+        "THEHANSEL",
+        "THANKFULPEPE",
+        "HANDSYPEPE"
+      ]
+    },
+    {
+      "original": "CYBERCORN",
+      "candidates": [
+        "PHOCKCYBER.NUMBERFOUR",
+        "PHOCKCYBER.NUMBERONE",
+        "PHOCKCYBER.NUMBERTHREE",
+        "PHOCKCYBER.NUMBERTWO",
+        "ZEROPHOCKSII.CYBERNETIC",
+        "CYBERPARTY",
+        "CYBERPEPE",
+        "CYBERPEP",
+        "CYBERPOWER",
+        "CYBERTRUMP"
+      ]
+    },
+    {
+      "original": "MATADORPEPE",
+      "candidates": [
+        "ELMATADOR"
+      ]
+    },
+    {
+      "original": "PEPEBANG",
+      "candidates": [
+        "BITBANG",
+        "CUANBANGKONG",
+        "FAKEPEPEBANG",
+        "SAMBANGHUB",
+        "PHOCKBANGERS.TOMBANGERS",
+        "PHOCKBANGERS.GOSBANGERS",
+        "PHOCKBANGERS.POLBANGERS",
+        "PHOCKBANGERS.RICBANGERS",
+        "PHOCKBANGERS.GENBANGERS",
+        "PHOCKBANGERS.JERRYBANGERS",
+        "PHOCKBANGERS.JORDANBANGERS",
+        "PHOCKBANGERS.LEMYBANGERS",
+        "CLOWNBANGERS",
+        "KREGBANGERS",
+        "MIKBANGERS",
+        "PHOCKBANGERS",
+        "THREEBANGERS",
+        "BANGPIGEON"
+      ]
+    },
+    {
+      "original": "CLUBSPEPE",
+      "candidates": [
+        "DABCJOKER.CLUBSACE",
+        "DABCJOKER.CLUBSJACK",
+        "DABCJOKER.CLUBSQUEEN",
+        "DABCJOKER.CLUBSKING",
+        "FAKEAPECLUBS"
+      ]
+    },
+    {
+      "original": "PEPEAVENGER",
+      "candidates": [
+        "NAKAVENGER"
+      ]
+    },
+    {
+      "original": "PEPECAGE",
+      "candidates": [
+        "BTCAGENT",
+        "ULBRICHTROSS.WHATBECOMESOFTHECAGES"
+      ]
+    },
+    {
+      "original": "PEPEBILL",
+      "candidates": [
+        "PEPEBILLIONS"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.BEYONDBARNYARD",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same isolated cow-head photograph, tilted ears, forehead tuft and large muzzle; monochrome/noise head over colorful barn/field scene."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.BLISS",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same multicolor glitched cow-head cutout layered over Windows-style green hill/blue sky background; sampled frames retain distinctive head contour and facial details."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.BTC23",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same cow-head photograph/cutout rendered in green halftone over orange/yellow background."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.CITYLIFE",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same cow-head cutout with pink/cyan inverted colors over monochrome city/building pattern; sampled animation preserves the matching muzzle/ears/tuft."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.MISSINGMOOS",
+      "status": "ambiguous",
+      "reason": "Wider uncut photograph of the cow appears on missing poster; could reference the common underlying source photo rather than derive from the glitched parent. Resolve direction/context."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.MOOKRAINE",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same cow-head image split and recolored into blue/yellow Ukrainian flag bands, alternating with monochrome on urban background."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.MOOULTONBARN",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same distinctive cow-head cutout heavily glitched in rainbow bands over barn imagery; muzzle and tilted ears remain recognizable."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.MOOVOLUTION",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same cow-head silhouette and facial photograph fragmented into rectangular glitch blocks over code-like text, visible through multiple animation samples."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.PAINTTHEORY",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS",
+      "reason": "Same photographed cow head in monochrome halftone, with repeated large colorful head behind and patterned city background."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MOURNINGMOOS.PAINTTHEORY.1of1",
+      "status": "accepted",
+      "attributed_original": "MOURNINGMOOS.PAINTTHEORY",
+      "reason": "Reproduces the exact Paint Theory composition, including monochrome foreground cow and colorful enlarged background head, as a framed presentation on a white field."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MSTRPEPES.PEPEKNHATANINSCRIPTION",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MSTRPEPES.PEPESMORNINGSUN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "MSTRPEPES.SELFPORTRAITOFGIANLORENZOPEPERNINI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "NINJAFREN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "BITSENNIN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "ININCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "OTHERWORLD.BurningHearts",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPENIN",
+      "asset": "PEENINSULA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "SATOSHIWHO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "WAAK.SATOSHI",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "XXCER.XSATOSHIX",
+      "status": "ambiguous",
+      "reason": "Extremely tall webpage/image collage includes many small artworks; needs segmented full-resolution inspection."
+    },
+    {
+      "original": "SATOSHIRARE",
+      "asset": "XSATOSHIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "SOULPEPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.ONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.TWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.THREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FIVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.SIX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.SEVEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.EIGHT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.NINE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.TEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.ELEVEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.TWELVE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.THIRTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FOURTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.FIFTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.SIXTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.SEVENTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPA",
+      "asset": "PEPABSTRACTS.EIGHTEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDSANDKEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDSUPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "KCSCHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPECHANEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPERHAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPESLVRHAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "SABACHAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THANKYOUMOM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THANKYOUPAPA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "PEPETHANOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDMADEPEPE",
+      "status": "ambiguous",
+      "reason": "Dark dense image requires improved media inspection to identify any specific source."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "CHANGPENG",
+      "status": "accepted",
+      "attributed_original": "JIHANWU",
+      "reason": "Retains fiery background, yellow frame, green bespectacled portrait and identical Covertly boosts your deck while denying...upgrades...opponents when played text structure; swaps portrait to CZ, technological to financial and stats/title."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "FAPEHANGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "RAREHANUMAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDOFPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THEHANSEL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "THANKFULPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "HANPEPE",
+      "asset": "HANDSYPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER.NUMBERFOUR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER.NUMBERONE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER.NUMBERTHREE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "PHOCKCYBER.NUMBERTWO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "ZEROPHOCKSII.CYBERNETIC",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPARTY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPEP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERPOWER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CYBERCORN",
+      "asset": "CYBERTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "MATADORPEPE",
+      "asset": "ELMATADOR",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "BITBANG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "CUANBANGKONG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "FAKEPEPEBANG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "SAMBANGHUB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "FAKEBANG.420",
+      "status": "media_blocked",
+      "reason": "SVG rasterization produced blank output; inspect SVG/browser rendering and embedded resources before comparison."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.TOMBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.GOSBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.POLBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.RICBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.GENBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.JERRYBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.JORDANBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS.LEMYBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "CLOWNBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "KREGBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "MIKBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "PHOCKBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "THREEBANGERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBANG",
+      "asset": "BANGPIGEON",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CLUBSPEPE",
+      "asset": "DABCJOKER.CLUBSACE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CLUBSPEPE",
+      "asset": "DABCJOKER.CLUBSJACK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CLUBSPEPE",
+      "asset": "DABCJOKER.CLUBSQUEEN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CLUBSPEPE",
+      "asset": "DABCJOKER.CLUBSKING",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "CLUBSPEPE",
+      "asset": "FAKEAPECLUBS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEAVENGER",
+      "asset": "NAKAVENGER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECAGE",
+      "asset": "BTCAGENT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECAGE",
+      "asset": "ULBRICHTROSS.WHATBECOMESOFTHECAGES",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPEBILL",
+      "asset": "PEPEBILLIONS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "MOURNINGMOOS.BEYONDBARNYARD",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.BEYONDBARNYARD?image=1",
+      "evidence": "Same isolated cow-head photograph, tilted ears, forehead tuft and large muzzle; monochrome/noise head over colorful barn/field scene."
+    },
+    {
+      "asset": "MOURNINGMOOS.BLISS",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.BLISS?image=1",
+      "evidence": "Same multicolor glitched cow-head cutout layered over Windows-style green hill/blue sky background; sampled frames retain distinctive head contour and facial details."
+    },
+    {
+      "asset": "MOURNINGMOOS.BTC23",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.BTC23?image=1",
+      "evidence": "Same cow-head photograph/cutout rendered in green halftone over orange/yellow background."
+    },
+    {
+      "asset": "MOURNINGMOOS.CITYLIFE",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.CITYLIFE?image=1",
+      "evidence": "Same cow-head cutout with pink/cyan inverted colors over monochrome city/building pattern; sampled animation preserves the matching muzzle/ears/tuft."
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOKRAINE",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.MOOKRAINE?image=1",
+      "evidence": "Same cow-head image split and recolored into blue/yellow Ukrainian flag bands, alternating with monochrome on urban background."
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOULTONBARN",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.MOOULTONBARN?image=1",
+      "evidence": "Same distinctive cow-head cutout heavily glitched in rainbow bands over barn imagery; muzzle and tilted ears remain recognizable."
+    },
+    {
+      "asset": "MOURNINGMOOS.MOOVOLUTION",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.MOOVOLUTION?image=1",
+      "evidence": "Same cow-head silhouette and facial photograph fragmented into rectangular glitch blocks over code-like text, visible through multiple animation samples."
+    },
+    {
+      "asset": "MOURNINGMOOS.PAINTTHEORY",
+      "original": "MOURNINGMOOS",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.PAINTTHEORY?image=1",
+      "evidence": "Same photographed cow head in monochrome halftone, with repeated large colorful head behind and patterned city background."
+    },
+    {
+      "asset": "MOURNINGMOOS.PAINTTHEORY.1of1",
+      "original": "MOURNINGMOOS.PAINTTHEORY",
+      "collection": "mourning-moos",
+      "image": "https://cdn.xcp.io/img/full/MOURNINGMOOS.PAINTTHEORY.1of1?image=1",
+      "evidence": "Reproduces the exact Paint Theory composition, including monochrome foreground cow and colorful enlarged background head, as a framed presentation on a white field."
+    },
+    {
+      "asset": "CHANGPENG",
+      "original": "JIHANWU",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/CHANGPENG?image=1",
+      "evidence": "Retains fiery background, yellow frame, green bespectacled portrait and identical Covertly boosts your deck while denying...upgrades...opponents when played text structure; swaps portrait to CZ, technological to financial and stats/title."
+    }
+  ],
+  "unapplied": [],
+  "media_inspection": {
+    "MOURNINGMOOS": {
+      "pages": 12,
+      "finding": "Blank opening followed by isolated glitched cow head"
+    },
+    "variants": {
+      "BEYONDBARNYARD": 59,
+      "BLISS": 16,
+      "CITYLIFE": 25,
+      "MISSINGMOOS": 48,
+      "MOOKRAINE": 18,
+      "MOOULTONBARN": 29,
+      "MOOVOLUTION": 15
+    },
+    "FAKEBANG_420": {
+      "format": "svg",
+      "finding": "Sharp output blank; browser/resource inspection required"
+    },
+    "CHANGPENG": {
+      "pages": 150,
+      "finding": "First frame already establishes exact JIHANWU card structure and adapted text"
+    }
+  },
+  "followup_evidence": {
+    "BANGPIGEON": "Compared alternate PEPEDABOMB image: different phone/bomb layout, no specific reuse established."
+  }
+}
