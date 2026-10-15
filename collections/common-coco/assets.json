@@ -458,7 +458,13 @@
       ]
     },
     {
-      "asset": "IMWITHKERO"
+      "asset": "IMWITHKERO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
+        }
+      ]
     },
     {
       "asset": "LACOCO",

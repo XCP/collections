@@ -175,7 +175,13 @@
       "asset": "IMSHADBITCH"
     },
     {
-      "asset": "IMWITHSHAD"
+      "asset": "IMWITHSHAD",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
+        }
+      ]
     },
     {
       "asset": "INVISIBLSHAD",

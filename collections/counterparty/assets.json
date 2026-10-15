@@ -6807,6 +6807,10 @@
         {
           "trait_type": "Artist",
           "value": "Hues"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
         }
       ]
     },
@@ -15542,6 +15546,10 @@
         {
           "trait_type": "Artist",
           "value": "Arwyn"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "STILLPEPE"
         }
       ]
     },
@@ -23390,6 +23398,10 @@
         {
           "trait_type": "Artist",
           "value": "olliesblog"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHCRYPTO"
         }
       ]
     },
@@ -33428,7 +33440,13 @@
       "asset": "CORNKEBAB"
     },
     {
-      "asset": "CORNKEISER"
+      "asset": "CORNKEISER",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "KEISERPEPE"
+        }
+      ]
     },
     {
       "asset": "CORNPOLE"
@@ -37643,7 +37661,13 @@
       "asset": "IMTHEREFEREE"
     },
     {
-      "asset": "IMWITHCOCO"
+      "asset": "IMWITHCOCO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "IMWITHPEPE"
+        }
+      ]
     },
     {
       "asset": "IMWITHELON"
@@ -39459,7 +39483,13 @@
       "asset": "MYHEART"
     },
     {
-      "asset": "MYLITTLEOPEN"
+      "asset": "MYLITTLEOPEN",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "MYLITTLEPEPE"
+        }
+      ]
     },
     {
       "asset": "MYNAMEISRARE",
