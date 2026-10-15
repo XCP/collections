@@ -377,7 +377,13 @@
       "asset": "COCOTRUMPETR"
     },
     {
-      "asset": "COMNCOCOCASH"
+      "asset": "COMNCOCOCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "COUPLESZONE",

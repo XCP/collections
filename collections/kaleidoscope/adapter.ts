@@ -14,6 +14,8 @@ const REVIEWED_BASED_ON = new Map([
   // docs/name-based-derivative-review-2026-10-15-volume-2.json
   ["HAIRYELLEN", "HAIRPEPE"],
   ["HAIRPUNK", "HAIRPEPE"],
+  // docs/name-based-derivative-review-2026-10-15-volume-4.json
+  ["WOJAKUFO", "UFOPEPE"],
 ]);
 // Reviewed original metadata / artwork signatures; see the collection README.
 const REVIEWED_ARTISTS = new Map([

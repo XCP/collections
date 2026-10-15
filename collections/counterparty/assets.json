@@ -16069,6 +16069,10 @@
         {
           "trait_type": "Artist",
           "value": "BBLEIZTZ"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -21362,6 +21366,10 @@
         {
           "trait_type": "Artist",
           "value": "Memeticx"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
         }
       ]
     },
@@ -33541,7 +33549,13 @@
       "asset": "CORNTWISTER"
     },
     {
-      "asset": "CORNUFO"
+      "asset": "CORNUFO",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "UFOPEPE"
+        }
+      ]
     },
     {
       "asset": "CORRECTIVO"
@@ -40661,6 +40675,10 @@
         {
           "trait_type": "Artist",
           "value": "rugAFella"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
         }
       ]
     },
@@ -43754,10 +43772,22 @@
       ]
     },
     {
-      "asset": "RAREPEPEICON"
+      "asset": "RAREPEPEICON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
-      "asset": "RAREPEPEPE"
+      "asset": "RAREPEPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RAREPEPEPINK",
@@ -44206,7 +44236,13 @@
       "asset": "RPSTWENTYTWO"
     },
     {
-      "asset": "RRAREPEPE"
+      "asset": "RRAREPEPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "RRPP"

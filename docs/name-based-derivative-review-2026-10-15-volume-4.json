@@ -1,0 +1,846 @@
+{
+  "date": "2026-10-15",
+  "method": "Side-by-side comparison of original and candidate CDN artwork. Name stems generate leads; shared subject or external source painting does not establish derivation. Use a closer original when directly evident.",
+  "reviewed": [
+    {
+      "original": "RAREPEPE",
+      "candidates": [
+        "RAREPEPEPOET",
+        "RAREPEPESSSQ",
+        "RAREPEPECLUB",
+        "RAREPEPEUSD",
+        "RAREPEPELORE",
+        "URLRAREPEPE",
+        "RAREPEPESOUP",
+        "RAREPEPETEN.ART",
+        "FREERAREPEPE",
+        "RAREPEPEBAG",
+        "RAREPEPEICON",
+        "RAREPEPEPE",
+        "RRAREPEPE",
+        "OXRAREPEPE",
+        "RAREPEPESMOL"
+      ]
+    },
+    {
+      "original": "PEPECASH",
+      "candidates": [
+        "CHIGUICASH",
+        "DESANTISCASH",
+        "BCASHCORN",
+        "BLACKBOX.2021.PEPECASH_Listing_A",
+        "BURNPEPECASH.PoB50",
+        "BURNPEPECASH.FAKEPoB50",
+        "COMNCOCOCASH",
+        "COMMONFORK.PEPECASH",
+        "DEVTHCASHGRB",
+        "PROPSCASHGRB",
+        "PEPECASHGRL",
+        "CLAYCASH.this_is_not_a_moulacoin",
+        "DANKCASHGAN",
+        "EGGSTAMPCASH",
+        "KEKCASH",
+        "MANGACASH",
+        "MRHASHCASH",
+        "PEPACASH",
+        "PEPECASHBURN"
+      ]
+    },
+    {
+      "original": "UFOPEPE",
+      "candidates": [
+        "BLUEBEAR.UFO",
+        "BLUEBEAR.UFO.grab",
+        "UFONAKAMOTO",
+        "ORDINALUFOS",
+        "CORNUFO",
+        "UFOFILM",
+        "UFOWTF",
+        "DABUFO",
+        "DABUFO.klingon",
+        "DANKUFO",
+        "DANKPEPEUFO",
+        "UFOSWAN",
+        "BUFOAPURIUS",
+        "DERPYUFO",
+        "UFOAPE",
+        "FAKEDOSUFO",
+        "WOJAKUFO",
+        "UFOMAFIOSO"
+      ]
+    },
+    {
+      "original": "DANKPEPE",
+      "candidates": [
+        "DANKERIDOO",
+        "DANKFSPEAKER",
+        "BONKLAWDANK",
+        "DANKFARMS.SMOLFRENZ",
+        "DANKWINK",
+        "WHOSTHATDANK",
+        "DANKPRINTER",
+        "DANK.lotus",
+        "DANK.ESTATE",
+        "DANK.uncut",
+        "DANKAKIRA",
+        "DANKMASTERS",
+        "FCKALLDANK",
+        "DANKMUGSHOT",
+        "DANKFROGBAND",
+        "BANKOFDANK",
+        "DANKMINERS",
+        "DANKJOCKEY",
+        "DANKFUME"
+      ]
+    },
+    {
+      "original": "GOXPEPE",
+      "candidates": [
+        "GOXGIRL",
+        "COUPLEGOX",
+        "GOXANDTHEDAO",
+        "SELFGOX",
+        "YOMEGOX",
+        "EGOX",
+        "THUGLIFENOTE.GOX",
+        "THUGLIFENOTE.GOXREV"
+      ]
+    },
+    {
+      "original": "TRUMPRARE",
+      "candidates": [
+        "CHIGUITRUMP",
+        "NAKATRUMP",
+        "QTRUMP",
+        "RALLYTRUMP",
+        "SMOLTRUMP",
+        "TRUMPETIST"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEPOET",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPESSSQ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPECLUB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEUSD",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPELORE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "URLRAREPEPE",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "FRAREPEPEUSD",
+      "status": "media_blocked",
+      "reason": "HTTP 400 / placeholder"
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPESOUP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPETEN.ART",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "FREERAREPEPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEBABY",
+      "status": "media_blocked",
+      "reason": "Rendered preview is blank; inspect animated frames or recover source media before deciding."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEBAG",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEICON",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEPE",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPEZERO",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RRAREPEPE",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "OXRAREPEPE",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "OXRAREPEPE.PIXELMON",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "RAREPEPE",
+      "asset": "RAREPEPESMOL",
+      "status": "accepted",
+      "attributed_original": "RAREPEPE",
+      "reason": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "CHIGUICASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "DESANTISCASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "BCASHCORN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "BLACKBOX.2021.PEPECASH_Listing_A",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "BURNPEPECASH.PoB50",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "BURNPEPECASH.FAKEPoB50",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "COMNCOCOCASH",
+      "status": "accepted",
+      "attributed_original": "PEPECASH",
+      "reason": "Reworks the conspicuous-consumption scene and explicitly adapts the useful-for-buying-houses/cars text with the same card structure."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "COMMONFORK.PEPECASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "DEVTHCASHGRB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "PROPSCASHGRB",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "PEPECASHGRL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "CLAYCASH.this_is_not_a_moulacoin",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "DANKCASHGAN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "EGGSTAMPCASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "KEKCASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "MANGACASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "MRHASHCASH",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "PEPACASH",
+      "status": "accepted",
+      "attributed_original": "PEPECASH",
+      "reason": "Reworks the conspicuous-consumption scene and explicitly adapts the useful-for-buying-houses/cars text with the same card structure."
+    },
+    {
+      "original": "PEPECASH",
+      "asset": "PEPECASHBURN",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "BLUEBEAR.UFO",
+      "status": "accepted",
+      "attributed_original": "UFOPEPE",
+      "reason": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "BLUEBEAR.UFO.grab",
+      "status": "accepted",
+      "attributed_original": "BLUEBEAR.UFO",
+      "reason": "The grab card visibly embeds the blue-bear pilot adaptation of the UFO card, making BLUEBEAR.UFO the closer source."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFONAKAMOTO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "ORDINALUFOS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "FAKEUFO",
+      "status": "media_blocked",
+      "reason": "Rendered preview is blank; inspect animated frames or recover source media before deciding."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "CORNUFO",
+      "status": "accepted",
+      "attributed_original": "UFOPEPE",
+      "reason": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFOFILM",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFOWTF",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "DABUFO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "DABUFO.klingon",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "DANKUFO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "DANKPEPEUFO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFOSWAN",
+      "status": "accepted",
+      "attributed_original": "UFOPEPE",
+      "reason": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "BUFOAPURIUS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "DERPYUFO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFOAPE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "FAKEDOSUFO",
+      "status": "accepted",
+      "attributed_original": "UFOPEPE",
+      "reason": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "WOJAKUFO",
+      "status": "accepted",
+      "attributed_original": "UFOPEPE",
+      "reason": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "original": "UFOPEPE",
+      "asset": "UFOMAFIOSO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKERIDOO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFSPEAKER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "BONKLAWDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFARMS.SMOLFRENZ",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKWINK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "WHOSTHATDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKPRINTER",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANK.lotus",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANK.ESTATE",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANK.uncut",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKAKIRA",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKMASTERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "FCKALLDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKMUGSHOT",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFROGBAND",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "BANKOFDANK",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKMINERS",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKJOCKEY",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "DANKPEPE",
+      "asset": "DANKFUME",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "GOXGIRL",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "COUPLEGOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "GOXANDTHEDAO",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "SELFGOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "YOMEGOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "EGOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "THUGLIFENOTE.GOX",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "THUGLIFENOTE.GOXREV",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "GOXPEPE",
+      "asset": "FAKEGOX.FULLBOW",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "CHIGUITRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "GAMESOFTRUMP",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "NAKATRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "QTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "RALLYTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "RAREQTRUMP",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "SELFIETRUMP",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "SMOLTRUMP",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "SUGARTRUMPY",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPALLY",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPETIST",
+      "status": "rejected",
+      "reason": "No distinctive reuse of this original established by visual comparison; subject, style and name alone are insufficient."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPFORCE",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPKEY",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    },
+    {
+      "original": "TRUMPRARE",
+      "asset": "TRUMPOWER",
+      "status": "ambiguous",
+      "reason": "Possible shared composition or redraw; specific source needs additional evidence."
+    }
+  ],
+  "accepted": [
+    {
+      "asset": "RAREPEPEUSD",
+      "original": "RAREPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/RAREPEPEUSD?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "URLRAREPEPE",
+      "original": "RAREPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/URLRAREPEPE?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "RAREPEPEICON",
+      "original": "RAREPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/RAREPEPEICON?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "RAREPEPEPE",
+      "original": "RAREPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/RAREPEPEPE?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "RRAREPEPE",
+      "original": "RAREPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/RRAREPEPE?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "OXRAREPEPE",
+      "original": "RAREPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/OXRAREPEPE?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "RAREPEPESMOL",
+      "original": "RAREPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/RAREPEPESMOL?image=1",
+      "evidence": "Reuses the Nakamoto card portrait or its distinctive title, layout, creator caption and score panel; includes redraws and a photograph of the card."
+    },
+    {
+      "asset": "COMNCOCOCASH",
+      "original": "PEPECASH",
+      "collection": "common-coco",
+      "image": "https://cdn.xcp.io/img/full/COMNCOCOCASH?image=1",
+      "evidence": "Reworks the conspicuous-consumption scene and explicitly adapts the useful-for-buying-houses/cars text with the same card structure."
+    },
+    {
+      "asset": "PEPACASH",
+      "original": "PEPECASH",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/PEPACASH?image=1",
+      "evidence": "Reworks the conspicuous-consumption scene and explicitly adapts the useful-for-buying-houses/cars text with the same card structure."
+    },
+    {
+      "asset": "BLUEBEAR.UFO",
+      "original": "UFOPEPE",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.UFO?image=1",
+      "evidence": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "asset": "BLUEBEAR.UFO.grab",
+      "original": "BLUEBEAR.UFO",
+      "collection": "blue-bear",
+      "image": "https://cdn.xcp.io/img/full/BLUEBEAR.UFO.grab?image=1",
+      "evidence": "The grab card visibly embeds the blue-bear pilot adaptation of the UFO card, making BLUEBEAR.UFO the closer source."
+    },
+    {
+      "asset": "CORNUFO",
+      "original": "UFOPEPE",
+      "collection": "counterparty",
+      "image": "https://cdn.xcp.io/img/full/CORNUFO?image=1",
+      "evidence": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "asset": "UFOSWAN",
+      "original": "UFOPEPE",
+      "collection": "dank-rares",
+      "image": "https://cdn.xcp.io/img/full/UFOSWAN?image=1",
+      "evidence": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "asset": "FAKEDOSUFO",
+      "original": "UFOPEPE",
+      "collection": "fake-rares",
+      "image": "https://cdn.xcp.io/img/full/FAKEDOSUFO?image=1",
+      "evidence": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    },
+    {
+      "asset": "WOJAKUFO",
+      "original": "UFOPEPE",
+      "collection": "kaleidoscope",
+      "source": "adapter enrichment",
+      "evidence": "Reuses or transforms the distinctive blue saucer with colored lights and domed pilot, with matching exploration text, score or star-field composition."
+    }
+  ],
+  "unapplied": []
+}
