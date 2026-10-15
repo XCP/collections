@@ -11,7 +11,13 @@
       ]
     },
     {
-      "asset": "DANKPARTY.PAINT"
+      "asset": "DANKPARTY.PAINT",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DANKPARTY"
+        }
+      ]
     },
     {
       "asset": "DANKPARTY.PAINT.ROSS",
