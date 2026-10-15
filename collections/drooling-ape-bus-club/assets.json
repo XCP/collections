@@ -1321,6 +1321,10 @@
         {
           "trait_type": "Artist",
           "value": "Remster"
+        },
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
         }
       ]
     },

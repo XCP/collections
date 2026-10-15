@@ -109,7 +109,13 @@
       "asset": "DGROCKTHKO"
     },
     {
-      "asset": "DGSATOSHI"
+      "asset": "DGSATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RAREPEPE"
+        }
+      ]
     },
     {
       "asset": "DGSCALER"

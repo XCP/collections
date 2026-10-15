@@ -941,7 +941,13 @@
       ]
     },
     {
-      "asset": "FAPESATOSHI"
+      "asset": "FAPESATOSHI",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "SATOSHICARD"
+        }
+      ]
     },
     {
       "asset": "FAPESEACK",

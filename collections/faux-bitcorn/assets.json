@@ -329,7 +329,13 @@
       ]
     },
     {
-      "asset": "FAUXCORNCASH"
+      "asset": "FAUXCORNCASH",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPECASH"
+        }
+      ]
     },
     {
       "asset": "FAUXCORNHOLE",
