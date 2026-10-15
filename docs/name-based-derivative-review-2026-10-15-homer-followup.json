@@ -1,12 +1,18 @@
 {
   "date": "2026-10-15",
-  "method": "Fresh full-image comparison of HOMERPEPE, FAUXHOMER and HOMERSWAN. Distinguish HOMERPEPE from PEPEHOMER, which is a different composition. Both candidates directly reference the former; no link between the candidates is asserted.",
+  "method": "Fresh full-image comparison of HOMERPEPE, FAUXHOMER and HOMERSWAN. Distinguish HOMERPEPE from PEPEHOMER, which is a different composition. Both candidates directly reference the former; no link between the candidates is asserted. SATOSHICARD was subsequently compared in full following user correction; preserve both sources for FAUXHOMER.",
   "reviewed": [
     {
       "original": "HOMERPEPE",
       "candidates": [
         "FAUXHOMER",
         "HOMERSWAN"
+      ]
+    },
+    {
+      "original": "SATOSHICARD",
+      "candidates": [
+        "FAUXHOMER"
       ]
     }
   ],
@@ -22,6 +28,12 @@
       "asset": "HOMERSWAN",
       "status": "accepted",
       "reason": "Redraws the distinctive cloud-backed, wide-eyed Homer portrait as a black swan, retaining hair loops, yellow card structure, heart/stat band and Wait a minute caption changed to Swan. The immobilized/beer stat joke directly echoes the original. This supports HOMERPEPE independently of FAUXHOMER."
+    },
+    {
+      "original": "SATOSHICARD",
+      "asset": "FAUXHOMER",
+      "status": "accepted",
+      "reason": "User identified second original, confirmed against full SATOSHICARD: purple hood with silver curling trim and Bitcoin cube imagery, combined with HOMERPEPE face/clouds/caption. A composite with two distinct sources, not a choice between them."
     }
   ],
   "accepted": [
@@ -40,6 +52,14 @@
       "evidence": "Redraws the distinctive cloud-backed, wide-eyed Homer portrait as a black swan, retaining hair loops, yellow card structure, heart/stat band and Wait a minute caption changed to Swan. The immobilized/beer stat joke directly echoes the original. This supports HOMERPEPE independently of FAUXHOMER.",
       "image": "https://cdn.xcp.io/img/full/HOMERSWAN?image=1",
       "source_image": "https://cdn.xcp.io/img/full/HOMERPEPE?image=1"
+    },
+    {
+      "asset": "FAUXHOMER",
+      "collection": "faux-sogs",
+      "original": "SATOSHICARD",
+      "evidence": "User identified second original, confirmed against full SATOSHICARD: purple hood with silver curling trim and Bitcoin cube imagery, combined with HOMERPEPE face/clouds/caption. A composite with two distinct sources, not a choice between them.",
+      "image": "https://cdn.xcp.io/img/full/FAUXHOMER?image=1",
+      "source_image": "https://cdn.xcp.io/img/full/SATOSHICARD?image=1"
     }
   ],
   "unapplied": [],

@@ -115,7 +115,9 @@ namespace.
 A `Based on` trait names the earlier work an asset reworks: another
 project's bootleg, neon, pixel, stamp, flip or papertoy take on a card, or
 a physical edition of it. Its value is the original's asset id and must be
-in the registry. Record it only where the relationship is explicit, such as
+in the registry. Repeat the trait when multiple originals contribute identifiable
+elements; do not combine ids into a comma-separated value. Consumers must preserve
+all references and index the asset under each original. Record it only where the relationship is explicit, such as
 a subasset named after the original (`BOOTLEGPEPE.DJPEPE`), never from
 style alone. Marketplaces link the asset to its original; the trait does
 not change either asset's collection.
@@ -161,7 +163,7 @@ traits are preserved as published. These have registry meaning and checks:
 | `Artist` | string | The work's creator. Repeat it, in order, for a collaboration. One artist has one spelling: values that differ only by case, spacing or punctuation fail validation. Never an address or a placeholder (see `data/blocked-artist-credits.json`). Combined labels such as "A x B" are split into individual credits by `data/collaboration-credits.json`. |
 | `Series`, `Card` | number | A catalogue position, for sets that publish one. |
 | `Art year` | integer, 2014–2100, at most one | The evidenced year the artwork appeared, distinct from asset registration. Use dated artwork/catalogue evidence or corroborated artwork-bearing issuance history; the first metadata URL alone is not sufficient. Reviewed first-use estimates may use the named work, edition history and project context together; document the reasoning and uncertainty. Used to date the work and its artist. |
-| `Based on` | registered asset id, at most one | The earlier work this asset reworks: another project's take on a card, or a physical edition. Record it only where the relationship is explicit (the asset's name embeds the original, or its own metadata says so) and the art confirms it. |
+| `Based on` | registered asset id; repeat for distinct originals | The earlier work this asset reworks: another project's take on a card, or a physical edition. Record it only where the relationship is explicit (the asset's name embeds the original, or its own metadata says so) and the art confirms it. |
 
 An entry omits `attributes` when it has none and omits `primary` unless it is
 `false`; validation rejects the no-op forms in reviewed files.
