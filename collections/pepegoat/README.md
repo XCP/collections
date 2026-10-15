@@ -10,7 +10,7 @@
 | Primary memberships | 1 |
 | Secondary or curated memberships | 1 |
 | Source | Reviewed static `assets.json` |
-| Traits | Artist: 2/2 (100%) |
+| Traits | Artist: 2/2 (100%)<br>Based on: 1/2 (50%) |
 <!-- collection-facts:end -->
 
 Illustrated Rare Pepe parent and exact WIZARD_X_GOAT remix. Preserve parent primary and both collaboration artists.

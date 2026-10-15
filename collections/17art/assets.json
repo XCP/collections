@@ -232,7 +232,13 @@
       ]
     },
     {
-      "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON"
+      "asset": "GAMESOFTRUMP.HOUSEOFTHEDRAGON",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "GAMESOFTRUMP"
+        }
+      ]
     },
     {
       "asset": "GODARMOR",
