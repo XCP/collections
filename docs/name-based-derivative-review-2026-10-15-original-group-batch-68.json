@@ -1,0 +1,195 @@
+{
+  "date": "2026-10-15",
+  "method": "Four first-frame sheets and three animation sheets inspected. Four animations including PEPEJPN original sampled at four spaced positions; all three PEPHEARTSKEV frames included. Longer animations not exhaustively reviewed. Source-specific comparisons only.",
+  "reviewed": [
+    {
+      "original": "LIBERTYPEPE",
+      "volume_usd": 22030.060761809233,
+      "buyers": 106,
+      "candidates": [
+        "LIBERTYAPE",
+        "LIBERTYONE",
+        "LIBERTYTRUMP",
+        "LIBERTYWOJAK",
+        "MSTRPEPES.LIBERTYLEADINGTHEPEPES",
+        "NEWLIBERTY",
+        "PEPALIBERTY",
+        "POTUSTRUMP.LIBERTYGOLD",
+        "POTUSTRUMP.LIBERTYPLATINUM"
+      ]
+    },
+    {
+      "original": "HEARTSPEPE",
+      "volume_usd": 22354.217701131518,
+      "buyers": 32,
+      "candidates": [
+        "HEARTSXCP",
+        "PEPEPIDOU.ASSOFHEARTS",
+        "PEPHEARTSKEV"
+      ]
+    },
+    {
+      "original": "PEPEHEMAN",
+      "volume_usd": 22129.959317732268,
+      "buyers": 18,
+      "candidates": [
+        "SHEMANPEPE"
+      ]
+    },
+    {
+      "original": "PEPEJPN",
+      "volume_usd": 21836.381319040327,
+      "buyers": 27,
+      "candidates": [
+        "TTBJPN"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "POTUSTRUMP.LIBERTYPLATINUM",
+      "pages": 200,
+      "sampled_frames": [
+        0,
+        66,
+        133,
+        199
+      ]
+    },
+    {
+      "asset": "POTUSTRUMP.LIBERTYGOLD",
+      "pages": 200,
+      "sampled_frames": [
+        0,
+        66,
+        133,
+        199
+      ]
+    },
+    {
+      "asset": "PEPHEARTSKEV",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "PEPEJPN",
+      "pages": 23,
+      "sampled_frames": [
+        0,
+        7,
+        15,
+        22
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "LIBERTYAPE",
+      "status": "rejected",
+      "reason": "Ape head with liberty crown before burning flag. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "LIBERTYONE",
+      "status": "rejected",
+      "reason": "Pink/green frog DJ graphic. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "LIBERTYTRUMP",
+      "status": "rejected",
+      "reason": "Trump-style frog circular badge and quotation. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "LIBERTYWOJAK",
+      "status": "rejected",
+      "reason": "Blue Statue of Liberty Wojak painting. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "MSTRPEPES.LIBERTYLEADINGTHEPEPES",
+      "status": "rejected",
+      "reason": "Liberty Leading the People-style battle painting. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "NEWLIBERTY",
+      "status": "rejected",
+      "reason": "Playing card with hooded silhouette. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "PEPALIBERTY",
+      "status": "rejected",
+      "reason": "Close-up rendered frog Statue of Liberty. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "POTUSTRUMP.LIBERTYGOLD",
+      "status": "rejected",
+      "reason": "Rotating gold presidential plaque. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "LIBERTYPEPE",
+      "asset": "POTUSTRUMP.LIBERTYPLATINUM",
+      "status": "rejected",
+      "reason": "Rotating silver presidential plaque. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-LIBERTYPEPE-0.png"
+    },
+    {
+      "original": "HEARTSPEPE",
+      "asset": "HEARTSXCP",
+      "status": "rejected",
+      "reason": "Low-resolution heart emblem image; not source crowned standing king portrait. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-HEARTSPEPE-0.png"
+    },
+    {
+      "original": "HEARTSPEPE",
+      "asset": "PEPEPIDOU.ASSOFHEARTS",
+      "status": "rejected",
+      "reason": "Red heart/buttocks symbol on black card. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-HEARTSPEPE-0.png"
+    },
+    {
+      "original": "HEARTSPEPE",
+      "asset": "PEPHEARTSKEV",
+      "status": "rejected",
+      "reason": "Two characters riding bicycle. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-HEARTSPEPE-0.png"
+    },
+    {
+      "original": "PEPEHEMAN",
+      "asset": "SHEMANPEPE",
+      "status": "rejected",
+      "reason": "Pink-haired frog portrait, not He-Man warrior with tiger. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEHEMAN-0.png"
+    },
+    {
+      "original": "PEPEJPN",
+      "asset": "TTBJPN",
+      "status": "rejected",
+      "reason": "Tokyo tower photograph and Thank You text, not frog/penguin toilet scene. No specific source artwork reuse in inspected imagery; shared statue, heart, franchise or geographic theme alone insufficient.",
+      "evidence_sheet": "sheets/group-PEPEJPN-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 14,
+    "accepted": 0,
+    "rejected": 14
+  }
+}
