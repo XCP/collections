@@ -52,7 +52,13 @@
       "asset": "CHAUSSETTE"
     },
     {
-      "asset": "CHERSOCK"
+      "asset": "CHERSOCK",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "CHERPEPEFOIL"
+        }
+      ]
     },
     {
       "asset": "COCKSOCK"
