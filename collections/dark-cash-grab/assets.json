@@ -20,7 +20,13 @@
       ]
     },
     {
-      "asset": "DARKCASHGRAB.FTX"
+      "asset": "DARKCASHGRAB.FTX",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "DARKCASHGRAB"
+        }
+      ]
     },
     {
       "asset": "DARKCASHGRAB.LA.FAKA.WONT.STANDBY"
