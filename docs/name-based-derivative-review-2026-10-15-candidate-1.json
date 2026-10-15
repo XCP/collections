@@ -1,0 +1,377 @@
+{
+  "date": "2026-10-15",
+  "method": "Candidate-centric gallery:24 unique candidate first frames shown once alongside all30 proposed originals. All six sheets inspected. Not exhaustive animation review. Rejections only apply to exact proposed sources.",
+  "reviewed": [
+    {
+      "original": "MYFIRSTPEPE",
+      "candidates": [
+        "MYFIRSTDANK"
+      ]
+    },
+    {
+      "original": "PEPEGUEVARA",
+      "candidates": [
+        "GUEVARAPEPE"
+      ]
+    },
+    {
+      "original": "PEPEELITE",
+      "candidates": [
+        "DANKRAVES.ELITE"
+      ]
+    },
+    {
+      "original": "GOKUPEPE",
+      "candidates": [
+        "LFGPEPEFAKER.RAREGOKU"
+      ]
+    },
+    {
+      "original": "PEPEGOKU",
+      "candidates": [
+        "LFGPEPEFAKER.RAREGOKU"
+      ]
+    },
+    {
+      "original": "FAKERPEPE",
+      "candidates": [
+        "LFGPEPEFAKER.RAREGOKU"
+      ]
+    },
+    {
+      "original": "PEPESHADES",
+      "candidates": [
+        "HODLTRUMPS.SHADES"
+      ]
+    },
+    {
+      "original": "SHADEPEPE",
+      "candidates": [
+        "HODLTRUMPS.SHADES"
+      ]
+    },
+    {
+      "original": "PEPEPEACOCK",
+      "candidates": [
+        "PEACOCKCARD"
+      ]
+    },
+    {
+      "original": "PEPEHOMER",
+      "candidates": [
+        "HOMERPEPE"
+      ]
+    },
+    {
+      "original": "RAREGROYPER",
+      "candidates": [
+        "PEPEPHOCKS.GROYPER"
+      ]
+    },
+    {
+      "original": "PEPESCREAM",
+      "candidates": [
+        "PHOCKHORROR.SCREAM"
+      ]
+    },
+    {
+      "original": "PEPECREAM",
+      "candidates": [
+        "PHOCKHORROR.SCREAM"
+      ]
+    },
+    {
+      "original": "PEPESCREAM",
+      "candidates": [
+        "TORTURE.SCREAM"
+      ]
+    },
+    {
+      "original": "PEPECREAM",
+      "candidates": [
+        "TORTURE.SCREAM"
+      ]
+    },
+    {
+      "original": "PEPEDHARMA",
+      "candidates": [
+        "DHARMADANK"
+      ]
+    },
+    {
+      "original": "PEPEMIRO",
+      "candidates": [
+        "FAKESOONMIRO.FAKEMIRO"
+      ]
+    },
+    {
+      "original": "PEPEMIRO",
+      "candidates": [
+        "IMITATIONS.MIRO"
+      ]
+    },
+    {
+      "original": "CUBEPEPE",
+      "candidates": [
+        "FAKECUBE"
+      ]
+    },
+    {
+      "original": "CUBEPEPE",
+      "candidates": [
+        "VADAMKADMON.THE_GENESIS_CUBE"
+      ]
+    },
+    {
+      "original": "THEPEPE",
+      "candidates": [
+        "VADAMKADMON.THE_GENESIS_CUBE"
+      ]
+    },
+    {
+      "original": "STONEPEPE",
+      "candidates": [
+        "KEYCAPEPE.STONE"
+      ]
+    },
+    {
+      "original": "STONEPEPE",
+      "candidates": [
+        "PRUNED.STONE"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "candidates": [
+        "PHOCKANONZ.ANON"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "candidates": [
+        "PLEBZ.ANON"
+      ]
+    },
+    {
+      "original": "PEPEANON",
+      "candidates": [
+        "ZEROPHOCKSII.ANON"
+      ]
+    },
+    {
+      "original": "DROPPEPE",
+      "candidates": [
+        "PEPEDROP"
+      ]
+    },
+    {
+      "original": "VIKINGSPEPE",
+      "candidates": [
+        "VIKINGS"
+      ]
+    },
+    {
+      "original": "PEPEFAUCET",
+      "candidates": [
+        "VADAMKADMON.BTC_FAUCET"
+      ]
+    },
+    {
+      "original": "PEPEHUNTER",
+      "candidates": [
+        "HUNTERCARD"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "asset": "MYFIRSTDANK",
+      "original": "MYFIRSTPEPE",
+      "status": "rejected",
+      "reason": "Different painted face versus illustrated book-cover painter."
+    },
+    {
+      "asset": "GUEVARAPEPE",
+      "original": "PEPEGUEVARA",
+      "status": "rejected",
+      "reason": "Shared external Che portrait; different frog face and layout."
+    },
+    {
+      "asset": "DANKRAVES.ELITE",
+      "original": "PEPEELITE",
+      "status": "rejected",
+      "reason": "Gold emblem versus multiarmed trader."
+    },
+    {
+      "asset": "LFGPEPEFAKER.RAREGOKU",
+      "original": "GOKUPEPE",
+      "status": "rejected",
+      "reason": "Different Goku pose/scene or unrelated approval card; no source-specific reuse."
+    },
+    {
+      "asset": "LFGPEPEFAKER.RAREGOKU",
+      "original": "PEPEGOKU",
+      "status": "rejected",
+      "reason": "Different Goku pose/scene or unrelated approval card; no source-specific reuse."
+    },
+    {
+      "asset": "LFGPEPEFAKER.RAREGOKU",
+      "original": "FAKERPEPE",
+      "status": "rejected",
+      "reason": "Different Goku pose/scene or unrelated approval card; no source-specific reuse."
+    },
+    {
+      "asset": "HODLTRUMPS.SHADES",
+      "original": "PEPESHADES",
+      "status": "rejected",
+      "reason": "Sunglasses object versus frog portraits; shared accessory only."
+    },
+    {
+      "asset": "HODLTRUMPS.SHADES",
+      "original": "SHADEPEPE",
+      "status": "rejected",
+      "reason": "Sunglasses object versus frog portraits; shared accessory only."
+    },
+    {
+      "asset": "PEACOCKCARD",
+      "original": "PEPEPEACOCK",
+      "status": "rejected",
+      "reason": "Different peacock scene and rendering."
+    },
+    {
+      "asset": "HOMERPEPE",
+      "original": "PEPEHOMER",
+      "status": "rejected",
+      "reason": "Different external Homer/Pepe drawings."
+    },
+    {
+      "asset": "PEPEPHOCKS.GROYPER",
+      "original": "RAREGROYPER",
+      "status": "rejected",
+      "reason": "Generic Groyper pose without source egg/caption details."
+    },
+    {
+      "asset": "PHOCKHORROR.SCREAM",
+      "original": "PEPESCREAM",
+      "status": "rejected",
+      "reason": "Ghostface pixel figure versus ice cream or lotion."
+    },
+    {
+      "asset": "PHOCKHORROR.SCREAM",
+      "original": "PEPECREAM",
+      "status": "rejected",
+      "reason": "Ghostface pixel figure versus ice cream or lotion."
+    },
+    {
+      "asset": "TORTURE.SCREAM",
+      "original": "PEPESCREAM",
+      "status": "rejected",
+      "reason": "Munch-style painted face versus ice cream or lotion."
+    },
+    {
+      "asset": "TORTURE.SCREAM",
+      "original": "PEPECREAM",
+      "status": "rejected",
+      "reason": "Munch-style painted face versus ice cream or lotion."
+    },
+    {
+      "asset": "DHARMADANK",
+      "original": "PEPEDHARMA",
+      "status": "rejected",
+      "reason": "Buddha scene versus daruma emblem."
+    },
+    {
+      "asset": "FAKESOONMIRO.FAKEMIRO",
+      "original": "PEPEMIRO",
+      "status": "rejected",
+      "reason": "Different Miro-style imagery versus sculptural portrait."
+    },
+    {
+      "asset": "IMITATIONS.MIRO",
+      "original": "PEPEMIRO",
+      "status": "rejected",
+      "reason": "Different Miro-style imagery versus sculptural portrait."
+    },
+    {
+      "asset": "FAKECUBE",
+      "original": "CUBEPEPE",
+      "status": "rejected",
+      "reason": "Painted red/green geometric cube versus unfolding animated frog cube."
+    },
+    {
+      "asset": "VADAMKADMON.THE_GENESIS_CUBE",
+      "original": "CUBEPEPE",
+      "status": "rejected",
+      "reason": "Ornamental cube versus unfolding frog cube or book cover."
+    },
+    {
+      "asset": "VADAMKADMON.THE_GENESIS_CUBE",
+      "original": "THEPEPE",
+      "status": "rejected",
+      "reason": "Ornamental cube versus unfolding frog cube or book cover."
+    },
+    {
+      "asset": "KEYCAPEPE.STONE",
+      "original": "STONEPEPE",
+      "status": "rejected",
+      "reason": "Frog on rock versus stone-textured face."
+    },
+    {
+      "asset": "PRUNED.STONE",
+      "original": "STONEPEPE",
+      "status": "rejected",
+      "reason": "Bitcoin stone emblem versus stone-textured face."
+    },
+    {
+      "asset": "PHOCKANONZ.ANON",
+      "original": "PEPEANON",
+      "status": "rejected",
+      "reason": "Shared external Anonymous mask; different figure and background."
+    },
+    {
+      "asset": "PLEBZ.ANON",
+      "original": "PEPEANON",
+      "status": "rejected",
+      "reason": "Different painted Anonymous portrait."
+    },
+    {
+      "asset": "ZEROPHOCKSII.ANON",
+      "original": "PEPEANON",
+      "status": "ambiguous",
+      "reason": "Blurred first-frame image; animation detail needed before ruling out source reuse."
+    },
+    {
+      "asset": "PEPEDROP",
+      "original": "DROPPEPE",
+      "status": "rejected",
+      "reason": "Parachute drop scene versus money-burning portrait."
+    },
+    {
+      "asset": "VIKINGS",
+      "original": "VIKINGSPEPE",
+      "status": "rejected",
+      "reason": "Football helmet versus Viking warrior."
+    },
+    {
+      "asset": "VADAMKADMON.BTC_FAUCET",
+      "original": "PEPEFAUCET",
+      "status": "rejected",
+      "reason": "Computer faucet scene versus frog close-up."
+    },
+    {
+      "asset": "HUNTERCARD",
+      "original": "PEPEHUNTER",
+      "status": "rejected",
+      "reason": "Fantasy hunter in snow versus psychedelic forest."
+    }
+  ],
+  "accepted": [],
+  "additional_leads": [
+    {
+      "asset": "FAKESOONMIRO.FAKEMIRO",
+      "original": "IMITATIONS.MIRO",
+      "status": "pending",
+      "reason": "Same blue-circle/red-mouth composition with added scribbles; not PEPEMIRO. Establish direction and closer source separately."
+    }
+  ]
+}
