@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-15",
+  "method": "Three first-frame sheets and three animation sheets viewed. Eight animations sampled at four spaced positions; all three HOLYPEPE frames viewed, others not exhaustive. HOLYPILL enlarged to distinguish shared religious iconography from direct reuse.",
+  "reviewed": [
+    {
+      "original": "RAREPEPENEWS",
+      "volume_usd": 2378.983700294705,
+      "buyers": 277,
+      "candidates": [
+        "CPNEWS",
+        "CRYPTONEWS",
+        "DGNEWS",
+        "GOODNEWSMAN",
+        "GRANITENEWS",
+        "NEWSAPP",
+        "NEWSHITCOINS",
+        "TABLOIDPEPE.LAFAKANEWS",
+        "THETIMESNEWS",
+        "XNEWS"
+      ]
+    },
+    {
+      "original": "PEPEBUSTER",
+      "volume_usd": 560.8218075697184,
+      "buyers": 6,
+      "candidates": [
+        "BBUSTERPEPE",
+        "FROGBUSTERS"
+      ]
+    },
+    {
+      "original": "HOLYPEPE",
+      "volume_usd": 15388.17386434844,
+      "buyers": 183,
+      "candidates": [
+        "FEELSHOLYMAN",
+        "FLOONEYBIN.FHOLYBIN",
+        "HOLYDENSITY",
+        "HOLYNAKA",
+        "HOLYNAKA.GLDTOTER",
+        "HOLYNFT",
+        "HOLYPEPEMOLY",
+        "HOLYPILL",
+        "HOLYROSARY",
+        "HOLYSHARP",
+        "HOLYVIRGIN",
+        "JAHAIR.HOLYPHANT",
+        "THEHOLYGRAIL.MIAMI",
+        "UNHOLYCOW",
+        "UNHOLYKEK"
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "asset": "RAREPEPENEWS",
+      "pages": 11,
+      "sampled_frames": [
+        0,
+        3,
+        7,
+        10
+      ]
+    },
+    {
+      "asset": "GOODNEWSMAN",
+      "pages": 60,
+      "sampled_frames": [
+        0,
+        20,
+        39,
+        59
+      ]
+    },
+    {
+      "asset": "GRANITENEWS",
+      "pages": 187,
+      "sampled_frames": [
+        0,
+        62,
+        124,
+        186
+      ]
+    },
+    {
+      "asset": "FROGBUSTERS",
+      "pages": 13,
+      "sampled_frames": [
+        0,
+        4,
+        8,
+        12
+      ]
+    },
+    {
+      "asset": "HOLYPEPE",
+      "pages": 3,
+      "sampled_frames": [
+        0,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "asset": "HOLYPEPEMOLY",
+      "pages": 36,
+      "sampled_frames": [
+        0,
+        12,
+        23,
+        35
+      ]
+    },
+    {
+      "asset": "HOLYDENSITY",
+      "pages": 122,
+      "sampled_frames": [
+        0,
+        40,
+        81,
+        121
+      ]
+    },
+    {
+      "asset": "UNHOLYKEK",
+      "pages": 6,
+      "sampled_frames": [
+        0,
+        2,
+        3,
+        5
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "CPNEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "CRYPTONEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "DGNEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "GOODNEWSMAN",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "GRANITENEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "NEWSAPP",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "NEWSHITCOINS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "TABLOIDPEPE.LAFAKANEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "THETIMESNEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "RAREPEPENEWS",
+      "asset": "XNEWS",
+      "status": "rejected",
+      "reason": "No reuse of the typewriter journalist image, layout or news-reporting text; newspaper subject/name overlap alone is insufficient.",
+      "evidence_sheet": "sheets/group-RAREPEPENEWS-0.png"
+    },
+    {
+      "original": "PEPEBUSTER",
+      "asset": "BBUSTERPEPE",
+      "status": "rejected",
+      "reason": "No reuse of the open-mouthed Pepe caught in the prohibition sign with trap below. FROGBUSTERS shares the external Ghostbusters logo reference but has different frog art and poster composition.",
+      "evidence_sheet": "sheets/group-PEPEBUSTER-0.png"
+    },
+    {
+      "original": "PEPEBUSTER",
+      "asset": "FROGBUSTERS",
+      "status": "rejected",
+      "reason": "No reuse of the open-mouthed Pepe caught in the prohibition sign with trap below. FROGBUSTERS shares the external Ghostbusters logo reference but has different frog art and poster composition.",
+      "evidence_sheet": "sheets/group-PEPEBUSTER-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "FEELSHOLYMAN",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "FLOONEYBIN.FHOLYBIN",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYDENSITY",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYNAKA",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYNAKA.GLDTOTER",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYNFT",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYPEPEMOLY",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYPILL",
+      "status": "rejected",
+      "reason": "Enlarged image shows a bishop giving a pill to a kneeling adult, different poses, drawing and scene from all three HOLYPEPE frames. Red/blue robes and halos are shared iconography, not distinctive reuse.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png",
+      "evidence_image": "previews/HOLYPILL-detail.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYROSARY",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYSHARP",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "HOLYVIRGIN",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "JAHAIR.HOLYPHANT",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "THEHOLYGRAIL.MIAMI",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "UNHOLYCOW",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    },
+    {
+      "original": "HOLYPEPE",
+      "asset": "UNHOLYKEK",
+      "status": "rejected",
+      "reason": "No reuse of the three-panel nativity, Pieta or resurrection drawings. Shared religious iconography is insufficient.",
+      "evidence_sheet": "sheets/group-HOLYPEPE-0.png"
+    }
+  ],
+  "summary": {
+    "comparisons": 27,
+    "accepted": 0,
+    "rejected": 27
+  }
+}
