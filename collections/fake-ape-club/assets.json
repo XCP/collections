@@ -1680,7 +1680,13 @@
       "asset": "REVERBAPE"
     },
     {
-      "asset": "RGBPEPAPE"
+      "asset": "RGBPEPAPE",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RGBPEPE"
+        }
+      ]
     },
     {
       "asset": "RICHFAKEAPE"
