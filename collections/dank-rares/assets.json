@@ -492,6 +492,10 @@
         {
           "trait_type": "Card",
           "value": 5
+        },
+        {
+          "trait_type": "Based on",
+          "value": "ONSENPEPE"
         }
       ]
     },
@@ -15555,6 +15559,10 @@
         {
           "trait_type": "Card",
           "value": 5
+        },
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
         }
       ]
     },
@@ -29965,6 +29973,10 @@
         {
           "trait_type": "Card",
           "value": 8
+        },
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPIZZA"
         }
       ]
     },
