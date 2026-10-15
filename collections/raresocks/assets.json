@@ -301,7 +301,13 @@
       ]
     },
     {
-      "asset": "SMUGSOCKS"
+      "asset": "SMUGSOCKS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "RARESMUG"
+        }
+      ]
     },
     {
       "asset": "SOCKACHU",
