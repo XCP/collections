@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-15",
+  "method": "All five artworks enlarged and compared directly; FAKANDINSKY all three animation frames previously viewed in batch27, TRASHCAPTCHA four of five frames in batch28. Visual reuse of specific face/character composition establishes links, not shared artist style. On-chain linked-media chronology corroborates direction.",
+  "decisions": [
+    {
+      "asset": "TRASHCAPTCHA",
+      "original": "IHEARTTRASH",
+      "collection": "darkfarms",
+      "status": "accepted",
+      "reason": "Exact hand-drawn bin, blue wheel/handle, tongue and TRASH ART V2 lettering inserted into a captcha composition; source media February 13 precedes candidate February 16, 2022.",
+      "evidence_images": [
+        "previews/TRASHCAPTCHA-detail.png",
+        "previews/IHEARTTRASH-detail.png"
+      ]
+    },
+    {
+      "asset": "FAKANDINSKY",
+      "original": "KANDINSKYPEP",
+      "collection": "counterparty",
+      "status": "accepted",
+      "reason": "Exact eye-circle and mouth composition reused with a closed eyelid, cigarette and color-cycle animation. Source linked JSON July 2017 precedes candidate GIF November 2021.",
+      "evidence_images": [
+        "previews/FAKANDINSKY-detail.png",
+        "previews/KANDINSKYPEP-detail.png"
+      ]
+    },
+    {
+      "asset": "KEKANDINSKY",
+      "original": "KANDINSKYPEP",
+      "collection": "fake-commons",
+      "status": "accepted",
+      "reason": "Redraw retains the distinctive two green eye-circles and face placement within the same abstract composition, substituting spiral eyes and a curved grin. It does not retain FAKANDINSKY cigarette or closed eye; source July 2017 precedes candidate May 2022.",
+      "evidence_images": [
+        "previews/KEKANDINSKY-detail.png",
+        "previews/KANDINSKYPEP-detail.png"
+      ]
+    }
+  ],
+  "issuance_evidence": [
+    {
+      "asset": "TRASHCAPTCHA",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "92db6c3b5b9e4674257393f73d8a97cc02372c3e2f31b7ff43052c5a8ad72d20",
+            "block_index": 948082,
+            "block_time": 1778017358,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://vsicunq5qgsgn3up4nvknbcbbyubbfcb37xi3yhflpowwxllx2rq.arweave.net/rJAqNh2BpGbuj-NqpoRBDigQlEHf7o3g5Vvda11rvqM?filename=data.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "e7eef44c4d385d4ae8fe2af2b2e70f6b987e42f7417250adf4d4c24706fa738c",
+            "block_index": 723619,
+            "block_time": 1645027285,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/7vu6lp/TRASHCAPTCHA.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "901b1b93b97d5298dc99afdae68028f8b2cc1a1b75779a70be29ca199af702f3",
+            "block_index": 723613,
+            "block_time": 1645025000,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/oeJc7tG.png; Perfect match perfect match for ScrillaVentura & DEFSTALKR",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4d1efa4e662121b611170f216567171a6e43dade5bfe449d3081a2ecc3cb979a",
+            "block_index": 723612,
+            "block_time": 1645024782,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "99",
+            "description": "imgur/oeJc7tG.png; Perfect match perfect match for ScrillaVentura & DEFSTALKR",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "IHEARTTRASH",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "ef6cec24c5127aae832207f003b6b4410070f4eb596835cd6394b8aec93dbdbb",
+            "block_index": 948043,
+            "block_time": 1777994367,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://ad6v72zm42yi6x5tevr74gevwy2qntq7feuvpf6fzgwhpdlzyq2q.arweave.net/AP1f6yzmsI9fsyVj_hiVtjUGzh8pKVeXxcmsd415xDU?filename=data.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "92478d548b1d93ed8182f5cc71881f0e5eb136935e564919df8068f6df9bf824",
+            "block_index": 723104,
+            "block_time": 1644760618,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://2lf7yq6g7brp5ymtxxeo4uhkkqn7fqzoizfq3rfpdfshx2qjtrea.arweave.net/0sv8Q8b4Yv7hk73I7lDqVBvywy5GSw3Erxlke-oJnEg/IHEARTTRASH.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "69bca555a77317ef54f5f479779881a246aebe5b68fc9cae73c6fdf96479b9a3",
+            "block_index": 723066,
+            "block_time": 1644737655,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "imgur/JvcfEut.png; Much love trashart, frens",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "07a2b68faa3b7213deeff33531d28f1475817e997019c7b1229082dd7bf09ffd",
+            "block_index": 723064,
+            "block_time": 1644737092,
+            "source": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "issuer": "1DRZVQe58Tr9WxDNYdJUbye3toH1zkedX",
+            "transfer": 0,
+            "quantity_normalized": "99",
+            "description": "imgur/JvcfEut.png; Much love trashart, frens",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "FAKANDINSKY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "37a50135e771e64592ed176f1c778d63c7a31ee94f69b7dac460a69b55b7f748",
+            "block_index": 709241,
+            "block_time": 1636639033,
+            "source": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "issuer": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://fakeasf.club/assets/FAKANDINKSY/FAKANDINKSY.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "9ac532dd9117458a0d7ed01b1a3610671c6491f9f16d4748ee350946ae88bbc2",
+            "block_index": 709213,
+            "block_time": 1636624989,
+            "source": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "issuer": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://fakeasf.club/assets/FAKANDINKSY/FAKANDINKSY.json",
+            "asset_events": "change_description",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "a1800fa749aa1287e29264b0d3fe5c3e44770ff48988614cc922a4707cc1bc63",
+            "block_index": 709208,
+            "block_time": 1636623330,
+            "source": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "issuer": "1PQvEgAv7LsjbBKdWDemmoWG8bAWXULUZ3",
+            "transfer": 0,
+            "quantity_normalized": "150",
+            "description": "imgur/DdNbS6A.gif",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "KEKANDINSKY",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "dfbc5b171e4b83209857b6fe0f46b2ef08b74397c4059be666980bd2d1fdbc64",
+            "block_index": 734816,
+            "block_time": 1651632937,
+            "source": "1P3VN3mZdmrmvEZVeYWhjw1KYspjMcGUn5",
+            "issuer": "1P3VN3mZdmrmvEZVeYWhjw1KYspjMcGUn5",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "https://easyasset.art/j/7vbgbb/KEKANDINSKY.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "1b89ae47b51c9114108a60245738f9f639b86d3b88cd1486d0c9e86a3f78d04e",
+            "block_index": 734807,
+            "block_time": 1651629822,
+            "source": "1P3VN3mZdmrmvEZVeYWhjw1KYspjMcGUn5",
+            "issuer": "1P3VN3mZdmrmvEZVeYWhjw1KYspjMcGUn5",
+            "transfer": 0,
+            "quantity_normalized": "69",
+            "description": "https://easyasset.art/j/7vbgbb/KEKANDINSKY.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    },
+    {
+      "asset": "KANDINSKYPEP",
+      "issuances": {
+        "result": [
+          {
+            "tx_hash": "ceac9bd7bf369bbe590aec40797b63f22b5f30664ed149ab2e992c9298603753",
+            "block_index": 477720,
+            "block_time": 1501111601,
+            "source": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "issuer": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "res.indiesquare.me/json/KANDINSKYPEP.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "4c06b6d7ada634cbbc10d991099da8af486c2fba21fbf8138edb596d52c4cb1c",
+            "block_index": 477720,
+            "block_time": 1501111601,
+            "source": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "issuer": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "transfer": 0,
+            "quantity_normalized": "0",
+            "description": "res.indiesquare.me/json/KANDINSKYPEP.json",
+            "asset_events": "lock_quantity",
+            "status": "valid"
+          },
+          {
+            "tx_hash": "f0efd877cd4306dd9e7aacc1adaa3d1e1af3919effbef7f094ea9eb7ec9e08a1",
+            "block_index": 477675,
+            "block_time": 1501087822,
+            "source": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "issuer": "16GRo5x4sxf5hQ1HzVUhCAfNEXWyBxhjXs",
+            "transfer": 0,
+            "quantity_normalized": "150",
+            "description": "res.indiesquare.me/json/KANDINSKYPEP.json",
+            "asset_events": "creation",
+            "status": "valid"
+          }
+        ],
+        "next_offset": null
+      }
+    }
+  ],
+  "summary": {
+    "comparisons": 3,
+    "accepted": 3
+  }
+}
