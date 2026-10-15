@@ -19,7 +19,13 @@
       ]
     },
     {
-      "asset": "HIPPIEPEPE.2024"
+      "asset": "HIPPIEPEPE.2024",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HIPPIEPEPE"
+        }
+      ]
     }
   ]
 }

@@ -280,7 +280,13 @@
       "asset": "DERPYTOPGUN"
     },
     {
-      "asset": "DABPEANUTS"
+      "asset": "DABPEANUTS",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PEPEPEANUTS"
+        }
+      ]
     },
     {
       "asset": "DIRTYAPE",
