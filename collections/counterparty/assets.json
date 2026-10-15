@@ -37673,7 +37673,13 @@
       "asset": "HOMEROPEN"
     },
     {
-      "asset": "HOMERPEPA"
+      "asset": "HOMERPEPA",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "HOMERPEPE"
+        }
+      ]
     },
     {
       "asset": "HOMERPEPEXYZ",
