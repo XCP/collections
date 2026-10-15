@@ -272,7 +272,13 @@
       "asset": "FAKEIMF"
     },
     {
-      "asset": "FAKEPBOC"
+      "asset": "FAKEPBOC",
+      "attributes": [
+        {
+          "trait_type": "Based on",
+          "value": "PBOCPEPE"
+        }
+      ]
     },
     {
       "asset": "FAKESNB"
