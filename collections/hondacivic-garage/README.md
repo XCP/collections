@@ -6,11 +6,11 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 12 assets |
-| Primary memberships | 12 |
+| Membership | 14 assets |
+| Primary memberships | 14 |
 | Secondary or curated memberships | 0 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Car: 12/12 (100%)<br>Card: 12/12 (100%)<br>Series: 12/12 (100%)<br>Tier: 12/12 (100%) |
+| Traits | Car: 14/14 (100%)<br>Card: 14/14 (100%)<br>Series: 14/14 (100%)<br>Tier: 14/14 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from the garage's own public mint API

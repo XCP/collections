@@ -12,6 +12,8 @@ on:
       - "package.json"
       - ".github/workflows/publish.yml"
   workflow_dispatch:
+  schedule:
+    - cron: "43 7 * * *"
 
 permissions:
   contents: read
@@ -37,10 +39,20 @@ jobs:
         run: node .github/check-source-coverage.ts
       - name: Run adapter tests
         run: node .github/run-tests.ts
-      - name: Export marketplace manifest
-        run: node scripts/export.ts
+      - name: Download published baseline
+        run: curl --fail --silent --show-error --max-time 60 --max-filesize 25000000 https://xcp.github.io/collections/collections.json --output "$RUNNER_TEMP/published.json"
+      - name: Measure and export marketplace manifest
+        run: node scripts/measure-sources.ts --baseline "$RUNNER_TEMP/published.json"
+      - name: Upload source measurement
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: source-measurement
+          path: dist/source-measurement.json
+          retention-days: 30
+          if-no-files-found: warn
       - name: Create Pages archive
-        run: tar --dereference --hard-dereference --directory dist -cvf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
+        run: tar --dereference --hard-dereference --directory dist -cvf "$RUNNER_TEMP/artifact.tar" collections.json
       - name: Upload Pages artifact
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
