@@ -7,7 +7,7 @@ import { isCounterpartyAssetId } from "#lib/collection-source";
 // membership list.
 const MINT_URL = "https://milliondollarbillboard.net/api/garage/mint";
 const MAX_CARDS = 2_500;
-const CARD_ID = /^HONDACIVIC\.S(\d{1,4})\.(\d{4,6})$/;
+const CARD_ID = /^HONDACIVIC\.S(\d{1,4})\.(\d{4,6}|CHAMPION)$/;
 
 // Replaced by the integer Series/Card traits derived from the card identity,
 // or a chain fact consumers derive themselves.
@@ -28,7 +28,7 @@ function countAt(value, path) {
 function traitsOf(card, path, season, number) {
   const attributes = [
     { trait_type: "Series", value: season },
-    { trait_type: "Card", value: number },
+    ...(number === null ? [] : [{ trait_type: "Card", value: number }]),
   ];
   // Since October 2026 gallery cards carry their headline fields instead of the
   // full attribute list (which stays on the per-card endpoint). Keep the stable
@@ -70,11 +70,27 @@ function traitsOf(card, path, season, number) {
 
 export async function load({ fetchJson }) {
   if (typeof fetchJson !== "function") throw new Error("adapter requires the injected fetchJson helper");
-  const response = objectAt(
-    await fetchJson(MINT_URL, { timeoutMs: 20_000, maxBytes: 10_000_000, maxRedirects: 2 }),
-    "response",
-  );
+  const options = { timeoutMs: 20_000, maxBytes: 10_000_000, maxRedirects: 2 };
+  const current = objectAt(await fetchJson(MINT_URL, options), "response");
+  const rules = objectAt(current.rules, "response.rules");
+  if (!Array.isArray(rules.edition_seasons) || rules.edition_seasons.length === 0 || rules.edition_seasons.length > 100) {
+    throw new Error("response.rules.edition_seasons must contain 1–100 seasons");
+  }
+  const seasons = [...new Set(rules.edition_seasons.map((v, i) => countAt(v, `edition_seasons[${i}]`)))];
+  const assets = [];
+  for (const season of seasons) {
+    const response = objectAt(await fetchJson(`${MINT_URL}?season=${season}`, options), "response");
+    if (response.season !== season) throw new Error(`requested season ${season}, received ${response.season}`);
+    const entries = parseSeason(response);
+    if (entries.some((entry) => entry.season !== season)) throw new Error(`gallery contains cards outside season ${season}`);
+    assets.push(...entries);
+    if (assets.length > MAX_CARDS) throw new Error(`all seasons exceed ${MAX_CARDS} cards`);
+  }
+  return assets.sort((a, b) => a.season - b.season || (a.number ?? 0) - (b.number ?? 0))
+    .map(({ asset, attributes }) => ({ asset, attributes }));
+}
 
+function parseSeason(response) {
   const rules = objectAt(response.rules, "response.rules");
   if (rules.asset !== "HONDACIVIC") throw new Error("response.rules.asset must be HONDACIVIC");
   if (!Array.isArray(rules.edition_seasons) || rules.edition_seasons.length === 0) {
@@ -104,13 +120,14 @@ export async function load({ fetchJson }) {
       throw new Error(`${path}.asset ${card.asset} is not a HONDACIVIC.S<season>.<number> card`);
     }
     const cardSeason = Number(match[1]);
-    const number = Number(match[2]);
+    const number = match[2] === "CHAMPION" ? null : Number(match[2]);
+    if (number === null && card.champion !== true) throw new Error(`${path} champion identity requires champion flag`);
     // The card name carries its season; the API's own season field is optional
     // (it was dropped from gallery cards in October 2026) but must agree if sent.
     if (card.season !== undefined && card.season !== cardSeason) {
       throw new Error(`${path}.season disagrees with ${card.asset}`);
     }
-    if (card.mint_no !== number) throw new Error(`${path}.mint_no disagrees with ${card.asset}`);
+    if (card.mint_no !== (number ?? 0)) throw new Error(`${path}.mint_no disagrees with ${card.asset}`);
     if (seen.has(card.asset)) throw new Error(`${path} duplicates ${card.asset}`);
     seen.add(card.asset);
     if (typeof card.status !== "string") throw new Error(`${path}.status must be a string`);
@@ -125,7 +142,5 @@ export async function load({ fetchJson }) {
     throw new Error(`gallery has ${assets.length} delivered cards, stats report ${delivered}`);
   }
 
-  return assets
-    .sort((a, b) => a.season - b.season || a.number - b.number)
-    .map(({ asset, attributes }) => ({ asset, attributes }));
+  return assets;
 }
