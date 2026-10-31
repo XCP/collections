@@ -14,7 +14,12 @@ function serve(response) {
     requested,
     fetchJson: async (url, options) => {
       requested.push({ url, options });
-      return structuredClone(response);
+      const copy = structuredClone(response);
+      const season = new URL(url).searchParams.get("season");
+      if (season !== null && Array.isArray(copy.gallery)) {
+        copy.season = Number(season);
+      }
+      return copy;
     },
   };
 }
@@ -23,7 +28,7 @@ test("reads delivered cards from the garage API with Series/Card from the card i
   const { requested, fetchJson } = serve(fixture);
   const assets = await load({ collection: "hondacivic-garage", fetchJson, cache: new Map() });
 
-  assert.equal(requested.length, 1);
+  assert.equal(requested.length, 2);
   assert.equal(requested[0].url, "https://milliondollarbillboard.net/api/garage/mint");
   assert.deepEqual(
     assets.map((entry) => entry.asset),
@@ -79,35 +84,25 @@ test("fails closed when the identity and the card's own fields disagree", async 
   await assert.rejects(load({ fetchJson: serve(renamed).fetchJson }), /is not a HONDACIVIC/);
 });
 
-test("accepts delivered cards from every listed season", async () => {
-  const response = structuredClone(fixture);
-  response.season = 2;
-  response.rules.edition_seasons = [1, 2];
-  const next = structuredClone(response.gallery[0]);
-  next.asset = "HONDACIVIC.S2.0001";
-  next.season = 2;
-  next.mint_no = 1;
-  next.attributes = next.attributes.map((attribute) => {
-    if (attribute.trait_type === "Season") return { ...attribute, value: "2" };
-    if (attribute.trait_type === "Mint number") return { ...attribute, value: "#1" };
-    return attribute;
-  });
-  response.gallery.unshift(next);
-  response.stats.pulled = 4;
-  response.stats.delivered = 4;
-
-  const assets = await load({ fetchJson: serve(response).fetchJson });
-  assert.deepEqual(
-    assets.map((entry) => entry.asset),
-    ["HONDACIVIC.S1.0001", "HONDACIVIC.S1.0002", "HONDACIVIC.S1.0006", "HONDACIVIC.S2.0001"],
-  );
-  assert.deepEqual(assets[3].attributes.slice(0, 2), [
-    { trait_type: "Series", value: 2 },
-    { trait_type: "Card", value: 1 },
-  ]);
-
-  response.rules.edition_seasons = [2];
-  await assert.rejects(load({ fetchJson: serve(response).fetchJson }), /season 1 is not in/);
+test("fetches prior seasons after the default gallery rolls over, including champion cards", async () => {
+  const old = structuredClone(fixture);
+  old.season = 1;
+  old.rules.edition_seasons = [1, 2];
+  old.gallery.push({ asset: "HONDACIVIC.S1.CHAMPION", champion: true, mint_no: 0, status: "delivered" });
+  old.stats.pulled++; old.stats.delivered++;
+  const current = structuredClone(old);
+  current.season = 2;
+  current.gallery = [{ asset: "HONDACIVIC.S2.0001", mint_no: 1, status: "delivered" }];
+  current.stats.pulled = 1; current.stats.delivered = 1;
+  const fetchJson = async (url) => structuredClone(url.endsWith("?season=1") ? old : current);
+  const assets = await load({ fetchJson });
+  assert.equal(assets.length, 5);
+  assert.ok(assets.some(a => a.asset === "HONDACIVIC.S1.0001"));
+  assert.ok(assets.some(a => a.asset === "HONDACIVIC.S2.0001"));
+  assert.ok(!assets.find(a => a.asset.endsWith("CHAMPION")).attributes.some(t => t.trait_type === "Card"));
+  await assert.rejects(load({ fetchJson: async () => current }), /requested season 1/);
+  old.stats.pulled++;
+  await assert.rejects(load({ fetchJson }), /pulled cards/);
 });
 
 test("fails closed on a malformed response", async () => {

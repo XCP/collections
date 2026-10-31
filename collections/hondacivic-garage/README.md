@@ -6,17 +6,18 @@
 | Field | Value |
 | --- | --- |
 | Type | Canonical collection |
-| Membership | 14 assets |
-| Primary memberships | 14 |
+| Membership | 26 assets |
+| Primary memberships | 26 |
 | Secondary or curated memberships | 0 |
 | Source | Collection-operated `adapter.ts` |
-| Traits | Car: 14/14 (100%)<br>Card: 14/14 (100%)<br>Series: 14/14 (100%)<br>Tier: 14/14 (100%) |
+| Traits | Car: 26/26 (100%)<br>Card: 25/26 (96.2%)<br>Series: 26/26 (100%)<br>Tier: 26/26 (100%) |
 <!-- collection-facts:end -->
 
 Membership is read from the garage's own public mint API
-(`https://milliondollarbillboard.net/api/garage/mint`) by `adapter.ts`. Every
-delivered card is a `HONDACIVIC.S<season>.<number>` subasset. `Series` and
-`Card` come from that identity; the other traits are the ones committed and
+(`https://milliondollarbillboard.net/api/garage/mint`) by `adapter.ts`. The adapter requests each season explicitly: the default endpoint shows only
+the current season. Delivered cards are `HONDACIVIC.S<season>.<number>`
+subassets, plus the explicitly flagged `HONDACIVIC.S<season>.CHAMPION` award. `Series` and
+`Card` come from that identity (Champion has no numeric Card trait); the other traits are the ones committed and
 inscribed at mint. Empty slots registered ahead of a pull, pulled cards not
 yet delivered, and the HONDACIVIC currency itself are not members.
 
